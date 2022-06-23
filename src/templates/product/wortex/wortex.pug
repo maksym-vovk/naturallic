@@ -1,0 +1,84 @@
+- var PRODUCT_CARD = LANG.product_card;
+- var WORTEX = LANG.wortex;
+
+section.product-item
+	.container
+		.product-item__breadcrumbs.breadcrumbs
+			a.breadcrumbs__link(href="/")!=PRODUCT_CARD.product_card_bread_main
+			span.breadcrumbs__line /
+			a.breadcrumbs__link(href="catalog.html")!=PRODUCT_CARD.product_card_bread_catalog
+			span.breadcrumbs__line /
+			a.breadcrumbs__link(href="catalog.html?id=health")!=WORTEX.wortex_category
+			span.breadcrumbs__line /
+			span.breadcrumbs__main!=WORTEX.wortex_title
+		.product-item__wrapper
+			.product-item__slider.slider-prod
+				.slider-prod__nav.js-slider-product-nav
+					.slider-prod__nav-item
+						img(src="img/wortex.png", alt="Wortex")
+					.slider-prod__nav-item
+						img(src="img/wortex.png", alt="Wortex")
+					.slider-prod__nav-item
+						img(src="img/wortex.png", alt="Wortex")
+				.slider-prod__for.js-slider-product-for
+					.slider-prod__for-item
+						img(src="img/wortex.png", alt="Wortex")
+					.slider-prod__for-item
+						img(src="img/wortex.png", alt="Wortex")
+					.slider-prod__for-item
+						img(src="img/wortex.png", alt="Wortex")
+			.product-item__info
+				h2.product-item__name!=WORTEX.wortex_title
+				.product-item__rating
+					.product-item__rating-stars
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star-empty-2.svg", alt="")
+					p.product-item__rating-text!=WORTEX.wortex_review_count
+				ul.product-item__list.product-list
+					li.product-list__item
+						!=PRODUCT_CARD.product_niche
+						!=WORTEX.wortex_niche
+					li.product-list__item
+						!=PRODUCT_CARD.product_form_factor
+						!=WORTEX.wortex_form_factor
+				button.product-item__btn.button.button--green.js-show-frame-popup!=PRODUCT_CARD.product_btn
+				p.product-item__text!=WORTEX.wortex_short_description
+				.product-item__description.js-accordeon
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_description
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=WORTEX.wortex_description
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_compound
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=WORTEX.wortex_compound
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_usage
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=WORTEX.wortex_usage
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_contraindications
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=WORTEX.wortex_contraindications
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_additional
+							i.fico.fico-cross
+						.specification__text.js-info-accordeon
+							.product-list
+								li.product-list__item
+									!=PRODUCT_CARD.product_manufacturer
+									!=WORTEX.wortex_manufacturer
+								li.product-list__item.mb
+									!=PRODUCT_CARD.product_suitability
+									!=WORTEX.wortex_suitability
+								li.product-list__item
+									!=PRODUCT_CARD.product_keep
+									!=WORTEX.wortex_keep

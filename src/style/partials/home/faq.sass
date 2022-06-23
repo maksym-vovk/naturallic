@@ -1,0 +1,88 @@
+.faq
+	padding-top: 54px
+	padding-bottom: 100px
+	+r(1249)
+		padding-bottom: 50px
+	+r(1023)
+		padding-top: 40px
+	+r(767)
+		padding-top: 30px
+		padding-bottom: 40px
+	+r(639)
+		padding-top: 20px
+	+r(479)
+		padding-bottom: 20px
+	&__title
+		margin-bottom: 91px
+		+r(1249)
+			margin-bottom: 70px
+		+r(1023)
+			margin-bottom: 40px
+		+r(767)
+			margin-bottom: 30px
+		+r(639)
+			margin-bottom: 20px
+
+
+
+.question
+	border-bottom: 1px solid #000000
+	font-family: 'Inter'
+	padding: 0 24px
+	&:hover
+		.fico
+			color: #6F1DF4
+	+r(767)
+		padding: 0 20px
+	+r(639)
+		padding: 0 15px
+	+r(479)
+		padding: 0 5px
+	&__top
+		display: flex
+		align-items: center
+		justify-content: space-between
+		cursor: pointer
+		height: 88px
+		&.active
+			.fico
+				transform: rotate(90deg)
+		+r(1023)
+			height: 70px
+		+r(767)
+			height: 65px
+		+r(639)
+			height: 60px
+		+r(479)
+			padding: 10px 0
+			height: auto
+	&__ttl
+		font-weight: bold
+		font-size: 18px
+		line-height: 120%
+		+r(1023)
+			font-size: 17px
+		+r(767)
+			font-size: 16px
+		+r(479)
+			margin-right: 10px
+	&__text
+		font-size: 16px
+		line-height: 28px
+		color: $grey
+		display: none
+		padding-bottom: 33px
+		i
+			font-style: italic
+		+r(1023)
+			padding-bottom: 20px
+			line-height: 1.4
+		+r(767)
+			font-size: 15px
+		+r(479)
+			padding-bottom: 15px
+	.fico
+		transition: all .3s
+		font-size: 12px
+		color: #47AD4D
+

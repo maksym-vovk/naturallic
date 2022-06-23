@@ -1,0 +1,17 @@
+include ../../mixins/review
+include ../../data/reviews_ash_be_forte
+
+section.product-reviews
+	.container
+		h2.product-reviews__title.title Отзывы
+		p.product-reviews__count-text Всего 
+			span.js-reviews-all 0
+		.product-reviews__wrapper
+			.product-reviews__list.js-reviews-show-list
+				each review in ashBeForteArrayFull
+					+review(review)
+		p.product-reviews__count.js-catalog-count
+			span.js-reviews-show 4
+			|  из  
+			span.js-reviews-all 0
+		button.product-reviews__btn.btn.js-btn-reviews Показать больше

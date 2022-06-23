@@ -1,0 +1,252 @@
+.product-item
+	padding-top: 179px
+	padding-bottom: 50px
+	+r(1023)
+		padding-top: 160px
+		padding-bottom: 40px
+	+r(639)
+		padding-top: 140px
+	+r(479)
+		padding-top: 100px
+		padding-bottom: 30px
+	&__breadcrumbs
+		margin-bottom: 64px
+		+r(1023)
+			margin-bottom: 50px
+		+r(639)
+			margin-bottom: 30px
+		+r(374)
+			margin-bottom: 20px
+	&__wrapper
+		display: flex
+		align-items: flex-start
+		justify-content: space-between
+		+r(1023)
+			display: block
+	&__slider
+		max-width: 700px
+		width: 100%
+		margin-left: -28px
+		+r(1249)
+			max-width: 580px
+			margin-left: 0
+		+r(1023)
+			margin: auto
+			margin-bottom: 30px
+		+r(767)
+			max-width: 620px
+	&__info
+		margin-top: -7px
+		font-size: 16px
+		line-height: 20px
+		max-width: 388px
+		width: 100%
+		font-family: 'Roboto', Arial, Helvetica, sans-serif
+		+r(1023)
+			max-width: 100%
+	&__name
+		font-weight: bold
+		font-size: 40px
+		line-height: 1
+		letter-spacing: -0.005em
+		color: $dark-grey
+		display: block
+		&:first-letter
+			text-transform: uppercase
+		+r(479)
+			font-size: 36px
+	&__desc
+		font-weight: bold
+		line-height: 18px
+		color: $dark-grey
+		margin-bottom: 12px
+	&__rating
+		display: flex
+		align-items: center
+		margin-bottom: 13px
+	&__rating-stars
+		margin-right: 9px
+		line-height: 0
+	&__rating-text
+		font-weight: 300
+		line-height: 18px
+		color: $dark-grey
+	&__list
+		margin-bottom: 40px
+		+r(1249)
+			margin-bottom: 25px
+		+r(479)
+			margin-bottom: 20px
+	&__btn
+		margin-bottom: 50px
+		max-width: 278px
+		line-height: 53px
+		font-weight: bold
+		text-transform: capitalize
+		+r(1249)
+			margin-bottom: 25px
+		+r(479)
+			max-width: 100%
+			margin-bottom: 20px
+	&__text
+		color: $dark-grey
+		padding-bottom: 43px
+		border-bottom: 1px solid #000000
+		margin-bottom: 15px
+		+r(1249)
+			padding-bottom: 25px
+		+r(479)
+			padding-bottom: 20px
+			margin-bottom: 10px
+
+.product-list
+	&__item
+		span
+			color: #A4A4A4
+		&.mb
+			margin-bottom: 20px
+
+.specification
+	color: $dark-grey
+	padding-bottom: 20px
+	border-bottom: 1px solid #000000
+	+nlt
+		margin-bottom: 20px
+	+r(1249)
+		padding-bottom: 15px
+		+nlt
+			margin-bottom: 15px
+	+r(479)
+		padding-bottom: 10px
+		+nlt
+			margin-bottom: 10px
+	&__top
+		display: flex
+		align-items: center
+		justify-content: space-between
+		cursor: pointer
+		&.active
+			.fico
+				transform: rotate(45deg)
+	&__ttl
+		font-weight: 500
+	&__text
+		margin-top: 20px
+		display: none
+		&:first-letter
+			text-transform: uppercase
+		+r(479)
+			margin-top: 10px
+	.fico
+		transition: all .3s
+		font-size: 9px
+
+
+.slider-prod
+	display: flex
+	align-items: flex-start
+	+r(639)
+		flex-direction: column-reverse
+		align-items: center
+	&__for
+		height: 518px
+		width: 518px
+		background: #F4F3F5
+		display: flex
+		align-items: center
+		justify-content: center
+		+r(1249)
+			width: 430px
+			height: 430px
+		+r(1023)
+			width: 424px
+			height: 424px
+		+r(639)
+			width: 360px
+			height: 360px
+			margin-bottom: 15px
+		+r(479)
+			width: 330px
+			height: 330px
+		+r(374)
+			width: 290px
+			height: 290px
+			margin-bottom: 10px
+	&__for-item
+		img
+			width: 400px
+			height: 400px
+			+object-fit(contain)
+			margin: auto
+		+r(1249)
+			img
+				width: 340px
+				height: 340px
+		+r(639)
+			img
+				width: 280px
+				height: 280px
+		+r(374)
+			img
+				width: 240px
+				height: 240px
+	&__nav
+		display: flex !important
+		flex-direction: column
+		margin-right: 12px
+		.slick-list
+			padding: 0 !important
+		.slick-slide
+			display: inline-block
+		.slick-track
+			transform: none !important
+			display: flex !important
+			flex-direction: column
+		+r(1249)
+			.slick-track
+				width: 143px !important
+		+r(1023)
+			.slick-track
+				width: 141px !important
+		+r(639)
+			margin-right: 0
+			.slick-track
+				width: 360px !important
+				flex-direction: row
+		+r(479)
+			.slick-track
+				width: 330px !important
+		+r(374)
+			.slick-track
+				width: 290px !important
+	&__nav-item
+		width: 172px !important
+		height: 172px
+		display: flex !important
+		align-items: center
+		justify-content: center
+		&.slick-current
+			border: 1px solid #BDCEAD
+		img
+			width: 100px
+			height: 100px
+			+object-fit(contain)
+			margin: auto
+		+r(1249)
+			width: 143px !important
+			height: 143px
+		+r(1023)
+			width: 141px !important
+			height: 141px
+		+r(639)
+			width: 120px !important
+			height: 120px
+			img
+				width: 70px
+				height: 70px
+		+r(479)
+			width: 110px !important
+			height: 110px
+		+r(374)
+			width: 96px !important
+			height: 96px

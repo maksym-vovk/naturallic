@@ -1,0 +1,222 @@
+.categories
+	padding-bottom: 100px
+	+r(1023)
+		padding-bottom: 50px
+	+r(767)
+		padding-bottom: 40px
+	+r(639)
+		padding-bottom: 30px
+	&__title
+		margin-bottom: 46px
+		+r(639)
+			margin-bottom: 30px
+	&__list
+		display: flex
+		align-items: flex-start
+		justify-content: space-between
+		+r(767)
+			flex-wrap: wrap
+	
+
+.category
+	position: relative
+	max-width: 495px
+	width: 100%
+	&
+		.category
+			&__back
+				top: 293px
+				left: -225px
+		&:hover
+			.category
+				&__back
+					bottom: 13px
+					left: 13px
+					top: 13px
+	&
+		.category
+			&__back
+				top: -5px
+				left: 182px
+				bottom: 13px
+		&:hover
+			.category
+				&__back
+					top: 13px
+					left: 13px
+	&:hover
+		.category
+			&__back
+				pointer-events: visible
+				background: white
+				box-shadow: 0px 6px 11px rgba(0, 0, 0, 0.1)
+			&__title
+				padding: 0
+				border: 1px solid $white
+			&__bottom
+				opacity: 1
+	+r(1249)
+		max-width: 230px
+		&:nth-of-type(even)
+			&:hover
+				.category
+					&__back
+						bottom: 9px
+	+r(1023)
+		flex-shrink: 0
+		max-width: 160px
+		&:nth-of-type(even)
+			margin-top: 230px
+			.category
+				&__back
+					left: -176px
+					top: 186px
+			&:hover
+				.category
+					&__back
+						left: 9px
+						top: 13px
+		&:nth-of-type(odd)
+			.category
+				&__back
+					left: 130px
+					top: 0px
+			&:hover
+				.category
+					&__back
+						top: 13px
+						left: 9px
+	+r(767)
+		max-width: 220px
+		&:nth-of-type(-n+2)
+			margin-bottom: 30px
+		&:nth-of-type(even)
+			margin-top: 100px
+			.category
+				&__back
+					top: 266px
+	+r(639)
+		max-width: 200px
+		&:nth-of-type(even)
+			.category
+				&__back
+					top: 236px
+	+r(479)
+		max-width: 48%
+		&:nth-of-type(odd)
+			.category
+				&__back
+					left: 68%
+			&:hover
+				.category
+					&__back
+						right: auto
+						top: 5px
+						left: 5px
+						z-index: 10
+		&:nth-of-type(even)
+			.category
+				&__back
+					bottom: auto
+					left: auto
+					top: 77%
+					right: 80%
+			&:hover
+				.category
+					&__back
+						left: auto
+						top: 5px
+						right: 5px
+	+r(374)
+		max-width: 200px
+		&:nth-of-type(odd)
+			.category
+				&__back
+					left: 48%
+		&:nth-of-type(even)
+			margin-top: 0
+			margin-left: auto
+			.category
+				&__back
+					right: 46%
+		&:nth-of-type(-n+3)
+			margin-bottom: 20px
+	&__back
+		position: absolute
+		width: 270px
+		padding: 23px
+		transition: all .3s
+		pointer-events: none
+		z-index: 1
+		display: flex
+		flex-direction: column
+		align-items: flex-start
+		min-height: 385px
+		+r(1249)
+			min-height: 350px
+		+r(1023)
+			width: 180px
+			padding: 10px
+			min-height: 250px
+		+r(767)
+			width: 220px
+			padding: 20px
+			min-height: 340px
+		+r(639)
+			width: 200px
+			min-height: 305px
+		+r(479)
+			width: 215px
+			min-height: 100%
+	&__title
+		font-family: 'Roboto', Arial, Helvetica, sans-serif
+		font-weight: 500
+		font-size: 32px
+		line-height: 42px
+		text-transform: uppercase
+		color: $grey
+		border: 1px solid $grey
+		padding: 6px 25px
+		transition: all .3s ease-in-out
+		display: inline-block
+		+r(1249)
+			font-size: 30px
+			line-height: 38px
+		+r(1023)
+			font-size: 22px
+			line-height: 1.2
+			padding: 6px 15px
+		+r(767)
+
+	&__bottom
+		margin-top: 26px
+		opacity: 0
+		transition: all .3s ease-in-out
+		height: 100%
+		display: flex
+		flex-direction: column
+		+r(1249)
+			margin-top: 20px
+		+r(1023)
+			margin-top: 10px
+	&__desc
+		font-family: 'Jura'
+		font-size: 22px
+		line-height: 23px
+		letter-spacing: -0.055em
+		color: #8B8F8F
+		margin-bottom: 40px
+		+r(1249)
+			margin-bottom: 30px
+		+r(1023)
+			font-size: 17px
+			line-height: 1.2
+			margin-bottom: 13px
+		+r(767)
+			font-size: 18px
+	&__btn
+		font-weight: bold
+		letter-spacing: -0.05em
+		margin-top: auto
+		+r(1023)
+			max-width: 100%

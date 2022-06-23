@@ -1,0 +1,15 @@
+section.product-reviews
+	.container
+		h2.product-reviews__title.title Отзывы
+		p.product-reviews__count-text Всего 
+			span.js-reviews-all 0
+		.product-reviews__wrapper
+			.product-reviews__list.product-reviews__list--show.js-reviews-show-list
+				//- include ../reviews-list
+			.product-reviews__list.product-reviews__list--hide.js-reviews-hide-list
+				//- include ../reviews-list
+		p.product-reviews__count.js-catalog-count
+			span.js-reviews-show 0
+			|  из  
+			span.js-reviews-all 0
+		button.product-reviews__btn.btn.js-btn-reviews Показать больше

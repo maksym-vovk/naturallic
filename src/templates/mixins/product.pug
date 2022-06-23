@@ -1,0 +1,14 @@
+mixin product(item)
+	.product.js-product
+		p.product__label!= item.label
+		.product__wrap-photo
+			img(src=item.srcPhoto, alt="")
+		p.product__name!= item.name
+		.product__rating
+			.product__rating-stars
+				each star in item.stars
+					div(class="product__rating-star " + star.type)
+						img(src=star.src, alt="star")
+			p.product__rating-text!= item.text
+		p.product__desc!= item.desc
+		a.product__btn(href=item.link) ПОДРОБНЕЕ

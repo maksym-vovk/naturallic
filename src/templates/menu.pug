@@ -1,0 +1,24 @@
+- var MENU = LANG.menu;
+
+.nav
+	.container
+		.nav__wrap
+			a.nav__logo(href="/")
+				img(src="img/svg/logo.svg", alt="Vitaliss")
+			.nav__right
+				ul.nav__menu.menu
+					li.menu__item
+						a.menu__link(href="catalog.html")!=MENU.menu_title_catalog
+					li.menu__item
+						a.menu__link(href="about.html")!=MENU.menu_title_about_us
+					li.menu__item
+						a.menu__link(href="contacts.html")!=MENU.menu_title_contacts
+					li.menu__item
+						a.menu__link(href="#")!=MENU.menu_title_review
+				.nav__btn-wrap
+					a.nav__link-tel(href=MENU.menu_phone)!=MENU.menu_phone
+					button.nav__btn.btn.js-show-popup(title=MENU.menu_title_btn data-target="#popup")!=MENU.menu_title_btn
+				.burger.js-burger(data-target="#js-mobile-menu")
+					span.burger__line
+					span.burger__line
+					span.burger__line

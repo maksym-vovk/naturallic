@@ -1,0 +1,9 @@
+- var REVIEWS = LANG.home.reviews;
+section.reviews
+	.container
+		h2.reviews__title.title!=REVIEWS.reviews_block_title
+		.reviews__info
+			p.reviews__count!=REVIEWS.reviews_block_total
+		.reviews__list.js-slider-reviews
+			include reviews-list
+		a.reviews__btn.btn(href="reviews.html")!=REVIEWS.reviews_block_view_all

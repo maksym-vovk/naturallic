@@ -1,0 +1,87 @@
+include ../../mixins/frame-popup
+
+- var PRODUCT_CARD = LANG.product_card;
+- var DIALINE = LANG.dialine;
++frame_popup(framepopup)
+section.product-item
+	.container
+		.product-item__breadcrumbs.breadcrumbs
+			a.breadcrumbs__link(href="/")!=PRODUCT_CARD.product_card_bread_main
+			span.breadcrumbs__line /
+			a.breadcrumbs__link(href="catalog.html")!=PRODUCT_CARD.product_card_bread_catalog
+			span.breadcrumbs__line /
+			a.breadcrumbs__link(href="catalog.html?id=health")!=DIALINE.dialine_category
+			span.breadcrumbs__line /
+			span.breadcrumbs__main!=DIALINE.dialine_title
+		.product-item__wrapper
+			.product-item__slider.slider-prod
+				.slider-prod__nav.js-slider-product-nav
+					.slider-prod__nav-item
+						img(src="img/dialine.png", alt="dialine")
+					.slider-prod__nav-item
+						img(src="img/dialine.png", alt="dialine")
+					.slider-prod__nav-item
+						img(src="img/dialine.png", alt="dialine")
+				.slider-prod__for.js-slider-product-for
+					.slider-prod__for-item
+						img(src="img/dialine.png", alt="dialine")
+					.slider-prod__for-item
+						img(src="img/dialine.png", alt="dialine")
+					.slider-prod__for-item
+						img(src="img/dialine.png", alt="dialine")
+			.product-item__info
+				h2.product-item__name!=DIALINE.dialine_title
+				//p.product-item__desc
+				.product-item__rating
+					.product-item__rating-stars
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+					p.product-item__rating-text!=DIALINE.dialine_review_count
+				ul.product-item__list.product-list
+					li.product-list__item
+						!=PRODUCT_CARD.product_niche
+						!=DIALINE.dialine_niche
+					li.product-list__item
+						!=PRODUCT_CARD.product_form_factor
+						!=DIALINE.dialine_form_factor
+				button.product-item__btn.button.button--green.js-show-frame-popup(data-src=DIALINE.dialine_frame_link)!=PRODUCT_CARD.product_btn
+				p.product-item__text!=DIALINE.dialine_short_description
+				.product-item__description.js-accordeon
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_description
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=DIALINE.dialine_description
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_compound
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=DIALINE.dialine_compound
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_usage
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=DIALINE.dialine_usage
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_contraindications
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=DIALINE.dialine_contraindications
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_additional
+							i.fico.fico-cross
+						.specification__text.js-info-accordeon
+							.product-list
+								li.product-list__item
+									!=PRODUCT_CARD.product_manufacturer
+									!=DIALINE.dialine_manufacturer
+								li.product-list__item.mb
+									!=PRODUCT_CARD.product_suitability
+									!=DIALINE.dialine_suitability
+								li.product-list__item
+									!=PRODUCT_CARD.product_keep
+									!=DIALINE.dialine_keep
