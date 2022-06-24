@@ -66,7 +66,7 @@
       "header_block_btn": "ПОДРОБНЕЕ"
     },
     "hits_block": {
-      "hits_block_title": "Хиты продаж"
+      "hits_block_title": "Хит"
     },
     "category": {
       "category_block_title": "Популярные категории",
@@ -104,7 +104,7 @@
   },
   "hits": [
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/biorecin.png",
       "name": "Biorecin",
       "stars": [
@@ -134,7 +134,7 @@
       "link": "biorecin.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/dialine.png",
       "name": "Dialine",
       "stars": [
@@ -164,7 +164,7 @@
       "link": "dialine.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/hondrexil.png",
       "name": "Hondreksil",
       "stars": [
@@ -185,7 +185,7 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-2.svg",
+          "src": "img/svg/star-empty-1.svg",
           "type": "empty-2"
         }
       ],
@@ -194,7 +194,7 @@
       "link": "hondreksil.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/lipocarnit.png",
       "name": "Lipocarnit",
       "stars": [
@@ -215,7 +215,7 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-3.svg",
+          "src": "img/svg/star-empty-1.svg",
           "type": "empty-3"
         }
       ],
@@ -224,7 +224,7 @@
       "link": "lipocarnit.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/normaten.png",
       "name": "Normaten",
       "stars": [
@@ -254,7 +254,7 @@
       "link": "normaten.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/otovix.png",
       "name": "Otovix",
       "stars": [
@@ -275,7 +275,7 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-3.svg",
+          "src": "img/svg/star-empty-1.svg",
           "type": "empty-3"
         }
       ],
@@ -284,7 +284,7 @@
       "link": "otovix.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/oculax.png",
       "name": "Oculax",
       "stars": [
@@ -314,7 +314,7 @@
       "link": "oculax.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/wortex.png",
       "name": "Wortex",
       "stars": [
@@ -335,7 +335,7 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-2.svg",
+          "src": "img/svg/star-empty-1.svg",
           "type": "empty-2"
         }
       ],
@@ -344,7 +344,7 @@
       "link": "wortex.html"
     },
     {
-      "label": "Хиты продаж",
+      "label": "Хит",
       "srcPhoto": "img/urotrin.png",
       "name": "Urotrin",
       "stars": [
@@ -365,7 +365,7 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-2.svg",
+          "src": "img/svg/star-empty-1.svg",
           "type": "empty-2"
         }
       ],
