@@ -1,15 +1,19 @@
 .about
 	padding-top: 64px
 	padding-bottom: 150px
-	background: url('../img/about_bg.jpg') no-repeat calc(50% - -480px) bottom
+	background: url('../img/about_bg.jpg') no-repeat calc(50% - -370px) 238px
+	background-size: 650px
 	+r(1249)
 		padding-bottom: 150px
 	+r(1023)
 		padding-top: 50px
 		padding-bottom: 90px
-		background-position: calc(50% - -570px) bottom
+		background-position: calc(50% - -300px) 130px
+		background-size: 500px
 	+r(767)
 		padding-bottom: 50px
+		background-position: calc(50% - -245px) 140px
+		background-size: 400px
 	+r(639)
 		padding-top: 30px
 		padding-bottom: 40px
@@ -24,35 +28,47 @@
 			margin-bottom: 40px
 	&__logo
 		display: block
-		padding-left: 51px
-		margin-bottom: 62px
+		//padding-left: 51px
+		max-width: 537px
+		width: 100%
+		margin-bottom: 170px
 		+r(1249)
-			max-width: 340px
-			padding-left: 0
-			margin-bottom: 50px
+			max-width: 480px
+			margin-bottom: 140px
+			//max-width: 340px
+			//padding-left: 0
+			//margin-bottom: 50px
 		+r(1023)
-			max-width: 240px
-			margin-bottom: 30px
+			max-width: 350px
+			margin-bottom: 80px
 		+r(767)
+			max-width: 300px
+			margin-bottom: 50px
+		+r(639)
+			margin-bottom: 30px
+		+r(479)
 			max-width: 200px
 	&__desc
-		max-width: 561px
+		text-align: justify
+		max-width: 537px
 		width: 100%
-		padding-left: 25px
+		//padding-left: 25px
 		+r(1249)
 			padding-left: 0
-			max-width: 520px
+			max-width: 480px
 		+r(1023)
-			max-width: 460px
+			max-width: 350px
 		+r(767)
-			max-width: 410px
+			text-align: left
+			max-width: 300px
 		+r(639)
 			max-width: 100%
 	&__text
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
 		font-weight: 300
-		font-size: 22px
-		line-height: 30px
+		font-size: 24px
+		line-height: 41px
+		color: $main-green
 		+nlt
 			margin-bottom: 15px
 		&--main

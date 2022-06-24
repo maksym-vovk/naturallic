@@ -3,24 +3,23 @@ include ../data/index
 
 
 -
-	let array = ashBeForteArrayMain.concat(miaflowArrayMain, duoArrayMain, valgocinArrayMain, artexArrayMain, visoplexArrayMain, argosevBioArrayMain,
-	ashwaminArrayMain);
+    let array = ashBeForteArrayMain.concat(miaflowArrayMain, duoArrayMain, valgocinArrayMain, artexArrayMain, visoplexArrayMain, argosevBioArrayMain,
+            ashwaminArrayMain);
 
-	const perChunk = 4;
+    const perChunk = 2;
 
-	const result = array.reduce((resultArray, item, index) => { 
-	const chunkIndex = Math.floor(index/perChunk)
-	if(!resultArray[chunkIndex]) {
-		resultArray[chunkIndex] = []
-	}
-	resultArray[chunkIndex].push(item)
-	return resultArray
-	}, []);
-
+    const result = array.reduce((resultArray, item, index) => {
+        const chunkIndex = Math.floor(index / perChunk)
+        if (!resultArray[chunkIndex]) {
+            resultArray[chunkIndex] = []
+        }
+        resultArray[chunkIndex].push(item)
+        return resultArray
+    }, []);
 
 
 
 each reviews in result
-	.reviews-list
-		each review in reviews
-			+review(review)
+    .reviews-list
+        each review in reviews
+            +review(review)

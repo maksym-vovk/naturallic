@@ -5,11 +5,17 @@ mixin review(review)
 				img.review__photo(src=review.src, alt="")
 				.review__person
 					p.review__name!= review.name
-					.review__rating
-						p.review__rating-name!= review.product
-						.review__rating-stars
-							each star in review.stars
-								img.review__rating-star(src=star, alt="")
+					p.review__desc
+						span.review__mark высказал
+						|
+						| свое мнение про
+						|
+						span.review__product!= review.product
+					//.review__rating
+					//	p.review__rating-name!= review.product
+					//	.review__rating-stars
+					//		each star in review.stars
+					//			img.review__rating-star(src=star, alt="")
 			.review__bottom
 				p.review__text!= review.text
 	else
@@ -18,10 +24,16 @@ mixin review(review)
 				img.review__photo(src=review.src, alt="")
 				.review__person
 					p.review__name!= review.name
-					.review__rating
-						p.review__rating-name!= review.product
-						.review__rating-stars
-							each star in review.stars
-								img.review__rating-star(src=star, alt="")
+					p.review__desc
+						span.review__mark высказал
+						|
+						| свое мнение про
+						|
+						span.review__product!= review.product
+					//.review__rating
+					//	p.review__rating-name!= review.product
+					//	.review__rating-stars
+					//		each star in review.stars
+					//			img.review__rating-star(src=star, alt="")
 			.review__bottom
 				p.review__text!= review.text
