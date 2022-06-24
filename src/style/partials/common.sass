@@ -56,7 +56,6 @@ ul, li
 		padding: 0 15px
 
 
-
 .btn
 	display: block
 	text-decoration: none
@@ -103,6 +102,7 @@ ul, li
 		font-size: 18px
 		line-height: 45px
 
+
 .button
 	display: block
 	text-decoration: none
@@ -113,11 +113,12 @@ ul, li
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	font-size: 20px
 	line-height: 68px
-	color: $white
+	color: $main-green
 	cursor: pointer
 	padding: 0
 	text-transform: uppercase
 	border: none
+	border-radius: 50px
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1)
 	&--red
 		background-image: $red
@@ -125,6 +126,8 @@ ul, li
 		background-image: $green
 	&--yellow
 		background-image: $yellow
+	&--gold
+		background: $gold
 	+r(1023)
 		line-height: 55px
 	+r(767)
@@ -133,6 +136,7 @@ ul, li
 	+r(639)
 		line-height: 40px
 		font-size: 16px
+
 
 .title
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
@@ -430,3 +434,29 @@ ul, li
 		&::first-letter
 			text-transform: uppercase
 
+
+//swiper with scrollbar
+.swiper-slide-prev
+	opacity: 0 !important
+
+.swiper-container-horizontal > .scrollbar
+	width: 267px
+	height: 4px
+	margin: 0 auto
+
+.swiper-scrollbar-drag
+	display: flex
+	justify-content: center
+	align-items: center
+	background: transparent
+	&::after
+		content: ''
+		display: block
+		width: 22px
+		height: 22px
+		background: $gold
+		border-radius: 50%
+		cursor: pointer
+
+.scrollbar
+	background: $light-blue

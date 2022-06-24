@@ -81,25 +81,37 @@ const Sliders = (function () {
       headerSlider.on("init", function (event, slick, direction) {
         headerSlider.addClass("init");
       });
-      headerSlider.slick({
-        dots: true,
-        infinite: true,
-        speed: 500,
-        fade: true,
-        cssEase: "linear",
-        arrows: false,
+      new Swiper('.js-slider-header', {
+        direction: "horizontal",
+        slidesPerView: 1,
         autoplay: true,
-        autoplaySpeed: 5000,
-        initialSlide: 0,
-        responsive: [
-          {
-            breakpoint: 480,
-            settings: {
-              adaptiveHeight: true,
-            },
-          },
-        ],
+        effect: "fade",
+
+        scrollbar: {
+          el: '.js-slider-header-scrollbar',
+          draggable: true,
+          dragSize: 'auto'
+        },
       });
+      // headerSlider.slick({
+      //   dots: true,
+      //   infinite: true,
+      //   speed: 500,
+      //   fade: true,
+      //   cssEase: "linear",
+      //   arrows: false,
+      //   autoplay: true,
+      //   autoplaySpeed: 5000,
+      //   initialSlide: 0,
+      //   responsive: [
+      //     {
+      //       breakpoint: 480,
+      //       settings: {
+      //         adaptiveHeight: true,
+      //       },
+      //     },
+      //   ],
+      // });
     },
     initProductSlider: function () {
       $(".js-slider-product-for").not(".slick-initialized").slick({
