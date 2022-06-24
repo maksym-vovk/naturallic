@@ -491,5 +491,7 @@ include mixins/product
 
 
 .hits#js-scroll-hits.js-slider-products
-	each hit in HITS
-		+product(hit)
+	.hits__wrapper.swiper-wrapper
+		each hit in HITS
+			+product(hit)
+	.hits__scrollbar.js-slider-hits-scrollbar.scrollbar

@@ -56,7 +56,6 @@ ul, li
 		padding: 0 15px
 
 
-
 .btn
 	display: block
 	text-decoration: none
@@ -64,16 +63,18 @@ ul, li
 	max-width: 100%
 	width: 100%
 	text-align: center
+	text-transform: uppercase
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	font-size: 20px
-	line-height: 50px
-	color: $grey
-	border: 1px solid $dark-grey
+	line-height: 30px
+	color: $main-green
+	border: 1px solid $main-green
 	cursor: pointer
 	padding: 0
-	background-image: linear-gradient(to right,#BDCEAD,#CDDBBD, #ffffff, #ffffff)
+	background-image: linear-gradient(to right, #FFB000, #ffb71f, #ffffff, #ffffff)
 	background-size: 300% 100%
 	background-position-x: 100%
+	border-radius: 50px
 	transition: background-position .4s ease-in-out, color .4s ease-in-out, border-color .4s ease-in-out
 	position: relative
 	&::after
@@ -85,21 +86,22 @@ ul, li
 		overflow: hidden
 		visibility: hidden
 	&:hover
-		background-position: 0% 0
+		background-position: 0 0
 		transition: background-position .4s ease-in-out, color .5s ease-in-out, border-color .5s ease-in-out
-		border-color: #BDCEAD
-		color: $white
+		border-color: $gold
+		color: $main-green
 		font-weight: bold
 	&.active
-		background-position: 0% 0
+		background-position: 0 0
 		transition: background-position .4s ease-in-out, color .5s ease-in-out, border-color .5s ease-in-out
-		border-color: #BDCEAD
+		border-color: $main-green
 		color: $white
 		font-weight: bold
 		box-shadow: inset 1px 2px 4px rgba(0, 0, 0, 0.25)
 	+r(1023)
 		font-size: 18px
 		line-height: 45px
+
 
 .button
 	display: block
@@ -111,11 +113,12 @@ ul, li
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	font-size: 20px
 	line-height: 68px
-	color: $white
+	color: $main-green
 	cursor: pointer
 	padding: 0
 	text-transform: uppercase
 	border: none
+	border-radius: 50px
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1)
 	&--red
 		background-image: $red
@@ -123,6 +126,8 @@ ul, li
 		background-image: $green
 	&--yellow
 		background-image: $yellow
+	&--gold
+		background: $gold
 	+r(1023)
 		line-height: 55px
 	+r(767)
@@ -131,6 +136,7 @@ ul, li
 	+r(639)
 		line-height: 40px
 		font-size: 16px
+
 
 .title
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
@@ -428,3 +434,26 @@ ul, li
 		&::first-letter
 			text-transform: uppercase
 
+
+//swiper scrollbar
+.swiper-container-horizontal > .scrollbar
+	width: 267px
+	height: 4px
+	margin: 0 auto
+
+.swiper-scrollbar-drag
+	display: flex
+	justify-content: center
+	align-items: center
+	background: transparent
+	&::after
+		content: ''
+		display: block
+		width: 22px
+		height: 22px
+		background: $gold
+		border-radius: 50%
+		cursor: pointer
+
+.scrollbar
+	background: $light-blue

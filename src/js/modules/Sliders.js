@@ -81,25 +81,37 @@ const Sliders = (function () {
       headerSlider.on("init", function (event, slick, direction) {
         headerSlider.addClass("init");
       });
-      headerSlider.slick({
-        dots: true,
-        infinite: true,
-        speed: 500,
-        fade: true,
-        cssEase: "linear",
-        arrows: false,
+      new Swiper('.js-slider-header', {
+        direction: "horizontal",
+        slidesPerView: 1,
         autoplay: true,
-        autoplaySpeed: 5000,
-        initialSlide: 0,
-        responsive: [
-          {
-            breakpoint: 480,
-            settings: {
-              adaptiveHeight: true,
-            },
-          },
-        ],
+        effect: "fade",
+
+        scrollbar: {
+          el: '.js-slider-header-scrollbar',
+          draggable: true,
+          dragSize: 'auto'
+        },
       });
+      // headerSlider.slick({
+      //   dots: true,
+      //   infinite: true,
+      //   speed: 500,
+      //   fade: true,
+      //   cssEase: "linear",
+      //   arrows: false,
+      //   autoplay: true,
+      //   autoplaySpeed: 5000,
+      //   initialSlide: 0,
+      //   responsive: [
+      //     {
+      //       breakpoint: 480,
+      //       settings: {
+      //         adaptiveHeight: true,
+      //       },
+      //     },
+      //   ],
+      // });
     },
     initProductSlider: function () {
       $(".js-slider-product-for").not(".slick-initialized").slick({
@@ -119,32 +131,45 @@ const Sliders = (function () {
       });
     },
     initProductsSlider: function () {
-      productsSlider.not(".slick-initialized").slick({
-        slidesToShow: 4,
-        slidesToScroll: 4,
-        variableWidth: true,
-        dots: false,
-        prevArrow:
-          '<button class="prev"><i class="fico fico-arrowSlider"></i></button>',
-        nextArrow:
-          '<button class="next"><i class="fico fico-arrowSlider"></i></button>',
-        responsive: [
-          {
-            breakpoint: 1441,
-            settings: {
-              slidesToShow: 3,
-              slidesToScroll: 3,
-            },
-          },
-          {
-            breakpoint: 1250,
-            settings: {
-              slidesToShow: 3,
-              slidesToScroll: 1,
-            },
-          },
-        ],
+      new Swiper('.js-slider-products', {
+        direction: "horizontal",
+        slidesPerView: 4,
+        autoplay: true,
+        // effect: "fade",
+
+        scrollbar: {
+          el: '.js-slider-hits-scrollbar',
+          draggable: true,
+          dragSize: 'auto'
+        },
       });
+
+      // productsSlider.not(".slick-initialized").slick({
+      //   slidesToShow: 4,
+      //   slidesToScroll: 4,
+      //   variableWidth: true,
+      //   dots: false,
+      //   prevArrow:
+      //     '<button class="prev"><i class="fico fico-arrowSlider"></i></button>',
+      //   nextArrow:
+      //     '<button class="next"><i class="fico fico-arrowSlider"></i></button>',
+      //   responsive: [
+      //     {
+      //       breakpoint: 1441,
+      //       settings: {
+      //         slidesToShow: 3,
+      //         slidesToScroll: 3,
+      //       },
+      //     },
+      //     {
+      //       breakpoint: 1250,
+      //       settings: {
+      //         slidesToShow: 3,
+      //         slidesToScroll: 1,
+      //       },
+      //     },
+      //   ],
+      // });
     },
     destroyProductsSlider: function () {
       productsSlider.filter(".slick-initialized").slick("unslick");
