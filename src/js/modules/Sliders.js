@@ -131,18 +131,36 @@ const Sliders = (function () {
       });
     },
     initProductsSlider: function () {
-      new Swiper('.js-slider-products', {
+      const prodSlider = new Swiper('.js-slider-products', {
         direction: "horizontal",
-        slidesPerView: 4,
-        autoplay: true,
-        // effect: "fade",
+        slidesPerView: 1,
 
         scrollbar: {
           el: '.js-slider-hits-scrollbar',
           draggable: true,
           dragSize: 'auto'
         },
+
+        breakpoints: {
+          480: {
+            slidesPerView: 2
+          },
+          640: {
+            slidesPerView: 2
+          },
+          768: {
+            slidesPerView: 2
+          },
+          1024: {
+            slidesPerView: 3
+          }
+        }
       });
+
+      window.addEventListener('resize', function() {
+        const winWidth = window.innerWidth
+        winWidth <= 479 ? prodSlider.destroy() : false
+      })
 
       // productsSlider.not(".slick-initialized").slick({
       //   slidesToShow: 4,
