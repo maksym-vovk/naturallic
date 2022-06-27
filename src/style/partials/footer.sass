@@ -1,33 +1,52 @@
 .footer
-	background: $green
-	padding: 60px 0
 	color: $white
 	font-size: 18px
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
+	padding: 0 20px 20px
+	+r(1249)
+		//padding: 60px 0
+	+r(1023)
+		font-size: 16px
+		padding: 0
+	+r(639)
+		//padding: 30px 0
+		.container
+			width: 300px
+
+	&__wrapper
+		background: $main-green
+		border-radius: 40px
+		max-width: 1396px
+		width: 100%
+		margin: 0 auto
+		padding: 115px 20px
+		+r(1023)
+			border-radius: 0
+			padding: 60px 0
+		+r(639)
+			padding: 30px 0
+
+		& .container
+			max-width: 100%
+
 	a
 		color: $white
 		text-decoration: none
 		&:hover
 			text-decoration: underline
-	+r(1249)
-		padding: 60px 0
-	+r(1023)
-		font-size: 16px
-		padding: 50px 0
-	+r(639)
-		padding: 30px 0
-		.container
-			width: 300px
+
 	&__top
 		display: flex
-		align-items: flex-start
+		align-items: center
+		justify-content: space-between
 		//margin-bottom: 40px
 		+r(1249)
 			padding-left: 0
 		+r(1023)
+			flex-direction: column
 			//margin-bottom: 40px
 		+r(639)
-			flex-wrap: wrap
+			//flex-wrap: wrap
 	&__logo-mob
 		display: none
 		+r(639)
@@ -41,12 +60,16 @@
 		+r(1249)
 			margin-right: 80px
 		+r(1023)
-			width: 80px
-			margin-right: 60px
+			width: 150px
+			margin-right: 0
+			margin-bottom: 25px
 		+r(767)
-			margin-right: 80px
-		+r(639)
-			display: none
+			order: 1
+			margin-bottom: 15px
+			width: 100px
+			//margin-right: 80px
+		//+r(639)
+		//	display: none
 	&__catalog
 		max-width: 135px
 		width: 100%
@@ -74,17 +97,20 @@
 			width: 100%
 			
 	&__contacts
-		max-width: 295px
+		max-width: 274px
 		width: 100%
-		margin-left: auto
+		margin-left: 95px
+		+r(1023)
+			margin-left: 0
 		+r(767)
 			max-width: 265px
+			order: 2
 		+r(639)
 			max-width: 100%
 			text-align: center
-			margin-top: 20px
+			//margin-top: 20px
 	&__contact-wrapper
-		//margin-bottom: 15px
+		margin-bottom: 15px
 	&__address
 		margin-bottom: 39px
 		line-height: 30px
@@ -97,7 +123,7 @@
 		align-items: center
 		+nlt
 			margin-bottom: 13px
-		+r(639)
+		+r(1023)
 			justify-content: center
 	&__contact-text
 		margin-right: 3px
@@ -115,12 +141,12 @@
 		display: block
 		+r(1023)
 			margin-bottom: 8px
-	&__social
-		display: flex
-		align-items: flex-end
-		margin-bottom: 45px
-		+r(639)
-			justify-content: center
+	//&__social
+	//	display: flex
+	//	align-items: flex-end
+	//	margin-bottom: 45px
+	//	+r(639)
+	//		justify-content: center
 
 
 .catalog
@@ -130,9 +156,15 @@
 		width: 194px
 
 .menu-f
+	margin-left: auto
+	+r(1023)
+		margin-left: 0
 	&__item
 		line-height: 32px
-		font-weight: 500
+		font-weight: 400
+		+r(1023)
+			text-align: center
+			margin-bottom: 25px
 		+nlt
 			margin-bottom: 2px
 		&--hide
@@ -141,33 +173,33 @@
 				display: block
 
 
-.social
-	&--border
-		img
-			border-radius: 50%
-			border: 1px solid white
-	&__item
-		margin-right: 15px
-		font-size: 0
-		img
-			width: 35px
-		&:hover
-			.fico-fb
-				color: #788bcc
-			.fico-vk
-				color: #577fa8
-			.fico-ok
-				color: #ffab66
-			.fico-instagram
-				color: #ff78b2
-	.fico
-		transition: all .3s
-		font-size: 21px
-	// .fico-fb
-	// 	font-size: 21px
-	// .fico-vk
-	// 	font-size: 15.5px
-	// .fico-ok
-	// 	font-size: 24px
-	// .fico-instagram
-	// 	font-size: 22px
+//.social
+//	&--border
+//		img
+//			border-radius: 50%
+//			border: 1px solid white
+//	&__item
+//		margin-right: 15px
+//		font-size: 0
+//		img
+//			width: 35px
+//		&:hover
+//			.fico-fb
+//				color: #788bcc
+//			.fico-vk
+//				color: #577fa8
+//			.fico-ok
+//				color: #ffab66
+//			.fico-instagram
+//				color: #ff78b2
+//	.fico
+//		transition: all .3s
+//		font-size: 21px
+//	// .fico-fb
+//	// 	font-size: 21px
+//	// .fico-vk
+//	// 	font-size: 15.5px
+//	// .fico-ok
+//	// 	font-size: 24px
+//	// .fico-instagram
+//	// 	font-size: 22px
