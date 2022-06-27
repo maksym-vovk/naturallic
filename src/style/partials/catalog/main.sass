@@ -156,13 +156,14 @@
 
 .category-item
 	padding: 22px 28px 22px 0
-	color: $dark-grey
+	color: $main-green
 	font-family: 'Inter', Arial, Helvetica, sans-serif
 	font-size: 18px
 	line-height: 32px
 	text-align: right
 	position: relative
 	cursor: pointer
+
 	&::before
 		content: ''
 		display: block
@@ -171,13 +172,15 @@
 		bottom: 0
 		right: 0
 		left: -700px
-		background: #F4F3F5
+		background: $light-blue
 		z-index: -1
+		border-radius: 0 50px 50px 0
 	+nlt
 		margin-bottom: 10px
 	&.active
+		color: $light-blue
 		&::before
-			background: linear-gradient(99.07deg, #BDCEAD 22.2%, #C3D4B3 64.95%, #CDDBBD 91.47%)
+			background: $main-green
 	+r(1249)
 		padding: 18px 20px 18px 0
 	+r(1023)

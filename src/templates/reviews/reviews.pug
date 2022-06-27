@@ -1,20 +1,27 @@
 section.reviews-main
 	.container
-		h2.reviews-main__title.title Отзывы
-		.reviews-main__list
-			.review
-				.review__top
-					img.review__photo(src="img/review_photo_1.png", alt="")
-					.review__person
-						p.review__name Ермоленко Влада
-						.review__rating
-							p.review__rating-name Око-плюс
-							.review__rating-stars
-								img.review__rating-star(src="img/svg/star.svg", alt="")
-								img.review__rating-star(src="img/svg/star.svg", alt="")
-								img.review__rating-star(src="img/svg/star.svg", alt="")
-								img.review__rating-star(src="img/svg/star.svg", alt="")
-								img.review__rating-star(src="img/svg/star-empty.svg", alt="")
-				.review__bottom
-					p.review__main Отличное качество!
-					p.review__text После обращения к дерматологу ребенку поставили диагноз гиперсухость кожи. В комплексе с кремами и&nbsp;специальным средством для купания назначили обязате...
+		.reviews-main__list.js-swiper-reviews
+			.reviews-main__wrapper.swiper-wrapper
+				include ../home/reviews-list
+
+			.reviews-main__scrollbar.scrollbar.js-slider-reviews-scrollbar
+
+
+		//h2.reviews-main__title.title Отзывы
+		//.reviews-main__list
+		//	.review
+		//		.review__top
+		//			img.review__photo(src="img/review_photo_1.png", alt="")
+		//			.review__person
+		//				p.review__name Ермоленко Влада
+		//				.review__rating
+		//					p.review__rating-name Око-плюс
+		//					.review__rating-stars
+		//						img.review__rating-star(src="img/svg/star.svg", alt="")
+		//						img.review__rating-star(src="img/svg/star.svg", alt="")
+		//						img.review__rating-star(src="img/svg/star.svg", alt="")
+		//						img.review__rating-star(src="img/svg/star.svg", alt="")
+		//						img.review__rating-star(src="img/svg/star-empty.svg", alt="")
+		//		.review__bottom
+		//			p.review__main Отличное качество!
+		//			p.review__text После обращения к дерматологу ребенку поставили диагноз гиперсухость кожи. В комплексе с кремами и&nbsp;специальным средством для купания назначили обязате...

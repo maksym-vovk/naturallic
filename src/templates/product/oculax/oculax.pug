@@ -1,5 +1,9 @@
+include ../../mixins/product
+
 - var PRODUCT_CARD = LANG.product_card;
 - var OCULAX = LANG.oculax;
+- var HITS = LANG.hits;
+- HITS.length = 3
 
 section.product-item
 	.container
@@ -83,3 +87,59 @@ section.product-item
 								li.product-list__item
 									!=PRODUCT_CARD.product_keep
 									!=OCULAX.oculax_keep
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl Отзывы
+							i.fico.fico-cross
+						.specification__text.js-info-accordeon
+							.product-item__review.review-small
+								.review-small__top
+									.review-small__desc
+										.review-small__name Ермоленко Влада
+										.review-small__rating
+											.review-small__rating-stars
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star-empty-1.svg" alt="")
+											p.review-small__rating-text Отличное качество!
+									img.review-small__photo(src="/img/review_argosev_bio_1.png" alt="")
+								p.review-small__text Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, dignissimos distinctio dolores eum impedit laudantium nam officia quaerat quam quasi quod recusandae similique sunt temporibus vel. Molestiae quidem totam ullam?
+
+							.product-item__review.review-small
+								.review-small__top
+									.review-small__desc
+										.review-small__name Ермоленко Влада
+										.review-small__rating
+											.review-small__rating-stars
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star-empty-1.svg" alt="")
+											p.review-small__rating-text Отличное качество!
+									img.review-small__photo(src="/img/review_argosev_bio_1.png" alt="")
+								p.review-small__text Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, dignissimos distinctio dolores eum impedit laudantium nam officia quaerat quam quasi quod recusandae similique sunt temporibus vel. Molestiae quidem totam ullam?
+
+							.product-item__review.review-small
+								.review-small__top
+									.review-small__desc
+										.review-small__name Ермоленко Влада
+										.review-small__rating
+											.review-small__rating-stars
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star-empty-1.svg" alt="")
+											p.review-small__rating-text Отличное качество!
+									img.review-small__photo(src="/img/review_argosev_bio_1.png" alt="")
+								p.review-small__text Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, dignissimos distinctio dolores eum impedit laudantium nam officia quaerat quam quasi quod recusandae similique sunt temporibus vel. Molestiae quidem totam ullam?
+					.specification.specification--recom
+						.specification__top
+							h3.specification__ttl С этим товаром покупают
+						.specification__text
+							.specification__products
+								each hit in HITS
+									+product(hit)

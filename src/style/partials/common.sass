@@ -66,11 +66,12 @@ ul, li
 	text-transform: uppercase
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	font-size: 20px
-	line-height: 30px
+	//line-height: 30px
+	padding: 15px 10px
 	color: $main-green
 	border: 1px solid $main-green
 	cursor: pointer
-	padding: 0
+	//padding: 0
 	background-image: linear-gradient(to right, #FFB000, #ffb71f, #ffffff, #ffffff)
 	background-size: 300% 100%
 	background-position-x: 100%
@@ -119,7 +120,7 @@ ul, li
 	text-transform: uppercase
 	border: none
 	border-radius: 50px
-	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1)
+	//box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1)
 	&--red
 		background-image: $red
 	&--green
@@ -439,13 +440,14 @@ ul, li
 .breadcrumbs
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	font-size: 18px
+	text-transform: uppercase
 	line-height: 46px
 	position: relative
 	letter-spacing: -0.05em
 	display: inline-block
 
 	*
-		color: #C4C4C4
+		color: $main-green
 		text-decoration: none
 	a
 		&:hover
