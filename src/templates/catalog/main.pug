@@ -289,14 +289,14 @@ section.catalog-main
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 						each product in productsForMan
 							+product(product)
-					//.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
-					//	each product in productsForMan
-					//		+product(product)
-					//p.catalog-main__count.js-catalog-count
-					//	span.js-product-show 0
-					//	|  из
-					//	span.js-product-all 0
-					//button.catalog-main__btn.btn.js-btn-catalog Паказать больше
+					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+						each product in productsForMan
+							+product(product)
+					p.catalog-main__count.js-catalog-count
+						span.js-product-show 0
+						|  из&nbsp;
+						span.js-product-all 0
+					button.catalog-main__btn.btn.js-btn-catalog Паказать больше
 				.catalog-main__list.js-list-prod(data-target="woman")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 						each product in productsForMan

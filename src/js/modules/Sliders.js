@@ -89,6 +89,17 @@ const Sliders = (function () {
           Sliders.changeSliderDots(paginationArray);
         }
       );
+
+      new Swiper('.js-swiper-reviews', {
+        direction: "horizontal",
+        slidesPerView: 3,
+
+        scrollbar: {
+          el: '.js-slider-reviews-scrollbar',
+          draggable: true,
+          dragSize: 'auto'
+        },
+      })
     },
 
     initHeaderSlider: function () {

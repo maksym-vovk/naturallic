@@ -19,7 +19,7 @@ mixin review(review)
 			.review__bottom
 				p.review__text!= review.text
 	else
-		.review.js-review
+		.review.js-review.swiper-slide
 			.review__top
 				img.review__photo(src=review.src, alt="")
 				.review__person

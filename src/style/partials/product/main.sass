@@ -45,11 +45,12 @@
 		+r(1023)
 			max-width: 100%
 	&__name
-		font-weight: bold
+		font-weight: 400
 		font-size: 40px
 		line-height: 1
 		letter-spacing: -0.005em
-		color: $dark-grey
+		text-transform: uppercase
+		color: $main-green
 		display: block
 		&:first-letter
 			text-transform: uppercase
@@ -58,7 +59,7 @@
 	&__desc
 		font-weight: bold
 		line-height: 18px
-		color: $dark-grey
+		color: $main-green
 		margin-bottom: 12px
 	&__rating
 		display: flex
@@ -70,7 +71,7 @@
 	&__rating-text
 		font-weight: 300
 		line-height: 18px
-		color: $dark-grey
+		color: $main-green
 	&__list
 		margin-bottom: 40px
 		+r(1249)
@@ -81,35 +82,111 @@
 		margin-bottom: 50px
 		max-width: 278px
 		line-height: 53px
-		font-weight: bold
-		text-transform: capitalize
+		font-weight: 400
 		+r(1249)
 			margin-bottom: 25px
 		+r(479)
 			max-width: 100%
 			margin-bottom: 20px
 	&__text
-		color: $dark-grey
+		color: $main-green
 		padding-bottom: 43px
-		border-bottom: 1px solid #000000
+		border-bottom: 1px solid $gold
 		margin-bottom: 15px
 		+r(1249)
 			padding-bottom: 25px
 		+r(479)
 			padding-bottom: 20px
 			margin-bottom: 10px
+	&__review
+		&:not(:last-of-type)
+			margin-bottom: 30px
+	& .product
+		max-width: calc(100%/3 - 5px)
+		background: $light-blue
+		border-radius: 20px
+		padding: 10px
+		height: 220px
+		&:hover
+			height: 270px
+		&__label
+			display: none
+			//top: 10px
+			//font-size: 10px
+			//line-height: 1
+		&__wrap-photo
+			height: auto
+			margin-bottom: 10px
+		&__name
+			font-size: 14px
+			margin-bottom: 3px
+		&__rating
+			margin-bottom: 7px
+			&-starts
+				margin-right: 3px
+			&-star
+				width: 7px
+				height: 7px
+				display: flex
+				&::after
+					width: 7px
+					height: 7px
+			&-text
+				font-size: 8px
+				line-height: 1
+		&__desc
+			font-size: 8px
+			line-height: 11px
+			height: 50px
+		&__btn
+			font-size: 12px
+			line-height: 30px
+
+.review-small
+	&__top
+		display: flex
+		align-items: center
+		justify-content: space-between
+		margin-bottom: 10px
+	&__name
+		font-size: 16px
+		line-height: 22px
+		color: $main-green
+		margin-bottom: 3px
+	&__rating
+		display: flex
+		align-items: center
+		&-stars
+			display: flex
+			align-items: center
+			font-size: 0
+			margin-right: 10px
+		&__text
+			font-weight: 500
+			font-size: 16px
+			line-height: 22px
+			color: $main-green
+	&__photo
+		width: 63px
+	&__text
+		font-size: 16px
+		line-height: 21px
+		color: $main-green
+		width: 94%
 
 .product-list
 	&__item
-		span
-			color: #A4A4A4
+		color: $main-green
+		//span
+		//	color: #A4A4A4
 		&.mb
 			margin-bottom: 20px
 
+
 .specification
-	color: $dark-grey
+	color: $main-green
 	padding-bottom: 20px
-	border-bottom: 1px solid #000000
+	border-bottom: 1px solid $gold
 	+nlt
 		margin-bottom: 20px
 	+r(1249)
@@ -125,11 +202,12 @@
 		align-items: center
 		justify-content: space-between
 		cursor: pointer
+		text-transform: uppercase
 		&.active
 			.fico
 				transform: rotate(45deg)
 	&__ttl
-		font-weight: 500
+		font-weight: 400
 	&__text
 		margin-top: 20px
 		display: none
@@ -140,6 +218,16 @@
 	.fico
 		transition: all .3s
 		font-size: 9px
+		color: $gold
+	&--recom
+		border-bottom: 0
+		& .specification__text
+			display: block
+
+	&__products
+		display: flex
+		align-items: flex-start
+		justify-content: space-between
 
 
 .slider-prod
@@ -151,7 +239,8 @@
 	&__for
 		height: 518px
 		width: 518px
-		background: #F4F3F5
+		background: $light-blue
+		border-radius: 40px
 		display: flex
 		align-items: center
 		justify-content: center
@@ -225,8 +314,8 @@
 		display: flex !important
 		align-items: center
 		justify-content: center
-		&.slick-current
-			border: 1px solid #BDCEAD
+		//&.slick-current
+		//	border: 1px solid #BDCEAD
 		img
 			width: 100px
 			height: 100px
