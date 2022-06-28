@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link rel="icon" href="/img/favicon.ico"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.1/css/swiper.min.css"/>
+    <link rel="stylesheet" href="/css/main.css" type="text/css"/>
+    <title>Success</title>
+  </head>
+  <body>
+    <div class="nav">
+      <div class="container">
+        <div class="nav__wrap"><a class="nav__logo" href="/"><img src="/img/svg/logo.svg" alt="Vitaliss"/></a>
+          <div class="nav__right">
+            <ul class="nav__menu menu">
+              <li class="menu__item"><a class="menu__link" href="catalog.html">Каталог</a></li>
+              <li class="menu__item"><a class="menu__link" href="about.html">О нас</a></li>
+              <li class="menu__item"><a class="menu__link" href="contacts.html">Контакты</a></li>
+              <li class="menu__item"><a class="menu__link" href="reviews.html">Отзывы</a></li>
+            </ul>
+            <div class="nav__btn-wrap"><a class="nav__link-tel" href="+7 (499) 703-14-76">+7 (499) 703-14-76</a>
+              <button class="nav__btn btn js-show-popup" title="Заказать звонок" data-target="#popup">Заказать звонок</button>
+            </div>
+            <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="menu-mobile" id="js-mobile-menu">
+      <div class="menu-mobile__wrap">
+        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/"><img src="/img/svg/logo.svg" alt=""/></a>
+          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+        </div>
+        <ul class="menu-mobile__nav menu">
+          <li class="menu__item"><a class="menu__link" href="catalog.html">Каталог</a></li>
+          <li class="menu__item"><a class="menu__link" href="#">О нас</a></li>
+          <li class="menu__item"><a class="menu__link" href="contacts.html">Контакты</a></li>
+          <li class="menu__item"><a class="menu__link" href="#">Отзывы</a></li>
+        </ul>
+        <div class="menu-mobile__bottom">
+          <button class="menu-mobile__btn btn js-show-popup" title="Заказать звонок" data-target="#popup">Заказать звонок</button>
+          <!--.menu-mobile__social.social-->
+          <!--	a.social__item(href="https://www.facebook.com/realvitaliss/?ref=pages_you_manage" target="_blank")-->
+          <!--		img(src="/img/svg/type_1_3.svg", alt="")-->
+          <!--	a.social__item(href="https://vk.com/vitaliss_official" target="_blank")-->
+          <!--		img(src="/img/svg/type_1_1.svg", alt="")-->
+          <!--	a.social__item(href="https://ok.ru/group/58603068063992" target="_blank")-->
+          <!--		img(src="/img/svg/type_1_4.svg", alt="")-->
+          <!--	a.social__item(href="https://www.instagram.com/real_vitaliss/" target="_blank")-->
+          <!--		img(src="/img/svg/type_1_2.svg", alt="")-->
+        </div>
+      </div>
+    </div>
+    <!--include templates/mixins/menu-->
+    <!--+menu("success", "dark")-->
+    <div class="success-header">
+      <div class="container">
+        <div class="success-header__wrapper">
+          <div class="success-header__info">
+            <h2 class="success-header__title">Благодарим за Ваш заказ!</h2>
+            <div class="success-header__desc">
+              <p class="success-header__text">Спасибо, что выбрали нашу компанию!<br/>Мы свяжемся с Вами по номеру +7 (499) 703 14 76 через несколько минут для уточнения деталей заказа.</p>
+              <p class="success-header__text"><span class="js-success-product-name"></span> восстановил здоровье тысячам людей.<br/>Вы на правильном пути!</p>
+            </div>
+          </div><img class="success-header__photo js-success-product-photo" src="" alt=""/>
+        </div>
+        <div class="success-header__list">
+          <div class="success-item">
+            <div class="success-item__wrap-photo"><img class="success-item__ico" src="/img/svg/success_1.svg" alt=""/></div>
+            <p class="success-item__text">Среднее время ожидания звонка<span class="color">5 минут</span></p>
+          </div>
+          <div class="success-item">
+            <div class="success-item__wrap-photo"><img class="success-item__ico" src="/img/svg/success_2.svg" alt=""/></div>
+            <p class="success-item__text">Наличие товара на складе<span class="color">В наличии</span></p>
+          </div>
+          <div class="success-item">
+            <div class="success-item__wrap-photo"><img class="success-item__ico" src="/img/svg/success_3.svg" alt=""/></div>
+            <p class="success-item__text">Остаток<br/>на складе<span class="color"><span class="js-product-residue">60</span><span>штук</span></span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--include templates/success/diary-->
+    <!--include templates/success/reviews-->
+    <footer class="footer">
+      <div class="footer__wrapper">
+        <div class="container">
+          <div class="footer__top"><a class="footer__logo" href="/"><img src="/img/svg/logo-w.svg" alt=""/></a>
+            <ul class="footer__menu menu-f">
+              <li class="menu-f__item"><a class="menu-f__link" href="catalog.html">Каталог</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="about.html">О нас</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="#">Отзывы</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="contacts.html">Контакты</a></li>
+            </ul>
+            <div class="footer__contacts">
+              <div class="footer__contact-wrapper">
+                <div class="footer__contact-item">
+                  <p class="footer__contact-text">Россия:</p><a class="footer__contact-link" href="tel:+74997031476">+7 (499) 703 14 76</a>
+                </div>
+                <div class="footer__contact-item">
+                  <p class="footer__contact-text">Казахстан:</p><a class="footer__contact-link" href="tel:+77172972156">+7 (717) 297-21-56</a>
+                </div>
+              </div>
+              <!--.footer__social.social-->
+              <!--	a.social__item(href="https://www.facebook.com/realvitaliss/?ref=pages_you_manage" target="_blank")-->
+              <!--		img(src="/img/svg/type_1_3.svg", alt="")-->
+              <!--	a.social__item(href="https://vk.com/vitaliss_official" target="_blank")-->
+              <!--		img(src="/img/svg/type_1_1.svg", alt="")-->
+              <!--	a.social__item(href="https://ok.ru/group/58603068063992" target="_blank")-->
+              <!--		img(src="/img/svg/type_1_4.svg", alt="")-->
+              <!--	a.social__item(href="https://www.instagram.com/real_vitaliss/" target="_blank")-->
+              <!--		img(src="/img/svg/type_1_2.svg", alt="")-->
+              <div class="footer__bottom">
+                <!--img.footer__logo-mob(src="/img/svg/logo-w-small.svg", alt="")-->
+                <!--a.footer__link(href="terms.html")!=FOOTER.footer_terms-->
+                <!--a.footer__link(href="cookie.html")!=FOOTER.footer_cookies--><a class="footer__link" href="privacy.html">Политика конфиденциальности</a>
+                <p class="footer__copy"><span class="year"></span>
+                  Copyright by naturallic
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <div class="popup js-popup" id="popup">
+      <div class="popup__wrap">
+        <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
+        <div class="popup__content">
+          <div class="popup__form">
+            <p class="popup__title">Мы Вам перезвоним для&nbsp;уточнения деталей</p>
+            <form class="form-popup" action="/" method="post">
+              <div class="form-popup__inputs">
+                <input class="form-popup__input" type="text" name="name" placeholder="Имя"/>
+                <input class="form-popup__input" type="phone" name="tel" placeholder="Телефон"/>
+                <input class="form-popup__input" type="text" name="comment" placeholder="Сообщение"/>
+              </div>
+              <button class="form-popup__btn button button--gold">Заказать звонок</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="overlay js-overlay"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.4/swiper-bundle.min.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
+</html>
