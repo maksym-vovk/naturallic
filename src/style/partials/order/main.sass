@@ -1,14 +1,26 @@
 .order-block
   padding: 230px 0 140px
+  +r(767)
+    padding: 120px 0 50px
   &__wrapper
     display: flex
     align-items: center
     justify-content: center
+    +r(1023)
+      flex-direction: column
+
   &__product-wrap
     margin-right: 160px
     max-width: 340px
+    +r(1249)
+      margin-right: 60px
+    +r(1023)
+      margin-right: 0
+      margin-bottom: 30px
   &__product
     margin-bottom: 50px
+    +r(767)
+      display: none
   &__name
     font-size: 32px
     text-align: center
@@ -19,6 +31,16 @@
     max-width: 570px
     width: 100%
   & .contacts-form
-
+    padding: 60px 65px
+    +r(767)
+      padding: 30px
+    +r(479)
+      padding: 30px 15px
+    &__title
+      margin-bottom: 45px
+      +r(767)
+        margin-bottom: 20px
     &__counter
-      margin-bottom: 20px
+      margin-bottom: 90px
+      +r(767)
+        margin-bottom: 40px
