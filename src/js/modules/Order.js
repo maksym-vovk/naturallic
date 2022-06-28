@@ -1,3 +1,5 @@
+// import { productsInfo } from "../data/products_info";
+
 const Order = (function () {
     "use strict";
     const productResidue = $(".js-product-residue");
@@ -34,21 +36,22 @@ const Order = (function () {
                 };
                 const oldArray = data;
                 data = oldArray.concat(countObject).concat(object);
+                console.log(data);
                 updValueChatbotHistory();
             });
         },
-        showOrderProduct: function () {
-            var paramdId = getParameterByName("id");
+        createOrderForm: function () {
+            const productName = getParameterByName("id");
+            console.log(productName);
 
-            const object = {
-                product: paramdId,
-            };
-            data.push(object);
+            if (productName) {
+                $(".js-product-name").html(productName);
+                $(".js-product-photo").attr("src", `img/${productName}.png`);
 
-            if (paramdId) {
-                $(".js-product-name").html(paramdId);
-                $(".js-product-photo").attr("src", `img/${paramdId}.png`);
-                $(".js-product-name-form").val(paramdId);
+                // const productInfo = productsInfo[`${productName}`];
+                // $(`input[name='campaign_id']`).val(productInfo.campaign_id);
+                // $(`input[name='landing_id']`).val(productInfo.landing_id);
+                $(`input[name='redirect_url']`).val(`success.html?id=${productName}`);
             }
         },
         choiceCountProduct: function () {
@@ -70,7 +73,7 @@ const Order = (function () {
             });
         },
         createSuccessPage: function () {
-            const paramProduct = getParameterByName("product");
+            const paramProduct = getParameterByName("id");
             $(".js-success-product-name").html(paramProduct);
             $(".js-success-product-photo").attr("src", `img/${paramProduct}.png`);
         },
@@ -87,11 +90,11 @@ const Order = (function () {
             }, 12000);
         },
         init: function () {
-            Order.showOrderProduct();
+            Order.createOrderForm();
             Order.choiceCountProduct();
             Order.createSuccessPage();
-            Order.submitForm();
             Order.showResiudePack();
+            Order.submitForm();
         },
     };
 })();

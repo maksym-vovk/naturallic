@@ -1,0 +1,35 @@
+// -
+//     function getActiveClass(active) {
+//         return function (current) {
+//             return current === active ? "active" : "";
+//         }
+//     };
+// include menu-mob.pug
+//
+//
+//
+// mixin menu(page, color)
+//     - const activeClass = getActiveClass(page);
+//     +menu-mob(page)
+//     .nav(class="nav--" + color)
+//         .container
+//             .nav__wrap
+//                 a.nav__logo(href="index.html", class=activeClass("index"))
+//                     img(src="img/svg/logo.svg", alt="Vitaliss")
+//                 .nav__right
+//                     ul.nav__menu.menu
+//                         li.menu__item
+//                             a.menu__link(href="catalog.html", class=activeClass("catalog")) Catálogo
+//                         li.menu__item
+//                             a.menu__link(href="about.html", class=activeClass("about")) Sobre nosotros
+//                         li.menu__item
+//                             a.menu__link(href="contacts.html", class=activeClass("contacts")) Contactos
+//                         li.menu__item
+//                             a.menu__link(href="reviews.html", class=activeClass("reviews")) Reseñas
+//                     .nav__btn-wrap
+//                         a.nav__link-tel(href="tel:+56229141108") (+56) 229 141 108
+//                         button.nav__btn.btn.js-show-popup(data-target="#popup") Pedir una llamada
+//                     .burger.js-burger(data-target="#js-mobile-menu")
+//                         span.burger__line
+//                         span.burger__line
+//                         span.burger__line

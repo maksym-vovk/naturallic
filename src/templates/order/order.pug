@@ -5,7 +5,7 @@ section.order-block
                 img.order-block__product.js-product-photo(src='' alt='')
                 p.order-block__name.js-product-name prod name
             .order-block__form
-                form.contacts-form.x_order_form#order-form(action="success.html", method="post")
+                form.contacts-form.x_order_form#order-form(action="success.html")
                     p.contacts-form__title ОФОРМИТЬ ЗАКАЗ!
                     //p.contacts-form__desc 111
                     .contacts-form__wrapper
@@ -22,5 +22,11 @@ section.order-block
                                 .counter__num.js-counter-number 1
                                 .counter__block-arrow.js-counter-arrow-inc
                                     | >
-
-                        button.contacts-form__btn.btn Заказать
+                        button.contacts-form__btn.btn(type='submit') Заказать
+                        //input(type='hidden' name='campaign_id' value='')
+                        //input(type='hidden' name='es_list_id' value='')
+                        //input(type='hidden' name='chatbot_history' value='{}')
+                        //input(type='hidden' name='sid5' value='{subid}')
+                        //input(type='hidden' name='landing_id' value='')
+                        //input(type='hidden' name='country_code' value='CZ')
+                        //input(type='hidden' name='redirect_url' value='')
