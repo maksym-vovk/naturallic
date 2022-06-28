@@ -107,6 +107,26 @@
 		border-radius: 20px
 		padding: 10px
 		height: 220px
+		+r(1023)
+			height: 320px
+			&:hover
+				height: 370px
+		+r(767)
+			height: 285px
+			&:hover
+				height: 330px
+		+r(639)
+			height: 240px
+			&:hover
+				height: 280px
+		+r(479)
+			max-width: 100%
+			color: $main-green
+			height: auto
+			&:hover
+				height: auto
+			&:not(:last-of-type)
+				margin-bottom: 10px
 		&:hover
 			height: 270px
 		&__label
@@ -138,6 +158,8 @@
 			font-size: 8px
 			line-height: 11px
 			height: 50px
+			+r(479)
+				height: auto
 		&__btn
 			font-size: 12px
 			line-height: 30px
@@ -228,6 +250,8 @@
 		display: flex
 		align-items: flex-start
 		justify-content: space-between
+		+r(479)
+			flex-direction: column
 
 
 .slider-prod
