@@ -46,15 +46,8 @@
         </div>
       </div>
     </div>
-        <div class="frame-popup js-frame-popup">
-          <div class="frame-popup__wrap">
-            <div class="popup__close js-frame-close"><i class="fico fico-cross"></i></div>
-            <div class="frame-popup__content">
-              <!--p.frame-popup__title!=product.framepopup_title-->
-              <!--iframe.frame-popup__iframe(src=product.frame_link)-->
-            </div>
-          </div>
-        </div>
+    <!--include ../../mixins/frame-popup-->
+    <!--+frame_popup(framepopup)-->
     <section class="product-item">
       <div class="container">
         <div class="product-item__breadcrumbs breadcrumbs"><a class="breadcrumbs__link" href="/">Главная</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html">Каталог</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html?id=health">Для здоровья</a><span class="breadcrumbs__line">/</span><span class="breadcrumbs__main">Dialine</span></div>
@@ -84,7 +77,7 @@
               <li class="product-list__item"><span>Форма выпуска:&nbsp;</span>Капсулы в банке, 21 шт
               </li>
             </ul>
-            <button class="product-item__btn button button--gold js-show-frame-popup" data-src="http://1-free.max-potencial.ru/">Заказать</button>
+            <!--button.product-item__btn.button.button--gold.js-show-frame-popup(data-src=DIALINE.dialine_frame_link)!=PRODUCT_CARD.product_btn--><a class="product-item__btn button button--gold" href="order.html?id=dialine">Заказать</a>
             <p class="product-item__text">Средство с растительными экстрактами для нормализации уровня глюкозы в крови</p>
             <div class="product-item__description js-accordeon">
               <div class="specification">

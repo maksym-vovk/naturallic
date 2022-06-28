@@ -1,0 +1,26 @@
+section.order-block
+    .container
+        .order-block__wrapper
+            .order-block__product-wrap
+                img.order-block__product.js-product-photo(src='' alt='')
+                p.order-block__name.js-product-name prod name
+            .order-block__form
+                form.contacts-form.x_order_form#order-form(action="success.html", method="post")
+                    p.contacts-form__title ОФОРМИТЬ ЗАКАЗ!
+                    //p.contacts-form__desc 111
+                    .contacts-form__wrapper
+                        .contacts-form__inputs
+                            input.contacts-form__input(type="text" name="name" placeholder='Имя' required)
+                            input.contacts-form__input(type="phone" name="tel" placeholder='Телефон' required)
+                            input.contacts-form__input(type="email" name="email" placeholder='E-mail')
+                        .contacts-form__counter.counter
+                            img.counter__photo.js-product-photo(src='' alt='')
+                            p.counter__text количество
+                            .counter__block
+                                .counter__block-arrow.js-counter-arrow-dec
+                                    | <
+                                .counter__num.js-counter-number 1
+                                .counter__block-arrow.js-counter-arrow-inc
+                                    | >
+
+                        button.contacts-form__btn.btn order

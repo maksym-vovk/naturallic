@@ -52,7 +52,8 @@ section.product-item
 					li.product-list__item
 						!=PRODUCT_CARD.product_form_factor
 						!=OTOVIX.otovix_form_factor
-				button.product-item__btn.button.button--gold.js-show-frame-popup!=PRODUCT_CARD.product_btn
+				//button.product-item__btn.button.button--gold.js-show-frame-popup!=PRODUCT_CARD.product_btn
+				a.product-item__btn.button.button--gold(href='order.html?id=otovix')!=PRODUCT_CARD.product_btn
 				p.product-item__text!=OTOVIX.otovix_short_description
 				.product-item__description.js-accordeon
 					.specification

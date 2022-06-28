@@ -5,6 +5,7 @@ import Sliders from "./modules/Sliders";
 import Controls from "./modules/Controls";
 import Popup from "./modules/Popup";
 import Menu from "./modules/Menu";
+import Order from "./modules/Order";
 import layout from "./global/layout";
 
 $(function () {
@@ -19,6 +20,7 @@ $(function () {
   Controls.init();
   Popup.init();
   Menu.init();
+  Order.init()
 
   objectFitImages();
 
