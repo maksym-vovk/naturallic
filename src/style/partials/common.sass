@@ -498,3 +498,38 @@ ul, li
 
 .scrollbar
 	background: $light-blue
+
+.counter
+	display: flex
+	align-items: center
+	justify-content: center
+	color: $main-green
+	&__photo
+		max-width: 100px
+		width: 100%
+		margin-right: 20px
+	&__text
+		font-size: 22px
+		line-height: 18px
+		text-transform: uppercase
+		margin-right: 20px
+	&__block
+		display: flex
+		align-items: center
+		&-arrow
+			font-size: 22px
+			line-height: 18px
+			text-transform: uppercase
+			cursor: pointer
+			user-select: none
+	&__num
+		display: flex
+		align-items: center
+		justify-content: center
+		width: 55px
+		height: 55px
+		border-radius: 50%
+		background: #ffffff
+		color: $main-green
+		font-size: 22px
+		margin: 0 7px

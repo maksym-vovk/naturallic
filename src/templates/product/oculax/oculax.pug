@@ -48,7 +48,8 @@ section.product-item
 					li.product-list__item
 						!=PRODUCT_CARD.product_form_factor
 						!=OCULAX.oculax_form_faktor
-				button.product-item__btn.button.button--green.js-show-frame-popup!=PRODUCT_CARD.product_btn
+				//button.product-item__btn.button.button--green.js-show-frame-popup!=PRODUCT_CARD.product_btn
+				a.product-item__btn.button.button--gold(href='order.html?id=oculax')!=PRODUCT_CARD.product_btn
 				p.product-item__text!=OCULAX.oculax_short_description
 				.product-item__description.js-accordeon
 					.specification
