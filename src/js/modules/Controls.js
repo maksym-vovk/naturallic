@@ -16,6 +16,9 @@ const Controls = (function () {
   const spanReviewsShow = $(".js-reviews-show");
   const btnReviews = $(".js-btn-reviews");
 
+  const langModal = document.querySelector('.language')
+  const languageSelect = document.querySelector('.select')
+
   function hideBtn(countProductsShow, countProductsAll) {
     if (countProductsShow == countProductsAll) {
       btnCatalog.hide();
@@ -126,6 +129,33 @@ const Controls = (function () {
         _this.hide();
       });
     },
+    setLanguage: function () {
+      const isLang = localStorage.getItem('lang')
+
+      if (!isLang) {
+        toggleLanguageModal(true)
+      } else {
+        location.href = `${window.location.pathname}#${localStorage.getItem('lang')}`
+      }
+
+      function setLanguage(event) {
+        const targetOption = event.target.closest('.select__option') ? event.target.closest('.select__option') : null
+        const lang = targetOption.dataset.lang
+        localStorage.setItem('lang', `${lang}`)
+        setLanguageHashToURL()
+      }
+
+      function setLanguageHashToURL() {
+        location.href = `${window.location.pathname}#${localStorage.getItem('lang')}`
+        location.reload()
+      }
+
+      function toggleLanguageModal(isShown) {
+        isShown ? langModal.classList.remove('language--hidden') : langModal.classList.add('language--hidden')
+      }
+
+      languageSelect.addEventListener('click', setLanguage)
+    },
     init: function () {
       Controls.openFaqContent();
       Controls.highlightingActiveTab();
@@ -134,6 +164,7 @@ const Controls = (function () {
       Controls.calculateProducts();
       Controls.calculateReviews();
       Controls.showReviews();
+      Controls.setLanguage();
     },
   };
 })();
