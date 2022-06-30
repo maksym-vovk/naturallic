@@ -36,7 +36,6 @@ const Order = (function () {
                 };
                 const oldArray = data;
                 data = oldArray.concat(countObject).concat(object);
-                console.log(data);
                 updValueChatbotHistory();
             });
         },

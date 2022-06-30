@@ -1,7 +1,7 @@
 const Sliders = (function () {
   const headerSlider = $(".js-slider-header");
   const productsSlider = $(".js-slider-products");
-  const reviewsSlider = $(".js-slider-reviews");
+  const reviewsSliderWrap = $(".js-slider-reviews-wrap");
   return {
     updatePagination: function (c, m) {
       var current = c,
@@ -45,61 +45,108 @@ const Sliders = (function () {
       }
     },
     initReviewsSlider: function () {
-      reviewsSlider.on("init", function (event, slick) {
-        if (slick.slideCount < 7) {
-          return;
+      reviewsSliderWrap.each(function (index) {
+        var _this = $(this);
+        _this.addClass("swiper-slider-review-" + index);
+        var dragSize = _this.data("drag-size") ? _this.data("drag-size") : 50;
+
+        const setActualReviewHeight = (isOneVisibleSlide) => {
+          const reviewBlocks = document.querySelectorAll('.swiper-slider-review-' + index + ' .js-review')
+          if (!isOneVisibleSlide) {
+            const maxHeight = Math.max(...[...reviewBlocks].map(review => review.offsetHeight))
+            reviewBlocks.forEach(review => review.style.minHeight = maxHeight + 'px')
+          } else {
+            reviewBlocks.forEach(review => review.style.minHeight = 'auto')
+          }
         }
-        const paginationArray = Sliders.updatePagination(0, slick.slideCount);
+        const winWidth = window.innerWidth;
+        winWidth <= 639 ? setActualReviewHeight(true) : setActualReviewHeight(false)
 
-        Sliders.changeSliderDots(paginationArray);
-      });
+        window.addEventListener('resize', () => {
+          const winWidth = window.innerWidth;
+          winWidth <= 639 ? setActualReviewHeight(true) : setActualReviewHeight(false)
+        })
 
-      reviewsSlider.slick({
-        arrows: false,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        dots: true,
-        infinite: false,
-        customPaging: function (slick, index) {
-          return `<a data-slide-index=${index + 1}>${index + 1}</a>`;
-        },
-        responsive: [
-          {
-            breakpoint: 1024,
-            settings: {
-              slidesToShow: 2
+        var swiper = new Swiper(".swiper-slider-review-" + index, {
+          direction: "horizontal",
+          slidesPerView: 1,
+          autoHeight: true,
+          scrollbar: {
+            el: ".js-slider-reviews-scrollbar",
+            draggable: true,
+            dragSize: dragSize,
+          },
+          breakpoints: {
+            480: {
+              slidesPerView: 1,
+            },
+            640: {
+              slidesPerView: 2,
+            },
+            768: {
+              slidesPerView: 2,
+            },
+            1024: {
+              slidesPerView: 3,
             },
           },
-          {
-            breakpoint: 640,
-            settings: {
-              slidesToShow: 1,
-              adaptiveHeight: true
-            },
-          }]
+        });
       });
-
-      reviewsSlider.on(
-        "beforeChange",
-        function (event, slick, currentSlide, nextSlide) {
-          const paginationArray = Sliders.updatePagination(
-            nextSlide,
-            slick.slideCount
-          );
-          Sliders.changeSliderDots(paginationArray);
-        }
-      );
-
-      new Swiper('.js-swiper-reviews', {
-        direction: "horizontal",
-        slidesPerView: 3,
-
-        scrollbar: {
-          el: '.js-slider-reviews-scrollbar',
-          draggable: true,
-          dragSize: 'auto'
-        },
-      })
+      // reviewsSlider.on("init", function (event, slick) {
+      //   if (slick.slideCount < 7) {
+      //     return;
+      //   }
+      //   const paginationArray = Sliders.updatePagination(0, slick.slideCount);
+      //
+      //   Sliders.changeSliderDots(paginationArray);
+      // });
+      //
+      // reviewsSlider.slick({
+      //   arrows: false,
+      //   slidesToShow: 3,
+      //   slidesToScroll: 1,
+      //   dots: true,
+      //   infinite: false,
+      //   customPaging: function (slick, index) {
+      //     return `<a data-slide-index=${index + 1}>${index + 1}</a>`;
+      //   },
+      //   responsive: [
+      //     {
+      //       breakpoint: 1024,
+      //       settings: {
+      //         slidesToShow: 2
+      //       },
+      //     },
+      //     {
+      //       breakpoint: 640,
+      //       settings: {
+      //         slidesToShow: 1,
+      //         adaptiveHeight: true
+      //       },
+      //     }]
+      // });
+      //
+      // reviewsSlider.on(
+      //   "beforeChange",
+      //   function (event, slick, currentSlide, nextSlide) {
+      //     const paginationArray = Sliders.updatePagination(
+      //       nextSlide,
+      //       slick.slideCount
+      //     );
+      //     Sliders.changeSliderDots(paginationArray);
+      //   }
+      // );
+      //
+      // new Swiper('.js-swiper-reviews', {
+      //   direction: "horizontal",
+      //   slidesPerView: 3,
+      //
+      //   scrollbar: {
+      //     el: '.js-slider-reviews-scrollbar',
+      //     draggable: true,
+      //     dragSize: 'auto'
+      //   },
+      // })
     },
 
     initHeaderSlider: function () {

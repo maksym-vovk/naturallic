@@ -21,6 +21,10 @@
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
 		padding-left: 23px
 		margin-bottom: 25px
+	&__slider
+		position: relative
+		overflow: hidden
+		padding-bottom: 15px
 	&__count
 		margin-right: 15px
 		font-weight: 300
@@ -69,27 +73,35 @@
 				margin-top: 40px
 		+r(479)
 			margin-top: 25px
+	& .swiper-slide
+		width: 100% !important
 
 .reviews-list
-	display: flex !important
-	flex-wrap: wrap
-	justify-content: center
+	max-width: calc(100%/3 - 12px + 0.001px)
+	//min-width: 358px
 	margin-right: 12px
-	max-width: 360px
-	width: 100%
+	//display: flex !important
+	//flex-wrap: wrap
+	//justify-content: center
+	//margin-right: 12px
+	//max-width: 360px
+	//width: 100%
+	+r(1219)
+		max-width: calc(100%/3 - 12px + 0.003px)
 	+r(1023)
-		max-width: 50%
+		max-width: calc(100%/2 - 12px + 0.001px)
 	+r(767)
-		&:nth-child(odd)
-			margin-left: 12px
+		//&:nth-child(odd)
+		//	margin-left: 12px
 	+r(639)
 		margin: 0 5px
-		&:nth-child(odd)
-			margin-left: 5px
+		max-width: calc(100% - 10px)
+		//&:nth-child(odd)
+		//	margin-left: 5px
 
 .review
 	max-width: 540px
-	min-height: 265px
+	//min-height: 265px
 	width: 100%
 	font-family: 'Inter'
 	border: 1px solid $gold
@@ -160,7 +172,7 @@
 		+r(479)
 			//width: 75px
 			margin-right: 10px
-	&__person
+	//&__person
 		//margin-bottom: 7px
 	&__name
 		font-weight: 400
