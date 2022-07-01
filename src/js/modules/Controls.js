@@ -131,27 +131,29 @@ const Controls = (function () {
     },
     setLanguage: function () {
       const isLang = localStorage.getItem('lang')
+      const isURLLang = window.location.pathname.split('/')[1] === localStorage.getItem('lang')
 
       if (!isLang) {
         toggleLanguageModal(true)
-      } else {
-        location.href = `${window.location.pathname}#${localStorage.getItem('lang')}`
+      }
+
+      if (!isURLLang && isLang) {
+        setLanguageToURL()
+      }
+
+      function setLanguageToURL() {
+        location.href = `${window.location.protocol}//${window.location.host}/${localStorage.getItem('lang')}${window.location.pathname}`
+      }
+
+      function toggleLanguageModal(isShown) {
+        isShown ? langModal.classList.remove('language--hidden') : langModal.classList.add('language--hidden')
       }
 
       function setLanguage(event) {
         const targetOption = event.target.closest('.select__option') ? event.target.closest('.select__option') : null
         const lang = targetOption.dataset.lang
         localStorage.setItem('lang', `${lang}`)
-        setLanguageHashToURL()
-      }
-
-      function setLanguageHashToURL() {
-        location.href = `${window.location.pathname}#${localStorage.getItem('lang')}`
-        location.reload()
-      }
-
-      function toggleLanguageModal(isShown) {
-        isShown ? langModal.classList.remove('language--hidden') : langModal.classList.add('language--hidden')
+        setLanguageToURL()
       }
 
       languageSelect.addEventListener('click', setLanguage)

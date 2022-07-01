@@ -9,7 +9,7 @@ include ../../mixins/product
 section.product-item
 	.container
 		.product-item__breadcrumbs.breadcrumbs
-			a.breadcrumbs__link(href="/")!=PRODUCT_CARD.product_card_bread_main
+			a.breadcrumbs__link(href=url(LANG,'/'))!=PRODUCT_CARD.product_card_bread_main
 			span.breadcrumbs__line /
 			a.breadcrumbs__link(href="catalog.html")!=PRODUCT_CARD.product_card_bread_catalog
 			span.breadcrumbs__line /
