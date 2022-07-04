@@ -24,15 +24,15 @@
   },
   "framepopup": {
     "framepopup_title": "CZ - Заполните форму и оставьте заказ, мы вам перезвоним в течении десяти минут",
-    "framepopup_biorecin": "CZ - http://0-free.max-potencial.ru/",
-    "framepopup_dialine": "CZ - http://1-free.max-potencial.ru/",
-    "framepopup_hondreksil": "CZ - http://2-free.max-potencial.ru/",
-    "framepopup_lipocarnit": "CZ - http://3-free.max-potencial.ru/",
-    "framepopup_normaten": "CZ - http://4-free.max-potencial.ru/",
-    "framepopup_oculax": "CZ - http://5-free.max-potencial.ru/",
-    "framepopup_otovix": "CZ - http://6-free.max-potencial.ru/",
-    "framepopup_urotrin": "CZ - http://7-free.max-potencial.ru/",
-    "framepopup_wortex": "CZ - http://8-free.max-potencial.ru/"
+    "framepopup_biorecin": "http://0-free.max-potencial.ru/",
+    "framepopup_dialine": "http://1-free.max-potencial.ru/",
+    "framepopup_hondreksil": "http://2-free.max-potencial.ru/",
+    "framepopup_lipocarnit": "http://3-free.max-potencial.ru/",
+    "framepopup_normaten": "http://4-free.max-potencial.ru/",
+    "framepopup_oculax": "http://5-free.max-potencial.ru/",
+    "framepopup_otovix": "http://6-free.max-potencial.ru/",
+    "framepopup_urotrin": "http://7-free.max-potencial.ru/",
+    "framepopup_wortex": "http://8-free.max-potencial.ru/"
   },
   "home": {
     "about": {
@@ -105,273 +105,273 @@
   "hits": [
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/biorecin.png",
+      "srcPhoto": "img/biorecin.png",
       "name": "CZ - Biorecin",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-1"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
         }
       ],
       "text": "CZ - 231 отзыв",
       "desc": "CZ - Омолаживающие капсулы для питания и регенерации клеток кожи",
-      "link": "CZ - biorecin.html"
+      "link": "biorecin.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/dialine.png",
+      "srcPhoto": "img/dialine.png",
       "name": "CZ - Dialine",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         }
       ],
       "text": "CZ - 213 отзывов",
       "desc": "CZ - Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
-      "link": "CZ - dialine.html"
+      "link": "dialine.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/hondrexil.png",
+      "srcPhoto": "img/hondrexil.png",
       "name": "CZ - Hondreksil",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-2"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-2"
         }
       ],
       "text": "CZ - 232 отзыва",
       "desc": "CZ - Капсулы для устранения разных типов боли и воспалений в суставах",
-      "link": "CZ - hondreksil.html"
+      "link": "hondreksil.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/lipocarnit.png",
+      "srcPhoto": "img/lipocarnit.png",
       "name": "CZ - Lipocarnit",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-3"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-3"
         }
       ],
       "text": "CZ - 225 отзывов",
       "desc": "CZ - Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
-      "link": "CZ - lipocarnit.html"
+      "link": "lipocarnit.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/normaten.png",
+      "srcPhoto": "img/normaten.png",
       "name": "CZ - Normaten",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         }
       ],
       "text": "CZ - 219 отзывов",
       "desc": "CZ - Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
-      "link": "CZ - normaten.html"
+      "link": "normaten.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/otovix.png",
+      "srcPhoto": "img/otovix.png",
       "name": "CZ - Otovix",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-3"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-3"
         }
       ],
       "text": "CZ - 205 отзывов",
       "desc": "CZ - Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
-      "link": "CZ - otovix.html"
+      "link": "otovix.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/oculax.png",
+      "srcPhoto": "img/oculax.png",
       "name": "CZ - Oculax",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-1"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
         }
       ],
       "text": "CZ - 224 отзыва",
       "desc": "CZ - Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
-      "link": "CZ - oculax.html"
+      "link": "oculax.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/wortex.png",
+      "srcPhoto": "img/wortex.png",
       "name": "CZ - Wortex",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-2"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-2"
         }
       ],
       "text": "CZ - 212 отзывов",
       "desc": "CZ - Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
-      "link": "CZ - wortex.html"
+      "link": "wortex.html"
     },
     {
       "label": "CZ - Хит",
-      "srcPhoto": "CZ - img/urotrin.png",
+      "srcPhoto": "img/urotrin.png",
       "name": "CZ - Urotrin",
       "stars": [
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star.svg",
-          "type": "CZ - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "CZ - img/svg/star-empty-1.svg",
-          "type": "CZ - empty-2"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-2"
         }
       ],
       "text": "CZ - 212 отзывов",
       "desc": "CZ - Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
-      "link": "CZ - urotrin.html"
+      "link": "urotrin.html"
     }
   ],
   "footer": {
@@ -430,7 +430,7 @@
     "biorecin_manufacturer": "CZ - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
     "biorecin_suitability": "CZ - 18 месяцев",
     "biorecin_keep": "CZ - хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой",
-    "biorecin_frame_link": "CZ - http://0-free.max-potencial.ru/"
+    "biorecin_frame_link": "http://0-free.max-potencial.ru/"
   },
   "dialine": {
     "dialine_title": "CZ - Dialine",
@@ -446,7 +446,7 @@
     "dialine_manufacturer": "CZ - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
     "dialine_suitability": "CZ - 18 месяцев",
     "dialine_keep": "CZ - Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой.",
-    "dialine_frame_link": "CZ - http://1-free.max-potencial.ru/"
+    "dialine_frame_link": "http://1-free.max-potencial.ru/"
   },
   "hondrexil": {
     "hondrexil_title": "CZ - hondrexil",

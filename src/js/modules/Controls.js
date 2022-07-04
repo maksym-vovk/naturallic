@@ -16,9 +16,6 @@ const Controls = (function () {
   const spanReviewsShow = $(".js-reviews-show");
   const btnReviews = $(".js-btn-reviews");
 
-  const langModal = document.querySelector('.language')
-  const languageSelect = document.querySelector('.select')
-
   function hideBtn(countProductsShow, countProductsAll) {
     if (countProductsShow == countProductsAll) {
       btnCatalog.hide();
@@ -130,33 +127,32 @@ const Controls = (function () {
       });
     },
     setLanguage: function () {
-      const isLang = localStorage.getItem('lang')
-      const isURLLang = window.location.pathname.split('/')[1] === localStorage.getItem('lang')
+      const langModal = document.querySelector('.language')
+      const languageSelect = document.querySelector('.select')
+      const callLangModalBtn = document.querySelector('.footer__lang')
+      const languagesArr = [...languageSelect.querySelectorAll('.select__option')].map(option => option.dataset.lang)
 
-      if (!isLang) {
-        toggleLanguageModal(true)
+      const currentLang = window.location.pathname.substring(1, 3)
+      const isLangInURL = languagesArr.includes(currentLang)
+      const savedLanguage = localStorage.getItem('localization')
+
+      if (savedLanguage && !isLangInURL) {
+        location.href = `${window.location.origin}/${savedLanguage}${window.location.pathname}${window.location.search}`
       }
 
-      if (!isURLLang && isLang) {
-        setLanguageToURL()
-      }
+      callLangModalBtn.addEventListener('click', () => langModal.classList.remove('language--hidden'))
 
-      function setLanguageToURL() {
-        location.href = `${window.location.protocol}//${window.location.host}/${localStorage.getItem('lang')}${window.location.pathname}`
-      }
+      langModal.addEventListener('click', (event) => {
+        event.target.classList.contains('language') ? langModal.classList.add('language--hidden') : false
+      })
 
-      function toggleLanguageModal(isShown) {
-        isShown ? langModal.classList.remove('language--hidden') : langModal.classList.add('language--hidden')
-      }
-
-      function setLanguage(event) {
-        const targetOption = event.target.closest('.select__option') ? event.target.closest('.select__option') : null
-        const lang = targetOption.dataset.lang
-        localStorage.setItem('lang', `${lang}`)
-        setLanguageToURL()
-      }
-
-      languageSelect.addEventListener('click', setLanguage)
+      window.addEventListener('load', function () {
+        if (!isLangInURL) {
+          langModal.classList.remove('language--hidden')
+        } else {
+          localStorage.setItem('localization', currentLang)
+        }
+      })
     },
     init: function () {
       Controls.openFaqContent();
