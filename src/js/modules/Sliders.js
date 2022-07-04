@@ -48,7 +48,7 @@ const Sliders = (function () {
       reviewsSliderWrap.each(function (index) {
         var _this = $(this);
         _this.addClass("swiper-slider-review-" + index);
-        var dragSize = _this.data("drag-size") ? _this.data("drag-size") : 50;
+        // var dragSize = _this.data("drag-size") ? _this.data("drag-size") : 50;
 
         const setActualReviewHeight = (isOneVisibleSlide) => {
           const reviewBlocks = document.querySelectorAll('.swiper-slider-review-' + index + ' .js-review')
@@ -74,7 +74,7 @@ const Sliders = (function () {
           scrollbar: {
             el: ".js-slider-reviews-scrollbar",
             draggable: true,
-            dragSize: dragSize,
+            dragSize: 22,
           },
           breakpoints: {
             480: {
@@ -162,7 +162,7 @@ const Sliders = (function () {
         scrollbar: {
           el: '.js-slider-header-scrollbar',
           draggable: true,
-          dragSize: 'auto'
+          dragSize: 22
         },
       });
       // headerSlider.slick({
@@ -210,7 +210,7 @@ const Sliders = (function () {
         scrollbar: {
           el: '.js-slider-hits-scrollbar',
           draggable: true,
-          dragSize: 'auto'
+          dragSize: 22
         },
 
         breakpoints: {
