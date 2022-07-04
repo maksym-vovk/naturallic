@@ -41,7 +41,6 @@ const Order = (function () {
         },
         createOrderForm: function () {
             const productName = getParameterByName("id");
-            console.log(productName);
 
             if (productName) {
                 $(".js-product-name").html(productName);

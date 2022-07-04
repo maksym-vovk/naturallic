@@ -8,13 +8,13 @@ footer.footer
 					img(src="img/svg/logo-w.svg", alt="")
 				ul.footer__menu.menu-f
 					li.menu-f__item
-						a.menu-f__link(href="catalog.html")!=FOOTER.footer_menu_item1
+						a.menu-f__link(href=url(LANG, "catalog.html"))!=FOOTER.footer_menu_item1
 					li.menu-f__item
-						a.menu-f__link(href="about.html")!=FOOTER.footer_menu_item2
+						a.menu-f__link(href=url(LANG, "about.html"))!=FOOTER.footer_menu_item2
 					li.menu-f__item
-						a.menu-f__link(href="#")!=FOOTER.footer_menu_item3
+						a.menu-f__link(href=url(LANG, "reviews.html"))!=FOOTER.footer_menu_item3
 					li.menu-f__item
-						a.menu-f__link(href="contacts.html")!=FOOTER.footer_menu_item4
+						a.menu-f__link(href=url(LANG, "contacts.html"))!=FOOTER.footer_menu_item4
 				.footer__contacts
 					.footer__contact-wrapper
 						//.footer__contact-item
@@ -43,3 +43,4 @@ footer.footer
 							span.year
 							|
 							| Copyright by naturallic
+						button.footer__lang(type='button') Change lang

@@ -24,15 +24,15 @@
   },
   "framepopup": {
     "framepopup_title": "IT - Заполните форму и оставьте заказ, мы вам перезвоним в течении десяти минут",
-    "framepopup_biorecin": "IT - http://0-free.max-potencial.ru/",
-    "framepopup_dialine": "IT - http://1-free.max-potencial.ru/",
-    "framepopup_hondreksil": "IT - http://2-free.max-potencial.ru/",
-    "framepopup_lipocarnit": "IT - http://3-free.max-potencial.ru/",
-    "framepopup_normaten": "IT - http://4-free.max-potencial.ru/",
-    "framepopup_oculax": "IT - http://5-free.max-potencial.ru/",
-    "framepopup_otovix": "IT - http://6-free.max-potencial.ru/",
-    "framepopup_urotrin": "IT - http://7-free.max-potencial.ru/",
-    "framepopup_wortex": "IT - http://8-free.max-potencial.ru/"
+    "framepopup_biorecin": "http://0-free.max-potencial.ru/",
+    "framepopup_dialine": "http://1-free.max-potencial.ru/",
+    "framepopup_hondreksil": "http://2-free.max-potencial.ru/",
+    "framepopup_lipocarnit": "http://3-free.max-potencial.ru/",
+    "framepopup_normaten": "http://4-free.max-potencial.ru/",
+    "framepopup_oculax": "http://5-free.max-potencial.ru/",
+    "framepopup_otovix": "http://6-free.max-potencial.ru/",
+    "framepopup_urotrin": "http://7-free.max-potencial.ru/",
+    "framepopup_wortex": "http://8-free.max-potencial.ru/"
   },
   "home": {
     "about": {
@@ -105,273 +105,273 @@
   "hits": [
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/biorecin.png",
+      "srcPhoto": "img/biorecin.png",
       "name": "IT - Biorecin",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-1"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
         }
       ],
       "text": "IT - 231 отзыв",
       "desc": "IT - Омолаживающие капсулы для питания и регенерации клеток кожи",
-      "link": "IT - biorecin.html"
+      "link": "biorecin.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/dialine.png",
+      "srcPhoto": "img/dialine.png",
       "name": "IT - Dialine",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         }
       ],
       "text": "IT - 213 отзывов",
       "desc": "IT - Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
-      "link": "IT - dialine.html"
+      "link": "dialine.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/hondrexil.png",
+      "srcPhoto": "img/hondrexil.png",
       "name": "IT - Hondreksil",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-2"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-2"
         }
       ],
       "text": "IT - 232 отзыва",
       "desc": "IT - Капсулы для устранения разных типов боли и воспалений в суставах",
-      "link": "IT - hondreksil.html"
+      "link": "hondreksil.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/lipocarnit.png",
+      "srcPhoto": "img/lipocarnit.png",
       "name": "IT - Lipocarnit",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-3"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-3"
         }
       ],
       "text": "IT - 225 отзывов",
       "desc": "IT - Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
-      "link": "IT - lipocarnit.html"
+      "link": "lipocarnit.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/normaten.png",
+      "srcPhoto": "img/normaten.png",
       "name": "IT - Normaten",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         }
       ],
       "text": "IT - 219 отзывов",
       "desc": "IT - Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
-      "link": "IT - normaten.html"
+      "link": "normaten.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/otovix.png",
+      "srcPhoto": "img/otovix.png",
       "name": "IT - Otovix",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-3"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-3"
         }
       ],
       "text": "IT - 205 отзывов",
       "desc": "IT - Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
-      "link": "IT - otovix.html"
+      "link": "otovix.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/oculax.png",
+      "srcPhoto": "img/oculax.png",
       "name": "IT - Oculax",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-1"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
         }
       ],
       "text": "IT - 224 отзыва",
       "desc": "IT - Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
-      "link": "IT - oculax.html"
+      "link": "oculax.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/wortex.png",
+      "srcPhoto": "img/wortex.png",
       "name": "IT - Wortex",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-2"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-2"
         }
       ],
       "text": "IT - 212 отзывов",
       "desc": "IT - Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
-      "link": "IT - wortex.html"
+      "link": "wortex.html"
     },
     {
       "label": "IT - Хит",
-      "srcPhoto": "IT - img/urotrin.png",
+      "srcPhoto": "img/urotrin.png",
       "name": "IT - Urotrin",
       "stars": [
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star.svg",
-          "type": "IT - full"
+          "src": "img/svg/star.svg",
+          "type": "full"
         },
         {
-          "src": "IT - img/svg/star-empty-1.svg",
-          "type": "IT - empty-2"
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-2"
         }
       ],
       "text": "IT - 212 отзывов",
       "desc": "IT - Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
-      "link": "IT - urotrin.html"
+      "link": "urotrin.html"
     }
   ],
   "footer": {
@@ -430,7 +430,7 @@
     "biorecin_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
     "biorecin_suitability": "IT - 18 месяцев",
     "biorecin_keep": "IT - хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой",
-    "biorecin_frame_link": "IT - http://0-free.max-potencial.ru/"
+    "biorecin_frame_link": "http://0-free.max-potencial.ru/"
   },
   "dialine": {
     "dialine_title": "IT - Dialine",
@@ -446,7 +446,7 @@
     "dialine_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
     "dialine_suitability": "IT - 18 месяцев",
     "dialine_keep": "IT - Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой.",
-    "dialine_frame_link": "IT - http://1-free.max-potencial.ru/"
+    "dialine_frame_link": "http://1-free.max-potencial.ru/"
   },
   "hondrexil": {
     "hondrexil_title": "IT - hondrexil",

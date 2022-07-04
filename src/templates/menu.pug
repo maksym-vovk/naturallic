@@ -3,18 +3,23 @@
 .nav
 	.container
 		.nav__wrap
-			a.nav__logo(href=url(LANG,'/'))
+			//a.nav__logo(href=url(LANG,'/'))
+			a.nav__logo(href=url(LANG,'index.html'))
 				img(src="img/svg/logo.svg", alt="Vitaliss")
 			.nav__right
 				ul.nav__menu.menu
 					li.menu__item
-						a.menu__link(href="catalog.html")!=MENU.menu_title_catalog
+						//a.menu__link(href="catalog.html")!=MENU.menu_title_catalog
+						a.menu__link(href=url(LANG,'catalog.html'))!=MENU.menu_title_catalog
 					li.menu__item
-						a.menu__link(href="about.html")!=MENU.menu_title_about_us
+						//a.menu__link(href="about.html")!=MENU.menu_title_about_us
+						a.menu__link(href=url(LANG,'about.html'))!=MENU.menu_title_about_us
 					li.menu__item
-						a.menu__link(href="contacts.html")!=MENU.menu_title_contacts
+						//a.menu__link(href="contacts.html")!=MENU.menu_title_contacts
+						a.menu__link(href=url(LANG,'contacts.html'))!=MENU.menu_title_contacts
 					li.menu__item
-						a.menu__link(href="reviews.html")!=MENU.menu_title_review
+						//a.menu__link(href="reviews.html")!=MENU.menu_title_review
+						a.menu__link(href=url(LANG,'reviews.html'))!=MENU.menu_title_review
 				.nav__btn-wrap
 					a.nav__link-tel(href=MENU.menu_phone)!=MENU.menu_phone
 					button.nav__btn.btn.js-show-popup(title=MENU.menu_title_btn data-target="#popup")!=MENU.menu_title_btn
