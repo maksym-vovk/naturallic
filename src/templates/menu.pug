@@ -21,7 +21,7 @@
 						//a.menu__link(href="reviews.html")!=MENU.menu_title_review
 						a.menu__link(href=url(LANG,'reviews.html'))!=MENU.menu_title_review
 				.nav__btn-wrap
-					a.nav__link-tel(href=MENU.menu_phone)!=MENU.menu_phone
+					a.nav__link-tel(href=`tel:${MENU.menu_phone}`)!=MENU.menu_phone
 					button.nav__btn.btn.js-show-popup(title=MENU.menu_title_btn data-target="#popup")!=MENU.menu_title_btn
 				.burger.js-burger(data-target="#js-mobile-menu")
 					span.burger__line

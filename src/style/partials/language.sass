@@ -9,14 +9,17 @@
   justify-content: center
   align-items: center
   cursor: pointer
-  -webkit-backdrop-filter: blur(5px)
-  backdrop-filter: blur(5px)
+  background: rgba(255, 255, 255, 0.8)
+  //-webkit-backdrop-filter: blur(5px)
+  //backdrop-filter: blur(5px)
   &--hidden
     display: none
+
   &__wrapper
     cursor: auto
     max-width: 529px
     width: 100%
+
   &__main
     display: flex
     flex-direction: column
@@ -29,10 +32,12 @@
     margin: 0 auto
     +r(639)
       padding: 30px
+
   &__logo
     margin-bottom: 5px
     +r(639)
       margin-bottom: 10px
+
   &__desc
     font-size: 20px
     line-height: 32px
@@ -49,15 +54,19 @@
   background: $light-blue
   border-radius: 40px
   width: 100%
+
   &__header
     background: #ffffff
     border-radius: 40px
     //cursor: pointer
     padding: 20px 25px
+
   &__current
     font-size: 22px
+
   &__body
     padding: 25px
+
   &__option
     display: flex
     align-items: center
@@ -65,12 +74,16 @@
     color: $main-green
     cursor: pointer
     transition: all .3s
+
     &:not(:last-of-type)
       margin-bottom: 17px
+
     &:hover
       opacity: 0.6
+
   &__flag
     width: 20px
     margin-right: 10px
+
   &__country
     font-size: 22px
