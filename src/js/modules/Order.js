@@ -25,7 +25,7 @@ const Order = (function () {
     return {
         submitForm: function () {
             $("#order-form").submit(function (e) {
-                // e.preventDefault();
+                e.preventDefault();
                 const dataForm = $(this).find(":input:not(:hidden)").serializeArray();
 
                 const [...object] = dataForm.map(function (item) {
@@ -37,6 +37,9 @@ const Order = (function () {
                 const oldArray = data;
                 data = oldArray.concat(countObject).concat(object);
                 updValueChatbotHistory();
+
+                const productName = getParameterByName("id");
+                location.href = `${location.origin}/success.html?id=${productName}`
             });
         },
         createOrderForm: function () {
@@ -44,7 +47,7 @@ const Order = (function () {
 
             if (productName) {
                 $(".js-product-name").html(productName);
-                $(".js-product-photo").attr("src", `img/${productName}.png`);
+                $(".js-product-photo").attr("src", `../img/${productName}.png`);
 
                 // const productInfo = productsInfo[`${productName}`];
                 // $(`input[name='campaign_id']`).val(productInfo.campaign_id);
@@ -73,7 +76,7 @@ const Order = (function () {
         createSuccessPage: function () {
             const paramProduct = getParameterByName("id");
             $(".js-success-product-name").html(paramProduct);
-            $(".js-success-product-photo").attr("src", `img/${paramProduct}.png`);
+            $(".js-success-product-photo").attr("src", `../img/${paramProduct}.png`);
         },
         showResiudePack: function () {
             let max = 60;
