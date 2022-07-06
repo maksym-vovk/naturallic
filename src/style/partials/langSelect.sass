@@ -1,0 +1,45 @@
+.lang-select
+  flex-shrink: 0
+  width: 60px
+  height: 32px
+  position: relative
+
+  &__current
+    display: flex
+    justify-content: center
+    align-items: center
+    border: 1px solid $main-green
+    border-radius: 16px
+    background: white
+    width: 60px
+    height: 100%
+    cursor: pointer
+    padding: 5px 10px
+    position: relative
+    z-index: 1
+
+  &__body
+    display: none
+    flex-direction: column
+    align-items: center
+    background: $light-blue
+    border-radius: 16px
+    width: 60px
+    transition: all .3s
+    padding-top: 37px
+    position: absolute
+    top: 0
+    left: 0
+    right: 0
+
+  &--active &__body
+    display: flex
+
+  &__option
+    padding: 5px 10px
+
+    &--hidden
+      display: none
+
+  &__flag
+    width: 20px

@@ -6,13 +6,29 @@
 	padding: 24px 0
 	+r(767)
 		padding: 17px 0
+
+	& .container
+		width: 1255px
+		+r(1249)
+			width: 1000px
+		+r(1023)
+			width: 760px
+		+r(767)
+			width: 640px
+		+r(639)
+			width: 480px
+		+r(639)
+			width: 100%
+
 	&__wrap
 		display: flex
 		align-items: center
 		justify-content: space-between
 	&__logo
-		width: 200px
+		width: 238px
+		margin-right: 80px
 		+r(1023)
+			width: 180px
 			margin-right: 40px
 		+r(767)
 			width: 135px
@@ -24,19 +40,23 @@
 		display: flex
 		align-items: center
 		flex: 1
-		justify-content: flex-end
-	&__menu
-		margin-right: 87px
+		justify-content: space-between
 		+r(1249)
-			margin-right: 70px
-		+r(1023)
+			justify-content: flex-end
+	&__menu
+		margin-right: 80px
+		+r(1249)
 			display: none
+		//	margin-right: 70px
+		//+r(1023)
+		//	display: none
 	&__btn-wrap
 		position: relative
 		max-width: 225px
 		width: 100%
 		flex-shrink: 0
-		+r(1023)
+		margin-right: 35px
+		+r(1249)
 			display: flex
 			align-items: center
 			justify-content: flex-end
@@ -47,7 +67,8 @@
 			margin-right: 15px
 	&__btn
 		padding: 5px 10px
-		+r(1023)
+		+r(1249)
+			font-size: 18px
 			max-width: 200px
 		+r(767)
 			display: none
@@ -67,7 +88,7 @@
 		text-decoration: none
 		&:hover
 			text-decoration: underline
-		+r(1023)
+		+r(1249)
 			position: static
 			transform: none
 			margin-right: 25px
@@ -77,6 +98,12 @@
 			margin-right: 0
 		+r(479)
 			font-size: 14px
+	& .lang-select
+		+r(1249)
+			display: none
+			//margin-right: 25px
+		//+r(767)
+		//	display: none
 
 
 
@@ -85,10 +112,8 @@
 	align-items: center
 	&__item
 		position: relative
-		+rm(1023)
-			border-radius: 50px
-			transition: all .5s
-			padding: 0 15px
+		//+rm(1023)
+
 
 			//&::after
 			//	content: ''
@@ -102,8 +127,8 @@
 			//	bottom: 0
 			//	transition: all .5s
 			//	z-index: -1
-			&:hover
-				background: $gold
+			//&:hover
+			//	background: $gold
 
 
 				//&::after
@@ -114,17 +139,25 @@
 			+nlt
 				margin-right: 10px
 	&__link
+		display: block
 		font-family: 'Inter', Arial, Helvetica, sans-serif
 		font-size: 18px
-		line-height: 32px
+		text-align: center
+		line-height: 1.2
 		color: $main-green
 		text-decoration: none
 		text-transform: uppercase
+		+rm(1023)
+			border-radius: 50px
+			transition: all .5s
+			padding: 0 15px
+			&:hover
+				background: $gold
 
 //mobile menu - burger
 .burger
 	display: none
-	+r(1023)
+	+r(1249)
 		display: flex
 		flex-direction: column
 		align-items: flex-end
