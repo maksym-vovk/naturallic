@@ -129,7 +129,6 @@ const Controls = (function () {
     setLanguage: function () {
       const langModal = document.querySelector('.language')
       const languageSelect = document.querySelector('.select')
-      const callLangModalBtn = document.querySelector('.footer__lang')
       const languagesArr = [...languageSelect.querySelectorAll('.select__option')].map(option => option.dataset.lang)
 
       const currentLang = window.location.pathname.substring(1, 3)
@@ -139,8 +138,6 @@ const Controls = (function () {
       if (savedLanguage && !isLangInURL) {
         location.href = `${window.location.origin}/${savedLanguage}${window.location.pathname}${window.location.search}`
       }
-
-      callLangModalBtn.addEventListener('click', () => langModal.classList.remove('language--hidden'))
 
       langModal.addEventListener('click', (event) => {
         event.target.classList.contains('language') ? langModal.classList.add('language--hidden') : false
@@ -154,6 +151,33 @@ const Controls = (function () {
         }
       })
     },
+    showHeaderLang: function () {
+      const langSelect = document.querySelectorAll('.lang-select')
+      const currentLangBlock = document.querySelectorAll('.lang-select__current')
+      const langOptions = document.querySelectorAll('.lang-select__option')
+      const currentLang = window.location.pathname.substring(1, 3)
+
+      langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--hidden') : false)
+
+      const createCurrentFlagElement = (innerElement) => {
+        const flagImage = document.createElement('img')
+        flagImage.className = 'lang-select__flag lang-select__flag--current'
+        flagImage.setAttribute('src', `../img/language-${currentLang}.png`)
+        flagImage.setAttribute('alt', currentLang)
+        innerElement.append(flagImage)
+      }
+
+      currentLangBlock.forEach(block => createCurrentFlagElement(block))
+
+      document.addEventListener('click', (event) => {
+        const {target} = event
+        if (target.closest('.lang-select')) {
+          langSelect.forEach(select => select.classList.toggle('lang-select--active'))
+        } else {
+          langSelect.forEach(select => select.classList.remove('lang-select--active'))
+        }
+      })
+    },
     init: function () {
       Controls.openFaqContent();
       Controls.highlightingActiveTab();
@@ -163,6 +187,7 @@ const Controls = (function () {
       Controls.calculateReviews();
       Controls.showReviews();
       Controls.setLanguage();
+      Controls.showHeaderLang()
     },
   };
 })();

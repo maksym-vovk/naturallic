@@ -1,29 +1,29 @@
 {
   "locale": "it",
   "menu": {
-    "menu_title_catalog": "IT - Каталог",
-    "menu_title_about_us": "IT - О нас",
-    "menu_title_contacts": "IT - Контакты",
-    "menu_title_review": "IT - Отзывы",
-    "menu_title_btn": "IT - Заказать звонок",
+    "menu_title_catalog": "Каталог",
+    "menu_title_about_us": "О нас",
+    "menu_title_contacts": "Контакты",
+    "menu_title_review": "Отзывы",
+    "menu_title_btn": "Заказать звонок",
     "menu_phone": "393509917389"
   },
   "mobile_menu": {
-    "mobile_menu_item1": "IT - Каталог",
-    "mobile_menu_item2": "IT - О нас",
-    "mobile_menu_item3": "IT - Контакты",
-    "mobile_menu_item4": "IT - Отзывы",
-    "mobile_menu_btn": "IT - Заказать звонок"
+    "mobile_menu_item1": "Каталог",
+    "mobile_menu_item2": "О нас",
+    "mobile_menu_item3": "Контакты",
+    "mobile_menu_item4": "Отзывы",
+    "mobile_menu_btn": "Заказать звонок"
   },
   "callbackpopup": {
-    "callbackpopup_title": "IT - Мы Вам перезвоним для&nbsp;уточнения деталей",
-    "callbackpopup_field_name": "IT - Имя",
-    "callbackpopup_field_phone": "IT - Телефон",
-    "callbackpopup_field_message": "IT - Сообщение",
-    "callbackpopup_btn": "IT - Заказать звонок"
+    "callbackpopup_title": "Мы Вам перезвоним для&nbsp;уточнения деталей",
+    "callbackpopup_field_name": "Имя",
+    "callbackpopup_field_phone": "Телефон",
+    "callbackpopup_field_message": "Сообщение",
+    "callbackpopup_btn": "Заказать звонок"
   },
   "framepopup": {
-    "framepopup_title": "IT - Заполните форму и оставьте заказ, мы вам перезвоним в течении десяти минут",
+    "framepopup_title": "Заполните форму и оставьте заказ, мы вам перезвоним в течении десяти минут",
     "framepopup_biorecin": "http://0-free.max-potencial.ru/",
     "framepopup_dialine": "http://1-free.max-potencial.ru/",
     "framepopup_hondreksil": "http://2-free.max-potencial.ru/",
@@ -36,77 +36,77 @@
   },
   "home": {
     "about": {
-      "about_block_title": "IT - О компании",
-      "about_block_text1": "IT - Наша миссия -  создавать товары для помощи людям в решении проблем со здоровьем. Это натуральные продукты, безопасность и качество которых проверяются на всех этапах производства*",
-      "about_block_text2": "IT - Силы природы, научные инновации и знания лучших специалистов позволяют нам достигнуть максимального эффекта и пользы. Производим продукцию на современном оборудовании в соответствии с мировыми стандартами качества.",
-      "about_block_text3": "IT - Мы гордимся тем, что с помощью продукции Vitaliss каждый день тысячи людей укрепляют свое здоровье и меняют жизнь к лучшему!",
-      "about_block_text4": "IT - Мы заботимся о вас! С любовью, Vitaliss",
-      "about_block_text5": "IT - (*учитывайте индивидуальные особенности организма к конкретным ингредиентам)"
+      "about_block_title": "О компании",
+      "about_block_text1": "Наша миссия -  создавать товары для помощи людям в решении проблем со здоровьем. Это натуральные продукты, безопасность и качество которых проверяются на всех этапах производства*",
+      "about_block_text2": "Силы природы, научные инновации и знания лучших специалистов позволяют нам достигнуть максимального эффекта и пользы. Производим продукцию на современном оборудовании в соответствии с мировыми стандартами качества.",
+      "about_block_text3": "Мы гордимся тем, что с помощью продукции Vitaliss каждый день тысячи людей укрепляют свое здоровье и меняют жизнь к лучшему!",
+      "about_block_text4": "Мы заботимся о вас! С любовью, Vitaliss",
+      "about_block_text5": "(*учитывайте индивидуальные особенности организма к конкретным ингредиентам)"
     },
     "faq": {
-      "faq_block_title": "IT - FAQ",
-      "faq_block_question1": "IT - Сертифицирована ли продукция?",
-      "faq_block_answer1": "IT - Все наши товары изготовляются на сертифицированных производствах. И регулярно проходят проверку по соблюдению требований Управления по санитарному надзору за качеством пищевых продуктов и медикаментов США (FDA) для пищевой промышленности. Действительность сертификата вы можете проверить на сайте FDA указав в запросе название производства или №сертификата указного на упаковке товара",
-      "faq_block_question2": "IT - Как узнать способ применения товара?",
-      "faq_block_answer2": "IT - Вся информация о способах применения и времени хранения есть на карточках товара, а так же в печатной инструкции, которая находится внутри упаковки.",
-      "faq_block_question3": "IT - Какие есть противопоказания для бадов и космецевтики?",
-      "faq_block_answer3": "IT - Эфективность товаров данной категории проверяется научными исследованиями свойств ингредиентов и клиническими исследованиями готового продукта.",
-      "faq_block_question4": "IT - Какое сырье используется для производства данной продукции?",
-      "faq_block_answer4": "IT - Для БАД и косметики используются только натуральные ингридиенты и экстракты растительного или животного происхождения.",
-      "faq_block_question5": "IT - Как проверяется эффективность бад и косметики?",
-      "faq_block_answer5": "IT - Все пищевые добавки имеют доказательную научную базу и обязательно проходят лабораторные и клинические испытания"
+      "faq_block_title": "FAQ",
+      "faq_block_question1": "Сертифицирована ли продукция?",
+      "faq_block_answer1": "Все наши товары изготовляются на сертифицированных производствах. И регулярно проходят проверку по соблюдению требований Управления по санитарному надзору за качеством пищевых продуктов и медикаментов США (FDA) для пищевой промышленности. Действительность сертификата вы можете проверить на сайте FDA указав в запросе название производства или №сертификата указного на упаковке товара",
+      "faq_block_question2": "Как узнать способ применения товара?",
+      "faq_block_answer2": "Вся информация о способах применения и времени хранения есть на карточках товара, а так же в печатной инструкции, которая находится внутри упаковки.",
+      "faq_block_question3": "Какие есть противопоказания для бадов и космецевтики?",
+      "faq_block_answer3": "Эфективность товаров данной категории проверяется научными исследованиями свойств ингредиентов и клиническими исследованиями готового продукта.",
+      "faq_block_question4": "Какое сырье используется для производства данной продукции?",
+      "faq_block_answer4": "Для БАД и косметики используются только натуральные ингридиенты и экстракты растительного или животного происхождения.",
+      "faq_block_question5": "Как проверяется эффективность бад и косметики?",
+      "faq_block_answer5": "Все пищевые добавки имеют доказательную научную базу и обязательно проходят лабораторные и клинические испытания"
     },
     "header": {
-      "header_block_slide1_title": "IT - Сила природы для вашей красоты",
-      "header_block_slide1_description": "IT - Безопасный уход за зрелой кожей для омоложения и предотвращения появления новых морщин",
-      "header_block_slide2_title": "IT - Природные компоненты для&nbsp;долголетия",
-      "header_block_slide2_description": "IT - Эффективная поддержка здоровья силами природы и современными технологиями для всей семьи",
-      "header_block_slide3_title": "IT - Щедрый урожай без лишних хлопот",
-      "header_block_slide3_description": "IT - Натуральные средства для борьбы с вредителями и стимуляции урожая",
-      "header_block_btn": "IT - ПОДРОБНЕЕ"
+      "header_block_slide1_title": "Сила природы для вашей красоты",
+      "header_block_slide1_description": "Безопасный уход за зрелой кожей для омоложения и предотвращения появления новых морщин",
+      "header_block_slide2_title": "Природные компоненты для&nbsp;долголетия",
+      "header_block_slide2_description": "Эффективная поддержка здоровья силами природы и современными технологиями для всей семьи",
+      "header_block_slide3_title": "Щедрый урожай без лишних хлопот",
+      "header_block_slide3_description": "Натуральные средства для борьбы с вредителями и стимуляции урожая",
+      "header_block_btn": "ПОДРОБНЕЕ"
     },
     "hits_block": {
-      "hits_block_title": "IT - Хит"
+      "hits_block_title": "Хит"
     },
     "category": {
-      "category_block_title": "IT - Популярные категории",
-      "category_block_title1": "IT - Красота",
-      "category_block_description1": "IT - Натуральные средства для красоты и молодости",
-      "category_block_title2": "IT - Здоровье",
-      "category_block_description2": "IT - Натуральные средства для поддержки здоровья и укрепления иммунитета",
-      "category_block_btn": "IT - ПОДРОБНЕЕ"
+      "category_block_title": "Популярные категории",
+      "category_block_title1": "Красота",
+      "category_block_description1": "Натуральные средства для красоты и молодости",
+      "category_block_title2": "Здоровье",
+      "category_block_description2": "Натуральные средства для поддержки здоровья и укрепления иммунитета",
+      "category_block_btn": "ПОДРОБНЕЕ"
     },
     "reviews": {
-      "reviews_block_title": "IT - Отзывы",
-      "reviews_block_total": "IT - Всего 80",
-      "reviews_block_view_all": "IT - Смотреть все"
+      "reviews_block_title": "Отзывы",
+      "reviews_block_total": "Всего 80",
+      "reviews_block_view_all": "Смотреть все"
     }
   },
   "aboutpage": {
-    "about_page_title": "IT - Коротко о нашей компании",
-    "about_page_description": "IT - <span class=\"color\">Vitaliss</span> – натуральная продукция для красоты и здоровья, сочетающая в себе силу природных компонентов и передовые научные достижения.",
-    "about_page_item1": "IT - Разрабатываем рецептуру",
-    "about_page_item2": "IT - Подбираем натуральные ингредиенты",
-    "about_page_item3": "IT - Проводим клинические исследования",
-    "about_page_item4": "IT - Подтверждаем эффективность товаров",
-    "about_page_item5": "IT - Сертифицируем <br>товары",
-    "about_page_item6": "IT - Реализуем товары онлайн"
+    "about_page_title": "Коротко о нашей компании",
+    "about_page_description": "<span class=\"color\">Vitaliss</span> – натуральная продукция для красоты и здоровья, сочетающая в себе силу природных компонентов и передовые научные достижения.",
+    "about_page_item1": "Разрабатываем рецептуру",
+    "about_page_item2": "Подбираем натуральные ингредиенты",
+    "about_page_item3": "Проводим клинические исследования",
+    "about_page_item4": "Подтверждаем эффективность товаров",
+    "about_page_item5": "Сертифицируем <br>товары",
+    "about_page_item6": "Реализуем товары онлайн"
   },
   "aboutpageform": {
-    "aboutpageform_title": "IT - Форма обратной связи",
-    "aboutpageform_cta": "IT - Оставьте заявку <br>и мы Вам перезвоним",
-    "aboutpageform_callback": "IT - Если вам удобно, чтобы мы сами вам перезвонили, оставьте свой телефон и мы обязательно с вами свяжемся!",
-    "aboutpageform_field_name": "IT - Имя",
-    "aboutpageform_field_phone": "IT - Телефон",
-    "aboutpageform_field_email": "IT - E-mail",
-    "aboutpageform_field_message": "IT - Сообщение",
-    "aboutpageform_btn": "IT - Отправить"
+    "aboutpageform_title": "Форма обратной связи",
+    "aboutpageform_cta": "Оставьте заявку <br>и мы Вам перезвоним",
+    "aboutpageform_callback": "Если вам удобно, чтобы мы сами вам перезвонили, оставьте свой телефон и мы обязательно с вами свяжемся!",
+    "aboutpageform_field_name": "Имя",
+    "aboutpageform_field_phone": "Телефон",
+    "aboutpageform_field_email": "E-mail",
+    "aboutpageform_field_message": "Сообщение",
+    "aboutpageform_btn": "Отправить"
   },
   "hits": [
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/biorecin.png",
-      "name": "IT - Biorecin",
+      "name": "Biorecin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -129,14 +129,14 @@
           "type": "empty-1"
         }
       ],
-      "text": "IT - 231 отзыв",
-      "desc": "IT - Омолаживающие капсулы для питания и регенерации клеток кожи",
+      "text": "231 отзыв",
+      "desc": "Омолаживающие капсулы для питания и регенерации клеток кожи",
       "link": "biorecin.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/dialine.png",
-      "name": "IT - Dialine",
+      "name": "Dialine",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -159,14 +159,14 @@
           "type": "full"
         }
       ],
-      "text": "IT - 213 отзывов",
-      "desc": "IT - Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
+      "text": "213 отзывов",
+      "desc": "Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
       "link": "dialine.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/hondrexil.png",
-      "name": "IT - Hondreksil",
+      "name": "Hondreksil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -189,14 +189,14 @@
           "type": "empty-2"
         }
       ],
-      "text": "IT - 232 отзыва",
-      "desc": "IT - Капсулы для устранения разных типов боли и воспалений в суставах",
+      "text": "232 отзыва",
+      "desc": "Капсулы для устранения разных типов боли и воспалений в суставах",
       "link": "hondreksil.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/lipocarnit.png",
-      "name": "IT - Lipocarnit",
+      "name": "Lipocarnit",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -219,14 +219,14 @@
           "type": "empty-3"
         }
       ],
-      "text": "IT - 225 отзывов",
-      "desc": "IT - Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
+      "text": "225 отзывов",
+      "desc": "Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
       "link": "lipocarnit.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/normaten.png",
-      "name": "IT - Normaten",
+      "name": "Normaten",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -249,14 +249,14 @@
           "type": "full"
         }
       ],
-      "text": "IT - 219 отзывов",
-      "desc": "IT - Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
+      "text": "219 отзывов",
+      "desc": "Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
       "link": "normaten.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/otovix.png",
-      "name": "IT - Otovix",
+      "name": "Otovix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -279,14 +279,14 @@
           "type": "empty-3"
         }
       ],
-      "text": "IT - 205 отзывов",
-      "desc": "IT - Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
+      "text": "205 отзывов",
+      "desc": "Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
       "link": "otovix.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/oculax.png",
-      "name": "IT - Oculax",
+      "name": "Oculax",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -309,14 +309,14 @@
           "type": "empty-1"
         }
       ],
-      "text": "IT - 224 отзыва",
-      "desc": "IT - Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
+      "text": "224 отзыва",
+      "desc": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
       "link": "oculax.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/wortex.png",
-      "name": "IT - Wortex",
+      "name": "Wortex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -339,14 +339,14 @@
           "type": "empty-2"
         }
       ],
-      "text": "IT - 212 отзывов",
-      "desc": "IT - Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
+      "text": "212 отзывов",
+      "desc": "Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
       "link": "wortex.html"
     },
     {
-      "label": "IT - Хит",
+      "label": "Хит",
       "srcPhoto": "img/urotrin.png",
-      "name": "IT - Urotrin",
+      "name": "Urotrin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -369,190 +369,190 @@
           "type": "empty-2"
         }
       ],
-      "text": "IT - 212 отзывов",
-      "desc": "IT - Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+      "text": "212 отзывов",
+      "desc": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
       "link": "urotrin.html"
     }
   ],
   "footer": {
-    "footer_menu_item1": "IT - Каталог",
-    "footer_menu_item2": "IT - О нас",
-    "footer_menu_item3": "IT - Отзывы",
-    "footer_menu_item4": "IT - Контакты",
-    "footer_terms": "IT - Условия",
-    "footer_cookies": "IT - Куки полисии",
-    "footer_copyright": "IT - 2022 <br>Copyright by naturallic",
+    "footer_menu_item1": "Каталог",
+    "footer_menu_item2": "О нас",
+    "footer_menu_item3": "Отзывы",
+    "footer_menu_item4": "Контакты",
+    "footer_terms": "Условия",
+    "footer_cookies": "Куки полисии",
+    "footer_copyright": "2022 <br>Copyright by naturallic",
     "footer_tel_country": "Италия:",
     "footer_tel_number": "393509917389"
   },
   "contacts": {
-    "contacts_title": "IT - Контакты",
-    "contacts_form_title": "IT - Оставьте заявку <br>и мы Вам перезвоним",
-    "contacts_form_title1": "IT - Вы можете оставить заявку здесь на сайте, или же обратиться к нам через форму обратной связи. Так же можете отправить свои вопросы на почту:",
-    "contacts_form_description": "IT - Если вам удобно, чтобы мы сами вам перезвонили, оставьте свой телефон и мы обязательно с вами свяжемся!",
-    "contacts_field_name": "IT - Имя",
-    "contacts_field_phone": "IT - Телефон",
-    "contacts_field_email": "IT - E-mail",
-    "contacts_field_message": "IT - Сообщение",
-    "contacts_btn": "IT - Отправить",
-    "contacts_address": "IT - ",
-    "contacts_email_address": "IT - info@vitaliss.group",
-    "contacts_email_title": "IT - ",
-    "contacts_telephone_title": "IT - "
+    "contacts_title": "Контакты",
+    "contacts_form_title": "Оставьте заявку <br>и мы Вам перезвоним",
+    "contacts_form_title1": "Вы можете оставить заявку здесь на сайте, или же обратиться к нам через форму обратной связи. Так же можете отправить свои вопросы на почту:",
+    "contacts_form_description": "Если вам удобно, чтобы мы сами вам перезвонили, оставьте свой телефон и мы обязательно с вами свяжемся!",
+    "contacts_field_name": "Имя",
+    "contacts_field_phone": "Телефон",
+    "contacts_field_email": "E-mail",
+    "contacts_field_message": "Сообщение",
+    "contacts_btn": "Отправить",
+    "contacts_address": "",
+    "contacts_email_address": "info@vitaliss.group",
+    "contacts_email_title": "",
+    "contacts_telephone_title": ""
   },
   "terms": {
-    "terms_title": "IT - Terms of Service"
+    "terms_title": "Terms of Service"
   },
   "product_card": {
-    "product_card_bread_main": "IT - Главная",
-    "product_card_bread_catalog": "IT - Каталог",
-    "product_niche": "IT - <span>Направление: </span>",
-    "product_form_factor": "IT - <span>Форма выпуска:&nbsp;</span>",
-    "product_description": "IT - Описание",
-    "product_btn": "IT - Заказать",
-    "product_compound": "IT - Состав",
-    "product_usage": "IT - Применение",
-    "product_contraindications": "IT - Противопоказания",
-    "product_additional": "IT - Доп. информация",
-    "product_manufacturer": "IT - <span>Производитель: </span>",
-    "product_suitability": "IT - <span>Срок годности: </span>",
-    "product_keep": "IT - <span>Условия хранения: </span>"
+    "product_card_bread_main": "Главная",
+    "product_card_bread_catalog": "Каталог",
+    "product_niche": "<span>Направление: </span>",
+    "product_form_factor": "<span>Форма выпуска:&nbsp;</span>",
+    "product_description": "Описание",
+    "product_btn": "Заказать",
+    "product_compound": "Состав",
+    "product_usage": "Применение",
+    "product_contraindications": "Противопоказания",
+    "product_additional": "Доп. информация",
+    "product_manufacturer": "<span>Производитель: </span>",
+    "product_suitability": "<span>Срок годности: </span>",
+    "product_keep": "<span>Условия хранения: </span>"
   },
   "biorecin": {
-    "biorecin_title": "IT - Biorecin",
-    "biorecin_category": "IT - Для красоты ",
-    "biorecin_review_count": "IT - 231 отзыв",
-    "biorecin_niche": "IT - Омоложение",
-    "biorecin_form_factor": "IT - Капсулы в банке, 21 шт",
-    "biorecin_short_description": "IT - Омолаживающие капсулы для питания и регенерации клеток кожи",
-    "biorecin_description": "IT - Капсулы для омоложения кожи содержат растительные компоненты и витамины которые помогают улучшить питание и регенерацию клеток кожи. Способствует восстановлению коллагеновых и эластиновых волокон, благоприятно влияет на упругость и тонус лица",
-    "biorecin_compound": "IT - Коллаген, биотин, витамин Е, шиповник",
-    "biorecin_usage": "IT - Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день).<br> Ограничения: дети до 8 лет",
-    "biorecin_contraindications": "IT - Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
-    "biorecin_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "biorecin_suitability": "IT - 18 месяцев",
-    "biorecin_keep": "IT - хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой",
+    "biorecin_title": "Biorecin",
+    "biorecin_category": "Для красоты ",
+    "biorecin_review_count": "231 отзыв",
+    "biorecin_niche": "Омоложение",
+    "biorecin_form_factor": "Капсулы в банке, 21 шт",
+    "biorecin_short_description": "Омолаживающие капсулы для питания и регенерации клеток кожи",
+    "biorecin_description": "Капсулы для омоложения кожи содержат растительные компоненты и витамины которые помогают улучшить питание и регенерацию клеток кожи. Способствует восстановлению коллагеновых и эластиновых волокон, благоприятно влияет на упругость и тонус лица",
+    "biorecin_compound": "Коллаген, биотин, витамин Е, шиповник",
+    "biorecin_usage": "Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день).<br> Ограничения: дети до 8 лет",
+    "biorecin_contraindications": "Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
+    "biorecin_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "biorecin_suitability": "18 месяцев",
+    "biorecin_keep": "хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой",
     "biorecin_frame_link": "http://0-free.max-potencial.ru/"
   },
   "dialine": {
-    "dialine_title": "IT - Dialine",
-    "dialine_category": "IT - Для здоровья",
-    "dialine_review_count": "IT - 213 отзывов",
-    "dialine_niche": "IT - Диабет",
-    "dialine_form_factor": "IT - Капсулы в банке, 21 шт",
-    "dialine_short_description": "IT - Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
-    "dialine_description": "IT - Капсулы содержат растительные компоненты и витамины которые помогают нормализовать уровень глюкозы в крови, уровень холестерина и работу эндокринной системы",
-    "dialine_compound": "IT - Цитрат магния, желатин (из капсулы), кукурузный мальтодекстрин, порошок корицы (Cinnamomum verum J.Presl), порошок алоэ вера (Aloe ferox), порошок моринги (Moringa oleifera), аскорбиновая кислота (витамин C) , ESTEVIA, стеарат магния, мононитрат тиамина (витамин B1), холекальциферол (витамин D), пиколинат хрома.",
-    "dialine_usage": "IT - Небольшое количество крема нанести на чистую, сухую кожу  легкими движениями по  массажным линиям лица и шеи. Применять крем утром и вечером.",
-    "dialine_contraindications": "IT - Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
-    "dialine_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "dialine_suitability": "IT - 18 месяцев",
-    "dialine_keep": "IT - Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой.",
+    "dialine_title": "Dialine",
+    "dialine_category": "Для здоровья",
+    "dialine_review_count": "213 отзывов",
+    "dialine_niche": "Диабет",
+    "dialine_form_factor": "Капсулы в банке, 21 шт",
+    "dialine_short_description": "Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
+    "dialine_description": "Капсулы содержат растительные компоненты и витамины которые помогают нормализовать уровень глюкозы в крови, уровень холестерина и работу эндокринной системы",
+    "dialine_compound": "Цитрат магния, желатин (из капсулы), кукурузный мальтодекстрин, порошок корицы (Cinnamomum verum J.Presl), порошок алоэ вера (Aloe ferox), порошок моринги (Moringa oleifera), аскорбиновая кислота (витамин C) , ESTEVIA, стеарат магния, мононитрат тиамина (витамин B1), холекальциферол (витамин D), пиколинат хрома.",
+    "dialine_usage": "Небольшое количество крема нанести на чистую, сухую кожу  легкими движениями по  массажным линиям лица и шеи. Применять крем утром и вечером.",
+    "dialine_contraindications": "Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
+    "dialine_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "dialine_suitability": "18 месяцев",
+    "dialine_keep": "Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой.",
     "dialine_frame_link": "http://1-free.max-potencial.ru/"
   },
   "hondrexil": {
-    "hondrexil_title": "IT - hondrexil",
-    "hondrexil_category": "IT - Для здоровья",
-    "hondrexil_review_count": "IT - 232 отзыва",
-    "hondrexil_niche": "IT - Суставы",
-    "hondrexil_form_factor": "IT - Капсулы в банке, 21 шт",
-    "hondrexil_short_description": "IT - Капсулы для устранения разных типов боли и воспалений в суставах",
-    "hondrexil_description": "IT - Пищевая добавка с растительными ингредиентами для нормализации работы опорно-двигательной системы. Растительные компоненты влияют  на снижение боли и подвижность суставов",
-    "hondrexil_compound": "IT - гидролизованный коллаген, желатин (из капсулы), цитрат магния, порошок куркумы (Curcuma longa), порошок хвоща полевого (Equisetum arvense), аскорбиновая кислота (витамин C), кукурузный мальтодекстрин, рыбий жир в порошке (порошок Омега 3), стеарат магния, dl-альфа-токоферола ацетат (витамин E), аморфный диоксид кремния",
-    "hondrexil_usage": "IT - 3 капсулы во время завтрака. Нельзя превышать дозу (3 капсулы)<br> Ограничения: дети до 8 лет.",
-    "hondrexil_contraindications": "IT - Индивидуальная непереносимость компонентов. Не употреблять в период беременности и грудного вскармливания",
-    "hondrexil_manufacturer": "IT - SOCIEDAD COMERCIAL Y DE ASESORIAS UNITRADE SpA",
-    "hondrexil_suitability": "IT - 18 месяцев",
-    "hondrexil_keep": "IT - хранить в сухом, недоступном для детей месте, при температуре не выше +25°С и  относительной влажности 60%"
+    "hondrexil_title": "hondrexil",
+    "hondrexil_category": "Для здоровья",
+    "hondrexil_review_count": "232 отзыва",
+    "hondrexil_niche": "Суставы",
+    "hondrexil_form_factor": "Капсулы в банке, 21 шт",
+    "hondrexil_short_description": "Капсулы для устранения разных типов боли и воспалений в суставах",
+    "hondrexil_description": "Пищевая добавка с растительными ингредиентами для нормализации работы опорно-двигательной системы. Растительные компоненты влияют  на снижение боли и подвижность суставов",
+    "hondrexil_compound": "гидролизованный коллаген, желатин (из капсулы), цитрат магния, порошок куркумы (Curcuma longa), порошок хвоща полевого (Equisetum arvense), аскорбиновая кислота (витамин C), кукурузный мальтодекстрин, рыбий жир в порошке (порошок Омега 3), стеарат магния, dl-альфа-токоферола ацетат (витамин E), аморфный диоксид кремния",
+    "hondrexil_usage": "3 капсулы во время завтрака. Нельзя превышать дозу (3 капсулы)<br> Ограничения: дети до 8 лет.",
+    "hondrexil_contraindications": "Индивидуальная непереносимость компонентов. Не употреблять в период беременности и грудного вскармливания",
+    "hondrexil_manufacturer": "SOCIEDAD COMERCIAL Y DE ASESORIAS UNITRADE SpA",
+    "hondrexil_suitability": "18 месяцев",
+    "hondrexil_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С и  относительной влажности 60%"
   },
   "lipocarnit": {
-    "lipocarnit_title": "IT - lipocarnit",
-    "lipocarnit_category": "IT - Для здоровья",
-    "lipocarnit_review_count": "IT - 225 отзывов",
-    "lipocarnit_niche": "IT - Похудение",
-    "lipocarnit_form_factor": "IT - Капсулы в банке, 21 шт",
-    "lipocarnit_short_description": "IT - Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
-    "lipocarnit_description": "IT - Капсулы для похудения, содержат растительные компоненты и витамины которые помогают нормализовать обмен веществ, улучшить метаболизм жиров, отрегулировать пищеварение и аппетит",
-    "lipocarnit_compound": "IT - Битартрат холина, желатин (из капсулы), порошок белой фасоли (Phaseolus vulgaris), инулин, кукурузный мальтодекстрин, порошок годжи (Lycium barbarum L.), стеарат магния, пантотенат кальция (витамин B5), ниацинамид (витамин B3), пиридоксина гидрохлорид (витамин B6), мононитрат тиамина (витамин B1), рибофлавин (витамин B2), фолиевая кислота (витамин B9), цианокобаламин (витамин B12)",
-    "lipocarnit_usage": "IT - Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
-    "lipocarnit_contraindications": "IT - Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
-    "lipocarnit_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "lipocarnit_suitability": "IT - 18 месяцев",
-    "lipocarnit_keep": "IT - хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
+    "lipocarnit_title": "lipocarnit",
+    "lipocarnit_category": "Для здоровья",
+    "lipocarnit_review_count": "225 отзывов",
+    "lipocarnit_niche": "Похудение",
+    "lipocarnit_form_factor": "Капсулы в банке, 21 шт",
+    "lipocarnit_short_description": "Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
+    "lipocarnit_description": "Капсулы для похудения, содержат растительные компоненты и витамины которые помогают нормализовать обмен веществ, улучшить метаболизм жиров, отрегулировать пищеварение и аппетит",
+    "lipocarnit_compound": "Битартрат холина, желатин (из капсулы), порошок белой фасоли (Phaseolus vulgaris), инулин, кукурузный мальтодекстрин, порошок годжи (Lycium barbarum L.), стеарат магния, пантотенат кальция (витамин B5), ниацинамид (витамин B3), пиридоксина гидрохлорид (витамин B6), мононитрат тиамина (витамин B1), рибофлавин (витамин B2), фолиевая кислота (витамин B9), цианокобаламин (витамин B12)",
+    "lipocarnit_usage": "Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
+    "lipocarnit_contraindications": "Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
+    "lipocarnit_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "lipocarnit_suitability": "18 месяцев",
+    "lipocarnit_keep": "хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
   },
   "normaten": {
-    "normaten_title": "IT - normaten",
-    "normaten_category": "IT - Для здоровья",
-    "normaten_review_count": "IT - 219 отзывов",
-    "normaten_niche": "IT - Гипертония",
-    "normaten_form_factor": "IT - Капсулы в банке, 21 шт",
-    "normaten_short_description": "IT - Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
-    "normaten_description": "IT - Капсулы при гипертонии, содержат растительные компоненты и витамины которые помогают нормализовать уровень артериального давления, уровень холестерина и работу сердечно-сосудистой системы",
-    "normaten_compound": "IT - Цитрат магния, желатин (из капсулы), кукурузный мальтодекстрин, порошок белого чеснока (Allium neapolitanum), порошок морских водорослей (Ficus sp), стеарат магния, DL-альфа-токоферола ацетат (витамин E), ниацинамид ( Витамин B3), гидрохлорид пиридоксина (витамин B6), фолиевая кислота (витамин B9), цианокобаламин (витамин B12)",
-    "normaten_usage": "IT - Рекомендуется принимать 3 капсулы NORMATEN во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
-    "normaten_contraindications": "IT - Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
-    "normaten_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "normaten_suitability": "IT - 18 месяцев",
-    "normaten_keep": "IT - Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
+    "normaten_title": "normaten",
+    "normaten_category": "Для здоровья",
+    "normaten_review_count": "219 отзывов",
+    "normaten_niche": "Гипертония",
+    "normaten_form_factor": "Капсулы в банке, 21 шт",
+    "normaten_short_description": "Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
+    "normaten_description": "Капсулы при гипертонии, содержат растительные компоненты и витамины которые помогают нормализовать уровень артериального давления, уровень холестерина и работу сердечно-сосудистой системы",
+    "normaten_compound": "Цитрат магния, желатин (из капсулы), кукурузный мальтодекстрин, порошок белого чеснока (Allium neapolitanum), порошок морских водорослей (Ficus sp), стеарат магния, DL-альфа-токоферола ацетат (витамин E), ниацинамид ( Витамин B3), гидрохлорид пиридоксина (витамин B6), фолиевая кислота (витамин B9), цианокобаламин (витамин B12)",
+    "normaten_usage": "Рекомендуется принимать 3 капсулы NORMATEN во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
+    "normaten_contraindications": "Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
+    "normaten_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "normaten_suitability": "18 месяцев",
+    "normaten_keep": "Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
   },
   "oculax": {
-    "oculax_title": "IT - Oculax",
-    "oculax_category": "IT -  Для здоровья",
-    "oculax_review_count": "IT - 224 отзыва",
-    "oculax_niche": "IT - Зрение",
-    "oculax_form_factor": "IT - Капсулы в банке, 30 шт",
-    "oculax_short_description": "IT - Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
-    "oculax_description": "IT - Капсулы для улучшения зрения, содержат растительные компоненты и витамины которые помогают нормализовать функцию увлажнения глаза, улучшить кровоснабжение капилляров и  благоприятно влияют на остроту зрения",
-    "oculax_compound": "IT - Vit А,  Vit E,  Vit C, Селенит натрия, сульфат цинка",
-    "oculax_usage": "IT - Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
-    "oculax_contraindications": "IT - Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
-    "oculax_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "oculax_suitability": "IT - 18 месяцев",
-    "oculax_keep": "IT - Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
+    "oculax_title": "Oculax",
+    "oculax_category": " Для здоровья",
+    "oculax_review_count": "224 отзыва",
+    "oculax_niche": "Зрение",
+    "oculax_form_factor": "Капсулы в банке, 30 шт",
+    "oculax_short_description": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
+    "oculax_description": "Капсулы для улучшения зрения, содержат растительные компоненты и витамины которые помогают нормализовать функцию увлажнения глаза, улучшить кровоснабжение капилляров и  благоприятно влияют на остроту зрения",
+    "oculax_compound": "Vit А,  Vit E,  Vit C, Селенит натрия, сульфат цинка",
+    "oculax_usage": "Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
+    "oculax_contraindications": "Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
+    "oculax_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "oculax_suitability": "18 месяцев",
+    "oculax_keep": "Хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
   },
   "otovix": {
-    "otovix_title": "IT - otovix",
-    "otovix_category": "IT - Для здоровья",
-    "otovix_review_count": "IT - 205 отзывов",
-    "otovix_niche": "IT - Слух",
-    "otovix_form_factor": "IT - Капсулы в банке, 21 шт",
-    "otovix_short_description": "IT - Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
-    "otovix_description": "IT - Комплекс компонентов и витаминов направлен на улучшение функций слуха, обеспечивает восполнение микроэлементов и благоприятно влияет на возрастные изменения. Комплекс компонентов и витаминов направлен на улучшение функций слуха, обеспечивает восполнение микроэлементов и благоприятно влияет на возрастные изменения",
-    "otovix_compound": "IT - Аскорбиновая кислота (витамин C), цитрат магния, желатин (из капсулы), бета-каротин, dl-альфа-токоферол (витамин E), кукурузный мальтодекстрин, моногидрат сульфата цинка, стеарат магния, аморфный диоксид кремния, моногидрат ацетата ретинола (витамин А), фолиевая кислота (витамин В9)",
-    "otovix_usage": "IT - 3 капсулы во время завтрака. Нельзя превышать дозу (3 капсулы). <br> Ограничения: дети до 8 лет.",
-    "otovix_contraindications": "IT - Индивидуальная непереносимость компонентов. Не употреблять в период беременности и грудного вскармливания",
-    "otovix_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "otovix_suitability": "IT - 18 месяцев",
-    "otovix_keep": "IT - Хранить в сухом, недоступном для детей месте, при температуре не выше +25°С и  относительной влажности 60%"
+    "otovix_title": "otovix",
+    "otovix_category": "Для здоровья",
+    "otovix_review_count": "205 отзывов",
+    "otovix_niche": "Слух",
+    "otovix_form_factor": "Капсулы в банке, 21 шт",
+    "otovix_short_description": "Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
+    "otovix_description": "Комплекс компонентов и витаминов направлен на улучшение функций слуха, обеспечивает восполнение микроэлементов и благоприятно влияет на возрастные изменения. Комплекс компонентов и витаминов направлен на улучшение функций слуха, обеспечивает восполнение микроэлементов и благоприятно влияет на возрастные изменения",
+    "otovix_compound": "Аскорбиновая кислота (витамин C), цитрат магния, желатин (из капсулы), бета-каротин, dl-альфа-токоферол (витамин E), кукурузный мальтодекстрин, моногидрат сульфата цинка, стеарат магния, аморфный диоксид кремния, моногидрат ацетата ретинола (витамин А), фолиевая кислота (витамин В9)",
+    "otovix_usage": "3 капсулы во время завтрака. Нельзя превышать дозу (3 капсулы). <br> Ограничения: дети до 8 лет.",
+    "otovix_contraindications": "Индивидуальная непереносимость компонентов. Не употреблять в период беременности и грудного вскармливания",
+    "otovix_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "otovix_suitability": "18 месяцев",
+    "otovix_keep": "Хранить в сухом, недоступном для детей месте, при температуре не выше +25°С и  относительной влажности 60%"
   },
   "urotrin": {
-    "urotrin_title": "IT - urotrin",
-    "urotrin_category": "IT - Для здоровья",
-    "urotrin_review_count": "IT - 212 отзывов",
-    "urotrin_niche": "IT - Простатит/Потенция",
-    "urotrin_form_factor": "IT - Капсулы в банке, 21 шт",
-    "urotrin_short_description": "IT - Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
-    "urotrin_description": "IT - капсулы для потенции содержат растительные компоненты и витамины которые помогают нормализовать  работу мочеполовой, эндокринной и сосудистой системы",
-    "urotrin_compound": "IT - L-аргинин, женьшень, имбирь, сульфат цинка",
-    "urotrin_usage": "IT - Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
-    "urotrin_contraindications": "IT - Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
-    "urotrin_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "urotrin_suitability": "IT - 18 месяцев",
-    "urotrin_keep": "IT - хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
+    "urotrin_title": "urotrin",
+    "urotrin_category": "Для здоровья",
+    "urotrin_review_count": "212 отзывов",
+    "urotrin_niche": "Простатит/Потенция",
+    "urotrin_form_factor": "Капсулы в банке, 21 шт",
+    "urotrin_short_description": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+    "urotrin_description": "капсулы для потенции содержат растительные компоненты и витамины которые помогают нормализовать  работу мочеполовой, эндокринной и сосудистой системы",
+    "urotrin_compound": "L-аргинин, женьшень, имбирь, сульфат цинка",
+    "urotrin_usage": "Рекомендуется принимать 3 капсулы во время завтрака. Максимальное суточное потребление: 1 порция (не более 3 капсул в день)",
+    "urotrin_contraindications": "Не рекомендуется употреблять детям до 8 лет, беременным женщинам и кормящим женщинам без указания компетентного специалиста и не заменяет сбалансированную диету",
+    "urotrin_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "urotrin_suitability": "18 месяцев",
+    "urotrin_keep": "хранить в прохладном (≤25 ° C) и сухом (≤60% RH) месте с закрытой крышкой"
   },
   "wortex": {
-    "wortex_title": "IT - wortex",
-    "wortex_category": "IT - Для здоровья",
-    "wortex_review_count": "IT - 212 отзывов",
-    "wortex_niche": "IT - Паразиты",
-    "wortex_form_factor": "IT - Капсулы в банке, 21 шт",
-    "wortex_short_description": "IT - Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
-    "wortex_description": "IT - Комплекс растительных компонентов для нормализации состояния организма, избавление от различных видов паразитов, очищает печень и выступает как детокс-формула, способствует регуляции работы ЖКТ, повышению иммунитета",
-    "wortex_compound": "IT - Порошок белого чеснока (Allium neapolitanum), порошок семян тыквы (Cucurbita moschata), желатин (из капсулы), кукурузный мальтодекстрин, порошок граната (Punica granatum L.), порошок кокосового сока (Cocos nucifera L.), порошок лимона (Citrus × лимон), стеарат магния, порошок черного перца (Piper nigrum), аморфный диоксид кремния",
-    "wortex_usage": "IT - Принимать 1 капсуле 3 раза в день. Максимальная суточная доза - 3 капсулы. <br> Ограничения: дети до 8 лет.",
-    "wortex_contraindications": "IT - Индивидуальная непереносимость компонентов, беременность",
-    "wortex_manufacturer": "IT - Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
-    "wortex_suitability": "IT - 18 месяцев",
-    "wortex_keep": "IT - Хранить при температуре от 0°С до 25°С , вдали от прямых солнечных лучей и влаги"
+    "wortex_title": "wortex",
+    "wortex_category": "Для здоровья",
+    "wortex_review_count": "212 отзывов",
+    "wortex_niche": "Паразиты",
+    "wortex_form_factor": "Капсулы в банке, 21 шт",
+    "wortex_short_description": "Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
+    "wortex_description": "Комплекс растительных компонентов для нормализации состояния организма, избавление от различных видов паразитов, очищает печень и выступает как детокс-формула, способствует регуляции работы ЖКТ, повышению иммунитета",
+    "wortex_compound": "Порошок белого чеснока (Allium neapolitanum), порошок семян тыквы (Cucurbita moschata), желатин (из капсулы), кукурузный мальтодекстрин, порошок граната (Punica granatum L.), порошок кокосового сока (Cocos nucifera L.), порошок лимона (Citrus × лимон), стеарат магния, порошок черного перца (Piper nigrum), аморфный диоксид кремния",
+    "wortex_usage": "Принимать 1 капсуле 3 раза в день. Максимальная суточная доза - 3 капсулы. <br> Ограничения: дети до 8 лет.",
+    "wortex_contraindications": "Индивидуальная непереносимость компонентов, беременность",
+    "wortex_manufacturer": "Laboratorio Internacional Pharmacorp SBO S.A. Volcán Lascar Poniente 784, Pudahuel, Región Metropolitana – Chile",
+    "wortex_suitability": "18 месяцев",
+    "wortex_keep": "Хранить при температуре от 0°С до 25°С , вдали от прямых солнечных лучей и влаги"
   }
 }
