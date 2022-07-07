@@ -157,7 +157,9 @@ const Controls = (function () {
       const langOptions = document.querySelectorAll('.lang-select__option')
       const currentLang = window.location.pathname.substring(1, 3)
 
-      langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--hidden') : false)
+      // langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--hidden') : false)
+
+      langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--active') : false)
 
       const createCurrentFlagElement = (innerElement) => {
         const flagImage = document.createElement('img')

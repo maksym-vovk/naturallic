@@ -1,4 +1,4 @@
-include mixins/langSelect
+//include mixins/langSelect
 - var MOBILE_MENU = LANG.mobile_menu;
 
 .menu-mobile#js-mobile-menu
@@ -6,7 +6,7 @@ include mixins/langSelect
 		.menu-mobile__top
 			a.logo.menu-mobile__logo(href=url(LANG, '/'))
 				img(src="img/svg/logo.svg", alt="")
-			+langSelect('index')
+			//+langSelect('index')
 			.burger.js-burger(data-target="#js-mobile-menu")
 				span.burger__line
 				span.burger__line
