@@ -15,8 +15,12 @@
     height: 100%
     cursor: pointer
     padding: 5px 10px
+    transition: all .3s
     position: relative
     z-index: 1
+
+    &:hover
+      background: $light-blue
 
   &__body
     display: none
@@ -38,8 +42,9 @@
   &__option
     padding: 5px 10px
 
-    &--hidden
-      display: none
+    &--active
+      background: #a9d9de
+      border-radius: 5px
 
   &__flag
     width: 20px

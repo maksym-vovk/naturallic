@@ -37,22 +37,22 @@
                   <div class="lang-select__current">
                     <!--img.lang-select__flag.lang-select__flag--current(src='/img/language-hu.png' alt='hu')-->
                   </div>
-                  <div class="lang-select__body"><a class="lang-select__option" data-lang="hu" href="/hu/index.html"><img class="lang-select__flag" src="/img/language-hu.png" alt="hu"/></a><a class="lang-select__option" data-lang="cz" href="/cz/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a><a class="lang-select__option" data-lang="ro" href="/ro/index.html"><img class="lang-select__flag" src="/img/language-ro.png" alt="ro"/></a><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a></div>
+                  <div class="lang-select__body"><a class="lang-select__option" data-lang="hu" href="/hu/index.html">
+                      <!--span.lang-select__country Венгрия--><img class="lang-select__flag" src="/img/language-hu.png" alt="hu"/></a><a class="lang-select__option" data-lang="cz" href="/cz/index.html">
+                      <!--span.lang-select__country Чехия--><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a><a class="lang-select__option" data-lang="ro" href="/ro/index.html">
+                      <!--span.lang-select__country Румыния--><img class="lang-select__flag" src="/img/language-ro.png" alt="ro"/></a><a class="lang-select__option" data-lang="it" href="/it/index.html">
+                      <!--span.lang-select__country Италия--><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a></div>
                 </div>
             <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
           </div>
         </div>
       </div>
     </div>
+    <!--include mixins/langSelect-->
     <div class="menu-mobile" id="js-mobile-menu">
       <div class="menu-mobile__wrap">
         <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/it/"><img src="/img/svg/logo.svg" alt=""/></a>
-              <div class="lang-select">
-                <div class="lang-select__current">
-                  <!--img.lang-select__flag.lang-select__flag--current(src='/img/language-hu.png' alt='hu')-->
-                </div>
-                <div class="lang-select__body"><a class="lang-select__option" data-lang="hu" href="/hu/index.html"><img class="lang-select__flag" src="/img/language-hu.png" alt="hu"/></a><a class="lang-select__option" data-lang="cz" href="/cz/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a><a class="lang-select__option" data-lang="ro" href="/ro/index.html"><img class="lang-select__flag" src="/img/language-ro.png" alt="ro"/></a><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a></div>
-              </div>
+          <!--+langSelect('index')-->
           <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
         <ul class="menu-mobile__nav menu">

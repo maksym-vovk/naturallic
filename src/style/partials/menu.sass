@@ -3,6 +3,7 @@
 	top: 0
 	left: 0
 	right: 0
+	z-index: 2
 	padding: 24px 0
 	+r(767)
 		padding: 17px 0
@@ -63,8 +64,10 @@
 			max-width: initial
 			margin-right: 25px
 			margin-left: auto
-		+r(479)
-			margin-right: 15px
+		+r(1023)
+			display: none
+		//+r(479)
+		//	margin-right: 15px
 	&__btn
 		padding: 5px 10px
 		+r(1249)
@@ -100,7 +103,7 @@
 			font-size: 14px
 	& .lang-select
 		+r(1249)
-			display: none
+			margin-right: 25px
 			//margin-right: 25px
 		//+r(767)
 		//	display: none
