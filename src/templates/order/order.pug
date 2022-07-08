@@ -1,32 +1,26 @@
+- var ORDERPAGEFORM = LANG.orderpageform;
+
 section.order-block
     .container
         .order-block__wrapper
             .order-block__product-wrap
                 img.order-block__product.js-product-photo(src='' alt='')
-                p.order-block__name.js-product-name prod name
+                p.order-block__name.js-product-name
             .order-block__form
                 form.contacts-form.x_order_form#order-form(action="success.html")
-                    p.contacts-form__title ОФОРМИТЬ ЗАКАЗ!
-                    //p.contacts-form__desc 111
+                    p.contacts-form__title!=ORDERPAGEFORM.orderpageform_title
                     .contacts-form__wrapper
                         .contacts-form__inputs
-                            input.contacts-form__input(type="text" name="name" placeholder='Имя' required)
-                            input.contacts-form__input(type="phone" name="tel" placeholder='Телефон' required)
-                            input.contacts-form__input(type="email" name="email" placeholder='E-mail')
+                            input.contacts-form__input(type="text" name="name" placeholder=`${ORDERPAGEFORM.orderpageform_name}` required)
+                            input.contacts-form__input(type="phone" name="tel" placeholder=`${ORDERPAGEFORM.orderpageform_tel}` required)
+                            input.contacts-form__input(type="email" name="email" placeholder=`${ORDERPAGEFORM.orderpageform_email}`)
                         .contacts-form__counter.counter
                             img.counter__photo.js-product-photo(src='' alt='')
-                            p.counter__text количество
+                            p.counter__text!=ORDERPAGEFORM.orderpageform_count
                             .counter__block
                                 .counter__block-arrow.js-counter-arrow-dec
                                     | <
                                 .counter__num.js-counter-number 1
                                 .counter__block-arrow.js-counter-arrow-inc
                                     | >
-                        button.contacts-form__btn.btn(type='submit') Заказать
-                        //input(type='hidden' name='campaign_id' value='')
-                        //input(type='hidden' name='es_list_id' value='')
-                        //input(type='hidden' name='chatbot_history' value='{}')
-                        //input(type='hidden' name='sid5' value='{subid}')
-                        //input(type='hidden' name='landing_id' value='')
-                        //input(type='hidden' name='country_code' value='CZ')
-                        //input(type='hidden' name='redirect_url' value='')
+                        button.contacts-form__btn.btn(type='submit')!=ORDERPAGEFORM.orderpageform_btn
