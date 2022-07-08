@@ -1,36 +1,67 @@
 include ../mixins/review
 include ../data/index
+- var REVIEWS = LANG.reviews;
 
 
 -
     let array = [
-        ...beautyAgeSkinReviews,
-        ...beautyAgeComplexReviews,
-        ...beautyAgeSkinPeelingReviews,
-        ...delislimReviews,
-        ...deluronForteReviews,
-        ...depantenReviews,
-        ...diaformReviews,
-        ...exofeetOilReviews,
-        ...feronexReviews,
-        ...guavitalReviews,
-        ...inspilarReviews,
-        ...keraminReviews,
-        ...miaflowIntenseReviews,
-        ...neoverisReviews,
-        ...ottomaxReviews,
-        ...paraxanReviews,
-        ...steplexReviews,
-        ...tensitalReviews,
-        ...tonerinReviews,
-        ...uromexilForteReviews,
-        ...vermixinReviews,
-        ...visopticDuoReviews,
-        ...visopticDuoDayReviews,
-        ...visopticDuoNightReviews,
-        ...wintexUltraReviews,
-        ...wirexMensFormulaReviews,
+        ...REVIEWS.reviews_beauty_age_complex,
+        ...REVIEWS.reviews_beauty_age_skin,
+        ...REVIEWS.reviews_beauty_age_skin_peeling,
+        ...REVIEWS.reviews_delislim,
+        ...REVIEWS.reviews_deluron,
+        ...REVIEWS.reviews_depanten,
+        ...REVIEWS.reviews_diaform,
+        ...REVIEWS.reviews_exofeet,
+        ...REVIEWS.reviews_feronex,
+        ...REVIEWS.reviews_guavital,
+        ...REVIEWS.reviews_inspilar,
+        ...REVIEWS.reviews_keramin,
+        ...REVIEWS.reviews_miaflow,
+        ...REVIEWS.reviews_neoveris,
+        ...REVIEWS.reviews_ottomax,
+        ...REVIEWS.reviews_paraxan,
+        ...REVIEWS.reviews_steplex,
+        ...REVIEWS.reviews_tensital,
+        ...REVIEWS.reviews_tonerin,
+        ...REVIEWS.reviews_uromexil,
+        ...REVIEWS.reviews_vermixin,
+        ...REVIEWS.reviews_visoptic_duo,
+        ...REVIEWS.reviews_visoptic_duo_day,
+        ...REVIEWS.reviews_visoptic_duo_night,
+        ...REVIEWS.reviews_wintex_ultra,
+        ...REVIEWS.reviews_wirex_mens_formula
     ]
+    // let array = [
+    //     ...beautyAgeSkinReviews,+
+    //     ...beautyAgeComplexReviews,+
+    //     ...beautyAgeSkinPeelingReviews,
+    //     ...delislimReviews,
+    //     ...deluronForteReviews,
+    //     ...depantenReviews,
+    //     ...diaformReviews,
+    //     ...exofeetOilReviews,
+    //     ...feronexReviews,
+    //     ...guavitalReviews,
+    //     ...inspilarReviews,
+    //     ...keraminReviews,
+    //     ...miaflowIntenseReviews,
+    //     ...neoverisReviews,
+    //     ...ottomaxReviews,
+    //     ...paraxanReviews,
+    //     ...steplexReviews,
+    //     ...tensitalReviews,
+    //     ...tonerinReviews,
+    //     ...uromexilForteReviews,
+    //     ...vermixinReviews,
+    //     ...visopticDuoReviews,
+    //     ...visopticDuoDayReviews,
+    //     ...visopticDuoNightReviews,
+    //     ...wintexUltraReviews,
+    //     ...wirexMensFormulaReviews,
+    // ]
+
+
 
     const perChunk = 2;
 
