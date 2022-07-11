@@ -180,6 +180,18 @@ const Controls = (function () {
         }
       })
     },
+    webpChecker: function () {
+        const WebP = new Image();
+        WebP.src = 'data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA';
+        WebP.onload = WebP.onerror = function() {
+          const isWebp = (WebP.height === 2);
+          if (!isWebp) {
+            document.querySelector('body').classList.remove('webp');
+          } else {
+            document.querySelector('body').classList.add('webp');
+          }
+        };
+    },
     init: function () {
       Controls.openFaqContent();
       Controls.highlightingActiveTab();
@@ -190,6 +202,7 @@ const Controls = (function () {
       Controls.showReviews();
       Controls.setLanguage();
       Controls.showHeaderLang()
+      Controls.webpChecker()
     },
   };
 })();

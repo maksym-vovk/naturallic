@@ -3,6 +3,7 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 300;
+  font-display: swap;
   src: local(""), url("../fonts/roboto-v29-cyrillic-300.woff2") format("woff2"),
     url("../fonts/roboto-v29-cyrillic-300.woff") format("woff");
 }
@@ -11,6 +12,7 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
   src: local(""),
     url("../fonts/roboto-v29-cyrillic-regular.woff2") format("woff2"),
     url("../fonts/roboto-v29-cyrillic-regular.woff") format("woff");
@@ -20,6 +22,7 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
+  font-display: swap;
   src: local(""), url("../fonts/roboto-v29-cyrillic-500.woff2") format("woff2"),
     url("../fonts/roboto-v29-cyrillic-500.woff") format("woff");
 }
@@ -28,43 +31,7 @@
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
+  font-display: swap;
   src: local(""), url("../fonts/roboto-v29-cyrillic-700.woff2") format("woff2"),
     url("../fonts/roboto-v29-cyrillic-700.woff") format("woff");
-}
-/* inter-regular - cyrillic */
-@font-face {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  src: local(""),
-    url("../fonts/inter-v7-cyrillic-regular.woff2") format("woff2"),
-    url("../fonts/inter-v7-cyrillic-regular.woff") format("woff");
-}
-/* inter-700 - cyrillic */
-@font-face {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 700;
-  src: local(""), url("../fonts/inter-v7-cyrillic-700.woff2") format("woff2"),
-    url("../fonts/inter-v7-cyrillic-700.woff") format("woff");
-}
-/* jura-regular - cyrillic */
-@font-face {
-  font-family: "Jura";
-  font-style: normal;
-  font-weight: 400;
-  src: local(""),
-    url("../fonts/jura-v19-cyrillic-regular.woff2") format("woff2"),
-    url("../fonts/jura-v19-cyrillic-regular.woff") format("woff");
-}
-
-// Karlo Cham 400
-
-/* Karlo Cham - cyrillic */
-@font-face {
-  font-family: "Karlo Cham";
-  font-style: normal;
-  font-weight: 400;
-  src: local(""), url("../fonts/KarloCham-Line.woff2") format("woff2"),
-    url("../fonts/KarloCham-Line.woff") format("woff");
 }
