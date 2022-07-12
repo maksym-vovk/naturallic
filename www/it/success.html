@@ -15,21 +15,21 @@
       <div class="container">
         <div class="nav__wrap">
           <!--a.nav__logo(href=url(LANG,'/'))--><a class="nav__logo" href="/it/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <div class="nav__right">
-            <ul class="nav__menu menu">
-              <li class="menu__item">
-                <!--a.menu__link(href="catalog.html")!=MENU.menu_title_catalog--><a class="menu__link" href="/it/catalog.html">Catalogo</a>
-              </li>
-              <li class="menu__item">
-                <!--a.menu__link(href="about.html")!=MENU.menu_title_about_us--><a class="menu__link" href="/it/about.html">Di noi</a>
-              </li>
-              <li class="menu__item">
-                <!--a.menu__link(href="contacts.html")!=MENU.menu_title_contacts--><a class="menu__link" href="/it/contacts.html">Contatti</a>
-              </li>
-              <li class="menu__item">
-                <!--a.menu__link(href="reviews.html")!=MENU.menu_title_review--><a class="menu__link" href="/it/reviews.html">Recensioni</a>
-              </li>
-            </ul>
+          <ul class="nav__menu menu">
+            <li class="menu__item">
+              <!--a.menu__link(href="catalog.html")!=MENU.menu_title_catalog--><a class="menu__link" href="/it/catalog.html">Catalogo</a>
+            </li>
+            <li class="menu__item">
+              <!--a.menu__link(href="about.html")!=MENU.menu_title_about_us--><a class="menu__link" href="/it/about.html">Di noi</a>
+            </li>
+            <li class="menu__item">
+              <!--a.menu__link(href="contacts.html")!=MENU.menu_title_contacts--><a class="menu__link" href="/it/contacts.html">Contatti</a>
+            </li>
+            <li class="menu__item">
+              <!--a.menu__link(href="reviews.html")!=MENU.menu_title_review--><a class="menu__link" href="/it/reviews.html">Recensioni</a>
+            </li>
+          </ul>
+          <div class="nav__controls">
             <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:393509917389">393509917389</a>
               <button class="nav__btn btn js-show-popup" title="Prenota una chiamata" data-target="#popup">Prenota una chiamata</button>
             </div>
@@ -43,8 +43,8 @@
                       <!--span.lang-select__country Румыния--><img class="lang-select__flag" src="/img/language-ro.png" alt="ro"/></a><a class="lang-select__option" data-lang="it" href="/it/index.html">
                       <!--span.lang-select__country Италия--><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a></div>
                 </div>
-            <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
           </div>
+          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
       </div>
     </div>
@@ -4396,7 +4396,18 @@
     <footer class="footer">
       <div class="footer__wrapper">
         <div class="container">
-          <div class="footer__top"><a class="footer__logo" href="/it/"><img src="/img/svg/logo-w.svg" alt=""/></a>
+          <div class="footer__top">
+            <div class="footer__docs"><a class="footer__logo" href="/it/"><img src="/img/svg/logo-w.svg" alt=""/></a>
+              <div class="footer__contact">
+                <p class="footer__contact-text">Италия:</p><a class="footer__contact-link" href="tel:393509917389">393509917389</a>
+              </div>
+              <div class="footer__contact"><a class="footer__contact-link" href="mailto:support@naturallic.com">support@naturallic.com</a></div>
+              <div class="footer__contact">
+                <p class="footer__copy"><span class="year"></span>
+                  Copyright by naturallic
+                </p>
+              </div>
+            </div>
             <ul class="footer__menu menu-f">
               <li class="menu-f__item"><a class="menu-f__link" href="/it/catalog.html">Catalogo</a></li>
               <li class="menu-f__item"><a class="menu-f__link" href="/it/about.html">Di noi</a></li>
@@ -4404,12 +4415,9 @@
               <li class="menu-f__item"><a class="menu-f__link" href="/it/contacts.html">Contatti</a></li>
             </ul>
             <div class="footer__contacts">
-              <div class="footer__contact-wrapper">
-                <div class="footer__contact-item">
-                  <p class="footer__contact-text">Италия:</p><a class="footer__contact-link" href="tel:393509917389">393509917389</a>
-                </div>
-                <div class="footer__contact-item"><a class="footer__contact-link" href="mailto:support@naturallic.com">support@naturallic.com</a></div>
-              </div>
+              <div class="footer__contact"><a class="footer__link" href="terms.html">Terms and conditions</a></div>
+              <div class="footer__contact"><a class="footer__link" href="privacy.html">Privacy policy</a></div>
+              <div class="footer__contact"><a class="footer__link" href="cookie.html">Cookie policy</a></div>
               <!--.footer__social.social-->
               <!--	a.social__item(href="https://www.facebook.com/realvitaliss/?ref=pages_you_manage" target="_blank")-->
               <!--		img(src="/img/svg/type_1_3.svg", alt="")-->
@@ -4419,17 +4427,11 @@
               <!--		img(src="/img/svg/type_1_4.svg", alt="")-->
               <!--	a.social__item(href="https://www.instagram.com/real_vitaliss/" target="_blank")-->
               <!--		img(src="/img/svg/type_1_2.svg", alt="")-->
-              <div class="footer__bottom">
-                <!--img.footer__logo-mob(src="/img/svg/logo-w-small.svg", alt="")-->
-                <!--a.footer__link(href="terms.html")!=FOOTER.footer_terms-->
-                <!--a.footer__link(href="cookie.html")!=FOOTER.footer_cookies-->
-                <p class="footer__copy"><span class="year"></span>
-                  Copyright by naturallic
-                </p>
-              </div>
-            </div>
-            <div class="footer__contacts">
-              <div class="footer__contact-wrapper"><a class="footer__link" href="terms.html">Terms and conditions</a><a class="footer__link" href="privacy.html">Privacy policy</a><a class="footer__link" href="cookie.html">Cookie policy</a></div>
+              <!--.footer__bottom
+              //img.footer__logo-mob(src="/img/svg/logo-w-small.svg", alt="")
+              //a.footer__link(href="terms.html")!=FOOTER.footer_terms
+              //a.footer__link(href="cookie.html")!=FOOTER.footer_cookies
+              -->
             </div>
           </div>
         </div>
