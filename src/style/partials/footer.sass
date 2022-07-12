@@ -47,6 +47,10 @@
 			//margin-bottom: 40px
 		+r(639)
 			//flex-wrap: wrap
+	&__docs
+		+r(1023)
+			text-align: center
+			order: 3
 	&__logo-mob
 		display: none
 		+r(639)
@@ -55,18 +59,22 @@
 			margin: auto
 			margin-bottom: 20px
 	&__logo
+		display: block
 		margin-right: 128px
 		flex-shrink: 0
+		margin-bottom: 15px
 		+r(1249)
 			margin-right: 80px
 		+r(1023)
 			width: 150px
-			margin-right: 0
-			margin-bottom: 25px
+			margin: 0 auto 15px
 		+r(767)
 			order: 1
 			margin-bottom: 15px
 			width: 100px
+	&__contact
+		+nlt
+			margin-bottom: 15px
 			//margin-right: 80px
 		//+r(639)
 		//	display: none
@@ -97,11 +105,13 @@
 			width: 100%
 			
 	&__contacts
-		max-width: 274px
+		max-width: 185px
 		width: 100%
 		margin-left: 95px
 		+r(1023)
+			text-align: center
 			margin-left: 0
+			margin-bottom: 25px
 		+r(767)
 			max-width: 265px
 			order: 2
@@ -109,8 +119,8 @@
 			max-width: 100%
 			text-align: center
 			//margin-top: 20px
-	&__contact-wrapper
-		margin-bottom: 15px
+	//&__contact-wrapper
+	//	margin-bottom: 15px
 	&__address
 		margin-bottom: 39px
 		line-height: 30px
@@ -118,14 +128,15 @@
 			margin-bottom: 30px
 		+r(1023)
 			margin-bottom: 20px
-	&__contact-item
-		display: flex
-		align-items: center
-		+nlt
-			margin-bottom: 13px
-		+r(1023)
-			justify-content: center
+	//&__contact-item
+	//	display: flex
+	//	align-items: center
+	//	+nlt
+	//		margin-bottom: 13px
+	//	+r(1023)
+	//		justify-content: center
 	&__contact-text
+		display: inline-block
 		margin-right: 3px
 	&__bottom
 		max-width: 295px
@@ -137,7 +148,7 @@
 			max-width: 100%
 			text-align: center
 	&__link
-		margin-bottom: 13px
+		//margin-bottom: 13px
 		display: block
 		+r(1023)
 			margin-bottom: 8px
@@ -159,12 +170,12 @@
 	margin-left: auto
 	+r(1023)
 		margin-left: 0
+		margin-bottom: 25px
 	&__item
 		line-height: 32px
 		font-weight: 400
 		+r(1023)
 			text-align: center
-			margin-bottom: 25px
 		+nlt
 			margin-bottom: 2px
 		&--hide
