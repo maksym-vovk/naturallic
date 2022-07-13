@@ -1,280 +1,6 @@
 include ../mixins/product
 - var CATALOG = LANG.catalog;
-
--
-	const productsForMan = [
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/biorecin.png',
-			name: 'Biorecin',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Омолаживающие капсулы для питания и регенерации клеток кожи ',
-			link: 'biorecin.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/dialine.png',
-			name: 'Dialine',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Средство с растительными экстрактами для нормализации уровня глюкозы в крови',
-			link: 'dialine.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/hondrexil.png',
-			name: 'Honrdexil',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Капсулы для устранения разных типов боли и воспалений в суставах',
-			link: 'hondreksil.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/lipocarnit.png',
-			name: 'Lipocarnit',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса',
-			link: 'lipocarnit.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/normaten.png',
-			name: 'Normaten',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Средство для нормализации давления и поддержки работы сердечно-сосудистой системы',
-			link: 'normaten.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/otovix.png',
-			name: 'Otovix',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов',
-			link: 'otovix.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/oculax.png',
-			name: 'Oculax',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения',
-			link: 'oculax.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/wortex.png',
-			name: 'Wortex',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения',
-			link: 'wortex.html'
-		},
-		{
-			label: 'ТОП',
-			srcPhoto: 'img/urotrin.png',
-			name: 'Urotrin',
-			stars: [
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star.svg',
-					type: 'full'
-				},
-				{
-					src: 'img/svg/star-empty.svg',
-					type: 'empty'
-				}
-			],
-			text: '345 отзывов',
-			desc: 'Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы',
-			link: 'urotrin.html'
-		}
-	];
-
+- var PRODUCTS = LANG.hits
 
 section.catalog-main
 	.container
@@ -286,39 +12,51 @@ section.catalog-main
 				p.category-item#health.js-tab!=CATALOG.catalog_item_health
 				p.category-item#beauty.js-tab!=CATALOG.catalog_item_beauty
 			.catalog-main__right
-				.catalog-main__list.js-list-prod.active(data-target="man")
+				//.catalog-main__list.js-list-prod.active(data-target="man")
+				//	.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
+				//		each product in PRODUCTS
+				//			+product(product)
+				//	.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+				//		each product in PRODUCTS
+				//			+product(product)
+				//	p.catalog-main__count.js-catalog-count
+				//		span.js-product-show 0
+				//		| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
+				//		span.js-product-all 0
+				//	button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
+				//
+				//
+				//.catalog-main__list.js-list-prod(data-target="woman")
+				//	.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
+				//		each product in PRODUCTS
+				//			+product(product)
+				//	p.catalog-main__count.js-catalog-count
+				//		span.js-product-show 0
+				//		| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
+				//		span.js-product-all 0
+				//	button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
+
+
+				.catalog-main__list.js-list-prod.active(data-target="health")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-						each product in productsForMan
+						each product in PRODUCTS
 							+product(product)
 					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
-						each product in productsForMan
+						each product in PRODUCTS
 							+product(product)
 					p.catalog-main__count.js-catalog-count
 						span.js-product-show 0
 						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
 						span.js-product-all 0
 					button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
-				.catalog-main__list.js-list-prod(data-target="woman")
-					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-						each product in productsForMan
-							+product(product)
-					p.catalog-main__count.js-catalog-count
-						span.js-product-show 0
-						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
-						span.js-product-all 0
-					button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
-				.catalog-main__list.js-list-prod(data-target="health")
-					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-						each product in productsForMan
-							+product(product)
-					p.catalog-main__count.js-catalog-count
-						span.js-product-show 0
-						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
-						span.js-product-all 0
-					button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
+
+
 				.catalog-main__list.js-list-prod(data-target="beauty")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-						each product in productsForMan
+						each product in PRODUCTS
+							+product(product)
+					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+						each product in PRODUCTS
 							+product(product)
 					p.catalog-main__count.js-catalog-count
 						span.js-product-show 0

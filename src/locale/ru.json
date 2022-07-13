@@ -102,11 +102,12 @@
     "aboutpageform_field_message": "Сообщение",
     "aboutpageform_btn": "Отправить"
   },
+
   "hits": [
     {
       "label": "Хит",
-      "srcPhoto": "img/biorecin.png",
-      "name": "Biorecin",
+      "srcPhoto": "img/tensital.png",
+      "name": "Tensital",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -125,138 +126,18 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-1"
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
         }
       ],
-      "text": "231 отзыв",
-      "desc": "Омолаживающие капсулы для питания и регенерации клеток кожи",
-      "link": "biorecin.html"
-    },
-    {
-      "label": "Хит",
-      "srcPhoto": "img/dialine.png",
-      "name": "Dialine",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        }
-      ],
-      "text": "213 отзывов",
-      "desc": "Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
-      "link": "dialine.html"
-    },
-    {
-      "label": "Хит",
-      "srcPhoto": "img/hondrexil.png",
-      "name": "Hondreksil",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-2"
-        }
-      ],
-      "text": "232 отзыва",
-      "desc": "Капсулы для устранения разных типов боли и воспалений в суставах",
-      "link": "hondreksil.html"
-    },
-    {
-      "label": "Хит",
-      "srcPhoto": "img/lipocarnit.png",
-      "name": "Lipocarnit",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-3"
-        }
-      ],
-      "text": "225 отзывов",
-      "desc": "Комплекс витаминов и экстрактов для активизации обменных процессов и снижения веса",
-      "link": "lipocarnit.html"
-    },
-    {
-      "label": "Хит",
-      "srcPhoto": "img/normaten.png",
-      "name": "Normaten",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        }
-      ],
-      "text": "219 отзывов",
+      "text": "345 отзывов",
       "desc": "Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
-      "link": "normaten.html"
+      "link": "tensital.html"
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/otovix.png",
-      "name": "Otovix",
+      "srcPhoto": "img/inspilar.png",
+      "name": "inspilar",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -275,18 +156,138 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-3"
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
         }
       ],
-      "text": "205 отзывов",
+      "text": "367 отзывов",
+      "desc": "cредство с растительными экстрактами для нормализации уровня глюкозы в крови",
+      "link": "inspilar.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/guavital.png",
+      "name": "Guavital",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "355 отзывов",
+      "desc": "Натуральный комплекс  для активизации обменных процессов и снижения веса",
+      "link": "guavital.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/wintex.png",
+      "name": "Wintex Ultra",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "305 отзывов",
+      "desc": "Гель сохлаждающим эффектом направленный на борьбу с проявлениями варикоза",
+      "link": "wintex.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/exofeet-oil.png",
+      "name": "Exofeet Oil",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "288 отзывов",
+      "desc": "Натуральное масло  с бактерицидным дествием направленное на борьбу с проявлениями грибка",
+      "link": "exofeet.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/paraxan.png",
+      "name": "Paraxan",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "276 отзывов",
       "desc": "Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
-      "link": "otovix.html"
+      "link": "paraxan.html"
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/oculax.png",
-      "name": "Oculax",
+      "srcPhoto": "img/deluron.png",
+      "name": "Deluron Forte",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -305,75 +306,496 @@
           "type": "full"
         },
         {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-1"
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
         }
       ],
-      "text": "224 отзыва",
-      "desc": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
-      "link": "oculax.html"
-    },
-    {
-      "label": "Хит",
-      "srcPhoto": "img/wortex.png",
-      "name": "Wortex",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-2"
-        }
-      ],
-      "text": "212 отзывов",
-      "desc": "Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
-      "link": "wortex.html"
-    },
-    {
-      "label": "Хит",
-      "srcPhoto": "img/urotrin.png",
-      "name": "Urotrin",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star-empty-1.svg",
-          "type": "empty-2"
-        }
-      ],
-      "text": "212 отзывов",
+      "text": "322 отзывов",
       "desc": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
-      "link": "urotrin.html"
+      "link": "deluron.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/visoptic-day-night.png",
+      "name": "Visoptic DUO Night",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "341 отзывов",
+      "desc": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
+      "link": "visoptic_night.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/beauty-age-skin.png",
+      "name": "Beauty Age Skin",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "299 отзывов",
+      "desc": "Омолаживающий крем для лица 2 в1 для всех типов кожи",
+      "link": "beauty_skin.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/beauty-age-peeling.png",
+      "name": "Beauty Age Skin Peeling",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "288 отзывов",
+      "desc": "Очищающая пилинг-маска для всех типов кожи",
+      "link": "beauty_peeling.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/ottomax.png",
+      "name": "Ottomax+",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "341 отзывов",
+      "desc": "Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
+      "link": "ottomax.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/diaform.png",
+      "name": "Diaform+",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "299 отзывов",
+      "desc": "Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
+      "link": "diaform.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/tonerin.png",
+      "name": "Tonerin",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "333 отзывов",
+      "desc": "Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
+      "link": "tonerin.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/vermixin.png",
+      "name": "Vermixin",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "315 отзывов",
+      "desc": "Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
+      "link": "vermixin.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/wirex.png",
+      "name": "Wirex",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "297 отзывов",
+      "desc": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+      "link": "wirex.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/depanten.png",
+      "name": "Depanten",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "323 отзывов",
+      "desc": "Гель с натуральными экстрактами для устранения разных типов боли в суставах и мышцах",
+      "link": "depanten.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/miaflow.png",
+      "name": "Miaflow Intense",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "345 отзывов",
+      "desc": "Омолаживающий крем для лица с биопептидами для всех типов кожи",
+      "link": "miaflow.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/feronex.png",
+      "name": "Feronex",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "311 отзывов",
+      "desc": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+      "link": "feronex.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/steplex.png",
+      "name": "Steplex",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "287 отзывов",
+      "desc": "Гель для устранения разных типов боли в суставах и мышцах",
+      "link": "steplex.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/neoveris.png",
+      "name": "Neoveris",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "234 отзывов",
+      "desc": "Гель с натуральными экстрактами направленный на борьбу с проявлениями варикоза",
+      "link": "neoveris.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/keramin.png",
+      "name": "Keramin",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "301 отзывов",
+      "desc": "Крем с бактерицидным дествием направленный на борьбу с проявлениями грибка",
+      "link": "keramin.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/uromexil.png",
+      "name": "Uromexil Forte",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "289 отзывов",
+      "desc": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+      "link": "uromexil.html"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/delislim.png",
+      "name": "Delislim",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "321 отзывов",
+      "desc": "Капсулы с растительными экстрактами  для активизации обменных процессов и снижения веса",
+      "link": "delislim.html"
     }
   ],
+
   "footer": {
     "footer_menu_item1": "Каталог",
     "footer_menu_item2": "О нас",
@@ -439,6 +861,395 @@
     "product_suitability": "<span>Срок годности: </span>",
     "product_keep": "<span>Условия хранения: </span>"
   },
+
+  "tensital": {
+    "label": "Хит",
+    "srcPhoto": "img/tensital.png",
+    "stars": [
+      {
+        "src": "img/svg/star.svg",
+        "type": "full"
+      },
+      {
+        "src": "img/svg/star.svg",
+        "type": "full"
+      },
+      {
+        "src": "img/svg/star.svg",
+        "type": "full"
+      },
+      {
+        "src": "img/svg/star.svg",
+        "type": "full"
+      },
+      {
+        "src": "img/svg/star-empty-1.svg",
+        "type": "empty-1"
+      }
+    ],
+    "link": "tensital.html",
+    "tensital_title": "Tensital",
+    "tensital_category": "Для здоровья ",
+    "tensital_review_count": "231 отзыв",
+    "tensital_niche": "Гипертония",
+    "tensital_form_factor": "<span class=\"atention\"></span>10 капсул, блистер, картонная коробка / техническая инструкция",
+    "tensital_short_description": "Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
+    "tensital_description": "растительные капсулы для снижения артериального давления. Эффективная формула приводит в норму метаболические процессы и сердечно-сосудистую систему. Предотвращает развитие опасных патологических процессов",
+    "tensital_compound": "<span class=\"atention\"></span>Vitamin С (L-Ascorbic acid), olive leaf extract (Olea europaea L.,20% oleuropein), L-arginine HCL, Gymnema Sylvestre extract 4:1, Japanese knotweed root extract (Polygonum cuspidatum, 98% Resveratrol),  Хром",
+    "tensital_usage": "Взрослым по 1 капсуле 2 раза в день с приемами пищи. Продолжительность приема 3 месяца, при необходимости курс можно повторить",
+    "tensital_contraindications": "<span class=\"atention\"></span>Только для взрослых, ограничения дети до 18 лет.  Перед применением во время беременности, кормления грудью следует проконсультироваться с врачом. Хранить в недоступном для детей месте",
+    "tensital_manufacturer": "Dalmatika (Болгария)",
+    "tensital_suitability": "2 года",
+    "tensital_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С",
+    "tensital_frame_link": "gg"
+  },
+  "inspilar": {
+    "inspilar_title": "inspilar",
+    "inspilar_category": "Для здоровья",
+    "inspilar_review_count": "213 отзывов",
+    "inspilar_niche": "диабет",
+    "inspilar_form_factor": "Капсулы в банке, 20 шт",
+    "inspilar_short_description": "cредство с растительными экстрактами для нормализации уровня глюкозы в крови",
+    "inspilar_description": "средство поддерживающей терапии для людей страдающих сахарным диабетом",
+    "inspilar_compound": "<span class=\"atention\">Olive Leaf extract (20% oleuropein), L- Arginin hcl, Vitamin C , Resveratrol. вспомогательные вещества: микрок. целлюлоза, стеарат магния, диоксид кремния</span>",
+    "inspilar_usage": "взрослым по 1 капсуле 2 раза в день с приемами пищи. Продолжительность приема 3 месяца, при необходимости курс можно повторить.",
+    "inspilar_contraindications": "только для взрослых, ограничения дети до 18 лет.  Перед применением во время беременности, кормления грудью следует проконсультироваться с врачом. Хранить в недоступном для детей месте.",
+    "inspilar_manufacturer": "Dalmatika (Болгария)",
+    "inspilar_suitability": "2 года",
+    "inspilar_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С",
+    "inspilar_frame_link": "http://1-free.max-potencial.ru/"
+  },
+  "guavital": {
+    "guavital_title": "GUAVITAL+",
+    "guavital_category": "Для здоровья",
+    "guavital_review_count": "232 отзыва",
+    "guavital_niche": "похудение",
+    "guavital_form_factor": "банка 50 гр (20 порций)/ порошок",
+    "guavital_short_description": "Натуральный комплекс  для активизации обменных процессов и снижения веса",
+    "guavital_description": "порошок  для похудения,  натуральный состав включает  в себя такие ингредиенты как: экстракт плодов гуавы, экстракт зеленого чая и экстракт горького апельсина. Эти компоненты оказывают мощное комплексное воздействие, позволяя избавляться от лишних килограммов на длительный срок",
+    "guavital_compound": "Гуава плод экстракт, зеленый чай экстракт (5% кофеин), горький апельсин экстракт (6% синефрин), мальтодекстрин, консервант: лимонная кислота",
+    "guavital_usage": "половину чайной ложки растворить в 100-200 мл воды комнатной температуры. Принимать взрослым до 2 раз в день за 30 минут до еды. Продолжительность приема 1 месяц, при необходимости курс можно повторить",
+    "guavital_contraindications": "противопоказано детям до 18-ти лет и беременным",
+    "guavital_manufacturer": "Dalmatika (Болгария)",
+    "guavital_suitability": "2 года",
+    "guavital_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "wintex": {
+    "wintex_title": "Wintex Ultra",
+    "wintex_category": "Для здоровья",
+    "wintex_review_count": "225 отзывов",
+    "wintex_niche": "Варикоз",
+    "wintex_form_factor": "туба  30 мл, картонная коробка, техническая инструкция, крем/гель",
+    "wintex_short_description": "Гель сохлаждающим эффектом направленный на борьбу с проявлениями варикоза",
+    "wintex_description": "гель, на растительной основе, который мягко охлаждает и снимает тяжесть в ногах, укрепляют стенки сосудов и предотвращают развитие варикоза",
+    "wintex_compound": "<span class=\"atention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА.</span>",
+    "wintex_usage": "наносить легкими массажными движениями 3-5 минут 2 раза в день. Перед нанесением повести тест на переносимость на вашей коже",
+    "wintex_contraindications": "избегать попадания в глаза. Не применять детям до трех лет и непосредственно на открытые раны",
+    "wintex_manufacturer": "Dalmatika (Болгария)",
+    "wintex_suitability": "2 года",
+    "wintex_keep": " хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "exofeet": {
+    "exofeet_title": "Exofeet Oil",
+    "exofeet_category": "Для здоровья",
+    "exofeet_review_count": "245 отзывов",
+    "exofeet_niche": "Грибок",
+    "exofeet_form_factor": "картонная коробка / стеклянный флакон, пипетка / 20 мл",
+    "exofeet_short_description": "Натуральное масло  с бактерицидным дествием направленное на борьбу с проявлениями грибка",
+    "exofeet_description": "комплекс на основе 4-х масел (чайное дерево, корица, мята, лемонграс) оказывает общее противовоспалительное, антисептические, тонизирующее, питательное и увлажняющее действие на кожу. Глубоко проникает и на длительное время задерживаться в месте локализации грибка",
+    "exofeet_compound": "<span class=\"atention\">Alcohol Denat., Aqua, Propylene Glycol, Glycerin, Niacinamide, Symphytum Officinale Leaf Extract, Propolis Extract, Chamomilla Recutita Flower Extract, Aluminum Chlorohydrate, Salicylic Acid, Phenylpropanol, o-Cymen-5-ol, Decylene Glycol, Melaleuca Alternifolia Leaf Oil, Allantoin, Cinnamomum Zeylanicum Leaf Oil, Mentha Piperita Oil, 4-Terpineol, Cymbopogon Flexuosus Oil, Sodium Acrylates Copolymer, Xanthan Gum, Lecithin, Disodium EDTА, Citral, Linalool, Limonene, Eugenol, Cinnamal, Benzyl Benzoate, Geraniol</span>",
+    "exofeet_usage": "наносить на хорошо очищенную и сухую кожу подошвы 2 раза в день. Перед использованием сделайте тест на совместимость с вашей кожей",
+    "exofeet_contraindications": "индивидуальная непереносимость компонентов",
+    "exofeet_manufacturer": "Dalmatika (Болгария)",
+    "exofeet_suitability": "2 года",
+    "exofeet_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "paraxan": {
+    "paraxan_title": "Paraxan",
+    "paraxan_category": "Для здоровья",
+    "paraxan_review_count": "224 отзыва",
+    "paraxan_niche": "Паразиты",
+    "paraxan_form_factor": "20 капсул в упаковке",
+    "paraxan_short_description": "Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
+    "paraxan_description": "растительные капсулы двойного действия для избавления от паразитов и детокса",
+    "paraxan_compound": "Ascorbic acid, Gelatin (capsule shell), Echinacea Purpurea extract, Microcrystalline cellulose (filler), Rose Hips extract, Zinc citrate, Magnesium stearate (filler), Silicon dioxide (anti-caking agent), Sodium Selenite",
+    "paraxan_usage": "принимать по 2 капсулы во время еды, курс применения  30 дней",
+    "paraxan_contraindications": "индивидуальная непереносимость компонентов",
+    "paraxan_manufacturer": "Dalmatika LTD,  ofice 207, 1A4, Ivan Georgov street, Sofia, 1220 Bulgaria",
+    "paraxan_suitability": "2 года",
+    "paraxan_keep": "хранить при температуре от 0°С до 25°С, вдали от прямых солнечных лучей и влаги"
+  },
+  "deluron": {
+    "deluron_title": "Deluron Forte",
+    "deluron_category": "Для здоровья",
+    "deluron_review_count": "205 отзывов",
+    "deluron_niche": "Простатит",
+    "deluron_form_factor": "блистер, капсулы 20 шт",
+    "deluron_short_description": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+    "deluron_description": "комплекс натуральных экстрактов для профилактики проблем мочеполовой системы с которыми может столкнуться любой мужчина. Действие растительных экстрактов нацелено на:  устранение боли и воспаления;  влияет на здоровье простаты;  облегчает мочеиспускание;  улучшение кровообращение",
+    "deluron_compound": "gelatin (capsule shell), microcrystalline cellulose (filler), saw palmetto fruit extract, nettle root extract, tribulus terrestris fruit extract, maca root extract, zinc citrate, magnesium stearate (filler), silicon dioxide (anti-caking agent)",
+    "deluron_usage": "взрослым следует принимать по 1 капсуле 1-2 раза в день во время еды или без. Продолжительность одного курса 45 дней. При необходимости курс можно повторить. Рекомендованная суточная доза - 2 капсулы",
+    "deluron_contraindications": "индивидуальная непереносимость любого из ингредиентов, детский возраст (до 18 лет). Перед приемом рекомендуется проконсультироваться с врачом. Это не лекарство. Не превышайте рекомендованную суточную дозу. Держись подальше от детей. Эта пищевая добавка не должна заменять разнообразное питание",
+    "deluron_manufacturer": "Dalmatika (Болгария)",
+    "deluron_suitability": "2 года",
+    "deluron_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "visoptic_night": {
+    "visoptic_night_title": "Visoptic DUO Night",
+    "visoptic_night_category": "Для здоровья",
+    "visoptic_night_review_count": "212 отзывов",
+    "visoptic_night_niche": "Зрение",
+    "visoptic_night_form_factor": "10 капсул в блистере AL/PVC, 1 блистер в картонной коробке, инструкция",
+    "visoptic_night_short_description": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
+    "visoptic_night_description": "Специальная программа, которая останавливает возрастные ухудшения зрения и защищает сетчатку за счет комбинации специальных капсул, которые действуют днем и ночью, а также правильной схеме питания. Продукт Visoptic DUO DAY - направлен на устранение дефицитных состояний организма, рецептура которого работает на укрепление сетчатки глаза и улучшение кровообращение глаза",
+    "visoptic_night_compound": "Bilberry Fruit Extract (Vaccinium uliginosum L.,  5% anthocyanidins) - 15 mg Marigold Flower Extract (Tagetes erecta L., 5% lutein) – 25 mg Rose hip Extract (Fructus Rosa canina, 5% polyphenols) – 5 mg Black currant Fruit Extract (Ribes nigrum L.,5% anthocyanidins)  -15 mg Vitamin D (Vitamin D3 100 000 IU/g 1mg) – 2,5 mcg",
+    "visoptic_night_usage": "1 капсула вечером",
+    "visoptic_night_contraindications": "индивидуальная непереносимость любого из ингредиентов. Не превышайте рекомендуемую суточную дозу",
+    "visoptic_night_manufacturer": "Dalmatika (Болгария)",
+    "visoptic_night_suitability": "2 года",
+    "visoptic_night_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "visoptic_day": {
+    "visoptic_day_title": "Visoptic DUO Day",
+    "visoptic_day_category": "Для здоровья",
+    "visoptic_day_review_count": "212 отзывов",
+    "visoptic_day_niche": "Зрение",
+    "visoptic_day_form_factor": "10 капсул в блистере AL/PVC, 1 блистер в картонной коробке, инструкция",
+    "visoptic_day_short_description": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
+    "visoptic_day_description": "Специальная программа, которая останавливает возрастные ухудшения зрения и защищает сетчатку за счет комбинации специальных капсул, которые действуют днем и ночью, а также правильной схеме питания. Продукт Visoptic DUO DAY - направлен на устранение дефицитных состояний организма, рецептура которого работает на укрепление сетчатки глаза и улучшение кровообращение глаза",
+    "visoptic_day_compound": "Vitamin C (Ascorbic acid) – 70 mg, Hyaluronic acid – 60 mg, Blueberry Fruit Extract (anthocyanidins 5%) - 50 mg, Vitamin E – 10 mg, Niacin (Nicotinamide) – 10 mg, Vitamin B1 (Thiamine hydrochloride) – 1 mg, Vitamin B2 (Riboflavin) – 1,2 mg, Vitamin B6 (Pyridoxine) – 1,2 mg, Vitamin A -750 mcg, Folic acid – 200 mcg, Vitamin B 12 (Cyanocobalamin) – 2 mcg.  Вспомогательные вещества: микр. целлюлоза, стеарат магния, диоксид кремния",
+    "visoptic_day_usage": "1 капсула утром",
+    "visoptic_day_contraindications": "индивидуальная непереносимость любого из ингредиентов. Не превышайте рекомендуемую суточную дозу",
+    "visoptic_day_manufacturer": "Dalmatika (Болгария)",
+    "visoptic_day_suitability": "2 года",
+    "visoptic_day_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "beauty_skin": {
+    "beauty_skin_title": "Beauty Age Skin",
+    "beauty_skin_category": "Для красоты",
+    "beauty_skin_review_count": "212 отзывов",
+    "beauty_skin_niche": "Омоложение",
+    "beauty_skin_form_factor": "крем сыворотка, 30 мл",
+    "beauty_skin_short_description": "Омолаживающий крем для лица 2 в1 для всех типов кожи",
+    "beauty_skin_description": "крем-сыворотка BEAUTY AGE SKIN с омолаживающим эффектом,  содержит  гиалуроновую кислоту и регенерирующие компоненты для обеспечения комфорта для кожи на протяжении 24 часов",
+    "beauty_skin_compound": "AQUA, SNAIL SECRETION FILTRATE, GLYCERIN, COCO CAPRYLATE/CAPRATE, CAPRYLIC /CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, GLYCERYL STEARATE CITRATE, OLEA EUROPAEA FRUIT OIL, BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, VITIS VINIFERA SEED OIL, ARGANIA SPINOSA KERNEL OIL, PRUNUS AMYGDALUS DULCIS OIL, NIACINAMIDE, HYDROLYZED COLLAGEN, SYMPHYTUM OFFICINALE CALLUS CULTURE EXTRACT, CHAMOMILA RECUTITA FLOWER EXTRACT, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SODIUM HYALURONATE, SODIUM HYDROXIDE, TOCOPHERYL ACETATE, PANTHENOL, ASCORBYL PALMITATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, BUTYLENE GLYCOL, CARBOMER POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, SODIUM LACTATE, DISODIUM EDTA, SODIUM BENZOATE, CITRIC ACID, POTASSIUM SORBATE, BHT",
+    "beauty_skin_usage": "крем-сыворотку распределить легкими движениями  по массажным линиям оставить до полного впитывания. Применять утром и вечером на чистую кожу",
+    "beauty_skin_contraindications": "индивидуальная непереносимость компонентов. Избегать попадания в глаза. Не применять детям  18 лет",
+    "beauty_skin_manufacturer": "Dalmatika LTD,  ofice 207, 1A4, Ivan Georgov street, Sofia, 1220 Bulgaria",
+    "beauty_skin_suitability": "2 года",
+    "beauty_skin_keep": "хранить при температуре от 0°С до 25°С , вдали от прямых солнечных лучей и влаги"
+  },
+  "beauty_peeling": {
+    "beauty_peeling_title": "Beauty Age Skin Peeling",
+    "beauty_peeling_category": "Для красоты",
+    "beauty_peeling_review_count": "212 отзывов",
+    "beauty_peeling_niche": "Омоложение",
+    "beauty_peeling_form_factor": "гель в тубе, 30 мл",
+    "beauty_peeling_short_description": "Очищающая пилинг-маска для всех типов кожи",
+    "beauty_peeling_description": "уникальная очищающая пилинг-маска 3 в 1 с молочной кислотой и натуральными экстрактами, которую можно применять для ежедневного умывания, для глубокой очистки от ороговевших частиц, максимального увлажнения и активации омоложения кожи",
+    "beauty_peeling_compound": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Glycerin, GLYCERYL OLEATE, POLYLACTIC ACID, RUBUS IDAEUS LEAF EXTRACT, EUTERPE OLERACEA FRUIT EXTRACT, Citrus Aurantium Dulcis Fruit Extract, Ananas Sativus Fruit Extract, Citrus Limon peel oil, Xanthan Gum, Phenoxyethanol, CARBOMER, Ethylhexylglycerin, ASCORBYL TETRAISOPALMITATE, Sodium Hydroxide, Sodium Chloride, Sodium Benzoate, Citric Acid, Potassium Sorbate, Limonene",
+    "beauty_peeling_usage": "Небольшое количество нанести на влажную кожу массажными движениями распределять на протяжении 1 минуты после чего смыть водой. Процедуру проводить не более 2 раз в неделю",
+    "beauty_peeling_contraindications": "индивидуальная непереносимость компонентов. Избегать попадания в глаза. Не применять детям до трех лет и непосредственно на открытые раны",
+    "beauty_peeling_manufacturer": "Dalmatika LTD,  ofice 207, 1A4, Ivan Georgov street, Sofia, 1220 Bulgaria",
+    "beauty_peeling_suitability": "2 года ",
+    "beauty_peeling_keep": "хранить при температуре от 0°С до 25°С , вдали от прямых солнечных лучей и влаги"
+  },
+  "ottomax": {
+    "ottomax_title": "Ottomax+",
+    "ottomax_category": "Для здоровья",
+    "ottomax_review_count": "212 отзывов",
+    "ottomax_niche": "Слух",
+    "ottomax_form_factor": "блистер, капсулы 10 шт, картонная коробка, техническая инструкция",
+    "ottomax_short_description": "Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов",
+    "ottomax_description": "комплекс натуральных компонентов, действие которых направлено на устранение шума в ушах и замедление потери слуха.",
+    "ottomax_compound": "L-ascorbic acid, gelatin (capsule shell), micro-crystalline cellulose (filler), acetyl L- carnitine hcl, ginkgo biloba leaf extract, magnesium oxide, nicotinamide, zinc oxide, magnesium stearate (filler), thiamine hydrochloride, silicon dioxide (anti-caking agent), riboflavin, pyridoxine hydrochloride, melatonin, calcium carbonate (food coloring, capsule shell)",
+    "ottomax_usage": "взрослым по 1 капсуле в день во время или после еды. Продолжительность одного курса – 2 месяца. Не превышайте рекомендуемую суточную дозу",
+    "ottomax_contraindications": "индивидуальная непереносимость компонентов,  детский возраст (до 18 лет)",
+    "ottomax_manufacturer": "Dalmatika (Болгария)",
+    "ottomax_suitability": "2 года",
+    "ottomax_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "diaform": {
+    "diaform_title": "Diaform+",
+    "diaform_category": "Для здоровья",
+    "diaform_review_count": "212 отзывов",
+    "diaform_niche": "Диабет",
+    "diaform_form_factor": "15 мягких желатиновых капсул, блистер, картонная коробка (инструкция)",
+    "diaform_short_description": "Средство с растительными экстрактами для нормализации уровня глюкозы в крови",
+    "diaform_description": "растительный препарат, применение которого выделяет специфические ферменты которые стимулируют выработку инсулина и метаболизма глюкозы",
+    "diaform_compound": "Hemp seed oil CP-REF (Cannabis sativa L.), Capsule (Bovine gelatin, humectant (glycerin))",
+    "diaform_usage": "взрослым по 1 капсуле внутрь 2–3 раза в день во время еды. Продолжительность приема - 3 месяца, при необходимости курс можно повторить. РЕКОМЕНДУЕМАЯ ЕЖЕДНЕВНАЯ ДОЗА: 2-3 капсулы в день",
+    "diaform_contraindications": "индивидуальная непереносимость ингредиентов. Перед применением рекомендуется проконсультироваться с врачом. Это не лекарство. Не превышайте рекомендованную суточную дозу. Хранить в недоступном для маленьких детей месте",
+    "diaform_manufacturer": "Dalmatika (Болгария)",
+    "diaform_suitability": "2 года",
+    "diaform_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "tonerin": {
+    "tonerin_title": "Tonerin",
+    "tonerin_category": "Для здоровья",
+    "tonerin_review_count": "212 отзывов",
+    "tonerin_niche": "Гипертония",
+    "tonerin_form_factor": "банка, капсулы 20 шт",
+    "tonerin_short_description": "Средство для нормализации давления и поддержки работы сердечно-сосудистой системы",
+    "tonerin_description": "растительные капсулы, действие которых направлено на регуляцию кровяного давления. Благодаря содержанию в составе мелиссы и боярышника капсулы оказывают влияние частоту сердечных сокращений, повышают диурез, оказывают антиаритмическое действие, замедляют дыхание, уменьшают стресс и мягко воздействуют на  нервную систему",
+    "tonerin_compound": "gelatin (capsule shell), microcrystalline cellulose (filler), lemon balm leaf extract, hawthorn fruit extract, garlic bulb extract, magnesium stearate (filler), silicon dioxide (anti-caking agent),  pyridoxine hydrochloride, cholecalciferol",
+    "tonerin_usage": "Способ применения: взрослым по 1 капсуле 2 раза в день во время еды. Продолжительность приема - 1 месяц. При необходимости курс можно повторить. Рекомендуемая суточная доза - 2 капсулы",
+    "tonerin_contraindications": "Индивидуальная непереносимость любого из ингредиентов, детский возраст. Предупреждение: это не лекарство. Не превышайте рекомендованную суточную дозу. Пищевая добавка не должна заменять разнообразное питание",
+    "tonerin_manufacturer": "Dalmatika (Болгария)",
+    "tonerin_suitability": "2 года",
+    "tonerin_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "vermixin": {
+    "vermixin_title": "Vermixin",
+    "vermixin_category": "Для здоровья",
+    "vermixin_review_count": "212 отзывов",
+    "vermixin_niche": "Паразиты",
+    "vermixin_form_factor": "15 мягких желатиновых капсул, блистер, картонная коробка (инструкция)",
+    "vermixin_short_description": "Капсулы для безопасного очищения организма от паразитов и восстановления функций системы пищеварения",
+    "vermixin_description": "антипаразитическое средство в составе которого масло семян конопли, которое оказывает мощное противовоспалительное средство. Конопляное масло эффективно справляется с уничтожением паразитов у детей и взрослых",
+    "vermixin_compound": "Hemp seed oil CP-REF (Cannabis sativa L.), Capsule (Bovine gelatin, humectant (glycerin))",
+    "vermixin_usage": "взрослым по 1 капсуле внутрь 2–3 раза в день во время еды. Продолжительность приема - 3 месяца, при необходимости курс можно повторить& РЕКОМЕНДУЕМАЯ ЕЖЕДНЕВНАЯ ДОЗА: 2-3 капсулы в день",
+    "vermixin_contraindications": "индивидуальная непереносимость ингредиентов. Перед применением рекомендуется проконсультироваться с врачом. Это не лекарство. Не превышайте рекомендованную суточную дозу. Хранить в недоступном для маленьких детей месте",
+    "vermixin_manufacturer": "Dalmatika (Болгария)",
+    "vermixin_suitability": "2 года",
+    "vermixin_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "wirex": {
+    "wirex_title": "Wirex",
+    "wirex_category": "Для здоровья",
+    "wirex_review_count": "212 отзывов",
+    "wirex_niche": "Потенция",
+    "wirex_form_factor": "блистер, капсулы 20 шт",
+    "wirex_short_description": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+    "wirex_description": "комплекс растительных компонентов, который усиливает сексуальное желание и улучшает сексуальную функцию у мужчин, нормализует функциональное состояние мочеполовой системы при эректильной дисфункции (для повышения либидо и потенции), улучшает качество спермы, а также повышает умственную и физическую работоспособности и адаптационные возможности у мужчин.  Действие Wirex men’s formula обусловлена \u200B\u200Bфункциональными свойствами активных ингредиентов и направлена \u200B\u200Bна решение проблем с сексуальной функцией, либидо, сперматогенезом, памятью и энергией у мужчин",
+    "wirex_compound": "Cranberry berry extract, gelatin (capsule shell), Saw palmetto fruit extract, Nettle root extract, microcrystalline cellulose (filler), Zinc citrate, magnesium stearate (filler), silicon dioxide (anti-caking agent), colorants (capsule shell): E171, E132",
+    "wirex_usage": "По 1 капсуле 1-2 раза в день во время еды. Продолжительность одного курса 45 дней. При необходимости курс можно повторить. Рекомендованная суточная доза - 2 капсулы",
+    "wirex_contraindications": "Индивидуальная непереносимость любого из ингредиентов, детский возраст (до 18 лет). Перед приемом рекомендуется проконсультироваться с врачом. Это не лекарство. Не превышайте рекомендованную суточную дозу. Держись подальше от детей. Эта пищевая добавка не должна заменять разнообразное питание",
+    "wirex_manufacturer": "Dalmatika (Болгария)",
+    "wirex_suitability": "2 года",
+    "wirex_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "depanten": {
+    "depanten_title": "Depanten",
+    "depanten_category": "Для здоровья",
+    "depanten_review_count": "212 отзывов",
+    "depanten_niche": "Суставы",
+    "depanten_form_factor": "картонная коробка, флакон с помпой  25 мл,  гель",
+    "depanten_short_description": "Гель с натуральными экстрактами для устранения разных типов боли в суставах и мышцах",
+    "depanten_description": "гелевая формула местного применения в соответствующих болевых очагах. Гель содержит богатый спектр биологически активных ингредиентов: витамин B3, B5, аллантоин, гиалуроновую кислоту, глюкозамин, хондроитин, гидролизованный коллаген, камфору, ментол, экстракты растений ромашки, окопника, дьявольского когтя, арники и эфирные масла гвоздики, эвкалипта. , Чайное дерево, Корица. Смягчает и увлажняет кожу, стимулируя обменные процессы в эпидермисе с охлаждающим эффектом",
+    "depanten_compound": "Aqua, Alcohol Denat., Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolyzed Collagen, PEG-40, Hydrogenated Castor Oil, Мenthol, Mentha Piperita Oil, Sodium Chondroitin Sulfate, Eucalyptus Globulus Leaf Oil, Camphor, Eugenia Caroyphyllus leaf oil, Cinnamomum Cassia Leaf Oil, Melaleuca Alternifolia leaf oil, Ammonium AcryloyldimeThyltaurate /VP Copolymer, Panthenol, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Allantoin, Disodium EDTА, Linalool, Limonene, Еugenol",
+    "depanten_usage": "наносить круговыми массажными движениями небольшое количество продукта до полного впитывания 2-3 раз в день. Перед использованием сделайте тест на совместимость со своей кожей",
+    "depanten_contraindications": "продукт предназначен только для местного использования. Избегайте попадания в глаза и на слизистые оболочки. В случае контакта тщательно промыть водой! Его нельзя применять детям до трех лет, беременным женщинам и кормящим матерям, а также непосредственно на открытых ранах",
+    "depanten_manufacturer": "Dalmatika (Болгария)",
+    "depanten_suitability": "2 года",
+    "depanten_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "miaflow": {
+    "miaflow_title": "Miaflow Intense",
+    "miaflow_category": "для красоты",
+    "miaflow_review_count": "212 отзывов",
+    "miaflow_niche": "Омоложение",
+    "miaflow_form_factor": "картонная коробка / банка 40 мл; крем",
+    "miaflow_short_description": "Омолаживающий крем для лица с биопептидами для всех типов кожи",
+    "miaflow_description": "крем способствует обновлению клеток эпидермиса, замедляет процессы старения кожи. Защищает от повреждений и раздражений, выравнивает тон кожи, уменьшает видимость морщинок. Основа крема - муцин улитки (улиточный секрет), который содержит огромное количество ценных косметических элементов, сохраняет молодость и свежесть лица. Крем для кожи любого типа и возраста",
+    "miaflow_compound": "AQUA, SNAIL SECRETION FILTRATE, GLYCERIN, COCO CAPRYLATE/CAPRATE, CAPRYLIC /CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, GLYCERYL STEARATE CITRATE,OLEA EUROPAEA FRUIT OIL, BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, VITIS VINIFERA SEED OIL, ARGANIA SPINOSA KERNEL OIL, PRUNUS AMYGDALUS DULCIS OIL, NIACINAMIDE, HYDROLYZED COLLAGEN, SYMPHYTUM OFFICINALE CALLUS CULTURE EXTRACT, CHAMOMILA RECUTITA FLOWER EXTRACT, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SODIUM HYALURONATE, SODIUM HYDROXIDE, TOCOPHERYL ACETATE, PANTHENOL, ASCORBYL PALMITATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, BUTYLENE GLYCOL, CARBOMER POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, SODIUM LACTATE, DISODIUM EDTA, SODIUM BENZOATE, CITRIC ACID, POTASSIUM SORBATE, BHT",
+    "miaflow_usage": "аккуратными круговыми движениями нанесите небольшое количество крема на предварительно очищенную кожу лица, шеи и зоны декольте, исключая область вокруг глаз. Применять крем утром и вечером",
+    "miaflow_contraindications": "индивидуальная непереносимость компонентов средства",
+    "miaflow_manufacturer": "Dalmatika (Болгария)",
+    "miaflow_suitability": "2 года",
+    "miaflow_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "feronex": {
+    "feronex_title": "Feronex",
+    "feronex_category": "Для здоровья",
+    "feronex_review_count": "212 отзывов",
+    "feronex_niche": "потенция",
+    "feronex_form_factor": "пластиковая банка / 20 капсул",
+    "feronex_short_description": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+    "feronex_description": "капсулы с комплексом натуральных экстрактов и цинком. Формула разработана с учетом профилактики всех проблем мочеполовой системы с которыми может столкнуться любой мужчина, в том числе и проблемы с либидо. Действие средства нацелено на восполнение недостающих веществ организму, которые сложно получить с едой и которые влияют на: улучшение кровообращения; влияют на эрекцию; повышают выработку тестостерона; повышают выносливость организма; влияют на здоровье мочеполовой системы и простаты",
+    "feronex_compound": "Saw palmetto fruit extract (Serenoa repens 5:1); Nettle root extract (Urtica dioica, 1% Beta-Sitosterol); Tribulus terrestris fruit extract, 40% saponins; Maca root extract (Lepidium meyenii 10:1); Zinc (Zinc citrate). Excipients: filler: microcrystal cellulose, magnesium stearate, anti-caking agent: silicon dioxide. Capsule shell composition: gelatin.",
+    "feronex_usage": "1 капсула 1-2 раза в день во время или после еды",
+    "feronex_contraindications": "индивидуальная непереносимость компонентов. Не предназначено для детей, беременных и кормящих женщин",
+    "feronex_manufacturer": "Dalmatika (Болгария)",
+    "feronex_suitability": "2 года",
+    "feronex_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "steplex": {
+    "steplex_title": "Steplex",
+    "steplex_category": "для здоровья",
+    "steplex_review_count": "212 отзывов",
+    "steplex_niche": "суставы",
+    "steplex_form_factor": "картонная коробка, флакон с помпой  25 мл,  гель",
+    "steplex_short_description": "Гель для устранения разных типов боли в суставах и мышцах",
+    "steplex_description": "Гелевая формула местного применения в соответствующих болевых очагах. Гель содержит богатый спектр биологически активных ингредиентов: витамин B3, B5, аллантоин, гиалуроновую кислоту, глюкозамин, хондроитин, гидролизованный коллаген, камфору, ментол, экстракты растений ромашки, окопника, дьявольского когтя, арники и эфирные масла гвоздики, эвкалипта, чайное дерево, корица. Смягчает и увлажняет кожу, стимулируя обменные процессы в эпидермисе с охлаждающим эффектом.",
+    "steplex_compound": "Aqua, Alcohol Denat., Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolyzed Collagen, PEG-40, Hydrogenated Castor Oil, Мenthol, Mentha Piperita Oil, Sodium Chondroitin Sulfate, Eucalyptus Globulus Leaf Oil, Camphor, Eugenia Caroyphyllus leaf oil, Cinnamomum Cassia Leaf Oil, Melaleuca Alternifolia leaf oil, Ammonium AcryloyldimeThyltaurate /VP Copolymer, Panthenol, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Allantoin, Disodium EDTА, Linalool, Limonene, Еugenol",
+    "steplex_usage": "наносить круговыми массажными движениями небольшое количество продукта до полного впитывания 2-3 раз в день. Перед использованием сделайте тест на совместимость со своей кожей",
+    "steplex_contraindications": "продукт предназначен только для местного использования. Избегайте попадания в глаза и на слизистые оболочки. В случае контакта тщательно промыть водой! Его нельзя применять детям до трех лет, беременным женщинам и кормящим матерям, а также непосредственно на открытых ранах",
+    "steplex_manufacturer": "Dalmatika (Болгария)",
+    "steplex_suitability": "2 года",
+    "steplex_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "neoveris": {
+    "neoveris_title": "Neoveris",
+    "neoveris_category": "Для здоровья",
+    "neoveris_review_count": "212 отзывов",
+    "neoveris_niche": "Варикоз",
+    "neoveris_form_factor": "гель в тубе, 30 мл",
+    "neoveris_short_description": "Гель с натуральными экстрактами направленный на борьбу с проявлениями варикоза",
+    "neoveris_description": "комплекс растительных компонентов для нормализации состояния организма, регуляции обмена веществ и активации процесса снижения веса. Растительный комплекс: запускает процесс расходования собственных жировых запасов; способствует похудению; поддерживает нормальный метаболизм",
+    "neoveris_compound": "Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА",
+    "neoveris_usage": "наносить легкими массажными движениями 3-5 минут 2 раза в день. Перед нанесением повести тест на переносимость на вашей коже",
+    "neoveris_contraindications": "индивидуальная непереносимость компонентов. Избегать попадания в глаза. Не применять детям до трех лет и непосредственно на открытые раны",
+    "neoveris_manufacturer": "Dalmatika (Болгария)",
+    "neoveris_suitability": "2 года",
+    "neoveris_keep": "хранить при температуре от 0°С до 25°С , вдали от прямых солнечных лучей и влаги"
+  },
+  "keramin": {
+    "keramin_title": "Keramin",
+    "keramin_category": "Для здоровья",
+    "keramin_review_count": "212 отзывов",
+    "keramin_niche": "Грибок",
+    "keramin_form_factor": "картонная коробка, техническая инструкция, туба 30 мл",
+    "keramin_short_description": "Крем с бактерицидным дествием направленный на борьбу с проявлениями грибка",
+    "keramin_description": "Содержит биоактивные компоненты с широким спектром дерматологических и косметических свойств. Способствует нормальной микрофлоре и оказывает успокаивающее действие на кожу. Обладает кератолитическим действием и удаляет ороговевшие слои кожи. Обладает эффектом увлажнения и смягчения кожи. Способствует и стимулирует обновление клеток эпидермиса. Предназначен для поддержки нормального состояния кожи",
+    "keramin_compound": "Aqua,Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Caprylic/Capric Triglyceride, Chamomila Recutita Flower Extract, Butyrospermum Parkii Butter, Niacinamide, Zinc Оxide, Propolis extract, Cocos Nucifera Oil, Sulfur, Аlcloxa, Salicylic Acid, Salix Alba Bark Extract, Betula Alba Bark/Leaf Extract, Juniperus Oxycedrus Wood Oil, Polysorbate 80, Melaleuca Alternifolia Leaf Oil, Mentha Piperita Oil, Xanthan Gum,  4-Terpineol, Piroctone Olamine, Phenoxyethanol, Ethylhexylglycerin, BHT, Disodium EDTА, Linalool, Limonene",
+    "keramin_usage": "нанести на хорошо очищенную и сухую кожу пораженного участка тела легкими массирующими движениями снизу вверх. Перед использованием обязательно сделать тест на переносимость компонентов препарата  кожей. <span class=\"color: red\">Внимание:</span> избегать попадания в глаза",
+    "keramin_contraindications": "Не наносить детям младше 3 лет, беременным и кормящим женщинам. Не наносить  на открытые раны",
+    "keramin_manufacturer": "Dalmatika (Болгария)",
+    "keramin_suitability": "2 года",
+    "keramin_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "uromexil": {
+    "uromexil_title": "Uromexil Forte",
+    "uromexil_category": "Для здоровья",
+    "uromexil_review_count": "212 отзывов",
+    "uromexil_niche": "простатит",
+    "uromexil_form_factor": "блистер, капсулы 20 шт",
+    "uromexil_short_description": "Средство для мужчин, направленное на нормализацию функций репродуктивной и мочеполовой системы",
+    "uromexil_description": "комплекс натуральных экстрактов для профилактики проблем мочеполовой системы с которыми может столкнуться любой мужчина. Действие растительных экстрактов нацелено на: устранение боли и воспаления; влияет на здоровье простаты; облегчает мочеиспускание; улучшение кровообращение.",
+    "uromexil_compound": "gelatin (capsule shell), microcrystalline cellulose (filler), saw palmetto fruit extract, nettle root extract, tribulus terrestris fruit extract, maca root extract, zinc citrate, magnesium stearate (filler), silicon dioxide (anti-caking agent)",
+    "uromexil_usage": "Взрослым следует принимать по 1 капсуле 1-2 раза в день во время еды или без. Продолжительность одного курса 45 дней. При необходимости курс можно повторить. Рекомендованная суточная доза - 2 капсулы",
+    "uromexil_contraindications": "Индивидуальная непереносимость любого из ингредиентов, детский возраст (до 18 лет). Перед приемом рекомендуется проконсультироваться с врачом. Это не лекарство. Не превышайте рекомендованную суточную дозу. Держись подальше от детей. Эта пищевая добавка не должна заменять разнообразное питание",
+    "uromexil_manufacturer": "Dalmatika (Болгария)",
+    "uromexil_suitability": "2 года",
+    "uromexil_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+  "delislim": {
+    "delislim_title": "Delislim",
+    "delislim_category": "Для здоровья",
+    "delislim_review_count": "212 отзывов",
+    "delislim_niche": "похудение",
+    "delislim_form_factor": "капсулы, 20 шт",
+    "delislim_short_description": "Капсулы с растительными экстрактами  для активизации обменных процессов и снижения веса",
+    "delislim_description": "Капсулы для похудения,  содержит натуральные компоненты: экстракт плодов гуавы, экстракт зеленого чая и экстракт горького апельсина, которые оказывают мощное комплексное воздействие, позволяя избавляться от лишних килограммов на длительный срок",
+    "delislim_compound": "Гуава плод экстракт, зеленый чай экстракт (5% кофеин), горький апельсин экстракт (6% синефрин), мальтодекстрин, консервант: лимонная кислота",
+    "delislim_usage": "принимать взрослым по 1 капсуле 2 раза в день за 30 минут до еды. Продолжительность приема 1 месяц, при необходимости курс можно повторить",
+    "delislim_contraindications": "противопоказано детям и беременным",
+    "delislim_manufacturer": "Dalmatika (Болгария)",
+    "delislim_suitability": "2 года",
+    "delislim_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С"
+  },
+
   "catalog": {
     "catalog_title": "Каталог",
     "catalog_item_health": "Для здоровья",
@@ -446,7 +1257,6 @@
     "catalog_item_more_btn": "Паказать больше",
     "catalog_item_count": "из"
   },
-
   "cookie": {
     "cookie_title": "Cookie Policy",
     "cookie_description1": "This is the Cookie Policy for Newmoves, accessible from <a class=\"policy__link\" href=\"contacts.html\">Contact form</a>",
