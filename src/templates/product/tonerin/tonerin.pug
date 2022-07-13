@@ -1,0 +1,147 @@
+include ../../mixins/frame-popup
+include ../../mixins/product
+
+- var PRODUCT_CARD = LANG.product_card;
+- var TONERIN = LANG.tonerin;
+- var HITS = LANG.hits;
+- HITS.length = 3
+
+section.product-item
+	.container
+		.product-item__breadcrumbs.breadcrumbs
+			a.breadcrumbs__link(href="/")!=PRODUCT_CARD.product_card_bread_main
+			span.breadcrumbs__line /
+			a.breadcrumbs__link(href="catalog.html")!=PRODUCT_CARD.product_card_bread_catalog
+			span.breadcrumbs__line /
+			a.breadcrumbs__link(href="catalog.html?id=health")!=TONERIN.tonerin_category
+			span.breadcrumbs__line /
+			span.breadcrumbs__main!=TONERIN.tonerin_title
+		.product-item__wrapper
+			.product-item__slider.slider-prod
+				.slider-prod__nav.js-slider-product-nav
+					.slider-prod__nav-item
+						img(src="img/tonerin.png", alt="Tonerin")
+					.slider-prod__nav-item
+						img(src="img/tonerin.png", alt="Tonerin")
+					.slider-prod__nav-item
+						img(src="img/tonerin.png", alt="Tonerin")
+				.slider-prod__for.js-slider-product-for
+					.slider-prod__for-item
+						img(src="img/tonerin.png", alt="Tonerin")
+					.slider-prod__for-item
+						img(src="img/tonerin.png", alt="Tonerin")
+					.slider-prod__for-item
+						img(src="img/tonerin.png", alt="Tonerin")
+			.product-item__info
+				h2.product-item__name!=TONERIN.tonerin_title
+				//p.product-item__desc
+				.product-item__rating
+					.product-item__rating-stars
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star-empty.svg", alt="")
+					p.product-item__rating-text!=TONERIN.tonerin_review_count
+				ul.product-item__list.product-list
+					li.product-list__item
+						!=PRODUCT_CARD.product_niche
+						!=TONERIN.tonerin_niche
+					li.product-list__item
+						!=PRODUCT_CARD.product_form_factor
+						!=TONERIN.tonerin_form_factor
+				//button.product-item__btn.button.button--green.js-show-frame-popup!=PRODUCT_CARD.product_btn
+				a.product-item__btn.button.button--gold(href='order.html?id=tonerin')!=PRODUCT_CARD.product_btn
+				p.product-item__text!=TONERIN.tonerin_short_description
+				.product-item__description.js-accordeon
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_description
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=TONERIN.tonerin_description
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_compound
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=TONERIN.tonerin_compound
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_usage
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=TONERIN.tonerin_usage
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_contraindications
+							i.fico.fico-cross
+						p.specification__text.js-info-accordeon!=TONERIN.tonerin_contraindications
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl!=PRODUCT_CARD.product_additional
+							i.fico.fico-cross
+						.specification__text.js-info-accordeon
+							.product-list
+								li.product-list__item
+									!=PRODUCT_CARD.product_manufacturer
+									!=TONERIN.tonerin_manufacturer
+								li.product-list__item.mb
+									!=PRODUCT_CARD.product_suitability
+									!=TONERIN.tonerin_suitability
+								li.product-list__item
+									!=PRODUCT_CARD.product_keep
+									!=TONERIN.tonerin_keep
+					.specification
+						.specification__top.js-btn-accordeon
+							h3.specification__ttl Отзывы
+							i.fico.fico-cross
+						.specification__text.js-info-accordeon
+							.product-item__review.review-small
+								.review-small__top
+									.review-small__desc
+										.review-small__name Ермоленко Влада
+										.review-small__rating
+											.review-small__rating-stars
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star-empty-1.svg" alt="")
+											p.review-small__rating-text Отличное качество!
+									img.review-small__photo(src="/img/review_argosev_bio_1.png" alt="")
+								p.review-small__text Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, dignissimos distinctio dolores eum impedit laudantium nam officia quaerat quam quasi quod recusandae similique sunt temporibus vel. Molestiae quidem totam ullam?
+
+							.product-item__review.review-small
+								.review-small__top
+									.review-small__desc
+										.review-small__name Ермоленко Влада
+										.review-small__rating
+											.review-small__rating-stars
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star-empty-1.svg" alt="")
+											p.review-small__rating-text Отличное качество!
+									img.review-small__photo(src="/img/review_argosev_bio_1.png" alt="")
+								p.review-small__text Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, dignissimos distinctio dolores eum impedit laudantium nam officia quaerat quam quasi quod recusandae similique sunt temporibus vel. Molestiae quidem totam ullam?
+
+							.product-item__review.review-small
+								.review-small__top
+									.review-small__desc
+										.review-small__name Ермоленко Влада
+										.review-small__rating
+											.review-small__rating-stars
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star.svg" alt="")
+												img.review-small__rating-star(src="/img/svg/star-empty-1.svg" alt="")
+											p.review-small__rating-text Отличное качество!
+									img.review-small__photo(src="/img/review_argosev_bio_1.png" alt="")
+								p.review-small__text Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, dignissimos distinctio dolores eum impedit laudantium nam officia quaerat quam quasi quod recusandae similique sunt temporibus vel. Molestiae quidem totam ullam?
+					.specification.specification--recom
+						.specification__top
+							h3.specification__ttl С этим товаром покупают
+						.specification__text
+							.specification__products
+								each hit in HITS
+									+product(hit)
