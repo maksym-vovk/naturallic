@@ -346,6 +346,36 @@
     },
     {
       "label": "Хит",
+      "srcPhoto": "img/visoptic.png",
+      "name": "Visoptic DUO Day",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty.svg",
+          "type": "empty"
+        }
+      ],
+      "text": "212 отзывов",
+      "desc": "Комплекс витаминов и минералов для восстановления остроты и профилактики снижения зрения",
+      "link": "visoptic_day.html"
+    },
+    {
+      "label": "Хит",
       "srcPhoto": "img/beauty-age-skin.png",
       "name": "Beauty Age Skin",
       "stars": [
