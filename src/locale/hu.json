@@ -878,20 +878,21 @@
     "terms_index8": "8. Irányadó jog",
     "terms__description10": "Ezekre a feltételekre Chile törvényei vonatkoznak, és azokkal összhangban értelmezendők, és Ön visszavonhatatlanul aláveti magát az adott állam vagy helyszín bíróságainak kizárólagos joghatóságának."
   },
+
   "product_card": {
-    "product_card_bread_main": "Főoldal",
-    "product_card_bread_catalog": "Katalógus",
-    "product_niche": "<span>Irányzat: </span>",
-    "product_form_factor": "<span>Kibocsátási forma:&nbsp;</span>",
-    "product_description": "Leírás",
-    "product_btn": "Megrendelés",
-    "product_compound": "Összetétel",
-    "product_usage": "Használat",
-    "product_contraindications": "Ellenjavallatok",
-    "product_additional": "További információ",
-    "product_manufacturer": "<span>Gyártó: </span>",
-    "product_suitability": "<span>Szavatossági idő: </span>",
-    "product_keep": "<span>Tárolási feltételek: </span>"
+    "product_card_bread_main": "Главная",
+    "product_card_bread_catalog": "Каталог",
+    "product_niche": "<span>Направление: </span>",
+    "product_form_factor": "<span>Форма выпуска:&nbsp;</span>",
+    "product_description": "Описание",
+    "product_btn": "Заказать",
+    "product_compound": "Состав",
+    "product_usage": "Применение",
+    "product_contraindications": "Противопоказания",
+    "product_additional": "Доп. информация",
+    "product_manufacturer": "<span>Производитель: </span>",
+    "product_suitability": "<span>Срок годности: </span>",
+    "product_keep": "<span>Условия хранения: </span>"
   },
 
   "tensital": {
