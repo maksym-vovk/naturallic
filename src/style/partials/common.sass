@@ -174,36 +174,37 @@ ul, li
 	position: relative
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	transition: all .3s
-	height: 585px
+	//height: 585px
 	+rm(480)
 		background: $light-blue
 		color: $main-green
 		&:hover
 			background: $main-green
 			color: white
-			box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1)
+			box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1)
 			.product__rating-star
 				img
 					opacity: 0
 				&::after
 					opacity: 1
 	&:hover
-		height: 695px
+		//height: auto !important
 		.product__btn
 			opacity: 1
 	+r(1023)
-		height: 520px
-		&:hover
-			height: 615px
+		//height: 520px
+		//&:hover
+			//height: 615px
 	+r(767)
-		height: 390px
-		&:hover
-			height: 475px
+		//height: 390px
+		//&:hover
+			//height: 475px
 	+r(479)
-		height: auto
-		&:hover
-			height: auto
-			//background: #F4F3F5
+		border-radius: 20px
+		height: auto !important
+		//&:hover
+		//	height: auto
+		//	background: #F4F3F5
 	&__label
 		position: absolute
 		top: 20px
@@ -330,9 +331,9 @@ ul, li
 		font-weight: 400
 		font-size: 16px
 		line-height: 18px
-		height: 100px
+		//height: 100px
 		+r(1023)
-			height: 90px
+			//height: 90px
 		+r(767)
 			font-size: 14px
 		+r(479)
@@ -375,6 +376,10 @@ ul, li
 	left: calc(50% - 560px)
 	max-width: 1110px
 	height: 695px
+
+	& .swiper-wrapper
+		height: auto
+		align-items: flex-start
 
 	//&__wrapper
 	//	margin-bottom: 30px
@@ -420,23 +425,31 @@ ul, li
 			max-width: 210px
 	+r(479)
 		height: auto
+		margin: 0 auto
 		left: 0
 		padding: 0 15px
 		&__wrapper
 			flex-wrap: wrap
-			justify-content: space-between
+			justify-content: center
 		.product
-			max-width: 49%
+			max-width: 100%
 			padding: 40px 10px 20px 10px
 			+nlt
 				margin-right: 0
-			&:not(:nth-of-type(-n+2))
-				margin-top: 20px
-	+r(374)
-		.product
-			max-width: 100%
 			&:not(:nth-of-type(-n+1))
 				margin-top: 20px
+		//.product
+		//	max-width: 49%
+		//	padding: 40px 10px 20px 10px
+		//	+nlt
+		//		margin-right: 0
+		//	&:not(:nth-of-type(-n+2))
+		//		margin-top: 20px
+	//+r(374)
+	//	.product
+	//		max-width: 100%
+	//		&:not(:nth-of-type(-n+1))
+	//			margin-top: 20px
 
 
 .breadcrumbs

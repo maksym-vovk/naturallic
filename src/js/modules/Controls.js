@@ -180,6 +180,68 @@ const Controls = (function () {
         }
       })
     },
+    setProductCardHeight: function () {
+      const productCards = document.querySelectorAll('.product')
+
+      const setHeight = () => {
+        const cardsHeightArray = [...productCards].map(card => card.clientHeight)
+
+        const productDetailsBtnHeight = document.querySelector('.product__btn').clientHeight + 15
+        const maxCardHeight = Math.max(...cardsHeightArray)
+
+        productCards.forEach((card, index) => {
+          const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`
+          card.style.height = newCardHeight
+
+          card.addEventListener('mouseover', ({target}) => {
+            handleCardMouseOver(target, cardsHeightArray, index)
+          }, false)
+
+          card.addEventListener('mouseout', ({target}) => {
+            handleCardMouseOut(target, newCardHeight)
+          }, false)
+        })
+      }
+
+      const handleCardMouseOver = (target, cardsHeightArray, index) => {
+        const initialCardHeight = cardsHeightArray[index]
+        const card = target.closest(".product")
+        card.style.height = `${initialCardHeight}px`
+      }
+
+      const handleCardMouseOut = (target, newCardHeight) => {
+        const card = target.closest(".product")
+        card.style.height = newCardHeight
+      }
+
+      const resetCardsHeight = () => {
+        productCards.forEach(card => card.style.height = "auto")
+      }
+
+      const setMaxCardsHeight = () => {
+        const cardsHeightArray = [...productCards].map(card => card.clientHeight)
+        const maxCardHeight = Math.max(...cardsHeightArray)
+        productCards.forEach(card => {
+          card.style.height = `${maxCardHeight}px`
+        })
+      }
+
+      window.addEventListener('load', () => {
+        resetCardsHeight()
+        const winWidth = window.innerWidth
+        if (winWidth > 479) {
+          setHeight()
+        }
+      })
+
+      window.addEventListener('resize', () => {
+        resetCardsHeight()
+        const winWidth = window.innerWidth
+        if (winWidth > 479) {
+          setHeight()
+        }
+      })
+    },
     webpChecker: function () {
         const WebP = new Image();
         WebP.src = 'data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA';
@@ -202,6 +264,7 @@ const Controls = (function () {
       Controls.showReviews();
       Controls.setLanguage();
       Controls.showHeaderLang()
+      Controls.setProductCardHeight()
       Controls.webpChecker()
     },
   };
