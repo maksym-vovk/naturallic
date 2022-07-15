@@ -181,14 +181,17 @@ const Controls = (function () {
       })
     },
     setProductCardHeight: function () {
-      const productCards = document.querySelectorAll('.product')
+      const categoryTabs = document.querySelectorAll('.js-tab')
+      const catalogMoreBtn = document.querySelectorAll('.js-btn-catalog')
 
-      const setHeight = () => {
-        const cardsHeightArray = [...productCards].map(card => card.clientHeight)
+      let productCards = document.querySelectorAll('.product')
 
+      const setProductHeight = () => {
         const productDetailsBtnHeight = document.querySelector('.product__btn').clientHeight + 15
+        const cardsHeightArray = [...productCards].map(card => card.clientHeight)
         const maxCardHeight = Math.max(...cardsHeightArray)
 
+        console.log(productCards);
         productCards.forEach((card, index) => {
           const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`
           card.style.height = newCardHeight
@@ -203,34 +206,28 @@ const Controls = (function () {
         })
       }
 
+      const updateProductCards = () => productCards = document.querySelectorAll('.product')
+
       const handleCardMouseOver = (target, cardsHeightArray, index) => {
         const initialCardHeight = cardsHeightArray[index]
         const card = target.closest(".product")
         card.style.height = `${initialCardHeight}px`
+        card.classList.add('product--hovered')
       }
 
       const handleCardMouseOut = (target, newCardHeight) => {
         const card = target.closest(".product")
         card.style.height = newCardHeight
+        card.classList.remove('product--hovered')
       }
 
-      const resetCardsHeight = () => {
-        productCards.forEach(card => card.style.height = "auto")
-      }
-
-      const setMaxCardsHeight = () => {
-        const cardsHeightArray = [...productCards].map(card => card.clientHeight)
-        const maxCardHeight = Math.max(...cardsHeightArray)
-        productCards.forEach(card => {
-          card.style.height = `${maxCardHeight}px`
-        })
-      }
+      const resetCardsHeight = () => productCards.forEach(card => card.style.height = "auto")
 
       window.addEventListener('load', () => {
         resetCardsHeight()
         const winWidth = window.innerWidth
         if (winWidth > 479) {
-          setHeight()
+          setProductHeight()
         }
       })
 
@@ -238,8 +235,24 @@ const Controls = (function () {
         resetCardsHeight()
         const winWidth = window.innerWidth
         if (winWidth > 479) {
-          setHeight()
+          setProductHeight()
         }
+      })
+
+      catalogMoreBtn.forEach(btn => {
+        btn.addEventListener('click', () => {
+          resetCardsHeight()
+          updateProductCards()
+          setProductHeight()
+        })
+      })
+
+      categoryTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+          resetCardsHeight()
+          updateProductCards()
+          setProductHeight()
+        })
       })
     },
     webpChecker: function () {
