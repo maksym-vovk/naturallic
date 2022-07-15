@@ -166,6 +166,9 @@ ul, li
 
 
 .product
+	display: flex
+	flex-direction: column
+	justify-content: space-between
 	background: $main-green
 	color: white
 	border-radius: 40px
@@ -178,7 +181,7 @@ ul, li
 	+rm(480)
 		background: $light-blue
 		color: $main-green
-		&:hover
+		&--hovered
 			background: $main-green
 			color: white
 			box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1)
@@ -187,6 +190,15 @@ ul, li
 					opacity: 0
 				&::after
 					opacity: 1
+		//&:hover
+		//	background: $main-green
+		//	color: white
+		//	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1)
+		//	.product__rating-star
+		//		img
+		//			opacity: 0
+		//		&::after
+		//			opacity: 1
 	&:hover
 		//height: auto !important
 		.product__btn

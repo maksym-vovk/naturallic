@@ -2,6 +2,15 @@ include ../mixins/product
 - var CATALOG = LANG.catalog;
 - var PRODUCTS = LANG.hits
 
+-
+	const healthProducts = PRODUCTS.filter(product => product.category === 'health')
+	const beautyProducts = PRODUCTS.filter(product => product.category === 'beauty')
+
+	const preloadedHealthProducts = healthProducts.filter((product, index) => index <= 8)
+	const restHealthProducts = healthProducts.filter((product, index) => index > 8)
+	const preloadedBeautyProducts = beautyProducts.filter((product, index) => index <= 8)
+	const restBeautyProducts = beautyProducts.filter((product, index) => index > 8)
+
 section.catalog-main
 	.container
 		h2.catalog-main__title.title!=CATALOG.catalog_title
@@ -9,7 +18,7 @@ section.catalog-main
 			.catalog-main__left
 				//p.category-item#man.js-tab.active Для мужчин
 				//p.category-item#woman.js-tab Для женщин
-				p.category-item#health.js-tab!=CATALOG.catalog_item_health
+				p.category-item#health.js-tab.active!=CATALOG.catalog_item_health
 				p.category-item#beauty.js-tab!=CATALOG.catalog_item_beauty
 			.catalog-main__right
 				//.catalog-main__list.js-list-prod.active(data-target="man")
@@ -39,27 +48,34 @@ section.catalog-main
 
 				.catalog-main__list.js-list-prod.active(data-target="health")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-						each product in PRODUCTS
+						each product in preloadedHealthProducts
 							+product(product)
 					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
-						each product in PRODUCTS
+						each product in restHealthProducts
 							+product(product)
 					p.catalog-main__count.js-catalog-count
 						span.js-product-show 0
 						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
 						span.js-product-all 0
-					button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
+					case restBeautyProducts.length
+						when 0
+						default
+							button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
+					//button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
 
 
 				.catalog-main__list.js-list-prod(data-target="beauty")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-						each product in PRODUCTS
+						each product in preloadedBeautyProducts
 							+product(product)
 					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
-						each product in PRODUCTS
+						each product in restBeautyProducts
 							+product(product)
 					p.catalog-main__count.js-catalog-count
 						span.js-product-show 0
 						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
 						span.js-product-all 0
-					button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
+					case restBeautyProducts.length
+						when 0
+						default
+							button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
