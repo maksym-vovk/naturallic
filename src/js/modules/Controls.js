@@ -140,7 +140,11 @@ const Controls = (function () {
       }
 
       langModal.addEventListener('click', (event) => {
-        event.target.classList.contains('language') ? langModal.classList.add('language--hidden') : false
+        if(savedLanguage) {
+          event.target.classList.contains('language')
+              ? langModal.classList.add('language--hidden')
+              : false
+        }
       })
 
       window.addEventListener('load', function () {
@@ -155,18 +159,25 @@ const Controls = (function () {
       const langSelect = document.querySelectorAll('.lang-select')
       const currentLangBlock = document.querySelectorAll('.lang-select__current')
       const langOptions = document.querySelectorAll('.lang-select__option')
+      const languageSelect = document.querySelector('.select')
       const currentLang = window.location.pathname.substring(1, 3)
-
-      // langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--hidden') : false)
+      const languagesArr = [...languageSelect.querySelectorAll('.select__option')].map(option => option.dataset.lang)
 
       langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--active') : false)
 
       const createCurrentFlagElement = (innerElement) => {
-        const flagImage = document.createElement('img')
-        flagImage.className = 'lang-select__flag lang-select__flag--current'
-        flagImage.setAttribute('src', `../img/language-${currentLang}.png`)
-        flagImage.setAttribute('alt', currentLang)
-        innerElement.append(flagImage)
+        if (languagesArr.includes(currentLang)) {
+          const flagImage = document.createElement('img')
+          flagImage.className = 'lang-select__flag lang-select__flag--current'
+          flagImage.setAttribute('src', `../img/language-${currentLang}.png`)
+          flagImage.setAttribute('alt', currentLang)
+          innerElement.append(flagImage)
+        } else {
+          const langText = document.createElement('span')
+          langText.className = 'lang-select__alt'
+          langText.textContent = 'Lang'
+          innerElement.append(langText)
+        }
       }
 
       currentLangBlock.forEach(block => createCurrentFlagElement(block))
@@ -191,7 +202,6 @@ const Controls = (function () {
         const cardsHeightArray = [...productCards].map(card => card.clientHeight)
         const maxCardHeight = Math.max(...cardsHeightArray)
 
-        console.log(productCards);
         productCards.forEach((card, index) => {
           const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`
           card.style.height = newCardHeight
@@ -255,6 +265,12 @@ const Controls = (function () {
         })
       })
     },
+    setLoader: function () {
+      const hideLoader = () => document.querySelector('.loader').classList.add('loader--hidden')
+      window.addEventListener('load', () => {
+        setTimeout(() => hideLoader(), 1000)
+      })
+    },
     webpChecker: function () {
         const WebP = new Image();
         WebP.src = 'data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA';
@@ -276,9 +292,10 @@ const Controls = (function () {
       Controls.calculateReviews();
       Controls.showReviews();
       Controls.setLanguage();
-      Controls.showHeaderLang()
-      Controls.setProductCardHeight()
-      Controls.webpChecker()
+      Controls.showHeaderLang();
+      Controls.setProductCardHeight();
+      Controls.webpChecker();
+      Controls.setLoader()
     },
   };
 })();
