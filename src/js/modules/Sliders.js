@@ -92,61 +92,6 @@ const Sliders = (function () {
           },
         });
       });
-      // reviewsSlider.on("init", function (event, slick) {
-      //   if (slick.slideCount < 7) {
-      //     return;
-      //   }
-      //   const paginationArray = Sliders.updatePagination(0, slick.slideCount);
-      //
-      //   Sliders.changeSliderDots(paginationArray);
-      // });
-      //
-      // reviewsSlider.slick({
-      //   arrows: false,
-      //   slidesToShow: 3,
-      //   slidesToScroll: 1,
-      //   dots: true,
-      //   infinite: false,
-      //   customPaging: function (slick, index) {
-      //     return `<a data-slide-index=${index + 1}>${index + 1}</a>`;
-      //   },
-      //   responsive: [
-      //     {
-      //       breakpoint: 1024,
-      //       settings: {
-      //         slidesToShow: 2
-      //       },
-      //     },
-      //     {
-      //       breakpoint: 640,
-      //       settings: {
-      //         slidesToShow: 1,
-      //         adaptiveHeight: true
-      //       },
-      //     }]
-      // });
-      //
-      // reviewsSlider.on(
-      //   "beforeChange",
-      //   function (event, slick, currentSlide, nextSlide) {
-      //     const paginationArray = Sliders.updatePagination(
-      //       nextSlide,
-      //       slick.slideCount
-      //     );
-      //     Sliders.changeSliderDots(paginationArray);
-      //   }
-      // );
-      //
-      // new Swiper('.js-swiper-reviews', {
-      //   direction: "horizontal",
-      //   slidesPerView: 3,
-      //
-      //   scrollbar: {
-      //     el: '.js-slider-reviews-scrollbar',
-      //     draggable: true,
-      //     dragSize: 'auto'
-      //   },
-      // })
     },
 
     initHeaderSlider: function () {
@@ -165,25 +110,6 @@ const Sliders = (function () {
           dragSize: 22
         },
       });
-      // headerSlider.slick({
-      //   dots: true,
-      //   infinite: true,
-      //   speed: 500,
-      //   fade: true,
-      //   cssEase: "linear",
-      //   arrows: false,
-      //   autoplay: true,
-      //   autoplaySpeed: 5000,
-      //   initialSlide: 0,
-      //   responsive: [
-      //     {
-      //       breakpoint: 480,
-      //       settings: {
-      //         adaptiveHeight: true,
-      //       },
-      //     },
-      //   ],
-      // });
     },
     initProductSlider: function () {
       $(".js-slider-product-for").not(".slick-initialized").slick({
@@ -198,7 +124,6 @@ const Sliders = (function () {
         slidesToScroll: 1,
         asNavFor: ".js-slider-product-for",
         dots: false,
-        // centerMode: true,
         focusOnSelect: true,
       });
     },
@@ -233,40 +158,12 @@ const Sliders = (function () {
         const winWidth = window.innerWidth
         winWidth <= 479 ? prodSlider.destroy() : false
       })
-
-      // productsSlider.not(".slick-initialized").slick({
-      //   slidesToShow: 4,
-      //   slidesToScroll: 4,
-      //   variableWidth: true,
-      //   dots: false,
-      //   prevArrow:
-      //     '<button class="prev"><i class="fico fico-arrowSlider"></i></button>',
-      //   nextArrow:
-      //     '<button class="next"><i class="fico fico-arrowSlider"></i></button>',
-      //   responsive: [
-      //     {
-      //       breakpoint: 1441,
-      //       settings: {
-      //         slidesToShow: 3,
-      //         slidesToScroll: 3,
-      //       },
-      //     },
-      //     {
-      //       breakpoint: 1250,
-      //       settings: {
-      //         slidesToShow: 3,
-      //         slidesToScroll: 1,
-      //       },
-      //     },
-      //   ],
-      // });
     },
     destroyProductsSlider: function () {
       productsSlider.filter(".slick-initialized").slick("unslick");
     },
     init: function () {
       Sliders.initHeaderSlider();
-      // Sliders.initProductSlider();
       Sliders.initReviewsSlider();
     },
   };
