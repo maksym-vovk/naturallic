@@ -268,7 +268,7 @@ const Controls = (function () {
     setLoader: function () {
       const hideLoader = () => document.querySelector('.loader').classList.add('loader--hidden')
       window.addEventListener('load', () => {
-        setTimeout(() => hideLoader(), 1000)
+        setTimeout(() => hideLoader(), 500)
       })
     },
     webpChecker: function () {
