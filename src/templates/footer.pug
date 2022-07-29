@@ -11,7 +11,7 @@ footer.footer
 						p.footer__contact-text!=FOOTER.footer_tel_country
 						a.footer__contact-link(href=`tel:${FOOTER.footer_tel_number}`)!=FOOTER.footer_tel_number
 					.footer__contact
-						a.footer__contact-link(href=`mailto:support@naturallic.com`) support@naturallic.com
+						a.footer__contact-link(href=`tel:${FOOTER.footer_email}`)!=FOOTER.footer_email
 					.footer__contact
 						p.footer__copy
 							span.year
@@ -28,26 +28,10 @@ footer.footer
 						a.menu-f__link(href=url(LANG, "contacts.html"))!=FOOTER.footer_menu_item4
 				.footer__contacts
 					.footer__contact
-						a.footer__link(href="terms.html") Terms and conditions
+						a.footer__link(href="terms.html")!=FOOTER.footer_terms
 					.footer__contact
-						a.footer__link(href="privacy.html") Privacy policy
+						a.footer__link(href="privacy.html")!=FOOTER.footer_privacy
 					.footer__contact
-						a.footer__link(href="cookie.html") Cookie policy
-
-
-
-					//.footer__social.social
-					//	a.social__item(href="https://www.facebook.com/realvitaliss/?ref=pages_you_manage" target="_blank")
-					//		img(src="img/svg/type_1_3.svg", alt="")
-					//	a.social__item(href="https://vk.com/vitaliss_official" target="_blank")
-					//		img(src="img/svg/type_1_1.svg", alt="")
-					//	a.social__item(href="https://ok.ru/group/58603068063992" target="_blank")
-					//		img(src="img/svg/type_1_4.svg", alt="")
-					//	a.social__item(href="https://www.instagram.com/real_vitaliss/" target="_blank")
-					//		img(src="img/svg/type_1_2.svg", alt="")
-					//.footer__bottom
-						//img.footer__logo-mob(src="img/svg/logo-w-small.svg", alt="")
-						//a.footer__link(href="terms.html")!=FOOTER.footer_terms
-						//a.footer__link(href="cookie.html")!=FOOTER.footer_cookies
+						a.footer__link(href="cookie.html")!=FOOTER.footer_cookies
 
 
