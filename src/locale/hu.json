@@ -330,7 +330,7 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic-day-night.png",
+      "srcPhoto": "img/visoptic-night.png",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -362,7 +362,7 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic.png",
+      "srcPhoto": "img/visoptic-day.png",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -1038,7 +1038,7 @@
       },
       {
         "link": "visoptic_night.html",
-        "srcPhoto": "img/visoptic-day-night.png",
+        "srcPhoto": "img/visoptic-night.png",
         "name": "VISOPTIC DUO night",
         "stars": [
           {
@@ -1067,7 +1067,7 @@
       },
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic.png",
+        "srcPhoto": "img/visoptic-day.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -1750,7 +1750,7 @@
     "visoptic_night_product_recommendation": [
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic.png",
+        "srcPhoto": "img/visoptic-day.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -1854,7 +1854,7 @@
     "visoptic_day_product_recommendation": [
       {
         "link": "visoptic_night.html",
-        "srcPhoto": "img/visoptic-day-night.png",
+        "srcPhoto": "img/visoptic-night.png",
         "name": "VISOPTIC DUO NIGHT",
         "stars": [
           {
@@ -2170,7 +2170,7 @@
     "ottomax_product_recommendation": [
       {
         "link": "visoptic_night.html",
-        "srcPhoto": "img/visoptic-day-night.png",
+        "srcPhoto": "img/visoptic-night.png",
         "name": "VISOPTIC DUO night",
         "stars": [
           {
@@ -2199,7 +2199,7 @@
       },
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic.png",
+        "srcPhoto": "img/visoptic-day.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -2411,7 +2411,7 @@
       },
       {
         "link": "visoptic_night.html",
-        "srcPhoto": "img/visoptic-day-night.png",
+        "srcPhoto": "img/visoptic-night.png",
         "name": "VISOPTIC DUO night",
         "stars": [
           {
@@ -2440,7 +2440,7 @@
       },
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic.png",
+        "srcPhoto": "img/visoptic-day.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
