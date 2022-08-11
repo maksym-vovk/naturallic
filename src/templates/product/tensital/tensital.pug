@@ -1,14 +1,15 @@
 include ../../mixins/frame-popup
 include ../../mixins/product
 include ../../mixins/product-review
+include ../../mixins/product-short
 
-- var PRODUCT_CARD = LANG.product_card;
-- var TENSITAL = LANG.tensital;
-- var HITS = LANG.hits;
-- HITS.length = 3
+-
+	var PRODUCT_CARD = LANG.product_card;
+	var TENSITAL = LANG.tensital;
+	var TENSITAL_RECOMMENDATION = LANG.tensital.tensital_product_recommendation;
+	var REVIEWS = LANG.reviews.reviews_tensital;
+	REVIEWS.length = 3;
 
-- var REVIEWS = LANG.reviews.reviews_tensital
-- REVIEWS.length = 3
 
 //+frame_popup(framepopup)
 section.product-item
@@ -101,10 +102,8 @@ section.product-item
 						.specification__text.js-info-accordeon
 							each review in REVIEWS
 								+product-review(review)
-					.specification.specification--recom
-						.specification__top
-							h3.specification__ttl!=PRODUCT_CARD.product_recommendations
-						.specification__text
-							.specification__products
-								each hit in HITS
-									+product(hit)
+		.product-item__recomm
+			h2.product-item__recomm-ttl.title!= PRODUCT_CARD.product_recommendations
+			.product-item__recomm-list
+				each product in TENSITAL_RECOMMENDATION
+					+productShort(product)

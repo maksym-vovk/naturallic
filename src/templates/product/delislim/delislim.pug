@@ -1,14 +1,14 @@
 include ../../mixins/frame-popup
 include ../../mixins/product
 include ../../mixins/product-review
+include ../../mixins/product-short
 
-- var PRODUCT_CARD = LANG.product_card;
-- var DELISLIM = LANG.delislim;
-- var HITS = LANG.hits;
-- HITS.length = 3
-
-- var REVIEWS = LANG.reviews.reviews_delislim
-- REVIEWS.length = 3
+-
+	var PRODUCT_CARD = LANG.product_card;
+	var DELISLIM = LANG.delislim;
+	var DELISLIM_RECOMMENDATION = LANG.delislim.delislim_product_recommendation;
+	var REVIEWS = LANG.reviews.reviews_delislim;
+	REVIEWS.length = 3;
 
 
 section.product-item
@@ -46,7 +46,7 @@ section.product-item
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
-						img.product-item__rating-star(src="img/svg/star-empty-3.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star-empty-1.svg", alt="")
 					p.product-item__rating-text!=DELISLIM.delislim_review_count
 				ul.product-item__list.product-list
 					li.product-list__item
@@ -101,10 +101,8 @@ section.product-item
 						.specification__text.js-info-accordeon
 							each review in REVIEWS
 								+product-review(review)
-					.specification.specification--recom
-						.specification__top
-							h3.specification__ttl!=PRODUCT_CARD.product_recommendations
-						.specification__text
-							.specification__products
-								each hit in HITS
-									+product(hit)
+		.product-item__recomm
+			h2.product-item__recomm-ttl.title!= PRODUCT_CARD.product_recommendations
+			.product-item__recomm-list
+				each product in DELISLIM_RECOMMENDATION
+					+productShort(product)

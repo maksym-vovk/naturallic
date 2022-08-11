@@ -127,161 +127,190 @@ const Controls = (function () {
       });
     },
     setLanguage: function () {
-      const langModal = document.querySelector('.language')
-      const languageSelect = document.querySelector('.select')
-      const languagesArr = [...languageSelect.querySelectorAll('.select__option')].map(option => option.dataset.lang)
+      const langModal = document.querySelector(".language");
+      const languageSelect = document.querySelector(".select");
+      const languagesArr = [
+        ...languageSelect.querySelectorAll(".select__option"),
+      ].map((option) => option.dataset.lang);
 
-      const currentLang = window.location.pathname.substring(1, 3)
-      const isLangInURL = languagesArr.includes(currentLang)
-      const savedLanguage = localStorage.getItem('localization')
+      const currentLang = window.location.pathname.substring(1, 3);
+      const isLangInURL = languagesArr.includes(currentLang);
+      const savedLanguage = localStorage.getItem("localization");
 
       if (savedLanguage && !isLangInURL) {
-        location.href = `${window.location.origin}/${savedLanguage}${window.location.pathname}${window.location.search}`
+        location.href = `${window.location.origin}/${savedLanguage}${window.location.pathname}${window.location.search}`;
       }
 
-      langModal.addEventListener('click', (event) => {
-        if(savedLanguage) {
-          event.target.classList.contains('language')
-              ? langModal.classList.add('language--hidden')
-              : false
+      langModal.addEventListener("click", (event) => {
+        if (savedLanguage) {
+          event.target.classList.contains("language")
+            ? langModal.classList.add("language--hidden")
+            : false;
         }
-      })
+      });
 
-      window.addEventListener('load', function () {
+      window.addEventListener("load", function () {
         if (!isLangInURL) {
-          langModal.classList.remove('language--hidden')
+          langModal.classList.remove("language--hidden");
         } else {
-          localStorage.setItem('localization', currentLang)
+          localStorage.setItem("localization", currentLang);
         }
-      })
+      });
     },
     showHeaderLang: function () {
-      const langSelect = document.querySelectorAll('.lang-select')
-      const currentLangBlock = document.querySelectorAll('.lang-select__current')
-      const langOptions = document.querySelectorAll('.lang-select__option')
-      const languageSelect = document.querySelector('.select')
-      const currentLang = window.location.pathname.substring(1, 3)
-      const languagesArr = [...languageSelect.querySelectorAll('.select__option')].map(option => option.dataset.lang)
+      const langSelect = document.querySelectorAll(".lang-select");
+      const currentLangBlock = document.querySelectorAll(
+        ".lang-select__current"
+      );
+      const langOptions = document.querySelectorAll(".lang-select__option");
+      const languageSelect = document.querySelector(".select");
+      const currentLang = window.location.pathname.substring(1, 3);
+      const languagesArr = [
+        ...languageSelect.querySelectorAll(".select__option"),
+      ].map((option) => option.dataset.lang);
 
-      langOptions.forEach(option => option.dataset.lang === currentLang ? option.classList.add('lang-select__option--active') : false)
+      langOptions.forEach((option) =>
+        option.dataset.lang === currentLang
+          ? option.classList.add("lang-select__option--active")
+          : false
+      );
 
       const createCurrentFlagElement = (innerElement) => {
         if (languagesArr.includes(currentLang)) {
-          const flagImage = document.createElement('img')
-          flagImage.className = 'lang-select__flag lang-select__flag--current'
-          flagImage.setAttribute('src', `../img/language-${currentLang}.png`)
-          flagImage.setAttribute('alt', currentLang)
-          innerElement.append(flagImage)
+          const flagImage = document.createElement("img");
+          flagImage.className = "lang-select__flag lang-select__flag--current";
+          flagImage.setAttribute("src", `../img/language-${currentLang}.png`);
+          flagImage.setAttribute("alt", currentLang);
+          innerElement.append(flagImage);
         } else {
-          const langText = document.createElement('span')
-          langText.className = 'lang-select__alt'
-          langText.textContent = 'Lang'
-          innerElement.append(langText)
+          const langText = document.createElement("span");
+          langText.className = "lang-select__alt";
+          langText.textContent = "Lang";
+          innerElement.append(langText);
         }
-      }
+      };
 
-      currentLangBlock.forEach(block => createCurrentFlagElement(block))
+      currentLangBlock.forEach((block) => createCurrentFlagElement(block));
 
-      document.addEventListener('click', (event) => {
-        const {target} = event
-        if (target.closest('.lang-select')) {
-          langSelect.forEach(select => select.classList.toggle('lang-select--active'))
+      document.addEventListener("click", (event) => {
+        const { target } = event;
+        if (target.closest(".lang-select")) {
+          langSelect.forEach((select) =>
+            select.classList.toggle("lang-select--active")
+          );
         } else {
-          langSelect.forEach(select => select.classList.remove('lang-select--active'))
+          langSelect.forEach((select) =>
+            select.classList.remove("lang-select--active")
+          );
         }
-      })
+      });
     },
     setProductCardHeight: function () {
-      const categoryTabs = document.querySelectorAll('.js-tab')
-      const catalogMoreBtn = document.querySelectorAll('.js-btn-catalog')
+      const categoryTabs = document.querySelectorAll(".js-tab");
+      const catalogMoreBtn = document.querySelectorAll(".js-btn-catalog");
 
-      let productCards = document.querySelectorAll('.product')
+      let productCards = document.querySelectorAll(".product");
 
       const setProductHeight = () => {
-        const productDetailsBtnHeight = document.querySelector('.product__btn').clientHeight + 15
-        const cardsHeightArray = [...productCards].map(card => card.clientHeight)
-        const maxCardHeight = Math.max(...cardsHeightArray)
+        const productDetailsBtnHeight =
+          document.querySelector(".product__btn").clientHeight + 15;
+        const cardsHeightArray = [...productCards].map(
+          (card) => card.clientHeight
+        );
+        const maxCardHeight = Math.max(...cardsHeightArray);
 
         productCards.forEach((card, index) => {
-          const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`
-          card.style.height = newCardHeight
+          const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`;
+          card.style.height = newCardHeight;
 
-          card.addEventListener('mouseover', ({target}) => {
-            handleCardMouseOver(target, cardsHeightArray, index)
-          }, false)
+          card.addEventListener(
+            "mouseover",
+            ({ target }) => {
+              handleCardMouseOver(target, cardsHeightArray, index);
+            },
+            false
+          );
 
-          card.addEventListener('mouseout', ({target}) => {
-            handleCardMouseOut(target, newCardHeight)
-          }, false)
-        })
-      }
+          card.addEventListener(
+            "mouseout",
+            ({ target }) => {
+              handleCardMouseOut(target, newCardHeight);
+            },
+            false
+          );
+        });
+      };
 
-      const updateProductCards = () => productCards = document.querySelectorAll('.product')
+      const updateProductCards = () =>
+        (productCards = document.querySelectorAll(".product"));
 
       const handleCardMouseOver = (target, cardsHeightArray, index) => {
-        const initialCardHeight = cardsHeightArray[index]
-        const card = target.closest(".product")
-        card.style.height = `${initialCardHeight}px`
-        card.classList.add('product--hovered')
-      }
+        const initialCardHeight = cardsHeightArray[index];
+        const card = target.closest(".product");
+        card.style.height = `${initialCardHeight}px`;
+        card.classList.add("product--hovered");
+      };
 
       const handleCardMouseOut = (target, newCardHeight) => {
-        const card = target.closest(".product")
-        card.style.height = newCardHeight
-        card.classList.remove('product--hovered')
-      }
+        const card = target.closest(".product");
+        card.style.height = newCardHeight;
+        card.classList.remove("product--hovered");
+      };
 
-      const resetCardsHeight = () => productCards.forEach(card => card.style.height = "auto")
+      const resetCardsHeight = () =>
+        productCards.forEach((card) => (card.style.height = "auto"));
 
-      window.addEventListener('load', () => {
-        resetCardsHeight()
-        const winWidth = window.innerWidth
+      window.addEventListener("load", () => {
+        resetCardsHeight();
+        const winWidth = window.innerWidth;
         if (winWidth > 479) {
-          setProductHeight()
+          setProductHeight();
         }
-      })
+      });
 
-      window.addEventListener('resize', () => {
-        resetCardsHeight()
-        const winWidth = window.innerWidth
+      window.addEventListener("resize", () => {
+        resetCardsHeight();
+        const winWidth = window.innerWidth;
         if (winWidth > 479) {
-          setProductHeight()
+          setProductHeight();
         }
-      })
+      });
 
-      catalogMoreBtn.forEach(btn => {
-        btn.addEventListener('click', () => {
-          resetCardsHeight()
-          updateProductCards()
-          setProductHeight()
-        })
-      })
+      catalogMoreBtn.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          resetCardsHeight();
+          updateProductCards();
+          setProductHeight();
+        });
+      });
 
-      categoryTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-          resetCardsHeight()
-          updateProductCards()
-          setProductHeight()
-        })
-      })
+      categoryTabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          resetCardsHeight();
+          updateProductCards();
+          setProductHeight();
+        });
+      });
     },
     setLoader: function () {
-      const hideLoader = () => document.querySelector('.loader').classList.add('loader--hidden')
-      window.addEventListener('load', () => {
-        setTimeout(() => hideLoader(), 500)
-      })
+      const hideLoader = () =>
+        document.querySelector(".loader").classList.add("loader--hidden");
+      window.addEventListener("load", () => {
+        setTimeout(() => hideLoader(), 500);
+      });
     },
     webpChecker: function () {
-        const WebP = new Image();
-        WebP.src = 'data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA';
-        WebP.onload = WebP.onerror = function() {
-          const isWebp = (WebP.height === 2);
-          if (!isWebp) {
-            document.querySelector('body').classList.remove('webp');
-          } else {
-            document.querySelector('body').classList.add('webp');
-          }
-        };
+      const WebP = new Image();
+      WebP.src =
+        "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA";
+      WebP.onload = WebP.onerror = function () {
+        const isWebp = WebP.height === 2;
+        if (!isWebp) {
+          document.querySelector("body").classList.remove("webp");
+        } else {
+          document.querySelector("body").classList.add("webp");
+        }
+      };
     },
     init: function () {
       Controls.openFaqContent();
@@ -295,7 +324,7 @@ const Controls = (function () {
       Controls.showHeaderLang();
       Controls.setProductCardHeight();
       Controls.webpChecker();
-      Controls.setLoader()
+      Controls.setLoader();
     },
   };
 })();

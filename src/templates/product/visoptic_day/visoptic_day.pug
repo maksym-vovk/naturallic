@@ -1,14 +1,11 @@
-include ../../mixins/frame-popup
-include ../../mixins/product
 include ../../mixins/product-review
-
-- var PRODUCT_CARD = LANG.product_card;
-- var VISOPTIC_DAY = LANG.visoptic_day;
-- var HITS = LANG.hits;
-- HITS.length = 3
-
-- var REVIEWS = LANG.reviews.reviews_visoptic_duo_day
-- REVIEWS.length = 3
+include ../../mixins/product-short
+-
+	var PRODUCT_CARD = LANG.product_card;
+	var VISOPTIC_DAY = LANG.visoptic_day;
+	var VISOPTIC_DAY_RECOMMENDATION = LANG.visoptic_day.visoptic_day_product_recommendation;
+	var REVIEWS = LANG.reviews.reviews_visoptic_duo_day;
+	REVIEWS.length = 3;
 
 section.product-item
 	.container
@@ -45,7 +42,7 @@ section.product-item
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
-						img.product-item__rating-star(src="img/svg/star-empty.svg", alt="")
+						img.product-item__rating-star(src="img/svg/star-empty-1.svg", alt="")
 					p.product-item__rating-text!=VISOPTIC_DAY.visoptic_day_review_count
 				ul.product-item__list.product-list
 					li.product-list__item
@@ -100,10 +97,8 @@ section.product-item
 						.specification__text.js-info-accordeon
 							each review in REVIEWS
 								+product-review(review)
-					.specification.specification--recom
-						.specification__top
-							h3.specification__ttl!=PRODUCT_CARD.product_recommendations
-						.specification__text
-							.specification__products
-								each hit in HITS
-									+product(hit)
+		.product-item__recomm
+			h2.product-item__recomm-ttl.title!= PRODUCT_CARD.product_recommendations
+			.product-item__recomm-list
+				each product in VISOPTIC_DAY_RECOMMENDATION
+					+productShort(product)

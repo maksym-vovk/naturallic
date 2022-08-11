@@ -42,6 +42,7 @@
 		max-width: 388px
 		width: 100%
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
+		margin-bottom: 50px
 		+r(1023)
 			max-width: 100%
 	&__name
@@ -103,57 +104,27 @@
 	&__review
 		&:not(:last-of-type)
 			margin-bottom: 30px
-	& .product
-		max-width: calc(100%/3 - 5px)
-		background: $light-blue
-		border-radius: 20px
-		padding: 10px
-		&--hovered
-			background: $main-green
-		+r(479)
-			max-width: 100%
-			color: $main-green
-			height: auto
-			&:hover
-				height: auto
-			&:not(:last-of-type)
-				margin-bottom: 10px
-		&:hover
-			height: 270px
-		&__label
-			display: none
-			//top: 10px
-			//font-size: 10px
-			//line-height: 1
-		&__wrap-photo
-			height: auto
-			margin-bottom: 10px
-		&__name
-			font-size: 14px
-			margin-bottom: 3px
-		&__rating
-			margin-bottom: 7px
-			&-starts
-				margin-right: 3px
-			&-star
-				width: 7px
-				height: 7px
-				display: flex
-				&::after
-					width: 7px
-					height: 7px
-			&-text
-				font-size: 8px
-				line-height: 1
-		&__desc
-			font-size: 8px
-			line-height: 11px
-			//height: 50px
-			//+r(479)
-			//	height: auto
-		&__btn
-			font-size: 12px
-			line-height: 30px
+	&__recomm-ttl
+		margin-bottom: 30px
+		+r(1023)
+			margin-bottom: 20px
+	&__recomm-list
+		display: flex
+		justify-content: space-between
+		.product-short
+			max-width: calc(100%/3 - 10px)
+			width: 100%
+		+r(1023)
+			.product-short
+				+nlt
+					margin-right: 10px
+		+r(639)
+			display: block
+			.product-short
+				max-width: 100%
+				+nlt
+					margin-right: 0px
+					margin-bottom: 10px
 
 .review-small
 	&__top
@@ -354,3 +325,135 @@
 		+r(374)
 			width: 96px !important
 			height: 96px
+
+
+.product-short
+	text-decoration: none
+	color: $main-green
+	position: relative
+	background: $light-blue
+	display: flex
+	align-items: center
+	padding: 15px
+	border-radius: 15px
+	&--narrow
+		.product-short
+			&__wrap-photo
+				margin-left: -20px
+				margin-right: 0
+	+r(1219)
+		padding: 10px
+		&--narrow
+			.product-short
+				&__wrap-photo
+					margin-left: -15px
+	+r(1023)
+		display: block
+	+r(639)
+		display: flex
+		&--narrow
+			.product-short
+				&__wrap-photo
+					margin-left: 0
+	+r(374)
+		display: block
+		padding: 15px
+	&__wrap-photo
+		text-align: center
+		height: 150px
+		display: flex
+		align-items: center
+		justify-content: center
+		margin-right: 10px
+		img
+			width: 105px
+			height: 80%
+			+object-fit(contain)
+		+r(1249)
+			img
+				width: 105px
+		+r(1023)
+			height: 190px
+			margin-right: 0
+			img
+				width: 185px
+		+r(767)
+			height: 190px
+			img
+				width: 155px
+		+r(639)
+			margin-right: 10px
+	&__info
+		// margin-left: -20px
+		// +r(1023)
+		// 	margin-left: 0
+		// +r(479)
+		// 	margin-left: -20px
+		// +r(374)
+		// 	margin-left: 0
+	&__name
+		font-weight: 400
+		text-transform: uppercase
+		font-size: 22px
+		line-height: 18px
+		margin-bottom: 13px
+		+r(767)
+			font-size: 20px
+			margin-bottom: 5px
+		+r(479)
+			font-size: 18px
+	&__rating
+		margin-bottom: 13px
+		display: flex
+		align-items: center
+		+r(767)
+			margin-bottom: 8px
+	&__rating-stars
+		display: flex
+		align-items: center
+		margin-right: 10px
+	&__rating-star
+		font-size: 0
+		position: relative
+		&::after
+			content: ''
+			display: block
+			position: absolute
+			width: 16px
+			height: 16px
+			top: 50%
+			left: 50%
+			transform: translate(-50%, -50%)
+			opacity: 0
+		&.full
+			&::after
+				background: url('../img/svg/star.svg') no-repeat center
+				background-size: 100%
+		&.empty
+			&::after
+				background: url('../img/svg/star_empty_after.svg') no-repeat center
+				background-size: 100%
+		&.empty-1
+			&::after
+				background: url('../img/svg/star_empty_after_1.svg') no-repeat center
+				background-size: 100%
+		+r(1249)
+			width: 13px
+			&::after
+				width: 13px
+				height: 13px
+		+r(479)
+			width: 10px
+			&::after
+				width: 10px
+				height: 10px
+	&__rating-text
+		font-size: 16px
+		line-height: 18px
+		+r(767)
+			font-size: 14px
+		+r(479)
+			font-size: 12px
+	&__niche
+		+r(767)
+			font-size: 16px
