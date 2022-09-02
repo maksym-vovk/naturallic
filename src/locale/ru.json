@@ -362,7 +362,7 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/visoptic-day.png",
+      "srcPhoto": "img/visoptic.png",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -426,7 +426,7 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/beauty-age-peeling.png",
+      "srcPhoto": "img/beauty-peeling.png",
       "name": "Beauty Age Skin Peeling",
       "stars": [
         {
@@ -1047,7 +1047,7 @@
       },
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic-day.png",
+        "srcPhoto": "img/visoptic.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -1730,7 +1730,7 @@
     "visoptic_night_product_recommendation": [
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic-day.png",
+        "srcPhoto": "img/visoptic.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -1938,7 +1938,7 @@
     "beauty_skin_product_recommendation": [
       {
         "link": "beauty_peeling.html",
-        "srcPhoto": "img/beauty-age-peeling.png",
+        "srcPhoto": "img/beauty-peeling.png",
         "name": "BEAUTY AGE SKIN PEELING",
         "narrow": true,
         "stars": [
@@ -2179,7 +2179,7 @@
       },
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic-day.png",
+        "srcPhoto": "img/visoptic.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -2420,7 +2420,7 @@
       },
       {
         "link": "visoptic_day.html",
-        "srcPhoto": "img/visoptic-day.png",
+        "srcPhoto": "img/visoptic.png",
         "name": "VISOPTIC DUO DAY",
         "stars": [
           {
@@ -2782,7 +2782,7 @@
     "miaflow_product_recommendation": [
       {
         "link": "beauty_peeling.html",
-        "srcPhoto": "img/beauty-age-peeling.png",
+        "srcPhoto": "img/beauty-peeling.png",
         "name": "BEAUTY AGE SKIN PEELING",
         "narrow": true,
         "stars": [
@@ -3419,7 +3419,7 @@
     "delislim_product_recommendation": [
       {
         "link": "beauty_peeling.html",
-        "srcPhoto": "img/beauty-age-peeling.png",
+        "srcPhoto": "img/beauty-peeling.png",
         "name": "BEAUTY AGE SKIN PEELING",
         "narrow": true,
         "stars": [

@@ -30,7 +30,7 @@ const Order = (function () {
     return {
         submitForm: function () {
             $("#order-form").submit(function (e) {
-                e.preventDefault();
+                // e.preventDefault();
 
                 $(`input[name='count']`).val(count);
 
@@ -42,7 +42,6 @@ const Order = (function () {
                     };
                 });
                 data.push(...object);
-                console.log(data);
 
                 updValueChatbotHistory();
             });
@@ -59,26 +58,24 @@ const Order = (function () {
                 const productData = productsInfo[currentLangLower][productNameUnderscore]
                 const formData = formSetting[productData.company]
 
-                const formSendScript = document.createElement('script')
-                formSendScript.textContent = formData.formSendScript
-
                 if (orderForm) {
+                    const body = document.querySelector('body')
+                    const script = document.createElement('script')
+
                     orderForm.setAttribute('action', String(formData.formAction))
-                    const orderBody = orderForm ? document.querySelector('body') : false
-                    orderBody.appendChild(formSendScript)
+                    script.textContent = formData.formSendScript
+                    body.appendChild(script)
                 }
-
-                // $('#order-form').attr('action', formData.formAction)
-
 
                 $(".js-product-name").html(prodNameWithSpaces);
                 $(".js-product-photo").attr("src", `../img/${productName}.png`);
 
                 $(`input[name='campaign_id']`).val(productData.campaign_id);
-                $(`input[name='landing_id']`).val(productData.landing_id);
                 $(`input[name='redirect_url']`).val(`success.html?id=${productName}`);
+
                 $(`input[name='product']`).val(`${productData.productName}`);
                 $(`input[name='niche']`).val(productData.niche);
+                $(`input[name='country']`).val(productData.country);
                 $(`input[name='lang']`).val(currentLangLower);
             }
             $(`input[name='country_code']`).val(currentLangLower)

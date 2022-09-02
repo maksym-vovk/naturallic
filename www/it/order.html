@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.1/css/swiper.min.css"/>
     <link rel="stylesheet" href="/css/main.css" type="text/css"/>
-    <title>Vitaliss - Oculax</title>
+    <title>Naturallic - EFFETTUARE UN ORDINE!</title>
   </head>
   <body>
     <div class="nav">
@@ -76,13 +76,13 @@
             <p class="order-block__name js-product-name"></p>
           </div>
           <div class="order-block__form">
-            <form class="contacts-form x_order_form" id="order-form" action="success.html">
+            <form class="contacts-form x_order_form" id="order-form" action="" method="post">
               <p class="contacts-form__title">EFFETTUARE UN ORDINE!</p>
               <div class="contacts-form__wrapper">
                 <div class="contacts-form__inputs">
                   <input class="contacts-form__input" type="text" name="name" placeholder="Nome" required="required"/>
-                  <input class="contacts-form__input" type="phone" name="tel" placeholder="Telefono" required="required"/>
-                  <input class="contacts-form__input" type="email" name="email" placeholder="E-mail"/>
+                  <input class="contacts-form__input" type="text" name="phone" placeholder="Telefono" required="required"/>
+                  <input class="contacts-form__input" type="email" name="email" placeholder="E-mail" required="required"/>
                 </div>
                 <div class="contacts-form__counter counter"><img class="counter__photo js-product-photo" src="" alt=""/>
                   <p class="counter__text">quantità</p>
@@ -93,6 +93,18 @@
                   </div>
                 </div>
                 <button class="contacts-form__btn btn" type="submit">Ordinare</button>
+                <input class="js-data" type="hidden" name="niche" value=""/>
+                <input class="js-data" type="hidden" name="product" value=""/>
+                <input class="js-data" type="hidden" name="count" value=""/>
+                <input class="js-data" type="hidden" name="country" value=""/>
+                <input type="hidden" name="lang" value=""/>
+                <input type="hidden" name="campaign_id" value=""/>
+                <input type="hidden" name="es_list_id" value=""/>
+                <input type="hidden" name="chatbot_history" value="{}"/>
+                <input type="hidden" name="sid5" value="{subid}"/>
+                <input type="hidden" name="landing_id" value=""/>
+                <input type="hidden" name="country_code" value=""/>
+                <input type="hidden" name="redirect_url" value=""/>
               </div>
             </form>
           </div>
