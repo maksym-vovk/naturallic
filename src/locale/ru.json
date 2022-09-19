@@ -871,6 +871,38 @@
       "link": "delislim.html",
       "category": "health",
       "btn": "Подробнее"
+    },
+    {
+      "label": "Хит",
+      "srcPhoto": "img/oculax.png",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "333 отзыва",
+      "desc": "Сбалансированная формула для поддержки здоровья зрения и снижения утомляемости и усталости глаза. ",
+      "link": "oculax.html",
+      "category": "health",
+      "btn": "Подробнее"
     }
   ],
 
@@ -3417,6 +3449,113 @@
     "delislim_suitability": "2 года",
     "delislim_keep": "хранить в сухом, недоступном для детей месте, при температуре не выше +25°С",
     "delislim_product_recommendation": [
+      {
+        "link": "beauty_peeling.html",
+        "srcPhoto": "img/beauty-peeling.png",
+        "name": "BEAUTY AGE SKIN PEELING",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "288 отзыва",
+        "niche": "Направление: гипертония"
+      },
+      {
+        "link": "beauty_skin.html",
+        "srcPhoto": "img/beauty-age-skin.png",
+        "name": "BEAUTY AGE SKIN",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          }
+        ],
+        "text": "455 отзывов",
+        "niche": "Направление: омоложение"
+      },
+      {
+        "link": "steplex.html",
+        "srcPhoto": "img/steplex.png",
+        "name": "STEPLEX",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "287 отзыва",
+        "niche": "Направление: суставы"
+      }
+    ]
+  },
+  "oculax": {
+    "oculax_title": "Oculax",
+    "oculax_category": "Для здоровья",
+    "oculax_review_count": "333 отзыва",
+    "oculax_niche": "Зрение",
+    "oculax_form_factor": "капсулы в банке, 20 шт ",
+    "oculax_short_description": "Сбалансированная формула для поддержки здоровья зрения и снижения утомляемости и усталости глаза.",
+    "oculax_description": "Продукт содержит витамины и микроэлементы с антиоксидантными свойствами, основные питательные вещества для функционирования системы защиты глаз от окислительного повреждения, от вредных лучей синего спектра солнечного света.",
+    "oculax_compound": "Nettle root extract, gelatin (capsule shell), microcrystal cellulose (filler), Valeriana root extract, Zinc citrate trihydrate, magnesium stearate (filler), silicon dioxide (anti-caking agent), Vitamin В6, Vitamin В2, Vitamin В1, Vitamin В12.",
+    "oculax_usage": "взрослым по 2 капсулы в день перед едой. Продолжительность приема 2 месяца.",
+    "oculax_contraindications": "индивидуальная непереносимость любого из компонентов, только для взрослых. Не превышайте рекомендуемую суточную дозу. Держись подальше от детей. Пищевая добавка не должна использоваться в качестве замены разнообразного питания. Это не лекарство.",
+    "oculax_manufacturer": "SPB REALTY LTD.",
+    "oculax_suitability": "2 года",
+    "oculax_keep": "хранить в сухом, защищенном от солнечных лучей месте при температуре не выше 25℃.",
+    "oculax_product_recommendation": [
       {
         "link": "beauty_peeling.html",
         "srcPhoto": "img/beauty-peeling.png",

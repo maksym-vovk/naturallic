@@ -871,6 +871,38 @@
       "link": "delislim.html",
       "category": "health",
       "btn": "DETALNĚJI"
+    },
+    {
+      "label": "Hit",
+      "srcPhoto": "img/oculax.png",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "333 recenzí",
+      "desc": "Vyvážené složení pro podporu zdravého zraku a snížení únavy a únavy očí.",
+      "link": "oculax.html",
+      "category": "health",
+      "btn": "DETALNĚJI"
     }
   ],
 
@@ -3507,6 +3539,113 @@
         ],
         "text": "287 recenzí",
         "niche": "Směr: Klouby"
+      }
+    ]
+  },
+  "oculax": {
+    "oculax_title": "Oculax",
+    "oculax_category": "Pro zdraví",
+    "oculax_review_count": "333 recenzí",
+    "oculax_niche": "Vidění",
+    "oculax_form_factor": "kapsle, 20 ks",
+    "oculax_short_description": "Vyvážené složení pro podporu zdravého zraku a snížení únavy a únavy očí.",
+    "oculax_description": "Výrobek obsahuje vitamíny a stopové prvky s antioxidačními vlastnostmi, hlavní živiny pro fungování systému ochrany očí před oxidačním poškozením, před škodlivými paprsky modrého slunečního spektra.",
+    "oculax_compound": "Extrakt z kořene kopřivy, želatina (obal tobolky), mikrokrystalická celulóza (plnidlo), extrakt z kořene kozlíku lékařského, trihydrát citronanu zinečnatého, stearát hořečnatý (plnidlo), oxid křemičitý (protispékavá látka), vitamín B6, vitamín B2, vitamín B1, vitamín B12.",
+    "oculax_usage": "Dospělí: 2 kapsle denně před jídlem. Délka užívání je 2 měsíce.",
+    "oculax_contraindications": "Individuální nesnášenlivost na některou ze složek, pouze pro dospělé. Nepřekračujte doporučenou denní dávku. Uchovávejte kapsle mimo dosah dětí. Doplněk stravy by neměl být používán jako náhrada pestré stravy. To není lék.",
+    "oculax_manufacturer": "SPB REALTY LTD.",
+    "oculax_suitability": "2 roky",
+    "oculax_keep": "skladujte na suchém místě chráněném před slunečním zářením při teplotě do 25°С.",
+    "oculax_product_recommendation": [
+      {
+        "link": "beauty_peeling.html",
+        "srcPhoto": "img/beauty-peeling.png",
+        "name": "BEAUTY AGE SKIN PEELING",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "288 recenzí",
+        "niche": "Направление: гипертония"
+      },
+      {
+        "link": "beauty_skin.html",
+        "srcPhoto": "img/beauty-age-skin.png",
+        "name": "BEAUTY AGE SKIN",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          }
+        ],
+        "text": "455 отзывов",
+        "niche": "Направление: омоложение"
+      },
+      {
+        "link": "steplex.html",
+        "srcPhoto": "img/steplex.png",
+        "name": "STEPLEX",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "287 recenzí",
+        "niche": "Направление: суставы"
       }
     ]
   },

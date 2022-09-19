@@ -871,6 +871,38 @@
       "link": "delislim.html",
       "category": "health",
       "btn": "IN DETTAGLIO"
+    },
+    {
+      "label": "Hit",
+      "srcPhoto": "img/oculax.png",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "333 recensioni",
+      "desc": "Una formula equilibrata per mantenere vista sana e ridurre la stanchezza e l'affaticamento degli occhi.",
+      "link": "oculax.html",
+      "category": "health",
+      "btn": "IN DETTAGLIO"
     }
   ],
 
@@ -3507,6 +3539,113 @@
         ],
         "text": "287 recensioni",
         "niche": "Campo: Articolazioni"
+      }
+    ]
+  },
+  "oculax": {
+    "oculax_title": "Oculax",
+    "oculax_category": "Per la salute",
+    "oculax_review_count": "333 recensioni",
+    "oculax_niche": "Vista",
+    "oculax_form_factor": "capsule in un barattolo, 20 pz",
+    "oculax_short_description": "Una formula equilibrata per mantenere vista sana e ridurre la stanchezza e l'affaticamento degli occhi.",
+    "oculax_description": "Il prodotto contiene vitamine e oligoelementi con proprietà antiossidanti, i principali nutrienti per il funzionamento del sistema protettivo degli occhi dal danno ossidativo, dai dannosi raggi dello spettro blu della luce solare.",
+    "oculax_compound": "Estratto di radice di ortica, gelatina (involucro della capsula), cellulosa microcristallina (riempitivo), estratto di radice di valeriana, citrato di zinco triidrato, magnesio stearato (riempitivo), biossido di silicio (antiagglomerante), vitamina В6, vitamina В2, vitamina В1, vitamina В12.",
+    "oculax_usage": "Adulti 2 capsule al giorno prima dei pasti. La durata dell'ammissione è di 2 mesi.",
+    "oculax_contraindications": "Intolleranza individuale a uno qualsiasi dei componenti, solo per gli adulti. Non superare la dose giornaliera raccomandata. Tenere lontano dalla portata dei bambini. Un integratore alimentare non deve essere utilizzato come sostituto di una dieta variata. Non è un farmaco.",
+    "oculax_manufacturer": "SPB REALTY LTD.",
+    "oculax_suitability": "2 anni",
+    "oculax_keep": "Conservare in un luogo asciutto, protetto dalla luce solare, a una temperatura non superiore a 25°C.",
+    "oculax_product_recommendation": [
+      {
+        "link": "beauty_peeling.html",
+        "srcPhoto": "img/beauty-peeling.png",
+        "name": "BEAUTY AGE SKIN PEELING",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "288 recensioni",
+        "niche": "Направление: гипертония"
+      },
+      {
+        "link": "beauty_skin.html",
+        "srcPhoto": "img/beauty-age-skin.png",
+        "name": "BEAUTY AGE SKIN",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          }
+        ],
+        "text": "455 отзывов",
+        "niche": "Направление: омоложение"
+      },
+      {
+        "link": "steplex.html",
+        "srcPhoto": "img/steplex.png",
+        "name": "STEPLEX",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "287 recensioni",
+        "niche": "Направление: суставы"
       }
     ]
   },

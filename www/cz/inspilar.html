@@ -11,23 +11,19 @@
     <title>Naturallic - Inspilar</title>
   </head>
   <body>
+    <div class="loader">
+      <div class="container">
+        <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
+      </div>
+    </div>
     <div class="nav">
       <div class="container">
-        <div class="nav__wrap">
-          <!--a.nav__logo(href=url(LANG,'/'))--><a class="nav__logo" href="/cz/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+        <div class="nav__wrap"><a class="nav__logo" href="/cz/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
           <ul class="nav__menu menu">
-            <li class="menu__item">
-              <!--a.menu__link(href="catalog.html")!=MENU.menu_title_catalog--><a class="menu__link" href="/cz/catalog.html">Katalog</a>
-            </li>
-            <li class="menu__item">
-              <!--a.menu__link(href="about.html")!=MENU.menu_title_about_us--><a class="menu__link" href="/cz/about.html">O nás</a>
-            </li>
-            <li class="menu__item">
-              <!--a.menu__link(href="contacts.html")!=MENU.menu_title_contacts--><a class="menu__link" href="/cz/contacts.html">Kontakty</a>
-            </li>
-            <li class="menu__item">
-              <!--a.menu__link(href="reviews.html")!=MENU.menu_title_review--><a class="menu__link" href="/cz/reviews.html">Recenze</a>
-            </li>
+            <li class="menu__item"><a class="menu__link" href="/cz/catalog.html">Katalog</a></li>
+            <li class="menu__item"><a class="menu__link" href="/cz/about.html">O nás</a></li>
+            <li class="menu__item"><a class="menu__link" href="/cz/contacts.html">Kontakty</a></li>
+            <li class="menu__item"><a class="menu__link" href="/cz/reviews.html">Recenze</a></li>
           </ul>
           <div class="nav__controls">
             <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:420296399352">420296399352</a>
@@ -42,11 +38,9 @@
         </div>
       </div>
     </div>
-    <!--include mixins/langSelect-->
     <div class="menu-mobile" id="js-mobile-menu">
       <div class="menu-mobile__wrap">
         <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/cz/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <!--+langSelect('index')-->
           <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
         <ul class="menu-mobile__nav menu">
@@ -57,19 +51,9 @@
         </ul>
         <div class="menu-mobile__bottom">
           <button class="menu-mobile__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
-          <!--.menu-mobile__social.social-->
-          <!--	a.social__item(href="https://www.facebook.com/realvitaliss/?ref=pages_you_manage" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_3.svg", alt="")-->
-          <!--	a.social__item(href="https://vk.com/vitaliss_official" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_1.svg", alt="")-->
-          <!--	a.social__item(href="https://ok.ru/group/58603068063992" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_4.svg", alt="")-->
-          <!--	a.social__item(href="https://www.instagram.com/real_vitaliss/" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_2.svg", alt="")-->
         </div>
       </div>
     </div>
-    <!--+frame_popup(framepopup)-->
     <section class="product-item">
       <div class="container">
         <div class="product-item__breadcrumbs breadcrumbs"><a class="breadcrumbs__link" href="/">Hlavní</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html">Katalog</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html?id=health">Pro zdraví</a><span class="breadcrumbs__line">/</span><span class="breadcrumbs__main">inspilar</span></div>
@@ -112,7 +96,6 @@
           </div>
           <div class="product-item__info">
             <h2 class="product-item__name">inspilar</h2>
-            <!--p.product-item__desc-->
             <div class="product-item__rating">
               <div class="product-item__rating-stars"><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/></div>
               <p class="product-item__rating-text">367 recenzí</p>
@@ -122,8 +105,7 @@
               </li>
               <li class="product-list__item"><span>Forma vydání:&nbsp;</span>Dóza, 20 kapslí
               </li>
-            </ul>
-            <!--button.product-item__btn.button.button--green.js-show-frame-popup(data-src=INSPILAR.inspilar_frame_link)!=PRODUCT_CARD.product_btn--><a class="product-item__btn button button--gold" href="order.html?id=inspilar">Objednat</a>
+            </ul><a class="product-item__btn button button--gold" href="order.html?id=inspilar">Objednat</a>
             <p class="product-item__text">Bylinné extrakty pro normalizaci hladiny glukózy v krvi</p>
             <div class="product-item__description js-accordeon">
               <div class="specification">
@@ -267,8 +249,6 @@
         </div>
       </div>
     </section>
-    <!--include templates/product/inspilar/product-reviews-->
-    <!--include templates/product/recommendations-->
     <footer class="footer">
       <div class="footer__wrapper">
         <div class="container">
@@ -328,11 +308,6 @@
             </div>
           </div>
         </div>
-    <div class="loader">
-      <div class="container">
-        <div class="loader__text">Loading...</div>
-      </div>
-    </div>
     <div class="overlay js-overlay"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
