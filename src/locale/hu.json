@@ -871,6 +871,38 @@
       "link": "delislim.html",
       "category": "health",
       "btn": "RÉSZLETEK"
+    },
+    {
+      "label": "Hit",
+      "srcPhoto": "img/oculax.png",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "333 hozzászólás",
+      "desc": "Kiegyensúlyozott formula a szem egészségének támogatására és a szem fáradtságának és kimerültségének csökkentésére.",
+      "link": "oculax.html",
+      "category": "health",
+      "btn": "RÉSZLETEK"
     }
   ],
 
@@ -3526,6 +3558,113 @@
         ],
         "text": "287 hozzászólás",
         "niche": "Irányzat: Ízületek"
+      }
+    ]
+  },
+  "oculax": {
+    "oculax_title": "Oculax",
+    "oculax_category": "Az egészségért",
+    "oculax_review_count": "333 hozzászólás",
+    "oculax_niche": "Látás",
+    "oculax_form_factor": "kapszula tégelyben, 20 db.",
+    "oculax_short_description": "Kiegyensúlyozott formula a szem egészségének támogatására és a szem fáradtságának és kimerültségének csökkentésére.",
+    "oculax_description": "A termék antioxidáns tulajdonságokkal rendelkező vitaminokat és nyomelemeket tartalmaz, amelyek nélkülözhetetlenek a szem védelmi rendszerének működéséhez az oxidatív károsodások, a napfény kék spektrumának káros sugarai ellen.",
+    "oculax_compound": "Csalángyökér kivonat, zselatin (kapszulahéj), mikrokristályos cellulóz (töltőanyag), Valeriana gyökér kivonat, cink-citrát trihidrát, magnézium-sztearát (töltőanyag), szilícium-dioxid (csomósodásgátló), В6-vitamin, В2-vitamin, В1-vitamin, В12-vitamin.",
+    "oculax_usage": "Felnőtteknek naponta 2 kapszula étkezés előtt. A kúra időtartama 2 hónap.",
+    "oculax_contraindications": "Egyéni intolerancia bármely összetevővel szemben, csak felnőtteknek. Ne lépje túl az ajánlott napi adagot. Gyermekektől távol tartandó. Az étrend-kiegészítő nem használható a különböző élelmiszerek helyettesítésére. Ez nem gyógyszer.",
+    "oculax_manufacturer": "SPB REALTY LTD.",
+    "oculax_suitability": "2 év",
+    "oculax_keep": "Száraz, napfénytől védett helyen tárolandó, legfeljebb 25°С hőmérsékleten.",
+    "oculax_product_recommendation": [
+      {
+        "link": "beauty_peeling.html",
+        "srcPhoto": "img/beauty-peeling.png",
+        "name": "BEAUTY AGE SKIN PEELING",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "288 hozzászólás",
+        "niche": "Направление: гипертония"
+      },
+      {
+        "link": "beauty_skin.html",
+        "srcPhoto": "img/beauty-age-skin.png",
+        "name": "BEAUTY AGE SKIN",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          }
+        ],
+        "text": "455 отзывов",
+        "niche": "Направление: омоложение"
+      },
+      {
+        "link": "steplex.html",
+        "srcPhoto": "img/steplex.png",
+        "name": "STEPLEX",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "287 hozzászólás",
+        "niche": "Направление: суставы"
       }
     ]
   },

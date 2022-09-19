@@ -11,7 +11,6 @@ include ../../mixins/product-short
 	var REVIEWS = LANG.reviews.reviews_inspilar;
 	REVIEWS.length = 3;
 
-//+frame_popup(framepopup)
 section.product-item
 	.container
 		.product-item__breadcrumbs.breadcrumbs
@@ -52,7 +51,6 @@ section.product-item
 							img(src="img/inspilar.png", alt="Inspilar")
 			.product-item__info
 				h2.product-item__name!=INSPILAR.inspilar_title
-				//p.product-item__desc
 				.product-item__rating
 					.product-item__rating-stars
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
@@ -68,7 +66,6 @@ section.product-item
 					li.product-list__item
 						!=PRODUCT_CARD.product_form_factor
 						!=INSPILAR.inspilar_form_factor
-				//button.product-item__btn.button.button--green.js-show-frame-popup(data-src=INSPILAR.inspilar_frame_link)!=PRODUCT_CARD.product_btn
 				a.product-item__btn.button.button--gold(href='order.html?id=inspilar')!=PRODUCT_CARD.product_btn
 				p.product-item__text!=INSPILAR.inspilar_short_description
 				.product-item__description.js-accordeon

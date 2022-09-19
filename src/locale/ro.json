@@ -871,6 +871,38 @@
       "link": "delislim.html",
       "category": "health",
       "btn": "MAI DETALIAT"
+    },
+    {
+      "label": "Hit",
+      "srcPhoto": "img/oculax.png",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "333 recenzii",
+      "desc": "O formulă echilibrată pentru a îmbunătăți sănătatea ochilor și pentru a reduce stările de oboseală și fatigabilitate a ochilor.",
+      "link": "oculax.html",
+      "category": "health",
+      "btn": "MAI DETALIAT"
     }
   ],
 
@@ -3482,6 +3514,113 @@
         ],
         "text": "287 recenzii",
         "niche": "Direcție: Articulații"
+      }
+    ]
+  },
+  "oculax": {
+    "oculax_title": "Oculax",
+    "oculax_category": "Pentru sănătate",
+    "oculax_review_count": "333 recenzii",
+    "oculax_niche": "Vedere",
+    "oculax_form_factor": "capsule în flacon, 20 buc.",
+    "oculax_short_description": "O formulă echilibrată pentru a îmbunătăți sănătatea ochilor și pentru a reduce stările de oboseală și fatigabilitate a ochilor.",
+    "oculax_description": "Produsul conține vitamine și microelemente cu proprietăți antioxidante, nutrienți esențiali pentru funcționarea sistemului de protecție a ochilor împotriva daunelor oxidative, a razelor nocive din spectrul albastru al soarelui.",
+    "oculax_compound": "Extract de rădăcină de urzică, gelatină (învelișul capsulei), celuloză microcristalină (agent de umplutură), extract de rădăcină de Valeriana, citrat de zinc trihidrat, stearat de magneziu (agent de umplutură), dioxid de siliciu (agent antiaglomerant), Vitamina В6, Vitamina В2, Vitamina В1, Vitamina В12.",
+    "oculax_usage": "se administrează pentru adulți câte 2 capsule pe zi, înainte de masă. Durata totală a cursului este de 2 luni.",
+    "oculax_contraindications": "intoleranță individuală la oricare dintre ingrediente, numai pentru adulți. Nu depășiți doza zilnică recomandată. A se păstra în afara accesului copiilor. Suplimentul alimentar nu trebuie folosit ca înlocuitor al dietei variate. Nu este un medicament.",
+    "oculax_manufacturer": "SPB REALTY LTD.",
+    "oculax_suitability": "2 de ani",
+    "oculax_keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С",
+    "oculax_product_recommendation": [
+      {
+        "link": "beauty_peeling.html",
+        "srcPhoto": "img/beauty-peeling.png",
+        "name": "BEAUTY AGE SKIN PEELING",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "288 recenzii",
+        "niche": "Направление: гипертония"
+      },
+      {
+        "link": "beauty_skin.html",
+        "srcPhoto": "img/beauty-age-skin.png",
+        "name": "BEAUTY AGE SKIN",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          }
+        ],
+        "text": "455 отзывов",
+        "niche": "Направление: омоложение"
+      },
+      {
+        "link": "steplex.html",
+        "srcPhoto": "img/steplex.png",
+        "name": "STEPLEX",
+        "narrow": true,
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty-1.svg",
+            "type": "empty-1"
+          }
+        ],
+        "text": "287 recenzii",
+        "niche": "Направление: суставы"
       }
     ]
   },

@@ -27,130 +27,23 @@
 	width: 100%
 	&__img
 		width: 100%
-
-	//&
-	//	.category
-	//		&__back
-	//			top: 293px
-	//			left: -225px
-	//	&:hover
-	//		.category
-	//			&__back
-	//				bottom: 13px
-	//				left: 13px
-	//				top: 13px
-	//&
-	//	.category
-	//		&__back
-	//			top: -5px
-	//			left: 182px
-	//			bottom: 13px
-	//	&:hover
-	//		.category
-	//			&__back
-	//				top: 13px
-	//				left: 13px
 	&:hover
 		.category
 			&__back
 				bottom: 0
 				pointer-events: visible
 				background: white
-				box-shadow: 0px 6px 11px rgba(0, 0, 0, 0.1)
+				box-shadow: 0 6px 11px rgba(0, 0, 0, 0.1)
 			&__title
 				background: transparent
-				//padding: 0
-				//border: 1px solid $white
 			&__bottom
 				opacity: 1
 	+r(1249)
 		max-width: calc(100%/2 - 20px)
-		//&:nth-of-type(even)
-		//	&:hover
-		//		.category
-		//			&__back
-		//				bottom: 9px
-	//+r(1023)
-		//flex-shrink: 0
-		//max-width: 160px
-		//&:nth-of-type(even)
-		//	margin-top: 230px
-		//	.category
-		//		&__back
-		//			left: -176px
-		//			top: 186px
-		//	&:hover
-		//		.category
-		//			&__back
-		//				left: 9px
-		//				top: 13px
-		//&:nth-of-type(odd)
-		//	.category
-		//		&__back
-		//			left: 130px
-		//			top: 0px
-		//	&:hover
-		//		.category
-		//			&__back
-		//				top: 13px
-		//				left: 9px
-	//+r(767)
-	//	max-width: 220px
-	//	&:nth-of-type(-n+2)
-	//		margin-bottom: 30px
-	//	&:nth-of-type(even)
-	//		margin-top: 100px
-	//		.category
-	//			&__back
-	//				top: 266px
-	//+r(639)
-	//	max-width: 200px
-	//	&:nth-of-type(even)
-	//		.category
-	//			&__back
-	//				top: 236px
 	+r(479)
 		max-width: 300px
 		&:not(:last-of-type)
 			margin-bottom: 15px
-	//	&:nth-of-type(odd)
-	//		.category
-	//			&__back
-	//				left: 68%
-	//		&:hover
-	//			.category
-	//				&__back
-	//					right: auto
-	//					top: 5px
-	//					left: 5px
-	//					z-index: 10
-	//	&:nth-of-type(even)
-	//		.category
-	//			&__back
-	//				bottom: auto
-	//				left: auto
-	//				top: 77%
-	//				right: 80%
-	//		&:hover
-	//			.category
-	//				&__back
-	//					left: auto
-	//					top: 5px
-	//					right: 5px
-	//+r(374)
-	//	max-width: 200px
-	//	&:nth-of-type(odd)
-	//		.category
-	//			&__back
-	//				left: 48%
-	//	&:nth-of-type(even)
-	//		margin-top: 0
-	//		margin-left: auto
-	//		.category
-	//			&__back
-	//				right: 46%
-	//	&:nth-of-type(-n+3)
-	//		margin-bottom: 20px
 	&__back
 		position: absolute
 		margin: 20px
@@ -164,37 +57,12 @@
 		left: 0
 		right: 0
 		bottom: -140px
-
-		//position: absolute
-		//width: 270px
-		//padding: 23px
-		//transition: all .3s
-		//pointer-events: none
-		//z-index: 1
-		//display: flex
-		//flex-direction: column
-		//align-items: flex-start
-		//min-height: 385px
-		//+r(1249)
-			//min-height: 350px
-		//+r(1023)
-			//width: 180px
-			//padding: 10px
-			//min-height: 220px
-		//+r(767)
-		//	width: 220px
-		//	padding: 20px
-		//	min-height: 340px
 		+r(639)
 			margin: 10px
 			padding: 10px
 			bottom: -165px
-			//width: 200px
-			//min-height: 305px
 		+r(479)
 			bottom: -125px
-		//	width: 215px
-		//	min-height: 100%
 	&__title
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
 		font-weight: 400
@@ -215,7 +83,6 @@
 			font-size: 22px
 			line-height: 1.2
 			padding: 6px 15px
-		//+r(767)
 
 	&__bottom
 		margin-top: 26px
@@ -230,7 +97,6 @@
 			margin-top: 10px
 	&__desc
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
-		//font-family: 'Jura'
 		font-size: 22px
 		line-height: 23px
 		letter-spacing: -0.055em
@@ -245,7 +111,6 @@
 			min-height: 75px
 		+r(767)
 			font-size: 16px
-			//min-height: 110px
 		+r(639)
 			min-height: 100px
 		+r(479)

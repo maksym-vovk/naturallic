@@ -16,36 +16,9 @@ section.catalog-main
 		h2.catalog-main__title.title!=CATALOG.catalog_title
 		.catalog-main__content
 			.catalog-main__left
-				//p.category-item#man.js-tab.active Для мужчин
-				//p.category-item#woman.js-tab Для женщин
 				p.category-item#health.js-tab.active!=CATALOG.catalog_item_health
 				p.category-item#beauty.js-tab!=CATALOG.catalog_item_beauty
 			.catalog-main__right
-				//.catalog-main__list.js-list-prod.active(data-target="man")
-				//	.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-				//		each product in PRODUCTS
-				//			+product(product)
-				//	.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
-				//		each product in PRODUCTS
-				//			+product(product)
-				//	p.catalog-main__count.js-catalog-count
-				//		span.js-product-show 0
-				//		| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
-				//		span.js-product-all 0
-				//	button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
-				//
-				//
-				//.catalog-main__list.js-list-prod(data-target="woman")
-				//	.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
-				//		each product in PRODUCTS
-				//			+product(product)
-				//	p.catalog-main__count.js-catalog-count
-				//		span.js-product-show 0
-				//		| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
-				//		span.js-product-all 0
-				//	button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
-
-
 				.catalog-main__list.js-list-prod.active(data-target="health")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 						each product in preloadedHealthProducts
@@ -61,8 +34,6 @@ section.catalog-main
 						when 0
 						default
 							button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
-					//button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
-
 
 				.catalog-main__list.js-list-prod(data-target="beauty")
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show

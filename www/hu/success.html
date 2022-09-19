@@ -11,23 +11,19 @@
     <title>Success</title>
   </head>
   <body>
+    <div class="loader">
+      <div class="container">
+        <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
+      </div>
+    </div>
     <div class="nav">
       <div class="container">
-        <div class="nav__wrap">
-          <!--a.nav__logo(href=url(LANG,'/'))--><a class="nav__logo" href="/hu/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+        <div class="nav__wrap"><a class="nav__logo" href="/hu/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
           <ul class="nav__menu menu">
-            <li class="menu__item">
-              <!--a.menu__link(href="catalog.html")!=MENU.menu_title_catalog--><a class="menu__link" href="/hu/catalog.html">Katalógus</a>
-            </li>
-            <li class="menu__item">
-              <!--a.menu__link(href="about.html")!=MENU.menu_title_about_us--><a class="menu__link" href="/hu/about.html">Rólunk</a>
-            </li>
-            <li class="menu__item">
-              <!--a.menu__link(href="contacts.html")!=MENU.menu_title_contacts--><a class="menu__link" href="/hu/contacts.html">Kapcsolat</a>
-            </li>
-            <li class="menu__item">
-              <!--a.menu__link(href="reviews.html")!=MENU.menu_title_review--><a class="menu__link" href="/hu/reviews.html">Hozzászólások</a>
-            </li>
+            <li class="menu__item"><a class="menu__link" href="/hu/catalog.html">Katalógus</a></li>
+            <li class="menu__item"><a class="menu__link" href="/hu/about.html">Rólunk</a></li>
+            <li class="menu__item"><a class="menu__link" href="/hu/contacts.html">Kapcsolat</a></li>
+            <li class="menu__item"><a class="menu__link" href="/hu/reviews.html">Hozzászólások</a></li>
           </ul>
           <div class="nav__controls">
             <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:3613237337">3613237337</a>
@@ -42,11 +38,9 @@
         </div>
       </div>
     </div>
-    <!--include mixins/langSelect-->
     <div class="menu-mobile" id="js-mobile-menu">
       <div class="menu-mobile__wrap">
         <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/hu/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <!--+langSelect('index')-->
           <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
         <ul class="menu-mobile__nav menu">
@@ -57,20 +51,9 @@
         </ul>
         <div class="menu-mobile__bottom">
           <button class="menu-mobile__btn btn js-show-popup" title="Hívás rendelése" data-target="#popup">Hívás rendelése</button>
-          <!--.menu-mobile__social.social-->
-          <!--	a.social__item(href="https://www.facebook.com/realvitaliss/?ref=pages_you_manage" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_3.svg", alt="")-->
-          <!--	a.social__item(href="https://vk.com/vitaliss_official" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_1.svg", alt="")-->
-          <!--	a.social__item(href="https://ok.ru/group/58603068063992" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_4.svg", alt="")-->
-          <!--	a.social__item(href="https://www.instagram.com/real_vitaliss/" target="_blank")-->
-          <!--		img(src="/img/svg/type_1_2.svg", alt="")-->
         </div>
       </div>
     </div>
-    <!--include templates/mixins/menu-->
-    <!--+menu("success", "dark")-->
     <div class="success-header">
       <div class="container">
         <div class="success-header__wrapper">
@@ -98,64 +81,10 @@
         </div>
       </div>
     </div>
-    <!--include templates/success/diary-->
-    <!--include ../mixins/review-->
-    <!--include ../data/index-->
-    <!---->
-    <!--    let array = reviewsArray;-->
-    <!--    const perChunk = 2;-->
-    <!--    const result = array.reduce((resultArray, item, index) => {-->
-    <!--        const chunkIndex = Math.floor(index / perChunk)-->
-    <!--        if (!resultArray[chunkIndex]) {-->
-    <!--            resultArray[chunkIndex] = []-->
-    <!--        }-->
-    <!--        resultArray[chunkIndex].push(item)-->
-    <!--        return resultArray-->
-    <!--    }, []);-->
-    <!---->
     <div class="success-reviews">
       <div class="container">
         <div class="success-reviews__slider js-slider-reviews-wrap">
           <div class="success-reviews__list js-slider-reviews swiper-wrapper">
-            <!--mixin review(review)-->
-            <!--	if review.main-->
-            <!--		.review.js-review(class="review--" + review.main)-->
-            <!--			.review__top-->
-            <!--				img.review__photo(src=review.src, alt="")-->
-            <!--				.review__person-->
-            <!--					p.review__name!= review.name-->
-            <!--					p.review__desc-->
-            <!--						span.review__mark высказал-->
-            <!--						|-->
-            <!--						| свое мнение про-->
-            <!--						|-->
-            <!--						span.review__product!= review.product-->
-            <!--					//.review__rating-->
-            <!--					//	p.review__rating-name!= review.product-->
-            <!--					//	.review__rating-stars-->
-            <!--					//		each star in review.stars-->
-            <!--					//			img.review__rating-star(src=star, alt="")-->
-            <!--			.review__bottom-->
-            <!--				p.review__text!= review.text-->
-            <!--	else-->
-            <!--		.review.js-review.swiper-slide-->
-            <!--			.review__top-->
-            <!--				img.review__photo(src=review.src, alt="")-->
-            <!--				.review__person-->
-            <!--					p.review__name!= review.name-->
-            <!--					p.review__desc-->
-            <!--						span.review__mark высказал-->
-            <!--						|-->
-            <!--						| свое мнение про-->
-            <!--						|-->
-            <!--						span.review__product!= review.product-->
-            <!--					//.review__rating-->
-            <!--					//	p.review__rating-name!= review.product-->
-            <!--					//	.review__rating-stars-->
-            <!--					//		each star in review.stars-->
-            <!--					//			img.review__rating-star(src=star, alt="")-->
-            <!--			.review__bottom-->
-            <!--				p.review__text!= review.text-->
             <div class="reviews-list swiper-slide">
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_beauty-age-complex_1.png" alt=""/>
@@ -4356,10 +4285,6 @@
                             </div>
                           </div>
             </div>
-            <!-- each reviews in result-->
-            <!--     .reviews-list.swiper-slide-->
-            <!--         each review in reviews-->
-            <!--             +review(review)-->
           </div>
           <div class="success-reviews__scrollbar scrollbar js-slider-reviews-scrollbar"></div>
         </div>
@@ -4424,11 +4349,6 @@
             </div>
           </div>
         </div>
-    <div class="loader">
-      <div class="container">
-        <div class="loader__text">Loading...</div>
-      </div>
-    </div>
     <div class="overlay js-overlay"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>

@@ -107,9 +107,6 @@ const Controls = (function () {
             }
         },
         calculateReviews: function () {
-            //Общее количество отзывов
-            // spanReviewsShow.html(reviews.length);
-
             //Показано отзывов
             // const countReviewsShow = $(".js-reviews-show-list").find(reviews).length;
             if ($(".js-reviews-show-list").hasClass("show")) {

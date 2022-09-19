@@ -11,7 +11,6 @@ include ../../mixins/product-short
 	REVIEWS.length = 3;
 
 
-//+frame_popup(framepopup)
 section.product-item
 	.container
 		.product-item__breadcrumbs.breadcrumbs
@@ -40,7 +39,6 @@ section.product-item
 						img(src="img/tensital_2.jpg", alt="Tensital")
 			.product-item__info
 				h2.product-item__name!=TENSITAL.tensital_title
-				//p.product-item__desc
 				.product-item__rating
 					.product-item__rating-stars
 						img.product-item__rating-star(src="img/svg/star.svg", alt="")
@@ -56,7 +54,6 @@ section.product-item
 					li.product-list__item
 						!=PRODUCT_CARD.product_form_factor
 						!=TENSITAL.tensital_form_factor
-				//button.product-item__btn.button.button--gold.js-show-frame-popup(data-src=TENSITAL.tensital_frame_link)!=PRODUCT_CARD.product_btn
 				a.product-item__btn.button.button--gold(href='order.html?id=tensital')!=PRODUCT_CARD.product_btn
 				p.product-item__text!=TENSITAL.tensital_short_description
 				.product-item__description.js-accordeon
