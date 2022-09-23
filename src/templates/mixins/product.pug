@@ -3,7 +3,9 @@ mixin product(item)
 		.product__content
 			p.product__label!= item.label
 			.product__wrap-photo
-				img(src=item.srcPhoto, alt="")
+				picture
+					source(srcset=item.srcPhotoWebp, type='image/webp')
+					img(src=item.srcPhoto, alt="" width='285' height='321')
 			p.product__name!= item.name
 			.product__rating
 				.product__rating-stars
