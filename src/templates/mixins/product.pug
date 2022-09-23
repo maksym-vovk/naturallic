@@ -4,6 +4,8 @@ mixin product(item)
 			p.product__label!= item.label
 			.product__wrap-photo
 				picture
+					source(media='(max-width:479px)' srcset=item.mobSrcPhotoWebp type='image/webp')
+					source(media='(max-width:479px)' srcset=item.mobSrcPhoto)
 					source(srcset=item.srcPhotoWebp, type='image/webp')
 					img(src=item.srcPhoto, alt="" width='285' height='321')
 			p.product__name!= item.name

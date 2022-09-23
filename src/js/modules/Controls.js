@@ -181,6 +181,8 @@ const Controls = (function () {
                     flagImage.className = "lang-select__flag lang-select__flag--current";
                     flagImage.setAttribute("src", `../img/language-${currentLang}.png`);
                     flagImage.setAttribute("alt", currentLang);
+                    flagImage.setAttribute('width', '20');
+                    flagImage.setAttribute('height', '14');
                     innerElement.append(flagImage);
                 } else {
                     const langText = document.createElement("span");
