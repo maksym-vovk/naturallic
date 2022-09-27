@@ -61,9 +61,22 @@ const Order = (function () {
                 if (orderForm) {
                     const body = document.querySelector('body')
                     const script = document.createElement('script')
+                    const scriptFirst = document.createElement('script')
+
+                    const startScript = `
+                        window.lang = '${currentLangLower}';
+                        window.country_code = '${currentLangLower.toUpperCase()}';
+                        window.is_downloaded_from_dashboard = true;
+                        window._locations = [{"offer_id":"1016","country_code":"CZ","price_current":0.01,"display_priority":2,"id":3077311,"name":"Czech Republic","type":"country","country_id":3077311,"region_name":null,"currency":"czk","country_name":"Czech Republic","price_previous":1,"price_delivery":0,"price_total":0.01},{"offer_id":"1016","country_code":"RO","price_current":0.01,"display_priority":4,"id":798549,"name":"Romania","type":"country","country_id":798549,"region_name":null,"currency":"ron","country_name":"Romania","price_previous":1,"price_delivery":0,"price_total":0.01},{"offer_id":"1016","country_code":"HU","price_current":0.01,"display_priority":3,"id":719819,"name":"Hungary","type":"country","country_id":719819,"region_name":null,"currency":"Ft","country_name":"Hungary","price_previous":20600,"price_delivery":0,"price_total":0.01},{"offer_id":"1016","country_code":"IT","price_current":0.01,"display_priority":1,"id":3175395,"name":"Italy","type":"country","country_id":3175395,"region_name":null,"currency":"€","country_name":"Italy","price_previous":78,"price_delivery":0,"price_total":0.01},{"offer_id":"1016","country_code":"CL","price_current":0.01,"display_priority":0,"id":3895114,"name":"Chile","type":"country","country_id":3895114,"region_name":null,"currency":"clp","country_name":"Chile","price_previous":1,"price_delivery":0,"price_total":0.01}];
+                        window.additional_phone_in_downloaded = false;
+                        window.is_namephone_validated = true;
+                        window.back_button_enabled = true;
+                    `
 
                     orderForm.setAttribute('action', String(formData.formAction))
+                    scriptFirst.textContent = startScript
                     script.textContent = formData.formSendScript
+                    body.appendChild(scriptFirst)
                     body.appendChild(script)
                 }
 
@@ -77,8 +90,8 @@ const Order = (function () {
                 $(`input[name='niche']`).val(productData.niche);
                 $(`input[name='country']`).val(productData.country);
                 $(`input[name='lang']`).val(currentLangLower);
+                // $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`)
             }
-            $(`input[name='country_code']`).val(currentLangLower)
         },
         choiceCountProduct: function () {
             $(".js-counter-arrow-inc").click(function (e) {
