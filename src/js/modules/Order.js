@@ -74,10 +74,10 @@ const Order = (function () {
                     `
 
                     orderForm.setAttribute('action', String(formData.formAction))
-                    // scriptFirst.textContent = startScript
-                    // script.textContent = formData.formSendScript
-                    // body.appendChild(scriptFirst)
-                    // body.appendChild(script)
+                    scriptFirst.textContent = startScript
+                    script.textContent = formData.formSendScript
+                    body.appendChild(scriptFirst)
+                    body.appendChild(script)
                 }
 
                 $(".js-product-name").html(prodNameWithSpaces);
@@ -90,7 +90,8 @@ const Order = (function () {
                 $(`input[name='niche']`).val(productData.niche);
                 $(`input[name='country']`).val(productData.country);
                 $(`input[name='lang']`).val(currentLangLower);
-                // $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`)
+                // window.addEventListener('load', () => $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`))
+
             }
         },
         choiceCountProduct: function () {
