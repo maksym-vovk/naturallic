@@ -74,10 +74,10 @@ const Order = (function () {
                     `
 
                     orderForm.setAttribute('action', String(formData.formAction))
-                    scriptFirst.textContent = startScript
-                    script.textContent = formData.formSendScript
-                    body.appendChild(scriptFirst)
-                    body.appendChild(script)
+                    // scriptFirst.textContent = startScript
+                    // script.textContent = formData.formSendScript
+                    // body.appendChild(scriptFirst)
+                    // body.appendChild(script)
                 }
 
                 $(".js-product-name").html(prodNameWithSpaces);
