@@ -127,19 +127,33 @@ const Controls = (function () {
             });
         },
         setLanguage: function () {
+            const DEFAULT_LANG = 'cz'
             const langModal = document.querySelector(".language");
             const languageSelect = document.querySelector(".select");
             const languagesArr = [
                 ...languageSelect.querySelectorAll(".select__option"),
             ].map((option) => option.dataset.lang);
+            const defaultSelectOption = document.querySelector('.select__option--default')
 
             const currentLang = window.location.pathname.substring(1, 3);
             const isLangInURL = languagesArr.includes(currentLang);
             const savedLanguage = localStorage.getItem("localization");
+            const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG
 
-            if (savedLanguage && !isLangInURL) {
+            if (savedLanguage && !isSavedDefault && !isLangInURL) {
                 location.href = `${window.location.origin}/${savedLanguage}${window.location.pathname}${window.location.search}`;
             }
+
+            // if (savedLanguage && isSavedDefault) {
+            //     location.href = `${window.location.origin}${window.location.pathname}${window.location.search}`;
+            // }
+
+            defaultSelectOption.addEventListener('click', event => {
+                event.preventDefault()
+
+                langModal.classList.add("language--hidden")
+                localStorage.setItem("localization", DEFAULT_LANG);
+            })
 
             langModal.addEventListener("click", (event) => {
                 if (savedLanguage) {
@@ -150,46 +164,75 @@ const Controls = (function () {
             });
 
             window.addEventListener("load", function () {
-                if (!isLangInURL) {
+                if (!isLangInURL && !isSavedDefault) {
                     langModal.classList.remove("language--hidden");
-                } else {
+                }
+
+                if (isLangInURL) {
                     localStorage.setItem("localization", currentLang);
                 }
             });
         },
         showHeaderLang: function () {
+            const DEFAULT_LANG = 'cz'
             const langSelect = document.querySelectorAll(".lang-select");
             const currentLangBlock = document.querySelectorAll(
                 ".lang-select__current"
             );
             const langOptions = document.querySelectorAll(".lang-select__option");
+            const langOptionDefault = document.querySelector('.lang-select__option--default')
             const languageSelect = document.querySelector(".select");
             const currentLang = window.location.pathname.substring(1, 3);
             const languagesArr = [
                 ...languageSelect.querySelectorAll(".select__option"),
             ].map((option) => option.dataset.lang);
+            const savedLanguage = localStorage.getItem("localization");
+            const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG
 
-            langOptions.forEach((option) =>
+            langOptionDefault.addEventListener('click', event => {
+                localStorage.setItem("localization", DEFAULT_LANG);
+                langOptionDefault.classList.add('lang-select__option--active')
+            })
+
+            console.log(savedLanguage);
+            console.log(isSavedDefault);
+
+            langOptions.forEach((option) => {
+                option.addEventListener('click', () => {
+                    localStorage.setItem("localization", option.dataset.lang);
+                })
+
                 option.dataset.lang === currentLang
                     ? option.classList.add("lang-select__option--active")
                     : false
-            );
+
+                option.dataset.lang === DEFAULT_LANG && isSavedDefault
+                    ? option.classList.add("lang-select__option--active")
+                    : false
+
+                option.dataset.lang === DEFAULT_LANG && !savedLanguage
+                    ? option.classList.add("lang-select__option--active")
+                    : false
+            });
 
             const createCurrentFlagElement = (innerElement) => {
-                if (languagesArr.includes(currentLang)) {
-                    const flagImage = document.createElement("img");
-                    flagImage.className = "lang-select__flag lang-select__flag--current";
-                    flagImage.setAttribute("src", `../img/language-${currentLang}.png`);
-                    flagImage.setAttribute("alt", currentLang);
-                    flagImage.setAttribute('width', '20');
-                    flagImage.setAttribute('height', '14');
-                    innerElement.append(flagImage);
-                } else {
-                    const langText = document.createElement("span");
-                    langText.className = "lang-select__alt";
-                    langText.textContent = "Lang";
-                    innerElement.append(langText);
-                }
+
+                const flagImage = document.createElement("img");
+                flagImage.className = "lang-select__flag lang-select__flag--current";
+                flagImage.setAttribute("src", `../img/language-${savedLanguage || DEFAULT_LANG}.png`);
+                flagImage.setAttribute("alt", savedLanguage || DEFAULT_LANG);
+                flagImage.setAttribute('width', '20');
+                flagImage.setAttribute('height', '14');
+                innerElement.append(flagImage);
+
+                // if (languagesArr.includes(currentLang) || isSavedDefault) {
+                //
+                // } else {
+                //     const langText = document.createElement("span");
+                //     langText.className = "lang-select__alt";
+                //     langText.textContent = "Lang";
+                //     innerElement.append(langText);
+                // }
             };
 
             currentLangBlock.forEach((block) => createCurrentFlagElement(block));
@@ -295,10 +338,12 @@ const Controls = (function () {
             });
         },
         setLoader: function () {
-            const hideLoader = () =>
-                document.querySelector(".loader").classList.add("loader--hidden");
-            window.addEventListener("load", () => {
-                setTimeout(() => hideLoader(), 500);
+            const loader = document.querySelector(".loader")
+
+            window.addEventListener("load", function () {
+                setTimeout(function () {
+                    loader.classList.add("loader--hidden");
+                }, 500);
             });
         },
         webpChecker: function () {
