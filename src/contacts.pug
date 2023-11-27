@@ -1,5 +1,6 @@
 extends templates/layout/layout.pug
 block head
-	title Naturallic - Контакты
+	-var title = LANG.menu.menu_title_contacts
+	title Naturallic - #{title}
 block content
 	include templates/contacts/main

@@ -50,7 +50,8 @@ const Order = (function () {
             const productName = getParameterByName("id");
             const productNameUnderscore = String(productName).split('-').join('_')
             const prodNameWithSpaces = String(productName).split('-').join(' ')
-            const currentLangLower = localStorage.getItem('localization').toLowerCase()
+            const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false
+            console.log(productNameUnderscore);
 
             if (productName) {
                 const orderForm = document.querySelector('#order-form')
@@ -80,6 +81,7 @@ const Order = (function () {
                     body.appendChild(script)
                 }
 
+                console.log(productName);
                 $(".js-product-name").html(prodNameWithSpaces);
                 $(".js-product-photo").attr("src", `../img/${productName}.png`);
 

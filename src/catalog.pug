@@ -1,5 +1,6 @@
 extends templates/layout/layout.pug
 block head
-	title Naturallic - Каталог
+	-var title = LANG.menu.menu_title_catalog
+	title Naturallic - #{title}
 block content
 	include templates/catalog/main

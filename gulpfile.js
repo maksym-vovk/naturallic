@@ -25,7 +25,7 @@ const autoprefixer = require("autoprefixer"),
   shell = require("shelljs"),
   gulpRevAll = require("gulp-rev-all");
 
-const DEFAULT_LOCALE = "ru";
+const DEFAULT_LOCALE = "cz";
 
 const config = {
   pug: true, // Enable pug view engine

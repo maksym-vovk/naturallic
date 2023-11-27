@@ -1,5 +1,6 @@
 extends templates/layout/layout-prod.pug
 block head
-    title Naturallic - Terms
+    -var title = LANG.terms.terms_title
+    title Naturallic - #{title}
 block content
     include templates/terms/main

@@ -1,115 +1,13 @@
+include ../../mixins/product-page
 include ../../mixins/product-review
 include ../../mixins/product-short
 
 -
+	var PRODUCT_NAME = 'Paraxan'
 	var PRODUCT_CARD = LANG.product_card;
-	var PARAXAN = LANG.paraxan;
-	var PARAXAN_RECOMMENDATION = LANG.paraxan.paraxan_product_recommendation;
+	var CURRENT_PRODUCT = LANG.paraxan;
+	var RECOMMENDATIONS = LANG.recommendations.filter(prod => prod.name === 'Depanten' || prod.name === 'Beauty Age Skin Peeling' || prod.name === 'Beauty Age Skin')
 	var REVIEWS = LANG.reviews.reviews_paraxan;
 	REVIEWS.length = 3;
 
-section.product-item
-	.container
-		.product-item__breadcrumbs.breadcrumbs
-			a.breadcrumbs__link(href="/")!=PRODUCT_CARD.product_card_bread_main
-			span.breadcrumbs__line /
-			a.breadcrumbs__link(href="catalog.html")!=PRODUCT_CARD.product_card_bread_catalog
-			span.breadcrumbs__line /
-			a.breadcrumbs__link(href="catalog.html?id=health")!=PARAXAN.paraxan_category
-			span.breadcrumbs__line /
-			span.breadcrumbs__main!=PARAXAN.paraxan_title
-		.product-item__wrapper
-			.product-item__slider.slider-prod
-				.slider-prod__nav.js-slider-product-nav
-					.slider-prod__nav-item
-						picture
-							source(srcset='img/paraxan.webp' type='image/webp')
-							img(src="img/paraxan.png", alt="Paraxan")
-					.slider-prod__nav-item
-						picture
-							source(srcset='img/paraxan.webp' type='image/webp')
-							img(src="img/paraxan.png", alt="Paraxan")
-					.slider-prod__nav-item
-						picture
-							source(srcset='img/paraxan.webp' type='image/webp')
-							img(src="img/paraxan.png", alt="Paraxan")
-				.slider-prod__for.js-slider-product-for
-					.slider-prod__for-item
-						picture
-							source(srcset='img/paraxan.webp' type='image/webp')
-							img(src="img/paraxan.png", alt="Paraxan")
-					.slider-prod__for-item
-						picture
-							source(srcset='img/paraxan.webp' type='image/webp')
-							img(src="img/paraxan.png", alt="Paraxan")
-					.slider-prod__for-item
-						picture
-							source(srcset='img/paraxan.webp' type='image/webp')
-							img(src="img/paraxan.png", alt="Paraxan")
-			.product-item__info
-				h2.product-item__name!=PARAXAN.paraxan_title
-				.product-item__rating
-					.product-item__rating-stars
-						img.product-item__rating-star(src="img/svg/star.svg", alt="")
-						img.product-item__rating-star(src="img/svg/star.svg", alt="")
-						img.product-item__rating-star(src="img/svg/star.svg", alt="")
-						img.product-item__rating-star(src="img/svg/star.svg", alt="")
-						img.product-item__rating-star(src="img/svg/star-empty-1.svg", alt="")
-					p.product-item__rating-text!=PARAXAN.paraxan_review_count
-				ul.product-item__list.product-list
-					li.product-list__item
-						!=PRODUCT_CARD.product_niche
-						!=PARAXAN.paraxan_niche
-					li.product-list__item
-						!=PRODUCT_CARD.product_form_factor
-						!=PARAXAN.paraxan_form_factor
-				a.product-item__btn.button.button--gold(href='order.html?id=paraxan')!=PRODUCT_CARD.product_btn
-				p.product-item__text!=PARAXAN.paraxan_short_description
-				.product-item__description.js-accordeon
-					.specification
-						.specification__top.js-btn-accordeon
-							h3.specification__ttl!=PRODUCT_CARD.product_description
-							i.fico.fico-cross
-						p.specification__text.js-info-accordeon!=PARAXAN.paraxan_description
-					.specification
-						.specification__top.js-btn-accordeon
-							h3.specification__ttl!=PRODUCT_CARD.product_compound
-							i.fico.fico-cross
-						p.specification__text.js-info-accordeon!=PARAXAN.paraxan_compound
-					.specification
-						.specification__top.js-btn-accordeon
-							h3.specification__ttl!=PRODUCT_CARD.product_usage
-							i.fico.fico-cross
-						p.specification__text.js-info-accordeon!=PARAXAN.paraxan_usage
-					.specification
-						.specification__top.js-btn-accordeon
-							h3.specification__ttl!=PRODUCT_CARD.product_contraindications
-							i.fico.fico-cross
-						p.specification__text.js-info-accordeon!=PARAXAN.paraxan_contraindications
-					.specification
-						.specification__top.js-btn-accordeon
-							h3.specification__ttl!=PRODUCT_CARD.product_additional
-							i.fico.fico-cross
-						.specification__text.js-info-accordeon
-							.product-list
-								li.product-list__item
-									!=PRODUCT_CARD.product_manufacturer
-									!=PARAXAN.paraxan_manufacturer
-								li.product-list__item.mb
-									!=PRODUCT_CARD.product_suitability
-									!=PARAXAN.paraxan_suitability
-								li.product-list__item
-									!=PRODUCT_CARD.product_keep
-									!=PARAXAN.paraxan_keep
-					.specification
-						.specification__top.js-btn-accordeon
-							h3.specification__ttl!=PRODUCT_CARD.product_reviews
-							i.fico.fico-cross
-						.specification__text.js-info-accordeon
-							each review in REVIEWS
-								+product-review(review)
-		.product-item__recomm
-			h2.product-item__recomm-ttl.title!= PRODUCT_CARD.product_recommendations
-			.product-item__recomm-list
-				each product in PARAXAN_RECOMMENDATION
-					+productShort(product)
++productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)

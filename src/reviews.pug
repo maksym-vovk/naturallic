@@ -1,5 +1,6 @@
 extends templates/layout/layout.pug
 block head
-	title Naturallic - Отзывы
+	-var title = LANG.menu.menu_title_review
+	title Naturallic - #{title}
 block content
 	include templates/reviews/reviews

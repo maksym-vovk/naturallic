@@ -1,5 +1,6 @@
 extends templates/layout/layout-prod.pug
 block head
-    title Naturallic - Cookie
+    -var title = LANG.cookie.cookie_title
+    title Naturallic - #{title}
 block content
     include templates/cookie/main

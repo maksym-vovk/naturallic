@@ -1,6 +1,7 @@
 extends templates/layout/layout.pug
 block head
-	title Naturallic - Home
+	-var title = LANG.page_names.home
+	title Naturallic - #{title}
 block content
 	include templates/home/header
 	include templates/home/hits

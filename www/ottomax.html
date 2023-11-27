@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="cz">
   <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -20,18 +20,35 @@
       <div class="container">
         <div class="nav__wrap"><a class="nav__logo" href="/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
           <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/catalog.html">Каталог</a></li>
-            <li class="menu__item"><a class="menu__link" href="/about.html">О нас</a></li>
-            <li class="menu__item"><a class="menu__link" href="/contacts.html">Контакты</a></li>
-            <li class="menu__item"><a class="menu__link" href="/reviews.html">Отзывы</a></li>
+            <li class="menu__item"><a class="menu__link" href="/catalog.html">Katalog</a></li>
+            <li class="menu__item"><a class="menu__link" href="/about.html">O nás</a></li>
+            <li class="menu__item"><a class="menu__link" href="/contacts.html">Kontakty</a></li>
+            <li class="menu__item"><a class="menu__link" href="/reviews.html">Recenze</a></li>
           </ul>
           <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:+7 (499) 703-14-76">+7 (499) 703-14-76</a>
-              <button class="nav__btn btn js-show-popup" title="Заказать звонок" data-target="#popup">Заказать звонок</button>
+            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:420790285911">420790285911</a>
+              <button class="nav__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
             </div>
                 <div class="lang-select">
                   <div class="lang-select__current"></div>
-                  <div class="lang-select__body"><a class="lang-select__option" data-lang="hu" href="/hu/index.html"><img class="lang-select__flag" src="/img/language-hu.png" alt="hu"/></a><a class="lang-select__option" data-lang="cz" href="/cz/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a><a class="lang-select__option" data-lang="ro" href="/ro/index.html"><img class="lang-select__flag" src="/img/language-ro.png" alt="ro"/></a><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a></div>
+                  <div class="lang-select__body">
+                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a>
+                    <!--a.lang-select__option(data-lang='bg' href=url('bg', `/${page}.html`))-->
+                    <!--    img.lang-select__flag(src='/img/language-bg.png' alt='bg')-->
+                    <!---->
+                    <!---->
+                    <!--a.lang-select__option(data-lang='ee' href=url('ee', `/${page}.html`))-->
+                    <!--    img.lang-select__flag(src='/img/language-ee.png' alt='ee')--><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a>
+                    <!--a.lang-select__option(data-lang='lt' href=url('lt', `/${page}.html`))-->
+                    <!--    img.lang-select__flag(src='/img/language-lt.png' alt='lt')-->
+                    <!---->
+                    <!---->
+                    <!--a.lang-select__option(data-lang='lv' href=url('lv', `/${page}.html`))-->
+                    <!--    img.lang-select__flag(src='/img/language-lv.png' alt='lv')--><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                  </div>
                 </div>
           </div>
           <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
@@ -44,235 +61,237 @@
           <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
         <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/catalog.html">Каталог</a></li>
-          <li class="menu__item"><a class="menu__link" href="/about.html">О нас</a></li>
-          <li class="menu__item"><a class="menu__link" href="/contacts.html">Контакты</a></li>
-          <li class="menu__item"><a class="menu__link" href="/reviews.html">Отзывы</a></li>
+          <li class="menu__item"><a class="menu__link" href="/catalog.html">Katalog</a></li>
+          <li class="menu__item"><a class="menu__link" href="/about.html">O nás</a></li>
+          <li class="menu__item"><a class="menu__link" href="/contacts.html">Kontakty</a></li>
+          <li class="menu__item"><a class="menu__link" href="/reviews.html">Recenze</a></li>
         </ul>
         <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Заказать звонок" data-target="#popup">Заказать звонок</button>
+          <button class="menu-mobile__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
         </div>
       </div>
     </div>
-    <section class="product-item">
-      <div class="container">
-        <div class="product-item__breadcrumbs breadcrumbs"><a class="breadcrumbs__link" href="/">Главная</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html">Каталог</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html?id=health">Для здоровья</a><span class="breadcrumbs__line">/</span><span class="breadcrumbs__main">Ottomax+</span></div>
-        <div class="product-item__wrapper">
-          <div class="product-item__slider slider-prod">
-            <div class="slider-prod__nav js-slider-product-nav">
-              <div class="slider-prod__nav-item">
-                <picture>
-                  <source srcset="/img/ottomax.webp" type="image/webp"/><img src="/img/ottomax.png" alt="Ottomax+"/>
-                </picture>
+        <section class="product-item">
+          <div class="container">
+            <div class="product-item__breadcrumbs breadcrumbs"><a class="breadcrumbs__link" href="/">Hlavní</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html">Katalog</a><span class="breadcrumbs__line">/</span><a class="breadcrumbs__link" href="catalog.html?id=health">Pro zdraví</a><span class="breadcrumbs__line">/</span><span class="breadcrumbs__main">Ottomax+</span></div>
+            <div class="product-item__wrapper">
+              <div class="product-item__slider slider-prod">
+                <div class="slider-prod__nav js-slider-product-nav">
+                  <div class="slider-prod__nav-item">
+                    <picture>
+                      <source srcset="/img/ottomax.webp" type="image/webp"/><img src="/img/ottomax.png" alt="Ottomax+"/>
+                    </picture>
+                  </div>
+                  <div class="slider-prod__nav-item">
+                    <picture>
+                      <source srcset="/img/ottomax_1.webp" type="image/webp"/><img src="/img/ottomax_1.png" alt="Ottomax+"/>
+                    </picture>
+                  </div>
+                  <div class="slider-prod__nav-item">
+                    <picture>
+                      <source srcset="/img/ottomax_2.webp" type="image/webp"/><img src="img/ottomax_2.png" alt="Ottomax+"/>
+                    </picture>
+                  </div>
+                </div>
+                <div class="slider-prod__for js-slider-product-for">
+                  <div class="slider-prod__for-item">
+                    <picture>
+                      <source srcset="/img/ottomax.webp" type="image/webp"/><img src="/img/ottomax.png" alt="Ottomax+"/>
+                    </picture>
+                  </div>
+                  <div class="slider-prod__for-item">
+                    <picture>
+                      <source srcset="/img/ottomax_1.webp" type="image/webp"/><img src="/img/ottomax_1.png" alt="Ottomax+"/>
+                    </picture>
+                  </div>
+                  <div class="slider-prod__for-item">
+                    <picture>
+                      <source srcset="/img/ottomax_2.webp" type="image/webp"/><img src="img/ottomax_2.png" alt="Ottomax+"/>
+                    </picture>
+                  </div>
+                </div>
               </div>
-              <div class="slider-prod__nav-item">
-                <picture>
-                  <source srcset="/img/ottomax_1.webp" type="image/webp"/><img src="/img/ottomax_1.png" alt="Ottomax+"/>
-                </picture>
-              </div>
-              <div class="slider-prod__nav-item">
-                <picture>
-                  <source srcset="/img/ottomax_2.webp" type="image/webp"/><img src="/img/ottomax_2.jpg" alt="Ottomax+"/>
-                </picture>
+              <div class="product-item__info">
+                <h2 class="product-item__name">Ottomax+</h2>
+                <div class="product-item__rating">
+                  <div class="product-item__rating-stars"><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star-empty.svg" alt=""/>
+                  </div>
+                  <p class="product-item__rating-text">341 recenzí</p>
+                </div>
+                <ul class="product-item__list product-list">
+                  <li class="product-list__item"><span>Směr: </span>Sluch
+                  </li>
+                  <li class="product-list__item"><span>Forma vydání:&nbsp;</span>kapsle v blistru, 10 kusů.
+                  </li>
+                </ul><a class="product-item__btn button button--gold" href="order.html?id=ottomax">Objednat</a>
+                <p class="product-item__text">Komplex pro zlepšení sluchových funkcí s vyváženým složením vitaminů a minerálů.</p>
+                <div class="product-item__description js-accordeon">
+                  <div class="specification">
+                    <div class="specification__top js-btn-accordeon">
+                      <h3 class="specification__ttl">Popis</h3><i class="fico fico-cross"></i>
+                    </div>
+                    <p class="specification__text js-info-accordeon">Komplex přírodních složek, které působí na odstranění tinnitu a oddálení ztráty sluchu.</p>
+                  </div>
+                  <div class="specification">
+                    <div class="specification__top js-btn-accordeon">
+                      <h3 class="specification__ttl">Složení</h3><i class="fico fico-cross"></i>
+                    </div>
+                    <p class="specification__text js-info-accordeon">Vitamin C, acetyl L-karnitin, extrakt z listů ginkgo biloby, hořčík, vitamin B3 (nikotinamid), zinek, vitamin B1, vitamin B2, vitamin B6, melatonin.</p>
+                  </div>
+                  <div class="specification">
+                    <div class="specification__top js-btn-accordeon">
+                      <h3 class="specification__ttl">Aplikace</h3><i class="fico fico-cross"></i>
+                    </div>
+                    <p class="specification__text js-info-accordeon">Dospělí: 1 kapsle denně s jídlem nebo po jídle. Jeden kurz trvá 2 měsíce. Pokud 
+ Nepřekračujte doporučenou denní dávku.</p>
+                  </div>
+                  <div class="specification">
+                    <div class="specification__top js-btn-accordeon">
+                      <h3 class="specification__ttl">Kontraindikace</h3><i class="fico fico-cross"></i>
+                    </div>
+                    <p class="specification__text js-info-accordeon">Individuální nesnášenlivost některé ze složek. Pouze pro dospělé, omezení pro děti do 18 let.</p>
+                  </div>
+                  <div class="specification">
+                    <div class="specification__top js-btn-accordeon">
+                      <h3 class="specification__ttl">Doplňkové informace</h3><i class="fico fico-cross"></i>
+                    </div>
+                    <div class="specification__text js-info-accordeon">
+                      <div class="product-list">
+                        <li class="product-list__item"><span>Výrobce: </span>Dalmatika LTD, kancelář 207, 1A4, ulice Ivan Georgov, Sofie, 1220 Bulharsko
+                        </li>
+                        <li class="product-list__item mb"><span>Minimální trvanlivost do: </span>2 roky
+                        </li>
+                        <li class="product-list__item"><span>Podmínky skladování: </span>Skladujte při teplotě od 0 °C do 25 °C, mimo dosah přímého slunečního záření a vlhkosti.
+                        </li>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="specification">
+                    <div class="specification__top js-btn-accordeon">
+                      <h3 class="specification__ttl">Recenze</h3><i class="fico fico-cross"></i>
+                    </div>
+                    <div class="specification__text js-info-accordeon">
+                          <div class="product-item__review review-small">
+                            <div class="review-small__top">
+                              <div class="review-small__desc">
+                                <div class="review-small__name">Marcela Vyskočilová</div>
+                                <div class="review-small__rating">
+                                  <div class="review-small__rating-stars"><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star-empty.svg" alt="empty"/>
+                                  </div>
+                                  <p class="review-small__rating-text">Vynikající kvalita!</p>
+                                </div>
+                              </div><img class="review-small__photo" src="/img/review_ottomax_1.png" alt="avatar"/>
+                            </div>
+                            <p class="review-small__text">Když začaly problémy se sluchem, dlouho jsem hledala prostředek. Doporučili mi Ottomax+. Efekt je jednoznačný! Přestala jsem prosit partnera aby věty zopakoval. A je to levné!</p>
+                          </div>
+                          <div class="product-item__review review-small">
+                            <div class="review-small__top">
+                              <div class="review-small__desc">
+                                <div class="review-small__name">Hana Kelichová</div>
+                                <div class="review-small__rating">
+                                  <div class="review-small__rating-stars"><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star-empty.svg" alt="empty"/>
+                                  </div>
+                                  <p class="review-small__rating-text">Vynikající kvalita!</p>
+                                </div>
+                              </div><img class="review-small__photo" src="/img/review_ottomax_2.png" alt="avatar"/>
+                            </div>
+                            <p class="review-small__text">Vynikající prostředek pro obnovu sluchu. Pozitivního zlepšení jsem si všimla už po několika týdnech. Pokud pracujete na hlučné výrobě, můžete ho použít i pro prevenci.</p>
+                          </div>
+                          <div class="product-item__review review-small">
+                            <div class="review-small__top">
+                              <div class="review-small__desc">
+                                <div class="review-small__name">Pavel Hrabák</div>
+                                <div class="review-small__rating">
+                                  <div class="review-small__rating-stars"><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star-empty.svg" alt="empty"/>
+                                  </div>
+                                  <p class="review-small__rating-text">Vynikající kvalita!</p>
+                                </div>
+                              </div><img class="review-small__photo" src="/img/review_ottomax_3.png" alt="avatar"/>
+                            </div>
+                            <p class="review-small__text">Dobře pomáhá od bolesti a tinnitu. Pomáhá eliminovat zvonění. Z výhod: účinnost, přírodní složení, dostupná cena.</p>
+                          </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-            <div class="slider-prod__for js-slider-product-for">
-              <div class="slider-prod__for-item">
-                <picture>
-                  <source srcset="/img/ottomax.webp" type="image/webp"/><img src="/img/ottomax.png" alt="Ottomax+"/>
-                </picture>
-              </div>
-              <div class="slider-prod__for-item">
-                <picture>
-                  <source srcset="/img/ottomax_1.webp" type="image/webp"/><img src="/img/ottomax_1.png" alt="Ottomax+"/>
-                </picture>
-              </div>
-              <div class="slider-prod__for-item">
-                <picture>
-                  <source srcset="/img/ottomax_2.webp" type="image/webp"/><img src="/img/ottomax_2.jpg" alt="Ottomax+"/>
-                </picture>
+            <div class="product-item__recomm">
+              <h2 class="product-item__recomm-ttl title">S tímto zbožím nakupují</h2>
+              <div class="product-item__recomm-list"><a class="product-short product-short--narrow" href="visoptic_night.html">
+                      <div class="product-short__wrap-photo product-short__wrap-photo--narrow">
+                        <picture>
+                          <!--source(media='(max-width:479px)' srcset=item.mobSrcPhotoWebp type='image/webp')-->
+                          <!--source(media='(max-width:479px)' srcset=item.mobSrcPhoto)-->
+                          <!--source(srcset=item.srcPhotoWebp type='image/webp')--><img src="/img/visoptic-night.png" alt=""/>
+                        </picture>
+                      </div>
+                      <div class="product-short__info">
+                        <p class="product-short__name">Visoptic DUO Night</p>
+                        <div class="product-short__rating">
+                          <div class="product-short__rating-stars">
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                          </div>
+                          <p class="product-short__rating-text">341 recenzí</p>
+                        </div>
+                        <p class="product-short__niche">Směr: Zrak</p>
+                      </div></a><a class="product-short product-short--narrow" href="visoptic_day.html">
+                      <div class="product-short__wrap-photo product-short__wrap-photo--narrow">
+                        <picture>
+                          <!--source(media='(max-width:479px)' srcset=item.mobSrcPhotoWebp type='image/webp')-->
+                          <!--source(media='(max-width:479px)' srcset=item.mobSrcPhoto)-->
+                          <!--source(srcset=item.srcPhotoWebp type='image/webp')--><img src="/img/visoptic.png" alt=""/>
+                        </picture>
+                      </div>
+                      <div class="product-short__info">
+                        <p class="product-short__name">Visoptic DUO Day</p>
+                        <div class="product-short__rating">
+                          <div class="product-short__rating-stars">
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star empty-1"><img src="/img/svg/star-empty-1.svg" alt="star"/></div>
+                          </div>
+                          <p class="product-short__rating-text">212 recenzí</p>
+                        </div>
+                        <p class="product-short__niche">Směr: Zrak</p>
+                      </div></a><a class="product-short product-short--narrow" href="neoveris.html">
+                      <div class="product-short__wrap-photo product-short__wrap-photo--narrow">
+                        <picture>
+                          <!--source(media='(max-width:479px)' srcset=item.mobSrcPhotoWebp type='image/webp')-->
+                          <!--source(media='(max-width:479px)' srcset=item.mobSrcPhoto)-->
+                          <!--source(srcset=item.srcPhotoWebp type='image/webp')--><img src="/img/neoveris.png" alt=""/>
+                        </picture>
+                      </div>
+                      <div class="product-short__info">
+                        <p class="product-short__name">Neoveris</p>
+                        <div class="product-short__rating">
+                          <div class="product-short__rating-stars">
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                            <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
+                          </div>
+                          <p class="product-short__rating-text">234 recenzí</p>
+                        </div>
+                        <p class="product-short__niche">Směr: Křečové žíly</p>
+                      </div></a>
               </div>
             </div>
           </div>
-          <div class="product-item__info">
-            <h2 class="product-item__name">Ottomax+</h2>
-            <div class="product-item__rating">
-              <div class="product-item__rating-stars"><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star.svg" alt=""/><img class="product-item__rating-star" src="/img/svg/star-empty.svg" alt=""/></div>
-              <p class="product-item__rating-text">341 отзыв</p>
-            </div>
-            <ul class="product-item__list product-list">
-              <li class="product-list__item"><span>Направление: </span>Слух
-              </li>
-              <li class="product-list__item"><span>Форма выпуска:&nbsp;</span>блистер, капсулы 10 шт, картонная коробка, техническая инструкция
-              </li>
-            </ul><a class="product-item__btn button button--gold" href="order.html?id=ottomax">Заказать</a>
-            <p class="product-item__text">Комплекс для улучшения функций слуха со сбалансированной формулой витаминов и минералов</p>
-            <div class="product-item__description js-accordeon">
-              <div class="specification">
-                <div class="specification__top js-btn-accordeon">
-                  <h3 class="specification__ttl">Описание</h3><i class="fico fico-cross"></i>
-                </div>
-                <p class="specification__text js-info-accordeon">комплекс натуральных компонентов, действие которых направлено на устранение шума в ушах и замедление потери слуха.</p>
-              </div>
-              <div class="specification">
-                <div class="specification__top js-btn-accordeon">
-                  <h3 class="specification__ttl">Состав</h3><i class="fico fico-cross"></i>
-                </div>
-                <p class="specification__text js-info-accordeon">L-ascorbic acid, gelatin (capsule shell), micro-crystalline cellulose (filler), acetyl L- carnitine hcl, ginkgo biloba leaf extract, magnesium oxide, nicotinamide, zinc oxide, magnesium stearate (filler), thiamine hydrochloride, silicon dioxide (anti-caking agent), riboflavin, pyridoxine hydrochloride, melatonin, calcium carbonate (food coloring, capsule shell)</p>
-              </div>
-              <div class="specification">
-                <div class="specification__top js-btn-accordeon">
-                  <h3 class="specification__ttl">Применение</h3><i class="fico fico-cross"></i>
-                </div>
-                <p class="specification__text js-info-accordeon">взрослым по 1 капсуле в день во время или после еды. Продолжительность одного курса – 2 месяца. Не превышайте рекомендуемую суточную дозу</p>
-              </div>
-              <div class="specification">
-                <div class="specification__top js-btn-accordeon">
-                  <h3 class="specification__ttl">Противопоказания</h3><i class="fico fico-cross"></i>
-                </div>
-                <p class="specification__text js-info-accordeon">индивидуальная непереносимость компонентов,  детский возраст (до 18 лет)</p>
-              </div>
-              <div class="specification">
-                <div class="specification__top js-btn-accordeon">
-                  <h3 class="specification__ttl">Доп. информация</h3><i class="fico fico-cross"></i>
-                </div>
-                <div class="specification__text js-info-accordeon">
-                  <div class="product-list">
-                    <li class="product-list__item"><span>Производитель: </span>Dalmatika (Болгария)
-                    </li>
-                    <li class="product-list__item mb"><span>Срок годности: </span>2 года
-                    </li>
-                    <li class="product-list__item"><span>Условия хранения: </span>хранить в сухом, недоступном для детей месте, при температуре не выше +25°С
-                    </li>
-                  </div>
-                </div>
-              </div>
-              <div class="specification">
-                <div class="specification__top js-btn-accordeon">
-                  <h3 class="specification__ttl">Отзывы</h3><i class="fico fico-cross"></i>
-                </div>
-                <div class="specification__text js-info-accordeon">
-                      <div class="product-item__review review-small">
-                        <div class="review-small__top">
-                          <div class="review-small__desc">
-                            <div class="review-small__name">Мэри Луческу</div>
-                            <div class="review-small__rating">
-                              <div class="review-small__rating-stars"><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star-empty.svg" alt="empty"/>
-                              </div>
-                              <p class="review-small__rating-text">Отличное качество!</p>
-                            </div>
-                          </div><img class="review-small__photo" src="/img/review_ottomax_1.png" alt="avatar"/>
-                        </div>
-                        <p class="review-small__text">Когда начались проблемы со слухом, долго искала средство. Порекомендовали Ottomax+. Эффект однозначно есть! Перестала переспрашивать собеседника. И стоит недорого!</p>
-                      </div>
-                      <div class="product-item__review review-small">
-                        <div class="review-small__top">
-                          <div class="review-small__desc">
-                            <div class="review-small__name">Фредерика Гарсиа</div>
-                            <div class="review-small__rating">
-                              <div class="review-small__rating-stars"><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star-empty.svg" alt="empty"/>
-                              </div>
-                              <p class="review-small__rating-text">Отличное качество!</p>
-                            </div>
-                          </div><img class="review-small__photo" src="/img/review_ottomax_2.png" alt="avatar"/>
-                        </div>
-                        <p class="review-small__text">Отличное средство для восстановления слуха. Положительное улучшения заметила уже через несколько недель. Если работаете на шумном производстве, можно использовать и для профилактики.</p>
-                      </div>
-                      <div class="product-item__review review-small">
-                        <div class="review-small__top">
-                          <div class="review-small__desc">
-                            <div class="review-small__name">Мишель Фарцио</div>
-                            <div class="review-small__rating">
-                              <div class="review-small__rating-stars"><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star.svg" alt="full"/><img class="review-small__rating-star" src="/img/svg/star-empty.svg" alt="empty"/>
-                              </div>
-                              <p class="review-small__rating-text">Отличное качество!</p>
-                            </div>
-                          </div><img class="review-small__photo" src="/img/review_ottomax_3.png" alt="avatar"/>
-                        </div>
-                        <p class="review-small__text">Хорошо помогает от боли и шума в ушах. Помогает устранить звон. Из плюсов: эффективность, натуральный состав, доступная цена.</p>
-                      </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="product-item__recomm">
-          <h2 class="product-item__recomm-ttl title">С этим товаром покупают</h2>
-          <div class="product-item__recomm-list"><a class="product-short" href="visoptic_night.html">
-                  <div class="product-short__wrap-photo product-short__wrap-photo--narrow">
-                    <picture>
-                      <source media="(max-width:479px)" srcset="/img/visoptic-night-mob.webp" type="image/webp"/>
-                      <source media="(max-width:479px)" srcset="/img/visoptic-night-mob.png"/>
-                      <source srcset="/img/visoptic-night.webp" type="image/webp"/><img src="/img/visoptic-night.png" alt=""/>
-                    </picture>
-                  </div>
-                  <div class="product-short__info">
-                    <p class="product-short__name">VISOPTIC DUO night</p>
-                    <div class="product-short__rating">
-                      <div class="product-short__rating-stars">
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                      </div>
-                      <p class="product-short__rating-text">341 отзыв</p>
-                    </div>
-                    <p class="product-short__niche">Направление: Зрение</p>
-                  </div></a><a class="product-short" href="visoptic_day.html">
-                  <div class="product-short__wrap-photo product-short__wrap-photo--narrow">
-                    <picture>
-                      <source media="(max-width:479px)" srcset="/img/visoptic-mob.webp" type="image/webp"/>
-                      <source media="(max-width:479px)" srcset="/img/visoptic-mob.png"/>
-                      <source srcset="/img/visoptic.webp" type="image/webp"/><img src="/img/visoptic.png" alt=""/>
-                    </picture>
-                  </div>
-                  <div class="product-short__info">
-                    <p class="product-short__name">VISOPTIC DUO DAY</p>
-                    <div class="product-short__rating">
-                      <div class="product-short__rating-stars">
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star empty-1"><img src="/img/svg/star-empty-1.svg" alt="star"/></div>
-                      </div>
-                      <p class="product-short__rating-text">212 отзывов</p>
-                    </div>
-                    <p class="product-short__niche">Направление: Зрение</p>
-                  </div></a><a class="product-short product-short--narrow" href="tonerin.html">
-                  <div class="product-short__wrap-photo product-short__wrap-photo--narrow">
-                    <picture>
-                      <source media="(max-width:479px)" srcset="/img/tonerin-mob.webp" type="image/webp"/>
-                      <source media="(max-width:479px)" srcset="/img/tonerin-mob.png"/>
-                      <source srcset="/img/tonerin.webp" type="image/webp"/><img src="/img/tonerin.png" alt=""/>
-                    </picture>
-                  </div>
-                  <div class="product-short__info">
-                    <p class="product-short__name">TONERIN</p>
-                    <div class="product-short__rating">
-                      <div class="product-short__rating-stars">
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star full"><img src="/img/svg/star.svg" alt="star"/></div>
-                        <div class="product-short__rating-star empty-1"><img src="/img/svg/star-empty-1.svg" alt="star"/></div>
-                      </div>
-                      <p class="product-short__rating-text">333 отзыва</p>
-                    </div>
-                    <p class="product-short__niche">Направление: гипертония</p>
-                  </div></a>
-          </div>
-        </div>
-      </div>
-    </section>
+        </section>
     <footer class="footer">
       <div class="footer__wrapper">
         <div class="container">
           <div class="footer__top">
             <div class="footer__docs"><a class="footer__logo" href="/"><img src="/img/svg/logo-w.svg" alt=""/></a>
               <div class="footer__contact">
-                <p class="footer__contact-text"></p><a class="footer__contact-link" href="tel:undefined"></a>
+                <p class="footer__contact-text">Česká republika:</p><a class="footer__contact-link" href="tel:420790285911">420790285911</a>
               </div>
               <div class="footer__contact"><a class="footer__contact-link" href="tel:support@naturallic.com">support@naturallic.com</a></div>
               <div class="footer__contact">
@@ -282,15 +301,15 @@
               </div>
             </div>
             <ul class="footer__menu menu-f">
-              <li class="menu-f__item"><a class="menu-f__link" href="/catalog.html">Каталог</a></li>
-              <li class="menu-f__item"><a class="menu-f__link" href="/about.html">О нас</a></li>
-              <li class="menu-f__item"><a class="menu-f__link" href="/reviews.html">Отзывы</a></li>
-              <li class="menu-f__item"><a class="menu-f__link" href="/contacts.html">Контакты</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="/catalog.html">Katalog</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="/about.html">O nás</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="/reviews.html">Recenze</a></li>
+              <li class="menu-f__item"><a class="menu-f__link" href="/contacts.html">Kontakty</a></li>
             </ul>
             <div class="footer__contacts">
-              <div class="footer__contact"><a class="footer__link" href="terms.html">Условия</a></div>
-              <div class="footer__contact"><a class="footer__link" href="privacy.html">Privacy policy</a></div>
-              <div class="footer__contact"><a class="footer__link" href="cookie.html">Куки полисии</a></div>
+              <div class="footer__contact"><a class="footer__link" href="terms.html">Všeobecné pravidla a podmínky</a></div>
+              <div class="footer__contact"><a class="footer__link" href="privacy.html">Soukromí</a></div>
+              <div class="footer__contact"><a class="footer__link" href="cookie.html">Zásady používání souborů cookie</a></div>
             </div>
           </div>
         </div>
@@ -301,14 +320,14 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Мы Вам перезвоним для&nbsp;уточнения деталей</p>
+            <p class="popup__title">Pro upřesnění podrobností vám zavoláme.</p>
             <form class="form-popup" action="/" method="post">
               <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Имя"/>
-                <input class="form-popup__input" type="phone" name="tel" placeholder="Телефон"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Сообщение"/>
+                <input class="form-popup__input" type="text" name="name" placeholder="Jméno"/>
+                <input class="form-popup__input" type="phone" name="tel" placeholder="Telefonní číslo"/>
+                <input class="form-popup__input" type="text" name="comment" placeholder="Zpráva"/>
               </div>
-              <button class="form-popup__btn button button--gold">Заказать звонок</button>
+              <button class="form-popup__btn button button--gold">Objednat hovor</button>
             </form>
           </div>
         </div>
@@ -320,7 +339,28 @@
               <p class="language__desc">Select the language to be displayed on the site</p>
               <div class="select">
                 <div class="select__header"><span class="select__current">Select languages</span></div>
-                <div class="select__body"><a class="select__option" data-lang="hu" href="/hu/index.html"><img class="select__flag" src="/img/language-hu.png" alt="hu"/><span class="select__country">Hungary</span></a><a class="select__option" data-lang="cz" href="/cz/index.html"><img class="select__flag" src="/img/language-cz.png" alt="cz"/><span class="select__country">Czech</span></a><a class="select__option" data-lang="ro" href="/ro/index.html"><img class="select__flag" src="/img/language-ro.png" alt="ro"/><span class="select__country">Romania</span></a><a class="select__option" data-lang="it" href="/it/index.html"><img class="select__flag" src="/img/language-it.png" alt="it"/><span class="select__country">Italy</span></a></div>
+                <div class="select__body">
+                  <!--a.select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                  <!--    img.select__flag(src='/img/language-hu.png' alt='hu')-->
+                  <!--    span.select__country Hungarian--><a class="select__option select__option--default" data-lang="cz" href="/index.html"><img class="select__flag" src="/img/language-cz.png" alt="cz"/><span class="select__country">Czech</span></a>
+                  <!--a.select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                  <!--    img.select__flag(src='/img/language-ro.png' alt='ro')-->
+                  <!--    span.select__country Romania--><a class="select__option" data-lang="it" href="/it/index.html"><img class="select__flag" src="/img/language-it.png" alt="it"/><span class="select__country">Italian</span></a>
+                  <!--a.select__option(data-lang='bg' href=url('bg', `/${page}.html`))-->
+                  <!--    img.select__flag(src='/img/language-bg.png' alt='bg')-->
+                  <!--    span.select__country Bulgarian-->
+                  <!---->
+                  <!--a.select__option(data-lang='ee' href=url('ee', `/${page}.html`))-->
+                  <!--    img.select__flag(src='/img/language-ee.png' alt='ee')-->
+                  <!--    span.select__country Estonian--><a class="select__option" data-lang="hr" href="/hr/index.html"><img class="select__flag" src="/img/language-hr.png" alt="hr"/><span class="select__country">Croatian</span></a>
+                  <!--a.select__option(data-lang='lt' href=url('lt', `/${page}.html`))-->
+                  <!--    img.select__flag(src='/img/language-lt.png' alt='lt')-->
+                  <!--    span.select__country Lithuanian-->
+                  <!---->
+                  <!--a.select__option(data-lang='lv' href=url('lv', `/${page}.html`))-->
+                  <!--    img.select__flag(src='/img/language-lv.png' alt='lv')-->
+                  <!--    span.select__country Latvian--><a class="select__option" data-lang="pl" href="/pl/index.html"><img class="select__flag" src="/img/language-pl.png" alt="pl"/><span class="select__country">Polish</span></a><a class="select__option" data-lang="pt" href="/pt/index.html"><img class="select__flag" src="/img/language-pt.png" alt="pt"/><span class="select__country">Portuguese</span></a><a class="select__option" data-lang="sl" href="/sl/index.html"><img class="select__flag" src="/img/language-sl.png" alt="sl"/><span class="select__country">Slovenian</span></a>
+                </div>
               </div>
             </div>
           </div>

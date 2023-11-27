@@ -1,6 +1,7 @@
 extends templates/layout/layout.pug
 block head
-    title Success
+    -var title = LANG.success.success_title
+    title Naturallic - #{title}
 block content
     include templates/success/header
     include templates/success/reviews
