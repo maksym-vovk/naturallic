@@ -335,25 +335,40 @@
 	&--narrow
 		.product-short
 			&__wrap-photo
-				margin-left: -20px
-				margin-right: 0
+				margin-right: 15px
+				//margin-left: -20px
+				//margin-right: 0
 	+r(1219)
 		padding: 10px
 		&--narrow
 			.product-short
 				&__wrap-photo
-					margin-left: -15px
+					margin-right: 10px
+					//margin-left: -15px
 	+r(1023)
 		display: block
+		&--narrow
+			.product-short
+			&__wrap-photo
+				margin-right: 0
+
 	+r(639)
 		display: flex
 		&--narrow
 			.product-short
 				&__wrap-photo
+					margin-right: 10px
 					margin-left: 0
 	+r(374)
-		display: block
+		flex-direction: column
+		text-align: center
+		//display: block
 		padding: 15px
+		&--narrow
+			.product-short
+				&__wrap-photo
+					margin-right: 0
+
 	&__wrap-photo
 		text-align: center
 		height: 150px
