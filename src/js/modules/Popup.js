@@ -46,6 +46,20 @@ const Popup = (function () {
       });
     },
     closePopup: function () {
+      const popup = document.querySelector('.js-popup')
+
+      popup.addEventListener('click', event => {
+        const { target } = event
+        const isOverlay = target.classList.contains('popup')
+
+        if (isOverlay) {
+          popUpBlock.removeClass("active");
+          linkShowPopUp.removeClass("active");
+          overlay.removeClass("active");
+          noScroll.off();
+        }
+      })
+
       $(".js-close").click(function (e) {
         e.preventDefault();
         popUpBlock.removeClass("active");

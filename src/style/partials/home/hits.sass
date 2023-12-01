@@ -1,18 +1,29 @@
 .hits-block
+	padding-top: 50px
 	padding-bottom: 50px
-	height: 840px
+	//height: 800px
 	+r(1023)
-		height: 770px
+		padding-top: 40px
+		padding-bottom: 40px
+		//height: 770px
 	+r(767)
-		height: 650px
+		padding-top: 30px
+		padding-bottom: 30px
+		//height: 650px
 	+r(639)
-		height: 610px
+		//height: 610px
 	+r(479)
-		height: auto
+		padding-top: 25px
+		padding-bottom: 25px
+		//height: auto
 	&__title
-		margin-bottom: 43px
-		+r(639)
-			margin-bottom: 30px
+		margin-bottom: 40px
+		+r(1023)
+			margin-bottom: 35px
+		+r(767)
+			margin-bottom: 25px
+		+r(479)
+			margin-bottom: 15px
 	.slick-arrow
 		top: -90px
 		&.next

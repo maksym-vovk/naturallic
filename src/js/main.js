@@ -27,18 +27,18 @@ $(function () {
   layout.layoutHandler({
     onInit: (layout) => {
       Sliders.initProductSlider();
-      if (layout.WIN_WIDTH >= 480) {
+      if (layout.WIN_WIDTH >= 768) {
         Sliders.initProductsSlider();
-      } else if (layout.WIN_WIDTH <= 479) {
+      } else if (layout.WIN_WIDTH <= 767) {
         Sliders.destroyProductsSlider();
       }
     },
 
     afterResize: (layout) => {
       Sliders.initProductSlider();
-      if (layout.WIN_WIDTH >= 480) {
+      if (layout.WIN_WIDTH >= 768) {
         Sliders.initProductsSlider();
-      } else if (layout.WIN_WIDTH <= 479) {
+      } else if (layout.WIN_WIDTH <= 767) {
         Sliders.destroyProductsSlider();
       }
     },

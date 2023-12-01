@@ -345,6 +345,10 @@ const Controls = (function () {
                     loader.classList.add("loader--hidden");
                 }, 500);
             });
+
+            setTimeout(function () {
+                loader.classList.add("loader--hidden");
+            }, 2500);
         },
         webpChecker: function () {
             const WebP = new Image();

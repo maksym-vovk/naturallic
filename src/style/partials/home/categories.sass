@@ -1,15 +1,23 @@
 .categories
-	padding-bottom: 100px
+	padding-top: 100px
+	padding-bottom: 50px
 	+r(1023)
-		padding-bottom: 50px
-	+r(767)
+		padding-top: 80px
 		padding-bottom: 40px
-	+r(639)
+	+r(767)
+		padding-top: 60px
 		padding-bottom: 30px
+	+r(479)
+		padding-top: 50px
+		padding-bottom: 25px
 	&__title
-		margin-bottom: 46px
-		+r(639)
-			margin-bottom: 30px
+		margin-bottom: 40px
+		+r(1023)
+			margin-bottom: 35px
+		+r(767)
+			margin-bottom: 25px
+		+r(479)
+			margin-bottom: 15px
 	&__list
 		display: flex
 		align-items: flex-start
@@ -67,6 +75,7 @@
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
 		font-weight: 400
 		font-size: 30px
+		text-align: center
 		line-height: 42px
 		text-transform: uppercase
 		color: $main-green
@@ -98,10 +107,13 @@
 	&__desc
 		font-family: 'Roboto', Arial, Helvetica, sans-serif
 		font-size: 22px
+		text-align: center
 		line-height: 23px
 		letter-spacing: -0.055em
 		color: #8B8F8F
 		margin-bottom: 40px
+		min-height: 60px
+
 		+r(1249)
 			margin-bottom: 30px
 		+r(1023)
