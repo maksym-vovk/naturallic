@@ -94,7 +94,6 @@ const Sliders = (function () {
         });
       });
     },
-
     initHeaderSlider: function () {
       headerSlider.on("init", function (event, slick, direction) {
         headerSlider.addClass("init");
@@ -159,15 +158,42 @@ const Sliders = (function () {
 
       window.addEventListener('resize', function() {
         const winWidth = window.innerWidth
-        winWidth <= 479 ? prodSlider.destroy() : false
+        winWidth <= 767 ? prodSlider.destroy() : false
       })
     },
     destroyProductsSlider: function () {
       productsSlider.filter(".slick-initialized").slick("unslick");
     },
+    setHitsSize: function () {
+      const hits = document.querySelector('.hits')
+      const products = hits ? [...hits.querySelectorAll('.product')] : null
+      function setHitsHeight() {
+        const productHeights = products ? [...products].map(prod => {
+          const paddingTop = parseInt(window.getComputedStyle(prod).paddingTop)
+          const paddingBottom = parseInt(window.getComputedStyle(prod).paddingBottom)
+          const contentHeight = prod.querySelector('.product__content').clientHeight
+          const buttonHeight = prod.querySelector('.product__btn').clientHeight
+          const buttonMarginTop = parseInt(window.getComputedStyle(prod.querySelector('.product__btn')).marginTop)
+
+          return Number(paddingTop + paddingBottom + contentHeight + buttonHeight + buttonMarginTop)
+        }) : null
+        const maxHeight = productHeights ? Math.max(...productHeights) : null
+
+        console.log(productHeights);
+        console.log(maxHeight);
+
+        window.innerWidth > 767 && maxHeight ? hits.style.height = maxHeight + 'px' : hits.style.height = 'auto'
+      }
+
+      if (hits) {
+        window.addEventListener('resize', setHitsHeight)
+        setHitsHeight()
+      }
+    },
     init: function () {
       Sliders.initHeaderSlider();
       Sliders.initReviewsSlider();
+      Sliders.setHitsSize();
     },
   };
 })();

@@ -21,7 +21,7 @@
     "mobile_menu_btn": "Zamów połączenie"
   },
   "callbackpopup": {
-    "callbackpopup_title": "Oddzwonimy do ciebie w celu & nbsp;wyjaśnienia szczegółów",
+    "callbackpopup_title": "Oddzwonimy do ciebie w celu wyjaśnienia szczegółów",
     "callbackpopup_field_name": "Imię",
     "callbackpopup_field_phone": "Numer telefonu",
     "callbackpopup_field_message": "Wiadomość",
@@ -63,7 +63,7 @@
     },
     "header": {
       "header_block_slide1_title": "Moc natury dla Twojego piękna",
-      "header_block_slide1_description": "Bezpieczna pielęgnacja cery dojrzałej w celu odmłodzenia i zapobiegania powstawaniu nowych zmarszczek",
+      "header_block_slide1_description": "Bezpieczna pielęgnacja cery dojrzałej w celu odmłodzenia i&nbsp;zapobiegania powstawaniu nowych zmarszczek",
       "header_block_slide2_title": "Naturalne składniki dla długowieczności",
       "header_block_slide2_description": "Skuteczne wsparcie zdrowia siłami natury i nowoczesnymi technologiami dla całej rodziny",
       "header_block_slide3_title": "Obfite zbiory bez zbędnych trudności",
@@ -78,7 +78,7 @@
       "category_block_title1": "Piękno",
       "category_block_description1": "Naturalne środki dla urody i młodości",
       "category_block_title2": "Zdrowie i odporność",
-      "category_block_description2": "Naturalne środki wspomagające zdrowie i wzmacniające odporność",
+      "category_block_description2": "Naturalne środki wspomagające zdrowie i&nbsp;wzmacniające odporność",
       "category_block_btn": "SZCZEGÓŁY"
     },
     "reviews": {
@@ -768,7 +768,7 @@
           "type": "empty-1"
         }
       ],
-      "text": "333 opinii",
+      "text": "221 opinii",
       "desc": "Produkt do oczu, który zatrzymuje starzeniowe pogorszenie wzroku",
       "link": "ophtalax.html",
       "category": "health",
@@ -803,7 +803,7 @@
           "type": "empty-1"
         }
       ],
-      "text": "333 opinii",
+      "text": "267 opinii",
       "desc": "Produkt na bazie roślinnej wzmacnia ściany naczyń krwionośnych i zapobiega rozwojowi hemoroidów",
       "link": "rectin.html",
       "category": "health",
@@ -870,7 +870,7 @@
   "product_card": {
     "product_card_bread_main": "Strona główna",
     "product_card_bread_catalog": "Katalog",
-    "product_niche": "<span>Kierunek: </span>",
+    "product_niche": "<span>Zastosowanie: </span>",
     "product_form_factor": "<span>Forma produkcji:&nbsp;</span>",
     "product_description": "Opis",
     "product_btn": "Zamów",
@@ -916,7 +916,7 @@
         }
       ],
       "text": "355 opinii",
-      "niche": "Kierunek: Odchudzanie"
+      "niche": "Zastosowanie: Odchudzanie"
     },
     {
       "link": "wintex.html",
@@ -949,7 +949,7 @@
         }
       ],
       "text": "305 opinii",
-      "niche": "Kierunek: Żylaki"
+      "niche": "Zastosowanie: Żylaki"
     },
     {
       "link": "exofeet.html",
@@ -982,7 +982,7 @@
         }
       ],
       "text": "288 opinii",
-      "niche": "Kierunek: Grzybica"
+      "niche": "Zastosowanie: Grzybica"
     },
     {
       "link": "paraxan.html",
@@ -1015,7 +1015,7 @@
         }
       ],
       "text": "276 opinii",
-      "niche": "Kierunek: Pasożyty"
+      "niche": "Zastosowanie: Pasożyty"
     },
     {
       "link": "deluron.html",
@@ -1048,7 +1048,7 @@
         }
       ],
       "text": "322 opinii",
-      "niche": "Kierunek: Zapalenie gruczołu krokowego"
+      "niche": "Zastosowanie: Zapalenie gruczołu krokowego"
     },
     {
       "link": "visoptic_night.html",
@@ -1081,7 +1081,7 @@
         }
       ],
       "text": "341 opinii",
-      "niche": "Kierunek: wzrok"
+      "niche": "Zastosowanie: wzrok"
     },
     {
       "link": "visoptic_day.html",
@@ -1114,7 +1114,7 @@
         }
       ],
       "text": "212 opinii",
-      "niche": "Kierunek: Wzrok"
+      "niche": "Zastosowanie: Wzrok"
     },
     {
       "link": "beauty_skin.html",
@@ -1147,7 +1147,7 @@
         }
       ],
       "text": "455 opinii",
-      "niche": "Kierunek: Odmłodzenie"
+      "niche": "Zastosowanie: Odmłodzenie"
     },
     {
       "link": "beauty_peeling.html",
@@ -1180,7 +1180,7 @@
         }
       ],
       "text": "288 opinii",
-      "niche": "Kierunek: Odmłodzenie"
+      "niche": "Zastosowanie: Odmłodzenie"
     },
     {
       "link": "ottomax.html",
@@ -1213,7 +1213,7 @@
         }
       ],
       "text": "341 opinii",
-      "niche": "Kierunek: Słuch"
+      "niche": "Zastosowanie: Słuch"
     },
     {
       "link": "vermixin.html",
@@ -1246,7 +1246,7 @@
         }
       ],
       "text": "315 opinii",
-      "niche": "Kierunek: Pasożyty"
+      "niche": "Zastosowanie: Pasożyty"
     },
     {
       "link": "wirex.html",
@@ -1279,7 +1279,7 @@
         }
       ],
       "text": "297 opinii",
-      "niche": "Kierunek: Potencja"
+      "niche": "Zastosowanie: Potencja"
     },
     {
       "link": "depanten.html",
@@ -1312,7 +1312,7 @@
         }
       ],
       "text": "323 opinii",
-      "niche": "Kierunek: Stawy"
+      "niche": "Zastosowanie: Stawy"
     },
     {
       "link": "feronex.html",
@@ -1345,7 +1345,7 @@
         }
       ],
       "text": "311 opinii",
-      "niche": "Kierunek: Potencja"
+      "niche": "Zastosowanie: Potencja"
     },
     {
       "link": "steplex.html",
@@ -1378,7 +1378,7 @@
         }
       ],
       "text": "287 opinii",
-      "niche": "Kierunek: Stawy"
+      "niche": "Zastosowanie: Stawy"
     },
     {
       "link": "neoveris.html",
@@ -1411,7 +1411,7 @@
         }
       ],
       "text": "234 opinii",
-      "niche": "Kierunek: Żylaki"
+      "niche": "Zastosowanie: Żylaki"
     },
     {
       "link": "keramin.html",
@@ -1444,7 +1444,7 @@
         }
       ],
       "text": "301 opinii",
-      "niche": "Kierunek: Grzybica"
+      "niche": "Zastosowanie: Grzybica"
     },
     {
       "link": "delislim.html",
@@ -1477,7 +1477,7 @@
         }
       ],
       "text": "333 opinii",
-      "niche": "Kierunek: Odchudzanie"
+      "niche": "Zastosowanie: Odchudzanie"
     },
     {
       "link": "ophtalax.html",
@@ -1509,8 +1509,8 @@
           "type": "empty-1"
         }
       ],
-      "text": "333 opinii",
-      "niche": "Kierunek: Wzrok"
+      "text": "221 opinii",
+      "niche": "Zastosowanie: Wzrok"
     },
     {
       "link": "rectin.html",
@@ -1542,8 +1542,8 @@
           "type": "empty-1"
         }
       ],
-      "text": "333 opinii",
-      "niche": "Kierunek: Hemoroidy"
+      "text": "267 opinii",
+      "niche": "Zastosowanie: Hemoroidy"
     }
   ],
 

@@ -165,7 +165,7 @@ ul, li
 	position: relative
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	transition: all .3s
-	+rm(480)
+	+rm(768)
 		background: $light-blue
 		color: $main-green
 		&--hovered
@@ -179,7 +179,7 @@ ul, li
 					opacity: 0
 				&::after
 					opacity: 1
-	+r(479)
+	+r(767)
 		border-radius: 20px
 		height: auto !important
 	&__label
@@ -301,12 +301,12 @@ ul, li
 	&__desc
 		font-weight: 400
 		font-size: 16px
-		line-height: 18px
+		line-height: 1.2
 		+r(767)
 			font-size: 14px
 		+r(479)
 			font-size: 13px
-			line-height: 1.2
+			//line-height: 1.2
 		+r(374)
 			height: auto
 	&__btn
@@ -329,10 +329,11 @@ ul, li
 		+r(767)
 			font-size: 16px
 			line-height: 45px
+			opacity: 1
 		+r(479)
 			font-size: 14px
 			line-height: 35px
-			opacity: 1
+
 
 
 .hits
@@ -341,18 +342,21 @@ ul, li
 	position: relative
 	left: calc(50% - 560px)
 	max-width: 1110px
-	height: 695px
+	height: 630px
 
 	& .swiper-wrapper
 		height: auto
 		align-items: flex-start
+
+		+r(767)
+			align-items: stretch
 
 	&__scrollbar
 		left: 50%
 		transform: translateX(-50%)
 		position: absolute
 		bottom: -30px
-		+r(479)
+		+r(767)
 			display: none
 
 	.product
@@ -361,6 +365,7 @@ ul, li
 		+nlt
 			margin-right: 20px
 	+r(1249)
+		height: 610px
 		left: calc(50% - 501px)
 
 		.product
@@ -369,37 +374,57 @@ ul, li
 	+r(1023)
 		left: calc(50% - 345px)
 		max-width: 690px
-		height: 615px
+		height: 590px
 		.product
 			max-width: 325px
 			padding: 25px 20px
+	//+r(767)
+	//	height: 475px
+	//	left: calc(50% - 290px)
+	//	max-width: 580px
+	//	.product
+	//		max-width: 280px
+	//		padding: 25px 15px
+	//+r(639)
+	//	left: calc(50% - 220px)
+	//	max-width: 440px
+	//	.product
+	//		max-width: 210px
 	+r(767)
-		height: 475px
-		left: calc(50% - 290px)
-		max-width: 580px
-		.product
-			max-width: 280px
-			padding: 25px 15px
-	+r(639)
-		left: calc(50% - 220px)
-		max-width: 440px
-		.product
-			max-width: 210px
-	+r(479)
+		width: 640px
+		max-width: 100%
 		height: auto
 		margin: 0 auto
 		left: 0
-		padding: 0 15px
+		padding: 0 30px
 		&__wrapper
 			flex-wrap: wrap
-			justify-content: center
+			gap: 16px
+			justify-content: space-between
 		.product
+			text-align: center
 			max-width: 100%
+			width: calc((100% / 2) - (16px / 2)) !important
 			padding: 40px 10px 20px 10px
 			+nlt
 				margin-right: 0
-			&:not(:nth-of-type(-n+1))
-				margin-top: 20px
+
+			&__rating
+				justify-content: center
+			//&:not(:nth-of-type(-n+1))
+			//	margin-top: 20px
+
+	+r(639)
+		width: 480px
+		padding: 0 20px
+
+		&__wrapper
+			justify-content: center
+
+		.product
+			width: 100% !important
+			max-width: 420px
+
 
 .breadcrumbs
 	font-family: 'Roboto', Arial, Helvetica, sans-serif

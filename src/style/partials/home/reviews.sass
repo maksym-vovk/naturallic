@@ -1,17 +1,24 @@
 .reviews
-	padding-top: 100px
-	padding-bottom: 42px
+	padding-top: 50px
+	padding-bottom: 50px
 	+r(1023)
-		padding-top: 50px
-	+r(767)
 		padding-top: 40px
-	+r(639)
+		padding-bottom: 40px
+	+r(767)
+		padding-top: 30px
 		padding-bottom: 30px
+
 	+r(479)
-		padding-bottom: 20px
-		padding-top: 20px
+		padding-bottom: 25px
+		padding-top: 25px
 	&__title
-		margin-bottom: 22px
+		margin-bottom: 40px
+		+r(1023)
+			margin-bottom: 35px
+		+r(767)
+			margin-bottom: 25px
+		+r(479)
+			margin-bottom: 15px
 	&__info
 		display: flex
 		align-items: center
@@ -33,7 +40,11 @@
 		color: $grey
 		text-transform: uppercase
 	&__list
-		margin-bottom: 54px
+		margin-bottom: 90px
+
+		+r(1023)
+			margin-bottom: 60px
+
 		+r(479)
 			margin-bottom: 30px
 	&__btn
@@ -131,7 +142,7 @@
 	&__name
 		font-weight: 400
 		font-size: 22px
-		line-height: 18px
+		line-height: 1.2
 		text-transform: uppercase
 		color: $main-green
 		margin-bottom: 4px
