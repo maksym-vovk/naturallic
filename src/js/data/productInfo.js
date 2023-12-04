@@ -6,6 +6,8 @@ export const productsInfo = {
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -13,6 +15,8 @@ export const productsInfo = {
             niche: 'Varice',
             country: 'Romania',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -20,6 +24,8 @@ export const productsInfo = {
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -27,6 +33,8 @@ export const productsInfo = {
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -34,6 +42,8 @@ export const productsInfo = {
             niche: 'Prostatita',
             country: 'Romania',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -41,6 +51,8 @@ export const productsInfo = {
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -48,6 +60,8 @@ export const productsInfo = {
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -55,6 +69,8 @@ export const productsInfo = {
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -62,6 +78,8 @@ export const productsInfo = {
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -69,6 +87,8 @@ export const productsInfo = {
             niche: 'Auz',
             country: 'Romania',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -76,6 +96,8 @@ export const productsInfo = {
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -83,6 +105,8 @@ export const productsInfo = {
             niche: 'Potență',
             country: 'Romania',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -90,6 +114,8 @@ export const productsInfo = {
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -97,6 +123,8 @@ export const productsInfo = {
             niche: 'Potență',
             country: 'Romania',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -104,6 +132,8 @@ export const productsInfo = {
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -111,6 +141,8 @@ export const productsInfo = {
             niche: 'Varice',
             country: 'Romania',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -118,6 +150,8 @@ export const productsInfo = {
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -125,6 +159,8 @@ export const productsInfo = {
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -132,6 +168,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Romania',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -139,6 +177,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Romania',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     hu: {
@@ -148,6 +188,8 @@ export const productsInfo = {
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -155,6 +197,8 @@ export const productsInfo = {
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -162,6 +206,8 @@ export const productsInfo = {
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -169,6 +215,8 @@ export const productsInfo = {
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -176,6 +224,8 @@ export const productsInfo = {
             niche: 'Prosztatagyulladás',
             country: 'Hungary',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -183,6 +233,8 @@ export const productsInfo = {
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -190,6 +242,8 @@ export const productsInfo = {
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -197,6 +251,8 @@ export const productsInfo = {
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -204,6 +260,8 @@ export const productsInfo = {
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -211,6 +269,8 @@ export const productsInfo = {
             niche: 'Hallás',
             country: 'Hungary',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -218,6 +278,8 @@ export const productsInfo = {
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -225,6 +287,8 @@ export const productsInfo = {
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -232,6 +296,8 @@ export const productsInfo = {
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -239,6 +305,8 @@ export const productsInfo = {
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -246,6 +314,8 @@ export const productsInfo = {
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -253,6 +323,8 @@ export const productsInfo = {
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -260,6 +332,8 @@ export const productsInfo = {
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -267,6 +341,8 @@ export const productsInfo = {
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -274,6 +350,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Hungary',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -281,6 +359,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Hungary',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     it: {
@@ -290,6 +370,8 @@ export const productsInfo = {
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -297,6 +379,8 @@ export const productsInfo = {
             niche: 'Varici',
             country: 'Italy',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -304,6 +388,8 @@ export const productsInfo = {
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -311,6 +397,8 @@ export const productsInfo = {
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -318,6 +406,8 @@ export const productsInfo = {
             niche: 'Prostatite',
             country: 'Italy',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -325,6 +415,8 @@ export const productsInfo = {
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -332,6 +424,8 @@ export const productsInfo = {
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -339,6 +433,8 @@ export const productsInfo = {
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -346,6 +442,8 @@ export const productsInfo = {
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -353,6 +451,8 @@ export const productsInfo = {
             niche: 'Udito',
             country: 'Italy',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -360,6 +460,8 @@ export const productsInfo = {
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -367,6 +469,8 @@ export const productsInfo = {
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -374,6 +478,8 @@ export const productsInfo = {
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -381,6 +487,8 @@ export const productsInfo = {
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -388,6 +496,8 @@ export const productsInfo = {
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -395,6 +505,8 @@ export const productsInfo = {
             niche: 'Varici',
             country: 'Italy',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -402,6 +514,8 @@ export const productsInfo = {
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -409,6 +523,8 @@ export const productsInfo = {
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -416,6 +532,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Italy',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -423,6 +541,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Italy',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     cz: {
@@ -432,6 +552,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Czech',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -439,6 +561,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Czech',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -446,6 +570,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Czech',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -453,6 +579,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Czech',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -460,6 +588,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Czech',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -467,6 +597,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -474,6 +606,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -481,6 +615,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Czech',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -488,6 +624,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Czech',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -495,6 +633,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Czech',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -502,6 +642,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Czech',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -509,6 +651,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Czech',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -516,6 +660,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Czech',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -523,6 +669,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Czech',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -530,6 +678,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Czech',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -537,6 +687,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Czech',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -544,6 +696,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Czech',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -551,6 +705,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Czech',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -558,6 +714,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Czech',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -565,6 +723,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Czech',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     bg: {
@@ -574,6 +734,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Bulgaria',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -581,6 +743,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Bulgaria',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -588,6 +752,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Bulgaria',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -595,6 +761,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Bulgaria',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -602,6 +770,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Bulgaria',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -609,6 +779,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Bulgaria',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -616,6 +788,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Bulgaria',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -623,6 +797,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Bulgaria',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -630,6 +806,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Bulgaria',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -637,6 +815,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Bulgaria',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -644,6 +824,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Bulgaria',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -651,6 +833,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Bulgaria',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -658,6 +842,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Bulgaria',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -665,6 +851,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Bulgaria',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -672,6 +860,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Bulgaria',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -679,6 +869,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Bulgaria',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -686,6 +878,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Bulgaria',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -693,6 +887,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Bulgaria',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -700,6 +896,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Bulgaria',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -707,6 +905,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Bulgaria',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     ee: {
@@ -716,6 +916,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Estonia',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -723,6 +925,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Estonia',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -730,6 +934,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Estonia',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -737,6 +943,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Estonia',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -744,6 +952,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Estonia',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -751,6 +961,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Estonia',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -758,6 +970,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Estonia',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -765,6 +979,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Estonia',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -772,6 +988,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Estonia',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -779,6 +997,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Estonia',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -786,6 +1006,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Estonia',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -793,6 +1015,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Estonia',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -800,6 +1024,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Estonia',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -807,6 +1033,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Estonia',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -814,6 +1042,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Estonia',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -821,6 +1051,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Estonia',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -828,6 +1060,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Estonia',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -835,6 +1069,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Estonia',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -842,6 +1078,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Estonia',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -849,6 +1087,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Estonia',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     hr: {
@@ -858,6 +1098,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Croatia',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -865,6 +1107,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Croatia',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -872,6 +1116,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Croatia',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -879,6 +1125,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Croatia',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -886,6 +1134,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Croatia',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -893,6 +1143,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Croatia',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -900,6 +1152,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Croatia',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -907,6 +1161,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Croatia',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -914,6 +1170,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Croatia',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -921,6 +1179,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Croatia',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -928,6 +1188,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Croatia',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -935,6 +1197,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Croatia',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -942,6 +1206,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Croatia',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -949,6 +1215,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Croatia',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -956,6 +1224,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Croatia',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -963,6 +1233,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Croatia',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -970,6 +1242,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Croatia',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -977,6 +1251,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Croatia',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -984,6 +1260,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Croatia',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -991,6 +1269,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Croatia',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     lt: {
@@ -1000,6 +1280,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Lithuania',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -1007,6 +1289,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Lithuania',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -1014,6 +1298,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Lithuania',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -1021,6 +1307,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Lithuania',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -1028,6 +1316,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Lithuania',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -1035,6 +1325,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Lithuania',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -1042,6 +1334,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Lithuania',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1049,6 +1343,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Lithuania',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -1056,6 +1352,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Lithuania',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -1063,6 +1361,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Lithuania',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -1070,6 +1370,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Lithuania',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -1077,6 +1379,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Lithuania',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -1084,6 +1388,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Lithuania',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -1091,6 +1397,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Lithuania',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -1098,6 +1406,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Lithuania',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -1105,6 +1415,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Lithuania',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -1112,6 +1424,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Lithuania',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -1119,6 +1433,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Lithuania',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -1126,6 +1442,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Lithuania',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -1133,6 +1451,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Lithuania',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     lv: {
@@ -1142,6 +1462,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Latvia',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -1149,6 +1471,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Latvia',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -1156,6 +1480,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Latvia',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -1163,6 +1489,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Latvia',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -1170,6 +1498,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Latvia',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -1177,6 +1507,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Latvia',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -1184,6 +1516,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Latvia',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1191,6 +1525,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Latvia',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -1198,6 +1534,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Latvia',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -1205,6 +1543,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Latvia',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -1212,6 +1552,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Latvia',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -1219,6 +1561,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Latvia',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -1226,6 +1570,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Latvia',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -1233,6 +1579,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Latvia',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -1240,6 +1588,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Latvia',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -1247,6 +1597,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Latvia',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -1254,6 +1606,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Latvia',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -1261,6 +1615,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Latvia',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -1268,6 +1624,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Latvia',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -1275,6 +1633,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Latvia',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     pt: {
@@ -1284,6 +1644,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Portugal',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -1291,6 +1653,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Portugal',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -1298,6 +1662,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Portugal',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -1305,6 +1671,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Portugal',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -1312,6 +1680,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Portugal',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -1319,6 +1689,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Portugal',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -1326,6 +1698,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Portugal',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1333,6 +1707,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Portugal',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -1340,6 +1716,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Portugal',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -1347,6 +1725,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Portugal',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -1354,6 +1734,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Portugal',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -1361,6 +1743,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Portugal',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -1368,6 +1752,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Portugal',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -1375,6 +1761,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Portugal',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -1382,6 +1770,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Portugal',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -1389,6 +1779,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Portugal',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -1396,6 +1788,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Portugal',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -1403,6 +1797,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Portugal',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -1410,6 +1806,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Portugal',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -1417,6 +1815,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Portugal',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     pl: {
@@ -1426,6 +1826,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Pol',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -1433,6 +1835,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Pol',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -1440,6 +1844,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Pol',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -1447,6 +1853,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Pol',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -1454,6 +1862,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Pol',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -1461,6 +1871,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Pol',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -1468,6 +1880,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Pol',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1475,6 +1889,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Pol',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -1482,6 +1898,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Pol',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -1489,6 +1907,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Pol',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -1496,6 +1916,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Pol',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -1503,6 +1925,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Pol',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -1510,6 +1934,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Pol',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -1517,6 +1943,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Pol',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -1524,6 +1952,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Pol',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -1531,6 +1961,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Pol',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -1538,6 +1970,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Pol',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -1545,6 +1979,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Pol',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -1552,6 +1988,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Pol',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -1559,6 +1997,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Pol',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
     sl: {
@@ -1568,6 +2008,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Slovenia',
             productName: 'GUAVITAL+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wintex: {
             company: 'everad',
@@ -1575,6 +2017,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Slovenia',
             productName: 'Wintex Ultra',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         exofeet_oil: {
             company: 'rocketProfit',
@@ -1582,6 +2026,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Slovenia',
             productName: 'Exofeet Oil',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         paraxan: {
             company: 'rocketProfit',
@@ -1589,6 +2035,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Slovenia',
             productName: 'Paraxan',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         deluron: {
             company: 'rocketProfit',
@@ -1596,6 +2044,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Slovenia',
             productName: 'Deluron Forte',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic_night: {
             company: 'everad',
@@ -1603,6 +2053,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Slovenia',
             productName: 'Visoptic DUO Night',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         visoptic: {
             company: 'everad',
@@ -1610,6 +2062,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Slovenia',
             productName: 'Visoptic DUO Day',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1617,6 +2071,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Slovenia',
             productName: 'Beauty Age Skin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         beauty_peeling: {
             company: 'everad',
@@ -1624,6 +2080,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Slovenia',
             productName: 'Beauty Age Skin Peeling',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ottomax: {
             company: 'everad',
@@ -1631,6 +2089,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Slovenia',
             productName: 'Ottomax+',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         vermixin: {
             company: 'everad',
@@ -1638,6 +2098,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Slovenia',
             productName: 'Vermixin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         wirex: {
             company: 'rocketProfit',
@@ -1645,6 +2107,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Slovenia',
             productName: 'Wirex men’s formula',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         depanten: {
             company: 'everad',
@@ -1652,6 +2116,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Slovenia',
             productName: 'Depanten',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         feronex: {
             company: 'everad',
@@ -1659,6 +2125,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Slovenia',
             productName: 'Feronex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         steplex: {
             company: 'rocketProfit',
@@ -1666,6 +2134,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Slovenia',
             productName: 'Steplex',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         neoveris: {
             company: 'everad',
@@ -1673,6 +2143,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Slovenia',
             productName: 'Neoveris',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         keramin: {
             company: 'everad',
@@ -1680,6 +2152,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Slovenia',
             productName: 'Keramin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         delislim: {
             company: 'everad',
@@ -1687,6 +2161,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Slovenia',
             productName: 'Delislim',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         ophtalax: {
             company: 'everad',
@@ -1694,6 +2170,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Slovenia',
             productName: 'Ophtalax',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
         rectin: {
             company: 'everad',
@@ -1701,6 +2179,8 @@ export const productsInfo = {
             niche: 'NULL',
             country: 'Slovenia',
             productName: 'Rectin',
+            oldPrice: "800",
+            newPrice: "79 935",
         },
     },
 }
