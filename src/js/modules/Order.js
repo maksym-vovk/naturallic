@@ -3,6 +3,10 @@ import {formSetting} from "../data/orderFormSettings";
 
 const Order = (function () {
     "use strict";
+
+    const buttonPromocode = $(".js-button-promocode");
+    const inputPromocode = $(".js-input-promocode");
+
     const productResidue = $(".js-product-residue");
     const inputChatbotHistory = $(`input[name="chatbot_history"]`);
 
@@ -114,6 +118,80 @@ const Order = (function () {
                 $(".js-counter-number").html(count);
             });
         },
+        calcSaleProduct: function () {
+            const productName = getParameterByName("id");
+            const productInfo = info[`${productName}`];
+            const productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
+            const productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
+            const saleProduct = productNewPrice - productSalePrice;
+            $(".js-sale-product").html(prettify(saleProduct * count));
+        },
+        calcOrderProduct: function (count = 1) {
+            const priceProduct = Number(
+                $(".js-price-product").text().replace(/\s/g, "") * count
+            );
+            const saleProduct = Number(
+                $(".js-sale-product").text().replace(/\s/g, "")
+            );
+
+            let priceOrder = 0;
+            if (priceProduct >= saleProduct) {
+                priceOrder = priceProduct - saleProduct;
+            } else {
+                priceOrder = saleProduct - priceProduct;
+            }
+
+            $(".js-price-order").html(prettify(priceOrder));
+
+            //фіксуємо всю суму замовлення
+            $(`input[name='total-price']`).val(priceOrder);
+        },
+        validatePromocode: function (promocode) {
+            buttonPromocode.click(function (e) {
+                e.preventDefault();
+                const valueInput = inputPromocode.val().trim();
+                if (valueInput === promocode) {
+                    inputPromocode.addClass("check");
+                    inputPromocode.attr("readonly", true);
+                    buttonPromocode.attr("disabled", true);
+                    const productName = getParameterByName("id");
+                    // const productInfo = info[`${productName}`];
+                    const productInfo = productsInfo[`${localStorage.getItem('localization')}`][`${productName}`]
+                    const productSalePrice = Number(
+                        productInfo.salePrice.replace(/\s/g, "")
+                    );
+                    const productNewPrice = Number(
+                        productInfo.newPrice.replace(/\s/g, "")
+                    );
+
+                    //Фіксуємо, що користувач увів правильний промокод
+                    $(`input[name='discount-price']`).val(
+                        productNewPrice - productSalePrice
+                    );
+
+                    const countProduct = $(".price-item .js-counter-number").text();
+                    const saleProduct =
+                        (productNewPrice - productSalePrice) * countProduct;
+
+                    $(".js-sale-product").html(prettify(saleProduct));
+
+                    Order.calcOrderProduct(countProduct);
+                } else {
+                    inputPromocode.addClass("error");
+                }
+            });
+        },
+        checkButtonActive: function () {
+            inputPromocode.on("input", function () {
+                const _this = $(this);
+                const value = _this.val();
+                if (value.length >= 1) {
+                    buttonPromocode.attr("disabled", false);
+                } else {
+                    buttonPromocode.attr("disabled", true);
+                }
+            });
+        },
         createSuccessPage: function () {
             const paramProduct = getParameterByName("id");
             $(".js-success-product-name").html(paramProduct);
@@ -134,6 +212,10 @@ const Order = (function () {
         init: function () {
             Order.createOrderForm();
             Order.choiceCountProduct();
+            Order.calcSaleProduct();
+            Order.calcOrderProduct();
+            Order.validatePromocode(1111);
+            Order.checkButtonActive();
             Order.createSuccessPage();
             Order.showResiudePack();
             Order.submitForm();
