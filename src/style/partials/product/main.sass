@@ -74,11 +74,61 @@
 		line-height: 18px
 		color: $main-green
 	&__list
+		margin-bottom: 20px
+
+	&__price
+		display: flex
+		justify-content: flex-start
+		align-items: flex-end
 		margin-bottom: 40px
 		+r(1249)
 			margin-bottom: 25px
 		+r(479)
 			margin-bottom: 20px
+	&__price-text
+		font-size: 24px
+		line-height: 1.1
+		color: $main-green
+	&__price-col
+		+nlt
+			margin-right: 15px
+		&--new
+			color: $main-green
+			.product-item
+				&__value
+					//font-weight: bold
+					font-size: 40px
+				&__currency
+					font-size: 30px
+		&--old
+			color: $main-green
+			position: relative
+			&::after
+				content: ''
+				display: block
+				position: absolute
+				top: 27%
+				left: -5px
+				right: -5px
+				height: 2px
+				background: $gold
+				transform: rotate(-14deg)
+				transform-origin: center
+			.product-item
+				&__value
+					font-size: 35px
+				&__currency
+					font-size: 20px
+		+r(479)
+			&--new
+				.product-item
+				&__value
+					font-size: 38px
+				&__currency
+					font-size: 24px
+	&__currency
+		margin-left: 3px
+		display: inline-block
 	&__btn
 		margin-bottom: 50px
 		max-width: 278px

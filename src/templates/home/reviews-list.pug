@@ -1,15 +1,14 @@
 include ../mixins/review
 include ../data/index
-- var REVIEWS = LANG.reviews;
-
 
 -
+    var REVIEWS = LANG.reviews;
+
     let array = [
         ...REVIEWS.reviews_beauty_age_skin_peeling.splice(0,5),
         ...REVIEWS.reviews_beauty_age_skin.splice(0,5),
         ...REVIEWS.reviews_delislim.splice(0,5),
         ...REVIEWS.reviews_deluron.splice(0,5),
-        ...REVIEWS.reviews_depanten.splice(0,5),
         ...REVIEWS.reviews_exofeet.splice(0,5),
         ...REVIEWS.reviews_feronex.splice(0,5),
         ...REVIEWS.reviews_guavital.splice(0,5),
@@ -18,14 +17,22 @@ include ../data/index
         ...REVIEWS.reviews_ottomax.splice(0,5),
         ...REVIEWS.reviews_paraxan.splice(0,5),
         ...REVIEWS.reviews_steplex.splice(0,5),
-        ...REVIEWS.reviews_vermixin.splice(0,5),
         ...REVIEWS.reviews_visoptic_duo_day.splice(0,5),
         ...REVIEWS.reviews_visoptic_duo_night.splice(0,5),
         ...REVIEWS.reviews_wintex_ultra.splice(0,5),
         ...REVIEWS.reviews_wirex_mens_formula.splice(0,5),
         ...REVIEWS.reviews_ophtalax.splice(0,5),
         ...REVIEWS.reviews_rectin.splice(0,5)
-    ]
+    ];
+
+    if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
+        array.push(...REVIEWS.reviews_depanten.splice(0,5))
+    };
+
+    if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv'
+        && LANG.locale !== 'pl' && LANG.locale !== 'bg' && LANG.locale !== 'it') {
+        array.push(...REVIEWS.reviews_vermixin.splice(0,5))
+    };
 
     const perChunk = 2;
 

@@ -1,4 +1,5 @@
 - var ORDERPAGEFORM = LANG.orderpageform;
+- var PRODINFO = LANG.product_info;
 
 
 section.order-block
@@ -26,28 +27,28 @@ section.order-block
                                     | >
 
                         .contacts-form__promocode.promocode
-                            input.promocode__input.js-input-promocode(type="text" name="promocode" placeholder="Vale" autocomplete="off")
-                            button.promocode__btn.js-button-promocode(disabled) Aplicar
+                            input.promocode__input.js-input-promocode(type="text" name="promocode" placeholder=ORDERPAGEFORM.orderpageform_promo_plh autocomplete="off")
+                            button.promocode__btn.js-button-promocode(disabled)!= ORDERPAGEFORM.orderpageform_promo_btn
 
                         .contacts-form__price
                             .contacts-form__price-item.price-item
-                                p.price-item__text Precio
+                                p.price-item__text!= ORDERPAGEFORM.orderpageform_price
                                 p.price-item__value
                                     span.js-price-product
-                                    span.js-currency!= CURRENCY
+                                    span.js-currency!= PRODINFO.currency
                             .contacts-form__price-item.price-item
-                                p.price-item__text Cantidad
+                                p.price-item__text!= ORDERPAGEFORM.orderpageform_quantity
                                 p.price-item__value.js-counter-number 1
                             .contacts-form__price-item.price-item
-                                p.price-item__text Descuento
+                                p.price-item__text!= ORDERPAGEFORM.orderpageform_discount
                                 p.price-item__value
                                     span.js-sale-product 0
-                                    span.js-currency!= CURRENCY
+                                    span.js-currency!= PRODINFO.currency
                             .contacts-form__price-item.price-item.price-item--main
-                                p.price-item__text Suma
+                                p.price-item__text!= ORDERPAGEFORM.orderpageform_total
                                 p.price-item__value
                                     span.js-price-order
-                                    span.js-currency!= CURRENCY
+                                    span.js-currency!= PRODINFO.currency
 
                         button.contacts-form__btn.btn(type='submit')!=ORDERPAGEFORM.orderpageform_btn
 
@@ -55,6 +56,10 @@ section.order-block
                         input.js-data(type='hidden' name='product' value='')
                         input.js-data(type='hidden' name='count' value='')
                         input.js-data(type='hidden' name='country' value='')
+                        input.js-data(type='hidden' name='company' value='Naturallic')
+                        input.js-data(type='hidden' name='price' value='')
+                        input.js-data(type='hidden' name='discount-price' value='')
+                        input.js-data(type='hidden' name='total-price' value='')
 
                         input(type='hidden' name='lang' value='')
                         input(type='hidden' name='campaign_id' value='')

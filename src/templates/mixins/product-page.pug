@@ -9,7 +9,11 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
         var PRODUCT_CATEGORY = PRODUCT_OBJ.category
         var PRODUCT_IMAGE_SRC = PRODUCT_OBJ.srcPhoto.split('.')[0]
         var PRODUCT_STARS = PRODUCT_OBJ.stars
-    
+
+        var PRICE_TITLE = LANG.orderpageform.orderpageform_price
+        var PRICE_INFO = LANG.product_info[PRODUCT_OBJ.tag] || null
+        var CURRENCY = LANG.product_info.currency
+
     section.product-item
         .container
             .product-item__breadcrumbs.breadcrumbs
@@ -63,6 +67,13 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
                         li.product-list__item
                             !=PRODUCT_CARD.product_form_factor
                             !=CURRENT_PRODUCT.form_factor
+                    if PRICE_INFO
+                        .product-item__price
+                            .product-item__price-col
+                                p.product-item__price-text #{PRICE_TITLE}:
+                            .product-item__price-col.product-item__price-col--new
+                                span.product-item__value!= PRICE_INFO.newPrice
+                                span.product-item__currency!= CURRENCY
                     a.product-item__btn.button.button--gold(href='order.html?id=' + PRODUCT_KEY)!=PRODUCT_CARD.product_btn
                     p.product-item__text!=CURRENT_PRODUCT.short_description
                     .product-item__description.js-accordeon

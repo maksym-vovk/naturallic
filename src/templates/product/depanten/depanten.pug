@@ -1,6 +1,8 @@
 include ../../mixins/product-page
 
 -
+	var isRender = LANG.locale !== 'ee' && LANG.locale !== 'lv' && LANG.locale !== 'lt'
+
 	var PRODUCT_NAME = 'Depanten'
 	var PRODUCT_CARD = LANG.product_card;
 	var CURRENT_PRODUCT = LANG.depanten;
@@ -8,4 +10,5 @@ include ../../mixins/product-page
 	var REVIEWS = LANG.reviews.reviews_depanten;
 	REVIEWS.length = 3;
 
-+productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)
+if isRender
+	+productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)
