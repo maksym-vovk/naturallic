@@ -194,9 +194,6 @@ const Controls = (function () {
                 langOptionDefault.classList.add('lang-select__option--active')
             })
 
-            console.log(savedLanguage);
-            console.log(isSavedDefault);
-
             langOptions.forEach((option) => {
                 option.addEventListener('click', () => {
                     localStorage.setItem("localization", option.dataset.lang);
@@ -256,8 +253,11 @@ const Controls = (function () {
 
             let productCards = document.querySelectorAll(".product");
 
-            const setProductHeight = () => {
-                const productDetails = document.querySelector(".product__btn")
+            const setProductHeight = (currentProds) => {
+                const productDetails = [...document.querySelectorAll(".product__btn")].filter(btn => {
+                    return btn.clientHeight > 0
+                })[0]
+
                 if (productDetails) {
                     const productDetailsBtnHeight = productDetails.clientHeight + 15;
                     const cardsHeightArray = [...productCards].map(card => card.clientHeight);
@@ -266,6 +266,8 @@ const Controls = (function () {
                     productCards.forEach((card, index) => {
                         const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`;
                         card.style.height = newCardHeight;
+
+
 
                         card.addEventListener(
                             "mouseover",
@@ -286,6 +288,33 @@ const Controls = (function () {
                 }
             };
 
+            const setNameAndDescHeight = () => {
+                const winWidth = window.innerWidth;
+
+                const prodNames = document.querySelectorAll('.product__name')
+                const prodTexts = document.querySelectorAll('.product__desc')
+
+
+                if (winWidth > 639) {
+                    prodNames.forEach(name => name.style.minHeight = 'auto')
+                    prodTexts.forEach(text => text.style.minHeight = "auto")
+
+                    const prodNamesHeight = [...prodNames].map(name => name.clientHeight)
+                    const prodTextsHeight = [...prodTexts].map(text => text.clientHeight)
+
+                    const maxNameHeight = Math.max(...prodNamesHeight)
+                    const maxTextHeight = Math.max(...prodTextsHeight)
+                    // console.log(maxNameHeight);
+
+                    prodNames.forEach(name => name.style.minHeight = maxNameHeight + 'px')
+                    prodTexts.forEach(text => text.style.minHeight = maxTextHeight + 'px')
+                } else {
+                    prodTexts.forEach(text => text.style.minHeight = "auto")
+                    prodNames.forEach(name => name.style.minHeight = 'auto')
+                }
+
+            }
+
             const updateProductCards = () =>
                 (productCards = document.querySelectorAll(".product"));
 
@@ -302,12 +331,19 @@ const Controls = (function () {
                 card.classList.remove("product--hovered");
             };
 
-            const resetCardsHeight = () =>
+            const resetCardsHeight = () => {
+                const prodTexts = document.querySelectorAll('.product__desc')
+
                 productCards.forEach(card => card.style.height = "auto");
+                prodTexts.forEach(text => text.style.minHeight = "auto")
+            }
 
             window.addEventListener("load", () => {
                 resetCardsHeight();
                 const winWidth = window.innerWidth;
+
+                setNameAndDescHeight()
+
                 if (winWidth > 479) {
                     setProductHeight();
                 }
@@ -316,6 +352,9 @@ const Controls = (function () {
             window.addEventListener("resize", () => {
                 resetCardsHeight();
                 const winWidth = window.innerWidth;
+
+                setNameAndDescHeight()
+
                 if (winWidth > 479) {
                     setProductHeight();
                 }
@@ -325,6 +364,7 @@ const Controls = (function () {
                 btn.addEventListener("click", () => {
                     resetCardsHeight();
                     updateProductCards();
+                    setNameAndDescHeight()
                     setProductHeight();
                 });
             });
@@ -333,6 +373,7 @@ const Controls = (function () {
                 tab.addEventListener("click", () => {
                     resetCardsHeight();
                     updateProductCards();
+                    setNameAndDescHeight()
                     setProductHeight();
                 });
             });

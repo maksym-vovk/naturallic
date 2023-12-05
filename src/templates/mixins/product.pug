@@ -1,4 +1,8 @@
 mixin product(item)
+	- var PROD_INFO = LANG.product_info[item.tag] || null
+	- var PRICE_TITLE = LANG.orderpageform.orderpageform_price
+	- var CURRENCY = LANG.product_info.currency
+
 	.product.js-product.swiper-slide
 		.product__content
 			p.product__label!= item.label
@@ -16,4 +20,13 @@ mixin product(item)
 							img(src=star.src, alt="star")
 				p.product__rating-text!= item.text
 			p.product__desc!= item.desc
+
+			if PROD_INFO
+				.product__price
+					.product__price-col
+						p.product__price-text #{PRICE_TITLE}:
+					.product__price-col.product__price-col--new
+						span.product__value!= PROD_INFO.newPrice
+						span.product__currency!= CURRENCY
+
 		a.product__btn(href=item.link)!=item.btn

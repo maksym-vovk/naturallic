@@ -157,6 +157,7 @@ ul, li
 	display: flex
 	flex-direction: column
 	justify-content: space-between
+	text-align: center
 	background: $main-green
 	color: white
 	border-radius: 40px
@@ -179,6 +180,8 @@ ul, li
 					opacity: 0
 				&::after
 					opacity: 1
+			.product__price-text, .product__price-col--new
+				color: white
 	+r(767)
 		border-radius: 20px
 		height: auto !important
@@ -230,9 +233,13 @@ ul, li
 			img
 				width: 145px
 	&__name
+		display: flex
+		justify-content: center
+		align-items: center
 		font-weight: 400
 		font-size: 22px
-		line-height: 18px
+		line-height: 1.2
+		//min-height: 55px
 		text-transform: uppercase
 		margin-bottom: 13px
 		+r(767)
@@ -244,6 +251,7 @@ ul, li
 		margin-bottom: 13px
 		display: flex
 		align-items: center
+		justify-content: center
 		+r(479)
 			margin-bottom: 8px
 	&__rating-stars
@@ -302,6 +310,7 @@ ul, li
 		font-weight: 400
 		font-size: 16px
 		line-height: 1.2
+		margin-bottom: 15px
 		+r(767)
 			font-size: 14px
 		+r(479)
@@ -309,6 +318,74 @@ ul, li
 			//line-height: 1.2
 		+r(374)
 			height: auto
+
+	&__price
+		display: flex
+		align-items: baseline
+		justify-content: center
+		//margin-bottom: 20px
+	&__price-text
+		color: $main-green
+		font-size: 20px
+		+r(767)
+			font-size: 18px
+			color: white
+		+r(639)
+			font-size: 16px
+	&__price-col
+		+nlt
+			margin-right: 10px
+		&--new
+			color: $main-green
+			+r(767)
+				color: white
+			.product
+				&__value
+					//font-weight: bold
+					font-size: 30px
+					+r(1249)
+						font-size: 28px
+					+r(1023)
+						font-size: 26px
+				&__currency
+					font-size: 20px
+		&--old
+			color: $main-green
+			position: relative
+			transition: all .3s
+			&::after
+				content: ''
+				display: block
+				position: absolute
+				top: 40%
+				left: -2px
+				right: -2px
+				height: 2px
+				background: $gold
+				transform: rotate(-14deg)
+				transform-origin: center
+			.product
+				&__value
+					font-size: 30px
+				&__currency
+					font-size: 20px
+		+r(639)
+			&--new
+				.product
+				&__value
+					font-size: 21px
+				&__currency
+					font-size: 16px
+			&--old
+				.product
+				&__value
+					font-size: 24px
+				&__currency
+					font-size: 15px
+	&__currency
+		margin-left: 3px
+		display: inline-block
+
 	&__btn
 		max-width: 100%
 		width: 100%

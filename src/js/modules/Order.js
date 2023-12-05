@@ -14,6 +14,11 @@ const Order = (function () {
         inputChatbotHistory.val(JSON.stringify(data));
     }
 
+    function prettify(num) {
+        var n = num.toString();
+        return n.replace(/(\d{1,3}(?=(?:\d\d\d)+(?!\d)))/g, "$1" + " ");
+    }
+
     let data = [];
     let count = 1;
 
@@ -55,7 +60,7 @@ const Order = (function () {
             const productNameUnderscore = String(productName).split('-').join('_')
             const prodNameWithSpaces = String(productName).split('-').join(' ')
             const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false
-            console.log(productNameUnderscore);
+            // console.log(productNameUnderscore);
 
             if (productName) {
                 const orderForm = document.querySelector('#order-form')
@@ -85,10 +90,13 @@ const Order = (function () {
                     body.appendChild(script)
                 }
 
-                console.log(productName);
+                // console.log(productName);
+                const productInfo = productsInfo[`${localStorage.getItem('localization')}`][`${productName}`];
+                const productNewPrice = productInfo.newPrice;
+
                 $(".js-product-name").html(prodNameWithSpaces);
                 $(".js-product-photo").attr("src", `../img/${productName}.png`);
-
+                $(".js-price-product").html(productNewPrice);
                 $(`input[name='campaign_id']`).val(productData.campaign_id);
                 $(`input[name='redirect_url']`).val(`success.html?id=${productName}`);
 
@@ -108,6 +116,13 @@ const Order = (function () {
                     count = 20;
                 }
                 $(".js-counter-number").html(count);
+
+                const valueSale = $(".js-sale-product").text();
+
+                if (Number(valueSale.replace(/\s/g, "")) > 0) {
+                    Order.calcSaleProduct();
+                }
+                Order.calcOrderProduct(count);
             });
             $(".js-counter-arrow-dec").click(function (e) {
                 e.preventDefault();
@@ -116,11 +131,19 @@ const Order = (function () {
                     count = 1;
                 }
                 $(".js-counter-number").html(count);
+
+                const valueSale = $(".js-sale-product").text();
+
+                if (Number(valueSale.replace(/\s/g, "")) > 0) {
+                    Order.calcSaleProduct();
+                }
+                Order.calcOrderProduct(count);
             });
         },
         calcSaleProduct: function () {
             const productName = getParameterByName("id");
-            const productInfo = info[`${productName}`];
+            // const productInfo = info[`${productName}`];
+            const productInfo = productsInfo[`${localStorage.getItem('localization')}`][`${productName}`]
             const productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
             const productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
             const saleProduct = productNewPrice - productSalePrice;
@@ -212,13 +235,13 @@ const Order = (function () {
         init: function () {
             Order.createOrderForm();
             Order.choiceCountProduct();
-            Order.calcSaleProduct();
-            Order.calcOrderProduct();
-            Order.validatePromocode(1111);
-            Order.checkButtonActive();
             Order.createSuccessPage();
-            Order.showResiudePack();
             Order.submitForm();
+            Order.calcOrderProduct();
+            Order.validatePromocode('1111');
+            Order.checkButtonActive();
+            Order.showResiudePack();
+            // Order.calcSaleProduct();
         },
     };
 })();

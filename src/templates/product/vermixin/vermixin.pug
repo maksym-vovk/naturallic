@@ -1,6 +1,7 @@
 include ../../mixins/product-page
 
 -
+	var isRender = LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv' && LANG.locale !== 'pl' && LANG.locale !== 'bg' && LANG.locale !== 'it'
 	var PRODUCT_NAME = 'Vermixin'
 	var PRODUCT_CARD = LANG.product_card;
 	var CURRENT_PRODUCT = LANG.vermixin;
@@ -8,4 +9,5 @@ include ../../mixins/product-page
 	var REVIEWS = LANG.reviews.reviews_vermixin;
 	REVIEWS.length = 3;
 
-+productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)
+if isRender
+	+productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)

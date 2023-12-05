@@ -1,10 +1,20 @@
 include ../mixins/product
-- var CATALOG = LANG.catalog;
-- var PRODUCTS = LANG.hits
-
 -
-	const healthProducts = PRODUCTS.filter(product => product.category === 'health')
-	const beautyProducts = PRODUCTS.filter(product => product.category === 'beauty')
+	var CATALOG = LANG.catalog;
+	var PRODUCTS = LANG.hits
+
+	let healthProducts = PRODUCTS.filter(product => product.category === 'health')
+	let beautyProducts = PRODUCTS.filter(product => product.category === 'beauty')
+
+	if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
+
+	}
+
+	if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'
+		|| LANG.locale === 'pl' || LANG.locale === 'bg' || LANG.locale === 'it') {
+		healthProducts = healthProducts.filter(prod => prod.tag !== 'vermixin')
+		beautyProducts = beautyProducts.filter(prod => prod.tag !== 'vermixin')
+	};
 
 	const preloadedHealthProducts = healthProducts.filter((product, index) => index <= 8)
 	const restHealthProducts = healthProducts.filter((product, index) => index > 8)
