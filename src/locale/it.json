@@ -210,7 +210,7 @@
       ],
       "text": "288 recensioni",
       "desc": "Olio naturale ad azione battericida per combattere le manifestazioni del fungo",
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "category": "health",
       "btn": "IN DETTAGLIO"
@@ -289,10 +289,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -318,17 +318,17 @@
       ],
       "text": "341 recensioni",
       "desc": "Un complesso di vitamine e minerali per normalizzare i processi metabolici. Il complesso lavora per preservare e mantenere la salute degli occhi.",
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
       "category": "health",
       "btn": "IN DETTAGLIO"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -354,8 +354,8 @@
       ],
       "text": "212 recensioni",
       "desc": "Un complesso di vitamine e minerali per rafforzare la retina e migliorare la circolazione sanguigna dell'occhio.",
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
       "category": "health",
       "btn": "IN DETTAGLIO"
     },
@@ -390,17 +390,17 @@
       ],
       "text": "455 recensioni",
       "desc": "Siero viso anti-invecchiamento 2 in 1 per tutti i tipi di pelle.",
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "category": "beauty",
       "btn": "IN DETTAGLIO"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "stars": [
         {
@@ -426,8 +426,8 @@
       ],
       "text": "288 recensioni",
       "desc": "Maschera peeling detergente per tutti i tipi di pelle.",
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
       "category": "beauty",
       "btn": "IN DETTAGLIO"
     },
@@ -971,7 +971,7 @@
       "niche": "Campo: Varici"
     },
     {
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "srcPhoto": "img/exofeet-oil.png",
       "srcPhotoWebp": "img/exofeet-oil.webp",
@@ -1073,12 +1073,12 @@
       "niche": "Campo: Prostatite"
     },
     {
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "narrow": true,
       "stars": [
@@ -1107,12 +1107,12 @@
       "niche": "Campo: Vista"
     },
     {
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "narrow": true,
       "stars": [
@@ -1141,7 +1141,7 @@
       "niche": "Campo: Vista"
     },
     {
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "srcPhoto": "img/beauty-age-skin.png",
       "srcPhotoWebp": "img/beauty-age-skin.webp",
@@ -1175,12 +1175,12 @@
       "niche": "Campo: Ringiovanimento"
     },
     {
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "narrow": true,
       "stars": [
@@ -1659,7 +1659,7 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C"
   },
-  "visoptic_night": {
+  "visoptic_duo_night": {
     "title": "Visoptic DUO Night",
     "category": "Per la salute",
     "review_count": "341 recensioni",
@@ -1674,7 +1674,7 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C"
   },
-  "visoptic_day": {
+  "visoptic_duo_day": {
     "title": "Visoptic DUO Day",
     "category": "Per la salute",
     "review_count": "212 recensioni",
@@ -1689,14 +1689,14 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C"
   },
-  "beauty_skin": {
+  "beauty_age_skin": {
     "title": "Beauty Age Skin",
     "category": "Per la Bellezza",
     "review_count": "455 recensioni",
     "niche": "Ringiovanimento",
     "form_factor": "crema-siero, 30 ml.",
     "short_description": "Siero viso anti-invecchiamento 2 in 1 per tutti i tipi di pelle.",
-    "description": "Crema-siero con effetto anti-invecchiamento, contiene acido ialuronico e componenti rigeneranti per mantenere la pelle idratata per 24 ore",
+    "description": "Crema-siero con effetto anti-invecchiamento, contiene acido ialuronico e componenti rigeneranti per mantenere la pelle idratata per 12 ore",
     "compound": "ACQUA, FILTRATO DI SECREZIONE DI LUMACA, GLICERINA, CAPRYLATE/CAPRATE DI COCO, TRIGLYCERIDE CAPRYLIC/CAPRIC, ALCOOL CETEARYL, CITRATE GLYCERYL STEARATE, OLIO DI FRUTTA OLEA EUROPAEA, BURRO DI BUTIROSPERMO PARKII, OLIO DI COCOS NUCIFERA, OLIO DI SEMI DI VITIS VINIFERA, OLIO DI ARGANIA SPINOSA, OLIO DI NOCCIOLA, OLIO DI PRUNUS AMYGDALUS DULCIS, NIACINAMIDE, COLLAGENE IDROLIZZATO, ESTRATTO DI COLTURA DI SYMPHYTUM OFFICINALE CALLUS, ESTRATTO DI FIORI DI CAMOMILA RECUTITA, ACRILATI/C10-30 ALCHIL ACRILATO CROSSPOLIMERO, SODIO IALURONATO, SODIO IDROSSIDO, TOCOFERIL ACETATO, PANTENOLO, ASCORBY, FENOSSIETANOLO, ETILESILGLICERINA, PROFUMO, GLICOLE BUTILENICO, CARBOMER POLISORBATO 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, SODUM LACTATE, DISODIUM EDTA, SODUM BENZOATE, SODIO BENZOATE, CITRIC ACID, POTASSIUM SORBATE, BHT.",
     "usage": "distribuire la crema-siero con movimenti leggeri lungo le linee di massaggio, lasciare fino a completo assorbimento. Applicare mattina e sera sulla pelle pulita.",
     "contraindications": "Intolleranza individuale ai componenti. Evitare il contatto con gli occhi.",
@@ -1704,7 +1704,7 @@
     "suitability": "2 anni",
     "keep": "conservare a temperatura tra 0°C e 25°C, lontano dalla luce solare diretta e dall'umidità."
   },
-  "beauty_peeling": {
+  "beauty_age_skin_peeling": {
     "title": "Beauty Age Skin Peeling",
     "category": "Per la Bellezza",
     "review_count": "288 recensioni",
@@ -1754,7 +1754,7 @@
     "category": "Per la salute",
     "review_count": "297 recensioni",
     "niche": "Potenza",
-    "form_factor": "capsule in blister, 20 pz.",
+    "form_factor": "capsule in blister, 10 pz.",
     "short_description": "Un rimedio per normalizzare la funzione riproduttiva maschile.",
     "description": "Un complesso di componenti vegetali che aumenta il desiderio sessuale e migliora la funzione sessuale negli uomini, normalizza la funzione del sistema genito-urinario durante la disfunzione erettile (per aumentare la libido e la potenza), migliora la qualità dello sperma e aumenta anche le prestazioni mentali e fisiche, e le capacità di adattamento negli uomini.",
     "compound": "Estratto di bacche di mirtillo rosso, gelatina (involucro della capsula), estratto di frutto di Saw palmetto, estratto di radice di ortica, cellulosa microcristallina (filler), citrato di zinco, stearato di magnesio (rivestimento), biossido di silicio (antiagglomerante), coloranti (involucro della capsula): E171 , E132.",
@@ -1980,7 +1980,7 @@
       "salePrice": "29",
       "newPrice": "118"
     },
-    "visoptic_night": {
+    "visoptic_duo_night": {
       "company": "everad",
       "campaign_id": "1034066",
       "niche": "Vista",
@@ -1989,7 +1989,7 @@
       "salePrice": "29",
       "newPrice": "119"
     },
-    "visoptic": {
+    "visoptic_duo_day": {
       "company": "everad",
       "campaign_id": "1034072",
       "niche": "Vista",
@@ -2007,7 +2007,7 @@
       "salePrice": "28",
       "newPrice": "170"
     },
-    "beauty_peeling": {
+    "beauty_age_skin_peeling": {
       "company": "everad",
       "campaign_id": "1034080",
       "niche": "Ringiovanimento",

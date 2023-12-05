@@ -21,7 +21,7 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
                 span.breadcrumbs__line /
                 a.breadcrumbs__link(href="catalog.html")!=PRODUCT_CARD.product_card_bread_catalog
                 span.breadcrumbs__line /
-                a.breadcrumbs__link(href="catalog.html?id=" + PRODUCT_CATEGORY)!=CURRENT_PRODUCT.category
+                a.breadcrumbs__link(href="catalog.html?id=" + PRODUCT_CATEGORY)!= CURRENT_PRODUCT.category
                 span.breadcrumbs__line /
                 span.breadcrumbs__main!=CURRENT_PRODUCT.title
             .product-item__wrapper

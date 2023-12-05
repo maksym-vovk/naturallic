@@ -209,7 +209,7 @@
       ],
       "text": "288 recenzí",
       "desc": "Přírodní olej s baktericidním účinkem proti příznakům plísní.",
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "category": "health",
       "btn": "DETALNĚJI"
@@ -288,10 +288,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -317,17 +317,17 @@
       ],
       "text": "341 recenzí",
       "desc": "Komplex vitamínů a minerálů je zaměřen na normalizaci metabolických procesů. Komplex působí na udržení a podporu zdraví očí.",
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
       "category": "health",
       "btn": "DETALNĚJI"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -353,8 +353,8 @@
       ],
       "text": "212 recenzí",
       "desc": "Komplex vitamínů a minerálů je zaměřen na posílení sítnice a zlepšení prokrvení oka.",
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -389,17 +389,17 @@
       ],
       "text": "455 recenzí",
       "desc": "Omlazující krémové sérum na obličej 2&nbsp;v&nbsp;1 pro všechny typy pleti.",
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "category": "beauty",
       "btn": "DETALNĚJI"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "stars": [
         {
@@ -425,8 +425,8 @@
       ],
       "text": "288 recenzí",
       "desc": "Čistící slupovací maska pro všechny typy pleti.",
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
       "category": "beauty",
       "btn": "DETALNĚJI"
     },
@@ -971,7 +971,7 @@
       "niche": "Směr: Křečové žíly"
     },
     {
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "srcPhoto": "img/exofeet-oil.png",
       "srcPhotoWebp": "img/exofeet-oil.webp",
@@ -1073,12 +1073,12 @@
       "niche": "Směr: Zánět prostaty"
     },
     {
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "narrow": true,
       "stars": [
@@ -1107,12 +1107,12 @@
       "niche": "Směr: Zrak"
     },
     {
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "narrow": true,
       "stars": [
@@ -1141,7 +1141,7 @@
       "niche": "Směr: Zrak"
     },
     {
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "srcPhoto": "img/beauty-age-skin.png",
       "srcPhotoWebp": "img/beauty-age-skin.webp",
@@ -1175,12 +1175,12 @@
       "niche": "Směr: Omlazování"
     },
     {
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "narrow": true,
       "stars": [
@@ -1659,7 +1659,7 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "visoptic_night": {
+  "visoptic_duo_night": {
     "title": "Visoptic DUO Night",
     "category": "Pro zdraví",
     "review_count": "341 recenzí",
@@ -1674,7 +1674,7 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "visoptic_day": {
+  "visoptic_duo_day": {
     "title": "Visoptic DUO Day",
     "category": "Pro zdraví",
     "review_count": "212 recenzí",
@@ -1689,14 +1689,14 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "beauty_skin": {
+  "beauty_age_skin": {
     "title": "Beauty Age Skin",
     "category": "Pro krásu",
     "review_count": "455 recenzí",
     "niche": "Omlazování",
     "form_factor": "krémové sérum, 30 ml.",
     "short_description": "Omlazující krémové sérum na obličej 2&nbsp;v&nbsp;1 pro všechny typy pleti.",
-    "description": "Krémové sérum s omlazujícími účinky, které obsahuje kyselinu hyaluronovou a regenerační složky zajišťující 24hodinovou hydrataci pleti.",
+    "description": "Krémové sérum s omlazujícími účinky, které obsahuje kyselinu hyaluronovou a regenerační složky zajišťující 12 hodinovou hydrataci pleti.",
     "compound": "VODA, FILTRÁT HLEMÝŽDÍHO SEKRETU, GLYCERIN, KOKOSOVÝ KAPRYLÁT/KAPRÁT, KAPRYLOVÝ/KAPRICOVÝ TRIGLYCERID, CETEARYLALKOHOL, GLYCERYL STEARÁT CITRÁT, OVOCNÝ OLEJ OLEA EUROPAEA, MÁSLO BUTYROSPERMUM PARKII, OLEJ Z KOKOSOVÝCH OŘECHŮ, OLEJ ZE SEMEN VINNÉ RÉVY, OLEJ Z JADER ARGÁNIE TRNITÉ, OLEJ ZE STROMU PRUNUS AMYGDALUS DULCIS, NIACINAMID, HYDROLYZOVANÝ KOLAGEN, EXTRAKT Z KALUSOVÉ KULTURY SYMPHYTUM OFFICINALE, EXTRAKT Z KVĚTŮ HEŘMÁNKU PRAVÉHO (CHAMOMILA RECUTITA), AKRYLÁTY/C10-30 ALKYLAKRYLÁTOVÝ KROSOLYMER, HYALURONÁT SODNÝ, HYDROXID SODNÝ, TOKOFERYLACETÁT, PANTHENOL, ASKORBYLPALMITÁT, FENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFÉM, BUTYLENGLYKOL, KARBOMER POLYSORBÁT 20, PALMITOYLTRIPEPTID-1, PALMITOYLTETRAPEPTID-7, LAKTÁT SODNÝ, EDTA DISODNÁ, BENZOAN SODNÝ, KYSELINA CITRONOVÁ, SORBAN DRASELNÝ, BUTYLHYDROXYTOLUEN",
     "usage": "Naneste krémové sérum jemnými tahy podél masážních linií a nechte jej vstřebat, dokud se zcela nevstřebá. Aplikujte ráno a večer na čistou pleť.",
     "contraindications": "Individuální nesnášenlivost složek. Vyhněte se kontaktu s očima.",
@@ -1704,7 +1704,7 @@
     "suitability": "2 roky",
     "keep": "Skladujte v teplotě od 0 °C do 25 °C, mimo dosah přímého slunečního záření a vlhkosti."
   },
-  "beauty_peeling": {
+  "beauty_age_skin_peeling": {
     "title": "Beauty Age Skin Peeling",
     "category": "Pro krásu",
     "review_count": "288 recenzí",
@@ -1754,7 +1754,7 @@
     "category": "Pro zdraví",
     "review_count": "297 recenzí",
     "niche": "Potence",
-    "form_factor": "Kapsle v blistru, 20 ks.",
+    "form_factor": "Kapsle v blistru, 10 ks.",
     "short_description": "Lék pro muže zaměřený na normalizaci reprodukčních funkcí.",
     "description": "Komplex bylinných složek, který zvyšuje sexuální touhu a zlepšuje sexuální funkce u mužů, normalizuje funkční stav urogenitálního systému při erektilní dysfunkci (pro zvýšení libida a potence), zlepšuje kvalitu spermatu a zvyšuje psychickou a fyzickou výkonnost a adaptační schopnosti mužů.",
     "compound": "extrakt z plodů brusinek, želatina (obal kapsle), extrakt z plodů Saw palmetto, extrakt z kořene kopřivy, mikrokrystalická celulóza (filler), citrát zinečnatý, stearan hořečnatý (filler), oxid křemičitý (protispékavá látka), barviva (obal kapsle): E171, E132.",
@@ -1978,7 +1978,7 @@
       "salePrice": "507",
       "newPrice": "2190"
     },
-    "visoptic_night": {
+    "visoptic_duo_night": {
       "company": "everad",
       "campaign_id": "1034067",
       "niche": "Zrak",
@@ -1987,7 +1987,7 @@
       "salePrice": "517",
       "newPrice": "1529"
     },
-    "visoptic": {
+    "visoptic_duo_day": {
       "company": "everad",
       "campaign_id": "1034073",
       "niche": "Zrak",
@@ -2005,7 +2005,7 @@
       "salePrice": "523",
       "newPrice": "2736"
     },
-    "beauty_peeling": {
+    "beauty_age_skin_peeling": {
       "company": "everad",
       "campaign_id": "1034081",
       "niche": "Omlazování",

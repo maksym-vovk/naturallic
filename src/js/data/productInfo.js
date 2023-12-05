@@ -45,7 +45,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034064',
             niche: 'Vederea',
@@ -54,7 +54,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034069',
             niche: 'Vederea',
@@ -72,7 +72,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034078',
             niche: 'Întinerire',
@@ -227,7 +227,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034065',
             niche: 'Látás',
@@ -236,7 +236,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034071',
             niche: 'Látás',
@@ -254,7 +254,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034079',
             niche: 'Fiatalítás',
@@ -409,7 +409,7 @@ export const productsInfo = {
             salePrice: "29",
             newPrice: "118",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034066',
             niche: 'Vista',
@@ -418,7 +418,7 @@ export const productsInfo = {
             salePrice: "29",
             newPrice: "119",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034072',
             niche: 'Vista',
@@ -436,7 +436,7 @@ export const productsInfo = {
             salePrice: "28",
             newPrice: "170",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034080',
             niche: 'Ringiovanimento',
@@ -591,7 +591,7 @@ export const productsInfo = {
             salePrice: "507",
             newPrice: "2190",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -600,7 +600,7 @@ export const productsInfo = {
             salePrice: "517",
             newPrice: "1529",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -618,7 +618,7 @@ export const productsInfo = {
             salePrice: "523",
             newPrice: "2736",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -773,7 +773,7 @@ export const productsInfo = {
             salePrice: "45",
             newPrice: "179",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -782,7 +782,7 @@ export const productsInfo = {
             salePrice: "44",
             newPrice: "186",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -800,7 +800,7 @@ export const productsInfo = {
             salePrice: "45",
             newPrice: "280",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -955,7 +955,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "80",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -964,7 +964,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "97",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -982,7 +982,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "136",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -1137,7 +1137,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "102",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -1146,7 +1146,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "109",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -1164,7 +1164,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "165",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -1319,7 +1319,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "80",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -1328,7 +1328,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "97",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -1346,7 +1346,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "136",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -1501,7 +1501,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "80",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -1510,7 +1510,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "97",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -1528,7 +1528,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "136",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -1683,7 +1683,7 @@ export const productsInfo = {
             salePrice: "29",
             newPrice: "118",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -1692,7 +1692,7 @@ export const productsInfo = {
             salePrice: "29",
             newPrice: "119",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -1710,7 +1710,7 @@ export const productsInfo = {
             salePrice: "28",
             newPrice: "170",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -1865,7 +1865,7 @@ export const productsInfo = {
             salePrice: "95",
             newPrice: "377",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -1874,7 +1874,7 @@ export const productsInfo = {
             salePrice: "93",
             newPrice: "381",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -1892,7 +1892,7 @@ export const productsInfo = {
             salePrice: "94",
             newPrice: "579",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',
@@ -2047,7 +2047,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "102",
         },
-        visoptic_night: {
+        visoptic_duo_night: {
             company: 'everad',
             campaign_id: '1034067',
             niche: 'Zrak',
@@ -2056,7 +2056,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "109",
         },
-        visoptic: {
+        visoptic_duo_day: {
             company: 'everad',
             campaign_id: '1034073',
             niche: 'Zrak',
@@ -2074,7 +2074,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "165",
         },
-        beauty_peeling: {
+        beauty_age_skin_peeling: {
             company: 'everad',
             campaign_id: '1034081',
             niche: 'Omlazování',

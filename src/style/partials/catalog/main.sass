@@ -48,8 +48,8 @@
 		.product
 			max-width: 285px
 			padding: 70px 26px 22px
-			&:not(:nth-of-type(-n+3))
-				margin-top: 32px
+			//&:not(:nth-of-type(-n+3))
+			//	margin-top: 32px
 			&:hover
 				height: 598px
 			&__wrap-photo
@@ -65,8 +65,8 @@
 		+r(1023)
 			.product
 				max-width: 245px
-				&:not(:nth-of-type(-n+2))
-					margin-top: 10px
+				//&:not(:nth-of-type(-n+2))
+				//	margin-top: 10px
 				&__wrap-photo
 					img
 						height: 215px
@@ -76,6 +76,7 @@
 				max-width: 49%
 		+r(639)
 			.product
+				max-width: 100%
 				padding: 30px 10px 15px
 				&__wrap-photo
 					img
@@ -96,16 +97,28 @@
 					height: auto
 					margin-bottom: 10px
 				&__btn
-					margin-top: auto
+					//margin-top: auto
 		+r(374)
 			.product
 				max-width: 100%
-				&:not(:nth-of-type(-n+1))
-					margin-top: 10px
+				//&:not(:nth-of-type(-n+1))
+				//	margin-top: 10px
 	&__wrap
 		display: flex
 		flex-wrap: wrap
-		justify-content: space-between
+		justify-content: flex-start
+		gap: 20px
+
+		+r(1249)
+			gap: 7px
+
+		+r(1023)
+			gap: 7px
+
+		+r(767)
+			justify-content: center
+
+
 		&--show
 			margin-bottom: 32px
 		&--hide
