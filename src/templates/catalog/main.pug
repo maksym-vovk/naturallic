@@ -7,7 +7,8 @@ include ../mixins/product
 	let beautyProducts = PRODUCTS.filter(product => product.category === 'beauty')
 
 	if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
-
+		healthProducts = healthProducts.filter(prod => prod.tag !== 'depanten')
+		beautyProducts = beautyProducts.filter(prod => prod.tag !== 'depanten')
 	}
 
 	if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'

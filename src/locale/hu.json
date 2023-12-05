@@ -209,7 +209,7 @@
       ],
       "text": "288 hozzászólás",
       "desc": "Természetes olaj baktériumölő hatással a gombás tünetek ellen",
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "category": "health",
       "btn": "RÉSZLETEK"
@@ -288,10 +288,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -317,17 +317,17 @@
       ],
       "text": "341 hozzászólás",
       "desc": "A vitamin- és ásványi anyag komplex célja az anyagcsere-folyamatok normalizálása. A komplex a szem egészségének fenntartása és támogatása érdekében működik",
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -353,8 +353,8 @@
       ],
       "text": "212 hozzászólás",
       "desc": "A vitaminokból és ásványi anyagokból álló komplexum célja a retina erősítése és a szem vérkeringésének javítása",
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -389,17 +389,17 @@
       ],
       "text": "455 hozzászólás",
       "desc": "Fiatalító 2 az 1-ben arcápoló krémszérum minden bőrtípusra",
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "category": "beauty",
       "btn": "RÉSZLETEK"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "stars": [
         {
@@ -425,8 +425,8 @@
       ],
       "text": "288 hozzászólás",
       "desc": "Tisztító hámlasztó maszk minden bőrtípusra",
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
       "category": "beauty",
       "btn": "RÉSZLETEK"
     },
@@ -971,7 +971,7 @@
       "niche": "Irányzat: Visszerek"
     },
     {
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "srcPhoto": "img/exofeet-oil.png",
       "srcPhotoWebp": "img/exofeet-oil.webp",
@@ -1073,12 +1073,12 @@
       "niche": "Irányzat: Prosztatagyulladás"
     },
     {
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "narrow": true,
       "stars": [
@@ -1107,12 +1107,12 @@
       "niche": "Irányzat: Látás"
     },
     {
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "narrow": true,
       "stars": [
@@ -1141,7 +1141,7 @@
       "niche": "Irányzat: Látás"
     },
     {
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "srcPhoto": "img/beauty-age-skin.png",
       "srcPhotoWebp": "img/beauty-age-skin.webp",
@@ -1175,12 +1175,12 @@
       "niche": "Irányzat: Fiatalítás"
     },
     {
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "narrow": true,
       "stars": [
@@ -1660,7 +1660,7 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "visoptic_night": {
+  "visoptic_duo_night": {
     "title": "Visoptic DUO Night",
     "category": "Az egészségért",
     "review_count": "341 hozzászólás",
@@ -1675,7 +1675,7 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "visoptic_day": {
+  "visoptic_duo_day": {
     "title": "Visoptic DUO Day",
     "category": "Az egészségért",
     "review_count": "212 hozzászólás",
@@ -1690,14 +1690,14 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "beauty_skin": {
+  "beauty_age_skin": {
     "title": "Beauty Age Skin",
     "category": "A szépségért",
     "review_count": "455 hozzászólás",
     "niche": "Fiatalítás",
     "form_factor": "krémszérum, 30 ml. ",
     "short_description": "Fiatalító 2 az 1-ben arcápoló krémszérum minden bőrtípusra.",
-    "description": "Fiatalító hatású krémszérum, amely hialuronsavat és regeneráló összetevőket tartalmaz a bőr 24 órás hidratálása érdekében.",
+    "description": "Fiatalító hatású krémszérum, amely hialuronsavat és regeneráló összetevőket tartalmaz a bőr 12 órás hidratálása érdekében.",
     "compound": "AQUA, CSIGASZEKRÉCIÓS SZŰRLET, GLICERIN, KÓKUSZKAPRILÁT/KAPARÁT, KAPRIL/KAPRIKUS TRIGLICERID, CETEARIL-ALKOHOL, GLICERIL-SZTEARÁT-CITRÁT, OLEA EUROPAEA GYÜMÖLCSOLAJ, BUTYROSPERMUM PARKII VAJ, COCOS NUCIFERA OLAJ, VITIS VINIFERA MAGOLAJ, ARGANIA SPINOSA MAGOLAJ, PRUNUS AMYGDALUS DULCIS OLAJ, NIACINAMID, HIDROLIZÁLT KOLLAGÉN, SYMPHYTUM OFFICINALE KALLUSZKULTÚRA KIVONAT, KAMILLA RECUTITA VIRÁGKIVONAT, AKRILÁTOK/C10-30 ALKIL-AKRILÁT KERESZTPOLIMER, NÁTRIUM-HIALURONÁT, NÁTRIUM-HIDROXID, TOKOFERIL-ACETÁT, PANTENOL, ASZKORBIL-PALMITÁT, FENOXIETANOL, ETIL-HEXIL-GLICERIN, PARFÜM, BUTILÉNGLIKOL, KARBOMER POLISZORBÁT 20, PALMITOIL-TRIPEPTID-1, PALMITOIL-TETRAPEPTID-7, NÁTRIUM-LAKTÁT, DINÁTRIUM-EDTA, NÁTRIUM-BENZOÁT, CITROMSAV, KÁLIUM-SZORBÁT, BHT.",
     "usage": "A krémszérumot gyengéd mozdulatokkal vigye fel a masszázsvonalak mentén, és hagyja beszívódni. Reggel és este vigye fel a tiszta bőrre.",
     "contraindications": "Egyéni intolerancia az összetevőkkel szemben. Kerülje a szemmel való érintkezést.",
@@ -1705,7 +1705,7 @@
     "suitability": "2 év",
     "keep": "0°C és 25°C közötti hőmérsékleten, közvetlen napfénytől és nedvességtől védve tárolja."
   },
-  "beauty_peeling": {
+  "beauty_age_skin_peeling": {
     "title": "Beauty Age Skin Peeling",
     "category": "A szépségért",
     "review_count": "288 hozzászólás",
@@ -1755,7 +1755,7 @@
     "category": "Az egészségért",
     "review_count": "297 hozzászólás",
     "niche": "Potencia",
-    "form_factor": "kapszula buborékcsomagolásban, 20 db.",
+    "form_factor": "kapszula buborékcsomagolásban, 10 db.",
     "short_description": "A reproduktív funkciók normalizálását célzó készítmény férfiak számára.",
     "description": "Növényi összetevők komplexe, amely növeli a szexuális vágyat és javítja a férfiak szexuális funkcióját, normalizálja az urogenitális rendszer funkcionális állapotát merevedési zavarok esetén (a libidó és a potencia növelése érdekében), javítja az ondó minőségét, valamint növeli a férfiak szellemi és fizikai teljesítményét és állóképességét.",
     "compound": "Áfonya bogyó kivonat, zselatin (kapszulahéj), fűrészpálma gyümölcs kivonat, csalángyökér kivonat, mikrokristályos cellulóz (töltőanyag), cink-citrát, magnézium-sztearát (töltőanyag), szilícium-dioxid (csomósodásgátló), színezékek (kapszulahéj): E171, E132.",
@@ -1979,7 +1979,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "visoptic_night": {
+    "visoptic_duo_night": {
       "company": "everad",
       "campaign_id": "1034065",
       "niche": "Látás",
@@ -1988,7 +1988,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "visoptic": {
+    "visoptic_duo_day": {
       "company": "everad",
       "campaign_id": "1034071",
       "niche": "Látás",
@@ -2006,7 +2006,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "beauty_peeling": {
+    "beauty_age_skin_peeling": {
       "company": "everad",
       "campaign_id": "1034079",
       "niche": "Fiatalítás",

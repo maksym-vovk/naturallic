@@ -66,6 +66,8 @@ const Order = (function () {
                 const orderForm = document.querySelector('#order-form')
 
                 const productData = productsInfo[currentLangLower][productNameUnderscore]
+                console.log(productsInfo[currentLangLower]);
+                console.log(productNameUnderscore);
                 const formData = formSetting[productData.company]
 
                 if (orderForm) {
@@ -91,7 +93,7 @@ const Order = (function () {
                 }
 
                 // console.log(productName);
-                const productInfo = productsInfo[`${localStorage.getItem('localization')}`][`${productName}`];
+                const productInfo = productsInfo[`${localStorage.getItem('localization')}`][`${productNameUnderscore}`];
                 const productNewPrice = productInfo.newPrice;
 
                 $(".js-product-name").html(prodNameWithSpaces);
@@ -238,7 +240,7 @@ const Order = (function () {
             Order.createSuccessPage();
             Order.submitForm();
             Order.calcOrderProduct();
-            Order.validatePromocode('1111');
+            Order.validatePromocode('0JH343');
             Order.checkButtonActive();
             Order.showResiudePack();
             // Order.calcSaleProduct();

@@ -210,7 +210,7 @@
       ],
       "text": "288 recenzii",
       "desc": "Ulei natural cu acțiune bactericidă care vizează combaterea manifestărilor de ciuperci",
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "category": "health",
       "btn": "MAI DETALIAT"
@@ -289,10 +289,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -318,17 +318,17 @@
       ],
       "text": "341 recenzii",
       "desc": "Complexul de vitamine și minerale vizează normalizarea proceselor metabolice. Complexul funcționează pentru a păstra și susține sănătatea ochilor",
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -354,8 +354,8 @@
       ],
       "text": "212 recenzii",
       "desc": "Complexul de vitamine și minerale vizează întărirea retinei și îmbunătățirea circulației sanguine a ochiului",
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -390,17 +390,17 @@
       ],
       "text": "455 recenzii",
       "desc": "Cremă-ser anti-îmbătrânire pentru față 2 în 1 pentru toate tipurile de piele",
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "category": "beauty",
       "btn": "MAI DETALIAT"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "stars": [
         {
@@ -426,8 +426,8 @@
       ],
       "text": "288 recenzii",
       "desc": "Mască-peeling de curățare pentru toate tipurile de piele",
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
       "category": "beauty",
       "btn": "MAI DETALIAT"
     },
@@ -971,7 +971,7 @@
       "niche": "Direcție: Varice"
     },
     {
-      "link": "exofeet.html",
+      "link": "exofeet-oil.html",
       "tag": "exofeet_oil",
       "srcPhoto": "img/exofeet-oil.png",
       "srcPhotoWebp": "img/exofeet-oil.webp",
@@ -1073,12 +1073,12 @@
       "niche": "Direcție: Prostatita"
     },
     {
-      "link": "visoptic_night.html",
-      "tag": "visoptic_night",
-      "srcPhoto": "img/visoptic-night.png",
-      "srcPhotoWebp": "img/visoptic-night.webp",
-      "mobSrcPhoto": "img/visoptic-night-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-night-mob.webp",
+      "link": "visoptic-duo-night.html",
+      "tag": "visoptic_duo_night",
+      "srcPhoto": "img/visoptic-duo-night.png",
+      "srcPhotoWebp": "img/visoptic-duo-night.webp",
+      "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
       "name": "Visoptic DUO Night",
       "narrow": true,
       "stars": [
@@ -1107,12 +1107,12 @@
       "niche": "Direcție: Vederea"
     },
     {
-      "link": "visoptic_day.html",
-      "tag": "visoptic",
-      "srcPhoto": "img/visoptic.png",
-      "srcPhotoWebp": "img/visoptic.webp",
-      "mobSrcPhoto": "img/visoptic-mob.png",
-      "mobSrcPhotoWebp": "img/visoptic-mob.webp",
+      "link": "visoptic-duo-day.html",
+      "tag": "visoptic_duo_day",
+      "srcPhoto": "img/visoptic-duo-day.png",
+      "srcPhotoWebp": "img/visoptic-duo-day.webp",
+      "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
+      "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
       "name": "Visoptic DUO Day",
       "narrow": true,
       "stars": [
@@ -1141,7 +1141,7 @@
       "niche": "Direcție: Vederea"
     },
     {
-      "link": "beauty_skin.html",
+      "link": "beauty-age-skin.html",
       "tag": "beauty_age_skin",
       "srcPhoto": "img/beauty-age-skin.png",
       "srcPhotoWebp": "img/beauty-age-skin.webp",
@@ -1175,12 +1175,12 @@
       "niche": "Direcție: Întinerire"
     },
     {
-      "link": "beauty_peeling.html",
-      "tag": "beauty_peeling",
-      "srcPhoto": "img/beauty-peeling.png",
-      "srcPhotoWebp": "img/beauty-peeling.webp",
-      "mobSrcPhoto": "img/beauty-peeling-mob.png",
-      "mobSrcPhotoWebp": "img/beauty-peeling-mob.webp",
+      "link": "beauty-age-skin-peeling.html",
+      "tag": "beauty_age_skin_peeling",
+      "srcPhoto": "img/beauty-age-skin-peeling.png",
+      "srcPhotoWebp": "img/beauty-age-skin-peeling.webp",
+      "mobSrcPhoto": "img/beauty-age-skin-peeling-mob.png",
+      "mobSrcPhotoWebp": "img/beauty-age-skin-peeling-mob.webp",
       "name": "Beauty Age Skin Peeling",
       "narrow": true,
       "stars": [
@@ -1659,7 +1659,7 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С"
   },
-  "visoptic_night": {
+  "visoptic_duo_night": {
     "title": "Visoptic DUO Night",
     "category": "Pentru sănătate",
     "review_count": "341 recenzii",
@@ -1674,7 +1674,7 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С"
   },
-  "visoptic_day": {
+  "visoptic_duo_day": {
     "title": "Visoptic DUO Day",
     "category": "Pentru sănătate",
     "review_count": "212 recenzii",
@@ -1689,14 +1689,14 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С"
   },
-  "beauty_skin": {
+  "beauty_age_skin": {
     "title": "Beauty Age Skin",
     "category": "Pentru frumusete",
     "review_count": "455 recenzii",
     "niche": "Întinerire",
     "form_factor": "cremă-ser, 30 ml.",
     "short_description": "Cremă-ser anti-îmbătrânire pentru față 2 în 1 pentru toate tipurile de piele.",
-    "description": "Cremă-ser cu efect anti-îmbătrânire, conține acid hialuronic și componente regenerante pentru a asigura hidratarea pielii timp de 24 de ore",
+    "description": "Cremă-ser cu efect anti-îmbătrânire, conține acid hialuronic și componente regenerante pentru a asigura hidratarea pielii timp de 12 ore",
     "compound": "AQUA, FILTRAT DE SECREȚIE DE MERCUL, GLICERINĂ, CAPRILAT/CAPRAT DE COCO, TRIGLICERID CAPRILIC/CAPRIC, ALCOHOL CETEARIL, CITRAT DE STEARAT DE GLICERIL, ULEI DE FRUCTE OLEA EUROPAEA, ULEI BUTYROSPERMUM PARKII, ULEI DE COCOS NUCITIFUS, ULEI DE SEMINȚE DE VITIS VINIFERA, ULEI DE ARGANIA SPINOSA KERNEL, ULEI DULCE DE PRUNUS AMYGDALUS, NIACINAMIDĂ, COLAGEN HIDROLIZAT, EXTRACT DE CULTURĂ DE CALUS DE SYMPHYTUM OFFICINALE, EXTRACT DE FLORI DE MUSENILĂ, ACRYLATE/C10-30 ALKYL ACRYLATE CROSSPOLYMER, HIALURONAT DE SODIU, HODRIXID, TOCOFWRIL ACETAT, PANTENOL, PALMITAT DE ASCORBIL, FENOXIETANOL, ETILHEXILGLICERINA,PARFUM, GLICOL BUTILIC, POLIZORBAT DE CARBOMER 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, LACTAT DE SODIU, EDTA DISODIC, BENZOAT DE SODIU, ACID CITRIC, SORBAT DE POTASIU, BHT.",
     "usage": "Distribuiți cremă-ser cu mișcări ușoare de-a lungul liniilor de masaj și lăsați până se absoarbe complet. Aplicați dimineața și seara pe pielea curată.",
     "contraindications": "Intoleranță individuală la componente. Evitați contactul cu ochii.",
@@ -1704,7 +1704,7 @@
     "suitability": "2 de ani",
     "keep": "păstrați la o temperatură cuprinsă între 0 și 25 și 25, departe de lumina directă a soarelui și umiditate."
   },
-  "beauty_peeling": {
+  "beauty_age_skin_peeling": {
     "title": "Beauty Age Skin Peeling",
     "category": "Pentru frumusete",
     "review_count": "288 recenzii",
@@ -1754,7 +1754,7 @@
     "category": "Pentru sănătate",
     "review_count": "297 recenzii",
     "niche": "Potență",
-    "form_factor": "capsule într-un blister, 20 buc",
+    "form_factor": "capsule într-un blister, 10 buc",
     "short_description": "Un remediu pentru bărbați care vizează normalizarea funcției de reproducere.",
     "description": "Un complex de componente pe bază de plante care sporește dorința sexuală și îmbunătățește funcția sexuală la bărbați, normalizează starea funcțională a sistemului genito-urinar în disfuncția erectilă (pentru a crește libidoul și potența), îmbunătățește calitatea spermei și, de asemenea, crește performanța mentală și fizică și capacitățile de adaptare la bărbați.",
     "compound": "Extract de boabe de merișor, gelatină (coaja capsulei), extract de fructe Saw palmetto, extract de rădăcină de urzică, celuloză microcristalină (umplutură), citrat de zinc, stearat de magneziu (umplutură), dioxid de siliciu (agent antiaglomerant), coloranți (învelișul capsulei): E171 , E132.",
@@ -1978,7 +1978,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "visoptic_night": {
+    "visoptic_duo_night": {
       "company": "everad",
       "campaign_id": "1034064",
       "niche": "Vederea",
@@ -1987,7 +1987,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "visoptic": {
+    "visoptic_duo_day": {
       "company": "everad",
       "campaign_id": "1034069",
       "niche": "Vederea",
@@ -2005,7 +2005,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "beauty_peeling": {
+    "beauty_age_skin_peeling": {
       "company": "everad",
       "campaign_id": "1034078",
       "niche": "Întinerire",
