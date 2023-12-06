@@ -2,7 +2,7 @@ export const productsInfo = {
     ro: {
         guavital: {
             company: 'rocketProfit',
-            campaign_id: '532052',
+            campaign_id: '1082466',
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'GUAVITAL+',
@@ -11,7 +11,7 @@ export const productsInfo = {
         },
         wintex: {
             company: 'everad',
-            campaign_id: '1034057',
+            campaign_id: '1082466',
             niche: 'Varice',
             country: 'Romania',
             productName: 'Wintex Ultra',
@@ -20,7 +20,7 @@ export const productsInfo = {
         },
         exofeet_oil: {
             company: 'rocketProfit',
-            campaign_id: '532029',
+            campaign_id: '1082466',
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Exofeet Oil',
@@ -29,7 +29,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'rocketProfit',
-            campaign_id: '532048',
+            campaign_id: '1082466',
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Paraxan',
@@ -38,7 +38,7 @@ export const productsInfo = {
         },
         deluron: {
             company: 'rocketProfit',
-            campaign_id: '532098',
+            campaign_id: '1082466',
             niche: 'Prostatita',
             country: 'Romania',
             productName: 'Deluron Forte',
@@ -47,7 +47,7 @@ export const productsInfo = {
         },
         visoptic_duo_night: {
             company: 'everad',
-            campaign_id: '1034064',
+            campaign_id: '1082466',
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Night',
@@ -56,7 +56,7 @@ export const productsInfo = {
         },
         visoptic_duo_day: {
             company: 'everad',
-            campaign_id: '1034069',
+            campaign_id: '1082466',
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Day',
@@ -65,7 +65,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1034074',
+            campaign_id: '1082466',
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin',
@@ -74,7 +74,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1034078',
+            campaign_id: '1082466',
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin Peeling',
@@ -83,7 +83,7 @@ export const productsInfo = {
         },
         ottomax: {
             company: 'everad',
-            campaign_id: '1034082',
+            campaign_id: '1082466',
             niche: 'Auz',
             country: 'Romania',
             productName: 'Ottomax+',
@@ -92,7 +92,7 @@ export const productsInfo = {
         },
         vermixin: {
             company: 'everad',
-            campaign_id: '1034094',
+            campaign_id: '1082466',
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Vermixin',
@@ -101,7 +101,7 @@ export const productsInfo = {
         },
         wirex: {
             company: 'rocketProfit',
-            campaign_id: '532102',
+            campaign_id: '1082466',
             niche: 'Potență',
             country: 'Romania',
             productName: 'Wirex men’s formula',
@@ -110,7 +110,7 @@ export const productsInfo = {
         },
         depanten: {
             company: 'everad',
-            campaign_id: '1034098',
+            campaign_id: '1082466',
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Depanten',
@@ -119,7 +119,7 @@ export const productsInfo = {
         },
         feronex: {
             company: 'everad',
-            campaign_id: '1034106',
+            campaign_id: '1082466',
             niche: 'Potență',
             country: 'Romania',
             productName: 'Feronex',
@@ -128,7 +128,7 @@ export const productsInfo = {
         },
         steplex: {
             company: 'rocketProfit',
-            campaign_id: '532106',
+            campaign_id: '1082466',
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Steplex',
@@ -137,7 +137,7 @@ export const productsInfo = {
         },
         neoveris: {
             company: 'everad',
-            campaign_id: '1034110',
+            campaign_id: '1082466',
             niche: 'Varice',
             country: 'Romania',
             productName: 'Neoveris',
@@ -146,7 +146,7 @@ export const productsInfo = {
         },
         keramin: {
             company: 'everad',
-            campaign_id: '1034114',
+            campaign_id: '1082466',
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Keramin',
@@ -155,7 +155,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1034053',
+            campaign_id: '1082466',
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'Delislim',
@@ -164,7 +164,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: 'NULL',
+            campaign_id: '1082466',
             niche: 'NULL',
             country: 'Romania',
             productName: 'Ophtalax',
@@ -173,7 +173,7 @@ export const productsInfo = {
         },
         rectin: {
             company: 'everad',
-            campaign_id: 'NULL',
+            campaign_id: '1082466',
             niche: 'NULL',
             country: 'Romania',
             productName: 'Rectin',
@@ -184,7 +184,7 @@ export const productsInfo = {
     hu: {
         guavital: {
             company: 'rocketProfit',
-            campaign_id: '532053',
+            campaign_id: '1082468',
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'GUAVITAL+',
@@ -193,7 +193,7 @@ export const productsInfo = {
         },
         wintex: {
             company: 'everad',
-            campaign_id: '1034058',
+            campaign_id: '1082468',
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Wintex Ultra',
@@ -202,7 +202,7 @@ export const productsInfo = {
         },
         exofeet_oil: {
             company: 'rocketProfit',
-            campaign_id: '532030',
+            campaign_id: '1082468',
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Exofeet Oil',
@@ -211,7 +211,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'rocketProfit',
-            campaign_id: '532049',
+            campaign_id: '1082468',
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Paraxan',
@@ -220,7 +220,7 @@ export const productsInfo = {
         },
         deluron: {
             company: 'rocketProfit',
-            campaign_id: '532099',
+            campaign_id: '1082468',
             niche: 'Prosztatagyulladás',
             country: 'Hungary',
             productName: 'Deluron Forte',
@@ -229,7 +229,7 @@ export const productsInfo = {
         },
         visoptic_duo_night: {
             company: 'everad',
-            campaign_id: '1034065',
+            campaign_id: '1082468',
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Night',
@@ -238,7 +238,7 @@ export const productsInfo = {
         },
         visoptic_duo_day: {
             company: 'everad',
-            campaign_id: '1034071',
+            campaign_id: '1082468',
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Day',
@@ -247,7 +247,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1034075',
+            campaign_id: '1082468',
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin',
@@ -256,7 +256,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1034079',
+            campaign_id: '1082468',
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin Peeling',
@@ -265,7 +265,7 @@ export const productsInfo = {
         },
         ottomax: {
             company: 'everad',
-            campaign_id: '1034083',
+            campaign_id: '1082468',
             niche: 'Hallás',
             country: 'Hungary',
             productName: 'Ottomax+',
@@ -274,7 +274,7 @@ export const productsInfo = {
         },
         vermixin: {
             company: 'everad',
-            campaign_id: '1034095',
+            campaign_id: '1082468',
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Vermixin',
@@ -283,7 +283,7 @@ export const productsInfo = {
         },
         wirex: {
             company: 'rocketProfit',
-            campaign_id: '532103',
+            campaign_id: '1082468',
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Wirex men’s formula',
@@ -292,7 +292,7 @@ export const productsInfo = {
         },
         depanten: {
             company: 'everad',
-            campaign_id: '1034099',
+            campaign_id: '1082468',
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Depanten',
@@ -301,7 +301,7 @@ export const productsInfo = {
         },
         feronex: {
             company: 'everad',
-            campaign_id: '1034107',
+            campaign_id: '1082468',
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Feronex',
@@ -310,7 +310,7 @@ export const productsInfo = {
         },
         steplex: {
             company: 'rocketProfit',
-            campaign_id: '532107',
+            campaign_id: '1082468',
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Steplex',
@@ -319,7 +319,7 @@ export const productsInfo = {
         },
         neoveris: {
             company: 'everad',
-            campaign_id: '1034111',
+            campaign_id: '1082468',
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Neoveris',
@@ -328,7 +328,7 @@ export const productsInfo = {
         },
         keramin: {
             company: 'everad',
-            campaign_id: '1034115',
+            campaign_id: '1082468',
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Keramin',
@@ -337,7 +337,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1034054',
+            campaign_id: '1082468',
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'Delislim',
@@ -346,7 +346,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: 'NULL',
+            campaign_id: '1082468',
             niche: 'NULL',
             country: 'Hungary',
             productName: 'Ophtalax',
@@ -355,7 +355,7 @@ export const productsInfo = {
         },
         rectin: {
             company: 'everad',
-            campaign_id: 'NULL',
+            campaign_id: '1082468',
             niche: 'NULL',
             country: 'Hungary',
             productName: 'Rectin',
@@ -366,7 +366,7 @@ export const productsInfo = {
     it: {
         guavital: {
             company: 'rocketProfit',
-            campaign_id: '532054',
+            campaign_id: '1082471',
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'GUAVITAL+',
@@ -375,7 +375,7 @@ export const productsInfo = {
         },
         wintex: {
             company: 'everad',
-            campaign_id: '1034059',
+            campaign_id: '1082471',
             niche: 'Varici',
             country: 'Italy',
             productName: 'Wintex Ultra',
@@ -384,7 +384,7 @@ export const productsInfo = {
         },
         exofeet_oil: {
             company: 'rocketProfit',
-            campaign_id: '532031',
+            campaign_id: '1082471',
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Exofeet Oil',
@@ -393,7 +393,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'rocketProfit',
-            campaign_id: '532050',
+            campaign_id: '1082471',
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Paraxan',
@@ -402,7 +402,7 @@ export const productsInfo = {
         },
         deluron: {
             company: 'rocketProfit',
-            campaign_id: '532100',
+            campaign_id: '1082471',
             niche: 'Prostatite',
             country: 'Italy',
             productName: 'Deluron Forte',
@@ -411,7 +411,7 @@ export const productsInfo = {
         },
         visoptic_duo_night: {
             company: 'everad',
-            campaign_id: '1034066',
+            campaign_id: '1082471',
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Night',
@@ -420,7 +420,7 @@ export const productsInfo = {
         },
         visoptic_duo_day: {
             company: 'everad',
-            campaign_id: '1034072',
+            campaign_id: '1082471',
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Day',
@@ -429,7 +429,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1034076',
+            campaign_id: '1082471',
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin',
@@ -438,7 +438,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1034080',
+            campaign_id: '1082471',
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin Peeling',
@@ -447,7 +447,7 @@ export const productsInfo = {
         },
         ottomax: {
             company: 'everad',
-            campaign_id: '1034084',
+            campaign_id: '1082471',
             niche: 'Udito',
             country: 'Italy',
             productName: 'Ottomax+',
@@ -456,7 +456,7 @@ export const productsInfo = {
         },
         vermixin: {
             company: 'everad',
-            campaign_id: '1034096',
+            campaign_id: '1082471',
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Vermixin',
@@ -465,7 +465,7 @@ export const productsInfo = {
         },
         wirex: {
             company: 'rocketProfit',
-            campaign_id: '532104',
+            campaign_id: '1082471',
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Wirex men’s formula',
@@ -474,7 +474,7 @@ export const productsInfo = {
         },
         depanten: {
             company: 'everad',
-            campaign_id: '1034100',
+            campaign_id: '1082471',
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Depanten',
@@ -483,7 +483,7 @@ export const productsInfo = {
         },
         feronex: {
             company: 'everad',
-            campaign_id: '1034108',
+            campaign_id: '1082471',
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Feronex',
@@ -492,7 +492,7 @@ export const productsInfo = {
         },
         steplex: {
             company: 'rocketProfit',
-            campaign_id: '532108',
+            campaign_id: '1082471',
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Steplex',
@@ -501,7 +501,7 @@ export const productsInfo = {
         },
         neoveris: {
             company: 'everad',
-            campaign_id: '1034112',
+            campaign_id: '1082471',
             niche: 'Varici',
             country: 'Italy',
             productName: 'Neoveris',
@@ -510,7 +510,7 @@ export const productsInfo = {
         },
         keramin: {
             company: 'everad',
-            campaign_id: '1034116',
+            campaign_id: '1082471',
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Keramin',
@@ -519,7 +519,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1034055',
+            campaign_id: '1082471',
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'Delislim',
@@ -528,7 +528,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: 'NULL',
+            campaign_id: '1082471',
             niche: 'NULL',
             country: 'Italy',
             productName: 'Ophtalax',
@@ -537,7 +537,7 @@ export const productsInfo = {
         },
         rectin: {
             company: 'everad',
-            campaign_id: 'NULL',
+            campaign_id: '1082471',
             niche: 'NULL',
             country: 'Italy',
             productName: 'Rectin',
