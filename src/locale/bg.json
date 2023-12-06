@@ -51,9 +51,9 @@
     "faq": {
       "faq_block_title": "FAQ",
       "faq_block_question1": "Сертифицирана ли е продукцията?",
-      "faq_block_answer1": "Всички наши продукти са произведени в сертифицирани производства. И се тестват редовно, за да отговарят на изискванията на Службата за санитарна инспекция на качество и хранителни продукти и лекарствата США (FDA) за хранително-вкусовата промишленост. Валидността на сертификата можете да проверите на сайта FDA, като посочите в заявката името на производството или № на сертификата, посочен на опаковката на продукта",
+      "faq_block_answer1": "Всички наши продукти са произведени в сертифицирани производства. И се тестват редовно, за да отговарят на изискванията на Службата за санитарна инспекция на качество и хранителни продукти и лекарствата США (FDA) за хранително-вкусовата промишленост. Валидността на сертификата можете да проверите на сайта FDA, като посочите в заявката името на производството или № на сертификата, посочен на опаковката на продукта.",
       "faq_block_question2": "Как да разберете начина на използване на продукта?",
-      "faq_block_answer2": "Цялата информация за нанасянето и времето за съхранение се съдържа в продуктовите карти и в отпечатаните инструкции вътре в опаковката",
+      "faq_block_answer2": "Цялата информация за нанасянето и времето за съхранение се съдържа в продуктовите карти и в отпечатаните инструкции вътре в опаковката.",
       "faq_block_question3": "Какви са противопоказанията за хранителни добавки и козметика?",
       "faq_block_answer3": "Ефективността на стоките от тази категория се проверява чрез научни изследвания на свойствата на съставките и клинични изследвания на готовия продукт.",
       "faq_block_question4": "Какви суровини се използват за производството на тази продукция?",
@@ -2132,7 +2132,7 @@
     "reviews_beauty_age_skin": [
       {
         "src": "img/review_beauty-age-skin_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Кети Дрянова",
         "text": "Крем-серум с муцин от охлюв – страхотно лекарство! Изглажда бръчките на 100%! Премахва пигментацията, кожата е подхранена и овлажнена!",
@@ -2161,7 +2161,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Светла Костова",
         "text": "Взех Beauty Age Skin за да го пробвам. Бях възхитена от това средство! Кожата стана много по-добра, здрав цвят, без подуване и възпаление. Супер!",
@@ -2190,7 +2190,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Боряна Йорданова",
         "text": "Beauty Age Skin — най-добрият крем! За моята чувствителна кожа е много трудно да се намери лекарство, но това се получи. Половин година използвам и се наслаждавам на ефекта всеки ден!",
@@ -2219,7 +2219,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Таня Стамова",
         "text": "Серумът е страхотен! Приятните усещания след нанасяне, свежестта и влагата продължават цял ден. Още през втората седмица бръчките станаха по-малко.",
@@ -2248,7 +2248,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Симон Горанов",
         "text": "Перфектен за суха кожа. Овлажнява и подхранва! Бръчките се изглаждат и се стяга контура на лицето. Всеки ден се гледам в огледалото и не мога да се наситя на резултата.",
@@ -2277,7 +2277,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Николай Минчев",
         "text": "Съпругата използва средството Beauty Age Skin. Съм станала по-хубава и по-млада. Изглежда, че не е имало тези 20 години!",
@@ -2306,7 +2306,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Мария Пехливанова",
         "text": "Разбрах за Beauty Age Skin отдавна. Отличен състав и отличен ефект върху кожата. От колко време го използвам, нямаше нито един проблем с кожата. Стегната, без бръчки, овлажнена. Перфектно!",
@@ -2335,7 +2335,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Дора Петкова",
         "text": "Кожата ми беше много проблемна и чувствителна. Серумният крем Beauty Age Skin помогна да се поправи това. Сега лицето е в перфектно състояние. Без бръчки, без петна, без обриви!",
@@ -2364,7 +2364,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Кремена Арабаджиева",
         "text": "Видях Beauty Age Skin при сестра ми. Не сме се виждали от 5 години, а тя не се е променила. Разгадах тайната й и си поръчах. Резултатът е невероятен.",
@@ -2393,7 +2393,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Отлично качество!",
         "name": "Теменужка Пешева",
         "text": "Отличен и лек крем за мазна кожа. Под грима също се вписва добре, не става на топчета и няма усещане за филм по лицето. Прекрасна текстура и аромат!",
@@ -2424,7 +2424,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Тонка Дончева",
         "text": "Прекрасен пилинг. Кожата след него е мека, еластична, без мазен блясък. При което много добре овлажнява и почиства Не предизвика неприятни усещания.",
@@ -2453,7 +2453,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Антоанета Маринова",
         "text": "Отдавна търся такова средство като Beauty Age Skin Peeling – 3 в 1: за измиване, маска и пилинг. Консумира се пестеливо, почиства ефективно. Усещането след употреба е приятно!",
@@ -2482,7 +2482,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Марина Банкова",
         "text": "Отдавна използвам средството Beauty Age Skin Peeling. Освен почистване стяга кожата и изглажда бръчките. Видях ефекта почти веднага!",
@@ -2511,7 +2511,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Петя Петрова",
         "text": "Beauty Age Skin Peeling подходящ за моята чувствителна и суха кожа. Използвам го отдавна и съм много доволна. Много нежно, но в същия момент ефективно средство.",
@@ -2540,7 +2540,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Лиляна Рогозка",
         "text": "От първите дни на употреба кожата стана по-добра. Мека, нежна, кадифена. Възпалението премина, порите се стесниха. Тенът стана по-равномерен.",
@@ -2569,7 +2569,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Галина Мукова",
         "text": "Beauty Age Skin Peeling – най-доброто, което съм опитвала. Предпочитам изключително натурална козметика. Това средство – най-доброто!",
@@ -2598,7 +2598,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "София Венциславова",
         "text": "Естествен състав, приятен, ненатрапчив аромат, икономична консумация и ефект на изглаждане на бръчки. 10 от 10!",
@@ -2627,7 +2627,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Анита Тончева",
         "text": "Започнах да използвам отскоро, но безумно харесвам и съм доволна от резултата. Няма усещане за стягане, кожата е мека, еластична, стегната. Пигментацията се изсветлява и възпалението преминава.",
@@ -2656,7 +2656,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Мартина Пеева",
         "text": "Прекрасно! Мазният блясък изчезна, порите се стесниха. Усеща се, че кожата стана по-еластична и ъглите на устата се повдигнаха. Аз съм развълнувана от резултата.",
@@ -2685,7 +2685,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Отлично качество!",
         "name": "Надежда Дебелянова",
         "text": "Почиства, стяга, овлажнява и подхранва кожата. Толкова много свойства в едно средство и на толкова достъпна цена! Дори пигментните петна станаха по-ясни! От възрастови промени горещо препоръчвам!",
@@ -3153,7 +3153,7 @@
     "reviews_deluron": [
       {
         "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Марина Коев",
         "text": "Преди 3 години ми поставиха диагноза, изпробваха различни средства и схеми за възстановяване. Помогна ми само Deluron Forte. Поръчвах в интернет с доставка с куриер.",
@@ -3182,7 +3182,7 @@
       },
       {
         "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Ангел Гавазов",
         "text": "Добро средство, помага за нормализиране на процеса на уриниране, премахва болката. Действа от първата седмица на употреба. Сексуалното желание също се върна.",
@@ -3212,7 +3212,7 @@
 
       {
         "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Елена Крънчева",
         "text": "Поръчвах за съпруга си. Казва, че има резултат. Започна по-добре да спи през нощта, и сексът се върна в живота ни. Продължава курса.",
@@ -3242,7 +3242,7 @@
 
       {
         "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Стефан Рачев",
         "text": "Много пари и усилия бяха изразходвани за борба с простатита. Но се оказа, че решението е евтино и ефективно. Помогна ми само Deluron Forte. От първите дни ми стана по-добре.",
@@ -3272,7 +3272,7 @@
 
       {
         "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Иван Атанасов",
         "text": "Не вярвах в силата на такива чудодейни средства, докато не опитах Deluron Forte. Премахнах синдрома на болката, възпалението и постоянното желание да отида до тоалетната. Средството работи!",
@@ -3302,7 +3302,7 @@
 
       {
         "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Атанаска Колева",
         "text": "Съпругът вземаше Deluron Forte. Нищо не ми казваше, но настроението му се подобри. Освен това интимният живот се възобнови. Вероятно помага, имайки предвид поведението му.",
@@ -3332,7 +3332,7 @@
 
       {
         "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Дора Манолова",
         "text": "Купих Deluron Forte за дядо ми. Имаше противопоказания за операцията, нямаше други възможности, надяваха се само на Deluron Forte. И той помогна! Размерът на простатата след курса е в нормални граници!",
@@ -3362,7 +3362,7 @@
 
       {
         "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Румен Вълчев",
         "text": "Не знам за нищо по-ефективно от Deluron Forte. Бързо елиминира болката, намалява честотата на желанието за тоалетна. Животът стана по-добър!",
@@ -3392,7 +3392,7 @@
 
       {
         "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Ана Валериева",
         "text": "Съпругът ми имаше проблеми, опита много неща, за да премахне възпалението и болката. Казва, че усети ефект само след Deluron Forte.",
@@ -3422,7 +3422,7 @@
 
       {
         "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Боян Бачев",
         "text": "Добър продукт на базата на растителни съставки. Премахнах всички признаци на простатит, възпалението премина. Не е предизвикал странични ефекти.",
@@ -3452,7 +3452,7 @@
 
       {
         "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Момчил Енев",
         "text": "Простатитът е открит преди 7 години. Живея нормално и без усложнения само благодарение на Deluron Forte. Два профилактични курса годишно и съм без здравословни проблеми.",
@@ -3482,7 +3482,7 @@
 
       {
         "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Георги Петров",
         "text": "Deluron Forte ми препоръча един познат експерт. Премръзнах и дойдох при него с оплаквания. Приятелски ми препоръча това средство. И оплакванията изчезнаха.",
@@ -3511,7 +3511,7 @@
       },
       {
         "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Иван Шеметов",
         "text": "Дълго време страдах от възпаление на простатата. Вече бях готов за операция, но Deluron Forte ми помогна да се избегне. Първо болката изчезна и желанието за тоалетната беше намалено, а след това възпалението напълно изчезна.",
@@ -3541,7 +3541,7 @@
 
       {
         "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Димо Петров",
         "text": "Отдавна не се доверявам на аптечните средства. Когато имам нужда от подкрепа в мъжката част, вземам Deluron Forte. Естествен състав и помага много добре.",
@@ -3571,7 +3571,7 @@
 
       {
         "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Отлично качество!",
         "name": "Румяна Маркова",
         "text": "Изразявам благодарност от себе си и от името на съпруга ми. Благодаря ви за такова отлично средство, бърза доставка и консултация. На съпруга ми помогна! Накрая отново е здрав!",
@@ -4052,7 +4052,7 @@
     "reviews_exofeet": [
       {
         "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Габриела Вранчева",
         "text": "Опитах капките Exofeet Oil миналата година. Проблемът изчезна и оттогава не се появи. Кожата и ноктите на краката са здрави, нищо не ме притеснява.",
@@ -4082,7 +4082,7 @@
 
       {
         "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Оливия Бачева",
         "text": "От първите дни на прилагане на средството Exofeet Oil, сърбежът и неприятната миризма изчезнаха. Продължавам да използвам курса до пълното отстраняване на проблема.",
@@ -4112,7 +4112,7 @@
 
       {
         "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Елена Комитска",
         "text": "Тя живееше с гъбички от години, но се оказа толкова лесно можете да се отървете от тях. Благодарение на Exofeet Oil забравих за тях и се надявам, че е завинаги!",
@@ -4142,7 +4142,7 @@
 
       {
         "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Димитър Жеков",
         "text": "Имам положителен опит с използването на средството Exofeet Oil. Отървах се от гъбичките. Сърбежът, неприятната миризма, пукнатините на краката преминаха бързо!",
@@ -4172,7 +4172,7 @@
 
       {
         "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Фиданка Тодорова",
         "text": "Exofeet Oil — прекрасно средство! Удобен за използване, има приятен аромат. Но най-важното е, че помага. Елиминира сърбежа и помага да се отървете от гъбичките.",
@@ -4202,7 +4202,7 @@
 
       {
         "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Амелия Любенова",
         "text": "Сега вярвам, че можете да се сбогувате с гъбичките по ноктите след няколко седмици. Преди това страдах с месеци. Благодаря за Exofeet Oil!",
@@ -4232,7 +4232,7 @@
 
       {
         "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Илиян Игнатов",
         "text": "Съпругата поръча Exofeet Oil, доставиха го за няколко дни. Пукнатините заздравяха, сърбежът изчезна. Накрая се отървах от лошата миризма. 10 от 10!",
@@ -4262,7 +4262,7 @@
 
       {
         "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Ана Манолова",
         "text": "Добро средство на достъпна цена. Помага от гъбичките, премахва всички признаци на увреждане и възстановява кожата и ноктите. Доволна съм на 100%!",
@@ -4292,7 +4292,7 @@
 
       {
         "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Людмила Огнянова",
         "text": "Опитах се да се отърва от гъбичките с помощта на различни кремове и народни средства. Всичко напразно. Помогна ми само Exofeet Oil. От първите дни сърбежът изчезна, а след това и всичко останало. Сега здрави крака!",
@@ -4322,7 +4322,7 @@
 
       {
         "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Милена Богданова",
         "text": "За Exofeet Oil знам отдавна. От моя собствен опит мога да кажа, че това е най-доброто лекарство за гъбички! След курса няма следи по кожата или ноктите!",
@@ -4352,7 +4352,7 @@
 
       {
         "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Павлета Костова",
         "text": "Exofeet Oil поръчах наскоро и вече виждам резултата. Кожата се овлажнява, става по-мека, дори грубите участъци омекват. Надявам се скоро да спра да крия краката си в затворени обувки…",
@@ -4382,7 +4382,7 @@
 
       {
         "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Румяна Попова",
         "text": "Ако имате нужда от ефективно и евтино лекарство за гъбички, препоръчвам Exofeet Oil! Бързо помага и ви позволява да забравите за тази инфекция завинаги!",
@@ -4411,7 +4411,7 @@
       },
       {
         "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Ирена Челакова",
         "text": "За да се справите с гъбичките, трябва да имате много търпение. Проблемът изисква продължителна терапия, всеки знае това. Но с помощта на Exofeet Oil всичко беше бързо и ефективно. Един курс – и напълно здрави нокти!",
@@ -4441,7 +4441,7 @@
 
       {
         "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Александър Иванов",
         "text": "Беше некомфортно от миризмата, когато свалям обувките си, жена ми ми изпрати Exofeet Oil. Средството помогна. Няма миризма, краката спряха да сърбят от обувките. Половин година не го използвам, но проблемът не се връща!",
@@ -4471,7 +4471,7 @@
 
       {
         "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Отлично качество!",
         "name": "Нина Ангелова",
         "text": "Помогна да се отърва от гъбичките за няколко седмици! Състоянието на кожата се е подобрило, ноктите растат здрави и силни. Бъдете внимателни, когато избирате маникюрист, но по-добре имайте резерв от Exofeet Oil!",
@@ -7645,7 +7645,7 @@
     "reviews_visoptic_duo_day": [
       {
         "src": "img/review_visoptic-duo-day_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Мария Ангелова",
         "text": "Отдавна търся нещо добро за очите. Спрях се върху Visoptic Duo Day. Отлично средство под формата на капсули. Евтино, с растителен състав. И най-важното – ефективно.",
@@ -7675,7 +7675,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Кето Стоянова",
         "text": "Моят незаменим помощник от умора и сухота в очите. Елиминира дискомфорта и овлажнява добре. Ако очите са постоянно в напрежение, Visoptic Duo Day е това, от което се нуждаете!",
@@ -7705,7 +7705,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Стилян Дамянов",
         "text": "По време на употреба зрението ми се подобри значително. Започнах да виждам по-добре, мога да чета без очила. Предметите в далечината все още са малко замъглени, но преди това изобщо не разбирах какво има там.",
@@ -7735,7 +7735,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Джулиана Матеева",
         "text": "Преди това използвах капки за очи, но когато опитах Visoptic Duo Day, разбрах, че тези капсули са най — добрите! Използва се лесно, ефектът е по-силен и по-дълъг.",
@@ -7765,7 +7765,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "София Нейкова",
         "text": "Благодарение на капсулите Visoptic Duo Day, очите престанаха да се сълзят, пердето изчезна пред очите ми, започнах по-добре да виждам. Резултатът е над очакванията ми! Препоръчвам!",
@@ -7795,7 +7795,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Сашко Романов",
         "text": "Използвам капсулите Visoptic Duo Day за превантивни цели. Цялото семейство имаме проблеми с очите. Още на 27 започнах да нося лещи. През последните няколко години зрението само се влошава, но с Visoptic Duo Day стана по-добре.",
@@ -7825,7 +7825,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Станислав Гаспаров",
         "text": "Поради постоянната работа на компютъра, имам далекогледство, болка в очите. Visoptic Duo Day спасява! Премахва неприятните симптоми и зрението се подобрява!",
@@ -7855,7 +7855,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Ками Танасова",
         "text": "Взех Visoptic Duo Day да го тествам. Ефектът беше приятно изненадващ. Зрението се подобри значително. Овлажняващото действие на една капсула е достатъчно за целия ден!",
@@ -7885,7 +7885,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Тихомир Хайгъров",
         "text": "Добър тонизиращ и овлажняващ ефект! Напрежението от очите изчезва. Преди вечерта пред очите ми сякаш имаше воал, след Visoptic Duo Day нямаше такова усещане.",
@@ -7915,7 +7915,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Отлично качество!",
         "name": "Стела Карайванова",
         "text": "Избрах Visoptic Duo Day заради състава му. Много добри съставки, които поддържат здравето на очите. Има ефект със сигурност! Зрението стана по-добро!",
@@ -7946,7 +7946,7 @@
     "reviews_visoptic_duo_night": [
       {
         "src": "img/review_visoptic-duo-night_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Емилия Благоева",
         "text": "Работя на компютъра и с Visoptic Duo Night очите ми се почувстваха много по-добре. Премахват умората от очите. От плюсовете: естествен състав и удобен за използване.",
@@ -7976,7 +7976,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Амелия Тонева",
         "text": "Чудесно средство за хора, които имат проблеми с очите. Очите станаха по-малко уморени, усещането за сухота и дразнене от светлината изчезнаха.",
@@ -8006,7 +8006,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Ани Арнаудова",
         "text": "Visoptic Duo Night помогна за облекчаване на възпалението. От първите дни на употреба стана по-добре, дискомфортът в очите и сълзите изчезнаха.",
@@ -8036,7 +8036,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Огнян Бакъров",
         "text": "Имам проблеми с очите от 25-годишна възраст. Само това средство  спасява от усложнения. Веднага щом почувствам дискомфорт, веднага го използвам. Зрението наистина ли става по-добро.",
@@ -8066,7 +8066,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Генади Влахов",
         "text": "Супер средство за лечение на катаракта и за поддържане на здравето на очите. Помага за подобряване на зрението, премахване на дискомфорта и сухота в очите.",
@@ -8096,7 +8096,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Мартин Данилов",
         "text": "Използвам Visoptic Duo Night за здравето на очите. Наистина помага. На 57 години живея без очила и лещи, виждам добре, дори вечер виждам предмети и текста във вестника отчетливо.",
@@ -8126,7 +8126,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Константин Добрев",
         "text": "Евтино средство. Естествено. Ефективен при различни проблеми със зрението. Подходящ за предотвратяване на нарушения.",
@@ -8156,7 +8156,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Виктория Обрежкова",
         "text": "След инцидента си помислих, че вече няма да мога да виждам. Visoptic Duo Night помогнаха за възстановяване на зрението. Все още има проблеми, но с всеки курс става по-добре!",
@@ -8186,7 +8186,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Кети Лефтерова",
         "text": "Не обичам капки, затова използвам Visoptic Duo Night. Капсулите са много по-удобни, освен това има резултат. Няма дискомфорт в очите дори след цял ден пред монитора.",
@@ -8216,7 +8216,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Отлично качество!",
         "name": "Ани Бодлева",
         "text": "Перфектно се справят с всякакви очни заболявания. Възпаление, сухота, сълзене, дискомфорт — всичко премахва. Зрението също става по-добро!",
@@ -8247,7 +8247,7 @@
     "reviews_wintex_ultra": [
       {
         "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Виктория Върбанов",
         "text": "Wintex Ultra премахна тежестта и подуването от краката още в първите дни. Стана ми много по-леко! Ефективна помощ за хора, които страдат от разширени вени.",
@@ -8277,7 +8277,7 @@
 
       {
         "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Мартин Дафинов",
         "text": "Опитах Wintex Ultra миналата седмица. Добър гел, от първото приложение почувствах облекчение. Ще продължа да го използвам.",
@@ -8307,7 +8307,7 @@
 
       {
         "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Дорина Петракова",
         "text": "Прекрасен гел Wintex Ultra с приятен охлаждащ ефект. Бързо се абсорбира и дава облекчение! Доволна съм на 100%!",
@@ -8337,7 +8337,7 @@
 
       {
         "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Елена Севлиева",
         "text": "Подпухналостта и тежестта изчезнаха, прасците спряха да ме болят. Специални благодарности за бързата доставка и подробните консултации по телефона.",
@@ -8367,7 +8367,7 @@
 
       {
         "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Димо Димитров",
         "text": "Синът ми го използва Wintex Ultra и ми го препоръча. Много добър гел за тези, които живеят с разширени вени или прекарват цял ден изправени. Облекчава тежестта, болката, подуването.",
@@ -8397,7 +8397,7 @@
 
       {
         "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Изабела Манчева",
         "text": "Изхвърлих всички кремове и мехлеми, оставих само Wintex Ultra. Превъзходно средство на приятна цена. Много добре помага! Усещам ефекта веднага след нанасяне!",
@@ -8427,7 +8427,7 @@
 
       {
         "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Мира Коева",
         "text": "След прилагането на гел Wintex Ultra вените наистина станаха по-малко забележими. Съдовите мрежи изчезнаха. Използвам Wintex Ultra курса два пъти годишно и нямам проблеми!",
@@ -8457,7 +8457,7 @@
 
       {
         "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Виктория Рангелова",
         "text": "Поръчвах Wintex Ultra за майка, тя е много доволна. Казва, че й е много по-лесно с този гел. Краката се подуват по-малко, спазмите и болката вече не я притесняват.",
@@ -8487,7 +8487,7 @@
 
       {
         "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Зори Тодорова",
         "text": "Wintex Ultra премахва болката, вените и съдовите мрежи стават по-малко забележими. Удобно е, че няма нужда да ходите никъде за него, можете да поръчате от интернет и да го получите до вратата.",
@@ -8517,7 +8517,7 @@
 
       {
         "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Тони Стоянова",
         "text": "Прекрасен гел! Бързо се абсорбира, придава приятно охлаждане, има лека консистенция и приятен аромат. Използвам втората седмица, вече усещам резултата.",
@@ -8547,7 +8547,7 @@
 
       {
         "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Бети Андонова",
         "text": "Опитах различни мехлеми и кремове от разширени вени, Wintex Ultra — най-доброто лекарство. Страхотен естествен състав и ефективен ефект. Тежестта в краката отмина, чувствам лекота!",
@@ -8577,7 +8577,7 @@
 
       {
         "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Тина Михова",
         "text": "След курс на употреба краката спряха да ме болят, крампите и подуванията изчезнаха! Вените вече не се възпаляват. Смятам да затвърдя резултата с повторен курс.",
@@ -8606,7 +8606,7 @@
       },
       {
         "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Марко Личев",
         "text": "Гелът е ефективен и на достъпна цена. Не помня, друго средство да може да облекчи тежестта в краката за дълго време. Доволен съм от действието и ефективността!",
@@ -8636,7 +8636,7 @@
 
       {
         "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Лора Чакърова",
         "text": "С помощта на Wintex Ultra възвърнах лекотата в краката си и се отървах от паякообразните вени. Плюсове: добър състав, лека текстура и приятен аромат. Няма минуси!",
@@ -8666,7 +8666,7 @@
 
       {
         "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Отлично качество!",
         "name": "Кети Янева",
         "text": "Приятно охлажда, облекчава болката, конвулсиите спират да ви притесняват през нощта. Усетих ефекта от първите дни и всеки ден ми ставаше все по-добре!",
@@ -8697,7 +8697,7 @@
     "reviews_wirex_mens_formula": [
       {
         "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Георги Ковачев",
         "text": "Помогна ми да реша своите „мъжки проблеми“. Няма да ви разказвам подробно, но ерекцията се върна с нова сила. Стига я за дълго време!",
@@ -8727,7 +8727,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Ламбо Токачев",
         "text": "Работи както трябва. През последните месеци няма нито една грешка. Без пристрастяване и странични ефекти.",
@@ -8757,7 +8757,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Борислава Дамянова",
         "text": "Поръчах за съпруга си, когато имахме проблеми в секса. Нещата станаха много по-добри – по-често и по-дълго. Оказва се, че съпругът ми все още може да ме изненада!",
@@ -8787,7 +8787,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Димитър Петров",
         "text": "С възрастта всеки мъж може да се сблъска с проблеми в интимен план. Аз също имах, докато не опитах Wirex men`s formula. Препоръчвам!",
@@ -8817,7 +8817,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Ина Марчева",
         "text": "Бях изненадана от поведението на съпруга ми напоследък, сякаш се върна в младостта си. И тогава намерих в чантата му Wirex men`s formula и разбрах всичко.",
@@ -8847,7 +8847,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Илиян Попов",
         "text": "Мек и дълготраен ефект, може да се приема с алкохол и не вреди на здравето.",
@@ -8877,7 +8877,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Тихомир Добромиров",
         "text": "За един курс може напълно да възстанови вашата „сила“. След курса ефектът продължава. Нямах странични свойства.",
@@ -8907,7 +8907,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Дора Терзиева",
         "text": "Съпругът на фона на стреса започна да има проблеми по мъжката част. Убедих го да опита Wirex men`s formula, и на учудване помогна. Желанието му се върна, сексът е всеки ден!",
@@ -8937,7 +8937,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Румяна Дерменджиева",
         "text": "Страхотно средство! Съпругът ми е доволен от Wirex men`s formula, а аз най-накрая съм доволна от съпруга си. Дори не мислех, че може да издържи с часове!",
@@ -8967,7 +8967,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Ангел Делирадев",
         "text": "Страхотно средство, много добре помага! Благодаря за консултацията и доставката до вратата. Ефектът се появява от първите дни на употреба.",
@@ -8997,7 +8997,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Петър Янковски",
         "text": "Най-доброто средство сред аналозите. Плюсове: достатъчно е да изпиете курса и ефектът се запазва, може да се приема с алкохол, не причинява странични ефекти.",
@@ -9027,7 +9027,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Елена Комитска",
         "text": "От себе си и от името на съпруга ми благодаря много за такова качествено средство. Върна интимността в живота ни, помогна да спасим семейството!",
@@ -9057,7 +9057,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Илия Луков",
         "text": "Има ефект, налягането не се повишава, съвместимо е с алкохола. След курса ефектът продължава. Що се отнася до мен, той е най-добрият продукт от категорията.",
@@ -9087,7 +9087,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Михаил Главчев",
         "text": "Вълнуващо нещо, дълга потентност и засилени усещания. Освен това на доста достъпна цена. Минуси не съм открил.",
@@ -9117,7 +9117,7 @@
 
       {
         "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Отлично качество!",
         "name": "Николай Мечев",
         "text": "Слабо вярвах, че Wirex men`s formula може да помогне, но сгреших. Резултатът се усети от първите дни, след курса здравето се възстанови, нямаше повече проблеми с „ малкия приятел“.",
