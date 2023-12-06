@@ -49,7 +49,7 @@
     "faq": {
       "faq_block_title": "FAQ",
       "faq_block_question1": "Ali so izdelki certificirani?",
-      "faq_block_answer1": "Vsi naši izdelki so izdelani v certificiranih proizvodnih obratih. In se redno preverjajo glede skladnosti z zahtevami ameriške uprave za hrano in zdravila (FDA) za živilsko industrijo. Veljavnost certifikata lahko preverite na spletni strani FDA, tako da v zahtevi navedete ime proizvodnje ali številko certifikata, navedeno na embalaži izdelka",
+      "faq_block_answer1": "Vsi naši izdelki so izdelani v certificiranih proizvodnih obratih. In se redno preverjajo glede skladnosti z zahtevami ameriške uprave za hrano in zdravila (FDA) za živilsko industrijo. Veljavnost certifikata lahko preverite na spletni strani FDA, tako da v zahtevi navedete ime proizvodnje ali številko certifikata, navedeno na embalaži izdelka.",
       "faq_block_question2": "Kako lahko izvem, kako uporabljati izdelek?",
       "faq_block_answer2": "Vse informacije o načinih uporabe in času shranjevanja so na karticah izdelkov, kot tudi v natisnjenih navodilih, ki so v paketu.",
       "faq_block_question3": "Kakšne so kontraindikacije za prehranska dopolnila in kozmetične izdelke?",
@@ -74,9 +74,9 @@
     "category": {
       "category_block_title": "Priljubljene kategorije",
       "category_block_title1": "Lepota",
-      "category_block_description1": "Naravna zdravila za lepoto in mladost",
+      "category_block_description1": "Naravni izdelki za lepoto in mladost",
       "category_block_title2": "Zdravje in imuniteta",
-      "category_block_description2": "Naravna zdravila za podporo zdravju in krepitev imunosti",
+      "category_block_description2": "Naravni izdelki za podporo zdravju in krepitev&nbsp;imunosti",
       "category_block_btn": "Podrobnejši podatki"
     },
     "reviews": {
@@ -280,7 +280,7 @@
         }
       ],
       "text": "322 ocen",
-      "desc": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
+      "desc": "zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
       "link": "deluron.html",
       "tag": "deluron",
       "category": "health",
@@ -532,7 +532,7 @@
         }
       ],
       "text": "297 ocen",
-      "desc": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
+      "desc": "zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
       "link": "wirex.html",
       "tag": "wirex",
       "category": "health",
@@ -604,7 +604,7 @@
         }
       ],
       "text": "311 ocen",
-      "desc": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
+      "desc": "zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
       "link": "feronex.html",
       "tag": "feronex",
       "category": "health",
@@ -1646,7 +1646,7 @@
     "review_count": "322 ocen",
     "niche": "Prostatitis",
     "form_factor": "pretisni omot, kapsule 20 kosov",
-    "short_description": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
+    "short_description": "zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
     "description": "kompleks naravnih izvlečkov za preprečevanje težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški. Delovanje rastlinskih izvlečkov je namenjeno: odpravljanju bolečin in vnetij; vpliva na zdravje prostate; olajša uriniranje; izboljša krvni obtok",
     "compound": "želatina (ovoj kapsule), mikrokristalna celuloza (polnilo), izvleček jagod brusnice, izvleček ploda žagaste palme, izvleček korenine koprive, izvleček ploda tribulus terrestris, izvleček korenine mace, cinkov citrat trihidrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju)",
     "usage": "odrasli naj jemljejo 1 kapsulo 1-2 krat na dan z obroki ali brez njih. Trajanje enega tečaja je 45 dni. Po potrebi se tečaj lahko ponovi. Priporočeni dnevni odmerek je 2 kapsuli",
@@ -1751,7 +1751,7 @@
     "review_count": "297 ocen",
     "niche": "Moč",
     "form_factor": "pretisni omot, kapsule 10 kosov",
-    "short_description": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
+    "short_description": "zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
     "description": "kompleks zeliščnih sestavin, ki povečuje spolno željo in izboljšuje spolno funkcijo pri moških, normalizira funkcionalno stanje genitourinarnega sistema pri erektilni disfunkciji (za povečanje libida in moči), izboljša kakovost sperme, poveča pa tudi duševno in telesno zmogljivost ter prilagoditvene sposobnosti pri moških. Delovanje žične moške formule je posledica\u200B\u200B funkcionalnih lastnosti aktivnih sestavin in je namenjeno reševanju težav s spolno funkcijo, libido, spermatogenezo, spominom in energijo pri moških.",
     "compound": "Izvleček jagod brusnice, želatina (ovoj kapsule), izvleček ploda žagaste palme, izvleček korenine koprive, mikrokristalna celuloza (polnilo), cinkov citrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju), barvila (ovoj kapsule): E171 , E132",
     "usage": "Vzemite 1 kapsulo 1-2 krat na dan z obroki. Trajanje enega tečaja je 45 dni. Po potrebi se tečaj lahko ponovi. Priporočeni dnevni odmerek je 2 kapsuli",
@@ -1781,8 +1781,8 @@
     "review_count": "311 ocen",
     "niche": "Moč",
     "form_factor": "plastični kozarec / 20 kapsul",
-    "short_description": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
-    "description": "kapsule s kompleksom naravnih izvlečkov in cinka. Formula je razvita ob upoštevanju preprečevanja vseh težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški, vključno s težavami z libidom. Delovanje zdravila je namenjeno obnavljanju manjkajočih snovi v telesu, ki jih je težko dobiti s hrano in ki vplivajo na: izboljšanje krvnega obtoka; vplivajo na erekcijo; povečati proizvodnjo testosterona; povečati vzdržljivost telesa; vplivajo na zdravje genitourinarnega sistema in prostate",
+    "short_description": "zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema",
+    "description": "kapsule s kompleksom naravnih izvlečkov in cinka. Formula je razvita ob upoštevanju preprečevanja vseh težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški, vključno s težavami z libidom. Delovanje izdelka je namenjeno obnavljanju manjkajočih snovi v telesu, ki jih je težko dobiti s hrano in ki vplivajo na: izboljšanje krvnega obtoka; vplivajo na erekcijo; povečati proizvodnjo testosterona; povečati vzdržljivost telesa; vplivajo na zdravje genitourinarnega sistema in prostate",
     "compound": "Izvleček plodov žagaste palme (Serenoa repens 5:1); Izvleček korenine koprive (Urtica dioica, 1% Beta-Sitosterol); Izvleček korenine Maca (Lepidium meyenii 10:1); Cink (cinkov citrat). ",
     "usage": "1 kapsula 1-2 krat na dan med obroki ali po njih",
     "contraindications": "posamezna nestrpnost komponent. Ni namenjeno otrokom, nosečnicam in doječim ženskam",
@@ -1829,7 +1829,7 @@
     "short_description": "Krema z baktericidnim delovanjem, namenjena boju proti manifestacijam glive",
     "description": "Vsebuje bioaktivne sestavine s široko paleto dermatoloških in kozmetičnih lastnosti. Spodbuja normalno mikrofloro in ima pomirjujoč učinek na kožo. Ima keratolitični učinek in odstranjuje odmrle plasti kože. Ima učinek vlaženja in mehčanja kože. Spodbuja in spodbuja obnovo epidermalnih celic. Zasnovan za podporo normalnemu stanju kože",
     "compound": "Aqua, glicerin, cetearil alkohol, tekoči parafin, PEG-100 stearat, gliceril stearat, kaprilni/kaprični triglicerid, izvleček cvetov Chamomila Recutita, maslo Butyrospermum Parkii, niacinamid, cinkov oksid, izvleček propolisa, olje Cocos Nucifera, žveplo, Alcloxa, Sali ciklična kislina , izvleček lubja Salix Alba, izvleček lubja/listov betule albe, lesno olje Juniperus Oxycedrus, polisorbat 80, olje listov Melaleuca Alternifolia, olje Mentha Piperita, ksantan gumi, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, BHT, dinatrijev EDTА, linalo ol , limonen",
-    "usage": "nanesite na dobro očiščeno in suho kožo prizadetega območja telesa z lahkimi masažnimi gibi od spodaj navzgor. Pred uporabo se prepričajte, da naredite test za toleranco sestavin zdravila s kožo. <span class=\"color: red\">Pozor:</span> Izogibajte se stiku z očmi",
+    "usage": "nanesite na dobro očiščeno in suho kožo prizadetega območja telesa z lahkimi masažnimi gibi od spodaj navzgor. Pred uporabo se prepričajte, da naredite test za toleranco sestavin izdelka s kožo. <span class=\"color: red\">Pozor:</span> Izogibajte se stiku z očmi",
     "contraindications": "Ne uporabljajte za otroke, mlajše od 3 let, nosečnice in doječe ženske. Ne nanašajte na odprte rane",
     "manufacturer": "Dalmatika (Bolgarija)",
     "suitability": "2 leti",
@@ -2121,7 +2121,7 @@
     "reviews_beauty_age_skin": [
       {
         "src": "img/review_beauty-age-skin_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kira Dakson",
         "text": "Kremni serum s polžjim mucinom je odličen izdelek! Zgladi gube 100%! Odstrani pigmentacije, koža je nahranjena in navlažena!",
@@ -2150,7 +2150,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Selena Sparks",
         "text": "Za preizkus sem vzela Beauty Age Skin. Nad tem izdelkom sem bila navdušena! Koža je postala veliko boljša, zdrave barve, brez oteklin in vnetij. Super!",
@@ -2179,7 +2179,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Berta Irandes",
         "text": "Beauty Age Skin je najboljša krema! Zelo težko je najti izdelek za mojo občutljivo kožo, vendar je ta deloval. Uporabljam ga že šest mesecev in vsak dan uživam v učinku!",
@@ -2208,7 +2208,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lavronia Salva",
         "text": "Serum je super! Prijetni občutki po nanosu, svežina in vlažnost ostanejo ves dan. Že drugi teden je bilo gub manj.",
@@ -2237,7 +2237,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Simona Gorisaldo",
         "text": "Popoln za suho kožo. Vlaži in neguje! Gladi gube in napne konture obraza. Vsak dan se pogledam v ogledalo in ne morem biti bolj zadovoljna z rezultati.",
@@ -2266,7 +2266,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Servanto",
         "text": "Moja žena uporablja Beauty Age Skin. Postala je zelo lepša in mlajša. Zdi se, kot da se teh 20 let ni zgodilo!",
@@ -2295,7 +2295,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Olivija Gakson",
         "text": "Za Beauty Age Skin sem izvedela že dolgo nazaj. Odlična sestava in odličen učinek na kožo. Odkar ga uporabljam, nisem imela niti ene težave s kožo. Napeto, brez gub, hidrirano. Popoln!",
@@ -2324,7 +2324,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Debora Olivjeri",
         "text": "Koža je bila zelo problematična in občutljiva. Kremni serum Beauty Age Skin je to pomagal popraviti. Zdaj je obraz v popolnem stanju. Brez gub, brez madežev, brez izpuščajev!",
@@ -2353,7 +2353,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaudia Šojson",
         "text": "Videla sem Beauty Age Skin pri svoji sestri. Nisva se videla 5 let, vendar se ni spremenila. Ugotovila sem njeno skrivnost in si ga naročila. Rezultat je neverjeten.",
@@ -2382,7 +2382,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tiara Rodrigez",
         "text": "Odlična in lahka krema za mastno kožo. Dobro se poda tudi pod ličila, se ne mečka in ni občutka filma na obrazu. Čudovita tekstura in aroma!",
@@ -2413,7 +2413,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tajra Gabelson",
         "text": "Čudovit piling. Koža po njem je mehka, elastična, brez mastnega sijaja. Dobro čisti in vlaži. Ni povzročalo nelagodja.",
@@ -2442,7 +2442,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Agnes Trevor",
         "text": "Dolgo sem iskal izdelek, kot je Beauty Age Skin Peeling. 3 v 1: za umivanje, masko in piling. Uporablja se zmerno in učinkovito čisti. Občutek po uporabi je prijeten!",
@@ -2471,7 +2471,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Miranda Ralson",
         "text": "Že dolgo časa uporabljam Beauty Age Skin Peeling. Poleg čiščenja kožo napne in zgladi gube. Učinek sem videla skoraj takoj!",
@@ -2500,7 +2500,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Penelopa Less",
         "text": "Beauty Age Skin Peeling je bil primeren za mojo občutljivo in suho kožo. Uporabljam ga že dolgo in sem zelo zadovoljen. Zelo nežen in učinkovit izdelek.",
@@ -2529,7 +2529,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ljusi Klouson",
         "text": "Od prvih dni uporabe je moja koža postala boljša. Mehko, nežno, žametno. Vnetje je izginilo, pore so se zožile. Polt je postala bolj enakomerna.",
@@ -2558,7 +2558,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Frederica Lopez",
         "text": "Beauty Age Skin Peeling je najboljši, kar sem jih poskusila. Najraje imam izključno naravno kozmetiko. Ta izdelek je moj najljubši!",
@@ -2587,7 +2587,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sofia Vergara",
         "text": "Naravna sestava, prijetna, nevsiljiva aroma, varčna poraba in učinek glajenja gub. 10 od 10!",
@@ -2616,7 +2616,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Adriana Torres",
         "text": "Začela sem ga uporabljati pred kratkim, vendar mi je zelo všeč in sem zadovoljna z rezultatom. Ni občutka zategovanja, koža je mehka, elastična, napeta. Pigmentacija se posvetli in vnetje izgine.",
@@ -2645,7 +2645,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martina Pekšak",
         "text": "Čudovito! Masten sijaj je izginil in pore so se skrčile. Koža je postala bolj elastična in ustni kotički so se dvignili. Navdušena nad rezultatom!",
@@ -2674,7 +2674,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Nadin Dortman",
         "text": "Kožo čisti, napne, vlaži in neguje. Toliko lastnosti v enem izdelku in po tako ugodni ceni! Tudi pigmentni madeži so postali svetlejši! Priporočam pri starostnih spremembah!",
@@ -3142,7 +3142,7 @@
     "reviews_deluron": [
       {
         "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Modest Anvari",
         "text": "Diagnozo so mi postavili pred 3 leti in poskusil sem različna zdravila in režime okrevanja. Pomagal je le Deluron Forte. Naročil sem preko spleta z dostavo po kurirju.",
@@ -3171,7 +3171,7 @@
       },
       {
         "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Avgustin Halevi",
         "text": "Dober izdelek, ki pomaga normalizirati proces uriniranja in lajša bolečine. Učinkovito od prvega tedna uporabe. Vrnil se je tudi spolna želja.",
@@ -3200,7 +3200,7 @@
       },
       {
         "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lora Krous",
         "text": "Naročila sem ga za moža. Pravi, da je rezultat. Ponoči sem začel bolje spati, seks se je vrnil v naša življenja. Nadaljuje tečaj.",
@@ -3229,7 +3229,7 @@
       },
       {
         "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Stefan Rodrigez",
         "text": "Veliko denarja in truda je bilo porabljenega za boj proti prostatitisu. A izkazalo se je, da je rešitev poceni in učinkovita. Deluron Forte je pomagal. Od prvih dni je šlo na bolje.",
@@ -3258,7 +3258,7 @@
       },
       {
         "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Otto Zegers",
         "text": "Nisem verjel v moč tako čudežnih zdravil, dokler nisem poskusil Delurona Forte. Odstranjena bolečina, vnetje in stalna želja po odhodu na stranišče. Izdelek deluje!",
@@ -3287,7 +3287,7 @@
       },
       {
         "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaudia Lauders",
         "text": "Moj mož je vzel Deluron Forte. Podrobnosti mi ni povedal, a njegovo razpoloženje se je izboljšalo. Poleg tega se je nadaljevalo intimno življenje. Verjetno pomaga, saj so takšne spremembe v njegovem vedenju.",
@@ -3316,7 +3316,7 @@
       },
       {
         "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dolores Krouford",
         "text": "Kupila sem Deluron Forte za svojega dedka. Za operacijo so bile kontraindikacije, drugih možnosti ni bilo, upali so le na Deluron Forte. In pomagal je! Velikost prostate po tečaju je v mejah normale!",
@@ -3345,7 +3345,7 @@
       },
       {
         "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Voravski",
         "text": "Ne poznam nič bolj učinkovitega kot Deluron Forte. Hitro odpravi bolečino, zmanjša pogostost želje po odhodu na stranišče. Življenje je postalo boljše!",
@@ -3374,7 +3374,7 @@
       },
       {
         "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Anna Veltibor",
         "text": "Moj mož je imel težave in je poskusil marsikaj za odpravo vnetij in bolečin. Pravi, da je učinek začutil šele po Deluronu Forte.",
@@ -3403,7 +3403,7 @@
       },
       {
         "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Bernard Kovalski",
         "text": "Dober izdelek na osnovi zeliščnih sestavin. Odstranili so vse znake prostatitisa, vnetje je izginilo. Ni povzročil nobenih stranskih učinkov.",
@@ -3432,7 +3432,7 @@
       },
       {
         "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lui Dortson",
         "text": "Prostatitis so odkrili pred 7 leti. Samo zaradi Delurona Forte živim normalno in brez zapletov. Dva preventivna tečaja na leto in brez zdravstvenih težav.",
@@ -3461,7 +3461,7 @@
       },
       {
         "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Hans Salzmann",
         "text": "Deluron Forte je priporočil znani strokovnjak. Zmrznil sem in prišel k njemu s pritožbami. Ta izdelek sem prijazno priporočil. Pritožbe so izginile.",
@@ -3490,7 +3490,7 @@
       },
       {
         "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Josef Šostek",
         "text": "Dolgo sem trpel za vnetjem prostate. Bil sem že pripravljen na operacijo, vendar je Deluron Forte pomagal preprečiti to. Najprej je bolečina izzvenela in želja po odhodu na stranišče se je zmanjšala, nato pa je vnetje popolnoma izginilo.",
@@ -3519,7 +3519,7 @@
       },
       {
         "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Roland Klark",
         "text": "Lekarniškim izdelkom že dolgo ne zaupam več. Ko potrebujem moško podporo, vzamem Deluron Forte. Naravna sestava in dobro pomaga.",
@@ -3548,7 +3548,7 @@
       },
       {
         "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rolana Graves",
         "text": "Zahvaljujem se v svojem imenu in imenu svojega moža. Hvala za tako čudovit izdelek, hitro dostavo in svetovanje. Pomagal mojemu možu! Končno je spet zdrav!",
@@ -4016,7 +4016,7 @@
     "reviews_exofeet": [
       {
         "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gabriel Vernos",
         "text": "Lansko leto sem preizkusil Exofeet Oil kapljice. Težava je izginila in se od takrat ni več pojavila. Koža in nohti na nogah so zdravi, nič me ne moti.",
@@ -4045,7 +4045,7 @@
       },
       {
         "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Olivija Bolton",
         "text": "Od prvih dni uporabe Exofeet Oil sta srbenje in neprijeten vonj izginila. Tečaj nadaljujem, dokler težava ni popolnoma odpravljena.",
@@ -4074,7 +4074,7 @@
       },
       {
         "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lina Ivašesku",
         "text": "Dolga leta sem živela z glivicami, a izkazalo se je, da se jih lahko znebite tako enostavno. Zahvaljujoč Exofeet Oil sem na to pozabila in upam, da za vedno!",
@@ -4103,7 +4103,7 @@
       },
       {
         "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dimitrij Žehnad",
         "text": "Imam pozitivne izkušnje z uporabo Exofeet Oil. Znebil se glivic. Srbenje, neprijeten vonj in razpoke na nogah so hitro izginili!",
@@ -4132,7 +4132,7 @@
       },
       {
         "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Fernanda Torres",
         "text": "Exofeet Oil je čudovit izdelek! Priročen za uporabo, ima prijetno aromo. Ampak glavno je, da pomaga. Odpravlja srbenje in pomaga znebiti glivic.",
@@ -4161,7 +4161,7 @@
       },
       {
         "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Amelija Levanson",
         "text": "Zdaj verjamem, da se lahko v nekaj tednih poslovite od glivic na nohtih. Pred tem sem trpela več mesecev. Hvala za Exofeet Oil!",
@@ -4190,7 +4190,7 @@
       },
       {
         "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lorenzo Ibanes",
         "text": "Moja žena je naročila Exofeet Oil, dostavljeno je bilo v nekaj dneh. Razpoke so se zacelile in srbenje je izginilo. Končno se je znebil neprijetnega vonja. 10 od 10!",
@@ -4219,7 +4219,7 @@
       },
       {
         "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Arija Dauson",
         "text": "Dober izdelek po dostopni ceni. Pomaga proti glivicam, odpravlja vse znake poškodb ter obnavlja kožo in nohte. 100% zadovoljna!",
@@ -4248,7 +4248,7 @@
       },
       {
         "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lizzi Laundes",
         "text": "Poskušal sem se znebiti glivic z različnimi kremami in ljudskimi zdravili. Vse zaman. Pomagalo je le Exofeet Oil. Od prvih dni je srbenje izginilo, nato pa vse ostalo. Zdaj zdrave noge!",
@@ -4277,7 +4277,7 @@
       },
       {
         "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marta Goddes",
         "text": "Za Exofeet Oil vem že dolgo. Iz lastnih izkušenj lahko rečem, da je to najboljše zdravilo za glivice! Po tečaju ni bilo nobenih sledi na koži ali nohtih!",
@@ -4306,7 +4306,7 @@
       },
       {
         "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Pavlina Rekbeš",
         "text": "Pred kratkim sem naročil Exofeet Oil in že vidim rezultate. Koža se je navlažila, postala mehkejša, tudi hrapavi predeli so se zmehčali. Upam, da bom kmalu nehala skrivati ​​noge v zaprtih čevljih...",
@@ -4335,7 +4335,7 @@
       },
       {
         "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rolana Petrasku",
         "text": "Če potrebujete učinkovito in poceni zdravilo proti glivicam, priporočam Exofeet Oil! Hitro pomaga in vam omogoča, da za vedno pozabite na to okužbo!",
@@ -4364,7 +4364,7 @@
       },
       {
         "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ingrid Šarton",
         "text": "Spopadanje z glivicami zahteva veliko potrpljenja. Težava zahteva dolgotrajno terapijo, to vsi vedo. A s pomočjo Exofeet Oil je bilo vse hitro in učinkovito. En tečaj - in popolnoma zdravi nohti!",
@@ -4393,7 +4393,7 @@
       },
       {
         "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alejandro Malber",
         "text": "Bilo mi je neprijetno zaradi vonja, ko sem se sezul, žena mi je prinesla Exofeet Oil. Zdravilo je pomagalo. Ni vonja, noge so me po nošenju čevljev prenehale srbeti. Nisem ga uporabljal šest mesecev in težava se ni vrnila!",
@@ -4422,7 +4422,7 @@
       },
       {
         "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ninel Lambert",
         "text": "Pomagal mi je, da sem se znebila glivic v nekaj tednih! Stanje kože se je izboljšalo, nohti rastejo zdravi in ​​močni. Bodite previdni pri izbiri manikerice ali še bolje imejte Exofeet Oil na zalogi!",
@@ -6288,7 +6288,7 @@
       },
       {
         "src": "img/review_paraxan_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rosita Funches",
         "text": "Sem kategorično proti farmacevtskim izdelkom, bojim se stranskih učinkov. Ampak razumem, da se včasih ne morete spopasti z ljudskimi metodami. Za čiščenje uporabljam Paraxan. Odličen izdelek z naravnimi sestavinami.",
@@ -6696,7 +6696,7 @@
       },
       {
         "src": "img/review_steplex_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;STEPLEX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mihael Ferdinez",
         "text": "Steplex uporabljam za bolečine v mišicah in modrice. Pomaga! Takoj postane lažje.",
@@ -7512,7 +7512,7 @@
     "reviews_visoptic_duo_day": [
       {
         "src": "img/review_visoptic-duo-day_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Maria Alonso",
         "text": "Že dolgo iščem nekaj dobrega za oči. Odločila sem se za Visoptic Duo Day. Odličen izdelek v obliki kapsul. Poceni, z zeliščno sestavo. In kar je najpomembneje - učinkovito.",
@@ -7541,7 +7541,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kejt Smits",
         "text": "Moj nepogrešljiv pomočnik pri utrujenosti in suhih očeh. Odpravlja nelagodje in dobro vlaži. Če so vaše oči nenehno pod obremenitvijo, je Visoptic Duo Day tisto, kar potrebujete!",
@@ -7570,7 +7570,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Serhio Fergaro",
         "text": "Med uporabo se mi je vid opazno izboljšal. Bolje vidim, berem brez očal. Predmeti v daljavi so še vedno malo zamegljeni, prej pa sploh nisem razumel, kaj je tam.",
@@ -7599,7 +7599,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džuliana Mej",
         "text": "Prej sem uporabljala kapljice za oči, ko pa sem poskusila Visoptic Duo Day, sem ugotovila, da so te kapsule najboljše! Je enostavnejša za uporabo, učinek je močnejši in dolgotrajnejši.",
@@ -7628,7 +7628,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sofi Nolan",
         "text": "Zahvaljujoč Visoptic Duo Day kapsulam so se mi oči prenehale solziti, zamegljen vid je izginil in vid se je začel izboljševati. Obstaja rezultat! Priporočam!",
@@ -7657,7 +7657,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Šarlotte Mikreg",
         "text": "Kapsule Visoptic Duo Day uporabljam preventivno. Vsa družina ima težave z očmi. Leče sem začela nositi pri 27 letih. V zadnjih nekaj letih se je moj vid samo poslabšal, z Visoptic Duo Day pa se izboljšuje.",
@@ -7686,7 +7686,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Čarls Konnelly",
         "text": "Zaradi nenehnega dela za računalnikom, daljnovidnost, bolečine v očeh in rdeče krvne žilice na beločnicah. Visoptic Duo Day reši! Odstrani neprijetne simptome in izboljša vid!",
@@ -7715,7 +7715,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kamila Fergares",
         "text": "Na test sem vzela Visoptic Duo Day. Učinek je bil prijetno impresiven. Vizija se je opazno izboljšala. Vlažilni učinek ene kapsule zadostuje za ves dan!",
@@ -7744,7 +7744,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Timoti Gelbert",
         "text": "Dober tonični in vlažilni učinek! Lajša napetost oči. Prej je bilo zvečer, kot da bi bila tančica pred očmi, po Visoptic Duo Day pa tega občutka ni več.",
@@ -7773,7 +7773,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Stella Klarson",
         "text": "Visoptic Duo Day sem izbrala zaradi sestave. Veliko dobrih sestavin, ki podpirajo zdravje oči. Učinek je! Vid se je izboljšal!",
@@ -7804,7 +7804,7 @@
     "reviews_visoptic_duo_night": [
       {
         "src": "img/review_visoptic-duo-night_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Emma Mejson",
         "text": "Delam za računalnikom in z Visoptic Duo Night se moje oči počutijo veliko bolje. Lajša utrujenost iz oči. Za: naravna sestava in enostavna uporaba.",
@@ -7833,7 +7833,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alberta Tornton",
         "text": "Čudovito zdravilo za ljudi, ki imajo težave z očmi. Oči so se začele manj utrujati, občutek suhosti in razdraženosti na svetlobo je izginil.",
@@ -7862,7 +7862,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Loren Grabs",
         "text": "Visoptic Duo Night je pomagal pri lajšanju vnetja. Od prvih dni uporabe je postalo bolje, nelagodje v očeh in solzenje sta izginila.",
@@ -7891,7 +7891,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Orest Švaln",
         "text": "Že od 25. leta imam težave z očmi. Samo to zdravilo vas reši pred zapleti. Takoj ko začutim nelagodje, ga takoj uporabim. Vid se resnično izboljša.",
@@ -7920,7 +7920,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gabriel Viraldi",
         "text": "Odlično zdravilo za sivo mreno in za podporo zdravja oči. Pomaga izboljšati vid, odpravi nelagodje in suhe oči.",
@@ -7949,7 +7949,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mario Gabrilos",
         "text": "Uporabljam Visoptic Duo Night za zdravje oči. Pomagajo. Pri 57 letih živim brez očal in leč, vidim dobro, tudi zvečer jasno vidim predmete in besedilo v časopisu.",
@@ -7978,7 +7978,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alberto Diaz",
         "text": "Poceni izdelek. Naravno. Učinkovito pri različnih težavah z vidom. Primerno za preprečevanje kršitev.",
@@ -8007,7 +8007,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Victoria Ošwald",
         "text": "Po nesreči sem mislila, da ne bom več videla. Visoptic Duo Night je pomagal obnoviti vid. Še vedno so težave, vendar je z vsakim tečajem bolje!",
@@ -8036,7 +8036,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Katalina Lopez",
         "text": "Ne maram kapljic, zato uporabljam Visoptic Duo Night. Kapsule so veliko bolj priročne in poleg tega sem dobilа rezultat. Brez nelagodja v očeh tudi po celem dnevu za monitorjem.",
@@ -8065,7 +8065,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Agnia Fergano",
         "text": "Dobro se spopadajo z vsemi očesnimi boleznimi. Vnetje, suhost, solzenje, nelagodje - vse je odstranjeno. Tudi vaš vid se izboljšuje!",
@@ -8096,7 +8096,7 @@
     "reviews_wintex_ultra": [
       {
         "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Viktorija Verber",
         "text": "Wintex Ultra je v prvih dneh odstranil težo in otekanje nog. Postalo je veliko lažje. Učinkovita pomoč ljudem s krčnimi žilami.",
@@ -8125,7 +8125,7 @@
       },
       {
         "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marcl Lučiano",
         "text": "Prejšnji teden sem preizkusil Wintex Ultra. Dober gel, že po prvi uporabi sem občutil olajšanje. Še naprej ga bom uporabljal.",
@@ -8154,7 +8154,7 @@
       },
       {
         "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dorina Petrak",
         "text": "Odličen Wintex Ultra gel s prijetnim hladilnim učinkom. Hitro se vpije in daje olajšanje! 100% zadovoljna!",
@@ -8183,7 +8183,7 @@
       },
       {
         "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Olena Sparks",
         "text": "Oteklina in teža sta izginila, teleta so prenehala boleti. Posebna zahvala za hitro dostavo in podrobno posvetovanje po telefonu.",
@@ -8212,7 +8212,7 @@
       },
       {
         "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džošua Martin",
         "text": "Moj sin uporablja Wintex Ultra in mi ga je priporočil. Odličen gel za tiste, ki živijo s krčnimi žilami ali cele dneve preživijo stoje. Lajša težo, bolečino, oteklino.",
@@ -8241,7 +8241,7 @@
       },
       {
         "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Isabella Mardono",
         "text": "Vse kreme in mazila sem vrgla stran, ostal je le Wintex Ultra. Odličen izdelek po razumni ceni. Pomaga! Učinek začutim takoj po nanosu!",
@@ -8270,7 +8270,7 @@
       },
       {
         "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alba Rimmel",
         "text": "Po uporabi Wintex Ultra gela so žile res postale manj opazne. Vaskularne mreže so izginile. Dvakrat na leto uporabljam tečaje Wintex Ultra in nimam težav!",
@@ -8299,7 +8299,7 @@
       },
       {
         "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Vajolett Ronaldo",
         "text": "Za mamo sem naročila Wintex Ultra, zelo je zadovoljna. Pravi, da se s tem gelom počuti veliko bolje. Noge manj otekajo, krči in bolečine me nehajo mučiti.",
@@ -8328,7 +8328,7 @@
       },
       {
         "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Zara Ferran",
         "text": "Wintex Ultra lajša bolečine, žilice in pajkaste vene postanejo manj opazne. Priročno je, da vam ni treba iti nikamor, da ga dobite; lahko ga naročite prek spleta in dobite na svojih vratih.",
@@ -8357,7 +8357,7 @@
       },
       {
         "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Frederika Suares",
         "text": "Odličen gel! Hitro se vpije, prijetno hladi, je lahke konsistence in prijetne arome. Uporabljam ga že drugi teden in že čutim rezultate.",
@@ -8386,7 +8386,7 @@
       },
       {
         "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Eliza Darron",
         "text": "Poskušala sem različna mazila in kreme za krčne žile, Wintex Ultra je najboljše zdravilo. Odlična naravna sestava in učinkovit učinek. Teža v nogah je izginila, počutim se lahkotno!",
@@ -8415,7 +8415,7 @@
       },
       {
         "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tina Alsar",
         "text": "Po tečaju uporabe so me noge prenehale boleti, krči in otekline so izginile! Žile se ne vnamejo več. Rezultate nameravam utrditi s ponovnim tečajem.",
@@ -8444,7 +8444,7 @@
       },
       {
         "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marcus Lobio",
         "text": "Gel je učinkovit in cenovno dostopen. Ne spomnim se, da bi kakšno drugo zdravilo za dolgo časa ublažilo težo v mojih nogah. Zadovoljen z delovanjem in učinkovitostjo!",
@@ -8473,7 +8473,7 @@
       },
       {
         "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Laura Česnej",
         "text": "S pomočjo Wintex Ultra sem povrnila lahkotnost v noge in se znebila pajkastih žilic. Za: dobra sestava, lahka tekstura in prijetna aroma. Ni slabosti!",
@@ -8502,7 +8502,7 @@
       },
       {
         "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kejtlin Tompson",
         "text": "Prijetno hladi, lajša bolečine, nočni krči so me prenehali mučiti. Učinek sem čutil od prvih dni in vsak dan je bil boljši!",
@@ -8533,7 +8533,7 @@
     "reviews_wirex_mens_formula": [
       {
         "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džeremi Klosak",
         "text": "Pomagal mi je rešiti moje \"moške težave\". Ne bom šel v podrobnosti, vendar se je moja erekcija vrnila z novo močjo. Dolgo traja!",
@@ -8562,7 +8562,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ljubert Ferdinez",
         "text": "Deluje kot mora. V zadnjih mesecih niti enega neuspelega vžiga. Brez zasvojenosti ali stranskih učinkov.",
@@ -8591,7 +8591,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Delaskon",
         "text": "Naročila sem ga možu, ko sva imela težave s seksom. Vse je postalo veliko bolje, pogosteje in dlje. Izkazalo se je, da me mož še vedno lahko preseneti!",
@@ -8620,7 +8620,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Diego Santjago",
         "text": "S starostjo se lahko vsak moški sooči s težavami v intimnem smislu. Tudi jaz sem jih imela, dokler nisem preizkusil  Wirex moške formule. Priporočam!",
@@ -8649,7 +8649,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaudija Elkasar",
         "text": "Presenetilo me je moževo obnašanje v zadnjem času, kot da se je vrnil v mladost. In potem sem v njegovi torbi našla moško formulo Wirex in vse razumela.",
@@ -8678,7 +8678,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucio Markes",
         "text": "Ima blag in dolgotrajen učinek, lahko ga jemljemo z alkoholom in ne škoduje zdravju.",
@@ -8707,7 +8707,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tomaš Žardek",
         "text": "Med tečajem vam lahko popolnoma povrne \"moč\". Po tečaju učinek ostane. Stranskih učinkov nisem imel.",
@@ -8736,7 +8736,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dafna Fokstrit",
         "text": "Mož je zaradi stresa začel imeti težave »po moško«. Moža sem prepričala, da poskusi Wirex moško formulo, pomagalo je! Vrnila se mu je želja, seks vsak dan!",
@@ -8765,7 +8765,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rebeka Štrauson",
         "text": "Odlično orodje. Moj mož je zadovoljen z moško formulo Wirex, jaz pa končno zadovoljna s svojim možem. Sploh si nisem mislila, da lahko zdrži ure in ure!",
@@ -8794,7 +8794,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Avgustin Petres",
         "text": "Odličen izdelek, pomaga! Hvala za posvet in dostavo do vrat. Učinek se je pojavil od prvih dni uporabe.",
@@ -8823,7 +8823,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Orlando Dajres",
         "text": "Najboljši izdelek med analogi. Prednosti: samo vzemite tečaj in učinek ostane, lahko se jemlje z alkoholom, ne povzroča stranskih učinkov.",
@@ -8852,7 +8852,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lena Gavroš",
         "text": "V svojem in moževem imenu se vam najlepše zahvaljujem za tako kvaliteten izdelek. V naša življenja je vrnil intimnost in pomagal rešiti družino!",
@@ -8881,7 +8881,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lukijan Mornaš",
         "text": "Učinek je, ne zvišuje krvnega tlaka, je združljiv z alkoholom. Po tečaju ostane rezultat. Po mojem mnenju najboljši izdelek v kategoriji.",
@@ -8910,7 +8910,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mihael Vernandez",
         "text": "Vznemirljiva stvar, dolga moč in izboljšani občutki. Poleg tega po dokaj ugodni ceni. Nisem našel nobenih slabosti.",
@@ -8939,7 +8939,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Vajns",
         "text": "Malo sem verjel, da lahko moška formula Wirex pomaga, a sem se motil. Rezultat sem čutil od prvih dni, po tečaju se mi je zdravje povrnilo, s \"prijateljem\" ni bilo več težav.",
@@ -9436,7 +9436,7 @@
       },
       {
         "src": "img/review_ophtalax_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Jan Pirc",
         "text": "Ophtalax jemljem že nekaj tednov - začel sem videti jasneje, tudi predmete v daljavi, ki so bili zame prej motni. Zelo zadovoljen z izdelkom.",
@@ -9523,7 +9523,7 @@
       },
       {
         "src": "img/review_ophtalax_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Maja Zupan",
         "text": "Ophtalax je odličen izdelek za vse, ki veliko časa preživite pred monitorjem. Kopriva pomaga pri sproščanju napetosti, cink pa izboljša ostrino vida.",

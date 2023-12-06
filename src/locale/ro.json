@@ -49,7 +49,7 @@
     "faq": {
       "faq_block_title": "FAQ",
       "faq_block_question1": "Produsele sunt certificate?",
-      "faq_block_answer1": "Toate produsele noastre sunt fabricate la instalații de producție certificate. Și sunt verificate în mod regulat pentru respectarea cerințelor Administrației SUA pentru alimente și medicamente (FDA) pentru industria alimentară. Puteți verifica valabilitatea certificatului pe site-ul FDA, specificând în cerere numele producției sau numărul certificatului indicat pe ambalajul produsului",
+      "faq_block_answer1": "Toate produsele noastre sunt fabricate la instalații de producție certificate. Și sunt verificate în mod regulat pentru respectarea cerințelor Administrației SUA pentru alimente și medicamente (FDA) pentru industria alimentară. Puteți verifica valabilitatea certificatului pe site-ul FDA, specificând în cerere numele producției sau numărul certificatului indicat pe ambalajul produsului.",
       "faq_block_question2": "Cum aflu cum să folosesc produsul?",
       "faq_block_answer2": "Toate informațiile despre metodele de aplicare și timpul de stocare se află pe cardurile produsului, precum și în instrucțiunile tipărite care se află în interiorul ambalajului.",
       "faq_block_question3": "Care sunt contraindicațiile pentru suplimentele alimentare și cosmeceuticele?",
@@ -57,7 +57,7 @@
       "faq_block_question4": "Ce materii prime sunt utilizate pentru producerea acestor produse?",
       "faq_block_answer4": "Pentru suplimente alimentare și cosmetice sunt utilizate numai ingrediente naturale și extractele de origine vegetală sau animală.",
       "faq_block_question5": "Cum se verifică eficacitatea suplimentelor alimentare și a produselor cosmetice?",
-      "faq_block_answer5": "Toate suplimentele alimentare au o bază științifică bazată pe dovezi și trebuie să treacă prin studii de laborator și clinice\t\t\t\t"
+      "faq_block_answer5": "Toate suplimentele alimentare au o bază științifică bazată pe dovezi și trebuie să treacă prin studii de laborator și clinice."
     },
     "header": {
       "header_block_slide1_title": "Puterea naturii pentru frumusețea ta",
@@ -2127,7 +2127,7 @@
       {
         "src": "img/review_beauty-age-skin_1.png",
         "name": "Sonia Birău",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2156,7 +2156,7 @@
       {
         "src": "img/review_beauty-age-skin_2.png",
         "name": "Delia Chiriţă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2185,7 +2185,7 @@
       {
         "src": "img/review_beauty-age-skin_3.png",
         "name": "Sonia Birău",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2214,7 +2214,7 @@
       {
         "src": "img/review_beauty-age-skin_4.png",
         "name": "Daria Pavel",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2243,7 +2243,7 @@
       {
         "src": "img/review_beauty-age-skin_5.png",
         "name": "Adelina Pălici",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2272,7 +2272,7 @@
       {
         "src": "img/review_beauty-age-skin_6.png",
         "name": "Ștefan Mălâia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2301,7 +2301,7 @@
       {
         "src": "img/review_beauty-age-skin_7.png",
         "name": "Mara Olteanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2330,7 +2330,7 @@
       {
         "src": "img/review_beauty-age-skin_8.png",
         "name": "Săsăran Mhădă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2359,7 +2359,7 @@
       {
         "src": "img/review_beauty-age-skin_9.png",
         "name": "Elena Bratosin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2388,7 +2388,7 @@
       {
         "src": "img/review_beauty-age-skin_10.png",
         "name": "Niță Vlăsceanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2419,7 +2419,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
         "name": "Denisa Şonda",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2448,7 +2448,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
         "name": "Lidia Pavel",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2477,7 +2477,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
         "name": "Larisa Dumitru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2506,7 +2506,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
         "name": "Victoria Radu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2535,7 +2535,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
         "name": "Zoe Chirilă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2564,7 +2564,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
         "name": "Adina Călin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2593,7 +2593,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
         "name": "Denisa Tocmelea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2622,7 +2622,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
         "name": "Carmen Țuțea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2651,7 +2651,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
         "name": "Andreea Şonda",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -2680,7 +2680,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
         "name": "Roberta Buţi",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty Age Skin Peeling",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3148,7 +3148,7 @@
       {
         "src": "img/review_deluron-forte_1.png",
         "name": "Modest Florescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3177,7 +3177,7 @@
       {
         "src": "img/review_deluron-forte_2.png",
         "name": "Augustin Dumbravă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3207,7 +3207,7 @@
       {
         "src": "img/review_deluron-forte_3.png",
         "name": "Laura Dragan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3237,7 +3237,7 @@
       {
         "src": "img/review_deluron-forte_4.png",
         "name": "Stefan Gheorghe",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3267,7 +3267,7 @@
       {
         "src": "img/review_deluron-forte_5.png",
         "name": "Sebastian Tămaș",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3297,7 +3297,7 @@
       {
         "src": "img/review_deluron-forte_6.png",
         "name": "Lorena Moraru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3327,7 +3327,7 @@
       {
         "src": "img/review_deluron-forte_7.png",
         "name": "Dana Cloru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3357,7 +3357,7 @@
       {
         "src": "img/review_deluron-forte_8.png",
         "name": "Sergiu Ghiță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3387,7 +3387,7 @@
       {
         "src": "img/review_deluron-forte_9.png",
         "name": "Ana Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3417,7 +3417,7 @@
       {
         "src": "img/review_deluron-forte_10.png",
         "name": "Florin Niță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3447,7 +3447,7 @@
       {
         "src": "img/review_deluron-forte_11.png",
         "name": "Mădălin Cătălin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3477,7 +3477,7 @@
       {
         "src": "img/review_deluron-forte_12.png",
         "name": "Pavel Manole",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3506,7 +3506,7 @@
       {
         "src": "img/review_deluron-forte_13.png",
         "name": "Anton Frățilă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3536,7 +3536,7 @@
       {
         "src": "img/review_deluron-forte_14.png",
         "name": "Marius Iancu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3566,7 +3566,7 @@
       {
         "src": "img/review_deluron-forte_15.png",
         "name": "Rolana Balan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4047,7 +4047,7 @@
       {
         "src": "img/review_exofeet-oil_1.png",
         "name": "Radu Balan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4077,7 +4077,7 @@
       {
         "src": "img/review_exofeet-oil_2.png",
         "name": "Sofia Mălâia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4107,7 +4107,7 @@
       {
         "src": "img/review_exofeet-oil_3.png",
         "name": "Anastasia Drăgan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4137,7 +4137,7 @@
       {
         "src": "img/review_exofeet-oil_4.png",
         "name": "Dumitru Troian",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4167,7 +4167,7 @@
       {
         "src": "img/review_exofeet-oil_5.png",
         "name": "Delia Bratosin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4197,7 +4197,7 @@
       {
         "src": "img/review_exofeet-oil_6.png",
         "name": "Elisabeta Mălăeru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4227,7 +4227,7 @@
       {
         "src": "img/review_exofeet-oil_7.png",
         "name": "Mădălin  Țuțea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4257,7 +4257,7 @@
       {
         "src": "img/review_exofeet-oil_8.png",
         "name": "Monica Pălici",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4287,7 +4287,7 @@
       {
         "src": "img/review_exofeet-oil_9.png",
         "name": "Ania Pîndaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4317,7 +4317,7 @@
       {
         "src": "img/review_exofeet-oil_10.png",
         "name": "Brândușa Radu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4347,7 +4347,7 @@
       {
         "src": "img/review_exofeet-oil_11.png",
         "name": "Maria Mălâia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4377,7 +4377,7 @@
       {
         "src": "img/review_exofeet-oil_12.png",
         "name": "Catarina Bejan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4406,7 +4406,7 @@
       {
         "src": "img/review_exofeet-oil_13.png",
         "name": "Irăna Șonda",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4436,7 +4436,7 @@
       {
         "src": "img/review_exofeet-oil_14.png",
         "name": "Alexandru Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4466,7 +4466,7 @@
       {
         "src": "img/review_exofeet-oil_15.png",
         "name": "Ioana Lacu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7791,7 +7791,7 @@
       {
         "src": "img/review_visoptic-duo-day_1.png",
         "name": "Maria Aleescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7821,7 +7821,7 @@
       {
         "src": "img/review_visoptic-duo-day_2.png",
         "name": "Mirela Constantinescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7851,7 +7851,7 @@
       {
         "src": "img/review_visoptic-duo-day_3.png",
         "name": "Sergiu Ursu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7881,7 +7881,7 @@
       {
         "src": "img/review_visoptic-duo-day_4.png",
         "name": "Angela Musteață",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7911,7 +7911,7 @@
       {
         "src": "img/review_visoptic-duo-day_5.png",
         "name": "Sofia Lopac",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7941,7 +7941,7 @@
       {
         "src": "img/review_visoptic-duo-day_6.png",
         "name": "Aurelia Roșu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -7971,7 +7971,7 @@
       {
         "src": "img/review_visoptic-duo-day_7.png",
         "name": "Chirilă Ifrim",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8001,7 +8001,7 @@
       {
         "src": "img/review_visoptic-duo-day_8.png",
         "name": "Carmelia Otaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8031,7 +8031,7 @@
       {
         "src": "img/review_visoptic-duo-day_9.png",
         "name": "Teodor Luca",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8061,7 +8061,7 @@
       {
         "src": "img/review_visoptic-duo-day_10.png",
         "name": "Stela Ciobanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO DAY",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8092,7 +8092,7 @@
       {
         "src": "img/review_visoptic-duo-night_1.png",
         "name": "Ana Nedelcu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8122,7 +8122,7 @@
       {
         "src": "img/review_visoptic-duo-night_2.png",
         "name": "Alberta Târtă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8152,7 +8152,7 @@
       {
         "src": "img/review_visoptic-duo-night_3.png",
         "name": "Viorel Albu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8182,7 +8182,7 @@
       {
         "src": "img/review_visoptic-duo-night_4.png",
         "name": "David Stan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8212,7 +8212,7 @@
       {
         "src": "img/review_visoptic-duo-night_5.png",
         "name": "Gabriel Plăcintă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8242,7 +8242,7 @@
       {
         "src": "img/review_visoptic-duo-night_6.png",
         "name": "Marinel David",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8272,7 +8272,7 @@
       {
         "src": "img/review_visoptic-duo-night_7.png",
         "name": "Amelia Dumbravă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8302,7 +8302,7 @@
       {
         "src": "img/review_visoptic-duo-night_8.png",
         "name": "Viorelia Urmaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8332,7 +8332,7 @@
       {
         "src": "img/review_visoptic-duo-night_9.png",
         "name": "Catarina Palade",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8362,7 +8362,7 @@
       {
         "src": "img/review_visoptic-duo-night_10.png",
         "name": "Doina Stănescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC DUO NIGHT",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8393,7 +8393,7 @@
       {
         "src": "img/review_wintex-ultra_1.png",
         "name": "Victoria Verbaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8423,7 +8423,7 @@
       {
         "src": "img/review_wintex-ultra_2.png",
         "name": "Marcel Boboc",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8453,7 +8453,7 @@
       {
         "src": "img/review_wintex-ultra_3.png",
         "name": "Daniela Popa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8483,7 +8483,7 @@
       {
         "src": "img/review_wintex-ultra_4.png",
         "name": "Elene Cebotaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8513,7 +8513,7 @@
       {
         "src": "img/review_wintex-ultra_5.png",
         "name": "Dan Stănescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8543,7 +8543,7 @@
       {
         "src": "img/review_wintex-ultra_6.png",
         "name": "Eliza Cărămău",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8573,7 +8573,7 @@
       {
         "src": "img/review_wintex-ultra_7.png",
         "name": "Ana Dumbravă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8603,7 +8603,7 @@
       {
         "src": "img/review_wintex-ultra_8.png",
         "name": "Violeta Talpă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8633,7 +8633,7 @@
       {
         "src": "img/review_wintex-ultra_9.png",
         "name": "Zarema Ghioc",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8663,7 +8663,7 @@
       {
         "src": "img/review_wintex-ultra_10.png",
         "name": "Dumitru Pavel",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8693,7 +8693,7 @@
       {
         "src": "img/review_wintex-ultra_11.png",
         "name": "Eleonora Flăcău",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8723,7 +8723,7 @@
       {
         "src": "img/review_wintex-ultra_12.png",
         "name": "Tina Lucescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8752,7 +8752,7 @@
       {
         "src": "img/review_wintex-ultra_13.png",
         "name": "Marius Marincă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8782,7 +8782,7 @@
       {
         "src": "img/review_wintex-ultra_14.png",
         "name": "Laura Teșco",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8812,7 +8812,7 @@
       {
         "src": "img/review_wintex-ultra_15.png",
         "name": "Catalina Matei",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8843,7 +8843,7 @@
       {
         "src": "img/review_wirex-mens-formula_1.png",
         "name": "Ion Marinescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8873,7 +8873,7 @@
       {
         "src": "img/review_wirex-mens-formula_2.png",
         "name": "Gheorghe Nistor",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8903,7 +8903,7 @@
       {
         "src": "img/review_wirex-mens-formula_3.png",
         "name": "Măriuța Coman",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8933,7 +8933,7 @@
       {
         "src": "img/review_wirex-mens-formula_4.png",
         "name": "Daniel Spataru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8963,7 +8963,7 @@
       {
         "src": "img/review_wirex-mens-formula_5.png",
         "name": "Cornelia Crăciun",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8993,7 +8993,7 @@
       {
         "src": "img/review_wirex-mens-formula_6.png",
         "name": "Lucrețiu Vlad",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9023,7 +9023,7 @@
       {
         "src": "img/review_wirex-mens-formula_7.png",
         "name": "Teodor Bercea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9053,7 +9053,7 @@
       {
         "src": "img/review_wirex-mens-formula_8.png",
         "name": "Dafna Cantemir",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9083,7 +9083,7 @@
       {
         "src": "img/review_wirex-mens-formula_9.png",
         "name": "Dionisa Opa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9113,7 +9113,7 @@
       {
         "src": "img/review_wirex-mens-formula_10.png",
         "name": "Aurel Vieru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9143,7 +9143,7 @@
       {
         "src": "img/review_wirex-mens-formula_11.png",
         "name": "Ghiță Druță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9173,7 +9173,7 @@
       {
         "src": "img/review_wirex-mens-formula_12.png",
         "name": "Elena Spataru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9203,7 +9203,7 @@
       {
         "src": "img/review_wirex-mens-formula_13.png",
         "name": "Lucian Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9233,7 +9233,7 @@
       {
         "src": "img/review_wirex-mens-formula_14.png",
         "name": "Mihael Verbu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9263,7 +9263,7 @@
       {
         "src": "img/review_wirex-mens-formula_15.png",
         "name": "Robert Popescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
