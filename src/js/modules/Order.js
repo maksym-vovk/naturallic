@@ -1,5 +1,4 @@
 import {productsInfo} from "../data/productInfo";
-import {formSetting} from "../data/orderFormSettings";
 
 const Order = (function () {
     "use strict";
@@ -39,7 +38,7 @@ const Order = (function () {
     return {
         submitForm: function () {
             $("#order-form").submit(function (e) {
-                // e.preventDefault();
+                e.preventDefault();
 
                 $(`input[name='count']`).val(count);
 
