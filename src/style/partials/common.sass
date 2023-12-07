@@ -118,6 +118,8 @@ ul, li
 	text-transform: uppercase
 	border: none
 	border-radius: 50px
+	transition: .3s ease-in-out
+
 	&--red
 		background-image: $red
 	&--green
@@ -126,6 +128,9 @@ ul, li
 		background-image: $yellow
 	&--gold
 		background: $gold
+		&:hover
+			background: $gold-hover
+
 	+r(1023)
 		line-height: 55px
 	+r(767)
@@ -403,6 +408,11 @@ ul, li
 		opacity: 0
 		display: block
 		margin-top: 15px
+		transition: .3s ease-in-out
+
+		&:hover
+			background: $gold-hover
+
 		+r(767)
 			font-size: 16px
 			line-height: 45px
