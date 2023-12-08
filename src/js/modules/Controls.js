@@ -254,16 +254,20 @@ const Controls = (function () {
             let productCards = document.querySelectorAll(".product");
 
             const setProductHeight = (currentProds) => {
-                const productDetails = [...document.querySelectorAll(".product__btn")].filter(btn => {
-                    return btn.clientHeight > 0
-                })[0]
+                let productCards = document.querySelectorAll(".product");
+                const productDetails = document.querySelectorAll(".product__btn")
 
-                if (productDetails) {
-                    const productDetailsBtnHeight = productDetails.clientHeight + 15;
+                if (productCards.length && productDetails.length) {
+                    const productDetailsBtnHeight = [...productDetails].filter(btn => {
+                        return btn.clientHeight > 0
+                    })[0].clientHeight + 15;
                     const cardsHeightArray = [...productCards].map(card => card.clientHeight);
                     const maxCardHeight = Math.max(...cardsHeightArray);
 
                     productCards.forEach((card, index) => {
+                        // console.log(productDetailsBtnHeight, 'btn');
+
+                        // console.log(maxCardHeight, 'max');
                         const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`;
                         card.style.height = newCardHeight;
 
@@ -319,7 +323,9 @@ const Controls = (function () {
                 (productCards = document.querySelectorAll(".product"));
 
             const handleCardMouseOver = (target, cardsHeightArray, index) => {
-                const initialCardHeight = cardsHeightArray[index];
+                // console.log(cardsHeightArray);
+                // const initialCardHeight = Math.max(...cardsHeightArray);
+                const initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max(...cardsHeightArray);
                 const card = target.closest(".product");
                 card.style.height = `${initialCardHeight}px`;
                 card.classList.add("product--hovered");
@@ -419,7 +425,6 @@ const Controls = (function () {
             };
         },
         init: function () {
-            Controls.setProductCardHeight();
             Controls.openFaqContent();
             Controls.highlightingActiveTab();
             Controls.showListProducts();
@@ -427,6 +432,7 @@ const Controls = (function () {
             Controls.calculateProducts();
             Controls.calculateReviews();
             Controls.showReviews();
+            Controls.setProductCardHeight();
             Controls.setLanguage();
             Controls.showHeaderLang();
             Controls.webpChecker();
