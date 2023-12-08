@@ -10,13 +10,17 @@ const Contacts = (function () {
                     submit = $(".submit", form),
                     data = new FormData();
 
+                const text = document.querySelector('[name="comment"]')
+                const email = document.querySelector('[name="email"]')
+
                 $(".submit", form).val("Отправка...");
                 $("input, textarea", form).attr("disabled", "");
 
                 data.append("name", $('[name="name"]', form).val());
                 data.append("phone", $('[name="phone"]', form).val());
+                text ? data.append("text", $('[name="comment"]', form).val()) : false
+                email ? data.append("email", $('[name="email"]', form).val()) : false
                 data.append("company", 'Naturallic');
-                console.log(data);
 
                 $.ajax({
                     url: "ajax.php",
