@@ -259,6 +259,7 @@
       "srcPhotoWebp": "img/deluron.webp",
       "mobSrcPhoto": "img/deluron-mob.png",
       "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "modifier": "img-space--right",
       "name": "Deluron Forte",
       "stars": [
         {
@@ -295,6 +296,7 @@
       "srcPhotoWebp": "img/visoptic-duo-night.webp",
       "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -331,6 +333,7 @@
       "srcPhotoWebp": "img/visoptic-duo-day.webp",
       "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -439,6 +442,7 @@
       "srcPhotoWebp": "img/ottomax.webp",
       "mobSrcPhoto": "img/ottomax-mob.png",
       "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "modifier": "img-space--right",
       "name": "Ottomax+",
       "stars": [
         {
@@ -511,6 +515,7 @@
       "srcPhotoWebp": "img/wirex.webp",
       "mobSrcPhoto": "img/wirex-mob.png",
       "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "modifier": "img-space--right",
       "name": "Wirex men’s formula",
       "stars": [
         {
@@ -2338,7 +2343,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Vilija Kalinauskaitė",
         "text": "Nuostabus pilingas. Oda po jo tampa minkšta, stangri, be riebaus blizgesio. Gerai valo ir drėkina. Nemalonių pojūčių nesukėlė.",
@@ -2367,7 +2372,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Agnė Katinaitė",
         "text": "Ilgai ieškojau tokios priemonės kaip Beauty Age Skin Peeling. Trys viename: ir prausiklis, ir kaukė, ir šveičiamasis kremas. Sunaudojamas taupiai, valo efektyviai. Malonus pojūtis po naudojimo!",
@@ -2396,7 +2401,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Miglė Zaveckaitė",
         "text": "Ilga laika naudojuosi Beauty Age Skin Peeling. Ne tik valo, bet ir stangrina odą ir lygina raukšles. Efektą pastebėjau beveik iš karto!",
@@ -2425,7 +2430,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Vaiva Girdenytė",
         "text": "Beauty Age Skin Peeling tiko mano jautriai ir sausai odai. Naudojuosi jau ilgai ir labai patenkinta. Labai švelni, bet tuo pačiu efektyvi priemonė.",
@@ -2454,7 +2459,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Liusė Kovalčiuk",
         "text": "Nuo pirmųjų naudojimo dienų oda tapo geresnė. Minkšta, švelni, aksominė. Pranyko uždegimai, poros susiaurėjo. Veido spalva tapo tolygesnė.",
@@ -2483,7 +2488,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Aušrė Stankutė",
         "text": "Beauty Age Skin Peeling – geriausias šveičiamasis kremas iš visų, kuriuos esu išbandžiusi. Teikiu pirmenybę išskirtinai natūraliai kosmetikai. Ši priemonė – mano mėgstamiausia!",
@@ -2512,7 +2517,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Sofija Čepaitė",
         "text": "Natūrali sudėtis, malonus, neįkyrus aromatas, ekonomiškas sunaudojimas ir efektas raukšlių išlyginimo atžvilgiu. 10 iš 10!",
@@ -2541,7 +2546,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Adelė Tilvitytė",
         "text": "Pradėjau naudoti neseniai, bet labai patinka ir esu patenkinta rezultatu. Nėra įtemptos odos pojūčio, oda minkšta, stangri, patempta. Pigmentinės dėmės šviesėja ir uždegimai praeina.",
@@ -2570,7 +2575,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">išreiškėа</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškėа</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Martina Pekarskienė",
         "text": "Nuostabu! Dingo riebus blizgesys, poros susiaurėjo. Pagal pojūčius oda tapo stangresnė ir burnos kampučiai pakilę. Sužavėta rezultatu!",
@@ -2599,7 +2604,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Puiki kokybė!",
         "name": "Nomeda Dorinskaitė",
         "text": "Valo, stangrina, drėkina ir maitina odą. Tai daugybė savybių vienoje priemonėje ir už tokia prieinamą kainą! Net pigmentinės dėmės tapo šviesesnės! Rekomenduoju nuo senėjimo požymių!",

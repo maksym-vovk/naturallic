@@ -1,5 +1,8 @@
+- var TITLE = LANG.menu.menu_title_review;
+
 section.reviews-main
 	.container
+		h2.reviews-main__title.title!=TITLE
 		.reviews-main__list.js-slider-reviews-wrap
 			.reviews-main__wrapper.swiper-wrapper
 				include reviews-list

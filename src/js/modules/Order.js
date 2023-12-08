@@ -69,6 +69,8 @@ const Order = (function () {
                 const orderForm = document.querySelector('#order-form')
 
                 const productData = productsInfo[currentLangLower][productNameUnderscore]
+                const imgModifier = productData?.modifier
+
                 // const formData = formSetting[productData.company]
 
                 if (orderForm) {
@@ -99,6 +101,7 @@ const Order = (function () {
 
                 $(".js-product-name").html(prodNameWithSpaces);
                 $(".js-product-photo").attr("src", `../img/${productName}.png`);
+                imgModifier ? $(".order-block__product").addClass(imgModifier) : false
                 $(".js-price-product").html(productNewPrice);
 
                 $(`input[name='price']`).val(productData.newPrice);
@@ -222,9 +225,17 @@ const Order = (function () {
             });
         },
         createSuccessPage: function () {
-            const paramProduct = getParameterByName("id");
-            $(".js-success-product-name").html(paramProduct);
-            $(".js-success-product-photo").attr("src", `../img/${paramProduct}.png`);
+            const productName = getParameterByName("id");
+            const productNameUnderscore = String(productName).split('-').join('_')
+            const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false
+
+            const productData = productsInfo[currentLangLower][productNameUnderscore]
+            const imgModifier = productData?.modifier
+
+            $(".js-success-product-name").html(productName);
+            $(".js-success-product-photo").attr("src", `../img/${productName}.png`);
+
+            imgModifier ? $(".js-success-product-photo").addClass(imgModifier) : false
         },
         showResiudePack: function () {
             let max = 60;

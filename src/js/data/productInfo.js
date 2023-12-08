@@ -37,6 +37,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Prostatita',
@@ -46,6 +47,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Vederea',
@@ -55,6 +57,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Vederea',
@@ -82,6 +85,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Auz',
@@ -100,6 +104,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Potență',
@@ -219,6 +224,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Prosztatagyulladás',
@@ -228,6 +234,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Látás',
@@ -237,6 +244,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Látás',
@@ -264,6 +272,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Hallás',
@@ -282,6 +291,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Potencia',
@@ -401,6 +411,7 @@ export const productsInfo = {
             newPrice: "86",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Prostatite',
@@ -410,6 +421,7 @@ export const productsInfo = {
             newPrice: "118",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Vista',
@@ -419,6 +431,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Vista',
@@ -446,6 +459,7 @@ export const productsInfo = {
             newPrice: "168",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Udito',
@@ -464,6 +478,7 @@ export const productsInfo = {
             newPrice: "112",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Potenza',
@@ -583,6 +598,7 @@ export const productsInfo = {
             newPrice: "1786",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Zánět prostaty',
@@ -592,6 +608,7 @@ export const productsInfo = {
             newPrice: "2190",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Zrak',
@@ -601,6 +618,7 @@ export const productsInfo = {
             newPrice: "1529",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Zrak',
@@ -628,6 +646,7 @@ export const productsInfo = {
             newPrice: "3199",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Sluch',
@@ -646,6 +665,7 @@ export const productsInfo = {
             newPrice: "1644",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Potence',
@@ -765,6 +785,7 @@ export const productsInfo = {
             newPrice: "137",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Простатит',
@@ -774,6 +795,7 @@ export const productsInfo = {
             newPrice: "179",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Зрение',
@@ -783,6 +805,7 @@ export const productsInfo = {
             newPrice: "186",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Зрение',
@@ -810,6 +833,7 @@ export const productsInfo = {
             newPrice: "239",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Слух',
@@ -828,6 +852,7 @@ export const productsInfo = {
             newPrice: "161",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Потентност',
@@ -947,6 +972,7 @@ export const productsInfo = {
             newPrice: "89",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Prostatiit',
@@ -956,6 +982,7 @@ export const productsInfo = {
             newPrice: "80",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Nägemine',
@@ -965,6 +992,7 @@ export const productsInfo = {
             newPrice: "97",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Nägemine',
@@ -992,6 +1020,7 @@ export const productsInfo = {
             newPrice: "165",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Kuulmine',
@@ -1010,6 +1039,7 @@ export const productsInfo = {
             newPrice: "79",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Potents',
@@ -1129,6 +1159,7 @@ export const productsInfo = {
             newPrice: "79",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Prostatitis',
@@ -1138,6 +1169,7 @@ export const productsInfo = {
             newPrice: "102",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Vid',
@@ -1147,6 +1179,7 @@ export const productsInfo = {
             newPrice: "109",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Vid',
@@ -1174,6 +1207,7 @@ export const productsInfo = {
             newPrice: "135",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Sluh',
@@ -1192,6 +1226,7 @@ export const productsInfo = {
             newPrice: "88",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Potencija',
@@ -1311,6 +1346,7 @@ export const productsInfo = {
             newPrice: "89",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Prostatitas',
@@ -1320,6 +1356,7 @@ export const productsInfo = {
             newPrice: "80",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Regėjimas',
@@ -1329,6 +1366,7 @@ export const productsInfo = {
             newPrice: "97",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Regėjimas',
@@ -1356,6 +1394,7 @@ export const productsInfo = {
             newPrice: "165",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Klausa',
@@ -1374,6 +1413,7 @@ export const productsInfo = {
             newPrice: "79",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Potencja',
@@ -1493,6 +1533,7 @@ export const productsInfo = {
             newPrice: "89",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Prostatīts',
@@ -1502,6 +1543,7 @@ export const productsInfo = {
             newPrice: "80",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Redze',
@@ -1511,6 +1553,7 @@ export const productsInfo = {
             newPrice: "97",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Redze',
@@ -1538,6 +1581,7 @@ export const productsInfo = {
             newPrice: "165",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Dzirde',
@@ -1556,6 +1600,7 @@ export const productsInfo = {
             newPrice: "79",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Potence',
@@ -1675,6 +1720,7 @@ export const productsInfo = {
             newPrice: "86",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Prostatite',
@@ -1684,6 +1730,7 @@ export const productsInfo = {
             newPrice: "118",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Visão',
@@ -1693,6 +1740,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Visão',
@@ -1720,6 +1768,7 @@ export const productsInfo = {
             newPrice: "168",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Audição',
@@ -1738,6 +1787,7 @@ export const productsInfo = {
             newPrice: "112",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Potência',
@@ -1857,6 +1907,7 @@ export const productsInfo = {
             newPrice: "269",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Zapalenie gruczołu krokowego',
@@ -1866,6 +1917,7 @@ export const productsInfo = {
             newPrice: "377",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'wzrok',
@@ -1875,6 +1927,7 @@ export const productsInfo = {
             newPrice: "381",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Wzrok',
@@ -1902,6 +1955,7 @@ export const productsInfo = {
             newPrice: "523",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Słuch',
@@ -1920,6 +1974,7 @@ export const productsInfo = {
             newPrice: "352",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Potencja',
@@ -2039,6 +2094,7 @@ export const productsInfo = {
             newPrice: "79",
         },
         deluron: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Prostatitis',
@@ -2048,6 +2104,7 @@ export const productsInfo = {
             newPrice: "102",
         },
         visoptic_duo_night: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Vizija',
@@ -2057,6 +2114,7 @@ export const productsInfo = {
             newPrice: "109",
         },
         visoptic_duo_day: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Vizija',
@@ -2084,6 +2142,7 @@ export const productsInfo = {
             newPrice: "135",
         },
         ottomax: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Zaslišanje',
@@ -2102,6 +2161,7 @@ export const productsInfo = {
             newPrice: "88",
         },
         wirex: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Moč',
@@ -2184,3 +2244,4 @@ export const productsInfo = {
         },
     },
 }
+

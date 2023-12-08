@@ -259,6 +259,7 @@
       "srcPhotoWebp": "img/deluron.webp",
       "mobSrcPhoto": "img/deluron-mob.png",
       "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "modifier": "img-space--right",
       "name": "Deluron Forte",
       "stars": [
         {
@@ -295,6 +296,7 @@
       "srcPhotoWebp": "img/visoptic-duo-night.webp",
       "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -331,6 +333,7 @@
       "srcPhotoWebp": "img/visoptic-duo-day.webp",
       "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -439,6 +442,7 @@
       "srcPhotoWebp": "img/ottomax.webp",
       "mobSrcPhoto": "img/ottomax-mob.png",
       "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "modifier": "img-space--right",
       "name": "Ottomax+",
       "stars": [
         {
@@ -511,6 +515,7 @@
       "srcPhotoWebp": "img/wirex.webp",
       "mobSrcPhoto": "img/wirex-mob.png",
       "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "modifier": "img-space--right",
       "name": "Wirex men’s formula",
       "stars": [
         {
@@ -2338,7 +2343,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Taira Gabelsone",
         "text": "Lielisks pīlings. Pēc tā āda kļūst mīksta, vingra, bez taukaina spīduma. Labi attīra un pie tam mitrina ādu. Neizraisīja nepatīkamas sajūtas.",
@@ -2367,7 +2372,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Agnese Trevora",
         "text": "Sen jau meklēju tādu līdzekli kā Beauty Age Skin Peeling.3 x 1: gan nomazgāšana, gan maska, gan pīlings. Lietošanā ekonomisks, efektīvi attīra. Pēc lietošanas ir patīkama sajūta!",
@@ -2396,7 +2401,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Miranda Rolsone",
         "text": "Sen jau lietoju līdzekli Beauty Age Skin Peeling. Neskaitot tīrīšanu, padara ādu stingru un izlīdzina grumbas. Gandrīz uzreiz ieraudzīju efektu!",
@@ -2425,7 +2430,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Penelope Lessa",
         "text": "Beauty Age Skin Peeling bija piemērots manai jūtīgajai un sausajai ādai. Lietoju jau sen un esmu ļoti apmierināta. Ļoti maigs un vienlaikus efektīvs līdzeklis.",
@@ -2454,7 +2459,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Lusija Klousone",
         "text": "No pirmajām lietošanas dienām āda kļuva labāka. Mīksta, maiga, samtaina. Pārgāja iekaisumi, sašaurinājās poras. Sejas krāsa kļuva vienmērīgāka.",
@@ -2483,7 +2488,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Frederika Lopesa",
         "text": "Beauty Age Skin Peeling - tas ir labākais, ko esmu izmēģinājusi. Es dodu priekšroku tikai dabīgai kosmētikai. Šis līdzeklis - ir pats iecienītākais!",
@@ -2512,7 +2517,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Sofija Vergara",
         "text": "Dabīgs sastāvs, patīkams, neuzmācīgs aromāts, ekonomiski lietojams un tam piemīt grumbas izlīdzinošs efekts. 10 no 10!",
@@ -2541,7 +2546,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Adriāna Torresa",
         "text": "Nesen sāku lietot, bet ārkārtīgi patīk un esmu apmierināta ar rezultātu. Nav velkošas sajūtas, āda ir mīksta, vingra un gluda. Pigmentācija kļūst gaišāka un pāriet iekaisums.",
@@ -2570,7 +2575,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Marina Pekšaka",
         "text": "Lieliski! Ir pazudis taukainais spīdums, sašaurinājušās poras. Pēc sajūtas, āda ir kļuvusi vingrāka un mutes kaktiņi ir pacēlušies. Esmu sajūsmināta par rezultātu!",
@@ -2599,7 +2604,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "name": "Nadīna Dortmane",
         "text": "Attīra, nogludina, mitrina ādu. Tik daudz īpašību vienā līdzeklī un par tik pieejamu cenu! Pat pigmenta plankumi ir kļuvuši gaišāki! Iesaku pret vecuma izmaiņām!",

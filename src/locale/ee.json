@@ -259,6 +259,7 @@
       "srcPhotoWebp": "img/deluron.webp",
       "mobSrcPhoto": "img/deluron-mob.png",
       "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "modifier": "img-space--right",
       "name": "Deluron Forte",
       "stars": [
         {
@@ -295,6 +296,7 @@
       "srcPhotoWebp": "img/visoptic-duo-night.webp",
       "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -331,6 +333,7 @@
       "srcPhotoWebp": "img/visoptic-duo-day.webp",
       "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -439,6 +442,7 @@
       "srcPhotoWebp": "img/ottomax.webp",
       "mobSrcPhoto": "img/ottomax-mob.png",
       "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "modifier": "img-space--right",
       "name": "Ottomax+",
       "stars": [
         {
@@ -511,6 +515,7 @@
       "srcPhotoWebp": "img/wirex.webp",
       "mobSrcPhoto": "img/wirex-mob.png",
       "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "modifier": "img-space--right",
       "name": "Wirex men’s formula",
       "stars": [
         {
@@ -2338,7 +2343,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Tyra Gabelson",
         "text": "See on suurepärane koorija. Nahk on pärast pehme ja pingul, ei läigi rasvaselt. Puhastab ja niisutab hästi. Mingit negatiivset tunnet ei tekkinud.",
@@ -2367,7 +2372,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Agnes Trevor",
         "text": "Olen juba ammu otsinud sellist asja nagu Beauty Age Skin Peeling, mis oleks kolm-ühes nii pesemisvahend, mask kui ka koorija. Sellest jätkub kauaks ja see puhastab hästi. Pärast on tõesti hea tunne!",
@@ -2396,7 +2401,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Miranda Rolson",
         "text": "Olen Beauty Age Skin Peelingut juba mõnda aega kasutanud. Lisaks puhastamisele, pinguldab nahka ja silub kortsud. Efekt on põhimõtteliselt kohe näha!",
@@ -2425,7 +2430,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Penelopa Less",
         "text": "Beauty Age Skin Peeling sobib mu tundlikule ja kuivale nahale. Kasutan juba ammu ja olen väga rahul. See on õrna toimega, kuid tõhus.",
@@ -2454,7 +2459,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Lucy Clouson",
         "text": "Juba pärast esimesi kasutuskordi läks nahk paremaks. Mu nahk on nüüd pehme, mõnus ja siidine. See ei ole enam põletikuline ja poorid on väiksemad. Ka jume on ühtlasem.",
@@ -2483,7 +2488,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Frederica Lopez",
         "text": "Beauty Age Skin Peeling on parim, mida olen proovinud. Kasutan ainult looduskosmeetikat. See on minu lemmik!",
@@ -2512,7 +2517,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Sophia Vergara",
         "text": "Sellel on looduslik koostis, meeldiv õrn lõhn, ja sellest jätkub kaua. Lisaks silub kortsud ka. Minu arvates 10/10!",
@@ -2541,7 +2546,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Adriana Torres",
         "text": "Hakkasin hiljuti kasutama, kuid meeldib väga ja olen tulemusega rahul. Nahk ei kisu, on pehme ja prink. Muudab pigmendilaigud heledamaks ja võtab põletiku ära.",
@@ -2570,7 +2575,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Martina Pecshak",
         "text": "Super! Nahk ei läigi enam rasvaselt ja poorid on ahenenud. Nahk on katsudes prink ja suunurgad ei ole enam allavajunud. Olen tulemusest vaimustuses!",
@@ -2599,7 +2604,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Suurepärane toode!",
         "name": "Nadine Dortman",
         "text": "See puhastab, pinguldab, niisutab ja toidab nahka. Sellel on nii palju positiivseid omadusi ja lisaks on veel soodsa hinnaga! Isegi pigmendilaigud on muutunud heledamaks! Soovitan vananemise ilmingute puhul!",
