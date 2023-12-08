@@ -64,7 +64,7 @@ const Order = (function () {
             if (productName) {
                 const countryCode = $(`input[name='country_code']`);
                 countryCode.val(currentLangLower.toUpperCase());
-                console.log(countryCode);
+                // console.log(countryCode);
 
                 const orderForm = document.querySelector('#order-form')
 

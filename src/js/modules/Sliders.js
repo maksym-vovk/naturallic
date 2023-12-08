@@ -179,8 +179,8 @@ const Sliders = (function () {
         }) : null
         const maxHeight = productHeights ? Math.max(...productHeights) : null
 
-        console.log(productHeights);
-        console.log(maxHeight);
+        // console.log(productHeights);
+        // console.log(maxHeight);
 
         window.innerWidth > 767 && maxHeight ? hits.style.height = maxHeight + 'px' : hits.style.height = 'auto'
       }
