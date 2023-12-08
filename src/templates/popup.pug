@@ -7,7 +7,7 @@
 		.popup__content
 			.popup__form
 				p.popup__title!=CALLBACKPOPUP.callbackpopup_title
-				form.form-popup(action="/", method="post")
+				form.form-popup.js-order-form(action="ajax.php", method="post")
 					.form-popup__inputs
 						input.form-popup__input(type="text" name="name" placeholder=CALLBACKPOPUP.callbackpopup_field_name required)
 						input.form-popup__input(type="phone" name="tel" placeholder=CALLBACKPOPUP.callbackpopup_field_phone required)

@@ -5,7 +5,7 @@ section.contacts
 		h2.contacts__title.title!=CONTACTS.contacts_title
 		.contacts__wrapper
 			.contacts__form
-				form.contacts-form(action="/", method="post")
+				form.contacts-form.js-order-form(action="ajax.php", method="post")
 					p.contacts-form__title!=CONTACTS.contacts_form_title
 					p.contacts-form__desc!=CONTACTS.contacts_form_description
 					.contacts-form__wrapper
