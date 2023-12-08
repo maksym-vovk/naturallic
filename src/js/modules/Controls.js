@@ -338,7 +338,8 @@ const Controls = (function () {
                 prodTexts.forEach(text => text.style.minHeight = "auto")
             }
 
-            window.addEventListener("load", () => {
+            let isCalculate = false
+            document.addEventListener("DOMContentLoaded", () => {
                 resetCardsHeight();
                 const winWidth = window.innerWidth;
 
@@ -347,6 +348,8 @@ const Controls = (function () {
                 if (winWidth > 479) {
                     setProductHeight();
                 }
+
+                isCalculate = !isCalculate
             });
 
             window.addEventListener("resize", () => {
@@ -377,6 +380,17 @@ const Controls = (function () {
                     setProductHeight();
                 });
             });
+
+            if (!isCalculate) {
+                const winWidth = window.innerWidth;
+
+                resetCardsHeight();
+                setNameAndDescHeight()
+
+                if (winWidth > 479) {
+                    setProductHeight();
+                }
+            }
         },
         setLoader: function () {
             const loader = document.querySelector(".loader")
@@ -405,6 +419,7 @@ const Controls = (function () {
             };
         },
         init: function () {
+            Controls.setProductCardHeight();
             Controls.openFaqContent();
             Controls.highlightingActiveTab();
             Controls.showListProducts();
@@ -414,7 +429,6 @@ const Controls = (function () {
             Controls.showReviews();
             Controls.setLanguage();
             Controls.showHeaderLang();
-            Controls.setProductCardHeight();
             Controls.webpChecker();
             Controls.setLoader();
         },
