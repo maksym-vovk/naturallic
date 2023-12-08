@@ -26,10 +26,22 @@
     width: 100%
     +r(1023)
       max-width: 300px
-      margin-right: 14px
+    //margin-right: 14px
     +r(767)
       max-width: 220px
       margin-right: 0
+      margin-bottom: 15px
+
+  .img-space--left, .img-space--right
+    padding: 0
+
+  .img-space--left
+    +r(767)
+      padding-left: 1.5em
+
+  .img-space--right
+    +r(767)
+      padding-right: 1.5em
 
   &__info
     max-width: 520px

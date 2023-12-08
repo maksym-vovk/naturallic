@@ -156,9 +156,12 @@ const Sliders = (function () {
         }
       });
 
+      const isSlider = document.querySelector('.js-slider-products')
+
       window.addEventListener('resize', function() {
         const winWidth = window.innerWidth
-        winWidth <= 767 ? prodSlider.destroy() : false
+
+        isSlider && winWidth <= 767 ? prodSlider.destroy() : false
       })
     },
     destroyProductsSlider: function () {
@@ -190,10 +193,26 @@ const Sliders = (function () {
         setHitsHeight()
       }
     },
+    setActiveSlide: function () {
+      const prodSlider = document.querySelector('.product-item__slider')
+
+      if (prodSlider) {
+        const navSlides = document.querySelectorAll('.slider-prod__nav-item')
+        navSlides[0].classList.add('active')
+
+        navSlides.forEach(slide => {
+          slide.addEventListener('click', function (e) {
+            navSlides.forEach(slide => slide.classList.remove('active'))
+            slide.classList.add('active')
+          })
+        })
+      }
+    },
     init: function () {
       Sliders.initHeaderSlider();
       Sliders.initReviewsSlider();
       Sliders.setHitsSize();
+      Sliders.setActiveSlide();
     },
   };
 })();

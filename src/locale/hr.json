@@ -256,6 +256,7 @@
       "srcPhotoWebp": "img/deluron.webp",
       "mobSrcPhoto": "img/deluron-mob.png",
       "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "modifier": "img-space--right",
       "name": "Deluron Forte",
       "stars": [
         {
@@ -292,6 +293,7 @@
       "srcPhotoWebp": "img/visoptic-duo-night.webp",
       "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -328,6 +330,7 @@
       "srcPhotoWebp": "img/visoptic-duo-day.webp",
       "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -436,6 +439,7 @@
       "srcPhotoWebp": "img/ottomax.webp",
       "mobSrcPhoto": "img/ottomax-mob.png",
       "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "modifier": "img-space--right",
       "name": "Ottomax+",
       "stars": [
         {
@@ -508,6 +512,7 @@
       "srcPhotoWebp": "img/wirex.webp",
       "mobSrcPhoto": "img/wirex-mob.png",
       "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "modifier": "img-space--right",
       "name": "Wirex men’s formula",
       "stars": [
         {
@@ -2333,7 +2338,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tia Brandić",
         "text": "Prekrasan piling. Koža nakon njega je mekana, elastična i bez masnog sjaja. Dobro čisti i vlaži u isto vrijeme. Nije izazvao neugodne senzacije.",
@@ -2362,7 +2367,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Antea Tomić",
         "text": "Dugo sam tražio takavo sredstvo, kao što je Beauty Age Skin Peeling. 3 u 1: i za pranje, i maska, i piling. Troši se štedljivo, a učinkovito čisti. Osjećaj nakon upotrebe su ugodni!",
@@ -2391,7 +2396,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Valentina Ivanković",
         "text": "Već dugo koristim sredstvo Beauty Age Skin Peeling. Osim čišćenja, zateže kožu i zaglađuje bore. Učinak je gotovo odmah vidljiv!",
@@ -2420,7 +2425,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Petra Lasić",
         "text": "Beauty Age Skin Peeling je moj izbor jre odgovara mojoj osjetljivoj i suhoj koži. Koristim ga već duže vrijeme i vrlo sam zadovoljna. Vrlo nježno, ali učinkovito sredstvo.",
@@ -2449,7 +2454,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucija Kirinić",
         "text": "Od prvih dana korištenja koža mi je postala bolja. Mekana je, nježna i baršunasta. Upale su nestale, a pore su se smanjile. Ten je postao ujednačeniji.",
@@ -2478,7 +2483,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Filipa Lovrić",
         "text": "Beauty Age Skin Peeling je najbolja stvar koju sam probala. Preferiram isključivo prirodnu kozmetiku. Ovo sredstvo mi je najdraže!",
@@ -2507,7 +2512,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sofija Vujica",
         "text": "Prirodni sastav, ugodna, nenametljiva aroma, ekonomična potrošnja i učinak u obliku zaglađivanja bora. 10 od 10!",
@@ -2536,7 +2541,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Adriana Tokić",
         "text": "Počela sam ga koristiti nedavno, ali ludo mi se sviđa i zadovoljna sam rezultatom. Nema osjećaja suhoće, koža je mekana, elastična i zategnuta. Pigmentacija se posvjetljuje, a upale nestaju.",
@@ -2565,7 +2570,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">podijelio jeа</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelio jeа</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martina Petrić",
         "text": "Odlično! Nestao je masni sjaj, pore su se suzile. Osjećaj kože postao je čvršći i kutovi usta su se podignuli. Oduševljena sam rezultatom!",
@@ -2594,7 +2599,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Nataša Dodig",
         "text": "Čisti, zateže, vlaži i njeguje kožu. Toliko svojstava u jednom sredstvu i po tako pristupačnoj cijeni! Čak su i pigmentirane mrlje postale svjetlije! Preporučujem za dobne promjene !",

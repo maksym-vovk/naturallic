@@ -259,6 +259,7 @@
       "srcPhotoWebp": "img/deluron.webp",
       "mobSrcPhoto": "img/deluron-mob.png",
       "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "modifier": "img-space--right",
       "name": "Deluron Forte",
       "stars": [
         {
@@ -295,6 +296,7 @@
       "srcPhotoWebp": "img/visoptic-duo-night.webp",
       "mobSrcPhoto": "img/visoptic-duo-night-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-night-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Night",
       "stars": [
         {
@@ -331,6 +333,7 @@
       "srcPhotoWebp": "img/visoptic-duo-day.webp",
       "mobSrcPhoto": "img/visoptic-duo-day-mob.png",
       "mobSrcPhotoWebp": "img/visoptic-duo-day-mob.webp",
+      "modifier": "img-space--right",
       "name": "Visoptic DUO Day",
       "stars": [
         {
@@ -439,6 +442,7 @@
       "srcPhotoWebp": "img/ottomax.webp",
       "mobSrcPhoto": "img/ottomax-mob.png",
       "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "modifier": "img-space--right",
       "name": "Ottomax+",
       "stars": [
         {
@@ -511,6 +515,7 @@
       "srcPhotoWebp": "img/wirex.webp",
       "mobSrcPhoto": "img/wirex-mob.png",
       "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "modifier": "img-space--right",
       "name": "Wirex men’s formula",
       "stars": [
         {
@@ -2344,7 +2349,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
         "name": "Tamara Kowalczyk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2373,7 +2378,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
         "name": "Agnieszka Nowak",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2402,7 +2407,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
         "name": "Marta Grabarczyk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2431,7 +2436,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
         "name": "Paulina Lewicka",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2460,7 +2465,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
         "name": "Lucyna Kłos",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2489,7 +2494,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
         "name": "Agata Łopatka",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2518,7 +2523,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
         "name": "Zofia Warga",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2547,7 +2552,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
         "name": "Adrianna Torres",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2576,7 +2581,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
         "name": "Martyna Pęczak",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -2605,7 +2610,7 @@
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
         "name": "Natalia Dorman",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin&nbsp;Peeling",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
