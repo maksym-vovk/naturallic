@@ -1,10 +1,11 @@
-mixin product(item)
+mixin product(item, state)
 	- var PROD_INFO = LANG.product_info[item.tag] || null
 	- var MODIFIER = item.modifier
 	- var PRICE_TITLE = LANG.orderpageform.orderpageform_price
 	- var CURRENCY = LANG.product_info.currency
+	- var CLASS_STATE = state || ''
 
-	.product.js-product.swiper-slide
+	.product.js-product.swiper-slide(class=CLASS_STATE)
 		.product__content
 			p.product__label!= item.label
 

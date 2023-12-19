@@ -16,49 +16,49 @@
         <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
       </div>
     </div>
-    <div class="nav">
-      <div class="container">
-        <div class="nav__wrap"><a class="nav__logo" href="/lt/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/lt/catalog.html">Katalogas</a></li>
-            <li class="menu__item"><a class="menu__link" href="/lt/about.html">Apie mus</a></li>
-            <li class="menu__item"><a class="menu__link" href="/lt/contacts.html">Kontaktai</a></li>
-            <li class="menu__item"><a class="menu__link" href="/lt/reviews.html">Atsiliepimai</a></li>
-          </ul>
-          <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:37066102842">37066102842</a>
-              <button class="nav__btn btn js-show-popup" title="Užsakyti skambutį" data-target="#popup">Užsakyti skambutį</button>
-            </div>
-                <div class="lang-select">
-                  <div class="lang-select__current"></div>
-                  <div class="lang-select__body">
-                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
-                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
-                  </div>
+            <div class="menu-mobile" id="js-mobile-menu">
+              <div class="menu-mobile__wrap">
+                <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/lt/"><img src="/img/svg/logo.svg" alt=""/></a>
+                  <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
                 </div>
+                <ul class="menu-mobile__nav menu">
+                  <li class="menu__item"><a class="menu__link active" href="/lt/catalog.html">Katalogas</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/lt/about.html">Apie mus</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/lt/contacts.html">Kontaktai</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/lt/reviews.html">Atsiliepimai</a></li>
+                </ul>
+                <div class="menu-mobile__bottom">
+                  <button class="menu-mobile__btn btn js-show-popup" title="Užsakyti skambutį" data-target="#popup">Užsakyti skambutį</button>
+                </div>
+              </div>
+            </div>
+        <div class="nav">
+          <div class="container">
+            <div class="nav__wrap"><a class="nav__logo" href="/lt/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+              <ul class="nav__menu menu">
+                <li class="menu__item"><a class="menu__link active" href="/lt/catalog.html">Katalogas</a></li>
+                <li class="menu__item"><a class="menu__link" href="/lt/about.html">Apie mus</a></li>
+                <li class="menu__item"><a class="menu__link" href="/lt/contacts.html">Kontaktai</a></li>
+                <li class="menu__item"><a class="menu__link" href="/lt/reviews.html">Atsiliepimai</a></li>
+              </ul>
+              <div class="nav__controls">
+                <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:37066102842">37066102842</a>
+                  <button class="nav__btn btn js-show-popup" title="Užsakyti skambutį" data-target="#popup">Užsakyti skambutį</button>
+                </div>
+                    <div class="lang-select">
+                      <div class="lang-select__current"></div>
+                      <div class="lang-select__body">
+                        <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                        <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                      </div>
+                    </div>
+              </div>
+              <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+            </div>
           </div>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
-      </div>
-    </div>
-    <div class="menu-mobile" id="js-mobile-menu">
-      <div class="menu-mobile__wrap">
-        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/lt/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
-        </div>
-        <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/lt/catalog.html">Katalogas</a></li>
-          <li class="menu__item"><a class="menu__link" href="/lt/about.html">Apie mus</a></li>
-          <li class="menu__item"><a class="menu__link" href="/lt/contacts.html">Kontaktai</a></li>
-          <li class="menu__item"><a class="menu__link" href="/lt/reviews.html">Atsiliepimai</a></li>
-        </ul>
-        <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Užsakyti skambutį" data-target="#popup">Užsakyti skambutį</button>
-        </div>
-      </div>
-    </div>
     <section class="catalog-main">
       <div class="container">
         <h2 class="catalog-main__title title">Katalogas</h2>
@@ -69,8 +69,9 @@
           </div>
           <div class="catalog-main__right">
             <div class="catalog-main__list js-list-prod active" data-target="health">
+              <!--.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show-->
               <div class="catalog-main__wrap catalog-main__wrap--show js-catalog-show">
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -94,13 +95,13 @@
                         <p class="product__desc">Gelis su vėsinančiu poveikiu, skirtas kovoti su venų varikozės apraiškomis.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">73</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="wintex.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -124,13 +125,13 @@
                         <p class="product__desc">Natūralus aliejus, turintis baktericidinį poveikį, skirtas kovoti su grybelio apraiškomis.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">96</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="exofeet-oil.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -154,13 +155,13 @@
                         <p class="product__desc">Klausos funkcijai gerinti skirtas kompleksas su subalansuota vitaminų ir mineralų formule.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">89</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="paraxan.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -184,13 +185,13 @@
                         <p class="product__desc">Produktas vyrams, skirtas normalizuoti reprodukcinės ir urogenitalinės sistemos funkcijas.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">80</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="deluron.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -214,13 +215,13 @@
                         <p class="product__desc">Vitaminų ir mineralų kompleksas, skirtas atkurti regėjimo aštrumą ir užkirsti kelią regėjimo praradimui.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">97</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="visoptic-duo-night.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -244,13 +245,13 @@
                         <p class="product__desc">Vitaminų ir mineralų kompleksas, skirtas atkurti regėjimo aštrumą ir užkirsti kelią regėjimo pablogėjimui.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">139</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="visoptic-duo-day.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -274,13 +275,13 @@
                         <p class="product__desc">Klausos funkcijai gerinti skirtas kompleksas su subalansuota vitaminų ir mineralų formule.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">119</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="ottomax.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -304,13 +305,13 @@
                         <p class="product__desc">Produktas vyrams, skirtas normalizuoti reprodukcinės ir urogenitalinės sistemos funkcijas.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">102</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="wirex.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -334,15 +335,13 @@
                         <p class="product__desc">Priemonė vyrams, skirta reprodukcinės ir urogenitalinės sistemos funkcijoms normalizuoti.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">125</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="feronex.html">DAUGIAU</a>
                     </div>
-              </div>
-              <div class="catalog-main__wrap catalog-main__wrap--hide js-catalog-hide">
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide hidden">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -366,13 +365,13 @@
                         <p class="product__desc">Gelis įvairių tipų sąnarių ir raumenų skausmams šalinti.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">69</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="steplex.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide hidden">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -396,13 +395,13 @@
                         <p class="product__desc">Gelis su natūraliais ekstraktais, skirtas kovoti su venų varikozės apraiškomis.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">77</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="neoveris.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide hidden">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -426,13 +425,13 @@
                         <p class="product__desc">Kremas, turintis baktericidinį poveikį, skirtas kovoti su grybelio apraiškomis.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">82</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="keramin.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide hidden">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -456,13 +455,13 @@
                         <p class="product__desc">Akims skirtas produktas, stabdantis su amžiumi susijusį regėjimo pablogėjimą.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">109</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="ophtalax.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide hidden">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -486,19 +485,21 @@
                         <p class="product__desc">Augalinis produktas stiprina kraujagyslių sieneles ir neleidžia vystytis hemorojui.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">88</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="rectin.html">DAUGIAU</a>
                     </div>
               </div>
+              <!--.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide-->
               <p class="catalog-main__count js-catalog-count"><span class="js-product-show">0</span>&nbsp;iš&nbsp;<span class="js-product-all">0</span></p>
               <button class="catalog-main__btn btn js-btn-catalog">Rodyti daugiau</button>
             </div>
             <div class="catalog-main__list js-list-prod" data-target="beauty">
+              <!--.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show-->
               <div class="catalog-main__wrap catalog-main__wrap--show js-catalog-show">
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -522,13 +523,13 @@
                         <p class="product__desc">Natūralus kompleksas medžiagų apykaitos procesams aktyvinti ir svorio metimui.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">112</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="guavital.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -552,13 +553,13 @@
                         <p class="product__desc">Jauninamasis veido kremas visų tipų odai „du viename“.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">136</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="beauty-age-skin.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -582,13 +583,13 @@
                         <p class="product__desc">Valomoji kaukė – šveitiklis visų odos tipams.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">165</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="beauty-age-skin-peeling.html">DAUGIAU</a>
                     </div>
-                    <div class="product js-product swiper-slide">
+                    <div class="product js-product swiper-slide active">
                       <div class="product__content">
                         <p class="product__label">Top prekė</p>
                         <div class="product__wrap-photo">
@@ -612,15 +613,14 @@
                         <p class="product__desc">Kapsulės su augaliniais ekstraktais aktyvina medžiagų apykaitos procesus ir mažina svorį.</p>
                         <div class="product__price">
                           <div class="product__price-col">
-                            <p class="product__price-text">Цена:</p>
+                            <p class="product__price-text">Kaina:</p>
                           </div>
                           <div class="product__price-col product__price-col--new"><span class="product__value">82</span><span class="product__currency">€</span></div>
                         </div>
                       </div><a class="product__btn" href="delislim.html">DAUGIAU</a>
                     </div>
               </div>
-              <div class="catalog-main__wrap catalog-main__wrap--hide js-catalog-hide">
-              </div>
+              <!--.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide-->
               <p class="catalog-main__count js-catalog-count"><span class="js-product-show">0</span>&nbsp;iš&nbsp;<span class="js-product-all">0</span></p>
               <button class="catalog-main__btn btn js-btn-catalog">Rodyti daugiau</button>
             </div>

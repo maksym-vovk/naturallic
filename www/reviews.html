@@ -16,49 +16,49 @@
         <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
       </div>
     </div>
-    <div class="nav">
-      <div class="container">
-        <div class="nav__wrap"><a class="nav__logo" href="/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/catalog.html">Katalog</a></li>
-            <li class="menu__item"><a class="menu__link" href="/about.html">O nás</a></li>
-            <li class="menu__item"><a class="menu__link" href="/contacts.html">Kontakty</a></li>
-            <li class="menu__item"><a class="menu__link" href="/reviews.html">Recenze</a></li>
-          </ul>
-          <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:420790285911">420790285911</a>
-              <button class="nav__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
-            </div>
-                <div class="lang-select">
-                  <div class="lang-select__current"></div>
-                  <div class="lang-select__body">
-                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
-                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
-                  </div>
+            <div class="menu-mobile" id="js-mobile-menu">
+              <div class="menu-mobile__wrap">
+                <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/"><img src="/img/svg/logo.svg" alt=""/></a>
+                  <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
                 </div>
+                <ul class="menu-mobile__nav menu">
+                  <li class="menu__item"><a class="menu__link" href="/catalog.html">Katalog</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/about.html">O nás</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/contacts.html">Kontakty</a></li>
+                  <li class="menu__item"><a class="menu__link active" href="/reviews.html">Recenze</a></li>
+                </ul>
+                <div class="menu-mobile__bottom">
+                  <button class="menu-mobile__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
+                </div>
+              </div>
+            </div>
+        <div class="nav">
+          <div class="container">
+            <div class="nav__wrap"><a class="nav__logo" href="/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+              <ul class="nav__menu menu">
+                <li class="menu__item"><a class="menu__link" href="/catalog.html">Katalog</a></li>
+                <li class="menu__item"><a class="menu__link" href="/about.html">O nás</a></li>
+                <li class="menu__item"><a class="menu__link" href="/contacts.html">Kontakty</a></li>
+                <li class="menu__item"><a class="menu__link active" href="/reviews.html">Recenze</a></li>
+              </ul>
+              <div class="nav__controls">
+                <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:420790285911">420790285911</a>
+                  <button class="nav__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
+                </div>
+                    <div class="lang-select">
+                      <div class="lang-select__current"></div>
+                      <div class="lang-select__body">
+                        <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                        <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                      </div>
+                    </div>
+              </div>
+              <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+            </div>
           </div>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
-      </div>
-    </div>
-    <div class="menu-mobile" id="js-mobile-menu">
-      <div class="menu-mobile__wrap">
-        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
-        </div>
-        <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/catalog.html">Katalog</a></li>
-          <li class="menu__item"><a class="menu__link" href="/about.html">O nás</a></li>
-          <li class="menu__item"><a class="menu__link" href="/contacts.html">Kontakty</a></li>
-          <li class="menu__item"><a class="menu__link" href="/reviews.html">Recenze</a></li>
-        </ul>
-        <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Objednat hovor" data-target="#popup">Objednat hovor</button>
-        </div>
-      </div>
-    </div>
     <section class="reviews-main">
       <div class="container">
         <h2 class="reviews-main__title title">Recenze</h2>
@@ -1639,7 +1639,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ottomax_7.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Patrik Bastl</p>
+                                <p class="review__name">Jarmila Novotná</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+</p>
                               </div>
                             </div>
@@ -2109,7 +2109,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Alena Brunclíková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2120,7 +2120,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Tereza Tomanková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2133,7 +2133,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Petr Patera</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2144,7 +2144,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Kateřina Bečánová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2157,7 +2157,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Eva Klemešová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2168,7 +2168,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Petra Škodáková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2181,7 +2181,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Vojtěch Dohnal</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2192,7 +2192,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Hana Kučerová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2205,7 +2205,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ondřej Šašek</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2216,7 +2216,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Markéta Konvalinková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2229,7 +2229,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jarmila Havelová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2240,7 +2240,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jaroslava Říhová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2252,8 +2252,8 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_3.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Jan Liška</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__name">Denisa Sochorová</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2264,7 +2264,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Pavel Dvořák</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2277,7 +2277,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jaroslav Poulíček</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2288,7 +2288,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Marek Horák</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2301,7 +2301,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Josef Šesták</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2312,7 +2312,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Marie Drašnarová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2325,7 +2325,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jana Jirásková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2336,7 +2336,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Františka Snášelová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2528,7 +2528,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Roman Osička</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2541,7 +2541,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ladislav Fejta</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2552,7 +2552,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Stanislava Smetanová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2565,7 +2565,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">David Sadílek</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2576,7 +2576,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Pavlína Pánková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2589,7 +2589,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Rudolf Kobes</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2600,7 +2600,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Marian Čihák</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2613,7 +2613,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Miroslava Zítková</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2624,7 +2624,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Dana Doležalová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2637,7 +2637,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jakub Moravec</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2648,7 +2648,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_11.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Denis Pecha</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2661,7 +2661,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_12.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Zuzana Grulichová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2672,7 +2672,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_13.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Luboš Andrýsek</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2685,7 +2685,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_14.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Libor Nesnídal</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2696,7 +2696,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_15.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Vít Fous</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2719,7 +2719,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_2.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Petr Svoboda</p>
+                                <p class="review__name">Peter Maršík</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2732,7 +2732,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_3.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Lucie Křížová</p>
+                                <p class="review__name">Helena Horáková</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2756,7 +2756,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_5.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Eva Pospíšilová</p>
+                                <p class="review__name">Helena Prášková</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2767,7 +2767,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_6.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Barbora Dvořáková</p>
+                                <p class="review__name">Milada Součková</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2815,7 +2815,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_10.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Petr Svoboda</p>
+                                <p class="review__name">Jindřich Heczko</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2828,7 +2828,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_11.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Lucie Křížová</p>
+                                <p class="review__name">Jarmila Tománková</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2852,7 +2852,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_13.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Eva Pospíšilová</p>
+                                <p class="review__name">Milada Pavelová</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;OPHTALAX</p>
                               </div>
                             </div>
@@ -2935,7 +2935,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_rectin_5.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Petr Svoboda</p>
+                                <p class="review__name">Ladislav Vrzal</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;RECTIN</p>
                               </div>
                             </div>
@@ -3007,7 +3007,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_rectin_11.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Lucie Křížová</p>
+                                <p class="review__name">Hana Lavičková</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;RECTIN</p>
                               </div>
                             </div>
@@ -3189,7 +3189,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_depanten_11.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Žaneta Skálová</p>
-                                <p class="review__desc"><span class="review__mark">vyjádřil</span> svůj názor na&nbsp;DEPANTEN</p>
+                                <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;DEPANTEN</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -3356,7 +3356,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_vermixin_10.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Dagmar Ledinská</p>
+                                <p class="review__name">Ivana Michnová</p>
                                 <p class="review__desc"><span class="review__mark">vyjádřila</span> svůj názor na&nbsp;VERMIXIN</p>
                               </div>
                             </div>

@@ -31,28 +31,32 @@ section.catalog-main
 				p.category-item#beauty.js-tab!=CATALOG.catalog_item_beauty
 			.catalog-main__right
 				.catalog-main__list.js-list-prod.active(data-target="health")
+					//.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 						each product in preloadedHealthProducts
-							+product(product)
-					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+							+product(product, 'active')
 						each product in restHealthProducts
-							+product(product)
+							+product(product, 'hidden')
+					//.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+
 					p.catalog-main__count.js-catalog-count
 						span.js-product-show 0
 						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;
 						span.js-product-all 0
-					case restBeautyProducts.length
+					case restHealthProducts.length
 						when 0
 						default
 							button.catalog-main__btn.btn.js-btn-catalog!=CATALOG.catalog_item_more_btn
 
 				.catalog-main__list.js-list-prod(data-target="beauty")
+					//.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 					.catalog-main__wrap.catalog-main__wrap--show.js-catalog-show
 						each product in preloadedBeautyProducts
-							+product(product)
-					.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+							+product(product, 'active')
 						each product in restBeautyProducts
-							+product(product)
+							+product(product, 'hidden')
+					//.catalog-main__wrap.catalog-main__wrap--hide.js-catalog-hide
+
 					p.catalog-main__count.js-catalog-count
 						span.js-product-show 0
 						| &nbsp;#{CATALOG.catalog_item_count}&nbsp;

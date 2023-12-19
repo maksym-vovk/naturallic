@@ -132,10 +132,14 @@
 		color: $main-green
 		text-decoration: none
 		text-transform: uppercase
+		border-radius: 50px
+		transition: all .5s
+		padding: 0 15px
+
+		&.active
+			background: $gold
+
 		+rm(1023)
-			border-radius: 50px
-			transition: all .5s
-			padding: 0 15px
 			&:hover
 				background: $gold
 

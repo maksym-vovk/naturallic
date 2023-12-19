@@ -16,49 +16,49 @@
         <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
       </div>
     </div>
-    <div class="nav">
-      <div class="container">
-        <div class="nav__wrap"><a class="nav__logo" href="/ee/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/ee/catalog.html">Kataloog</a></li>
-            <li class="menu__item"><a class="menu__link" href="/ee/about.html">Meist</a></li>
-            <li class="menu__item"><a class="menu__link" href="/ee/contacts.html">Kontaktid</a></li>
-            <li class="menu__item"><a class="menu__link" href="/ee/reviews.html">Kommentaarid</a></li>
-          </ul>
-          <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:3726989987">3726989987</a>
-              <button class="nav__btn btn js-show-popup" title="Tellige kõne" data-target="#popup">Tellige kõne</button>
-            </div>
-                <div class="lang-select">
-                  <div class="lang-select__current"></div>
-                  <div class="lang-select__body">
-                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
-                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
-                  </div>
+            <div class="menu-mobile" id="js-mobile-menu">
+              <div class="menu-mobile__wrap">
+                <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/ee/"><img src="/img/svg/logo.svg" alt=""/></a>
+                  <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
                 </div>
+                <ul class="menu-mobile__nav menu">
+                  <li class="menu__item"><a class="menu__link" href="/ee/catalog.html">Kataloog</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/ee/about.html">Meist</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/ee/contacts.html">Kontaktid</a></li>
+                  <li class="menu__item"><a class="menu__link active" href="/ee/reviews.html">Kommentaarid</a></li>
+                </ul>
+                <div class="menu-mobile__bottom">
+                  <button class="menu-mobile__btn btn js-show-popup" title="Tellige kõne" data-target="#popup">Tellige kõne</button>
+                </div>
+              </div>
+            </div>
+        <div class="nav">
+          <div class="container">
+            <div class="nav__wrap"><a class="nav__logo" href="/ee/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+              <ul class="nav__menu menu">
+                <li class="menu__item"><a class="menu__link" href="/ee/catalog.html">Kataloog</a></li>
+                <li class="menu__item"><a class="menu__link" href="/ee/about.html">Meist</a></li>
+                <li class="menu__item"><a class="menu__link" href="/ee/contacts.html">Kontaktid</a></li>
+                <li class="menu__item"><a class="menu__link active" href="/ee/reviews.html">Kommentaarid</a></li>
+              </ul>
+              <div class="nav__controls">
+                <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:3726989987">3726989987</a>
+                  <button class="nav__btn btn js-show-popup" title="Tellige kõne" data-target="#popup">Tellige kõne</button>
+                </div>
+                    <div class="lang-select">
+                      <div class="lang-select__current"></div>
+                      <div class="lang-select__body">
+                        <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                        <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                      </div>
+                    </div>
+              </div>
+              <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+            </div>
           </div>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
-      </div>
-    </div>
-    <div class="menu-mobile" id="js-mobile-menu">
-      <div class="menu-mobile__wrap">
-        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/ee/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
-        </div>
-        <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/ee/catalog.html">Kataloog</a></li>
-          <li class="menu__item"><a class="menu__link" href="/ee/about.html">Meist</a></li>
-          <li class="menu__item"><a class="menu__link" href="/ee/contacts.html">Kontaktid</a></li>
-          <li class="menu__item"><a class="menu__link" href="/ee/reviews.html">Kommentaarid</a></li>
-        </ul>
-        <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Tellige kõne" data-target="#popup">Tellige kõne</button>
-        </div>
-      </div>
-    </div>
     <section class="reviews-main">
       <div class="container">
         <h2 class="reviews-main__title title">Kommentaarid</h2>
@@ -2109,7 +2109,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Maria Alonso</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2120,7 +2120,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Kate Smiths</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2133,7 +2133,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sergio Fergaro</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2144,7 +2144,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Giuliana May</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2157,7 +2157,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sophie Nolan</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2168,7 +2168,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sharlotta Mikreg</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2181,7 +2181,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Charles Conelli</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2192,7 +2192,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Camilla Fergares</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2205,7 +2205,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Timothy Gelbert</p>
-                                <p class="review__desc"><span class="review__mark">ütlesа</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütlesа</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2216,7 +2216,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Stella Karlson</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2229,7 +2229,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Emma Mayson</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2240,7 +2240,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Alberta Tornton</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2253,7 +2253,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lauren Grabbs</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2264,7 +2264,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Orest Schwaln</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2277,7 +2277,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Gabriel Viraldi</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2288,7 +2288,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mario Gabrilos</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2301,7 +2301,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Alberto Diaz</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2312,7 +2312,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Victoria Oshwald</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2325,7 +2325,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Catalina Lopes</p>
-                                <p class="review__desc"><span class="review__mark">ütlesа</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütlesа</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2336,7 +2336,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Agnia Fergano</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2528,7 +2528,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jeremy Closak</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2541,7 +2541,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lübert Ferdinez</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2552,7 +2552,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Barbara Delascon</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2565,7 +2565,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Diego Santiago</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2576,7 +2576,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Claudia Elkasar</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2589,7 +2589,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lucio Marquez</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2600,7 +2600,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Tomasc Zhardeck</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2613,7 +2613,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Daphne Foxtrite</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2624,7 +2624,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Rebecca Strauson</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2637,7 +2637,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Augustin Petres</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2648,7 +2648,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_11.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Orlando Dyres</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2661,7 +2661,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_12.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lena Gavrosh</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2672,7 +2672,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_13.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lukian Mornash</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2685,7 +2685,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_14.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Michael Vernandez</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2696,7 +2696,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_15.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Robert Wynes</p>
-                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">

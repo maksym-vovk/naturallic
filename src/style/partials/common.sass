@@ -171,6 +171,13 @@ ul, li
 	position: relative
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	transition: all .3s
+
+	&.hidden
+		display: none
+
+	&.active
+		display: flex
+
 	+rm(768)
 		background: $light-blue
 		color: $main-green
@@ -522,7 +529,7 @@ ul, li
 	font-family: 'Roboto', Arial, Helvetica, sans-serif
 	font-size: 18px
 	text-transform: uppercase
-	line-height: 46px
+	line-height: 1.3
 	position: relative
 	letter-spacing: -0.05em
 	display: inline-block
@@ -545,10 +552,10 @@ ul, li
 
 	+r(639)
 		font-size: 16px
-		line-height: 35px
+		//line-height: 35px
 	+r(374)
 		font-size: 14px
-		line-height: 30px
+		//line-height: 30px
 	&__line
 		margin: 0 3px
 	&__main

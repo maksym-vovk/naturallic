@@ -3,6 +3,9 @@ block head
 	-var title = LANG.page_names.home
 	title Naturallic - #{title}
 block content
+	include templates/mixins/menu
+	+menu("index")
+
 	include templates/home/header
 	include templates/home/hits
 	include templates/home/categories
