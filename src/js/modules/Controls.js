@@ -79,8 +79,10 @@ const Controls = (function () {
                 e.preventDefault();
                 const _this = $(this);
                 const parent = _this.parent(productsList);
-                const hideCatalog = parent.find(".js-catalog-hide");
-                hideCatalog.addClass("show");
+                const hiddenProducts = $('.js-product.hidden')
+                hiddenProducts.removeClass('hidden').addClass('active')
+                // const hideCatalog = parent.find(".js-catalog-hide");
+                // hideCatalog.addClass("show");
                 Controls.calculateProducts();
                 _this.hide();
             });
@@ -91,9 +93,9 @@ const Controls = (function () {
             //количество всех товаров
             const countProductsAll = parent.find(product).length;
             //количество показаных товаров
-            const countProductsShow = parent
-                .find(".js-catalog-show")
-                .find(product).length;
+            const countProductsShow = parent.find('.js-product.active').length
+                // .find(".js-catalog-show")
+                // .find(product).length;
 
             hideBtn(countProductsShow, countProductsAll);
 

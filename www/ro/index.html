@@ -16,49 +16,49 @@
         <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
       </div>
     </div>
-    <div class="nav">
-      <div class="container">
-        <div class="nav__wrap"><a class="nav__logo" href="/ro/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/ro/catalog.html">Catalog</a></li>
-            <li class="menu__item"><a class="menu__link" href="/ro/about.html">Despre noi</a></li>
-            <li class="menu__item"><a class="menu__link" href="/ro/contacts.html">Contacte</a></li>
-            <li class="menu__item"><a class="menu__link" href="/ro/reviews.html">Recenzii</a></li>
-          </ul>
-          <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:40351229049">40351229049</a>
-              <button class="nav__btn btn js-show-popup" title="Comandați un apel" data-target="#popup">Comandați un apel</button>
-            </div>
-                <div class="lang-select">
-                  <div class="lang-select__current"></div>
-                  <div class="lang-select__body">
-                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
-                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
-                  </div>
+            <div class="menu-mobile" id="js-mobile-menu">
+              <div class="menu-mobile__wrap">
+                <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/ro/"><img src="/img/svg/logo.svg" alt=""/></a>
+                  <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
                 </div>
+                <ul class="menu-mobile__nav menu">
+                  <li class="menu__item"><a class="menu__link" href="/ro/catalog.html">Catalog</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/ro/about.html">Despre noi</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/ro/contacts.html">Contacte</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/ro/reviews.html">Recenzii</a></li>
+                </ul>
+                <div class="menu-mobile__bottom">
+                  <button class="menu-mobile__btn btn js-show-popup" title="Comandați un apel" data-target="#popup">Comandați un apel</button>
+                </div>
+              </div>
+            </div>
+        <div class="nav">
+          <div class="container">
+            <div class="nav__wrap"><a class="nav__logo" href="/ro/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+              <ul class="nav__menu menu">
+                <li class="menu__item"><a class="menu__link" href="/ro/catalog.html">Catalog</a></li>
+                <li class="menu__item"><a class="menu__link" href="/ro/about.html">Despre noi</a></li>
+                <li class="menu__item"><a class="menu__link" href="/ro/contacts.html">Contacte</a></li>
+                <li class="menu__item"><a class="menu__link" href="/ro/reviews.html">Recenzii</a></li>
+              </ul>
+              <div class="nav__controls">
+                <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:40351229049">40351229049</a>
+                  <button class="nav__btn btn js-show-popup" title="Comandați un apel" data-target="#popup">Comandați un apel</button>
+                </div>
+                    <div class="lang-select">
+                      <div class="lang-select__current"></div>
+                      <div class="lang-select__body">
+                        <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                        <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                      </div>
+                    </div>
+              </div>
+              <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+            </div>
           </div>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
-      </div>
-    </div>
-    <div class="menu-mobile" id="js-mobile-menu">
-      <div class="menu-mobile__wrap">
-        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/ro/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
-        </div>
-        <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/ro/catalog.html">Catalog</a></li>
-          <li class="menu__item"><a class="menu__link" href="/ro/about.html">Despre noi</a></li>
-          <li class="menu__item"><a class="menu__link" href="/ro/contacts.html">Contacte</a></li>
-          <li class="menu__item"><a class="menu__link" href="/ro/reviews.html">Recenzii</a></li>
-        </ul>
-        <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Comandați un apel" data-target="#popup">Comandați un apel</button>
-        </div>
-      </div>
-    </div>
     <header class="header">
       <div class="container">
         <div class="header__slider js-slider-header">
@@ -1520,7 +1520,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Maria Aleescu</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1531,7 +1531,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mirela Constantinescu</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1544,7 +1544,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sergiu Ursu</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1555,7 +1555,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Angela Musteață</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1568,7 +1568,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sofia Lopac</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1579,7 +1579,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ana Nedelcu</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1592,7 +1592,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Alberta Târtă</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1603,7 +1603,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Viorel Albu</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1616,7 +1616,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">David Stan</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1627,7 +1627,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Gabriel Plăcintă</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1699,7 +1699,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ion Marinescu</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1712,7 +1712,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Gheorghe Nistor</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1723,7 +1723,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Măriuța Coman</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1736,7 +1736,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Daniel Spataru</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1747,7 +1747,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Cornelia Crăciun</p>
-                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">

@@ -16,49 +16,49 @@
         <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
       </div>
     </div>
-    <div class="nav">
-      <div class="container">
-        <div class="nav__wrap"><a class="nav__logo" href="/hr/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/hr/catalog.html">Katalog</a></li>
-            <li class="menu__item"><a class="menu__link" href="/hr/about.html">O nama</a></li>
-            <li class="menu__item"><a class="menu__link" href="/hr/contacts.html">Kontakti</a></li>
-            <li class="menu__item"><a class="menu__link" href="/hr/reviews.html">Recenzije</a></li>
-          </ul>
-          <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:385919156507">385919156507</a>
-              <button class="nav__btn btn js-show-popup" title="Naručiti poziv" data-target="#popup">Naručiti poziv</button>
-            </div>
-                <div class="lang-select">
-                  <div class="lang-select__current"></div>
-                  <div class="lang-select__body">
-                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
-                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
-                  </div>
+            <div class="menu-mobile" id="js-mobile-menu">
+              <div class="menu-mobile__wrap">
+                <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/hr/"><img src="/img/svg/logo.svg" alt=""/></a>
+                  <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
                 </div>
+                <ul class="menu-mobile__nav menu">
+                  <li class="menu__item"><a class="menu__link" href="/hr/catalog.html">Katalog</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/hr/about.html">O nama</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/hr/contacts.html">Kontakti</a></li>
+                  <li class="menu__item"><a class="menu__link active" href="/hr/reviews.html">Recenzije</a></li>
+                </ul>
+                <div class="menu-mobile__bottom">
+                  <button class="menu-mobile__btn btn js-show-popup" title="Naručiti poziv" data-target="#popup">Naručiti poziv</button>
+                </div>
+              </div>
+            </div>
+        <div class="nav">
+          <div class="container">
+            <div class="nav__wrap"><a class="nav__logo" href="/hr/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+              <ul class="nav__menu menu">
+                <li class="menu__item"><a class="menu__link" href="/hr/catalog.html">Katalog</a></li>
+                <li class="menu__item"><a class="menu__link" href="/hr/about.html">O nama</a></li>
+                <li class="menu__item"><a class="menu__link" href="/hr/contacts.html">Kontakti</a></li>
+                <li class="menu__item"><a class="menu__link active" href="/hr/reviews.html">Recenzije</a></li>
+              </ul>
+              <div class="nav__controls">
+                <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:385919156507">385919156507</a>
+                  <button class="nav__btn btn js-show-popup" title="Naručiti poziv" data-target="#popup">Naručiti poziv</button>
+                </div>
+                    <div class="lang-select">
+                      <div class="lang-select__current"></div>
+                      <div class="lang-select__body">
+                        <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                        <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                      </div>
+                    </div>
+              </div>
+              <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+            </div>
           </div>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
-      </div>
-    </div>
-    <div class="menu-mobile" id="js-mobile-menu">
-      <div class="menu-mobile__wrap">
-        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/hr/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
-        </div>
-        <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/hr/catalog.html">Katalog</a></li>
-          <li class="menu__item"><a class="menu__link" href="/hr/about.html">O nama</a></li>
-          <li class="menu__item"><a class="menu__link" href="/hr/contacts.html">Kontakti</a></li>
-          <li class="menu__item"><a class="menu__link" href="/hr/reviews.html">Recenzije</a></li>
-        </ul>
-        <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Naručiti poziv" data-target="#popup">Naručiti poziv</button>
-        </div>
-      </div>
-    </div>
     <section class="reviews-main">
       <div class="container">
         <h2 class="reviews-main__title title">Recenzije</h2>
@@ -165,7 +165,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_beauty-age-skin_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Klaudia Hanić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -285,7 +285,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_beauty-age-skin-peeling_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Martina Petrić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -415,7 +415,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_delislim_10.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Robert Bebek</p>
+                                <p class="review__name">Barbara Novak</p>
                                 <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;DELISLIM</p>
                               </div>
                             </div>
@@ -492,7 +492,7 @@
                               </div>
                             </div>
                             <div class="review__bottom">
-                              <p class="review__text">Prije 3 godine su mi postavili dijagnozu , isprobao sam različita sredstva i sheme oporavka. Pomogao je samo Deluron Forte. Naručio sam ga putem interneta s kurirskom dostavom.</p>
+                              <p class="review__text">Prije 3 godine su mi postavili dijagnozu, isprobao sam različita sredstva i sheme oporavka. Pomogao je samo Deluron Forte. Naručio sam ga putem interneta s kurirskom dostavom.</p>
                             </div>
                           </div>
             </div>
@@ -584,7 +584,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_deluron-forte_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ana Verzak</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;DELURON&nbsp;FORTE</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;DELURON&nbsp;FORTE</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -728,7 +728,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_exofeet-oil_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lidija Čuturić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;Exofeet&nbsp;Oil</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;Exofeet&nbsp;Oil</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -765,7 +765,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_exofeet-oil_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jelena Paradžiković</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;Exofeet&nbsp;Oil</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;Exofeet&nbsp;Oil</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1476,7 +1476,7 @@
                               </div>
                             </div>
                             <div class="review__bottom">
-                              <p class="review__text">Spriječio upalu vena i brzo uklonio bol. Noću su grčevi nestali . Čak i nakon napornog dana, nema težine i natečenosti.</p>
+                              <p class="review__text">Spriječio upalu vena i brzo uklonio bol. Noću su grčevi nestali. Čak i nakon napornog dana, nema težine i natečenosti.</p>
                             </div>
                           </div>
             </div>
@@ -1496,7 +1496,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_neoveris_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Marijan Turković</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;NEOVERIS</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;NEOVERIS</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1639,7 +1639,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ottomax_7.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Tihomir Vitez</p>
+                                <p class="review__name">Marina Vlahović</p>
                                 <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OTTOMAX+</p>
                               </div>
                             </div>
@@ -1700,7 +1700,7 @@
                           <div class="review js-review">
                             <div class="review__top"><img class="review__photo" src="/img/review_ottomax_12.png" alt=""/>
                               <div class="review__desc">
-                                <p class="review__name">Antonio Tokić</p>
+                                <p class="review__name">Antonela Pavletić</p>
                                 <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OTTOMAX+</p>
                               </div>
                             </div>
@@ -2109,7 +2109,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Maria Anić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2120,7 +2120,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Kata Smolčić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2133,7 +2133,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Stjepan Faber</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2144,7 +2144,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Julija Matić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2157,7 +2157,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sofija Novak</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2168,7 +2168,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Marija Mitrišić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2181,7 +2181,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mladen Crnkov</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2192,7 +2192,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Karmela Gaščić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2205,7 +2205,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Tibor Grbavac</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2216,7 +2216,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Stela Klarica</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2229,7 +2229,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ema Mašić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2240,7 +2240,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Alberta Tomić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2253,7 +2253,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Laura Grabić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2264,7 +2264,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ognjen Švajić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2277,7 +2277,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Gabriel Vitez</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2288,7 +2288,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mario Galić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2301,7 +2301,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Albert Damić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2312,7 +2312,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Victorija Oršić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2325,7 +2325,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Katarina Lauc</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2336,7 +2336,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Anja Farkaš</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2408,7 +2408,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wintex-ultra_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Inga Marušić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2445,7 +2445,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wintex-ultra_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Kristina Božić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio jeа</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2528,7 +2528,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Jerko Šarić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2541,7 +2541,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Božo Kvesić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2552,7 +2552,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ana Vidović</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2565,7 +2565,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Damir Boras</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2576,7 +2576,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Josipa Humski</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2589,7 +2589,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Nikola Kordić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2600,7 +2600,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Tin Meštrović</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2613,7 +2613,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Antonela Đuraš</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2624,7 +2624,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Nevenka Bosanac</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2637,7 +2637,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_10.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Augustin Ujević</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2648,7 +2648,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_11.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mihael Kordić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2661,7 +2661,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_12.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lena Gavran</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2672,7 +2672,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_13.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lovro Mornar</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2685,7 +2685,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_14.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mihael Vranješ</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2696,7 +2696,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_15.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Robert Erceg</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2781,7 +2781,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_7.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Vlado Šestan</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2792,7 +2792,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Maja Trajković</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2805,7 +2805,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_9.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Andrej Orehovec</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2840,7 +2840,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_12.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Zoran Nikić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2877,7 +2877,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_ophtalax_15.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Dunja Bijelić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;OPHTALAX</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2949,7 +2949,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_rectin_6.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mladen Đurić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;RECTIN</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;RECTIN</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -2973,7 +2973,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_rectin_8.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Katja Kordić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;RECTIN</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;RECTIN</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -3032,7 +3032,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_rectin_13.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Davor Marić</p>
-                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;RECTIN</p>
+                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;RECTIN</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -3056,7 +3056,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_rectin_15.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mirela Blažanović</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;RECTIN</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;RECTIN</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -3189,7 +3189,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_depanten_11.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Mirzeta Bukić</p>
-                                <p class="review__desc"><span class="review__mark">podijelio je</span> svoje mišljenje o&nbsp;DEPANTEN</p>
+                                <p class="review__desc"><span class="review__mark">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN</p>
                               </div>
                             </div>
                             <div class="review__bottom">

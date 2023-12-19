@@ -16,49 +16,49 @@
         <div class="loader__circle"><span class="loader__progress"></span><img class="loader__img" src="/img/loader.svg" alt="Pre-loader"/></div>
       </div>
     </div>
-    <div class="nav">
-      <div class="container">
-        <div class="nav__wrap"><a class="nav__logo" href="/lv/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
-          <ul class="nav__menu menu">
-            <li class="menu__item"><a class="menu__link" href="/lv/catalog.html">Katalogs</a></li>
-            <li class="menu__item"><a class="menu__link" href="/lv/about.html">Par mums</a></li>
-            <li class="menu__item"><a class="menu__link" href="/lv/contacts.html">Kontakti</a></li>
-            <li class="menu__item"><a class="menu__link" href="/lv/reviews.html">Atsauksmes</a></li>
-          </ul>
-          <div class="nav__controls">
-            <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:48222630382">48222630382</a>
-              <button class="nav__btn btn js-show-popup" title="Piesakiet zvanu" data-target="#popup">Piesakiet zvanu</button>
-            </div>
-                <div class="lang-select">
-                  <div class="lang-select__current"></div>
-                  <div class="lang-select__body">
-                    <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
-                    <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
-                    <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
-                  </div>
+            <div class="menu-mobile" id="js-mobile-menu">
+              <div class="menu-mobile__wrap">
+                <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/lv/"><img src="/img/svg/logo.svg" alt=""/></a>
+                  <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
                 </div>
+                <ul class="menu-mobile__nav menu">
+                  <li class="menu__item"><a class="menu__link" href="/lv/catalog.html">Katalogs</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/lv/about.html">Par mums</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/lv/contacts.html">Kontakti</a></li>
+                  <li class="menu__item"><a class="menu__link" href="/lv/reviews.html">Atsauksmes</a></li>
+                </ul>
+                <div class="menu-mobile__bottom">
+                  <button class="menu-mobile__btn btn js-show-popup" title="Piesakiet zvanu" data-target="#popup">Piesakiet zvanu</button>
+                </div>
+              </div>
+            </div>
+        <div class="nav">
+          <div class="container">
+            <div class="nav__wrap"><a class="nav__logo" href="/lv/index.html"><img src="/img/svg/logo.svg" alt="Naturallic"/></a>
+              <ul class="nav__menu menu">
+                <li class="menu__item"><a class="menu__link" href="/lv/catalog.html">Katalogs</a></li>
+                <li class="menu__item"><a class="menu__link" href="/lv/about.html">Par mums</a></li>
+                <li class="menu__item"><a class="menu__link" href="/lv/contacts.html">Kontakti</a></li>
+                <li class="menu__item"><a class="menu__link" href="/lv/reviews.html">Atsauksmes</a></li>
+              </ul>
+              <div class="nav__controls">
+                <div class="nav__btn-wrap"><a class="nav__link-tel" href="tel:48222630382">48222630382</a>
+                  <button class="nav__btn btn js-show-popup" title="Piesakiet zvanu" data-target="#popup">Piesakiet zvanu</button>
+                </div>
+                    <div class="lang-select">
+                      <div class="lang-select__current"></div>
+                      <div class="lang-select__body">
+                        <!--a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-hu.png' alt='hu')--><a class="lang-select__option lang-select__option--default" data-lang="cz" href="/index.html"><img class="lang-select__flag" src="/img/language-cz.png" alt="cz"/></a>
+                        <!--a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))-->
+                        <!--    img.lang-select__flag(src='/img/language-ro.png' alt='ro')--><a class="lang-select__option" data-lang="it" href="/it/index.html"><img class="lang-select__flag" src="/img/language-it.png" alt="it"/></a><a class="lang-select__option" data-lang="bg" href="/bg/index.html"><img class="lang-select__flag" src="/img/language-bg.png" alt="bg"/></a><a class="lang-select__option" data-lang="ee" href="/ee/index.html"><img class="lang-select__flag" src="/img/language-ee.png" alt="ee"/></a><a class="lang-select__option" data-lang="hr" href="/hr/index.html"><img class="lang-select__flag" src="/img/language-hr.png" alt="hr"/></a><a class="lang-select__option" data-lang="lt" href="/lt/index.html"><img class="lang-select__flag" src="/img/language-lt.png" alt="lt"/></a><a class="lang-select__option" data-lang="lv" href="/lv/index.html"><img class="lang-select__flag" src="/img/language-lv.png" alt="lv"/></a><a class="lang-select__option" data-lang="pl" href="/pl/index.html"><img class="lang-select__flag" src="/img/language-pl.png" alt="pl"/></a><a class="lang-select__option" data-lang="pt" href="/pt/index.html"><img class="lang-select__flag" src="/img/language-pt.png" alt="pt"/></a><a class="lang-select__option" data-lang="sl" href="/sl/index.html"><img class="lang-select__flag" src="/img/language-sl.png" alt="sl"/></a>
+                      </div>
+                    </div>
+              </div>
+              <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
+            </div>
           </div>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
         </div>
-      </div>
-    </div>
-    <div class="menu-mobile" id="js-mobile-menu">
-      <div class="menu-mobile__wrap">
-        <div class="menu-mobile__top"><a class="logo menu-mobile__logo" href="/lv/"><img src="/img/svg/logo.svg" alt=""/></a>
-          <div class="burger js-burger" data-target="#js-mobile-menu"><span class="burger__line"></span><span class="burger__line"></span><span class="burger__line"></span></div>
-        </div>
-        <ul class="menu-mobile__nav menu">
-          <li class="menu__item"><a class="menu__link" href="/lv/catalog.html">Katalogs</a></li>
-          <li class="menu__item"><a class="menu__link" href="/lv/about.html">Par mums</a></li>
-          <li class="menu__item"><a class="menu__link" href="/lv/contacts.html">Kontakti</a></li>
-          <li class="menu__item"><a class="menu__link" href="/lv/reviews.html">Atsauksmes</a></li>
-        </ul>
-        <div class="menu-mobile__bottom">
-          <button class="menu-mobile__btn btn js-show-popup" title="Piesakiet zvanu" data-target="#popup">Piesakiet zvanu</button>
-        </div>
-      </div>
-    </div>
     <header class="header">
       <div class="container">
         <div class="header__slider js-slider-header">
@@ -134,7 +134,7 @@
                     <p class="product__desc">Dabisks komplekss vielmaiņas aktivizēšanai un svara samazināšanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">112</span><span class="product__currency">€</span></div>
                     </div>
@@ -164,7 +164,7 @@
                     <p class="product__desc">Gels ar dzesējošu efektu, kurš domāts varikozes izpausmju novēršanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">73</span><span class="product__currency">€</span></div>
                     </div>
@@ -194,7 +194,7 @@
                     <p class="product__desc">Dabīgā eļļa ar baktericīdu iedarbību, kura domātā sēnītes izpausmju novēršanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">96</span><span class="product__currency">€</span></div>
                     </div>
@@ -224,7 +224,7 @@
                     <p class="product__desc">Kapsulas organisma nekaitīgajai atbrīvošanai no parazītiem un gremošanas sistēmas funkciju atjaunošanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">89</span><span class="product__currency">€</span></div>
                     </div>
@@ -254,7 +254,7 @@
                     <p class="product__desc">Līdzeklis vīriešiem, kas vērsts uz reproduktīvās un uroģenitālās sistēmas funkciju normalizēšanu.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">80</span><span class="product__currency">€</span></div>
                     </div>
@@ -284,7 +284,7 @@
                     <p class="product__desc">Vitamīnu un minerālvielu komplekss redzes asuma atjaunošanai un redzes samazināšanās profilaksei.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">97</span><span class="product__currency">€</span></div>
                     </div>
@@ -314,7 +314,7 @@
                     <p class="product__desc">Vitamīnu un minerālvielu komplekss redzes asuma atjaunošanai un redzes samazināšanās profilaksei.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">139</span><span class="product__currency">€</span></div>
                     </div>
@@ -344,7 +344,7 @@
                     <p class="product__desc">Atjaunojošs sejas krēms “divi vienā” visiem ādas tipiem.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">136</span><span class="product__currency">€</span></div>
                     </div>
@@ -374,7 +374,7 @@
                     <p class="product__desc">Attīroša pīlinga maska visiem ādas tipiem.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">165</span><span class="product__currency">€</span></div>
                     </div>
@@ -404,7 +404,7 @@
                     <p class="product__desc">Komplekss dzirdes funkciju uzlabošanai ar sabalansētu vitamīnu un minerālvielu formulu.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">119</span><span class="product__currency">€</span></div>
                     </div>
@@ -434,7 +434,7 @@
                     <p class="product__desc">Līdzeklis vīriešiem, kas vērsts uz reproduktīvās un uroģenitālās sistēmas funkciju normalizēšanu.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">102</span><span class="product__currency">€</span></div>
                     </div>
@@ -464,7 +464,7 @@
                     <p class="product__desc">Līdzeklis vīriešiem, kas vērsts uz reproduktīvās un uroģenitālās sistēmas funkciju normalizēšanu.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">125</span><span class="product__currency">€</span></div>
                     </div>
@@ -494,7 +494,7 @@
                     <p class="product__desc">Gels dažādu tipu locītavu un muskuļu sāpju novēršanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">69</span><span class="product__currency">€</span></div>
                     </div>
@@ -524,7 +524,7 @@
                     <p class="product__desc">Gels ar dabīgiem ekstraktiem, kurš domāts varikozes izpausmju novēršanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">77</span><span class="product__currency">€</span></div>
                     </div>
@@ -554,7 +554,7 @@
                     <p class="product__desc">Krēms ar baktericīdu iedarbību, kurš domātā sēnītes izpausmju novēršanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">26</span><span class="product__currency">€</span></div>
                     </div>
@@ -584,7 +584,7 @@
                     <p class="product__desc">Kapsulas ar augu ekstraktiem vielmaiņas aktivizēšanai un svara samazināšanai.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">82</span><span class="product__currency">€</span></div>
                     </div>
@@ -614,7 +614,7 @@
                     <p class="product__desc">Produkts acīm, kas aptur vecuma redzes pasliktināšanos.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">109</span><span class="product__currency">€</span></div>
                     </div>
@@ -644,7 +644,7 @@
                     <p class="product__desc">Produkts uz augu bāzes, stiprina asinsvadu sieniņas un novērš hemoroīdu attīstību.</p>
                     <div class="product__price">
                       <div class="product__price-col">
-                        <p class="product__price-text">Цена:</p>
+                        <p class="product__price-text">Cena:</p>
                       </div>
                       <div class="product__price-col product__price-col--new"><span class="product__value">88</span><span class="product__currency">€</span></div>
                     </div>
@@ -1460,7 +1460,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Marija Alonso</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1471,7 +1471,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Keita Smitsa</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1484,7 +1484,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Serhio Fergaro</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1495,7 +1495,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Džūlija Meja</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1508,7 +1508,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-day_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Sofija Nolana</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1519,7 +1519,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Modests Anvari</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1532,7 +1532,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Augustīns Galevi</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1543,7 +1543,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Lora Krausa</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1556,7 +1556,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Stefans Rodrigezs</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1567,7 +1567,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_visoptic-duo-night_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Oto Zegers</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1639,7 +1639,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_1.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Džeremi Klosaks</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1652,7 +1652,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_2.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Ljuberts Ferdinezs</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1663,7 +1663,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_3.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Barbara Delaskona</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1676,7 +1676,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_4.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Djego Santjago</p>
-                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">
@@ -1687,7 +1687,7 @@
                             <div class="review__top"><img class="review__photo" src="/img/review_wirex-mens-formula_5.png" alt=""/>
                               <div class="review__desc">
                                 <p class="review__name">Klaudija Elkasara</p>
-                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA</p>
+                                <p class="review__desc"><span class="review__mark">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA</p>
                               </div>
                             </div>
                             <div class="review__bottom">

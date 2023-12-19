@@ -5,4 +5,6 @@ block head
 	title Naturallic - #{title}
 
 block content
+	include templates/mixins/menu
+	+menu("about")
 	include templates/about/about

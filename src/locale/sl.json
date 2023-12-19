@@ -863,7 +863,7 @@
   "terms": {
     "terms_title": "Pogoji storitve",
     "terms_index1": "1. Pogoji",
-    "terms__description1": "Z obiskom spletne strani na https://naturallic.com , se strinjate, da boste upoštevali te pogoje storitve (\"Pravila in pogoji\"), vse veljavne zakone in predpise ter se strinjate, da ste odgovorni za skladnost z vsemi veljavnimi lokalnimi zakoni. Če se ne strinjate z nobenim od teh pogojev, vam je prepovedana uporaba ali dostop do tega spletnega mesta. Materiali, ki jih vsebuje ta spletna stran, so zaščiteni z veljavnimi zakoni o avtorskih pravicah in blagovnih znamkah.",
+    "terms__description1": "Z obiskom spletne strani na https://naturallic.com, se strinjate, da boste upoštevali te pogoje storitve (\"Pravila in pogoji\"), vse veljavne zakone in predpise ter se strinjate, da ste odgovorni za skladnost z vsemi veljavnimi lokalnimi zakoni. Če se ne strinjate z nobenim od teh pogojev, vam je prepovedana uporaba ali dostop do tega spletnega mesta. Materiali, ki jih vsebuje ta spletna stran, so zaščiteni z veljavnimi zakoni o avtorskih pravicah in blagovnih znamkah.",
     "terms_index2": "2. Licenca za uporabo",
     "terms__description2": "<span class=\"letter\">a)</span> dovoljeno je začasno prenesti en izvod gradiva (informacije ali programsko opremo) s spletnega mesta Naturallic samo za osebni, nekomercialni začasni ogled. To je podelitev licence, ne prenos lastništva in pod to licenco ne morete:",
     "terms_list_item1": "spreminjanje ali kopiranje gradiva;",
@@ -1585,6 +1585,7 @@
       "niche": "Smer: Hemoroidi"
     }
   ],
+
   "guavital": {
     "title": "GUAVITAL+",
     "category": "Za zdravje",
@@ -1608,7 +1609,7 @@
     "form_factor": "30 ml tuba, kartonska škatla, tehnična navodila, krema / gel",
     "short_description": "Gel s hladilnim učinkom, namenjen boju proti manifestacijam krčnih žil.",
     "description": "gel na rastlinski osnovi, ki nežno hladi in lajša težo v nogah, krepi stene krvnih žil in preprečuje razvoj krčnih žil.",
-    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer , salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
+    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
     "usage": "nanesite z lahkimi masažnimi gibi 3-5 minut 2-krat na dan. Pred nanosom opravite test tolerance na koži.",
     "contraindications": "izogibajte se stiku z očmi. Ne uporabljajte za otroke, mlajše od treh let, in neposredno za odprte rane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1623,7 +1624,7 @@
     "form_factor": "kartonska škatla / steklenica, pipeta / 20 ml",
     "short_description": "Naravno olje z baktericidnim delovanjem, namenjeno boju proti manifestacijam glivic na nogah.",
     "description": "kompleks na osnovi 4 olj (čajevca, cimeta, mete, limonske trave) ima splošen protivnetni, antiseptični, tonizirajoči, negovalni in vlažilni učinek na kožo. Globoko prodira in se dolgo zadržuje na mestu lokalizacije glive.",
-    "compound": "<span class=\"attention\">Alcohol Denat., Voda, propilenglikol, glicerin, niacinamid, izvleček listov Simfitum Officinale, ekstrakt propolisa, izvleček cvetov Chamomilla Recutita, aluminijev klorohidrat, salicilna kislina, Fenilpropanol, o-Cimen-5-ol, Decilen glikol, olje listov Melaleuca Alternifolia, alantoin, olje listov Cinnamomum Zeilanicum, olje Mentha Piperita, 4-Terpineol, olje Cimbopogon Fleksuosus, Kopolimer natrijevih akrilatov, ksantan gumi, lecitin, dinatrijev EDTA, Citral, linalool, limonen, evgenol, cimet, Benzil benzoat, geraniol</span>.",
+    "compound": "<span class=\"attention\">Alcohol Denat, Voda, propilenglikol, glicerin, niacinamid, izvleček listov Simfitum Officinale, ekstrakt propolisa, izvleček cvetov Chamomilla Recutita, aluminijev klorohidrat, salicilna kislina, Fenilpropanol, o-Cimen-5-ol, Decilen glikol, olje listov Melaleuca Alternifolia, alantoin, olje listov Cinnamomum Zeilanicum, olje Mentha Piperita, 4-Terpineol, olje Cimbopogon Fleksuosus, Kopolimer natrijevih akrilatov, ksantan gumi, lecitin, dinatrijev EDTA, Citral, linalool, limonen, evgenol, cimet, Benzil benzoat, geraniol</span>.",
     "usage": "nanesite na dobro očiščeno in suho kožo podplata 2-krat na dan. Pred uporabo naredite test združljivosti s kožo.",
     "contraindications": "posamezna nestrpnost komponent.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1650,7 +1651,7 @@
     "category": "Za zdravje",
     "review_count": "322 ocen",
     "niche": "Prostatitis",
-    "form_factor": "pretisni omot, kapsule 10 kosov",
+    "form_factor": "pretisni omot, kapsule 10&nbsp;kosov",
     "short_description": "Zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema.",
     "description": "kompleks naravnih izvlečkov za preprečevanje težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški. Delovanje rastlinskih izvlečkov je namenjeno: odpravljanju bolečin in vnetij; vpliva na zdravje prostate; olajša uriniranje; izboljša krvni obtok.",
     "compound": "želatina (ovoj kapsule), mikrokristalna celuloza (polnilo), izvleček jagod brusnice, izvleček ploda žagaste palme, izvleček korenine koprive, izvleček ploda tribulus terrestris, izvleček korenine mace, cinkov citrat trihidrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju).",
@@ -1666,9 +1667,9 @@
     "review_count": "341 ocen",
     "niche": "Vizija",
     "form_factor": "10 kapsul v pretisnem omotu AL/PVC, 1 pretisni omot v kartonski škatli, navodila",
-    "short_description": "Kompleks vitaminov in mineralov za obnovitev ostrine in preprečevanje izgube vida.",
-    "description": "Poseben program, ki ustavi starostno okvaro vida in ščiti mrežnico s kombinacijo posebnih kapsul, ki delujejo dan in noč, ter pravilne prehranske sheme. Izdelek Visoptic DUO dan je namenjen odpravljanju pomanjkljivih stanj telesa, katerih formulacija deluje na krepitev očesne mrežnice in izboljšanje krvnega obtoka očesa.",
-    "compound": "Izvleček plodov borovnice (Vaccinium uliginosum L., 5% antocianidinov) - 15 mg Izvleček cvetov ognjiča (Tagetes erecta L., 5% lutein) - 25 mg Izvleček šipka (Fructus Rosa canina, 5% polifenolov) - 5 mg Plod črnega ribeza Izvleček (Ribes nigrum L.,5% antocianidinov) -15 mg Vitamin D (Vitamin D3 100 000 IU/g 1mg) - 2,5 mcg.",
+    "short_description": "Kompleks vitaminov in mineralov je namenjen normalizaciji presnovnih procesov. Kompleks deluje na ohranjanje in podporo zdravju oči.",
+    "description": "Poseben program, ki ustavi starostno okvaro vida in ščiti mrežnico s kombinacijo posebnih kapsul, ki delujejo dan in noč, ter pravilne prehranske sheme. Izdelek Visoptic DUO DAY je namenjen odpravljanju pomanjkljivih stanj telesa, katerih formulacija deluje na krepitev očesne mrežnice in izboljšanje krvnega obtoka očesa.",
+    "compound": "Izvleček plodov borovnice (Vaccinium uliginosum L, 5% antocianidinov) - 15 mg Izvleček cvetov ognjiča (Tagetes erecta L, 5% lutein) - 25 mg Izvleček šipka (Fructus Rosa canina, 5% polifenolov) - 5 mg Plod črnega ribeza Izvleček (Ribes nigrum L,5% antocianidinov) -15 mg Vitamin D (Vitamin D3 100 000 IU/g 1mg) - 2,5 mcg.",
     "usage": "1 kapsula zvečer.",
     "contraindications": "individualna nestrpnost do katere koli sestavine. Ne prekoračite priporočenega dnevnega odmerka.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1681,8 +1682,8 @@
     "review_count": "212 ocen",
     "niche": "Vizija",
     "form_factor": "10 kapsul v pretisnem omotu AL/PVC, 1 pretisni omot v kartonski škatli, navodila",
-    "short_description": "Kompleks vitaminov in mineralov za obnovitev ostrine in preprečevanje izgube vida.",
-    "description": "Poseben program, ki ustavi starostno okvaro vida in ščiti mrežnico s kombinacijo posebnih kapsul, ki delujejo dan in noč, ter pravilne prehranske sheme. Izdelek Visoptic DUO dan je namenjen odpravljanju pomanjkljivih stanj telesa, katerih formulacija deluje na krepitev očesne mrežnice in izboljšanje krvnega obtoka očesa.",
+    "short_description": "Kompleks vitaminov in mineralov je namenjen krepitvi mrežnice in izboljšanju krvnega obtoka očesa.",
+    "description": "Poseben program, ki ustavi starostno okvaro vida in ščiti mrežnico s kombinacijo posebnih kapsul, ki delujejo dan in noč, ter pravilne prehranske sheme. Izdelek Visoptic DUO DAY je namenjen odpravljanju pomanjkljivih stanj telesa, katerih formulacija deluje na krepitev očesne mrežnice in izboljšanje krvnega obtoka očesa.",
     "compound": "Vitamin C (Ascorbinska kislina ) – 70 mg, Hialuronska kislina – 60 mg,Izvleček borovnice (anthocyanidins 5%) - 50 mg, Vitamin E – 10 mg, niacin (nikotinamid) – 10 mg, Vitamin B1(tiamin hidroklorid) – 1 mg, Vitamin B2 (Riboflavin) – 1,2 mg, Vitamin B6 (Pyridoxine) – 1,2 mg, Vitamin A -750 mcg, Folna kislina – 200 mcg, Vitamin B 12 (cianokobalamin) – 2 mcg. Pomožne snovi: mikr. celuloza, magnezijev stearat, silicijev dioksid.",
     "usage": "1 kapsula zjutraj.",
     "contraindications": "individualna nestrpnost do katere koli sestavine. Ne prekoračite priporočenega dnevnega odmerka.",
@@ -1696,9 +1697,9 @@
     "review_count": "455 ocen",
     "niche": "Pomlajevanje",
     "form_factor": "kremni serum, 30 ml",
-    "short_description": "Krema za obraz proti staranju 2 v 1 za vse tipe kože.",
+    "short_description": "Pomlajevalna krema-serum za obraz 2 v 1 za vse tipe kože.",
     "description": "BEAUTY AGE Skin cream serum z učinkom proti staranju, vsebuje hialuronsko kislino in regenerativne sestavine, ki zagotavljajo udobje kože 12 ur.",
-    "compound": "AQUA, FILTRAT POLŽJEGA IZLOČKA, GLICERIN, COCO CAPRYLATE/CAPRATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, GLYCERYL STEARATE CITRAT, OLEA EUROPAEA FRUIT OIL, BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, VITIS VINIFERA SE ED OLJE, OLJE JEDRCEV ARGANIA SPINOSA, PRUNUS AMYGDALUS DULCISOVO OLJE, NIACINAMID, HIDROLIZIRANI KOLAGEN, IZVLEČEK CALLUS CULTURE SYMPHYTUM OFFICINALE, IZVLEČEK CVETOV KAMILICE RECUTITA, AKRILATI/C10-30 ALKIL AKRILATNI KROSSPOLIMER, NATRIJEV HIALURONAT, NATRIJEV HIDROKSID, TOKOFERIL AC ETAT, PANTENOL, ASKORBIL PALMITAT, FENOKSIETANOL, ETILHEKSILGLICERIN, PARFUM, BUTILENGLIKOL , KARBOMER POLISORBAT 20, PALMITOIL TRIPEPTID-1, PALMITOIL TETRAPEPTID-7, NATRIJEV LAKTAT, DINATRIJEV EDTA, NATRIJEV BENZOAT, CITRONA KISLINA, KALIJEV SORBAT, BHT.",
+    "compound": "Aqua, filtrat polžjega izločka, glicerin, coco caprylate/caprate, caprylic/capric triglyceride, cetearyl alcohol, glyceryl stearate citrat, olea europaea fruit oil, butyrospermum parkii butter, cocos nucifera oil, vitis vinifera se ed olje, olje jedrcev argania spinosa, prunus amygdalus dulcisovo olje, niacinamid, hidrolizirani kolagen, izvleček callus culture symphytum officinale, izvleček cvetov kamilice recutita, akrilati/c10-30 alkil akrilatni krosspolimer, natrijev hialuronat, natrijev hidroksid, tokoferil ac etat, pantenol, askorbil palmitat, fenoksietanol, etilheksilglicerin, parfum, butilenglikol, karbomer polisorbat 20, palmitoil tripeptid-1, palmitoil tetrapeptid-7, natrijev laktat, dinatrijev edta, natrijev benzoat, citrona kislina, kalijev sorbat, bht.",
     "usage": "kremni serum z lahkimi gibi porazdelite po masažnih linijah in pustite, da se popolnoma vpije. Nanesite zjutraj in zvečer na čisto kožo.",
     "contraindications": "posamezna nestrpnost komponent. Izogibajte se stiku z očmi. Ne uporabljajte za otroke, stare 18 let.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1725,10 +1726,10 @@
     "category": "Za zdravje",
     "review_count": "341 ocen",
     "niche": "Zaslišanje",
-    "form_factor": "pretisni omot, kapsule 10 kosov, kartonska škatla, tehnična navodila",
+    "form_factor": "pretisni omot, kapsule 10&nbsp;kosov, kartonska škatla, tehnična navodila",
     "short_description": "Kompleks za izboljšanje slušnih funkcij z uravnoteženo formulo vitaminov in mineralov.",
     "description": "kompleks naravnih sestavin, katerih delovanje je namenjeno odpravljanju tinitusa in upočasnitvi izgube sluha.",
-    "compound": "L-askorbinska kislina, želatina, vitamin C (L-askorbinska kislina)  (ovoj kapsule), mikrokristalna celuloza (polnilo), acetil L-karnitin hcl, izvleček listov ginka bilobe, magnezijev oksid, nikotinamid, cink, magnezijev stearat (polnilo), tiamin hidroklorid, silicijev dioksid ( sredstvo proti strjevanju), riboflavin, piridoksin hidroklorid.",
+    "compound": "L-askorbinska kislina, želatina, vitamin C (L-askorbinska kislina)  (ovoj kapsule), mikrokristalna celuloza (polnilo), acetil L-karnitin hcl, izvleček listov ginka bilobe, magnezijev oksid, nikotinamid, cink, magnezijev stearat (polnilo), tiamin hidroklorid, silicijev dioksid (sredstvo proti strjevanju), riboflavin, piridoksin hidroklorid.",
     "usage": "odrasli jemljejo 1 kapsulo na dan med obroki ali po njih. Trajanje enega tečaja je 2 meseca. Ne prekoračite priporočenega dnevnega odmerka.",
     "contraindications": "posamezna nestrpnost do komponent, starost otrok (do 18 let).",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1741,7 +1742,7 @@
     "review_count": "315 ocen",
     "niche": "Paraziti",
     "form_factor": "15 mehkih želatinskih kapsul, pretisni omot, kartonska škatla (Navodila)",
-    "short_description": "Kapsule za varno čiščenje telesa pred paraziti in obnavljanje funkcij prebavnega sistema.",
+    "short_description": "Kapsule za obnovo funkcij prebavnega sistema tudi prispevajo k normalnemu delovanju želodca in jeter. Prav tako imajo antibakterijsko in antioksidativno aktivnost, krepijo imunski sistem.",
     "description": "antiparazitsko sredstvo, sestavljeno iz konopljinega olja, ki ima močno protivnetno sredstvo. Konopljino olje se učinkovito spopada z uničenjem parazitov pri otrocih in odraslih.",
     "compound": "Konopljino olje CP-REF (Cannabis sativa L.), kapsula (goveja želatina, vlažilec (glicerin)).",
     "usage": "odrasli jemljejo 1 kapsulo peroralno 2-3 krat na dan z obroki. Trajanje uporabe je 3 mesece, po potrebi se lahko tečaj ponovi in priporočeni dnevni odmerek: 2-3 kapsule na dan.",
@@ -1755,10 +1756,10 @@
     "category": "Za zdravje",
     "review_count": "297 ocen",
     "niche": "Moč",
-    "form_factor": "pretisni omot, kapsule 10 kosov",
-    "short_description": "Zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema.",
+    "form_factor": "pretisni omot, kapsule 10&nbsp;kosov",
+    "short_description": "Sredstvo za moške, namenjeno normalizaciji reproduktivne funkcije.",
     "description": "kompleks zeliščnih sestavin, ki povečuje spolno željo in izboljšuje spolno funkcijo pri moških, normalizira funkcionalno stanje genitourinarnega sistema pri erektilni disfunkciji (za povečanje libida in moči), izboljša kakovost sperme, poveča pa tudi duševno in telesno zmogljivost ter prilagoditvene sposobnosti pri moških. Delovanje žične moške formule je posledica\u200B\u200B funkcionalnih lastnosti aktivnih sestavin in je namenjeno reševanju težav s spolno funkcijo, libido, spermatogenezo, spominom in energijo pri moških.",
-    "compound": "Izvleček jagod brusnice, želatina (ovoj kapsule), izvleček ploda žagaste palme, izvleček korenine koprive, mikrokristalna celuloza (polnilo), cinkov citrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju), barvila (ovoj kapsule): E171 , E132.",
+    "compound": "Izvleček jagod brusnice, želatina (ovoj kapsule), izvleček ploda žagaste palme, izvleček korenine koprive, mikrokristalna celuloza (polnilo), cinkov citrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju), barvila (ovoj kapsule): E171, E132.",
     "usage": "Vzemite 1 kapsulo 1-2 krat na dan z obroki. Trajanje enega tečaja je 45 dni. Po potrebi se tečaj lahko ponovi. Priporočeni dnevni odmerek je 2 kapsuli.",
     "contraindications": "Posamezna nestrpnost do katere koli sestavine, starost otrok (do 18 let). Pred jemanjem je priporočljivo, da se posvetujete z zdravnikom. To ni zdravilo. Ne prekoračite priporočenega dnevnega odmerka. Izogibajte se otrokom. To prehransko dopolnilo ne sme nadomestiti raznolike prehrane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1772,8 +1773,8 @@
     "niche": "Spoji",
     "form_factor": "kartonska škatla, steklenica s črpalko 25 ml, gel",
     "short_description": "Gel z naravnimi izvlečki za odpravo različnih vrst bolečin v sklepih in mišicah.",
-    "description": "gel formula za lokalno uporabo v ustreznih žariščih bolečine. Gel vsebuje bogat spekter biološko aktivnih sestavin: vitamin B3, B5, alantoin, hialuronska kislina, glukozamin, hondroitin, hidroliziran kolagen, kafra, mentol, izvlečki kamilice, Gavez, hudičev krempelj, arnika in eterična olja nageljnovih žbic, evkaliptusa. , Čajno drevo, cimet. Mehča in vlaži kožo, spodbuja presnovne procese v povrhnjici s hladilnim učinkom.",
-    "compound": "Aqua, Alcohol Denat., Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolized Collagen, PEG-40, Hydrogenated Castor Oil, Menthol, Mentha Piperita Oil, Natrijev hondroitin sulfat, olje listov evkaliptusa Globulus, kafra, olje listov Eugenia Caroyphyllus, olje listov cimeta Cassia, olje listov Melaleuca Alternifolia, amonijev akriloildimettiltaurat/VP kopolimer, pantenol, ksantan gumi, fenoksietanol, etilheksilglicerin, natrij Hialuronat, alantoin, dinatrijev EDT, linalool , limonen, evgenol.",
+    "description": "gel formula za lokalno uporabo v ustreznih žariščih bolečine. Gel vsebuje bogat spekter biološko aktivnih sestavin: vitamin B3, B5, alantoin, hialuronska kislina, glukozamin, hondroitin, hidroliziran kolagen, kafra, mentol, izvlečki kamilice, Gavez, hudičev krempelj, arnika in eterična olja nageljnovih žbic, evkaliptusa, Čajno drevo, cimet. Mehča in vlaži kožo, spodbuja presnovne procese v povrhnjici s hladilnim učinkom.",
+    "compound": "Aqua, Alcohol Denat, Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolized Collagen, PEG-40, Hydrogenated Castor Oil, Menthol, Mentha Piperita Oil, Natrijev hondroitin sulfat, olje listov evkaliptusa Globulus, kafra, olje listov Eugenia Caroyphyllus, olje listov cimeta Cassia, olje listov Melaleuca Alternifolia, amonijev akriloildimettiltaurat/VP kopolimer, pantenol, ksantan gumi, fenoksietanol, etilheksilglicerin, natrij Hialuronat, alantoin, dinatrijev EDT, linalool, limonen, evgenol.",
     "usage": "majhno količino izdelka nanesite s krožnimi masažnimi gibi, dokler se popolnoma ne vpije 2-3 krat na dan. Pred uporabo naredite test združljivosti s kožo.",
     "contraindications": "izdelek je namenjen samo lokalni uporabi. Izogibajte se stiku z očmi in sluznicami. V primeru stika temeljito sperite z vodo! Ne sme se uporabljati za otroke, mlajše od treh let, nosečnice in doječe matere, pa tudi neposredno na odprtih ranah.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1786,9 +1787,9 @@
     "review_count": "311 ocen",
     "niche": "Moč",
     "form_factor": "plastični kozarec / 20 kapsul",
-    "short_description": "Zdelek za moške, namenjen normalizaciji funkcij reproduktivnega in genitourinarnega sistema.",
+    "short_description": "Kompleksen rastlinski izdelek za povečanje potence, vzdržljivosti in plodnosti moških vseh starosti.",
     "description": "kapsule s kompleksom naravnih izvlečkov in cinka. Formula je razvita ob upoštevanju preprečevanja vseh težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški, vključno s težavami z libidom. Delovanje izdelka je namenjeno obnavljanju manjkajočih snovi v telesu, ki jih je težko dobiti s hrano in ki vplivajo na: izboljšanje krvnega obtoka; vplivajo na erekcijo; povečati proizvodnjo testosterona; povečati vzdržljivost telesa; vplivajo na zdravje genitourinarnega sistema in prostate.",
-    "compound": "Izvleček plodov žagaste palme (Serenoa repens 5:1); Izvleček korenine koprive (Urtica dioica, 1% Beta-Sitosterol); Izvleček korenine Maca (Lepidium meyenii 10:1); Cink (cinkov citrat). .",
+    "compound": "Izvleček plodov žagaste palme (Serenoa repens 5:1); Izvleček korenine koprive (Urtica dioica, 1% Beta-Sitosterol); Izvleček korenine Maca (Lepidium meyenii 10:1); Cink (cinkov citrat).",
     "usage": "1 kapsula 1-2 krat na dan med obroki ali po njih.",
     "contraindications": "posamezna nestrpnost komponent. Ni namenjeno otrokom, nosečnicam in doječim ženskam.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1801,9 +1802,9 @@
     "review_count": "287 ocen",
     "niche": "Spoji",
     "form_factor": "kartonska škatla, steklenica s črpalko 25 ml, gel",
-    "short_description": "Gel za odpravo različnih vrst bolečin v sklepih in mišicah.",
-    "description": "Gel formula za lokalno uporabo v ustreznih žariščih bolečine. Gel vsebuje bogat spekter biološko aktivnih sestavin: vitamin B3, B5, alantoin, hialuronska kislina, glukozamin, hondroitin, hidroliziran kolagen, kafra, mentol, izvlečki kamilice, Gavez, hudičev krempelj, arnika in eterična olja nageljnovih žbic, evkaliptusa. , Čajno drevo, cimet. Mehča in vlaži kožo, spodbuja presnovne procese v povrhnjici s hladilnim učinkom.",
-    "compound": "Aqua, Alcohol Denat., Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolized Collagen, PEG-40, Hydrogenated Castor Oil, Menthol, Mentha Piperita Oil, Natrijev hondroitin sulfat, olje listov evkaliptusa Globulus, kafra, olje listov Eugenia Caroyphyllus, olje listov cimeta Cassia, olje listov Melaleuca Alternifolia, amonijev akriloildimettiltaurat/VP kopolimer, pantenol, ksantan gumi, fenoksietanol, etilheksilglicerin, natrij Hialuronat, alantoin, dinatrijev EDT, linalool , limonen, evgenol.",
+    "short_description": "Gel vsebuje bogat spekter biološko aktivnih sestavin, ki spodbujajo presnovne procese v epidermisu in vplivajo na vse vrste bolečin in vnetij, ima hladilni učinek.",
+    "description": "Gel formula za lokalno uporabo v ustreznih žariščih bolečine. Gel vsebuje bogat spekter biološko aktivnih sestavin: vitamin B3, B5, alantoin, hialuronska kislina, glukozamin, hondroitin, hidroliziran kolagen, kafra, mentol, izvlečki kamilice, Gavez, hudičev krempelj, arnika in eterična olja nageljnovih žbic, evkaliptusa, Čajno drevo, cimet. Mehča in vlaži kožo, spodbuja presnovne procese v povrhnjici s hladilnim učinkom.",
+    "compound": "Aqua, Alcohol Denat, Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolized Collagen, PEG-40, Hydrogenated Castor Oil, Menthol, Mentha Piperita Oil, Natrijev hondroitin sulfat, olje listov evkaliptusa Globulus, kafra, olje listov Eugenia Caroyphyllus, olje listov cimeta Cassia, olje listov Melaleuca Alternifolia, amonijev akriloildimettiltaurat/VP kopolimer, pantenol, ksantan gumi, fenoksietanol, etilheksilglicerin, natrij Hialuronat, alantoin, dinatrijev EDT, linalool, limonen, evgenol.",
     "usage": "majhno količino izdelka nanesite s krožnimi masažnimi gibi, dokler se popolnoma ne vpije 2-3 krat na dan. Pred uporabo naredite test združljivosti s kožo.",
     "contraindications": "izdelek je namenjen samo lokalni uporabi. Izogibajte se stiku z očmi in sluznicami. V primeru stika temeljito sperite z vodo! Ne sme se uporabljati za otroke, mlajše od treh let, nosečnice in doječe matere, pa tudi neposredno na odprtih ranah.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1818,7 +1819,7 @@
     "form_factor": "gel v tubi, 30 ml",
     "short_description": "Gel z naravnimi izvlečki za boj proti manifestacijam krčnih žil.",
     "description": "kompleks rastlinskih sestavin za normalizacijo stanja telesa, uravnavanje metabolizma in aktiviranje procesa hujšanja. Rastlinski kompleks: začne postopek porabe lastnih maščobnih zalog; spodbuja hujšanje; podpira normalno presnovo.",
-    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer , salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
+    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
     "usage": "nanesite z lahkimi masažnimi gibi 3-5 minut 2-krat na dan. Pred nanosom opravite test tolerance na koži.",
     "contraindications": "posamezna nestrpnost komponent. Izogibajte se stiku z očmi. Ne uporabljajte za otroke, mlajše od treh let, in neposredno za odprte rane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1833,7 +1834,7 @@
     "form_factor": "kartonska škatla, tehnična navodila, 30 ml tuba",
     "short_description": "Krema z baktericidnim delovanjem, namenjena boju proti manifestacijam glive.",
     "description": "Vsebuje bioaktivne sestavine s široko paleto dermatoloških in kozmetičnih lastnosti. Spodbuja normalno mikrofloro in ima pomirjujoč učinek na kožo. Ima keratolitični učinek in odstranjuje odmrle plasti kože. Ima učinek vlaženja in mehčanja kože. Spodbuja in spodbuja obnovo epidermalnih celic. Zasnovan za podporo normalnemu stanju kože.",
-    "compound": "Aqua, glicerin, cetearil alkohol, tekoči parafin, PEG-100 stearat, gliceril stearat, kaprilni/kaprični triglicerid, izvleček cvetov Chamomila Recutita, maslo Butyrospermum Parkii, niacinamid, cinkov oksid, izvleček propolisa, olje Cocos Nucifera, žveplo, Alcloxa, Sali ciklična kislina , izvleček lubja Salix Alba, izvleček lubja/listov betule albe, lesno olje Juniperus Oxycedrus, polisorbat 80, olje listov Melaleuca Alternifolia, olje Mentha Piperita, ksantan gumi, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, BHT, dinatrijev EDTА, linalo ol , limonen.",
+    "compound": "Aqua, glicerin, cetearil alkohol, tekoči parafin, PEG-100 stearat, gliceril stearat, kaprilni/kaprični triglicerid, izvleček cvetov Chamomila Recutita, maslo Butyrospermum Parkii, niacinamid, cinkov oksid, izvleček propolisa, olje Cocos Nucifera, žveplo, Alcloxa, Sali ciklična kislina, izvleček lubja Salix Alba, izvleček lubja/listov betule albe, lesno olje Juniperus Oxycedrus, polisorbat 80, olje listov Melaleuca Alternifolia, olje Mentha Piperita, ksantan gumi, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, BHT, dinatrijev EDTА, linalo ol, limonen.",
     "usage": "nanesite na dobro očiščeno in suho kožo prizadetega območja telesa z lahkimi masažnimi gibi od spodaj navzgor. Pred uporabo se prepričajte, da naredite test za toleranco sestavin izdelka s kožo. <span class=\"color: red\">Pozor:</span> Izogibajte se stiku z očmi.",
     "contraindications": "Ne uporabljajte za otroke, mlajše od 3 let, nosečnice in doječe ženske. Ne nanašajte na odprte rane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1860,7 +1861,7 @@
     "category": "Zdrowie",
     "review_count": "333 ocen",
     "niche": "Vizija",
-    "form_factor": "kapsule v pretisnem omotu po 10 kosov.",
+    "form_factor": "kapsule v pretisnem omotu po 10&nbsp;kosov.",
     "short_description": "Izdelek za oči, ki ustavi starostno okvaro vida.",
     "description": "uravnotežena formula, namenjena ohranjanju zdravja vida. Izdelek vsebuje vitamine in elemente v sledovih z antioksidativnimi lastnostmi, glavna hranila za delovanje sistema za zaščito oči pred oksidativnimi poškodbami in ki ustavijo starostno okvaro vida.",
     "compound": "Izvleček korenine koprive, želatina (lupina kapsule), mikrokristalna celuloza (polnilo), izvleček korenine Valeriane, cinkov citrat trihidrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju), Vitamin B6, Vitamin B2, Vitamin B1, Vitamin B12.",
@@ -1868,7 +1869,7 @@
     "contraindications": "Individualna nestrpnost do katere koli sestavine. Samo za odrasle, prepovedane mlajše od 18 let. Hraniti izven dosega otrok.",
     "manufacturer": "Dalmatika (Bolgarija)",
     "suitability": "2 leti",
-    "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
+    "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
   "rectin": {
     "title": "Rectin",
@@ -1878,13 +1879,14 @@
     "form_factor": "gel v tubi",
     "short_description": "Rastlinski izdelek krepi stene krvnih žil in preprečuje razvoj hemoroidov.",
     "description": "Gel z lahkim hladilnim učinkom, ki izdelku omogoča lajšanje bolečin in zmanjšanje vnetja. Vsebuje široko paleto biološko aktivnih sestavin: izvlečke Centella Asiatica, kostanja, kamilice, igle, gabeza, trokserutina, kofeina, alantoina, B3, hialuronske kisline.",
-    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer , salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
+    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
     "usage": "nanesite z lahkimi masažnimi gibi 3-5 minut 2-krat na dan. Pred uporabo opravite test združljivosti s kožo. Priporočljivo je uporabljati 1-2 krat na dan.",
     "contraindications": "Individualna nestrpnost do katere koli sestavine. Samo za odrasle, prepovedane mlajše od 18 let. Hraniti izven dosega otrok.",
     "manufacturer": "Dalmatika (Bolgarija)",
     "suitability": "2 leti",
-    "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
+    "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
+
   "catalog": {
     "catalog_title": "Katalog",
     "catalog_item_health": "Za zdravje",
@@ -1912,7 +1914,7 @@
     "cookie_item_title4": "Dodatke cookei, povezani z računom",
     "cookie_item_description4": "Ko pošljete podatke prek obrazca, kot so tisti, ki jih najdete na kontaktnih straneh ali v obrazcih za komentarje, se lahko dodatke cookei nastavijo tako, da si zapomnijo vaše uporabniške podatke za prihodnjo korespondenco.",
     "cookie_index5": "Dodatki cookei tretjih oseb",
-    "cookie_description6": "To spletno mesto uporablja Google Analytics , ki je ena najpogostejših in najbolj zanesljivih analitičnih rešitev na internetu, ki nam pomaga razumeti, kako uporabljate spletno mesto in kako lahko izboljšamo vašo izkušnjo. Ti dodatke cookei lahko spremljajo stvari, kot so čas, porabljen na spletnem mestu, in strani, ki jih obiščete, tako da lahko še naprej ustvarjamo zanimivo vsebino.",
+    "cookie_description6": "To spletno mesto uporablja Google Analytics, ki je ena najpogostejših in najbolj zanesljivih analitičnih rešitev na internetu, ki nam pomaga razumeti, kako uporabljate spletno mesto in kako lahko izboljšamo vašo izkušnjo. Ti dodatke cookei lahko spremljajo stvari, kot so čas, porabljen na spletnem mestu, in strani, ki jih obiščete, tako da lahko še naprej ustvarjamo zanimivo vsebino.",
     "cookie_description7": "Za več informacij o piškotkih Google Analitika si oglejte uradno stran Google Analitika.",
     "cookie_index6": "Dodatne informacije",
     "cookie_description8": "Če pa še vedno iščete več informacij, nas lahko kontaktirate z enim od najprimernejših načinov komunikacije: <a class=\"policy__link\" href=\"contacts.html\">obrazec za povratne informacije</a>"
@@ -1924,12 +1926,12 @@
     "orderpageform_email": "E-mail",
     "orderpageform_count": "količina",
     "orderpageform_btn": "Po naročilu",
-    "orderpageform_promo_plh": "Ваучер",
-    "orderpageform_promo_btn": "Применить",
-    "orderpageform_price": "Цена",
-    "orderpageform_quantity": "Количество",
-    "orderpageform_discount": "Скидка",
-    "orderpageform_total": "Сума"
+    "orderpageform_promo_plh": "Kupon",
+    "orderpageform_promo_btn": "Uporabiti",
+    "orderpageform_price": "Cena",
+    "orderpageform_quantity": "Količina",
+    "orderpageform_discount": "Popust",
+    "orderpageform_total": "Znesek"
   },
   "product_info": {
     "currency": "€",
@@ -2806,7 +2808,7 @@
         "src": "img/review_delislim_7.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
         "rating_text": "Odlična kvaliteta!",
-        "name": "Pavel Kovaldži",
+        "name": "Neža Zorko",
         "text": "Delislim jemljem že drugi teden, vendar je učinek že prisoten. Zmanjkalo je 4 kg! Počutim se odlično in se veselim nadaljnjih rezultatov na lestvici.",
         "stars": [
           {
@@ -3794,9 +3796,9 @@
       },
       {
         "src": "img/review_depanten_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEPANTEN",
         "rating_text": "Odlična kvaliteta!",
-        "name": "Rami Lojtes",
+        "name": "Nina Mlakar",
         "text": "Gel je dober, pomagal mi bo obnoviti sklep in se znebiti bolečine v kolenu. Škrtanje in rdečica sta izginila. Zmerno uporabljen.",
         "stars": [
           {
@@ -5865,7 +5867,7 @@
         "src": "img/review_ottomax_7.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
         "rating_text": "Odlična kvaliteta!",
-        "name": "Gabriel Martinos",
+        "name": "Gabriela Martinos",
         "text": "Zaradi gripe se mi je zapletlo v ušesu. Strašno me je bolelo in imela sem tinitus. Tablete so lajšale bolečino, le Ottomax+ mi je pomagal popolnoma povrniti sluh. Zdaj ga priporočam svojim prijateljem in znancem!",
         "stars": [
           {
@@ -7437,7 +7439,7 @@
     "reviews_visoptic_duo_day": [
       {
         "src": "img/review_visoptic-duo-day_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Maria Alonso",
         "text": "Že dolgo iščem nekaj dobrega za oči. Odločila sem se za Visoptic Duo Day. Odličen izdelek v obliki kapsul. Poceni, z zeliščno sestavo. In kar je najpomembneje - učinkovito.",
@@ -7466,7 +7468,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kejt Smits",
         "text": "Moj nepogrešljiv pomočnik pri utrujenosti in suhih očeh. Odpravlja nelagodje in dobro vlaži. Če so vaše oči nenehno pod obremenitvijo, je Visoptic Duo Day tisto, kar potrebujete!",
@@ -7495,7 +7497,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_3.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Serhio Fergaro",
         "text": "Med uporabo se mi je vid opazno izboljšal. Bolje vidim, berem brez očal. Predmeti v daljavi so še vedno malo zamegljeni, prej pa sploh nisem razumel, kaj je tam.",
@@ -7524,7 +7526,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džuliana Mej",
         "text": "Prej sem uporabljala kapljice za oči, ko pa sem poskusila Visoptic Duo Day, sem ugotovila, da so te kapsule najboljše! Je enostavnejša za uporabo, učinek je močnejši in dolgotrajnejši.",
@@ -7553,7 +7555,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sofi Nolan",
         "text": "Zahvaljujoč Visoptic Duo Day kapsulam so se mi oči prenehale solziti, zamegljen vid je izginil in vid se je začel izboljševati. Obstaja rezultat! Priporočam!",
@@ -7582,7 +7584,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Šarlotte Mikreg",
         "text": "Kapsule Visoptic Duo Day uporabljam preventivno. Vsa družina ima težave z očmi. Leče sem začela nositi pri 27 letih. V zadnjih nekaj letih se je moj vid samo poslabšal, z Visoptic Duo Day pa se izboljšuje.",
@@ -7611,7 +7613,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Čarls Konnelly",
         "text": "Zaradi nenehnega dela za računalnikom, daljnovidnost, bolečine v očeh in rdeče krvne žilice na beločnicah. Visoptic Duo Day reši! Odstrani neprijetne simptome in izboljša vid!",
@@ -7640,7 +7642,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kamila Fergares",
         "text": "Na test sem vzela Visoptic Duo Day. Učinek je bil prijetno impresiven. Vizija se je opazno izboljšala. Vlažilni učinek ene kapsule zadostuje za ves dan!",
@@ -7669,7 +7671,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Timoti Gelbert",
         "text": "Dober tonični in vlažilni učinek! Lajša napetost oči. Prej je bilo zvečer, kot da bi bila tančica pred očmi, po Visoptic Duo Day pa tega občutka ni več.",
@@ -7698,7 +7700,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;DAY",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Odlična kvaliteta!",
         "name": "Stella Klarson",
         "text": "Visoptic Duo Day sem izbrala zaradi sestave. Veliko dobrih sestavin, ki podpirajo zdravje oči. Učinek je! Vid se je izboljšal!",
@@ -7729,7 +7731,7 @@
     "reviews_visoptic_duo_night": [
       {
         "src": "img/review_visoptic-duo-night_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Emma Mejson",
         "text": "Delam za računalnikom in z Visoptic Duo Night se moje oči počutijo veliko bolje. Lajša utrujenost iz oči. Za: naravna sestava in enostavna uporaba.",
@@ -7758,7 +7760,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alberta Tornton",
         "text": "Čudovito zdravilo za ljudi, ki imajo težave z očmi. Oči so se začele manj utrujati, občutek suhosti in razdraženosti na svetlobo je izginil.",
@@ -7787,7 +7789,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Loren Grabs",
         "text": "Visoptic Duo Night je pomagal pri lajšanju vnetja. Od prvih dni uporabe je postalo bolje, nelagodje v očeh in solzenje sta izginila.",
@@ -7816,7 +7818,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Orest Švaln",
         "text": "Že od 25. leta imam težave z očmi. Samo to zdravilo vas reši pred zapleti. Takoj ko začutim nelagodje, ga takoj uporabim. Vid se resnično izboljša.",
@@ -7845,7 +7847,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gabriel Viraldi",
         "text": "Odlično zdravilo za sivo mreno in za podporo zdravja oči. Pomaga izboljšati vid, odpravi nelagodje in suhe oči.",
@@ -7874,7 +7876,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mario Gabrilos",
         "text": "Uporabljam Visoptic Duo Night za zdravje oči. Pomagajo. Pri 57 letih živim brez očal in leč, vidim dobro, tudi zvečer jasno vidim predmete in besedilo v časopisu.",
@@ -7903,7 +7905,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alberto Diaz",
         "text": "Poceni izdelek. Naravno. Učinkovito pri različnih težavah z vidom. Primerno za preprečevanje kršitev.",
@@ -7932,7 +7934,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Victoria Ošwald",
         "text": "Po nesreči sem mislila, da ne bom več videla. Visoptic Duo Night je pomagal obnoviti vid. Še vedno so težave, vendar je z vsakim tečajem bolje!",
@@ -7961,7 +7963,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Katalina Lopez",
         "text": "Ne maram kapljic, zato uporabljam Visoptic Duo Night. Kapsule so veliko bolj priročne in poleg tega sem dobilа rezultat. Brez nelagodja v očeh tudi po celem dnevu za monitorjem.",
@@ -7990,7 +7992,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO&nbsp;NIGHT",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Odlična kvaliteta!",
         "name": "Agnia Fergano",
         "text": "Dobro se spopadajo z vsemi očesnimi boleznimi. Vnetje, suhost, solzenje, nelagodje - vse je odstranjeno. Tudi vaš vid se izboljšuje!",
@@ -8458,7 +8460,7 @@
     "reviews_wirex_mens_formula": [
       {
         "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džeremi Klosak",
         "text": "Pomagal mi je rešiti moje \"moške težave\". Ne bom šel v podrobnosti, vendar se je moja erekcija vrnila z novo močjo. Dolgo traja!",
@@ -8487,7 +8489,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ljubert Ferdinez",
         "text": "Deluje kot mora. V zadnjih mesecih niti enega neuspelega vžiga. Brez zasvojenosti ali stranskih učinkov.",
@@ -8516,7 +8518,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Delaskon",
         "text": "Naročila sem ga možu, ko sva imela težave s seksom. Vse je postalo veliko bolje, pogosteje in dlje. Izkazalo se je, da me mož še vedno lahko preseneti!",
@@ -8545,7 +8547,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Diego Santjago",
         "text": "S starostjo se lahko vsak moški sooči s težavami v intimnem smislu. Tudi jaz sem jih imela, dokler nisem preizkusil  Wirex moške formule. Priporočam!",
@@ -8574,7 +8576,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaudija Elkasar",
         "text": "Presenetilo me je moževo obnašanje v zadnjem času, kot da se je vrnil v mladost. In potem sem v njegovi torbi našla moško formulo Wirex in vse razumela.",
@@ -8603,7 +8605,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucio Markes",
         "text": "Ima blag in dolgotrajen učinek, lahko ga jemljemo z alkoholom in ne škoduje zdravju.",
@@ -8632,7 +8634,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tomaš Žardek",
         "text": "Med tečajem vam lahko popolnoma povrne \"moč\". Po tečaju učinek ostane. Stranskih učinkov nisem imel.",
@@ -8661,7 +8663,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dafna Fokstrit",
         "text": "Mož je zaradi stresa začel imeti težave »po moško«. Moža sem prepričala, da poskusi Wirex moško formulo, pomagalo je! Vrnila se mu je želja, seks vsak dan!",
@@ -8690,7 +8692,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rebeka Štrauson",
         "text": "Odlično orodje. Moj mož je zadovoljen z moško formulo Wirex, jaz pa končno zadovoljna s svojim možem. Sploh si nisem mislila, da lahko zdrži ure in ure!",
@@ -8719,7 +8721,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Avgustin Petres",
         "text": "Odličen izdelek, pomaga! Hvala za posvet in dostavo do vrat. Učinek se je pojavil od prvih dni uporabe.",
@@ -8748,7 +8750,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Orlando Dajres",
         "text": "Najboljši izdelek med analogi. Prednosti: samo vzemite tečaj in učinek ostane, lahko se jemlje z alkoholom, ne povzroča stranskih učinkov.",
@@ -8777,7 +8779,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lena Gavroš",
         "text": "V svojem in moževem imenu se vam najlepše zahvaljujem za tako kvaliteten izdelek. V naša življenja je vrnil intimnost in pomagal rešiti družino!",
@@ -8806,7 +8808,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lukijan Mornaš",
         "text": "Učinek je, ne zvišuje krvnega tlaka, je združljiv z alkoholom. Po tečaju ostane rezultat. Po mojem mnenju najboljši izdelek v kategoriji.",
@@ -8835,7 +8837,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mihael Vernandez",
         "text": "Vznemirljiva stvar, dolga moč in izboljšani občutki. Poleg tega po dokaj ugodni ceni. Nisem našel nobenih slabosti.",
@@ -8864,7 +8866,7 @@
       },
       {
         "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S&nbsp;FORMULA",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Vajns",
         "text": "Malo sem verjel, da lahko moška formula Wirex pomaga, a sem se motil. Rezultat sem čutil od prvih dni, po tečaju se mi je zdravje povrnilo, s \"prijateljem\" ni bilo več težav.",
@@ -9506,7 +9508,7 @@
       },
       {
         "src": "img/review_ophtalax_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Igor Pavlin",
         "text": "Nisem pričakoval takšnega učinka naravnih sestavin. Korenina koprive, cink, vitamini - učinek se je pojavil v 1 tednu uporabe, z rezultatom Ophtalaxa sem zelo zadovoljen.",
@@ -9535,7 +9537,7 @@
       },
       {
         "src": "img/review_ophtalax_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Katarina Zajc",
         "text": "Ophtalax sem jemal 2 meseca po nasvetu strokovnjaka. Učinek je odličen. Vse, kar sem jemal prej, se ne more primerjati s temi kapsulami. Priporočam!",
@@ -9564,7 +9566,7 @@
       },
       {
         "src": "img/review_ophtalax_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martin Novak",
         "text": "Takoj čutite, da so Ophtalax ustvarili profesionalci. Kapsule imajo vse potrebne lastnosti za izboljšanje vida. 2 tečaja sta mi zadostovala, da sem odpravila vse težave z vidom.",
@@ -9651,7 +9653,7 @@
       },
       {
         "src": "img/review_ophtalax_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Primož Krajnc",
         "text": "Moj vid se je zaradi starosti začel močno slabšati. Strokovnjak je dejal, da bo Ophtalax pomagal ustaviti starostne motnje. Zaključila sem tečaj in moj vid se je res izboljšal. Zdaj ga bom občasno jemal za preventivo.",
@@ -9738,7 +9740,7 @@
       },
       {
         "src": "img/review_ophtalax_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martina Potočnik",
         "text": "Ophtalax mi je pomagal odpraviti obremenitev oči in solzenje zaradi dolgotrajnega dela za računalnikom. Sedaj enako časa preživim pred monitorjem, vendar so moje oči v redu.",
@@ -9914,7 +9916,7 @@
       },
       {
         "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
         "rating_text": "Odlična kvaliteta!",
         "name": "Boštjan Furlan",
         "text": "Strokovnjak je na meni našel 2 ogromni buli in mi priporočil tečaj zdravila Rectin. Učinek se je pojavil v 3 dneh po začetku uporabe. Gel z rahlim hladilnim učinkom lajša bolečine, srbenje in nelagodje.",
@@ -9972,7 +9974,7 @@
       },
       {
         "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sabina Oblak",
         "text": "Po porodu so se pojavili hemoroidi. Rectin sem uporabljala en mesec in ta čas je bil dovolj, da sem popolnoma odpravila težavo. Vozlišča so se začela raztapljati, blato se je normaliziralo, bolečina je izginila, nelagodja ni bilo. Zato ga iskreno priporočam.",
@@ -10117,7 +10119,7 @@
       },
       {
         "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
         "rating_text": "Odlična kvaliteta!",
         "name": "Jaka Perko",
         "text": "Dolgo časa sem iskal izdelek na osnovi troxerutina. Deluje protivnetno in dekongestivno, najučinkovitejša učinkovina doslej. Našel sem Rectin, uporabljal sem ga 2 tedna, hemoroidov ni bilo več.",
@@ -10175,7 +10177,7 @@
       },
       {
         "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Petrič",
         "text": "Simptomi hemoroidov so res boleči, ne gre le za nekakšno srbenje, ampak za res neznosno bolečino! Po mojem mnenju Rectin gel nima konkurence, vsekakor je najboljši, kar je bilo izumljeno do sedaj.",
