@@ -32,7 +32,7 @@ mixin menu(page)
                     .nav__btn-wrap
                         a.nav__link-tel(href=`tel:${MENU.menu_phone}`)!=MENU.menu_phone
                         button.nav__btn.btn.js-show-popup(title=MENU.menu_title_btn data-target="#popup")!=MENU.menu_title_btn
-                    +langSelect('index')
+                    +langSelect(page)
 
                 .burger.js-burger(data-target="#js-mobile-menu")
                     span.burger__line

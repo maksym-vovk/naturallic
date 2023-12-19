@@ -2,4 +2,6 @@ extends templates/layout/layout-prod.pug
 block head
 	title Naturallic - Visoptic DUO Night
 block content
+	include templates/mixins/menu
+	+menu("visoptic-duo-night")
 	include templates/product/visoptic_night/visoptic_night

@@ -3,4 +3,6 @@ block head
     -var title = LANG.terms.terms_title
     title Naturallic - #{title}
 block content
+    include templates/mixins/menu
+    +menu("terms")
     include templates/terms/main
