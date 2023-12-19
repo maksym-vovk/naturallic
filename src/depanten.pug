@@ -2,4 +2,6 @@ extends templates/layout/layout-prod.pug
 block head
 	title Naturallic - Depanten
 block content
+	include templates/mixins/menu
+	+menu("depanten")
 	include templates/product/depanten/depanten

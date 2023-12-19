@@ -248,6 +248,33 @@ const Controls = (function () {
                     );
                 }
             });
+
+            const setCorrectURL = () => {
+                const search = window.location.search
+                const pathArr = window.location.pathname.split('/')
+                const currentPage = pathArr[pathArr.length - 1]
+                const isOrderPage = currentPage === 'order.html'
+                const isSuccessPage = currentPage === 'success.html'
+
+                console.log(currentPage, 'currentPage');
+                console.log(isOrderPage, 'isOrderPage');
+                console.log(isSuccessPage, 'isSuccessPage');
+
+                search
+                    ? localStorage.setItem('searchParams', search)
+                    : false
+
+                !isOrderPage && !isSuccessPage
+                    ? localStorage.removeItem('searchParams')
+                    : false
+
+                const savedSearchParams = localStorage.getItem('searchParams')
+
+                if (savedSearchParams && !search) {
+                    window.location.href = window.location.href + savedSearchParams
+                }
+            }
+            setCorrectURL()
         },
         setProductCardHeight: function () {
             const categoryTabs = document.querySelectorAll(".js-tab");

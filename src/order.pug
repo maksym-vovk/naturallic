@@ -2,6 +2,8 @@ extends templates/layout/layout-prod.pug
 block head
     title!=`Naturallic - ${LANG.orderpageform.orderpageform_title}`
 block content
+    include templates/mixins/menu
+    +menu("order")
     include templates/order/order
 
 block scripts
