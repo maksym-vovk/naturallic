@@ -82,7 +82,7 @@
 		width: 100%
 		box-sizing: border-box
 		height: 52px
-		border: none
+		border: 1px solid transparent
 		border-radius: 40px
 		padding: 0 24px
 		font-weight: 400
@@ -120,6 +120,10 @@
 			line-height: 52px
 		+r(639)
 			line-height: 52px
+
+		&:disabled:hover
+			background: $gold
+			cursor: not-allowed
 
 //overlay
 .overlay

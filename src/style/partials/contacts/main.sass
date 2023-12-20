@@ -117,7 +117,7 @@
 		width: 100%
 		box-sizing: border-box
 		height: 52px
-		border: none
+		border: 1px solid transparent
 		border-radius: 40px
 		padding: 0 24px
 		font-weight: 400
@@ -158,6 +158,11 @@
 			font-weight: 400
 			background: $gold-hover
 			transition: .3s ease-in-out
+
+		&:disabled:hover
+			background: $gold
+			cursor: not-allowed
+
 
 		+r(1023)
 			max-width: 100%
