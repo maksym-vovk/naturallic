@@ -1,3 +1,5 @@
+import noScroll from "../global/noScroll";
+
 const Controls = (function () {
     "use strict";
     const btnAccordeon = $(".js-btn-accordeon");
@@ -155,6 +157,8 @@ const Controls = (function () {
 
                 langModal.classList.add("language--hidden")
                 localStorage.setItem("localization", DEFAULT_LANG);
+
+                noScroll.off()
             })
 
             langModal.addEventListener("click", (event) => {
@@ -172,6 +176,10 @@ const Controls = (function () {
 
                 if (isLangInURL) {
                     localStorage.setItem("localization", currentLang);
+                }
+
+                if (!langModal.classList.contains('language--hidden')) {
+                    noScroll.on()
                 }
             });
         },
@@ -255,10 +263,6 @@ const Controls = (function () {
                 const currentPage = pathArr[pathArr.length - 1]
                 const isOrderPage = currentPage === 'order.html'
                 const isSuccessPage = currentPage === 'success.html'
-
-                console.log(currentPage, 'currentPage');
-                console.log(isOrderPage, 'isOrderPage');
-                console.log(isSuccessPage, 'isSuccessPage');
 
                 search
                     ? localStorage.setItem('searchParams', search)

@@ -95,6 +95,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Paraziți',
@@ -132,6 +133,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Articulații',
@@ -177,6 +179,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082466',
             niche: 'Hemoroizi',
@@ -282,6 +285,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Paraziták',
@@ -319,6 +323,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Ízületek',
@@ -364,6 +369,7 @@ export const productsInfo = {
             newPrice: "111111",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082468',
             niche: 'Aranyér',
@@ -469,6 +475,7 @@ export const productsInfo = {
             newPrice: "140",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Parassiti',
@@ -506,6 +513,7 @@ export const productsInfo = {
             newPrice: "156",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Articolazioni',
@@ -551,6 +559,7 @@ export const productsInfo = {
             newPrice: "123",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Emorroide',
@@ -656,6 +665,7 @@ export const productsInfo = {
             newPrice: "2455",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Paraziti',
@@ -693,6 +703,7 @@ export const productsInfo = {
             newPrice: "3550",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Klouby',
@@ -738,6 +749,7 @@ export const productsInfo = {
             newPrice: "1765",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Hemoroidy',
@@ -843,6 +855,7 @@ export const productsInfo = {
             newPrice: "217",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Паразити',
@@ -880,6 +893,7 @@ export const productsInfo = {
             newPrice: "250",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Стави',
@@ -925,6 +939,7 @@ export const productsInfo = {
             newPrice: "205",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Хемороиди',
@@ -1030,6 +1045,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Parasiidid',
@@ -1067,6 +1083,7 @@ export const productsInfo = {
             newPrice: "125",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Liigesed',
@@ -1112,6 +1129,7 @@ export const productsInfo = {
             newPrice: "109",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Hemorroidid',
@@ -1217,6 +1235,7 @@ export const productsInfo = {
             newPrice: "136",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Paraziti',
@@ -1254,6 +1273,7 @@ export const productsInfo = {
             newPrice: "139",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Zglobovi',
@@ -1299,6 +1319,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Hemoroidi',
@@ -1404,6 +1425,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Parazitai',
@@ -1441,6 +1463,7 @@ export const productsInfo = {
             newPrice: "125",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Sąnariai',
@@ -1486,6 +1509,7 @@ export const productsInfo = {
             newPrice: "109",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Hemorojus',
@@ -1591,6 +1615,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Parazīti',
@@ -1628,6 +1653,7 @@ export const productsInfo = {
             newPrice: "125",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Locītavas',
@@ -1673,6 +1699,7 @@ export const productsInfo = {
             newPrice: "109",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Hemoroīdi',
@@ -1778,6 +1805,7 @@ export const productsInfo = {
             newPrice: "140",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Parasitas',
@@ -1815,6 +1843,7 @@ export const productsInfo = {
             newPrice: "156",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Articulações',
@@ -1860,6 +1889,7 @@ export const productsInfo = {
             newPrice: "123",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Hemorróidas',
@@ -1965,6 +1995,7 @@ export const productsInfo = {
             newPrice: "476",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Pasożyty',
@@ -2002,6 +2033,7 @@ export const productsInfo = {
             newPrice: "554",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Stawy',
@@ -2047,6 +2079,7 @@ export const productsInfo = {
             newPrice: "450",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Hemoroidy',
@@ -2152,6 +2185,7 @@ export const productsInfo = {
             newPrice: "136",
         },
         vermixin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Paraziti',
@@ -2189,6 +2223,7 @@ export const productsInfo = {
             newPrice: "139",
         },
         steplex: {
+            modifier: 'img-space--left',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Spoji',
@@ -2234,6 +2269,7 @@ export const productsInfo = {
             newPrice: "119",
         },
         rectin: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Hemoroidy',

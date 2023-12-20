@@ -226,16 +226,20 @@ const Order = (function () {
         },
         createSuccessPage: function () {
             const productName = getParameterByName("id");
-            const productNameUnderscore = String(productName).split('-').join('_')
-            const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false
 
-            const productData = productsInfo[currentLangLower][productNameUnderscore]
-            const imgModifier = productData?.modifier
+            if (productName) {
+                const productNameUnderscore = String(productName).split('-').join('_')
+                const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false
 
-            $(".js-success-product-name").html(productName);
-            $(".js-success-product-photo").attr("src", `../img/${productName}.png`);
+                const productData = productsInfo[currentLangLower][productNameUnderscore]
+                const imgModifier = productData?.modifier
 
-            imgModifier ? $(".js-success-product-photo").addClass(imgModifier) : false
+                $(".js-success-product-name").html(productName);
+                $(".js-success-product-photo").attr("src", `../img/${productName}.png`);
+
+
+                imgModifier ? $(".js-success-product-photo").addClass(imgModifier) : false
+            }
         },
         showResiudePack: function () {
             let max = 60;
