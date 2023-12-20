@@ -476,6 +476,7 @@
       "srcPhotoWebp": "img/vermixin.webp",
       "mobSrcPhoto": "img/vermixin-mob.png",
       "mobSrcPhotoWebp": "img/vermixin-mob.webp",
+      "modifier": "img-space--right",
       "name": "Vermixin",
       "stars": [
         {
@@ -621,6 +622,7 @@
       "srcPhotoWebp": "img/steplex.webp",
       "mobSrcPhoto": "img/steplex-mob.png",
       "mobSrcPhotoWebp": "img/steplex-mob.webp",
+      "modifier": "img-space--left",
       "name": "Steplex",
       "stars": [
         {
@@ -802,6 +804,7 @@
       "srcPhotoWebp": "img/rectin.webp",
       "mobSrcPhoto": "img/rectin-mob.png",
       "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "modifier": "img-space--right",
       "name": "Rectin",
       "stars": [
         {

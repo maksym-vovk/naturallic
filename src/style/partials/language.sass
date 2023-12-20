@@ -62,7 +62,26 @@
     font-size: 22px
 
   &__body
-    padding: 25px
+    overflow: hidden
+    border-radius: 40px
+    padding: 15px
+
+  &__list
+    max-height: 30vh
+    overflow: auto
+    padding: 10px
+    scrollbar-color: #015651 #d9f5f8
+    scrollbar-width: thin
+
+    &::-webkit-scrollbar
+      width: 5px
+
+    &::-webkit-scrollbar-thumb
+      background: #015651
+      border-radius: 5px
+
+    &::-webkit-scrollbar-track
+      background: #d9f5f8
 
   &__option
     display: flex

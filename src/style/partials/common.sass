@@ -228,22 +228,30 @@ ul, li
 		picture
 			width: 290px
 			height: 80%
+
+			+r(1023)
+				height: 90%
+				width: 255px
+			+r(767)
+				width: 205px
+			+r(479)
+				width: 180px
 		img
 			height: 100%
 			+object-fit(contain)
 		+r(1023)
 			height: 350px
 			img
-				height: 90%
+				//height: 90%
 				width: 255px
 		+r(767)
 			height: 230px
 			img
 				width: 205px
-		+r(479)
-			height: 170px
-			img
-				width: 145px
+		//+r(479)
+		//	height: 170px
+		//	img
+		//		width: 145px
 	&__name
 		display: flex
 		justify-content: center
