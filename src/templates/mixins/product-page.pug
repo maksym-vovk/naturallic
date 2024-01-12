@@ -7,6 +7,16 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
         var PRODUCT_OBJ = LANG.hits.filter(prod => prod.name.toLowerCase() === PRODUCT_NAME.toLowerCase())[0]
         var PRODUCT_KEY = PRODUCT_OBJ.link.split('.')[0]
         var MODIFIER = PRODUCT_OBJ.modifier
+        var prodWithSecondImgMod = [
+            'Visoptic DUO Day',
+            'Visoptic DUO Night',
+            'Deluron Forte',
+            'Ottomax+',
+            'Vermixin',
+            'Wirex men’s formula',
+            'Steplex',
+            'Rectin'
+        ]
         var PRODUCT_CATEGORY = PRODUCT_OBJ.category
         var PRODUCT_IMAGE_SRC = PRODUCT_OBJ.srcPhoto.split('.')[0]
         var PRODUCT_STARS = PRODUCT_OBJ.stars
@@ -51,7 +61,12 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
                         .slider-prod__for-item
                             picture
                                 source(srcset=PRODUCT_IMAGE_SRC + '_1.webp' type='image/webp')
-                                img(src=PRODUCT_IMAGE_SRC + "_1.png", alt=PRODUCT_NAME)
+
+                                if MODIFIER && prodWithSecondImgMod.includes(PRODUCT_NAME)
+                                    img(class=MODIFIER src=PRODUCT_IMAGE_SRC + "_1.png", alt=PRODUCT_NAME)
+                                else
+                                    img(src=PRODUCT_IMAGE_SRC + "_1.png", alt=PRODUCT_NAME)
+
                         .slider-prod__for-item
                             picture
                                 source(srcset=PRODUCT_IMAGE_SRC + '_2.webp' type='image/webp')
