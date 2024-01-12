@@ -29,20 +29,20 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
                     .slider-prod__nav.js-slider-product-nav
                         .slider-prod__nav-item
                             picture
-                                //source(srcset=PRODUCT_IMAGE_SRC + '.webp' type='image/webp')
+                                source(srcset=PRODUCT_IMAGE_SRC + '.webp' type='image/webp')
                                 img(src=PRODUCT_IMAGE_SRC + ".png", alt=PRODUCT_NAME)
                         .slider-prod__nav-item
                             picture
-                                //source(srcset=PRODUCT_IMAGE_SRC + '_1.webp' type='image/webp')
+                                source(srcset=PRODUCT_IMAGE_SRC + '_1.webp' type='image/webp')
                                 img(src=PRODUCT_IMAGE_SRC + "_1.png", alt=PRODUCT_NAME)
                         .slider-prod__nav-item
                             picture
-                                //source(srcset=PRODUCT_IMAGE_SRC + '_2.webp' type='image/webp')
+                                source(srcset=PRODUCT_IMAGE_SRC + '_2.webp' type='image/webp')
                                 img(src=PRODUCT_IMAGE_SRC + "_2.png", alt=PRODUCT_NAME)
                     .slider-prod__for.js-slider-product-for
                         .slider-prod__for-item
                             picture
-                                //source(srcset=PRODUCT_IMAGE_SRC + '.webp' type='image/webp')
+                                source(srcset=PRODUCT_IMAGE_SRC + '.webp' type='image/webp')
                                 if MODIFIER
                                     img(class=MODIFIER src=PRODUCT_IMAGE_SRC + ".png", alt=PRODUCT_NAME)
                                 else
@@ -50,11 +50,11 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
 
                         .slider-prod__for-item
                             picture
-                                //source(srcset=PRODUCT_IMAGE_SRC + '_1.webp' type='image/webp')
+                                source(srcset=PRODUCT_IMAGE_SRC + '_1.webp' type='image/webp')
                                 img(src=PRODUCT_IMAGE_SRC + "_1.png", alt=PRODUCT_NAME)
                         .slider-prod__for-item
                             picture
-                                //source(srcset=PRODUCT_IMAGE_SRC + '_2.webp' type='image/webp')
+                                source(srcset=PRODUCT_IMAGE_SRC + '_2.webp' type='image/webp')
                                 img(src=PRODUCT_IMAGE_SRC + "_2.png", alt=PRODUCT_NAME)
                 .product-item__info
                     h2.product-item__name!=CURRENT_PRODUCT.title
