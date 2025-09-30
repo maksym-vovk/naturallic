@@ -9,13 +9,14 @@ mixin language-popup(page)
                         span.select__current Select languages
                     .select__body
                         .select__list
-                            a.select__option(data-lang='hu' href=url('hu', `/${page}.html`))
-                                img.select__flag(src='img/language-hu.png' alt='hu')
-                                span.select__country Hungarian
 
                             a.select__option.select__option--default(data-lang='cz' href=url('', `/${page}.html`))
                                 img.select__flag(src='img/language-cz.png' alt='cz')
                                 span.select__country Czech
+
+                            a.select__option(data-lang='hu' href=url('hu', `/${page}.html`))
+                                img.select__flag(src='img/language-hu.png' alt='hu')
+                                span.select__country Hungarian
 
                             a.select__option(data-lang='ro' href=url('ro', `/${page}.html`))
                                 img.select__flag(src='img/language-ro.png' alt='ro')
