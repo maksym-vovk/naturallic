@@ -2,12 +2,16 @@ mixin langSelect(page)
     .lang-select
         .lang-select__current
         .lang-select__body
-            a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))
-                img.lang-select__flag(src='img/language-hu.png' alt='hu')
+
             a.lang-select__option.lang-select__option--default(data-lang='cz' href=url('', `/${page}.html`))
                 img.lang-select__flag(src='img/language-cz.png' alt='cz')
+
+            a.lang-select__option(data-lang='hu' href=url('hu', `/${page}.html`))
+                img.lang-select__flag(src='img/language-hu.png' alt='hu')
+
             a.lang-select__option(data-lang='ro' href=url('ro', `/${page}.html`))
                 img.lang-select__flag(src='img/language-ro.png' alt='ro')
+
             a.lang-select__option(data-lang='it' href=url('it', `/${page}.html`))
                 img.lang-select__flag(src='img/language-it.png' alt='it')
 
