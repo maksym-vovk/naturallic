@@ -2809,6 +2809,196 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "80"
     }
+  },
+  be: {
+    guavital: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Perte de poids',
+      country: 'Belgium',
+      productName: 'GUAVITAL+',
+      salePrice: "26",
+      newPrice: "112"
+    },
+    wintex: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Varices',
+      country: 'Belgium',
+      productName: 'Wintex Ultra',
+      salePrice: "24",
+      newPrice: "82"
+    },
+    exofeet_oil: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Mycose',
+      country: 'Belgium',
+      productName: 'Exofeet Oil',
+      salePrice: "25",
+      newPrice: "89"
+    },
+    paraxan: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Parasites',
+      country: 'Belgium',
+      productName: 'Paraxan',
+      salePrice: "26",
+      newPrice: "79"
+    },
+    deluron: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Prostatite',
+      country: 'Belgium',
+      productName: 'Deluron Forte',
+      salePrice: "26",
+      newPrice: "102"
+    },
+    visoptic_duo_night: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Vision',
+      country: 'Belgium',
+      productName: 'Visoptic DUO Night',
+      salePrice: "26",
+      newPrice: "109"
+    },
+    visoptic_duo_day: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Vision',
+      country: 'Belgium',
+      productName: 'Visoptic DUO Day',
+      salePrice: "26",
+      newPrice: "97"
+    },
+    beauty_age_skin: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Rajeunissement',
+      country: 'Belgium',
+      productName: 'Beauty Age Skin',
+      salePrice: "26",
+      newPrice: "165"
+    },
+    beauty_age_skin_peeling: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Rajeunissement',
+      country: 'Belgium',
+      productName: 'Beauty Age Skin Peeling',
+      salePrice: "24",
+      newPrice: "135"
+    },
+    ottomax: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Ouïe',
+      country: 'Belgium',
+      productName: 'Ottomax+',
+      salePrice: "26",
+      newPrice: "136"
+    },
+    vermixin: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Parasites',
+      country: 'Belgium',
+      productName: 'Vermixin',
+      salePrice: "24",
+      newPrice: "88"
+    },
+    wirex: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Puissance',
+      country: 'Belgium',
+      productName: 'Wirex men’s formula',
+      salePrice: "25",
+      newPrice: "125"
+    },
+    depanten: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Articulations',
+      country: 'Belgium',
+      productName: 'Depanten',
+      salePrice: "24",
+      newPrice: "77"
+    },
+    feronex: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Puissance',
+      country: 'Belgium',
+      productName: 'Feronex',
+      salePrice: "24",
+      newPrice: "139"
+    },
+    steplex: {
+      modifier: 'img-space--left',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Articulations',
+      country: 'Belgium',
+      productName: 'Steplex',
+      salePrice: "26",
+      newPrice: "75"
+    },
+    neoveris: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Varices',
+      country: 'Belgium',
+      productName: 'Neoveris',
+      salePrice: "25",
+      newPrice: "73"
+    },
+    keramin: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Mycose',
+      country: 'Belgium',
+      productName: 'Keramin',
+      salePrice: "26",
+      newPrice: "82"
+    },
+    delislim: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Perte de poids',
+      country: 'Belgium',
+      productName: 'Delislim',
+      salePrice: "26",
+      newPrice: "82"
+    },
+    ophtalax: {
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Vision',
+      country: 'Belgium',
+      productName: 'Ophtalax',
+      salePrice: "26",
+      newPrice: "119"
+    },
+    rectin: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Hémorroïdes',
+      country: 'Belgium',
+      productName: 'Rectin',
+      salePrice: "26",
+      newPrice: "80"
+    }
   }
 };
 
