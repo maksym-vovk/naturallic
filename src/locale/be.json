@@ -836,78 +836,81 @@
     }
   ],
 
-
   "footer": {
     "footer_menu_item1": "Catalogue",
     "footer_menu_item2": "À propos",
     "footer_menu_item3": "Avis",
     "footer_menu_item4": "Contacts",
-    "footer_terms": "Podmienky",
-    "footer_privacy": "Zásady ochrany osobných údajov",
-    "footer_cookies": "Cookies",
+    "footer_terms": "Conditions",
+    "footer_privacy": "Politique de confidentialité",
+    "footer_cookies": "Politique de cookies",
     "footer_copyright": "2022 <br>Copyright by naturallic",
-    "footer_tel_country": "Slovensko:",
+    "footer_tel_country": "Belgique:",
     "footer_tel_number": "32460253452",
     "footer_email": "support@naturallic.com"
   },
+
   "contacts": {
     "contacts_title": "Contacts",
-    "contacts_form_title": "Zanechajte žiadosť a my vám zavoláme späť",
-    "contacts_form_title1": "Žiadosť môžete zanechať tu na webovej stránke alebo nás kontaktovať prostredníctvom spätnej väzby. Svoje otázky môžete tiež poslať na e-mailovú adresu:",
-    "contacts_form_description": "Ak vám vyhovuje, aby sme vám zavolali späť, zanechajte svoje telefónne číslo a my sa s vami určite skontaktujeme!",
+    "contacts_form_title": "Laissez une demande et nous vous rappellerons",
+    "contacts_form_title1": "Vous pouvez laisser une demande ici sur le site, ou bien nous contacter via le formulaire de contact. Vous pouvez également envoyer vos questions par e-mail:",
+    "contacts_form_description": "Si vous préférez que nous vous rappelions, laissez votre numéro de téléphone et nous vous contacterons sans faute!",
     "contacts_field_name": "Nom",
     "contacts_field_phone": "Téléphone",
     "contacts_field_email": "E-mail",
     "contacts_field_message": "Message",
-    "contacts_btn": "Objednať",
+    "contacts_btn": "Envoyer",
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
     "contacts_telephone_title": ""
   },
+
   "terms": {
-    "terms_title": "Podmienky používania",
-    "terms_index1": "1. Podmienky",
-    "terms__description1": "Vstupom na webovú stránku https://naturallic.com súhlasíte s tým, že budete viazaní týmito podmienkami používania („Podmienky“), všetkými platnými zákonmi a predpismi a súhlasíte s tým, že ste zodpovední za dodržiavanie všetkých platných miestnych zákonov. Ak nesúhlasíte s niektorou z týchto podmienok, je vám zakázané používať túto stránku alebo na ňu vstupovať. Materiály obsiahnuté na tejto webovej stránke sú chránené platnými autorskými právami a právami na ochranné známky.",
-    "terms_index2": "2.  Licencia na používanie",
-    "terms__description2": "<span class=\"letter\">a)</span> Udeľuje sa povolenie na dočasné stiahnutie jednej kópie materiálov (informácií alebo softvéru) z webovej stránky Naturallic výlučne na osobné, nekomerčné a dočasné prezeranie. Ide o udelenie licencie, nie o prevod vlastníctva, a na základe tejto licencie nie je možné:",
-    "terms_list_item1": "modifikovať alebo kopírovať materiály;",
-    "terms_list_item2": "používať materiály na akékoľvek komerčné účely alebo na akékoľvek verejné zobrazenie (komerčné alebo nekomerčné);",
-    "terms_list_item3": "pokúšať sa dekompilovať alebo spätne analyzovať akýkoľvek softvér obsiahnutý na webovej stránke spoločnosti Naturallic;",
-    "terms_list_item4": "odstraňovať akékoľvek autorské práva alebo iné vlastnícke poznámky z materiálov;",
-    "terms_list_item5": "alebo prenášať materiály na inú osobu alebo „zrkadliť“ materiály na akomkoľvek inom serveri.",
-    "terms__description3": "<span class=\"letter\">b)</span> Táto licencia automaticky zaniká, ak porušíte ktorékoľvek z týchto obmedzení, a spoločnosť Naturallic ju môže kedykoľvek vypovedať. Po ukončení prezerania týchto materiálov alebo po vypovedaní tejto licencie ste povinní zničiť všetky stiahnuté materiály, ktoré máte vo svojom vlastníctve, či už v elektronickej alebo tlačenej forme.",
-    "terms_index3": "3. Upozornenie",
-    "terms__description4": "<span class=\"letter\">a)</span> Materiály na webovej stránke spoločnosti Naturallic sú poskytované „tak, ako sú“. Spoločnosť Naturallic neposkytuje žiadne záruky, výslovné ani implicitné, a týmto odmieta a vylučuje všetky ostatné záruky, vrátane, bez obmedzenia, implicitných záruk alebo podmienok obchodovateľnosti, vhodnosti na určitý účel alebo neporušenia duševného vlastníctva alebo iného porušenia práv.",
-    "terms__description5": "<span class=\"letter\">b)</span> Spoločnosť Naturallic ďalej neposkytuje žiadne záruky ani nevykonáva žiadne vyhlásenia týkajúce sa presnosti, pravdepodobných výsledkov alebo spoľahlivosti používania materiálov na svojej webovej stránke alebo inak súvisiacich s takýmito materiálmi alebo na akýchkoľvek stránkach prepojených s touto stránkou.",
-    "terms_index4": "4. Obmedzenia",
-    "terms__description6": "V žiadnom prípade spoločnosť Naturallic ani jej dodávatelia nenesú zodpovednosť za akékoľvek škody (vrátane, bez obmedzenia, škôd za stratu údajov alebo zisku, alebo v dôsledku prerušenia podnikania) vyplývajúce z používania alebo nemožnosti používať materiály na webovej stránke spoločnosti Naturallic, aj keď bola spoločnosť Naturallic alebo autorizovaný zástupca spoločnosti Naturallic ústne alebo písomne informovaný o možnosti takýchto škôd. Keďže niektoré jurisdikcie neumožňujú obmedzenia implikovaných záruk alebo obmedzenia zodpovednosti za následné alebo náhodné škody, tieto obmedzenia sa na vás nemusia vzťahovať.",
-    "terms_index5": "5. Presnosť materiálov",
-    "terms__description7": "Materiály uvedené na webovej stránke spoločnosti Naturallic môžu obsahovať technické, typografické alebo fotografické chyby. Spoločnosť Naturallic nezaručuje, že akékoľvek materiály na jej webovej stránke sú presné, úplné alebo aktuálne. Spoločnosť Naturallic môže kedykoľvek bez predchádzajúceho upozornenia vykonať zmeny v materiáloch obsiahnutých na svojej webovej stránke. Spoločnosť Naturallic sa však nezaväzuje aktualizovať tieto materiály.",
-    "terms_index6": "6. Odkazy",
-    "terms__description8": "Spoločnosť Naturallic nepreverila všetky stránky, na ktoré odkazuje jej webová stránka, a nie je zodpovedná za obsah žiadnej z týchto stránok. Zaradenie akéhokoľvek odkazu neznamená, že spoločnosť Naturallic túto stránku odporúča. Používanie akýchkoľvek takýchto prepojených webových stránok je na vlastné riziko používateľa.",
-    "terms_index7": "7. Zmeny",
-    "terms__description9": "Spoločnosť Naturallic môže kedykoľvek bez predchádzajúceho upozornenia zmeniť tieto podmienky používania svojej webovej stránky. Používaním tejto webovej stránky súhlasíte s tým, že budete viazaní aktuálnou verziou týchto podmienok používania.",
-    "terms_index8": "8. Rozhodné právo",
-    "terms__description10": "Tieto podmienky sa riadia a vykladajú v súlade s právnymi predpismi Čile a vy sa neodvolateľne podriaďujete výlučnej jurisdikcii súdov v tomto štáte alebo mieste."
+    "terms_title": "Conditions d’utilisation",
+    "terms_index1": "1. Conditions",
+    "terms__description1": "En accédant au site Web à l’adresse https://naturallic.com, vous acceptez d’être lié par les présentes conditions d’utilisation (« Conditions générales »), ainsi que par toutes les lois et réglementations applicables, et vous reconnaissez être responsable du respect de la législation locale en vigueur. Si vous n’acceptez pas ces conditions, il vous est interdit d’utiliser ou d’accéder à ce site. Le contenu de ce site est protégé par les lois relatives au droit d’auteur et au droit des marques.",
+    "terms_index2": "2. Licence d’utilisation",
+    "terms__description2": "<span class=\"letter\">a)</span> L’autorisation est accordée de télécharger temporairement une copie des documents (informations ou logiciels) présents sur le site de Naturallic pour un usage personnel et non commercial, à titre transitoire uniquement. Il s’agit de l’octroi d’une licence, et non d’un transfert de propriété. Dans le cadre de cette licence, vous ne pouvez pas:",
+    "terms_list_item1": "modifier ou copier les documents;",
+    "terms_list_item2": "utiliser les documents à des fins commerciales ou pour tout affichage public (commercial ou non commercial);",
+    "terms_list_item3": "tenter de décompiler ou de faire de l’ingénierie inverse sur tout logiciel contenu sur le site de Naturallic;",
+    "terms_list_item4": "supprimer toute mention de droit d’auteur ou autres mentions de propriété des documents;",
+    "terms_list_item5": "transférer les documents à une autre personne ou «refléter» les documents sur un autre serveur.",
+    "terms__description3": "<span class=\"letter\">b)</span> Cette licence sera automatiquement résiliée si vous enfreignez l’une de ces restrictions et pourra être résiliée par Naturallic à tout moment. À la fin de la consultation de ces documents ou à la résiliation de cette licence, vous devez détruire tous les documents téléchargés en votre possession, qu’ils soient au format électronique ou imprimé.",
+    "terms_index3": "3. Clause de non-responsabilité",
+    "terms__description4": "<span class=\"letter\">a)</span> Les documents figurant sur le site de Naturallic sont fournis « tels quels ». Naturallic ne donne aucune garantie, expresse ou implicite, et rejette et nie par la présente toute autre garantie, y compris, sans limitation, les garanties implicites de qualité marchande, d’adéquation à un usage particulier ou de non-violation de droits de propriété intellectuelle ou autres droits.",
+    "terms__description5": "<span class=\"letter\">b)</span> En outre, Naturallic ne garantit pas et ne fait aucune déclaration quant à l’exactitude, aux résultats probables ou à la fiabilité de l’utilisation des documents sur son site ou autrement liés à ces documents ou sur tout site lié à ce site.",
+    "terms_index4": "4. Limitations",
+    "terms__description6": "En aucun cas Naturallic ou ses fournisseurs ne pourront être tenus responsables de tout dommage (y compris, sans s’y limiter, les pertes de données ou de bénéfices, ou une interruption d’activité) résultant de l’utilisation ou de l’impossibilité d’utiliser les documents présents sur le site de Naturallic, même si Naturallic ou un représentant autorisé a été informé, oralement ou par écrit, de la possibilité de tels dommages. Certaines juridictions n’autorisant pas les limitations de garanties implicites ni les limitations de responsabilité pour dommages indirects ou accessoires, ces limitations peuvent ne pas s’appliquer à vous.",
+    "terms_index5": "5. Exactitude des documents",
+    "terms__description7": "Les documents figurant sur le site de Naturallic peuvent inclure des erreurs techniques, typographiques ou photographiques. Naturallic ne garantit pas que les documents de son site soient exacts, complets ou à jour. Naturallic peut apporter des modifications aux documents figurant sur son site à tout moment, sans préavis. Cependant, Naturallic ne s’engage pas à mettre à jour ces documents.",
+    "terms_index6": "6. Liens",
+    "terms__description8": "Naturallic n’a pas examiné tous les sites liés à son site Web et n’est pas responsable du contenu de ces sites liés. L’inclusion de tout lien n’implique pas l’approbation par Naturallic du site. L’utilisation de tout site lié se fait aux risques et périls de l’utilisateur.",
+    "terms_index7": "7. Modifications",
+    "terms__description9": "Naturallic peut réviser les présentes conditions d’utilisation de son site Web à tout moment, sans préavis. En utilisant ce site, vous acceptez d’être lié par la version alors en vigueur des présentes conditions d’utilisation.",
+    "terms_index8": "8. Droit applicable",
+    "terms__description10": "Les présentes conditions sont régies et interprétées conformément aux lois du Chili, et vous acceptez irrévocablement de vous soumettre à la juridiction exclusive des tribunaux de cet État ou de ce lieu."
   },
+
   "product_card": {
-    "product_card_bread_main": "Hlavná stránka",
+    "product_card_bread_main": "Accueil",
     "product_card_bread_catalog": "Catalogue",
-    "product_niche": "<span>Smer: </span>",
-    "product_form_factor": "<span>Forma vydania:&nbsp;</span>",
-    "product_description": "Popis",
-    "product_btn": "Objednať",
-    "product_compound": "Zloženie",
-    "product_usage": "Použitie",
-    "product_contraindications": "Kontraindikácie",
-    "product_additional": "Ďalšie informácie",
-    "product_manufacturer": "<span>Výrobca: </span>",
-    "product_suitability": "<span>Dátum spotreby: </span>",
-    "product_keep": "<span>Podmienky skladovania: </span>",
+    "product_niche": "<span>Catégorie: </span>",
+    "product_form_factor": "<span>Forme de libération:&nbsp;</span>",
+    "product_description": "Description",
+    "product_btn": "Commander",
+    "product_compound": "Composition",
+    "product_usage": "Application",
+    "product_contraindications": "Contre-indications",
+    "product_additional": "Infos complémentaires",
+    "product_manufacturer": "<span>Fabricant: </span>",
+    "product_suitability": "<span>Date de péremption: </span>",
+    "product_keep": "<span>Conditions de conservation: </span>",
     "product_reviews": "Avis",
-    "product_recommendations": "S týmto produktom kupujú"
+    "product_recommendations": "Avec ce produit, on achète aussi"
   },
+
   "recommendations": [
     {
       "link": "guavital.html",
@@ -941,7 +944,7 @@
         }
       ],
       "text": "355 avis",
-      "niche": "Smer: Сhudnutie"
+      "niche": "Catégorie: Perte de poids"
     },
     {
       "link": "wintex.html",
@@ -975,7 +978,7 @@
         }
       ],
       "text": "305 avis",
-      "niche": "Smer: Kŕčové žily"
+      "niche": "Catégorie: Varices"
     },
     {
       "link": "exofeet-oil.html",
@@ -1009,7 +1012,7 @@
         }
       ],
       "text": "288 avis",
-      "niche": "Smer: Pleseň"
+      "niche": "Catégorie: Mycose"
     },
     {
       "link": "paraxan.html",
@@ -1043,7 +1046,7 @@
         }
       ],
       "text": "276 avis",
-      "niche": "Smer: Parazity"
+      "niche": "Catégorie: Parasites"
     },
     {
       "link": "deluron.html",
@@ -1077,7 +1080,7 @@
         }
       ],
       "text": "322 avis",
-      "niche": "Smer: Prostatitída"
+      "niche": "Catégorie: Prostatite"
     },
     {
       "link": "visoptic-duo-night.html",
@@ -1111,7 +1114,7 @@
         }
       ],
       "text": "341 avis",
-      "niche": "Smer: Vizija"
+      "niche": "Catégorie: Vision"
     },
     {
       "link": "visoptic-duo-day.html",
@@ -1145,7 +1148,7 @@
         }
       ],
       "text": "212 avis",
-      "niche": "Smer: Zrak"
+      "niche": "Catégorie: Vision"
     },
     {
       "link": "beauty-age-skin.html",
@@ -1179,7 +1182,7 @@
         }
       ],
       "text": "455 avis",
-      "niche": "Smer: Omladenie"
+      "niche": "Catégorie: Rajeunissement"
     },
     {
       "link": "beauty-age-skin-peeling.html",
@@ -1213,7 +1216,7 @@
         }
       ],
       "text": "288 avis",
-      "niche": "Smer: Omladenie"
+      "niche": "Catégorie: Rajeunissement"
     },
     {
       "link": "ottomax.html",
@@ -1247,7 +1250,7 @@
         }
       ],
       "text": "341 avis",
-      "niche": "Smer: Sluch"
+      "niche": "Catégorie: Ouïe"
     },
     {
       "link": "vermixin.html",
@@ -1281,7 +1284,7 @@
         }
       ],
       "text": "315 avis",
-      "niche": "Smer: Paraziti"
+      "niche": "Catégorie: Parasites"
     },
     {
       "link": "wirex.html",
@@ -1315,7 +1318,7 @@
         }
       ],
       "text": "297 avis",
-      "niche": "Smer: Potencia"
+      "niche": "Catégorie: Puissance"
     },
     {
       "link": "depanten.html",
@@ -1349,7 +1352,7 @@
         }
       ],
       "text": "323 avis",
-      "niche": "Smer: Kĺby"
+      "niche": "Catégorie: Articulations"
     },
     {
       "link": "feronex.html",
@@ -1383,7 +1386,7 @@
         }
       ],
       "text": "311 avis",
-      "niche": "Smer: Potencia"
+      "niche": "Catégorie: Puissance"
     },
     {
       "link": "steplex.html",
@@ -1417,7 +1420,7 @@
         }
       ],
       "text": "287 avis",
-      "niche": "Smer: Kĺby"
+      "niche": "Catégorie: Articulations"
     },
     {
       "link": "neoveris.html",
@@ -1451,7 +1454,7 @@
         }
       ],
       "text": "234 avis",
-      "niche": "Smer: Kŕčové žily"
+      "niche": "Catégorie: Varices"
     },
     {
       "link": "keramin.html",
@@ -1485,7 +1488,7 @@
         }
       ],
       "text": "301 avis",
-      "niche": "Smer: Pleseň"
+      "niche": "Catégorie: Mycose"
     },
     {
       "link": "delislim.html",
@@ -1519,7 +1522,7 @@
         }
       ],
       "text": "333 avis",
-      "niche": "Smer: Chudnutie"
+      "niche": "Catégorie: Perte de poids"
     },
     {
       "link": "ophtalax.html",
@@ -1553,7 +1556,7 @@
         }
       ],
       "text": "221 avis",
-      "niche": "Smer: Zrak"
+      "niche": "Catégorie: Vision"
     },
     {
       "link": "rectin.html",
@@ -1587,366 +1590,360 @@
         }
       ],
       "text": "267 avis",
-      "niche": "Smer: Hemoroidy"
+      "niche": "Catégorie: Hémorroïdes"
     }
   ],
 
   "guavital": {
     "title": "GUAVITAL+",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "355 avis",
-    "niche": "Сhudnutie",
-    "form_factor": "Forma: dóza 50 g (20 porcií) / prášok",
-    "short_description": "Prírodný komplex na aktiváciu metabolických procesov a redukciu hmotnosti.",
-    "description": "Prášok na chudnutie. Zloženie obsahuje: extrakt z plodov guavy, extrakt zo zeleného čaju, extrakt z horkého pomaranča. Tieto komponenty majú silný komplexný účinok, ktorý umožňuje zbaviť sa nadbytočných kilogramov na dlhé obdobie.",
-    "compound": "<span class=\"attention\">Extrakt z plodov guavy, extrakt zo zeleného čaju (5 % kofeín), extrakt z horkého pomaranča (6 % synefrín), maltodextrín, konzervant: kyselina citrónová.</span>.",
-    "usage": "Polovicu čajovej lyžičky rozpustiť v 100–200 ml vody izbovej teploty. Užívať dospelým až 2-krát denne, 30 minút pred jedlom. Dĺžka užívania – 1 mesiac, v prípade potreby je možné kúru zopakovať.",
-    "contraindications": "Kontraindikácie: zakázané deťom do 18 rokov a tehotným ženám.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Perte de poids",
+    "form_factor": "Pot 50 g (20 portions) / poudre",
+    "short_description": "Complexe naturel pour activer le métabolisme et favoriser la perte de poids.",
+    "description": "Poudre minceur dont la composition naturelle inclut : extrait de fruit de goyave, extrait de thé vert et extrait d’orange amère. Ces composants exercent une action complexe et puissante permettant de se débarrasser des kilos superflus durablement.",
+    "compound": "<span class=\"attention\">Extrait de fruit de goyave, extrait de thé vert (5 % caféine), extrait d’orange amère (6 % synéphrine), maltodextrine, conservateur : acide citrique.</span>.",
+    "usage": "Dissoudre une demi-cuillère à café dans 100–200 ml d’eau à température ambiante. Adultes : jusqu’à 2 fois par jour, 30 minutes avant le repas. Durée : 1 mois, renouvelable si nécessaire.",
+    "contraindications": "Déconseillé aux enfants de moins de 18 ans et aux femmes enceintes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "wintex": {
     "title": "Wintex Ultra",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "305 avis",
-    "niche": "Kŕčové žily",
-    "form_factor": "туба  30 мл, картонная коробка, техническая инструкция, крем/гель",
-    "short_description": "Gél s chladivým účinkom zameraný na boj s prejavmi kŕčových žíl.",
-    "description": "gél na rastlinnej báze, ktorý jemne chladí a odstraňuje ťažkosť v nohách, posilňuje steny ciev a zabraňuje rozvoju kŕčových žíl.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, extrakt z Centella Asiatica, extrakt z koreňa Ruscus Aculeatus, extrakt z kultúry Symphytum Officinale Callus, extrakt z kvetov Chamomilla Recutita, niacinamid, troxerutín, kofeín, močovina, arginín, amóniumakryloyldimetyltaurát/VP kopolymér, kyselina salicylová, mentol, alantoín, hyalurónan sodný, fenoxyetanol, etylhexylglycerín, disodný EDTА</span>.",
-    "usage": "Nanášajte ľahkými masážnymi pohybmi 3-5 minút 2-krát denne. Pred nanesením vykonajte test znášanlivosti na vašej pokožke.",
-    "contraindications": "vyhnite sa kontaktu s očami. Nepoužívajte u detí do troch rokov a priamo na otvorené rany.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Varices",
+    "form_factor": "tube 30 ml, boîte en carton, notice technique, crème/gel",
+    "short_description": "Gel à effet rafraîchissant conçu pour lutter contre les manifestations des varices",
+    "description": "gel à base de plantes qui rafraîchit délicatement, soulage la lourdeur dans les jambes, renforce les parois des vaisseaux sanguins et prévient le développement des varices",
+    "compound": "<span class=\"attention\">Aqua, Glycérine, Propylène Glycol, Alcool dénaturé, Extrait d'Aesculus Hippocastanum, Extrait de Centella Asiatica, Extrait de racine de Ruscus Aculeatus, Extrait de culture de callus de Symphytum Officinale, Extrait de fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère d'acryloyldiméthyltaurate d'ammonium/VP, Acide salicylique, Menthol, Allantoïne, Hyaluronate de sodium, Phénoxyéthanol, Éthylhexylglycérine, EDTА Disodium.</span>.",
+    "usage": "appliquer par de légers mouvements de massage pendant 3-5 minutes, 2 fois par jour. Faire un test de tolérance cutanée avant application",
+    "contraindications": "éviter le contact avec les yeux. Ne pas utiliser chez les enfants de moins de 3 ans ni sur des plaies ouvertes",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "exofeet": {
     "title": "Exofeet Oil",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "288 avis",
-    "niche": "Pleseň",
-    "form_factor": "kartonska škatla / steklenica, pipeta / 20 ml",
-    "short_description": "Naravno olje z baktericidnim delovanjem, namenjeno boju proti manifestacijam glivic na nogah.",
-    "description": "kompleks na osnovi 4 olj (čajevca, cimeta, mete, limonske trave) ima splošen protivnetni, antiseptični, tonizirajoči, negovalni in vlažilni učinek na kožo. Globoko prodira in se dolgo zadržuje na mestu lokalizacije glive.",
-    "compound": "<span class=\"attention\">Alcohol Denat., Aqua, Propylene Glycol, Glycerin, Niacinamide, Symphytum Officinale Leaf Extract, Propolis Extract, Chamomilla Recutita Flower Extract, Aluminum Chlorohydrate, Salicylic Acid, Phenylpropanol, o-Cymen-5-ol, Decylene Glycol, Melaleuca Alternifolia Leaf Oil, Allantoin, Cinnamomum Zeylanicum Leaf Oil, Mentha Piperita Oil, 4-Terpineol, Cymbopogon Flexuosus Oil, Sodium Acrylates Copolymer, Xanthan Gum, Lecithin, Disodium EDTА, Citral, Linalool, Limonene, Eugenol, Cinnamal, Benzyl Benzoate, Geraniol</span>.",
-    "usage": "nanesite na dobro očiščeno in suho kožo podplata 2-krat na dan. Pred uporabo naredite test združljivosti s kožo.",
-    "contraindications": "individuálna neznášanlivosť zložiek",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Mycose",
+    "form_factor": "boîte en carton / flacon en verre avec pipette / 20 ml",
+    "short_description": "Huile naturelle à action bactéricide, conçue pour lutter contre les manifestations des champignons",
+    "description": "complexe à base de 4 huiles (arbre à thé, cannelle, menthe, citronnelle) qui exerce une action anti-inflammatoire générale, antiseptique, tonifiante, nourrissante et hydratante sur la peau. Pénètre profondément et reste longtemps dans la zone affectée par le champignon",
+    "compound": "<span class=\"attention\">Alcool Dénaturé, Aqua, Propylène Glycol, Glycérine, Niacinamide, Extrait de Feuille de Symphytum Officinale, Extrait de Propolis, Extrait de Fleur de Chamomilla Recutita, Chlorhydrate d'Aluminium, Acide Salicylique, Phénylpropanol, o-Cymen-5-ol, Décylène Glycol, Huile de Feuille de Melaleuca Alternifolia, Allantoïne, Huile de Feuille de Cinnamomum Zeylanicum, Huile de Mentha Piperita, 4-Terpineol, Huile de Cymbopogon Flexuosus, Copolymère d'acrylates de Sodium, Gomme Xanthane, Lécithine, Disodium EDTА, Citral, Linalool, Limonène, Eugénol, Cinnamal, Benzoate de Benzyle, Géraniol</span>.",
+    "usage": "appliquer sur une peau propre et sèche de la plante des pieds, 2 fois par jour. Faire un test de compatibilité avant usage",
+    "contraindications": "intolérance individuelle aux composants",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "paraxan": {
     "title": "Paraxan",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "276 avis",
-    "niche": "Parazity",
-    "form_factor": "20 kapsúl v balení",
-    "short_description": "Kapsuly pre bezpečné očistenie organizmu od parazitov a obnovenie funkcií tráviaceho systému.",
-    "description": "rastlinné kapsuly s dvojitým účinkom na odstránenie parazitov a detoxikáciu.",
-    "compound": "<span class=\"attention\">Ascorbic acid, Gelatin (capsule shell), Echinacea Purpurea extract, Microcrystalline cellulose (filler), Rose Hips extract, Zinc citrate, Magnesium stearate (filler), Silicon dioxide (anti-caking agent), Sodium Selenite</span>.",
-    "usage": "Užívať 2 kapsuly počas jedla, trvanie užívania 30 dní.",
-    "contraindications": "individuálna neznášanlivosť zložiek",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
+    "niche": "Parasites",
+    "form_factor": "20 gélules par boîte",
+    "short_description": "Gélules pour un nettoyage sûr de l’organisme contre les parasites et la restauration des fonctions du système digestif",
+    "description": "gélules végétales à double action pour éliminer les parasites et détoxifier",
+    "compound": "<span class=\"attention\">Acide Ascorbique, Gélatine (enveloppe de la capsule), Extrait d'Echinacea Purpurea, Cellulose microcristalline (agent de charge), Extrait de cynorrhodon, Citrate de zinc, Stéarate de magnésium (agent de charge), Dioxyde de silicium (anti-agglomérant), Sélénite de sodium</span>.",
+    "usage": "prendre 2 gélules pendant le repas, cure de 30 jours",
+    "contraindications": "intolérance individuelle aux composants",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "deluron": {
     "title": "Deluron Forte",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "322 avis",
-    "niche": "Prostatitída",
-    "form_factor": "blister, kapsuly 20 ks",
-    "short_description": "Prostriedok pre mužov zameraný na normalizáciu funkcií reprodukčného a močovo-pohlavného systému.",
-    "description": "Komplex prírodných extraktov na prevenciu problémov močovo-pohlavného systému, s ktorými sa môže stretnúť každý muž. Účinky rastlinných extraktov sú zamerané na: odstránenie bolesti a zápalu pôsobí na zdravie prostaty uľahčuje močenie zlepšenie krvného obehu.",
-    "compound": "Gelatin (obal kapsuly), microcrystalline cellulose (plnivo), saw palmetto fruit extract, nettle root extract, tribulus terrestris fruit extract, maca root extract, zinc citrate, magnesium stearate (plnivo), silicon dioxide (protihrudkujúce činidlo).",
-    "usage": "Dospelým sa odporúča užívať 1 kapsulu 1–2-krát denne počas jedla alebo bez. Trvanie jedného cyklu 45 dní. V prípade potreby možno cyklus zopakovať. Odporúčaná denná dávka – 2 kapsuly.",
-    "contraindications": "Individuálna neznášanlivosť ktorejkoľvek zložky, detský vek (do 18 rokov). Pred užívaním sa odporúča konzultovať s lekárom. Nie je to liek. Neprekračujte odporúčanú dennú dávku. Uchovávajte mimo dosahu detí. Tento výživový doplnok nenahrádza pestrú stravu.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Prostatite",
+    "form_factor": "blister, 20 gélules",
+    "short_description": "Produit pour hommes, destiné à normaliser les fonctions du système reproducteur et urinaire",
+    "description": "Complexe d’extraits naturels pour la prévention des problèmes du système urogénital auxquels tout homme peut être confronté. L’action des extraits vise à : éliminer la douleur et l’inflammation, soutenir la santé de la prostate, faciliter la miction, améliorer la circulation sanguine",
+    "compound": "Gélatine (enveloppe de la capsule), cellulose microcristalline (agent de charge), extrait de fruit de palmier nain, extrait de racine d'ortie, extrait de fruit de tribulus terrestris, extrait de racine de maca, citrate de zinc, stéarate de magnésium (agent de charge), dioxyde de silicium (anti-agglomérant)",
+    "usage": "Adultes : 1 gélule 1-2 fois par jour, au cours ou en dehors des repas. Durée d’une cure : 45 jours. Cure renouvelable si nécessaire. Dose journalière recommandée : 2 gélules",
+    "contraindications": "Intolérance individuelle à tout ingrédient, âge <18 ans. Avant utilisation, consulter un médecin. Ceci n’est pas un médicament. Ne pas dépasser la dose journalière recommandée. Tenir hors de portée des enfants. Ce complément alimentaire ne remplace pas une alimentation variée",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "visoptic_duo_night": {
     "title": "Visoptic DUO Night",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "341 avis",
-    "niche": "Zrak",
-    "form_factor": "10 kapsúl v blistri AL/PVC, 1 blister v kartónovej škatuľke, návod.",
-    "short_description": "Komplex vitamínov a minerálov na obnovu ostrosti zraku a prevenciu jeho zhoršenia.",
-    "description": "Špeciálny program, ktorý zastavuje vekové zhoršovanie zraku a chráni sietnicu vďaka kombinácii špeciálnych kapsúl, ktoré pôsobia cez deň a v noci, ako aj vďaka správnej schéme výživy. Produkt Visoptic DUO DAY je zameraný na odstránenie deficitných stavov organizmu, jeho receptúra pôsobí na posilnenie sietnice oka a zlepšenie krvného obehu v oku.",
-    "compound": "Bilberry Fruit Extract (Vaccinium uliginosum L., 5 % anthokyanidíny) – 15 mg Marigold Flower Extract (Tagetes erecta L., 5 % luteín) – 25 mg Rose hip Extract (Fructus Rosa canina, 5 % polyfenoly) – 5 mg Black currant Fruit Extract (Ribes nigrum L., 5 % anthokyanidíny) – 15 mg Vitamin D (Vitamin D3 100 000 IU/g 1 mg) – 2,5 mcg",
-    "usage": "1 kapsula večer.",
-    "contraindications": "individuálna neznášanlivosť ktoréhokoľvek z ingrediencií. Neprekračujte odporúčanú dennú dávku.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Vision",
+    "form_factor": "10 gélules sous blister AL/PVC, 1 blister en boîte carton, notice",
+    "short_description": "Complexe de vitamines et minéraux pour restaurer l’acuité visuelle et prévenir son déclin",
+    "description": "Programme spécial qui freine la dégénérescence visuelle liée à l’âge et protège la rétine grâce à une combinaison de capsules de jour et de nuit ainsi qu’un schéma nutritionnel adapté. Le produit Visoptic DUO Day agit sur les déficits de l’organisme, avec une formule renforçant la rétine et améliorant la circulation sanguine oculaire",
+    "compound": "Extrait de Fruit de Myrtille (Vaccinium uliginosum L.,  5 % d'anthocyanidines) - 15 mg Extrait de Fleur de Souci (Tagetes erecta L., 5 % de lutéine) – 25 mg Extrait d'Épine-vinette (Fructus Rosa canina, 5 % de polyphénols) – 5 mg Extrait de Fruit de Cassis (Ribes nigrum L., 5 % d'anthocyanidines)  -15 mg Vitamine D ( Vitamine D3 100 000 UI/g 1 mg) – 2,5 mcg",
+    "usage": "1 gélule le soir",
+    "contraindications": "Intolérance individuelle à tout ingrédient. Ne pas dépasser la dose journalière recommandée",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "visoptic_duo_day": {
     "title": "Visoptic DUO Day",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "212 avis",
-    "niche": "Zrak",
-    "form_factor": "10 kapsúl v blistri AL/PVC, 1 blister v kartónovej škatuľke, návod.",
-    "short_description": "Komplex vitamínov a minerálov na obnovu ostrosti zraku a prevenciu jeho zhoršenia.",
-    "description": "Špeciálny program, ktorý zastavuje vekové zhoršovanie zraku a chráni sietnicu vďaka kombinácii špeciálnych kapsúl, ktoré pôsobia cez deň a v noci, ako aj vďaka správnej schéme výživy. Produkt Visoptic DUO DAY je zameraný na odstránenie deficitných stavov organizmu, jeho receptúra pôsobí na posilnenie sietnice oka a zlepšenie krvného obehu v oku.",
-    "compound": "Vitamin C (Kyselina askorbová) – 70 mg Kyselina hyalurónová – 60 mg Extrakt z plodov čučoriedky (5 % antokyanidíny) – 50 mg Vitamín E – 10 mg Niacín (Nikotínamid) – 10 mg Vitamín B1 (Thiamín hydrochlorid) – 1 mg Vitamín B2 (Riboflavín) – 1,2 mg Vitamín B6 (Pyridoxín) – 1,2 mg Vitamín A – 750 mcg Kyselina listová – 200 mcg Vitamín B12 (Cyanokobalamín) – 2 mcg Pomocné látky: mikrokryštalická celulóza, stearan horečnatý, oxid kremičitý.",
-    "usage": "Užívanie: 1 kapsula ráno.",
-    "contraindications": "Individuálna neznášanlivosť ktoréhokoľvek z ingrediencií. Neprekračujte odporúčanú dennú dávku.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Vision",
+    "form_factor": "10 gélules sous blister AL/PVC, 1 blister en boîte carton, notice",
+    "short_description": "Complexe de vitamines et minéraux pour restaurer l’acuité visuelle et prévenir son déclin",
+    "description": "Programme spécial qui freine la dégénérescence visuelle liée à l’âge et protège la rétine grâce à une combinaison de capsules de jour et de nuit ainsi qu’un schéma nutritionnel adapté. Le produit Visoptic DUO Day agit sur les déficits de l’organisme, avec une formule renforçant la rétine et améliorant la circulation sanguine oculaire",
+    "compound": "Vitamine C (Acide ascorbique) – 70 mg, Acide Hyaluronique – 60 mg, Extrait de Myrtille (anthocyanidines 5 %) - 50 mg, Vitamine E – 10 mg, Niacine (Nicotinamide) – 10 mg, Vitamine B1 (Chlorhydrate de Thiamine) – 1 mg, Vitamine B2 (riboflavine) – 1,2 mg, Vitamine B6 (Pyridoxine) – 1,2 mg, Vitamine A -750 mcg, Acide folique – 200 mcg, Vitamine B 12 (Сyanocobalamine) – 2 mcg.  Excipients : microcellulose, stéarate de magnésium, dioxyde de silicium",
+    "usage": "1 gélule le matin",
+    "contraindications": "Intolérance individuelle à tout ingrédient. Ne pas dépasser la dose journalière recommandée",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "beauty_age_skin": {
     "title": "Beauty Age Skin",
     "category": "Pre krásu",
     "review_count": "455 avis",
-    "niche": "Omladenie",
-    "form_factor": "krém-sérum, 30 ml",
-    "short_description": "Omladzujúci pleťový krém 2 v 1 pre všetky typy pokožky.",
-    "description": "Krém-sérum BEAUTY AGE SKIN s omladzujúcim efektom obsahuje kyselinu hyalurónovú a regeneračné zložky na zabezpečenie komfortu pokožky počas 24 hodín.",
-    "compound": "AQUA, SNAIL SECRETION FILTRATE, GLYCERIN, COCO CAPRYLATE/CAPRATE, CAPRYLIC /CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, GLYCERYL STEARATE CITRATE, OLEA EUROPAEA FRUIT OIL, BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, VITIS VINIFERA SEED OIL, ARGANIA SPINOSA KERNEL OIL, PRUNUS AMYGDALUS DULCIS OIL, NIACINAMIDE, HYDROLYZED COLLAGEN, SYMPHYTUM OFFICINALE CALLUS CULTURE EXTRACT, CHAMOMILA RECUTITA FLOWER EXTRACT, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SODIUM HYALURONATE, SODIUM HYDROXIDE, TOCOPHERYL ACETATE, PANTHENOL, ASCORBYL PALMITATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, BUTYLENE GLYCOL, CARBOMER, POLYSORBATE 20, PALMITOYL TRIPEPTIDE-1, PALMITOYL TETRAPEPTIDE-7, SODIUM LACTATE, DISODIUM EDTA, SODIUM BENZOATE, CITRIC ACID, POTASSIUM SORBATE, BHT.",
-    "usage": "Krém–sérum naniesť ľahkými pohybmi po masážnych líniách, nechať do úplného vstrebania. Používať ráno a večer na čistú pokožku.",
-    "contraindications": "Individuálna neznášanlivosť zložiek. Vyhnite sa kontaktu s očami. Nepoužívať u detí do 18 rokov.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
+    "niche": "Rajeunissement",
+    "form_factor": "crème-sérum, 30 ml",
+    "short_description": "Crème rajeunissante pour le visage 2 en 1, adaptée à tous types de peau",
+    "description": "Crème-sérum BEAUTY AGE SKIN à effet rajeunissant, contenant de l’acide hyaluronique et des composants régénérants pour assurer confort et soin de la peau pendant 24 h",
+    "compound": "Aqua, filtrat de sécrétion d'escargot, glycérine, caprylate/caprate de coco, triglycéride caprylique/caprique, alcool cétéarylique, citrate de stéarate de glycéryle, huile de fruit d'olea europaea, beurre de butyrospermum parkii, huile de cocos nucifera, huile de pépins de vitis vinifera, huile de noyau d'argania spinosa, huile de prunus amygdalus dulcis, niacinamide, collagène hydrolysé, extrait de culture de callus de symphytum officinale, extrait de fleur de chamomila recutita, acrylates/c10-30 alkyl acrylate crosspolymer, hyaluronate de sodium, hydroxyde de sodium, acétate de tocophérol, panthénol, palmitate d'ascorbyle, phénoxyéthanol, éthylhexylglycérine, parfum, butylène glycol, carbomer polysorbate 20, palmitoyl tripeptide-1, palmitoyl tétrapeptide-7, lactate de sodium, edta disodique, benzoate de sodium, acide citrique, sorbate de potassium, bht",
+    "usage": "Appliquer délicatement le long des lignes de massage, laisser pénétrer. Utiliser matin et soir sur peau propre",
+    "contraindications": "Intolérance individuelle aux composants. Éviter le contact avec les yeux. Ne pas utiliser chez les moins de 18 ans",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "beauty_age_skin_peeling": {
     "title": "Beauty Age Skin Peeling",
     "category": "Pre krásu",
     "review_count": "288 avis",
-    "niche": "Omladenie",
-    "form_factor": "gél v tube, 30 ml",
-    "short_description": "Čistiaca peelingová maska pre všetky typy pokožky.",
-    "description": "Unikátna čistiaca peelingová maska 3 v 1 s mliečnou kyselinou a prírodnými extraktmi, ktorú možno používať na každodenné umývanie, na hĺbkové čistenie od zrohovatených častíc, na maximálne zvlhčenie a aktiváciu omladenia pokožky.",
-    "compound": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Glycerin, Glyceryl Oleate, Polylactic Acid, Rubus Idaeus Leaf Extract, Euterpe Oleracea Fruit Extract, Citrus Aurantium Dulcis Fruit Extract, Ananas Sativus Fruit Extract, Citrus Limon Peel Oil, Xanthan Gum, Phenoxyethanol, Carbomer, Ethylhexylglycerin, Ascorbyl Tetraisopalmitate, Sodium Hydroxide, Sodium Chloride, Sodium Benzoate, Citric Acid, Potassium Sorbate, Limonene.",
-    "usage": "Naneste malé množstvo na vlhkú pokožku a masírujte približne 1 minútu, potom opláchnite vodou. Procedúru vykonávajte maximálne 2-krát týždenne.",
-    "contraindications": "Individuálna neznášanlivosť zložiek. Vyhnite sa kontaktu s očami. Nepoužívať u detí do 3 rokov a priamo na otvorené rany.",
-    "manufacturer": "Dalmatika (Bulharsko)",
+    "niche": "Rajeunissement",
+    "form_factor": "gel en tube, 30 ml",
+    "short_description": "Masque peeling nettoyant pour tous types de peau",
+    "description": "Masque peeling 3 en 1 à l’acide lactique et aux extraits naturels, pouvant s’utiliser pour le nettoyage quotidien, pour l’élimination des cellules mortes, une hydratation maximale et l’activation du rajeunissement de la peau",
+    "compound": "Aqua, Coco-Glucoside, Cocamidopropyl Betaine, Glycérine, OLEATE DE GLYCERYLE, ACIDE POLYLACTIQUE, EXTRAIT DE FEUILLE DE RUBUS IDAEUS, EXTRAIT DE FRUIT D'EUTERPE OLERACEA, EXTRAIT DE FRUIT DE Citrus Aurantium Dulcis, EXTRAIT DE FRUIT D'Ananas Sativus, Huile de Zeste de Citrus Limon, Gomme Xanthane, Phénoxyéthanol, CARBOMER, Éthylhexylglycérine, TÉTRAISOPALMITATE D'ASCORBYLE, Hydroxyde de Sodium, Chlorure de Sodium, Benzoate de Sodium, Acide Citrique, Sorbate de Potassium, Limonène",
+    "usage": "Appliquer une petite quantité sur la peau humide, masser pendant 1 minute puis rincer à l’eau. Effectuer la procédure au maximum 2 fois par semaine",
+    "contraindications": "Intolérance individuelle aux composants. Éviter le contact avec les yeux. Ne pas utiliser chez les enfants de moins de 3 ans ni directement sur des plaies ouvertes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
     "suitability": "2 leti ",
-    "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "ottomax": {
     "title": "Ottomax+",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "341 avis",
-    "niche": "Sluch",
-    "form_factor": "blister, kapsuly 10 ks, kartónová škatuľka, technický návod.",
-    "short_description": "Komplex na zlepšenie funkcií sluchu s vyváženou formulou vitamínov a minerálov.",
-    "description": "Komplex prírodných zložiek, ktorých účinok je zameraný na odstránenie hučania v ušiach a spomalenie straty sluchu.",
-    "compound": "L-ascorbic acid, želatína (obal kapsuly), mikrokryštalická celulóza (plnivo), acetyl L-carnitine HCL, extrakt z listov ginkgo biloba, oxid horečnatý, nikotínamid, oxid zinočnatý, stearan horečnatý (plnivo), thiamín hydrochlorid, oxid kremičitý (protihrudkujúce činidlo), riboflavín, pyridoxín hydrochlorid, melatonín, uhličitan vápenatý (potravinárske farbivo, obal kapsuly).",
-    "usage": "Dospelým 1 kapsula denne počas jedla alebo po jedle. Trvanie jedného cyklu – 2 mesiace. Neprekračujte odporúčanú dennú dávku.",
-    "contraindications": "Individuálna neznášanlivosť zložiek, detský vek (do 18 rokov).",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Ouïe",
+    "form_factor": "Blister, 10 gélules, boîte en carton, notice technique",
+    "short_description": "Complexe pour améliorer les fonctions auditives avec une formule équilibrée de vitamines et de minéraux",
+    "description": "Complexe de composants naturels dont l’action vise à réduire les acouphènes et ralentir la perte d’audition",
+    "compound": "Acide L-ascorbique, gélatine (enveloppe de la capsule), Cellulose microcristalline (agent de charge), Acétyl L-carnitine HCl, Extrait de feuille de ginkgo biloba, oxyde de magnésium, nicotinamide, oxyde de zinc, stéarate de magnésium (agent de charge), chlorhydrate de thiamine, dioxyde de silicium (anti-agglomérant), riboflavine, chlorhydrate de pyridoxine, mélatonine, carbonate de calcium (colorant alimentaire, enveloppe de la capsule)",
+    "usage": "Adultes: 1 gélule par jour au cours ou après le repas. Durée d’une cure : 2 mois. Ne pas dépasser la dose journalière recommandée",
+    "contraindications": "Intolérance individuelle aux composants, âge < 18 ans.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "vermixin": {
     "title": "Vermixin",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "315 avis",
-    "niche": "Parazity",
-    "form_factor": "15 mäkkých želatínových kapsúl, blister, kartónová škatuľka (návod)",
-    "short_description": "Kapsuly na bezpečné čistenie organizmu od parazitov a obnovu funkcií tráviaceho systému.",
-    "description": "Antiparazitický prostriedok, ktorý obsahuje olej zo semien konope, pôsobiaci ako silné protizápalové činidlo. Konopný olej účinne ničí parazity u detí aj dospelých.",
-    "compound": "Hemp seed oil CP-REF (Cannabis sativa L.), kapsula (hovädzia želatína, zvlhčovadlo (glycerín)).",
-    "usage": "Dospelým 1 kapsula perorálne 2–3-krát denne počas jedla. Trvanie užívania – 3 mesiace, v prípade potreby je možné cyklus zopakovať. ODPORÚČANÁ DENNÁ DÁVKA: 2–3 kapsuly denne.",
-    "contraindications": "Individuálna neznášanlivosť zložiek. Pred použitím sa odporúča konzultovať s lekárom. Nie je to liek. Neprekračujte odporúčanú dennú dávku. Uchovávajte mimo dosahu malých detí.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Parasites",
+    "form_factor": "15 gélules molles de gélatine, blister, boîte en carton (notice)",
+    "short_description": "Gélules pour un nettoyage sûr de l’organisme contre les parasites et la restauration des fonctions digestives",
+    "description": "Antiparasitaire à base d’huile de graines de chanvre, qui exerce une puissante action anti-inflammatoire. L’huile de chanvre élimine efficacement les parasites chez les enfants et les adultes",
+    "compound": "Huile de graines de chanvre CP-REF (Cannabis sativa L.), gélule (gélatine bovine, humectant (glycérine))",
+    "usage": "Adultes : 1 gélule 2–3 fois par jour au cours du repas. Durée du traitement – 3 mois, renouvelable si nécessaire. DOSE QUOTIDIENNE RECOMMANDÉE : 2–3 gélules par jour",
+    "contraindications": "Intolérance individuelle aux ingrédients. Consulter un médecin avant utilisation. Ceci n’est pas un médicament. Ne pas dépasser la dose journalière recommandée. Tenir hors de portée des enfants.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "wirex": {
     "title": "Wirex men’s formula",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "297 avis",
-    "niche": "Potencia",
-    "form_factor": "blister, kapsuly 20 ks",
-    "short_description": "Prostriedok pre mužov zameraný na normalizáciu funkcií reprodukčného a močovo-pohlavného systému.",
-    "description": "Komplex rastlinných zložiek, ktorý zvyšuje sexuálnu túžbu a zlepšuje sexuálnu funkciu u mužov, normalizuje funkčný stav močovo-pohlavného systému pri erektilnej dysfunkcii (na zvýšenie libida a potencie), zlepšuje kvalitu spermií, ako aj zvyšuje duševnú a fyzickú výkonnosť a adaptačné schopnosti u mužov. Účinok Wirex men’s formula je podmienený funkčnými vlastnosťami aktívnych ingrediencií a je zameraný na riešenie problémov so sexuálnou funkciou, libidom, spermatogenézou, pamäťou a energiou u mužov.",
-    "compound": "Cranberry berry extract, želatína (obal kapsuly), Saw palmetto fruit extract, Nettle root extract, mikrokryštalická celulóza (plnivo), Zinc citrate, stearan horečnatý (plnivo), oxid kremičitý (protihrudkujúce činidlo), farbivá (obal kapsuly): E171, E132.",
-    "usage": "1 kapsula 1–2-krát denne počas jedla. Trvanie jedného cyklu 45 dní. V prípade potreby je možné cyklus zopakovať. Odporúčaná denná dávka – 2 kapsuly.",
-    "contraindications": "Individuálna neznášanlivosť ktorejkoľvek zo zložiek, detský vek (do 18 rokov). Pred užívaním sa odporúča konzultovať s lekárom. Nie je to liek. Neprekračujte odporúčanú dennú dávku. Uchovávajte mimo dosahu detí. Tento výživový doplnok nenahrádza pestrú stravu.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Puissance",
+    "form_factor": "blister, 20 gélules,",
+    "short_description": "Produit pour hommes destiné à normaliser les fonctions du système reproducteur et urinaire",
+    "description": "Complexe de composants végétaux qui stimule le désir sexuel et améliore la fonction sexuelle chez l’homme, normalise l’état fonctionnel du système urogénital en cas de dysfonction érectile (pour augmenter la libido et la puissance), améliore la qualité du sperme, ainsi que les performances mentales, physiques et les capacités d’adaptation chez l’homme. L’action de formule pour hommes Wirex est due aux propriétés fonctionnelles de ses ingrédients actifs et vise à résoudre les problèmes de fonction sexuelle, libido, spermatogenèse, mémoire et énergie chez l’homme.",
+    "compound": "Extrait de canneberge, gélatine (enveloppe de la gélule), extrait de fruit de palmier nain, extrait de racine d’ortie, cellulose microcristalline (excipient), citrate de zinc, stéarate de magnésium (excipient), dioxyde de silicium (anti-agglomérant), colorants (enveloppe de la gélule) : E171, E132.",
+    "usage": "Prendre 1 gélule 1 à 2 fois par jour au cours des repas. Durée d’une cure : 45 jours. Cure renouvelable si nécessaire. Dose quotidienne recommandée : 2 gélules.",
+    "contraindications": "Intolérance individuelle à l’un des ingrédients, âge <18 ans. Avant utilisation, il est conseillé de consulter un médecin. Ce produit n’est pas un médicament. Ne pas dépasser la dose journalière recommandée. Tenir hors de portée des enfants. Ce complément alimentaire ne doit pas remplacer une alimentation variée.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "depanten": {
     "title": "Depanten",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "323 avis",
-    "niche": "Kĺby",
-    "form_factor": "kartónová škatuľka, fľaša s pumpičkou 25 ml, gél",
-    "short_description": "Gél s prírodnými extraktmi na odstránenie rôznych typov bolesti v kĺboch a svaloch.",
-    "description": "Gélová formula na lokálne použitie v miestach bolesti. Obsahuje bohaté spektrum biologicky aktívnych látok: vitamín B3, B5, allantoin, kyselinu hyalurónovú, glukozamín, chondroitín, hydrolyzovaný kolagén, gáfor, mentol, rastlinné extrakty z harmančeka, kostihoja, diablovho pazúra, arniky a esenciálne oleje klinčeka, eukalyptu, čajovníka a škorice. Zmäkčuje a hydratuje pokožku, stimuluje metabolické procesy v epiderme s chladivým efektom.",
-    "compound": "Aqua, Alcohol Denat., Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolyzed Collagen, PEG-40 Hydrogenated Castor Oil, Menthol, Mentha Piperita Oil, Sodium Chondroitin Sulfate, Eucalyptus Globulus Leaf Oil, Camphor, Eugenia Caryophyllus Leaf Oil, Cinnamomum Cassia Leaf Oil, Melaleuca Alternifolia Leaf Oil, Ammonium Acryloyldimethyltaurate/VP Copolymer, Panthenol, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Allantoin, Disodium EDTA, Linalool, Limonene, Eugenol.",
-    "usage": "Naneste malé množstvo produktu krúživými masážnymi pohybmi až do úplného vstrebania 2–3-krát denne. Pred použitím vykonajte test znášanlivosti s vašou pokožkou.",
-    "contraindications": "Produkt je určený iba na vonkajšie použitie. Vyhnite sa kontaktu s očami a sliznicami. V prípade kontaktu dôkladne opláchnite vodou! Nepoužívať u detí do 3 rokov, tehotných a dojčiacich žien, ako ani priamo na otvorené rany.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Articulations",
+    "form_factor": "boîte en carton, flacon pompe 25 ml, gel,",
+    "short_description": "Gel à base d’extraits naturels pour soulager différents types de douleurs articulaires et musculaires,",
+    "description": "Formule gélifiée à application locale sur les zones douloureuses. Contient un large spectre d’ingrédients bioactifs : vitamines B3 et B5, allantoïne, acide hyaluronique, glucosamine, chondroïtine, collagène hydrolysé, camphre, menthol, extraits de camomille, consoude, griffe du diable, arnica, ainsi que des huiles essentielles de girofle, eucalyptus, arbre à thé, cannelle. Adoucit et hydrate la peau, stimule les processus métaboliques de l’épiderme avec effet rafraîchissant",
+    "compound": "Aqua, Alcohol Dénaturé, Propylene Glycol, Extrait de Fleur de Chamomilla Recutita, Extrait d'Arnica Montana, Niacinamide, Sulfate de Glucosamine, Extrait de Racine d'Harpagophytum Procumbens, Extrait de Racine de Symphytum Officinale, Collagène Hydrolysé, PEG-40, Huile de Ricin Hydrogénée, Menthol, Huile de Mentha Piperita, Sulfate de Chondroïtine Sodique, Huile de Feuille d'Eucalyptus Globulus, Camphre, Huile de Feuille d'Eugenia Caroyphyllus, Huile de Feuille de Cinnamomum Cassia, Huile de Feuille de Melaleuca Alternifolia, Copolymère d'Ammonium Acryloyldiméthyltaurate /VP, Panthénol, Gomme Xanthane, Phénoxyéthanol, Éthylhexylglycérine, Hyaluronate de Sodium, Allantoïne, EDTА Disodique, Linalool, Limonène, Eugénol",
+    "usage": "Appliquer une petite quantité en mouvements circulaires jusqu’à absorption complète, 2-3 fois par jour. Faire un test de compatibilité cutanée avant utilisation",
+    "contraindications": "Produit destiné uniquement à un usage externe. Éviter le contact avec les yeux et les muqueuses. En cas de contact, rincer abondamment à l’eau ! Ne pas utiliser chez les enfants de moins de 3 ans, les femmes enceintes ou allaitantes, ni sur des plaies ouvertes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "feronex": {
     "title": "Feronex",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "311 avis",
-    "niche": "Potencia",
-    "form_factor": "plastová dóza / 20 kapsúl",
-    "short_description": "Prostriedok pre mužov zameraný na normalizáciu funkcií reprodukčného a močovo-pohlavného systému.",
-    "description": "Kapsuly s komplexom prírodných extraktov a zinkom. Formula bola vyvinutá s ohľadom na prevenciu všetkých problémov močovo-pohlavného systému, s ktorými sa môže stretnúť každý muž, vrátane problémov s libidom. Účinok prípravku je zameraný na doplnenie látok, ktoré je ťažké získať zo stravy a ktoré ovplyvňujú: zlepšenie krvného obehu, erekciu, tvorbu testosterónu, vytrvalosť organizmu, zdravie močovo-pohlavného systému a prostaty.",
-    "compound": "Saw palmetto fruit extract (Serenoa repens 5:1), Nettle root extract (Urtica dioica, 1 % Beta-Sitosterol), Maca root extract (Lepidium meyenii 10:1), Zinok (citrát zinočnatý).",
-    "usage": "1 kapsula 1–2-krát denne počas alebo po jedle.",
-    "contraindications": "Individuálna neznášanlivosť zložiek. Nie je určené pre deti, tehotné a dojčiace ženy.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Puissance",
+    "form_factor": "flacon plastique / 20 gélules",
+    "short_description": "Produit pour hommes visant à normaliser les fonctions du système reproducteur et urinaire",
+    "description": "Gélules à base d’extraits naturels et de zinc. Formule conçue pour prévenir divers troubles urogénitaux et soutenir la libido. L’action vise à compenser les substances essentielles difficiles à obtenir par l’alimentation et qui influencent : la circulation sanguine, l’érection, la production de testostérone, l’endurance et la santé de la prostate",
+    "compound": "Extrait de palmier nain (Serenoa repens 5:1), extrait de racine d’ortie (Urtica dioica, 1% bêta-sitostérol), extrait de racine de maca (Lepidium meyenii 10:1), zinc (citrate de zinc)",
+    "usage": "1 gélule 1-2 fois par jour, pendant ou après les repas",
+    "contraindications": "intolérance individuelle aux composants. Non destiné aux enfants, femmes enceintes ou allaitantes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "steplex": {
     "title": "Steplex",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "287 avis",
-    "niche": "Kĺby",
-    "form_factor": "kartónová škatuľka, fľaša s pumpičkou 25 ml, gél",
-    "short_description": "Gél na odstránenie rôznych typov bolesti v kĺboch a svaloch.",
-    "description": "Gélová formula na lokálne použitie v bolestivých oblastiach. Obsahuje bohaté spektrum biologicky aktívnych zložiek: vitamín B3, B5, allantoin, kyselinu hyalurónovú, glukozamín, chondroitín, hydrolyzovaný kolagén, gáfor, mentol, rastlinné extrakty z harmančeka, kostihoja, diablovho pazúra, arniky a esenciálne oleje klinčeka, eukalyptu, čajovníka a škorice. Zmäkčuje a hydratuje pokožku, stimuluje metabolické procesy v epiderme s chladivým účinkom.",
-    "compound": "Aqua, Alcohol Denat., Propylene Glycol, Chamomilla Recutita Flower Extract, Arnica Montana Extract, Niacinamide, Glucosamine Sulfate, Harpagophytum Procumbens Root Extract, Symphytum Officinale Root Extract, Hydrolyzed Collagen, PEG-40 Hydrogenated Castor Oil, Menthol, Mentha Piperita Oil, Sodium Chondroitin Sulfate, Eucalyptus Globulus Leaf Oil, Camphor, Eugenia Caryophyllus Leaf Oil, Cinnamomum Cassia Leaf Oil, Melaleuca Alternifolia Leaf Oil, Ammonium Acryloyldimethyltaurate/VP Copolymer, Panthenol, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Allantoin, Disodium EDTA, Linalool, Limonene, Eugenol.",
-    "usage": "Naneste malé množstvo produktu krúživými masážnymi pohybmi až do úplného vstrebania 2–3-krát denne. Pred použitím vykonajte test znášanlivosti s vašou pokožkou.",
-    "contraindications": "Produkt je určený iba na vonkajšie použitie. Vyhnite sa kontaktu s očami a sliznicami. V prípade kontaktu dôkladne opláchnite vodou! Nepoužívať u detí do 3 rokov, tehotných a dojčiacich žien, ako ani priamo na otvorené rany.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Articulations",
+    "form_factor": "boîte en carton, flacon pompe 25 ml, gel",
+    "short_description": "Gel pour soulager différents types de douleurs articulaires et musculaires",
+    "description": "formule gélifiée à application locale sur les zones douloureuses. Contient un large spectre d’ingrédients bioactifs : vitamines B3 et B5, allantoïne, acide hyaluronique, glucosamine, chondroïtine, collagène hydrolysé, camphre, menthol, extraits de camomille, consoude, griffe du diable, arnica, ainsi que des huiles essentielles de girofle, eucalyptus, arbre à thé, cannelle. Adoucit et hydrate la peau, stimule les processus métaboliques de l’épiderme avec effet rafraîchissant",
+    "compound": "Aqua, Alcohol Dénaturé, Propylene Glycol, Extrait de Fleur de Chamomilla Recutita, Extrait d'Arnica Montana, Niacinamide, Sulfate de Glucosamine, Extrait de Racine d'Harpagophytum Procumbens, Extrait de Racine de Symphytum Officinale, Collagène Hydrolysé, PEG-40, Huile de Ricin Hydrogénée, Menthol, Huile de Mentha Piperita, Sulfate de Chondroïtine Sodique, Huile de Feuille d'Eucalyptus Globulus, Camphre, Huile de Feuille d'Eugenia Caroyphyllus, Huile de Feuille de Cinnamomum Cassia, Huile de Feuille de Melaleuca Alternifolia, Copolymère d'Ammonium Acryloyldiméthyltaurate /VP, Panthénol, Gomme Xanthane, Phénoxyéthanol, Éthylhexylglycérine, Hyaluronate de Sodium, Allantoïne, EDTА Disodique, Linalool, Limonène, Eugénol",
+    "usage": "Appliquer une petite quantité en mouvements circulaires jusqu’à absorption complète, 2-3 fois par jour. Faire un test de compatibilité cutanée avant utilisation",
+    "contraindications": "Produit destiné uniquement à un usage externe. Éviter le contact avec les yeux et les muqueuses. En cas de contact, rincer abondamment à l’eau ! Ne pas utiliser chez les enfants de moins de 3 ans, les femmes enceintes ou allaitantes, ni sur des plaies ouvertes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "neoveris": {
     "title": "Neoveris",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "234 avis",
-    "niche": "Kŕčové žily",
-    "form_factor": "gél v tube, 30 ml",
-    "short_description": "Gél s prírodnými extraktmi zameraný na boj s prejavmi kŕčových žíl.",
-    "description": "Komplex rastlinných zložiek na normalizáciu stavu organizmu, reguláciu metabolizmu a aktiváciu procesu redukcie hmotnosti. Rastlinný komplex: spúšťa proces využívania vlastných tukových zásob, prispieva k chudnutiu, podporuje normálny metabolizmus.",
-    "compound": "Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTA.",
-    "usage": "Nanášajte jemnými masážnymi pohybmi 3–5 minút 2-krát denne. Pred nanesením vykonajte test znášanlivosti na pokožke.",
-    "contraindications": "Individuálna neznášanlivosť zložiek. Vyhnite sa kontaktu s očami. Nepoužívať u detí do 3 rokov a priamo na otvorené rany.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
+    "niche": "Varices",
+    "form_factor": "gel en tube, 30 ml",
+    "short_description": "Gel à base d’extraits naturels conçu pour lutter contre les manifestations des varices",
+    "description": "Complexe de composants végétaux visant à normaliser l’état de l’organisme, réguler le métabolisme et activer le processus de perte de poids. Le complexe végétal : stimule l’utilisation des réserves de graisses, favorise l’amincissement, soutient un métabolisme normal",
+    "compound": "Aqua, Glycérine, Propylène Glycol, Alcool Dénaturé, Extrait d'Aesculus Hippocastanum, Extrait de Centella Asiatica, Extrait de racine de Ruscus Aculeatus, Extrait de Culture de Callus de Symphytum Officinale, Extrait de Fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère d'Ammonium Acryloyldiméthyltaurate/VP, Acide Salicylique, Menthol, Allantoïne, Hyaluronate de Sodium, Phénoxyéthanol, Éthylhexylglycérine, Disodium EDTА,",
+    "usage": "Appliquer par de légers massages pendant 3-5 minutes, 2 fois par jour. Faire un test de tolérance cutanée avant application",
+    "contraindications": "Intolérance individuelle aux composants. Éviter le contact avec les yeux. Ne pas utiliser chez les enfants de moins de 3 ans ni sur des plaies ouvertes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "keramin": {
     "title": "Keramin",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "301 avis",
-    "niche": "Pleseň",
-    "form_factor": "kartónová škatuľka, technický návod, tuba 30 ml",
-    "short_description": "Krém s baktericídnym účinkom zameraný na boj s prejavmi plesní.",
-    "description": "Obsahuje bioaktívne zložky so širokým spektrom dermatologických a kozmetických vlastností. Podporuje normálnu mikroflóru a má upokojujúci účinok na pokožku. Má keratolytický účinok a odstraňuje zrohovatené vrstvy pokožky. Zvlhčuje a zmäkčuje pokožku. Podporuje a stimuluje obnovu buniek epidermis. Je určený na udržanie normálneho stavu pokožky.",
-    "compound": "Aqua, Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Caprylic/Capric Triglyceride, Chamomilla Recutita Flower Extract, Butyrospermum Parkii Butter, Niacinamide, Zinc Oxide, Propolis Extract, Cocos Nucifera Oil, Sulfur, Alcloxa, Salicylic Acid, Salix Alba Bark Extract, Betula Alba Bark/Leaf Extract, Juniperus Oxycedrus Wood Oil, Polysorbate 80, Melaleuca Alternifolia Leaf Oil, Mentha Piperita Oil, Xanthan Gum, 4-Terpineol, Piroctone Olamine, Phenoxyethanol, Ethylhexylglycerin, BHT, Disodium EDTA, Linalool, Limonene.",
-    "usage": "Nanášajte na dobre očistenú a suchú pokožku postihnutého miesta ľahkými masážnymi pohybmi zdola nahor. Pred použitím urobte test znášanlivosti pokožky na zložky prípravku.",
-    "contraindications": "Vyhnite sa kontaktu s očami. Nepoužívať u detí do 3 rokov, tehotných a dojčiacich žien. Nepoužívať na otvorené rany.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Mycose",
+    "form_factor": "boîte en carton, notice, tube 30 ml",
+    "short_description": "Crème à action bactéricide destinée à lutter contre les manifestations de mycoses",
+    "description": "Contient des composants bioactifs aux larges propriétés dermatologiques et cosmétiques. Favorise une flore cutanée normale et procure un effet apaisant. Possède une action kératolytique, élimine les couches cornées de la peau. Hydrate et adoucit la peau, stimule le renouvellement cellulaire de l’épiderme. Conçu pour maintenir la peau en bon état",
+    "compound": "Aqua, Glycerin, Alcool Cetearyl, Paraffinum Liquidum, Stéarate PEG-100, Stéarate de Glycéryle, Triglycéride Caprylique/Caprique, Extrait de Fleur de Chamomila Recutita, Beurre de Butyrospermum Parkii, Niacinamide, Oxyde de Zinc, Extrait de Propolis, Huile de Cocos Nucifera, Soufre, Аlcloxa, Acide Salicylique, Extrait d'Écorce de Salix Alba, Extrait d'Écorce/Feuille de Betula Alba, Huile de Bois de Juniperus Oxycedrus, Polysorbate 80, Huile de Feuille de Melaleuca Alternifolia, Huile de Mentha Piperita, Gomme Xanthane,  4-Terpinéol, Piroctone Olamine, Phénoxyéthanol, Éthylhexylglycérine, BHT, Disodium EDTА, Linalool, Limonène",
+    "usage": "Appliquer sur une peau propre et sèche de la zone affectée par de légers mouvements de bas en haut. Faire impérativement un test de tolérance cutanée avant utilisation. <span class=\"color:red\">Attention :</span> éviter le contact avec les yeux",
+    "contraindications": "Ne pas appliquer chez les enfants de moins de 3 ans, les femmes enceintes ou allaitantes. Ne pas appliquer sur des plaies ouvertes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "delislim": {
     "title": "Delislim",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "333 avis",
-    "niche": "Сhudnutie",
-    "form_factor": "kapsuly, 20 ks",
-    "short_description": "Kapsuly s rastlinnými extraktmi na aktiváciu metabolických procesov a redukciu hmotnosti.",
-    "description": "Kapsuly na chudnutie obsahujú prírodné zložky: extrakt z plodov guavy, extrakt zo zeleného čaju a extrakt z horkého pomaranča, ktoré pôsobia silným komplexným účinkom a umožňujú zbaviť sa nadbytočných kilogramov na dlhý čas.",
-    "compound": "Extrakt z plodov guavy, extrakt zo zeleného čaju (5 % kofeín), extrakt z horkého pomaranča (6 % synefrín), maltodextrín, konzervant: kyselina citrónová.",
-    "usage": "Dospelí: 1 kapsula 2-krát denne 30 minút pred jedlom.\nTrvanie užívania – 1 mesiac, v prípade potreby je možné kúru zopakovať.",
-    "contraindications": "Kontraindikované u detí a tehotných žien.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Perte de poids",
+    "form_factor": "gélules, 20 pcs",
+    "short_description": "Gélules à base d’extraits végétaux pour activer le métabolisme et favoriser la perte de poids",
+    "description": "Gélules minceur contenant des composants naturels : extrait de goyave, extrait de thé vert et extrait d’orange amère. Ils exercent une action complexe et durable permettant de se débarrasser des kilos superflus",
+    "compound": "Extrait de fruit de goyave, extrait de thé vert (5% caféine), extrait d’orange amère (6% synéphrine), maltodextrine, conservateur : acide citrique",
+    "usage": "Adultes : 1 gélule 2 fois par jour, 30 minutes avant les repas. Durée : 1 mois, renouvelable si nécessaire",
+    "contraindications": "Contre-indiqué chez les enfants et les femmes enceintes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "ophtalax": {
     "title": "Ophtalax",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "333 avis",
-    "niche": "Zrak",
-    "form_factor": "kapsuly v blistri po 10 ks",
-    "short_description": "Produkt pre oči, ktorý zastavuje vekové zhoršovanie zraku.",
-    "description": "Vyvážená formula vyvinutá na zachovanie zdravia zraku. Produkt obsahuje vitamíny a mikroelementy s antioxidačnými vlastnosťami, základné živiny pre fungovanie systému ochrany očí pred oxidačným poškodením a zastavuje vekové zhoršovanie zraku.",
-    "compound": "Extrakt z koreňa žihľavy, želatína (obal kapsuly), mikrokryštalická celulóza (plnivo), extrakt z koreňa valeriány, citrát zinočnatý trihydrát, stearan horečnatý (plnivo), oxid kremičitý (protihrudkujúce činidlo), vitamín B6, vitamín B2, vitamín B1, vitamín B12.",
-    "usage": "Dospelí: 2 kapsuly denne pred jedlom. Trvanie užívania – 2 mesiace. V prípade potreby je možné kúru zopakovať. ODPORÚČANÁ DENNÁ DÁVKA: 2 kapsuly.",
-    "contraindications": "Individuálna neznášanlivosť ktorejkoľvek zo zložiek. Len pre dospelých, zakázané do 18 rokov. Uchovávajte mimo dosahu detí.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Vision",
+    "form_factor": "gélules en blister de 10 pcs",
+    "short_description": "Produit pour les yeux qui ralentit la dégénérescence visuelle liée à l’âge",
+    "description": "Formule équilibrée conçue pour préserver la santé oculaire. Contient des vitamines et des oligo-éléments aux propriétés antioxydantes, nutriments essentiels pour protéger les yeux des dommages oxydatifs et ralentir la perte de vision liée à l’âge",
+    "compound": "Extrait de racine d’ortie, gélatine (enveloppe), cellulose microcristalline (excipient), extrait de racine de valériane, citrate de zinc trihydraté, stéarate de magnésium (excipient), dioxyde de silicium (anti-agglomérant), vitamines B6, B2, B1, B12",
+    "usage": "Adultes: 2 gélules par jour avant les repas. Durée d’une cure: 2 mois. Cure renouvelable si nécessaire. DOSE QUOTIDIENNE RECOMMANDÉE: 2 gélules",
+    "contraindications": "Intolérance individuelle à tout ingrédient. Réservé aux adultes, interdit aux moins de 18 ans. Tenir hors de portée des enfants",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
   "rectin": {
     "title": "Rectin",
-    "category": "Pre zdravie",
+    "category": "Pour la santé",
     "review_count": "333 avis",
-    "niche": "Hemoroidy",
-    "form_factor": "gél v tube",
-    "short_description": "Produkt na rastlinnej báze, spevňuje steny ciev a predchádza rozvoju hemoroidov.",
-    "description": "Gél s ľahkým chladivým účinkom, ktorý umožňuje zmierniť bolesť a znížiť zápal. Obsahuje široké spektrum biologicky aktívnych zložiek: extrakty centelly ázijskej, pagaštanu, harmančeka, ruscusu, kostihoja, troxerutínu, kofeínu, alantoínu, vitamínu B3, kyseliny hyalurónovej.",
-    "compound": "Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTA.",
-    "usage": "Nanášajte jemnými masážnymi pohybmi 3–5 minút 2-krát denne. Pred použitím urobte test znášanlivosti na pokožke. Odporúča sa používať 1–2-krát denne.",
-    "contraindications": "Individuálna neznášanlivosť ktorejkoľvek zo zložiek. Len pre dospelých, zakázané do 18 rokov. Uchovávajte mimo dosahu detí.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte na suchom mieste, nedostupnom pre deti, pri teplote nepresahujúcej +25 °C."
+    "niche": "Hémorroïdes",
+    "form_factor": "gel en tube",
+    "short_description": "Produit à base de plantes, renforce les parois des vaisseaux et prévient le développement des hémorroïdes",
+    "description": "Gel à léger effet rafraîchissant, qui aide à soulager la douleur et réduire l’inflammation. Contient un large spectre de composants bioactifs : extraits de centella asiatica, marron d’Inde, camomille, petit houx, consoude, troxérutine, caféine, allantoïne, vitamine B3, acide hyaluronique",
+    "compound": "Aqua, Glycérine, Propylène Glycol, Alcool Dénaturé, Extrait d'Aesculus Hippocastanum, Extrait de Centella Asiatica, Extrait de Racine de Ruscus Aculeatus, Extrait de Culture de Callus de Symphytum Officinale, Extrait de Fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère d'Ammonium Acryloyldiméthyltaurate/VP, Acide Salicylique, Menthol, Allantoïne, Hyaluronate de Sodium, Phénoxyéthanol, Éthylhexylglycérine, Disodium EDTА",
+    "usage": "Appliquer par de légers massages pendant 3-5 minutes, 2 fois par jour. Faire un test de tolérance cutanée avant utilisation. Utiliser 1 à 2 fois par jour",
+    "contraindications": "intolérance individuelle à tout ingrédient. Réservé aux adultes, interdit aux moins de 18 ans. Tenir hors de portée des enfants",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
 
   "catalog": {
     "catalog_title": "Catalogue",
-    "catalog_item_health": "Pre zdravie",
-    "catalog_item_beauty": "Pre krásu",
-    "catalog_item_more_btn": "Zobraziť viac",
-    "catalog_item_count": "z"
+    "catalog_item_health": "Pour la santé",
+    "catalog_item_beauty": "Pour la beauté",
+    "catalog_item_more_btn": "Voir plus",
+    "catalog_item_count": "de"
   },
 
-
-
-
-
-
-
-
   "cookie": {
-    "cookie_title": "Zásady používania súborov cookie",
-    "cookie_description1": "Toto sú Zásady používania súborov cookie pre Newmoves, prístupné z <a class=\"policy__link\" href=\"contacts.html\">Kontaktný formulár</a>",
-    "cookie_index1": "Čo sú súbory cookie",
-    "cookie_description2": "Ako je bežnou praxou takmer na všetkých profesionálnych webových stránkach, aj táto stránka používa súbory cookie, čo sú malé súbory, ktoré sa stiahnu do vášho počítača, aby zlepšili vašu používateľskú skúsenosť. Táto stránka popisuje: aké informácie zhromažďujú, ako ich používame, prečo niekedy potrebujeme tieto súbory cookie ukladať. Taktiež vám ukážeme, ako môžete zabrániť ukladaniu týchto súborov cookie, hoci ich vypnutie môže znížiť alebo dokonca „pokaziť“ určité funkčné prvky tejto stránky.",
-    "cookie_description3": "Pre viac všeobecných informácií o súboroch cookie si pozrite článok na Wikipédii o HTTP Cookies.",
-    "cookie_index2": "Ako používame súbory cookie",
-    "cookie_description4": "Súbory cookie používame z rôznych dôvodov, ktoré sú uvedené nižšie. Žiaľ, vo väčšine prípadov neexistujú priemyselné štandardné možnosti, ako zakázať súbory cookie bez úplného vypnutia funkčnosti a vlastností, ktoré pridávajú tejto stránke.\n\nOdporúča sa ponechať všetky súbory cookie zapnuté, ak si nie ste istí, či ich potrebujete alebo nie – pre prípad, že sa používajú na poskytovanie služby, ktorú využívate.",
-    "cookie_index3": "Zakázanie súborov cookie",
-    "cookie_description5": "Nastavenie súborov cookie môžete zabrániť úpravou nastavení vo vašom prehliadači (pozrite si časť Pomocník vášho prehliadača pre pokyny). Upozornenie: zakázanie súborov cookie ovplyvní funkčnosť tejto a mnohých ďalších webových stránok, ktoré navštívite. Zakázanie súborov cookie zvyčajne znamená aj zakázanie určitých funkcií a vlastností tejto stránky. Preto sa odporúča, aby ste súbory cookie nevypínali.",
-    "cookie_index4": "Súbory cookie, ktoré nastavujeme",
-    "cookie_item_title1": "Súbory cookie súvisiace s účtom",
-    "cookie_item_description1": "Ak si u nás vytvoríte účet, súbory cookie sa používajú na správu procesu registrácie a na všeobecnú administráciu. Tieto súbory cookie sú zvyčajne odstránené, keď sa odhlásite, ale v niektorých prípadoch môžu zostať aj po odhlásení, aby si zapamätali vaše preferencie.",
-    "cookie_item_title2": "Súbory cookie súvisiace s prihlásením",
-    "cookie_item_description2": "Používame súbory cookie, keď ste prihlásení, aby sme si túto skutočnosť zapamätali. To zabraňuje tomu, aby ste sa museli prihlasovať zakaždým, keď navštívite novú stránku. Tieto súbory cookie sa zvyčajne odstránia alebo vymažú, keď sa odhlásite.",
-    "cookie_item_title3": "Súbory cookie súvisiace s odberom newslettera",
-    "cookie_item_description3": "Táto stránka ponúka služby newslettera alebo e-mailového odberu. Súbory cookie sa môžu používať na zapamätanie si, či ste už zaregistrovaní, a na zobrazenie určitých oznámení, ktoré sú platné iba pre prihlásených alebo odhlásených používateľov.",
-    "cookie_item_title4": "Súbory cookie súvisiace s formulármi",
-    "cookie_item_description4": "Keď odošlete údaje prostredníctvom formulárov (napríklad na kontaktných stránkach alebo vo formulároch na komentáre), môžu sa nastaviť súbory cookie na zapamätanie vašich používateľských údajov pre budúcu korešpondenciu.",
-    "cookie_index5": "Súbory cookie tretích strán",
-    "cookie_description6": "Táto stránka používa Google Analytics, jedno z najrozšírenejších a najdôveryhodnejších analytických riešení na webe, ktoré nám pomáha pochopiť, ako stránku používate, a nájsť spôsoby, ako zlepšiť vaše skúsenosti.Tieto cookies môžu sledovať napríklad: ako dlho zostanete na stránke, ktoré stránky navštívite, aby sme mohli naďalej vytvárať zaujímavý obsah.",
-    "cookie_description7": "Viac informácií o súboroch cookie Google Analytics nájdete na oficiálnej stránke Google Analytics.",
-    "cookie_index6": "En savoir plus",
-    "cookie_description8": "Ak stále hľadáte viac informácií, môžete nás kontaktovať prostredníctvom jedného z našich preferovaných kontaktných spôsobov: <a class=\"policy__link\" href=\"contacts.html\">Kontaktný formulár</a>"
+    "cookie_title": "Politique relative aux cookies",
+    "cookie_description1": "Ceci est la Politique de Cookies de Newmoves, accessible depuis le <a class=\"policy__link\" href=\"contacts.html\">formulaire de contact</a>",
+    "cookie_index1": "Que sont les cookies?",
+    "cookie_description2": "Comme c’est une pratique courante sur presque tous les sites professionnels, ce site utilise des cookies, qui sont de petits fichiers téléchargés sur votre ordinateur afin d’améliorer votre expérience. Cette page décrit quelles informations ils collectent, comment nous les utilisons et pourquoi nous devons parfois stocker ces cookies. Nous expliquerons également comment vous pouvez empêcher l’enregistrement de ces cookies, mais sachez que cela peut dégrader ou « casser » certaines fonctionnalités du site.",
+    "cookie_description3": "Pour plus d’informations générales sur les cookies, consultez l’article Wikipédia sur les cookies HTTP.",
+    "cookie_index2": "Comment utilisons-nous les cookies?",
+    "cookie_description4": "Nous utilisons les cookies pour diverses raisons détaillées ci-dessous. Malheureusement, dans la plupart des cas, il n’existe pas d’options standards dans l’industrie pour désactiver les cookies sans désactiver complètement les fonctionnalités qu’ils ajoutent à ce site. Il est donc recommandé de laisser tous les cookies activés si vous n’êtes pas sûr d’en avoir besoin ou s’ils sont utilisés pour fournir un service que vous utilisez.",
+    "cookie_index3": "Désactivation des cookies",
+    "cookie_description5": "Vous pouvez empêcher l’installation des cookies en modifiant les paramètres de votre navigateur (voir l’Aide de votre navigateur pour savoir comment faire). Sachez que la désactivation des cookies affectera la fonctionnalité de ce site et de nombreux autres sites que vous visitez. La désactivation des cookies entraînera généralement la désactivation de certaines fonctionnalités et services de ce site. Il est donc recommandé de ne pas les désactiver.",
+    "cookie_index4": "Les cookies que nous installons",
+    "cookie_item_title1": "Cookies liés au compte",
+    "cookie_item_description1": "Si vous créez un compte chez nous, nous utilisons des cookies pour la gestion du processus d’inscription et l’administration générale. Ces cookies sont généralement supprimés lorsque vous vous déconnectez, mais dans certains cas, ils peuvent rester pour mémoriser vos préférences lorsque vous êtes déconnecté.",
+    "cookie_item_title2": "Cookies de connexion",
+    "cookie_item_description2": "Nous utilisons des cookies lorsque vous êtes connecté afin de nous souvenir de ce fait. Cela vous évite d’avoir à vous reconnecter chaque fois que vous visitez une nouvelle page. Ces cookies sont généralement supprimés ou effacés lors de la déconnexion, afin que seules les zones réservées soient accessibles en étant connecté.",
+    "cookie_item_title3": "Cookies liés aux newsletters par e-mail",
+    "cookie_item_description3": "Ce site propose des services d’abonnement à une newsletter ou par e-mail, et des cookies peuvent être utilisés pour se souvenir si vous êtes déjà inscrit, et pour savoir s’il faut afficher certaines notifications valables uniquement pour les utilisateurs abonnés ou désabonnés.",
+    "cookie_item_title4": "Cookies liés aux formulaires",
+    "cookie_item_description4": "Lorsque vous soumettez des données via un formulaire (par exemple sur une page de contact ou de commentaires), des cookies peuvent être définis afin de mémoriser vos informations pour de futures correspondances.",
+    "cookie_index5": "Cookies tiers",
+    "cookie_description6": "Ce site utilise Google Analytics, l’une des solutions d’analyse les plus répandues et fiables sur le web, pour nous aider à comprendre comment vous utilisez le site et comment améliorer votre expérience. Ces cookies peuvent suivre, par exemple, le temps que vous passez sur le site et les pages que vous visitez, afin que nous puissions continuer à créer du contenu attractif.",
+    "cookie_description7": "Pour plus d’informations sur les cookies de Google Analytics, consultez la page officielle de Google Analytics.",
+    "cookie_index6": "Informations complémentaires",
+    "cookie_description8": "Si vous recherchez encore plus d’informations, vous pouvez nous contacter par l’un de nos moyens privilégiés: <a class=\"policy__link\" href=\"contacts.html\">formulaire de contact</a>"
   },
 
   "orderpageform": {
-    "orderpageform_title": "OBJEDNÁVKOVÝ FORMULÁR!",
+    "orderpageform_title": "PASSER COMMANDE!",
     "orderpageform_name": "Nom",
     "orderpageform_tel": "Téléphone",
     "orderpageform_email": "E-mail",
-    "orderpageform_count": "Množstvo",
-    "orderpageform_btn": "Objednať",
-    "orderpageform_promo_plh": "Voucher",
-    "orderpageform_promo_btn": "Použiť",
-    "orderpageform_price": "Cena",
-    "orderpageform_quantity": "Množstvo",
-    "orderpageform_discount": "Zľava",
-    "orderpageform_total": "Suma"
+    "orderpageform_count": "Quantité",
+    "orderpageform_btn": "Commander",
+    "orderpageform_promo_plh": "Bon d’achat",
+    "orderpageform_promo_btn": "Appliquer",
+    "orderpageform_price": "Prix",
+    "orderpageform_quantity": "Quantité",
+    "orderpageform_discount": "Remise",
+    "orderpageform_total": "Montant"
   },
+
   "product_info": {
     "currency": "€",
     "guavital": {
@@ -2050,16 +2047,15 @@
       "newPrice": "80"
     }
   },
+
   "success": {
-    "success_title": "Ďakujeme za vašu objednávku!",
-    "success_text1": "Ďakujeme, že ste si vybrali našu spoločnosť! < br/> Spojíme sa s vami na čísle +7 (499) 703 14 76 v priebehu niekoľkých minút na upresnenie detailov objednávky.",
-    "success_text2": "<span class=\"js-success-product-name\"></span> obnovil zdravie tisícom ľudí. <br/> Ste na správnej ceste!",
-    "success_text3": "Priemerný čas čakania na hovor: <span class=\"color\">5 minút</span>",
-    "success_text4": "Dostupnosť na sklade: <span class=\"color\">Na sklade</span>",
-    "success_text5": "Zostatok na sklade: <span class=\"color\"><span class=\"js-product-residue\">60</span> kusov</span>"
+    "success_title": "Merci pour votre commande!",
+    "success_text1": "Merci d’avoir choisi notre entreprise ! <br/> Nous vous contacterons au numéro +7 (499) 703 14 76 dans quelques minutes pour préciser les détails de la commande.",
+    "success_text2": "<span class=\"js-success-product-name\"></span> a déjà rétabli la santé de milliers de personnes. <br/> Vous êtes sur la bonne voie!",
+    "success_text3": "Temps moyen d’attente de l’appel: <span class=\"color\">5 minutes</span>",
+    "success_text4": "Disponibilité du produit en stock: <span class=\"color\">Disponible</span>",
+    "success_text5": "Stock restant: <span class=\"color\"><span class=\"js-product-residue\">60</span> pièces</span>"
   },
-
-
 
 
   "reviews": {
