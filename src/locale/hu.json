@@ -1931,14 +1931,14 @@
     "orderpageform_name": "Név",
     "orderpageform_tel": "Telefon",
     "orderpageform_email": "E-mail",
-    "orderpageform_count": "mennyiség",
+    "orderpageform_count": "Mennyiség",
     "orderpageform_btn": "Megrendelés",
-    "orderpageform_promo_plh": "Ваучер",
-    "orderpageform_promo_btn": "Применить",
-    "orderpageform_price": "Цена",
-    "orderpageform_quantity": "Количество",
-    "orderpageform_discount": "Скидка",
-    "orderpageform_total": "Сума"
+    "orderpageform_promo_plh": "Kupon",
+    "orderpageform_promo_btn": "Alkalmazni",
+    "orderpageform_price": "Ár",
+    "orderpageform_quantity": "Mennyiség",
+    "orderpageform_discount": "Kedvezmény",
+    "orderpageform_total": "Összeg"
   },
   "product_info": {
     "currency": "€",

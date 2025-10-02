@@ -838,6 +838,8 @@
     }
   ],
 
+
+
   "footer": {
     "footer_menu_item1": "Catalog",
     "footer_menu_item2": "Despre noi",
@@ -1932,12 +1934,12 @@
     "orderpageform_email": "E-mail",
     "orderpageform_count": "cantitatea",
     "orderpageform_btn": "Comandați",
-    "orderpageform_promo_plh": "Ваучер",
-    "orderpageform_promo_btn": "Применить",
-    "orderpageform_price": "Цена",
-    "orderpageform_quantity": "Количество",
-    "orderpageform_discount": "Скидка",
-    "orderpageform_total": "Сума"
+    "orderpageform_promo_plh": "Voucher",
+    "orderpageform_promo_btn": "Aplicați",
+    "orderpageform_price": "Preț",
+    "orderpageform_quantity": "Cantitate",
+    "orderpageform_discount": "Reducere",
+    "orderpageform_total": "Suma"
   },
   "product_info": {
     "currency": "€",
@@ -2050,6 +2052,8 @@
     "success_text4": "Prezența mărfurilor în stoc <span class=\"color\">În stoc</span>",
     "success_text5": "Restul <br/> În stoc <span class=\"color\"><span class=\"js-product-residue\">60</span> bucăți</span>"
   },
+
+
   "reviews": {
     "reviews_beauty_age_skin": [
       {
