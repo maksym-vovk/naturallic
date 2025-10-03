@@ -145,11 +145,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -174,8 +174,8 @@
       ],
       "text": "305 recensioni",
       "desc": "Gel con effetto rinfrescante per combattere le manifestazioni delle vene varicose.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "IN DETTAGLIO"
     },
@@ -945,13 +945,13 @@
       "niche": "Campo: Dimagrimento"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1607,8 +1607,8 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Per la salute",
     "review_count": "305 recensioni",
     "niche": "Varici",
@@ -1948,8 +1948,8 @@
       "salePrice": "28",
       "newPrice": "120"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "29",
       "newPrice": "99"
     },
@@ -8305,11 +8305,11 @@
         "text": "Affrontano perfettamente qualsiasi disturbo agli occhi. Infiammazione, secchezza, lacrimazione, disagio: tutto viene rimosso. Anche la vista migliora!"
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
+        "src": "img/review_trovazin_1.png",
         "name": "Vittoria Martinazzo",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8333,13 +8333,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra ha rimosso pesantezza e gonfiore dalle gambe già nei primi giorni. Mi sento molto meglio. Un aiuto efficace per le persone che soffrono di vene varicose."
+        "text": "Trovazin ha rimosso pesantezza e gonfiore dalle gambe già nei primi giorni. Mi sento molto meglio. Un aiuto efficace per le persone che soffrono di vene varicose."
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
+        "src": "img/review_trovazin_2.png",
         "name": "Giacomo Pellegrini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8363,13 +8363,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho provato Wintex Ultra la scorsa settimana. Buon gel, dalla prima applicazione ho sentito sollievo. Continuerò ad usare."
+        "text": "Ho provato Trovazin la scorsa settimana. Buon gel, dalla prima applicazione ho sentito sollievo. Continuerò ad usare."
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
+        "src": "img/review_trovazin_3.png",
         "name": "Doriana Petrucci",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8393,13 +8393,13 @@
             "type": "empty"
           }
         ],
-        "text": "Un ottimo gel Wintex Ultra con un piacevole effetto di raffreddamento. Si assorbe rapidamente e dona sollievo! Soddisfatta al 100%!"
+        "text": "Un ottimo gel Trovazin con un piacevole effetto di raffreddamento. Si assorbe rapidamente e dona sollievo! Soddisfatta al 100%!"
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
+        "src": "img/review_trovazin_4.png",
         "name": "Elena Martini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8427,9 +8427,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
+        "src": "img/review_trovazin_5.png",
         "name": "Marcello Luciani",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8453,13 +8453,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mio figlio usa Wintex Ultra e mi ha consigliato. Un ottimo gel per coloro che vivono con le vene varicose o trascorrono un'intera giornata in piedi. Allevia la pesantezza, il dolore, il gonfiore."
+        "text": "Mio figlio usa Trovazin e mi ha consigliato. Un ottimo gel per coloro che vivono con le vene varicose o trascorrono un'intera giornata in piedi. Allevia la pesantezza, il dolore, il gonfiore."
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
+        "src": "img/review_trovazin_6.png",
         "name": "Isabella Mardoni",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinioneа</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinioneа</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8483,13 +8483,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho buttato via tutte le creme e gli unguenti, ho lasciato solo Wintex Ultra. Un prodotto eccellente ad un buon prezzo. Aiuta! Sento l'effetto subito dopo l'applicazione!"
+        "text": "Ho buttato via tutte le creme e gli unguenti, ho lasciato solo Trovazin. Un prodotto eccellente ad un buon prezzo. Aiuta! Sento l'effetto subito dopo l'applicazione!"
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
+        "src": "img/review_trovazin_7.png",
         "name": "Alba Ramelli",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8513,13 +8513,13 @@
             "type": "empty"
           }
         ],
-        "text": "Dopo aver applicato il gel Wintex Ultra, le vene sono diventate davvero meno evidenti. Le reti vascolari sono scomparse. Uso Wintex Ultra due volte l'anno e nessun problema!"
+        "text": "Dopo aver applicato il gel Trovazin, le vene sono diventate davvero meno evidenti. Le reti vascolari sono scomparse. Uso Trovazin due volte l'anno e nessun problema!"
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
+        "src": "img/review_trovazin_8.png",
         "name": "Violetta Rinaldi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8543,13 +8543,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho ordinato Wintex Ultra per mia madre, è molto contenta. Dice che si sente molto meglio con questo gel. Le gambe si gonfiano di meno, i crampi e il dolore hanno smesso di disturbarla."
+        "text": "Ho ordinato Trovazin per mia madre, è molto contenta. Dice che si sente molto meglio con questo gel. Le gambe si gonfiano di meno, i crampi e il dolore hanno smesso di disturbarla."
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
+        "src": "img/review_trovazin_9.png",
         "name": "Zara Ferragni",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinioneа</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinioneа</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8573,13 +8573,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra rimuove il dolore, le vene e le reti vascolari diventano meno evidenti. È comodo che non sia necessario cercarlo da nessuna parte, è possibile ordinare su Internet e ottenerlo davanti alla porta di casa."
+        "text": "Trovazin rimuove il dolore, le vene e le reti vascolari diventano meno evidenti. È comodo che non sia necessario cercarlo da nessuna parte, è possibile ordinare su Internet e ottenerlo davanti alla porta di casa."
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
+        "src": "img/review_trovazin_10.png",
         "name": "Federica Monti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8607,9 +8607,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
+        "src": "img/review_trovazin_11.png",
         "name": "Elisa Dorian",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8633,13 +8633,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho provato diversi unguenti e creme per le vene varicose, Wintex Ultra è il miglior rimedio. Ottima composizione naturale ed efficace effetto. La pesantezza alle gambe è passata, mi sento benissimo!"
+        "text": "Ho provato diversi unguenti e creme per le vene varicose, Trovazin è il miglior rimedio. Ottima composizione naturale ed efficace effetto. La pesantezza alle gambe è passata, mi sento benissimo!"
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
+        "src": "img/review_trovazin_12.png",
         "name": "Emily Pagano",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8666,9 +8666,9 @@
         "text": "Dopo un corso di utilizzo, le gambe hanno smesso di far male, crampi e gonfiore sono scomparsi! Le vene non si infiammano più. Voglio consolidare il risultato con un altro corso."
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
+        "src": "img/review_trovazin_13.png",
         "name": "Alessio Pagano",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8696,9 +8696,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
+        "src": "img/review_trovazin_14.png",
         "name": "Laura Marconi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -8722,13 +8722,13 @@
             "type": "empty"
           }
         ],
-        "text": "Con l'aiuto di Wintex Ultra ho riguadagnato la mia leggerezza nelle gambe e mi sono sbarazzata delle vene varicose. Pro: buona composizione, consistenza leggera e aroma gradevole. Non ci sono svantaggi!"
+        "text": "Con l'aiuto di Trovazin ho riguadagnato la mia leggerezza nelle gambe e mi sono sbarazzata delle vene varicose. Pro: buona composizione, consistenza leggera e aroma gradevole. Non ci sono svantaggi!"
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
+        "src": "img/review_trovazin_15.png",
         "name": "Erika Pellegrino",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Trovazin",
         "rating_text": "Ottima qualità!",
         "stars": [
           {

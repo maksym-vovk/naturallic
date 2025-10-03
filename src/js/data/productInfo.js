@@ -9,12 +9,12 @@ export const productsInfo = {
             salePrice: "508",
             newPrice: "1690",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1402523',
             niche: 'Varice',
             country: 'Romania',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "511",
             newPrice: "2034",
         },
@@ -199,12 +199,12 @@ export const productsInfo = {
             salePrice: "508",
             newPrice: "1690",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1402524',
             niche: 'Visszerek',
             country: 'Hungary',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "511",
             newPrice: "2034",
         },
@@ -389,12 +389,12 @@ export const productsInfo = {
             salePrice: "28",
             newPrice: "120",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Varici',
             country: 'Italy',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "29",
             newPrice: "99",
         },
@@ -579,12 +579,12 @@ export const productsInfo = {
             salePrice: "508",
             newPrice: "1690",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Křečové žíly',
             country: 'Czech',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "511",
             newPrice: "2034",
         },
@@ -769,12 +769,12 @@ export const productsInfo = {
             salePrice: "43",
             newPrice: "190",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Варикоза',
             country: 'Bulgaria',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "43",
             newPrice: "149",
         },
@@ -959,12 +959,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Varikoos',
             country: 'Estonia',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "25",
             newPrice: "73",
         },
@@ -1149,12 +1149,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Proširene vene',
             country: 'Croatia',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "24",
             newPrice: "82",
         },
@@ -1339,12 +1339,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Venų varikozė',
             country: 'Lithuania',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "25",
             newPrice: "73",
         },
@@ -1529,12 +1529,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Varikoze',
             country: 'Latvia',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "25",
             newPrice: "73",
         },
@@ -1719,12 +1719,12 @@ export const productsInfo = {
             salePrice: "28",
             newPrice: "120",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Varizes',
             country: 'Portugal',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "29",
             newPrice: "99",
         },
@@ -1909,12 +1909,12 @@ export const productsInfo = {
             salePrice: "94",
             newPrice: "416",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Żylaki',
             country: 'Poland',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "93",
             newPrice: "323",
         },
@@ -2099,12 +2099,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Krčne žile',
             country: 'Slovenia',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "24",
             newPrice: "82",
         },
@@ -2289,12 +2289,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Kŕčové žily',
             country: 'Slovakia',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "24",
             newPrice: "82",
         },
@@ -2479,12 +2479,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Varices',
             country: 'Belgium',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "24",
             newPrice: "82",
         },
@@ -2669,12 +2669,12 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "112",
         },
-        wintex: {
+        trovazin: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Κιρσοί',
             country: 'Greece',
-            productName: 'Wintex Ultra',
+            productName: 'Trovazin',
             salePrice: "24",
             newPrice: "82",
         },

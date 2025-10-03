@@ -147,11 +147,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -176,8 +176,8 @@
       ],
       "text": "305 opinii",
       "desc": "Żel o działaniu schładzającym mający na celu zwalczanie objawów żylaków.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "Szczegóły"
     },
@@ -948,13 +948,13 @@
       "niche": "Zastosowanie: Odchudzanie"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1611,8 +1611,8 @@
     "suitability": "2 lata",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Dla zdrowia",
     "review_count": "305 opinii",
     "niche": "Żylaki",
@@ -1950,8 +1950,8 @@
       "salePrice": "94",
       "newPrice": "416"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "93",
       "newPrice": "323"
     },
@@ -8171,11 +8171,11 @@
         "text": "Doskonale radzą sobie z wszelkimi dolegliwościami. Zapalenia, suchość, łzawienie, dyskomfort - wszystko eliminują. Wzrok także się poprawia!"
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
+        "src": "img/review_trovazin_1.png",
         "name": "Alicja Kowalska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8199,13 +8199,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra złagodził obrzęk i ciężkość nóg już w pierwszych dniach. Ułatwiło to znacznie życie. Skuteczna pomoc dla osób cierpiących na żylaki."
+        "text": "Trovazin złagodził obrzęk i ciężkość nóg już w pierwszych dniach. Ułatwiło to znacznie życie. Skuteczna pomoc dla osób cierpiących na żylaki."
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
+        "src": "img/review_trovazin_2.png",
         "name": "Tomasz Nowak",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8229,13 +8229,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wypróbowałem Wintex Ultra w zeszłym tygodniu. Dobry żel, poczułem ulgę już po pierwszym użyciu. Będę kontynuował stosowanie."
+        "text": "Wypróbowałem Trovazin w zeszłym tygodniu. Dobry żel, poczułem ulgę już po pierwszym użyciu. Będę kontynuował stosowanie."
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
+        "src": "img/review_trovazin_3.png",
         "name": "Katarzyna Wiśniewska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8259,13 +8259,13 @@
             "type": "empty"
           }
         ],
-        "text": "Doskonały żel Wintex Ultra z przyjemnym chłodzącym efektem. Szybko się wchłania i przynosi ulgę! Jestem w 100% zadowolona!"
+        "text": "Doskonały żel Trovazin z przyjemnym chłodzącym efektem. Szybko się wchłania i przynosi ulgę! Jestem w 100% zadowolona!"
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
+        "src": "img/review_trovazin_4.png",
         "name": "Anna Lewandowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8293,9 +8293,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
+        "src": "img/review_trovazin_5.png",
         "name": "Michał Zieliński",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8319,13 +8319,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mój syn używał Wintex Ultra i polecił mi go. Świetny żel dla osób cierpiących na żylaki lub spędzających cały dzień na stojąco. Łagodzi ciężkość, ból, obrzęki."
+        "text": "Mój syn używał Trovazin i polecił mi go. Świetny żel dla osób cierpiących na żylaki lub spędzających cały dzień na stojąco. Łagodzi ciężkość, ból, obrzęki."
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
+        "src": "img/review_trovazin_6.png",
         "name": "Ewa Kamińska",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8349,13 +8349,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wyrzuciłam wszystkie kremy i maści, zostawiłam tylko Wintex Ultra. Doskonały produkt w przystępnej cenie. Pomaga! Efekt odczuwam od razu po nałożeniu!"
+        "text": "Wyrzuciłam wszystkie kremy i maści, zostawiłam tylko Trovazin. Doskonały produkt w przystępnej cenie. Pomaga! Efekt odczuwam od razu po nałożeniu!"
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
+        "src": "img/review_trovazin_7.png",
         "name": "Julia Nowakowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8379,13 +8379,13 @@
             "type": "empty"
           }
         ],
-        "text": "Po zastosowaniu żelu Wintex Ultra żyły stały się mniej widoczne. Sieci naczyniowe zniknęły. Używam Wintex Ultra dwukrotnie w roku i nie mam żadnych problemów!"
+        "text": "Po zastosowaniu żelu Trovazin żyły stały się mniej widoczne. Sieci naczyniowe zniknęły. Używam Trovazin dwukrotnie w roku i nie mam żadnych problemów!"
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
+        "src": "img/review_trovazin_8.png",
         "name": "Zofia Majewska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8409,13 +8409,13 @@
             "type": "empty"
           }
         ],
-        "text": "Zamówiłam Wintex Ultra dla mojej mamy, jest bardzo zadowolona. Mówi, że czuje się o wiele lepiej z tym żelem. Nogi mniej puchną, skurcze i ból ustąpiły."
+        "text": "Zamówiłam Trovazin dla mojej mamy, jest bardzo zadowolona. Mówi, że czuje się o wiele lepiej z tym żelem. Nogi mniej puchną, skurcze i ból ustąpiły."
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
+        "src": "img/review_trovazin_9.png",
         "name": "Marta Kaczmarek",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8439,13 +8439,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra łagodzi ból, żyły i siatki naczyniowe stają się mniej widoczne. Wygodnie, że można zamówić przez internet i otrzymać pod drzwi."
+        "text": "Trovazin łagodzi ból, żyły i siatki naczyniowe stają się mniej widoczne. Wygodnie, że można zamówić przez internet i otrzymać pod drzwi."
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
+        "src": "img/review_trovazin_10.png",
         "name": "Agnieszka Lewicka",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8473,9 +8473,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
+        "src": "img/review_trovazin_11.png",
         "name": "Magdalena Sobczak",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8499,13 +8499,13 @@
             "type": "empty"
           }
         ],
-        "text": "Próbowałam różnych maści i kremów na żylaki, Wintex Ultra to najlepszy wybór. Świetny naturalny skład i skuteczne działanie. Ciężkość w nogach minęła, czuję lekkość!"
+        "text": "Próbowałam różnych maści i kremów na żylaki, Trovazin to najlepszy wybór. Świetny naturalny skład i skuteczne działanie. Ciężkość w nogach minęła, czuję lekkość!"
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
+        "src": "img/review_trovazin_12.png",
         "name": "Dorota Szymańska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8532,9 +8532,9 @@
         "text": "Po kuracji nogi przestały boleć, skurcze i obrzęki zniknęły! Nie ma już zapalenia żył.Planuję utrwalić efekt powtórną kuracją."
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
+        "src": "img/review_trovazin_13.png",
         "name": "Krzysztof Jankowski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8562,9 +8562,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
+        "src": "img/review_trovazin_14.png",
         "name": "Barbara Pietrzak",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -8588,13 +8588,13 @@
             "type": "empty"
           }
         ],
-        "text": "Dzięki Wintex Ultra odzyskałam lekkość nóg i pozbyłam się gwiazdek naczyniowych +. Zalety: dobry skład, lekka tekstura i przyjemny zapach. Zero wad!"
+        "text": "Dzięki Trovazin odzyskałam lekkość nóg i pozbyłam się gwiazdek naczyniowych +. Zalety: dobry skład, lekka tekstura i przyjemny zapach. Zero wad!"
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
+        "src": "img/review_trovazin_15.png",
         "name": "Beata Kowalczyk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {

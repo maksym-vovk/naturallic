@@ -147,11 +147,11 @@
     },
     {
       "label": "Top prekė",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -176,8 +176,8 @@
       ],
       "text": "305 atsiliepimai",
       "desc": "Gelis su vėsinančiu poveikiu, skirtas kovoti su venų varikozės apraiškomis.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "DAUGIAU"
     },
@@ -948,13 +948,13 @@
       "niche": "Kryptis: Lieknėjimas"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1611,8 +1611,8 @@
     "suitability": "2 metai",
     "keep": "Laikyti sausoje, vaikams nepasiekiamoje vietoje, ne aukštesnėje kaip +25°C temperatūroje."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Sveikatos palaikymui",
     "review_count": "305 atsiliepimai",
     "niche": "Venų varikozė",
@@ -1950,8 +1950,8 @@
       "salePrice": "26",
       "newPrice": "112"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "25",
       "newPrice": "73"
     },
@@ -8166,13 +8166,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Viktorija Virkelytė",
-        "text": "Wintex Ultra pašalino kojų sunkumą ir patinimą jau pirmosiomis dienomis. Tapo daug lengviau. Veiksminga pagalba žmonėms, kenčiantiems nuo varikozės.",
+        "text": "Trovazin pašalino kojų sunkumą ir patinimą jau pirmosiomis dienomis. Tapo daug lengviau. Veiksminga pagalba žmonėms, kenčiantiems nuo varikozės.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8198,11 +8198,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Marius Bružas",
-        "text": "Išbandžiau Wintex Ultra praėjusią savaitę. Geras gelis, tik pradėjęs naudoti pajutau palengvėjimą. Tepsiuosi ir toliau",
+        "text": "Išbandžiau Trovazin praėjusią savaitę. Geras gelis, tik pradėjęs naudoti pajutau palengvėjimą. Tepsiuosi ir toliau",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8228,11 +8228,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": " Dovilė Petrakienė",
-        "text": "Wintex Ultra gelis yra puikus, su maloniu vėsinamuoju efektu. Greitai įsigeria ir suteikia palengvėjimą! Esu 100% patenkinta!",
+        "text": "Trovazin gelis yra puikus, su maloniu vėsinamuoju efektu. Greitai įsigeria ir suteikia palengvėjimą! Esu 100% patenkinta!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8258,8 +8258,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Orinta Simanavičiūtė",
         "text": "Patinimas ir sunkumas dingo, nustojo skaudėti blauzdas. Atskiras ačiū už greitą pristatymą ir išsamų konsultavimą telefonu.",
@@ -8288,11 +8288,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Daumantas Martinaitis",
-        "text": "Sūnus naudoja Wintex Ultra, rekomendavo ir man. Puikus gelis tiems, kas turi varikozę ar visą dieną praleidžia stovėdami. Mažina sunkumą, skausmą, patinimą.",
+        "text": "Sūnus naudoja Trovazin, rekomendavo ir man. Puikus gelis tiems, kas turi varikozę ar visą dieną praleidžia stovėdami. Mažina sunkumą, skausmą, patinimą.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8318,11 +8318,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">išreiškėа</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">išreiškėа</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Indrė Mardosaitė",
-        "text": "Išmečiau visus kremus ir tepalus, palikau tik Wintex Ultra. Puikus produktas už malonią kainą. Padeda! Efektą jaučiu iš karto, tik pasitepus!",
+        "text": "Išmečiau visus kremus ir tepalus, palikau tik Trovazin. Puikus produktas už malonią kainą. Padeda! Efektą jaučiu iš karto, tik pasitepus!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8348,11 +8348,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Aida Rimelienė",
-        "text": "Po Wintex Ultra gelio naudojimo venos mažiau matosi. Kraujagyslių tinklelis išnyko. Naudoju Wintex Ultra kursais dukart metuose ir daugiau jokių problemų!",
+        "text": "Po Trovazin gelio naudojimo venos mažiau matosi. Kraujagyslių tinklelis išnyko. Naudoju Trovazin kursais dukart metuose ir daugiau jokių problemų!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8378,11 +8378,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Violeta Jakutytė",
-        "text": "Užsakiau Wintex Ultra mamai, ji labai patenkinta. Sako, kad tepantis šiuo geliu jai pasidarė daug geriau. Kojos mažiau tinsta, nebekankina mėšlungiai ir skausmas.",
+        "text": "Užsakiau Trovazin mamai, ji labai patenkinta. Sako, kad tepantis šiuo geliu jai pasidarė daug geriau. Kojos mažiau tinsta, nebekankina mėšlungiai ir skausmas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8408,11 +8408,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">išreiškėа</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">išreiškėа</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Živilė Buivydaitė",
-        "text": "Wintex Ultra mažina skausmą, venos ir kraujagyslių tinkleliai tampa mažiau matomi. Patogu, kad nereikia niekur eiti jo ieškoti, galima užsisakyti internetu ir jį atveš tiesiai prie tavo durų.",
+        "text": "Trovazin mažina skausmą, venos ir kraujagyslių tinkleliai tampa mažiau matomi. Patogu, kad nereikia niekur eiti jo ieškoti, galima užsisakyti internetu ir jį atveš tiesiai prie tavo durų.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8438,8 +8438,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Laisvūnė Bertašiūtė",
         "text": "Nuostabus gelis! Greitai įsigeria, maloniai vėsiną, turi lengvą konsistenciją ir malonų aromatą. Naudojuosi tik antrą savaitę, jau jaučiu rezultatą.",
@@ -8468,11 +8468,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Edita Stankuvienė",
-        "text": "Išbandžiau įvairius tepalus ir kremus nuo varikozės, Wintex Ultra — geriausia priemonė. Puiki natūrali sudėtis ir efektyvus poveikis. Sunkumas kojose praėjo, jaučiu lengvumą!",
+        "text": "Išbandžiau įvairius tepalus ir kremus nuo varikozės, Trovazin — geriausia priemonė. Puiki natūrali sudėtis ir efektyvus poveikis. Sunkumas kojose praėjo, jaučiu lengvumą!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8498,8 +8498,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Tautvydė Aleknavičienė",
         "text": "Po kurso naudojimo kojų nebeskauda, mėšlungiai ir tinimas išnyko! Venų uždegimas praėjo. Planuoju įtvirtinti rezultatą dar vienu kursu.",
@@ -8527,8 +8527,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Mantvydas Genys",
         "text": "Gelis veiksmingas, prieinama kaina. Neprisimenu, kad dar kokia nors priemonė būtų galėjusi taip ilgam pašalinti kojų sunkumo jausmą. Patenkintas veikimu ir efektyvumu!",
@@ -8557,11 +8557,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Laura Česnaitė",
-        "text": "Naudojant Wintex Ultra susigrąžinau kojų lengvumą ir atsikračiau venų mazgelių. Privalumai: gera sudėtis, lengva tekstūra ir malonus aromatas. Trūkumų nematau!",
+        "text": "Naudojant Trovazin susigrąžinau kojų lengvumą ir atsikračiau venų mazgelių. Privalumai: gera sudėtis, lengva tekstūra ir malonus aromatas. Trūkumų nematau!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8587,8 +8587,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Trovazin",
         "rating_text": "Puiki kokybė!",
         "name": "Goda Vilimienė",
         "text": "Maloniai vėsina, mažina skausmą, naktį nebekamuoja mėšlungis. Efektą pajutau nuo pirmųjų dienų, ir kasdien buvo vis geriau!",

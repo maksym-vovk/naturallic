@@ -147,11 +147,11 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -176,8 +176,8 @@
       ],
       "text": "305 kommentaari",
       "desc": "Jahutava efektiga geel aitab võidelda varikoosi sümptomitega.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -948,13 +948,13 @@
       "niche": "Sihtrühm: Kaalulangetus"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1611,8 +1611,8 @@
     "suitability": "2 aastat",
     "keep": "Hoida kuivas, lastele kättesaamatus kohas, temperatuuril kuni +25°С."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Tervisele",
     "review_count": "305 kommentaari",
     "niche": "Varikoos",
@@ -1950,8 +1950,8 @@
       "salePrice": "26",
       "newPrice": "112"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "25",
       "newPrice": "73"
     },
@@ -8166,13 +8166,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Victoria Verber",
-        "text": "Wintex Ultra aitas juba esimeste päevadega vabaneda jalgade raskustundest ja paistetusest. Tunnen end nüüd palju paremini. See on hea abivahend neile, kes kannatavad varikoosi all.",
+        "text": "Trovazin aitas juba esimeste päevadega vabaneda jalgade raskustundest ja paistetusest. Tunnen end nüüd palju paremini. See on hea abivahend neile, kes kannatavad varikoosi all.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8198,11 +8198,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Marcel Luciano",
-        "text": "Proovisin Wintex Ultrat eelmine nädal. See on hea geel ja kohe pärast esimest kasutuskorda tundsin end paremini. Jätkan kasutamist.",
+        "text": "Proovisin Trovazin eelmine nädal. See on hea geel ja kohe pärast esimest kasutuskorda tundsin end paremini. Jätkan kasutamist.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8228,11 +8228,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Dorina Petrak",
-        "text": "Wintex Ultra on väga hea geel mõnusa jahutava efektiga. Imendub kiiresti ja parandab enesetunnet! Olen 100% rahul!",
+        "text": "Trovazin on väga hea geel mõnusa jahutava efektiga. Imendub kiiresti ja parandab enesetunnet! Olen 100% rahul!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8258,8 +8258,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Olena Sparks",
         "text": "Jalad ei ole enam paistes ega rasked ja sääred ei valuta enam. Suur tänu kiire kohaletoimetamise ja põhjaliku telefonikonsultatsiooni eest!",
@@ -8288,11 +8288,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Joshua Martin",
-        "text": "Poeg kasutab Wintex Ultrat ja soovitas mulle ka. See on tõesti väga hea geel neile, kel on varikoos või kes peavad terve päeva püsti olema. Võtab valu, paistetuse ja raskustunde ära.",
+        "text": "Poeg kasutab Trovazin ja soovitas mulle ka. See on tõesti väga hea geel neile, kel on varikoos või kes peavad terve päeva püsti olema. Võtab valu, paistetuse ja raskustunde ära.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8318,11 +8318,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Isabella Mardono",
-        "text": "Viskasin kõik teised kreemid ja salvid ära. Alles jätsin ainult Wintex Ultra. See on suurepärane toode hea hinnaga. See tõesti aitab! Mõju on tunda kohe pärast esimest kasutuskorda!",
+        "text": "Viskasin kõik teised kreemid ja salvid ära. Alles jätsin ainult Trovazin. See on suurepärane toode hea hinnaga. See tõesti aitab! Mõju on tunda kohe pärast esimest kasutuskorda!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8348,11 +8348,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Alba Rimmel",
-        "text": "Pärast Wintex Ultraga määrimist on veresooni tõesti vähem näha. Veresoonte võrgustikke pole enam näha. Teen Wintex Ultraga kaks kuuri aastas ja kõik on korras!",
+        "text": "Pärast Trovazin määrimist on veresooni tõesti vähem näha. Veresoonte võrgustikke pole enam näha. Teen Trovazin kaks kuuri aastas ja kõik on korras!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8378,11 +8378,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Violet Ronaldo",
-        "text": "Tellisin Wintex Ultrat emale ja ta on väga rahul. Ütleb, et see geel on palju aidanud. Jalad ei ole enam nii paistes, ei krambita ega valuta.",
+        "text": "Tellisin Trovazin emale ja ta on väga rahul. Ütleb, et see geel on palju aidanud. Jalad ei ole enam nii paistes, ei krambita ega valuta.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8408,11 +8408,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Zara Ferran",
-        "text": "Wintex Ultra võtab valu ära ja veene ja veresoonte võrgustikke ei ole enam nii hästi näha. Hea, et ei pea seda ekstra hakkama kusagilt otsima. Saab tellida internetist endale koju.",
+        "text": "Trovazin võtab valu ära ja veene ja veresoonte võrgustikke ei ole enam nii hästi näha. Hea, et ei pea seda ekstra hakkama kusagilt otsima. Saab tellida internetist endale koju.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8438,8 +8438,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Frederica Suarez",
         "text": "Super geel! Imendub kiiresti ja annab mõnusa jaheda efekti. Geelil on kerge tekstuur ja meeldiv lõhn. Kasutan teist nädalat ja mõju on juba tunda.",
@@ -8468,11 +8468,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Eliza Darron",
-        "text": "Olen proovinud erinevaid varikoosi salve ja kreeme, kuid Wintex Ultra on neist kõige parem. Sellel on mõnus looduslik koostis ja see mõjub tõesti hästi. Jalad ei ole enam rasked. Tunnen, et mu jalad on jälle kerged!",
+        "text": "Olen proovinud erinevaid varikoosi salve ja kreeme, kuid Trovazin on neist kõige parem. Sellel on mõnus looduslik koostis ja see mõjub tõesti hästi. Jalad ei ole enam rasked. Tunnen, et mu jalad on jälle kerged!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8498,8 +8498,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Tina Alstair",
         "text": "Pärast kuuri läbimist mu jalad enam ei valuta, mul ei ole enam krampe ega paistetust! Ka veenipõletik on läinud. Kavatsen veel ühe kuuri läbi teha, et tulemus jääks veelgi kauem püsima.",
@@ -8527,8 +8527,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Marcus Lobio",
         "text": "Geel toimib ja on hea hinnaga. Ei mäleta, et oleks veel proovinud midagi, mis oleks aidanud tükiks ajaks vabaneda jalgade raskustundest. Olen tulemusega rahul!",
@@ -8557,11 +8557,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Laura Chesney",
-        "text": "Tänu Wintex Ultrale on mu jalad jälle kerged ning mul ei ole enam näha veresoonte kogumeid. Plussidena tooks välja selle hea koostise, kerge tekstuuri ja mõnusa lõhna. Miinuseid ausalt polegi!",
+        "text": "Tänu Trovazin on mu jalad jälle kerged ning mul ei ole enam näha veresoonte kogumeid. Plussidena tooks välja selle hea koostise, kerge tekstuuri ja mõnusa lõhna. Miinuseid ausalt polegi!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8587,8 +8587,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Trovazin",
         "rating_text": "Suurepärane toode!",
         "name": "Caytlin Tompson",
         "text": "Jahutab hästi ja võtab valu ära. Mul ei ole enam öösiti jalakrampe. Mõju on kohe esimestest päevadest tunda ja iga päevaga on enesetunne üha parem!",

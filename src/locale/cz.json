@@ -144,11 +144,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -173,8 +173,8 @@
       ],
       "text": "305 recenzí",
       "desc": "Chladivý gel určený proti příznakům křečových žil.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -945,13 +945,13 @@
       "niche": "Směr: Hubnutí"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1607,8 +1607,8 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Pro zdraví",
     "review_count": "305 recenzí",
     "niche": "Křečové žíly",
@@ -1946,8 +1946,8 @@
       "salePrice": "508",
       "newPrice": "1690"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "511",
       "newPrice": "2034"
     },
@@ -8167,11 +8167,11 @@
         "text": "Dokonale se vyrovnávají s jakýmikoli očními onemocněními. Záněty, suchost, slzení, nepohodlí-všechny jsou odstraněny. A zrak se zlepšuje!"
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
+        "src": "img/review_trovazin_1.png",
         "name": "Monika Kiššová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8195,13 +8195,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra odstranil závažnost a otoky z nohou již v prvních dnech. Bylo to mnohem lépe. Efektivní pomoc pro lidi, kteří trpí křečovými žilami."
+        "text": "Trovazin odstranil závažnost a otoky z nohou již v prvních dnech. Bylo to mnohem lépe. Efektivní pomoc pro lidi, kteří trpí křečovými žilami."
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
+        "src": "img/review_trovazin_2.png",
         "name": "Zdeněk Vrzal",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8225,13 +8225,13 @@
             "type": "empty"
           }
         ],
-        "text": "Zkoušel jsem Wintex Ultra minulý týden. Dobrý gel, od první aplikace jsem pocítil úlevu. Budu to dál používat."
+        "text": "Zkoušel jsem Trovazin minulý týden. Dobrý gel, od první aplikace jsem pocítil úlevu. Budu to dál používat."
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
+        "src": "img/review_trovazin_3.png",
         "name": "Blanka Kaprasová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8255,13 +8255,13 @@
             "type": "empty"
           }
         ],
-        "text": "Výborný gel Wintex Ultra s příjemným chladícím efektem. Rychle se vstřebává a poskytuje úlevu! Jsem spokojená na 100%!"
+        "text": "Výborný gel Trovazin s příjemným chladícím efektem. Rychle se vstřebává a poskytuje úlevu! Jsem spokojená na 100%!"
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
+        "src": "img/review_trovazin_4.png",
         "name": "Irena Kroupová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8289,9 +8289,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
+        "src": "img/review_trovazin_5.png",
         "name": "Stanislav Hruška",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8315,13 +8315,13 @@
             "type": "empty"
           }
         ],
-        "text": "Syn používá Wintex Ultra a doporučil mi. Skvělý gel pro ty, kteří žijí s křečovými žilami nebo tráví celý den ve stoje. Zmírňuje tíhu, bolest, otoky."
+        "text": "Syn používá Trovazin a doporučil mi. Skvělý gel pro ty, kteří žijí s křečovými žilami nebo tráví celý den ve stoje. Zmírňuje tíhu, bolest, otoky."
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
+        "src": "img/review_trovazin_6.png",
         "name": "Lucie Čumpelíková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8345,13 +8345,13 @@
             "type": "empty"
           }
         ],
-        "text": "Vyhodila jsem všechny krémy a masti, nechala jen Wintex Ultra. Vynikající prostředek za příjemnou cenu. Pomáhá! Účinek cítím ihned po aplikaci!"
+        "text": "Vyhodila jsem všechny krémy a masti, nechala jen Trovazin. Vynikající prostředek za příjemnou cenu. Pomáhá! Účinek cítím ihned po aplikaci!"
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
+        "src": "img/review_trovazin_7.png",
         "name": "Josefa Klementová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8375,13 +8375,13 @@
             "type": "empty"
           }
         ],
-        "text": "Po aplikaci gelu Wintex Ultra se žíly skutečně staly méně nápadnými. Cévní sítě zmizely. Používám Wintex Ultra kurzem dvakrát ročně a žádné problémy!"
+        "text": "Po aplikaci gelu Trovazin se žíly skutečně staly méně nápadnými. Cévní sítě zmizely. Používám Trovazin kurzem dvakrát ročně a žádné problémy!"
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
+        "src": "img/review_trovazin_8.png",
         "name": "Valentina Gregarová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8405,13 +8405,13 @@
             "type": "empty"
           }
         ],
-        "text": "Objednala jsem si Wintex Ultra pro maminku, je velmi spokojená. Říká, že je s tím gelem mnohem lépe. Nohy jsou méně oteklé, křeče a bolest přestaly obtěžovat."
+        "text": "Objednala jsem si Trovazin pro maminku, je velmi spokojená. Říká, že je s tím gelem mnohem lépe. Nohy jsou méně oteklé, křeče a bolest přestaly obtěžovat."
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
+        "src": "img/review_trovazin_9.png",
         "name": "Božena Rousová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8435,13 +8435,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra odstraňuje bolest, žíly a cévní sítě jsou méně viditelné. Je výhodné, že nemusíte nikam chodit, můžete si objednat na internetu a dostat to přimo ke dveřím."
+        "text": "Trovazin odstraňuje bolest, žíly a cévní sítě jsou méně viditelné. Je výhodné, že nemusíte nikam chodit, můžete si objednat na internetu a dostat to přimo ke dveřím."
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
+        "src": "img/review_trovazin_10.png",
         "name": "Lenka Spáčilová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8469,9 +8469,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
+        "src": "img/review_trovazin_11.png",
         "name": "Zdeňka Mášová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8495,13 +8495,13 @@
             "type": "empty"
           }
         ],
-        "text": "Zkoušela jsem různé masti a krémy na křečové žily, Wintex Ultra je nejlepší prostředek. Vynikající přírodní složení a účinný účinek. Tíha v nohách je pryč, cítím lehkost!"
+        "text": "Zkoušela jsem různé masti a krémy na křečové žily, Trovazin je nejlepší prostředek. Vynikající přírodní složení a účinný účinek. Tíha v nohách je pryč, cítím lehkost!"
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
+        "src": "img/review_trovazin_12.png",
         "name": "Gabriela Šikulová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8528,9 +8528,9 @@
         "text": "Po průběhu používání nohy přestaly bolet, zmizely křeče a otoky! Žíly již nejsou zanícené. Plánuji výsledek konsolidovat opakovaným kurzem."
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
+        "src": "img/review_trovazin_13.png",
         "name": "Filip Nedbal",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8558,9 +8558,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
+        "src": "img/review_trovazin_14.png",
         "name": "Ludmila Francová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8584,13 +8584,13 @@
             "type": "empty"
           }
         ],
-        "text": "Pomocí Wintex Ultra se vrátila lehkost nohou a zbavila jsem se cévních hvězdiček. Výhody: dobré složení, lehká struktura a příjemná vůně. Žádné nevýhody!"
+        "text": "Pomocí Trovazin se vrátila lehkost nohou a zbavila jsem se cévních hvězdiček. Výhody: dobré složení, lehká struktura a příjemná vůně. Žádné nevýhody!"
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
+        "src": "img/review_trovazin_15.png",
         "name": "Karel Kučera",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {

@@ -144,11 +144,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -173,8 +173,8 @@
       ],
       "text": "305 κριτικές",
       "desc": "Γέλη με δροσιστικό αποτέλεσμα για την καταπολέμηση των εκδηλώσεων των κιρσών.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -942,13 +942,13 @@
       "niche": "Κατεύθυνση: απώλεια βάρους"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1604,8 +1604,8 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Για την υγεία",
     "review_count": "305 κριτικές",
     "niche": "Κιρσοί",
@@ -1943,8 +1943,8 @@
       "salePrice": "26",
       "newPrice": "112"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "24",
       "newPrice": "82"
     },
@@ -8023,13 +8023,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βικτώρια Βέρμπερ",
-        "text": "Το Wintex Ultra αφαίρεσε το βάρος και το πρήξιμο από τα πόδια από τις πρώτες μέρες. Έγινε πολύ πιο εύκολο. Αποτελεσματική βοήθεια για όσους πάσχουν από κιρσούς.",
+        "text": "Το Trovazin αφαίρεσε το βάρος και το πρήξιμο από τα πόδια από τις πρώτες μέρες. Έγινε πολύ πιο εύκολο. Αποτελεσματική βοήθεια για όσους πάσχουν από κιρσούς.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8054,11 +8054,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρσέλο Λουτσιάνο",
-        "text": "Δοκίμασα το Wintex Ultra την προηγούμενη εβδομάδα. Καλό τζελ, από την πρώτη χρήση ένιωσα ανακούφιση. Θα συνεχίσω.",
+        "text": "Δοκίμασα το Trovazin την προηγούμενη εβδομάδα. Καλό τζελ, από την πρώτη χρήση ένιωσα ανακούφιση. Θα συνεχίσω.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8083,8 +8083,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δωρίνα Πετράκ",
         "text": "Υπέροχο τζελ με ευχάριστο δροσιστικό αποτέλεσμα. Απορροφάται γρήγορα και ανακουφίζει! 100% ικανοποιημένη.",
@@ -8112,8 +8112,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελένα Σπάρκς",
         "text": "Το πρήξιμο και η βαρύτητα εξαφανίστηκαν, οι γάμπες δεν πονάνε πια. Ευχαριστώ για την γρήγορη παράδοση και την αναλυτική συμβουλή.",
@@ -8141,11 +8141,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ιησούς Μαρτίν",
-        "text": "Ο γιος μου χρησιμοποιεί Wintex Ultra και μου το πρότεινε. Εξαιρετικό τζελ για όσους έχουν κιρσούς ή στέκονται όλη μέρα. Ανακουφίζει βάρος, πόνο και πρήξιμο.",
+        "text": "Ο γιος μου χρησιμοποιεί Trovazin και μου το πρότεινε. Εξαιρετικό τζελ για όσους έχουν κιρσούς ή στέκονται όλη μέρα. Ανακουφίζει βάρος, πόνο και πρήξιμο.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8170,11 +8170,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ισαβέλλα Μαρντόνο",
-        "text": "Πέταξα όλες τις κρέμες και αλοιφές, κράτησα μόνο το Wintex Ultra. Υπέροχο προϊόν σε καλή τιμή. Βοηθάει! Το αποτέλεσμα φαίνεται αμέσως.",
+        "text": "Πέταξα όλες τις κρέμες και αλοιφές, κράτησα μόνο το Trovazin. Υπέροχο προϊόν σε καλή τιμή. Βοηθάει! Το αποτέλεσμα φαίνεται αμέσως.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8199,11 +8199,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άλμπα Ρίμελ",
-        "text": "Μετά τη χρήση του Wintex Ultra οι φλέβες έγιναν λιγότερο εμφανείς. Οι φλεβικές γραμμές εξαφανίστηκαν. Χρησιμοποιώ δύο φορές τον χρόνο σε κύκλους και δεν έχω πρόβλημα.",
+        "text": "Μετά τη χρήση του Trovazin οι φλέβες έγιναν λιγότερο εμφανείς. Οι φλεβικές γραμμές εξαφανίστηκαν. Χρησιμοποιώ δύο φορές τον χρόνο σε κύκλους και δεν έχω πρόβλημα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8228,11 +8228,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βιολέτα Ρονάλντο",
-        "text": "Παρήγγειλα το Wintex Ultra για τη μητέρα μου· είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο άνετα με αυτό το τζελ. Το πρήξιμο μειώθηκε, οι κράμπες εξαφανίστηκαν.",
+        "text": "Παρήγγειλα το Trovazin για τη μητέρα μου· είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο άνετα με αυτό το τζελ. Το πρήξιμο μειώθηκε, οι κράμπες εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8257,11 +8257,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζάρα Φερράν",
-        "text": "Το Wintex Ultra αφαιρεί πόνο, οι φλέβες και οι φλεβικές γραμμές λιγοστεύουν. Και βολικά παραγγέλνεις από το ίντερνετ και το παίρνεις στην πόρτα.",
+        "text": "Το Trovazin αφαιρεί πόνο, οι φλέβες και οι φλεβικές γραμμές λιγοστεύουν. Και βολικά παραγγέλνεις από το ίντερνετ και το παίρνεις στην πόρτα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8286,8 +8286,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φρεντερική Σουάρες",
         "text": "Εξαιρετικό τζελ! Απορροφάται γρήγορα, δροσίζει, έχει ελαφριά υφή και άρωμα. Το χρησιμοποιώ δύο εβδομάδες, νιώθω ήδη το αποτέλεσμα.",
@@ -8315,11 +8315,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελίζα Ντάρον",
-        "text": "Δοκίμασα πολλές αλοιφές και κρέμες για κιρσούς, το Wintex Ultra είναι το καλύτερο. Εξαιρετική φυσική σύνθεση και αποτελεσματική δράση. Η βαρύτητα στα πόδια πέρασε, νιώθω ελαφριά!",
+        "text": "Δοκίμασα πολλές αλοιφές και κρέμες για κιρσούς, το Trovazin είναι το καλύτερο. Εξαιρετική φυσική σύνθεση και αποτελεσματική δράση. Η βαρύτητα στα πόδια πέρασε, νιώθω ελαφριά!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8344,8 +8344,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τίνα Άλσαρ",
         "text": "Μετά τον κύκλο τα πόδια δεν πονούν πια, οι κράμπες και τα πρηξίματα εξαφανίστηκαν. Οι φλέβες δεν φλεγμαίνουν. Σκοπεύω να επαναλάβω τον κύκλο για σταθερό αποτέλεσμα.",
@@ -8373,8 +8373,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μάρκος Λόμπιο",
         "text": "Αποτελεσματικό και οικονομικό τζελ. Δεν θυμάμαι άλλο προϊόν που να διώχνει τη βαρύτητα στα πόδια για τόσο καιρό. Πολύ ικανοποιημένος!",
@@ -8402,11 +8402,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λάουρα Τσέσνεϊ",
-        "text": "Με το Wintex Ultra επανέφερα την ελαφρότητα στα πόδια και ξεφορτώθηκα τις φλεβικές γραμμές. Συν: καλή σύνθεση, ελαφριά υφή, ωραίο άρωμα. Μείον: κανένα.",
+        "text": "Με το Trovazin επανέφερα την ελαφρότητα στα πόδια και ξεφορτώθηκα τις φλεβικές γραμμές. Συν: καλή σύνθεση, ελαφριά υφή, ωραίο άρωμα. Μείον: κανένα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8431,8 +8431,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κέιτλιν Τόμπσον",
         "text": "Δροσίζει ευχάριστα, αφαιρεί τον πόνο, οι κράμπες τη νύχτα εξαφανίστηκαν. Το αποτέλεσμα το ένιωσα από τις πρώτες μέρες και γινόταν όλο και καλύτερο!",

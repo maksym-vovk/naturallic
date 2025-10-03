@@ -145,11 +145,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -174,8 +174,8 @@
       ],
       "text": "305 recenzii",
       "desc": "Gel cu efect de răcire care vizează combaterea manifestărilor venelor varicoase.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -947,13 +947,13 @@
       "niche": "Direcție: Pierdere în greutate"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1609,8 +1609,8 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Pentru sănătate",
     "review_count": "305 recenzii",
     "niche": "Varice",
@@ -1948,8 +1948,8 @@
       "salePrice": "508",
       "newPrice": "1690"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "511",
       "newPrice": "2034"
     },
@@ -8321,11 +8321,11 @@
         "text": "Faceți față perfect oricăror afecțiuni oculare. Inflamație, uscăciune, lacrimă, disconfort — totul este eliminat. Vederea mea devine tot mai bună!"
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
+        "src": "img/review_trovazin_1.png",
         "name": "Victoria Verbaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8349,13 +8349,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra a eliminat greutatea și umflarea picioarelor în primele zile. A devenit mult mai ușor. Ajutor eficient pentru persoanele care suferă de vene varicoase."
+        "text": "Trovazin a eliminat greutatea și umflarea picioarelor în primele zile. A devenit mult mai ușor. Ajutor eficient pentru persoanele care suferă de vene varicoase."
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
+        "src": "img/review_trovazin_2.png",
         "name": "Marcel Boboc",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8379,13 +8379,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am încercat Wintex Ultra săptămâna trecută. Un gel bun, m-am simțit ușurat de la prima aplicare. Voi continua să-l folosesc."
+        "text": "Am încercat Trovazin săptămâna trecută. Un gel bun, m-am simțit ușurat de la prima aplicare. Voi continua să-l folosesc."
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
+        "src": "img/review_trovazin_3.png",
         "name": "Daniela Popa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8409,13 +8409,13 @@
             "type": "empty"
           }
         ],
-        "text": "Un minunat gel Wintex Ultra cu un efect de răcire plăcut. Absorbit rapid și oferă ușurare! Sunt 100% mulțumită!"
+        "text": "Un minunat gel Trovazin cu un efect de răcire plăcut. Absorbit rapid și oferă ușurare! Sunt 100% mulțumită!"
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
+        "src": "img/review_trovazin_4.png",
         "name": "Elene Cebotaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8443,9 +8443,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
+        "src": "img/review_trovazin_5.png",
         "name": "Dan Stănescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8469,13 +8469,13 @@
             "type": "empty"
           }
         ],
-        "text": "Fiul meu folosește Wintex Ultra și mi l-a recomandat. Un gel excelent pentru cei care trăiesc cu vene varicoase sau petrec toată ziua în picioare. Ameliorează greutatea, durerea, umflarea."
+        "text": "Fiul meu folosește Trovazin și mi l-a recomandat. Un gel excelent pentru cei care trăiesc cu vene varicoase sau petrec toată ziua în picioare. Ameliorează greutatea, durerea, umflarea."
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
+        "src": "img/review_trovazin_6.png",
         "name": "Eliza Cărămău",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8499,13 +8499,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am aruncat toate cremele și unguentele, am lăsat doar Wintex Ultra. Un instrument excelent la un preț plăcut. Ajută! Simt efectul imediat după aplicare!"
+        "text": "Am aruncat toate cremele și unguentele, am lăsat doar Trovazin. Un instrument excelent la un preț plăcut. Ajută! Simt efectul imediat după aplicare!"
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
+        "src": "img/review_trovazin_7.png",
         "name": "Ana Dumbravă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8529,13 +8529,13 @@
             "type": "empty"
           }
         ],
-        "text": "După aplicarea gelului Wintex Ultra, venele au devenit într-adevăr mai puțin vizibile. Rețelele vasculare au dispărut. Folosesc Wintex Ultra de două ori pe an și fără probleme!"
+        "text": "După aplicarea gelului Trovazin, venele au devenit într-adevăr mai puțin vizibile. Rețelele vasculare au dispărut. Folosesc Trovazin de două ori pe an și fără probleme!"
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
+        "src": "img/review_trovazin_8.png",
         "name": "Violeta Talpă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8559,13 +8559,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am comandat Wintex Ultra pentru mama mea, este foarte fericită. Ea spune că este mult mai ușor pentru ea cu acest gel. Picioarele se umflă mai puțin, crampele și durerea au încetat să mai deranjeze."
+        "text": "Am comandat Trovazin pentru mama mea, este foarte fericită. Ea spune că este mult mai ușor pentru ea cu acest gel. Picioarele se umflă mai puțin, crampele și durerea au încetat să mai deranjeze."
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
+        "src": "img/review_trovazin_9.png",
         "name": "Zarema Ghioc",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8589,13 +8589,13 @@
             "type": "empty"
           }
         ],
-        "text": "Wintex Ultra elimină durerea, venele și ochiurile vasculare devin mai puțin vizibile. Este convenabil că nu trebuie să mergeți nicăieri pentru el, îl puteți comanda online și îl puteți obține la ușă."
+        "text": "Trovazin elimină durerea, venele și ochiurile vasculare devin mai puțin vizibile. Este convenabil că nu trebuie să mergeți nicăieri pentru el, îl puteți comanda online și îl puteți obține la ușă."
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
+        "src": "img/review_trovazin_10.png",
         "name": "Dumitru Pavel",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8623,9 +8623,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
+        "src": "img/review_trovazin_11.png",
         "name": "Eleonora Flăcău",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8649,13 +8649,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am încercat diferite unguente și creme pentru varice, Wintex Ultra este cel mai bun remediu. Compoziție naturală excelentă și efect eficient. Greutatea în picioarele mele a trecut, mă simt ușor!"
+        "text": "Am încercat diferite unguente și creme pentru varice, Trovazin este cel mai bun remediu. Compoziție naturală excelentă și efect eficient. Greutatea în picioarele mele a trecut, mă simt ușor!"
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
+        "src": "img/review_trovazin_12.png",
         "name": "Tina Lucescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8682,9 +8682,9 @@
         "text": "După un curs de utilizare, picioarele au încetat să doară, crampele și edemele au dispărut! Venele nu mai sunt inflamate. Intenționez să consolidez rezultatul cu un curs repetat."
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
+        "src": "img/review_trovazin_13.png",
         "name": "Marius Marincă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8712,9 +8712,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
+        "src": "img/review_trovazin_14.png",
         "name": "Laura Teșco",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8738,13 +8738,13 @@
             "type": "empty"
           }
         ],
-        "text": "Cu ajutorul Wintex Ultra, mi-am recăpătat ușurința în picioare și am scăpat de asteriscuri vasculare. Pro: compoziție bună, textură ușoară și aromă plăcută. Nu are dezavantaje!"
+        "text": "Cu ajutorul Trovazin, mi-am recăpătat ușurința în picioare și am scăpat de asteriscuri vasculare. Pro: compoziție bună, textură ușoară și aromă plăcută. Nu are dezavantaje!"
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
+        "src": "img/review_trovazin_15.png",
         "name": "Catalina Matei",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Trovazin",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {

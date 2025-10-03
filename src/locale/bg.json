@@ -147,11 +147,11 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -176,8 +176,8 @@
       ],
       "text": "305 отзива",
       "desc": "Гелът има изсушаващ ефект, насочен към борба с проявите на разширени вени.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "ПОДРОБНО"
     },
@@ -948,13 +948,13 @@
       "niche": "Посока: Отслабване"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1611,8 +1611,8 @@
     "suitability": "2 години",
     "keep": "Съхранявайте на сухо място, недостъпно за деца, при температура не по-висока от +25°С."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "За здравето",
     "review_count": "305 отзива",
     "niche": "Варикоза",
@@ -1951,8 +1951,8 @@
       "salePrice": "43",
       "newPrice": "190"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "43",
       "newPrice": "149"
     },
@@ -8172,13 +8172,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Виктория Върбанов",
-        "text": "Wintex Ultra премахна тежестта и подуването от краката още в първите дни. Стана ми много по-леко! Ефективна помощ за хора, които страдат от разширени вени.",
+        "text": "Trovazin премахна тежестта и подуването от краката още в първите дни. Стана ми много по-леко! Ефективна помощ за хора, които страдат от разширени вени.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8204,11 +8204,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Мартин Дафинов",
-        "text": "Опитах Wintex Ultra миналата седмица. Добър гел, от първото приложение почувствах облекчение. Ще продължа да го използвам.",
+        "text": "Опитах Trovazin миналата седмица. Добър гел, от първото приложение почувствах облекчение. Ще продължа да го използвам.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8234,11 +8234,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Дорина Петракова",
-        "text": "Прекрасен гел Wintex Ultra с приятен охлаждащ ефект. Бързо се абсорбира и дава облекчение! Доволна съм на 100%!",
+        "text": "Прекрасен гел Trovazin с приятен охлаждащ ефект. Бързо се абсорбира и дава облекчение! Доволна съм на 100%!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8264,8 +8264,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Елена Севлиева",
         "text": "Подпухналостта и тежестта изчезнаха, прасците спряха да ме болят. Специални благодарности за бързата доставка и подробните консултации по телефона.",
@@ -8294,11 +8294,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Димо Димитров",
-        "text": "Синът ми го използва Wintex Ultra и ми го препоръча. Много добър гел за тези, които живеят с разширени вени или прекарват цял ден изправени. Облекчава тежестта, болката, подуването.",
+        "text": "Синът ми го използва Trovazin и ми го препоръча. Много добър гел за тези, които живеят с разширени вени или прекарват цял ден изправени. Облекчава тежестта, болката, подуването.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8324,11 +8324,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Изабела Манчева",
-        "text": "Изхвърлих всички кремове и мехлеми, оставих само Wintex Ultra. Превъзходно средство на приятна цена. Много добре помага! Усещам ефекта веднага след нанасяне!",
+        "text": "Изхвърлих всички кремове и мехлеми, оставих само Trovazin. Превъзходно средство на приятна цена. Много добре помага! Усещам ефекта веднага след нанасяне!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8354,11 +8354,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Мира Коева",
-        "text": "След прилагането на гел Wintex Ultra вените наистина станаха по-малко забележими. Съдовите мрежи изчезнаха. Използвам Wintex Ultra курса два пъти годишно и нямам проблеми!",
+        "text": "След прилагането на гел Trovazin вените наистина станаха по-малко забележими. Съдовите мрежи изчезнаха. Използвам Trovazin курса два пъти годишно и нямам проблеми!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8384,11 +8384,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Виктория Рангелова",
-        "text": "Поръчвах Wintex Ultra за майка, тя е много доволна. Казва, че й е много по-лесно с този гел. Краката се подуват по-малко, спазмите и болката вече не я притесняват.",
+        "text": "Поръчвах Trovazin за майка, тя е много доволна. Казва, че й е много по-лесно с този гел. Краката се подуват по-малко, спазмите и болката вече не я притесняват.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8414,11 +8414,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">изказаа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Зори Тодорова",
-        "text": "Wintex Ultra премахва болката, вените и съдовите мрежи стават по-малко забележими. Удобно е, че няма нужда да ходите никъде за него, можете да поръчате от интернет и да го получите до вратата.",
+        "text": "Trovazin премахва болката, вените и съдовите мрежи стават по-малко забележими. Удобно е, че няма нужда да ходите никъде за него, можете да поръчате от интернет и да го получите до вратата.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8444,8 +8444,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Тони Стоянова",
         "text": "Прекрасен гел! Бързо се абсорбира, придава приятно охлаждане, има лека консистенция и приятен аромат. Използвам втората седмица, вече усещам резултата.",
@@ -8474,11 +8474,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Бети Андонова",
-        "text": "Опитах различни мехлеми и кремове от разширени вени, Wintex Ultra — най-доброто лекарство. Страхотен естествен състав и ефективен ефект. Тежестта в краката отмина, чувствам лекота!",
+        "text": "Опитах различни мехлеми и кремове от разширени вени, Trovazin — най-доброто лекарство. Страхотен естествен състав и ефективен ефект. Тежестта в краката отмина, чувствам лекота!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8504,8 +8504,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Тина Михова",
         "text": "След курс на употреба краката спряха да ме болят, крампите и подуванията изчезнаха! Вените вече не се възпаляват. Смятам да затвърдя резултата с повторен курс.",
@@ -8533,8 +8533,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Марко Личев",
         "text": "Гелът е ефективен и на достъпна цена. Не помня, друго средство да може да облекчи тежестта в краката за дълго време. Доволен съм от действието и ефективността!",
@@ -8563,11 +8563,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Лора Чакърова",
-        "text": "С помощта на Wintex Ultra възвърнах лекотата в краката си и се отървах от паякообразните вени. Плюсове: добър състав, лека текстура и приятен аромат. Няма минуси!",
+        "text": "С помощта на Trovazin възвърнах лекотата в краката си и се отървах от паякообразните вени. Плюсове: добър състав, лека текстура и приятен аромат. Няма минуси!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8593,8 +8593,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Trovazin",
         "rating_text": "Отлично качество!",
         "name": "Кети Янева",
         "text": "Приятно охлажда, облекчава болката, конвулсиите спират да ви притесняват през нощта. Усетих ефекта от първите дни и всеки ден ми ставаше все по-добре!",

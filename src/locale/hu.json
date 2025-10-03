@@ -144,11 +144,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -173,8 +173,8 @@
       ],
       "text": "305 hozzászólás",
       "desc": "Hűsítő gél a visszerek tüneteinek leküzdésére.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -945,13 +945,13 @@
       "niche": "Irányzat: Fogyás"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1608,8 +1608,8 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Az egészségért",
     "review_count": "305 hozzászólás",
     "niche": "Visszerek",
@@ -1947,8 +1947,8 @@
       "salePrice": "508",
       "newPrice": "1690"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "511",
       "newPrice": "2034"
     },
@@ -8318,11 +8318,11 @@
         "text": "Kiválóan alkalmas mindenféle szembetegségre. Gyulladás, szárazság, könnyezés, kellemetlen érzés - mind elmúlik. És jobban is látok!"
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
+        "src": "img/review_trovazin_1.png",
         "name": "Borbély Viktória",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8346,13 +8346,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra már az első napokban megszüntette a lábam nehézkességét és duzzanatát. Sokkal könnyebbnek tűnik. Hatékony segítség a visszerességben szenvedőknek."
+        "text": "A Trovazin már az első napokban megszüntette a lábam nehézkességét és duzzanatát. Sokkal könnyebbnek tűnik. Hatékony segítség a visszerességben szenvedőknek."
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
+        "src": "img/review_trovazin_2.png",
         "name": "Lakatos Márk",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8376,13 +8376,13 @@
             "type": "empty"
           }
         ],
-        "text": "Múlt héten kipróbáltam a Wintex Ultra-t. Jó gél, már az első alkalmazástól kezdve megkönnyebbülést éreztem. Továbbra is használni fogom."
+        "text": "Múlt héten kipróbáltam a Trovazin. Jó gél, már az első alkalmazástól kezdve megkönnyebbülést éreztem. Továbbra is használni fogom."
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
+        "src": "img/review_trovazin_3.png",
         "name": "Petrák Dorina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8406,13 +8406,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra kiváló gél kellemes hűsítő hatással. Gyorsan felszívódik és megkönnyebbülést ad! 100%-ig elégedett vagyok!"
+        "text": "A Trovazin kiváló gél kellemes hűsítő hatással. Gyorsan felszívódik és megkönnyebbülést ad! 100%-ig elégedett vagyok!"
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
+        "src": "img/review_trovazin_4.png",
         "name": "Spák Olga",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8440,9 +8440,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
+        "src": "img/review_trovazin_5.png",
         "name": "Mezei János",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8466,13 +8466,13 @@
             "type": "empty"
           }
         ],
-        "text": "A fiam a Wintex Ultra-t használja, és nekem is ajánlotta. Nagyszerű gél azok számára, akik visszerekkel élnek, vagy egész nap állva töltik a napot. Enyhíti a nehézséget, a fájdalmat és a duzzanatot."
+        "text": "A fiam a Trovazin használja, és nekem is ajánlotta. Nagyszerű gél azok számára, akik visszerekkel élnek, vagy egész nap állva töltik a napot. Enyhíti a nehézséget, a fájdalmat és a duzzanatot."
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
+        "src": "img/review_trovazin_6.png",
         "name": "Maros Judit",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8496,13 +8496,13 @@
             "type": "empty"
           }
         ],
-        "text": "Kidobtam az összes krémet és kenőcsöt, és csak a Wintex Ultra maradt. Kiváló termék jó áron. Működik! Érzem a hatását, amint felkenem!"
+        "text": "Kidobtam az összes krémet és kenőcsöt, és csak a Trovazin maradt. Kiváló termék jó áron. Működik! Érzem a hatását, amint felkenem!"
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
+        "src": "img/review_trovazin_7.png",
         "name": "Rékasi A.",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8526,13 +8526,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra gél használata után a vénák valóban kevésbé láthatóvá váltak. A kidudorodó erek eltűntek. Évente kétszer használom a Wintex Ultra-t, és semmi gondom nincs!"
+        "text": "A Trovazin gél használata után a vénák valóban kevésbé láthatóvá váltak. A kidudorodó erek eltűntek. Évente kétszer használom a Trovazin, és semmi gondom nincs!"
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
+        "src": "img/review_trovazin_8.png",
         "name": "Halász Viola",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8556,13 +8556,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra-t édesanyámnak rendeltem, és nagyon elégedett vele. Azt mondja, sokkal jobban érzi magát ezzel a géllel. A lábai kevésbé duzzadtak, a görcsök és a fájdalom már nem jelentenek gondot."
+        "text": "A Trovazin édesanyámnak rendeltem, és nagyon elégedett vele. Azt mondja, sokkal jobban érzi magát ezzel a géllel. A lábai kevésbé duzzadtak, a görcsök és a fájdalom már nem jelentenek gondot."
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
+        "src": "img/review_trovazin_9.png",
         "name": "Bajusz Z.",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8586,13 +8586,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra enyhíti a fájdalmat, és kevésbé láthatóvá teszi a vénákat és a vénahálókat. Kényelmes, hogy nem kell sehova sem mennie érte, hanem online megrendelheted, és otthon átveheted."
+        "text": "A Trovazin enyhíti a fájdalmat, és kevésbé láthatóvá teszi a vénákat és a vénahálókat. Kényelmes, hogy nem kell sehova sem mennie érte, hanem online megrendelheted, és otthon átveheted."
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
+        "src": "img/review_trovazin_10.png",
         "name": "Szabó Fruzsina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8620,9 +8620,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
+        "src": "img/review_trovazin_11.png",
         "name": "Dudás Elza",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8646,13 +8646,13 @@
             "type": "empty"
           }
         ],
-        "text": "Többféle kenőcsöt és krémet kipróbáltam már a visszerekre, de a Wintex Ultra a legjobb. Kiváló természetes összetétel és hatékony hatás. Nem érzek semmi nehézséget a lábamban, könnyűnek érzem magam!"
+        "text": "Többféle kenőcsöt és krémet kipróbáltam már a visszerekre, de a Trovazin a legjobb. Kiváló természetes összetétel és hatékony hatás. Nem érzek semmi nehézséget a lábamban, könnyűnek érzem magam!"
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
+        "src": "img/review_trovazin_12.png",
         "name": "Jászai Tünde",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8679,9 +8679,9 @@
         "text": "Egy használat után már nem fáj a lábam, a görcsök és a duzzanat megszűnt! A vénák már nem gyulladnak be. Azt tervezem, hogy megismétlem a kúrát."
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
+        "src": "img/review_trovazin_13.png",
         "name": "Lajta Zoltán",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8709,9 +8709,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
+        "src": "img/review_trovazin_14.png",
         "name": "Csonka Laura",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8735,13 +8735,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra segítségével a lábaim újra könnyűek lettek, és megszabadultam a pókhálós vénáktól. Előnyök: jó összetétel, könnyű textúra és kellemes illat. Nincs semmi mínusz!"
+        "text": "A Trovazin segítségével a lábaim újra könnyűek lettek, és megszabadultam a pókhálós vénáktól. Előnyök: jó összetétel, könnyű textúra és kellemes illat. Nincs semmi mínusz!"
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
+        "src": "img/review_trovazin_15.png",
         "name": "Tóth Karolina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {

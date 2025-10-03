@@ -144,11 +144,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -173,8 +173,8 @@
       ],
       "text": "305 recenzija",
       "desc": "Gel s učinkom hlađenja usmjeren na borbu protiv manifestacija proširenih vena.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "DETALJNIJE"
     },
@@ -942,13 +942,13 @@
       "niche": "Smjer: Mršavljenje"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -1604,8 +1604,8 @@
     "suitability": "2 godine",
     "keep": "čuvati na suhom mjestu, izvan dohvata djece, na temperaturi ne višoj od +25°С."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Za zdravlje",
     "review_count": "305 recenzija",
     "niche": "Proširene vene",
@@ -1943,8 +1943,8 @@
       "salePrice": "26",
       "newPrice": "112"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "24",
       "newPrice": "82"
     },
@@ -8023,13 +8023,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Nada Stanić",
-        "text": "Wintex Ultra uklonio je težinu i oticanje nogu u prvim danima. Postalo je puno lakše. Učinkovita pomoć za ljude koji pate od proširenih vena.",
+        "text": "Trovazin uklonio je težinu i oticanje nogu u prvim danima. Postalo je puno lakše. Učinkovita pomoć za ljude koji pate od proširenih vena.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8054,11 +8054,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mateo Golik",
-        "text": "Isprobao sam Wintex Ultra prošli tjedan. Dobar gel, osjetio sam olakšanje od prve primjene. Nastavit ću ga koristiti.",
+        "text": "Isprobao sam Trovazin prošli tjedan. Dobar gel, osjetio sam olakšanje od prve primjene. Nastavit ću ga koristiti.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8083,11 +8083,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marta Veršić",
-        "text": "Fini gel Wintex Ultra s ugodnim efektom hlađenja. Brzo se upija i pruža olakšanje! Zadovoljna sam 100%!",
+        "text": "Fini gel Trovazin s ugodnim efektom hlađenja. Brzo se upija i pruža olakšanje! Zadovoljna sam 100%!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8112,8 +8112,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Jelena Blažić",
         "text": "Oteklina i težina su nestali, listovi su me prestali boljeti. Posebna hvala na brzoj isporuci i detaljnom telefonskom savjetovanju.",
@@ -8141,11 +8141,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martin Đurđić",
-        "text": "Moj sin koristi Wintex Ultra i preporučio mi je. Izvrstan gel za one koji žive s varikoznim venama ili provode cijeli dan stojeći. Ublažava težinu, bol, oticanje.",
+        "text": "Moj sin koristi Trovazin i preporučio mi je. Izvrstan gel za one koji žive s varikoznim venama ili provode cijeli dan stojeći. Ublažava težinu, bol, oticanje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8170,11 +8170,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Inga Marušić",
-        "text": "Bacila sam sve kreme i masti, ostavila samo Wintex Ultra. Izvrsno sredstvo po povoljnoj cijeni. Pomaže! Osjećam učinak odmah nakon nanošenja!",
+        "text": "Bacila sam sve kreme i masti, ostavila samo Trovazin. Izvrsno sredstvo po povoljnoj cijeni. Pomaže! Osjećam učinak odmah nakon nanošenja!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8199,11 +8199,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Katarina Alilović",
-        "text": "Nakon primjene gela Wintex Ultra, vene su doista postale manje vidljive. Vaskularne mreže su nestale. Koristim Wintex Ultra kurama dva puta godišnje i nema problema!",
+        "text": "Nakon primjene gela Trovazin, vene su doista postale manje vidljive. Vaskularne mreže su nestale. Koristim Trovazin kurama dva puta godišnje i nema problema!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8228,11 +8228,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Franja Mentečić",
-        "text": "Naručivala sam Wintex Ultra za mamu, vrlo je zadovoljna. Kaže da joj je puno lakše s ovim gelom. Noge su manje natečene, grčevi i bol prestali su smetati.",
+        "text": "Naručivala sam Trovazin za mamu, vrlo je zadovoljna. Kaže da joj je puno lakše s ovim gelom. Noge su manje natečene, grčevi i bol prestali su smetati.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8257,11 +8257,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kristina Božić",
-        "text": "Wintex Ultra uklanja bol, vene i vaskularne mreže postaju manje vidljive. Udobno je da ne morate nigdje ići za njim, možete naručiti na internetu i dobiti ga na vratima.",
+        "text": "Trovazin uklanja bol, vene i vaskularne mreže postaju manje vidljive. Udobno je da ne morate nigdje ići za njim, možete naručiti na internetu i dobiti ga na vratima.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8286,8 +8286,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tina Surić",
         "text": "Odličan gel! Brzo se upija, daje ugodno hlađenje, ima laganu konzistenciju i ugodnu aromu. Koristim ga drugi tjedan, već osjećam rezultat.",
@@ -8315,11 +8315,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Elizabeta Tokić",
-        "text": "Isprobala sam različite masti i kreme za proširene vene, Wintex Ultra — najbolje sredstvo. Izvrstan prirodni sastav i učinak. Težina u nogama je prošla, osjećam lakoću!",
+        "text": "Isprobala sam različite masti i kreme za proširene vene, Trovazin — najbolje sredstvo. Izvrstan prirodni sastav i učinak. Težina u nogama je prošla, osjećam lakoću!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8344,8 +8344,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gabrijela Alnar",
         "text": "Nakon kure korištenja, noge su prestale boljeti, grčevi i otekline su nestali! Vene se više ne upale. Planiram učvrstiti rezultat ponovljenom kurom.",
@@ -8373,8 +8373,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marko Šušak",
         "text": "Gel je učinkovit i pristupačan. Ne sjećam se da bi se neki drugi proizvod mogao riješiti težine u nogama. Zadovoljan sam djelovanjem i učinkovitošću!",
@@ -8402,11 +8402,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Željka Čekić",
-        "text": "Uz pomoć Wintex Ultar sam vratila lakoću u nogama i riješila se paukovih vena. Prednosti: dobar sastav, lagana tekstura i ugodan miris. Nema ni jednog minusa!",
+        "text": "Uz pomoć Trovazin sam vratila lakoću u nogama i riješila se paukovih vena. Prednosti: dobar sastav, lagana tekstura i ugodan miris. Nema ni jednog minusa!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8431,8 +8431,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Trovazin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Karmela Šokac",
         "text": "Ugodno se hladi, ublažava bol, grčevi su prestali gnjaviti noću. Učinak sam osjetila od prvih dana, a svakim danom je postajao sve bolje!",
