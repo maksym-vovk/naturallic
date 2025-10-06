@@ -799,10 +799,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -829,8 +829,8 @@
       ],
       "text": "267 ocen",
       "desc": "Rastlinski izdelek krepi stene krvnih žil in preprečuje razvoj hemoroidov.",
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
       "category": "health",
       "btn": "Podrobnejši podatki"
     }
@@ -1554,12 +1554,12 @@
       "niche": "Smer: Vizija"
     },
     {
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1874,12 +1874,12 @@
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "vasos-duo ": {
+  "vasos-duo": {
     "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 ocen",
     "niche": "Hemoroidy",
-    "form_factor": "gel v tubi",
+    "form_factor": "gel v tubi, 30 ml",
     "short_description": "Rastlinski izdelek krepi stene krvnih žil in preprečuje razvoj hemoroidov.",
     "description": "Gel z lahkim hladilnim učinkom, ki izdelku omogoča lajšanje bolečin in zmanjšanje vnetja. Vsebuje široko paleto biološko aktivnih sestavin: izvlečke Centella Asiatica, kostanja, kamilice, igle, gabeza, trokserutina, kofeina, alantoina, B3, hialuronske kisline.",
     "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
@@ -2033,7 +2033,7 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "vasos-duo ": {
+    "vasos-duo": {
       "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
@@ -9771,9 +9771,9 @@
         ]
       }
     ],
-    "reviews_vasos-duo ": [
+    "reviews_vasos-duo": [
       {
-        "src": "img/review_vasos-duo _1.png",
+        "src": "img/review_vasos-duo_1.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ivana Janežič",
@@ -9802,7 +9802,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _2.png",
+        "src": "img/review_vasos-duo_2.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ivanka Knez",
@@ -9831,7 +9831,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _3.png",
+        "src": "img/review_vasos-duo_3.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Novak",
@@ -9860,7 +9860,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _4.png",
+        "src": "img/review_vasos-duo_4.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Tomšič",
@@ -9889,7 +9889,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _5.png",
+        "src": "img/review_vasos-duo_5.png",
         "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martin Medved",
@@ -9918,7 +9918,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _6.png",
+        "src": "img/review_vasos-duo_6.png",
         "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Boštjan Furlan",
@@ -9947,7 +9947,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _7.png",
+        "src": "img/review_vasos-duo_7.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Zupan",
@@ -9976,7 +9976,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _8.png",
+        "src": "img/review_vasos-duo_8.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sabina Oblak",
@@ -10005,7 +10005,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _9.png",
+        "src": "img/review_vasos-duo_9.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Janja Tomažič",
@@ -10034,7 +10034,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _10.png",
+        "src": "img/review_vasos-duo_10.png",
         "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Janez Klemenčič",
@@ -10063,7 +10063,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _11.png",
+        "src": "img/review_vasos-duo_11.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Urška Erjavec",
@@ -10092,7 +10092,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _12.png",
+        "src": "img/review_vasos-duo_12.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Antonija Jerman",
@@ -10121,7 +10121,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _13.png",
+        "src": "img/review_vasos-duo_13.png",
         "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Jaka Perko",
@@ -10150,7 +10150,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _14.png",
+        "src": "img/review_vasos-duo_14.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Majda Marolt",
@@ -10179,7 +10179,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _15.png",
+        "src": "img/review_vasos-duo_15.png",
         "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Petrič",

@@ -802,10 +802,10 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -832,8 +832,8 @@
       ],
       "text": "267 kommentaari",
       "desc": "Taimset päritolu toode tugevdab veresoonte seinu ja ennetab hemorroide.",
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
       "category": "health",
       "btn": "ROHKEM INFOT"
     }
@@ -1560,12 +1560,12 @@
       "niche": "Sihtrühm: Nägemine"
     },
     {
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1881,12 +1881,12 @@
     "suitability": "2 aastat",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "vasos-duo ": {
+  "vasos-duo": {
     "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 kommentaari",
     "niche": "Hemorroidid",
-    "form_factor": "geel tuubis",
+    "form_factor": "geel tuubis, 30 ml",
     "short_description": "Taimset päritolu toode tugevdab veresoonte seinu ja ennetab hemorroide.",
     "description": "Jahutava efektiga geel aitab leevendada valu ja põletikku. Geel sisaldab rikkalikult bioloogiliselt aktiivseid koostisosi: Aasia vesinaba, hobukastani, teekummeli, torkava ruskuse, hariliku varemerohu ekstrakti; trokserutiini, kofeiini, allantoiini, B3-vitamiini, hüaluroonhapet.",
     "compound": "Vesi, glütseriin, propüleenglükool, denatureeritud alkohol, hobukastani ekstrakt, Aasia vesinaba ekstrakt, torkava ruskusejuure ekstrakt, hariliku varemerohu ekstrakt, teekummeliõie ekstrakt, niatsinamiid, trokserutiin, kofeiin, karbamiid, arginiin, ammooniumakrüüldimetüültaurat/VP kopolümeer, salitsüülhape, mentool, allantoiin, naatriumhüaluronaat, fenoksüetanool, etüülheksüülglütseriin, dinaatrium-EDTA.",
@@ -2035,7 +2035,7 @@
       "salePrice": "26",
       "newPrice": "109"
     },
-    "vasos-duo ": {
+    "vasos-duo": {
       "productName": "Vasos Duo",
       "salePrice": "24",
       "newPrice": "88"
@@ -9964,9 +9964,9 @@
         ]
       }
     ],
-    "reviews_vasos-duo ": [
+    "reviews_vasos-duo": [
       {
-        "src": "img/review_vasos-duo _1.png",
+        "src": "img/review_vasos-duo_1.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Kadri Mägi",
@@ -9996,7 +9996,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _2.png",
+        "src": "img/review_vasos-duo_2.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Kristiina Kuusk",
@@ -10026,7 +10026,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _3.png",
+        "src": "img/review_vasos-duo_3.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Anneli Vaher",
@@ -10056,7 +10056,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _4.png",
+        "src": "img/review_vasos-duo_4.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Lea Kask",
@@ -10086,7 +10086,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _5.png",
+        "src": "img/review_vasos-duo_5.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Toomas Saar",
@@ -10116,7 +10116,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _6.png",
+        "src": "img/review_vasos-duo_6.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Mart Lepik",
@@ -10146,7 +10146,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _7.png",
+        "src": "img/review_vasos-duo_7.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Piret Põld",
@@ -10176,7 +10176,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _8.png",
+        "src": "img/review_vasos-duo_8.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Laura Tamm",
@@ -10206,7 +10206,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _9.png",
+        "src": "img/review_vasos-duo_9.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Katrin Kivi",
@@ -10236,7 +10236,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _10.png",
+        "src": "img/review_vasos-duo_10.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Andres Mäe",
@@ -10266,7 +10266,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _11.png",
+        "src": "img/review_vasos-duo_11.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Siiri Kruus",
@@ -10296,7 +10296,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _12.png",
+        "src": "img/review_vasos-duo_12.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Maarja Nurk",
@@ -10326,7 +10326,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _13.png",
+        "src": "img/review_vasos-duo_13.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Jaan Välk",
@@ -10356,7 +10356,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _14.png",
+        "src": "img/review_vasos-duo_14.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Liina Saar",
@@ -10386,7 +10386,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _15.png",
+        "src": "img/review_vasos-duo_15.png",
         "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Vasos Duo",
         "rating_text": "Suurepärane toode!",
         "name": "Eva Kask",

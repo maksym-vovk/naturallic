@@ -802,10 +802,10 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -832,8 +832,8 @@
       ],
       "text": "267 atsauksmes",
       "desc": "Produkts uz augu bāzes, stiprina asinsvadu sieniņas un novērš hemoroīdu attīstību.",
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
       "category": "health",
       "btn": "SĪKĀK"
     }
@@ -1560,12 +1560,12 @@
       "niche": "Virziens: Redze"
     },
     {
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1881,12 +1881,12 @@
     "suitability": "2 gadi",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "vasos-duo ": {
+  "vasos-duo": {
     "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 atsauksmes",
     "niche": "Hemoroīdi",
-    "form_factor": "gels tubā",
+    "form_factor": "gels tubā, 30 ml.",
     "short_description": "produkts uz augu bāzes, stiprina asinsvadu sieniņas un novērš hemoroīdu attīstību.",
     "description": "Gels ar vieglu dzesējošu efektu, kas ļauj produktam noņemt sāpes un mazināt iekaisumu. Satur bioloģiski aktīvo sastāvdaļu bagātīgu klāstu: gotu kolas, kastaņa, kumelīšu, irbulenes, tauksaknes ekstrakti, trokserutīns, kofeīns, alantoīns, vitamīns B3, hialuronskābe.",
     "compound": "Aqua, Glycerin, Propylene Glycol, Alcohol Denat, Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА.",
@@ -2035,7 +2035,7 @@
       "salePrice": "26",
       "newPrice": "109"
     },
-    "vasos-duo ": {
+    "vasos-duo": {
       "productName": "Vasos Duo",
       "salePrice": "24",
       "newPrice": "88"
@@ -9964,9 +9964,9 @@
         ]
       }
     ],
-    "reviews_vasos-duo ": [
+    "reviews_vasos-duo": [
       {
-        "src": "img/review_vasos-duo _1.png",
+        "src": "img/review_vasos-duo_1.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Aija Mežavilka",
@@ -9996,7 +9996,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _2.png",
+        "src": "img/review_vasos-duo_2.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Zane Ķiršteina",
@@ -10026,7 +10026,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _3.png",
+        "src": "img/review_vasos-duo_3.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Inese Gailīte",
@@ -10056,7 +10056,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _4.png",
+        "src": "img/review_vasos-duo_4.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Evija Vērdiņa",
@@ -10086,7 +10086,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _5.png",
+        "src": "img/review_vasos-duo_5.png",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Raimonds Liepiņš",
@@ -10116,7 +10116,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _6.png",
+        "src": "img/review_vasos-duo_6.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Edgars Pētersons",
@@ -10146,7 +10146,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _7.png",
+        "src": "img/review_vasos-duo_7.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Antra Strazdiņa",
@@ -10176,7 +10176,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _8.png",
+        "src": "img/review_vasos-duo_8.png",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Vita Čepule",
@@ -10206,7 +10206,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _9.png",
+        "src": "img/review_vasos-duo_9.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Sieviete",
@@ -10236,7 +10236,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _10.png",
+        "src": "img/review_vasos-duo_10.png",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Valters Jansons",
@@ -10266,7 +10266,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _11.png",
+        "src": "img/review_vasos-duo_11.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Solvita Akmentiņa",
@@ -10296,7 +10296,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _12.png",
+        "src": "img/review_vasos-duo_12.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Madara Grēviņa",
@@ -10326,7 +10326,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _13.png",
+        "src": "img/review_vasos-duo_13.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Ivars Lācis",
@@ -10356,7 +10356,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _14.png",
+        "src": "img/review_vasos-duo_14.png",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Liena Balode",
@@ -10386,7 +10386,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo _15.png",
+        "src": "img/review_vasos-duo_15.png",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Brigita Zariņa",

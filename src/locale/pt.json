@@ -799,10 +799,10 @@
     },
     {
       "label": "Bater",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -829,8 +829,8 @@
       ],
       "text": "267 comentários",
       "desc": "O produto vegetal fortalece as paredes dos vasos sanguíneos e previne o desenvolvimento de hemorróidas.",
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
       "category": "health",
       "btn": "MAIS DETALHES"
     }
@@ -1554,12 +1554,12 @@
       "niche": "Direção: Visão"
     },
     {
-      "link": "vasos-duo .html",
-      "tag": "vasos-duo ",
-      "srcPhoto": "img/vasos-duo .png",
-      "srcPhotoWebp": "img/vasos-duo .webp",
-      "mobSrcPhoto": "img/vasos-duo -mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "link": "vasos-duo.html",
+      "tag": "vasos-duo",
+      "srcPhoto": "img/vasos-duo.png",
+      "srcPhotoWebp": "img/vasos-duo.webp",
+      "mobSrcPhoto": "img/vasos-duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1874,12 +1874,12 @@
     "suitability": "2 anos",
     "keep": "armazenar em local seco, fora do alcance das crianças, a uma temperatura não superior a +25°."
   },
-  "vasos-duo ": {
+  "vasos-duo": {
     "title": "Vasos Duo",
     "category": "Saúde",
     "review_count": "333 comentários",
     "niche": "Hemorróidas",
-    "form_factor": "gel em um tubo",
+    "form_factor": "gel em tubo, 30 ml",
     "short_description": "O produto vegetal fortalece as paredes dos vasos sanguíneos e previne o desenvolvimento de hemorróidas.",
     "description": "Um gel com ligeiro efeito refrescante, que permite ao produto aliviar a dor e reduzir a inflamação. Contém uma ampla gama de componentes biologicamente ativos: extratos de centela asiática, castanha, camomila, vassoura de açougueiro, confrei, troxerutina, cafeína, alantoína, B3, ácido hialurônico.",
     "compound": "Aqua, glicerina, propilenoglicol, álcool denat, extrato de Aesculus Hippocastanum, extrato de Centella Asiatica, extrato de raiz de Ruscus Aculeatus, extrato de cultura de calos de Symphytum Officinale, extrato de flor de Chamomilla Recutita, niacinamida, troxerutina, cafeína, uréia, arginina, acriloildimetiltaurato de amônio/VP Copoly mer, ácido salicílico, mentol, alantoína, hialuronato de sódio, fenoxietanol, etilhexilglicerina, EDTA dissódico.",
@@ -2033,7 +2033,7 @@
       "salePrice": "27",
       "newPrice": "123"
     },
-    "vasos-duo ": {
+    "vasos-duo": {
       "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
@@ -9771,9 +9771,9 @@
         ]
       }
     ],
-    "reviews_vasos-duo ": [
+    "reviews_vasos-duo": [
       {
-        "src": "img/review_vasos-duo _1.png",
+        "src": "img/review_vasos-duo_1.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Flavia Bastos",
         "text": "Vasos Duo é um excelente gel. Depois de uma semana, todos os sintomas das hemorróidas desapareceram. Nenhuma vela se compara a ela. Meu especialista me recomendou e eu confio muito nele.",
@@ -9802,7 +9802,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _2.png",
+        "src": "img/review_vasos-duo_2.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Gessica Lopes",
         "text": "Vivi com esse pesadelo por 5 anos. No início tudo era leve, apenas coceira e desconforto. Depois houve exacerbações, surgiram hematomas e dores intensas. Apliquei cremes e coloquei supositórios, mas nada adiantou. Graças ao Vasos Duo, tudo desapareceu em um mês.",
@@ -9831,7 +9831,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _3.png",
+        "src": "img/review_vasos-duo_3.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Dorita Marcela",
         "text": "Tive problemas com hemorróidas por quase um ano. Experimentei pomadas e supositórios e até remédios populares. Achei que viveria assim por toda a minha vida. Mas 2 semanas depois de começar a usar Vasos Duo, tudo desapareceu! Estou muito satisfeito.",
@@ -9860,7 +9860,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _4.png",
+        "src": "img/review_vasos-duo_4.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Joia Laura",
         "text": "Desenvolvi hemorróidas após tomar antibióticos. Foram 2 nós. O especialista receitou supositórios, no começo foi mais fácil, mas depois a dor voltou, doía muito ir ao banheiro. Eu li muitos comentarios boas sobre Vasos Duo. Eu decidi comprá-lo. Concluí o curso e não há mais problemas. Ótimo gel!",
@@ -9889,10 +9889,10 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _5.png",
+        "src": "img/review_vasos-duo_5.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "João Filipe",
-        "text": "A vasos-duo a fortalece as paredes dos vasos sanguíneos e alivia a dor. Antes de usar, consultei uma especialista, uma mulher que conhecia, e ela aprovou. Nenhum produto químico popular pode ajudar tanto quanto este gel à base de plantas.",
+        "text": "A vasos-duoa fortalece as paredes dos vasos sanguíneos e alivia a dor. Antes de usar, consultei uma especialista, uma mulher que conhecia, e ela aprovou. Nenhum produto químico popular pode ajudar tanto quanto este gel à base de plantas.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -9918,7 +9918,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _6.png",
+        "src": "img/review_vasos-duo_6.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Abner Francisco",
         "text": "O especialista encontrou dois caroços enormes em mim e recomendou fazer um procedimento com Vasos Duo. O efeito ocorreu 3 dias após o início do uso. Gel com leve efeito refrescante, alivia dores, coceira e desconforto.",
@@ -9947,7 +9947,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _7.png",
+        "src": "img/review_vasos-duo_7.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Vauquiria Nelson",
         "text": "Eu tinha hemorróidas em estágio avançado e estava prestes a ser operada. Mas minha irmã me aconselhou a experimentar Vasos Duo. Usei por 1,5 meses  a inflamação e os inchaços desapareceram, a dor e a irritação desapareceram.",
@@ -9976,7 +9976,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _8.png",
+        "src": "img/review_vasos-duo_8.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Anaura Sebastião",
         "text": "As hemorróidas apareceram após o parto. Usei Vasos Duo por um mês e esse tempo foi suficiente para eliminar completamente o problema. Os nódulos começaram a se dissolver, as fezes voltaram ao normal, a dor passou, não houve desconforto. Então eu recomendo de todo o coração.",
@@ -10005,7 +10005,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _9.png",
+        "src": "img/review_vasos-duo_9.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Edsa Santos",
         "text": "Vasos Duo é um produto muito bom, realmente funciona e ajuda. Tive constipação severa e desenvolvi hemorróidas. Vasos Duo me foi recomendado por uma amiga, sou muito grata a ela por isso. Tudo se foi!",
@@ -10034,7 +10034,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _10.png",
+        "src": "img/review_vasos-duo_10.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Inocencio Massibo",
         "text": "O gel é confortável de usar. Muito melhor que supositórios e pomadas gordurosas. O efeito é excelente - Vasos Duo alivia a inflamação e a dor, fortalece as paredes dos vasos sanguíneos, elimina todos os sintomas das hemorróidas. Recomendo para qualquer pessoa com esse problema.",
@@ -10063,7 +10063,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _11.png",
+        "src": "img/review_vasos-duo_11.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Creusa Teresa",
         "text": "Eu tive hemorróidas estágio 2. O especialista receitou supositórios e pomadas por 10 dias, de manhã e à noite. Não ajudou. Então ele começou a insistir na cirurgia. Que bom que encontrei o gel Vasos Duo a tempo. Concluí o curso e esqueci o problema como um pesadelo.",
@@ -10092,7 +10092,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _12.png",
+        "src": "img/review_vasos-duo_12.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Luzanira Lima",
         "text": "Comecei a ter esse problema após meu segundo nascimento. Li muita informação na internet, tentei me salvar de vários meios, mas tudo foi inútil. Apenas Vasos Duo ajudou! Ainda tenho um pacote em estoque, só para garantir.",
@@ -10121,7 +10121,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _13.png",
+        "src": "img/review_vasos-duo_13.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Fabio Gomes",
         "text": "Há muito tempo que procuro um produto à base de troxerutina. Tem efeito antiinflamatório e descongestionante, sendo o princípio ativo mais eficaz até o momento. Encontrei Vasos Duo, usei por 2 semanas, sem hemorróidas.",
@@ -10150,7 +10150,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _14.png",
+        "src": "img/review_vasos-duo_14.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Isaura Kelvin",
         "text": "Apareceu um forte desconforto, o especialista descobriu um nódulo. Fiquei apavorado! Ele me disse para comer mais fibras para evitar constipação. Prescrevi pomada. E em casa minha mãe me contou que se livrou das hemorróidas com ajuda do gel Vasos Duo. Concluí o curso e os sintomas desapareceram em alguns dias. Após reexame, o especialista disse que não havia mais problema.",
@@ -10179,7 +10179,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo _15.png",
+        "src": "img/review_vasos-duo_15.png",
         "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Vasos Duo",
         "name": "Josefina Busa",
         "text": "Os sintomas das hemorróidas são verdadeiramente dolorosos, não é apenas algum tipo de coceira, mas uma dor realmente insuportável! Na minha opinião, o gel Vasos Duo não tem concorrentes, é definitivamente o melhor que já foi inventado.",
