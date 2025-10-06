@@ -183,11 +183,11 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -212,8 +212,8 @@
       ],
       "text": "288 kommentaari",
       "desc": "Bakteritsiidse toimega looduslik õli aitab võidelda seenhaiguse sümptomitega.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -438,12 +438,12 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -468,8 +468,8 @@
       ],
       "text": "341 kommentaari",
       "desc": "Aitab parandada kuulmist tänu tasakaalustatud vitamiinide ja mineraalide kompleksile.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -512,12 +512,12 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -542,8 +542,8 @@
       ],
       "text": "297 kommentaari",
       "desc": "Meeste tervise preparaat, mis aitab taastada reproduktiivorganite funktsioone.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -982,13 +982,13 @@
       "niche": "Sihtrühm: Varikoos"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1220,13 +1220,13 @@
       "niche": "Sihtrühm: Noorenemine"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1288,13 +1288,13 @@
       "niche": "Sihtrühm: Parasiidid"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1619,22 +1619,22 @@
     "form_factor": "30 ml tuub, paberkarp, tehnilised juhendid, kreem/geel",
     "short_description": "Jahutava efektiga geel aitab võidelda varikoosi sümptomitega.",
     "description": "taimset päritolu geel jahutab õrnalt, leevendab jalgade raskustunnet, tugevdab veresoonte seinu ja ennetab varikoosi teket.",
-    "compound": "<span class=\"attention\">Vesi, glütseriin, propüleenglükool, denatureeritud alkohol, hobukastani ekstrakt, Aasia vesinaba ekstrakt, torkava ruskusejuure ekstrakt, hariliku varemerohu ekstrakt, teekummeliõie ekstrakt, niatsinamiid, trokserutiin, kofeiin, karbamiid, arginiin, ammooniumakrüüldimetüültaurat/VP kopolümeer, salitsüülhape, mentool, allantoiin, naatriumhüaluronaat, fenoksüetanool, etüülheksüülglütseriin, dinaatrium-EDTA.</span>.",
+    "compound": "Vesi, Glütseriin, Propüleenglükool, Denatureeritud alkohol, Hobukastani ekstrakt (Aesculus hippocastanum), Centella Asiatica ekstrakt, Ruscus Aculeatus juure ekstrakt, Symphytum Officinale kaluse kultuuri ekstrakt, Kamomilla Recutita õie ekstrakt, Niatsiinamiid, Trokserutiin, Kofeiin, Urea, Argiin, Ammonium Acryloyldimethyltaurate/VP kopolümeer, Salitsüülhape, Mentool, Allantoiin, Naatriumhüaluroonaat, Fenoksüetanool, Etilheksüülglütseriin, Disodium EDTA.",
     "usage": "kanda nahale ja masseerida kergelt naha sisse 3–5 minuti jooksul 2 korda päevas. Sobivuse testimiseks kandke väike kogus geeli nahale.",
     "contraindications": "vältige silma sattumist. Mitte kasutada alla 3-aastastel lastel ja lahtistel haavadel.",
     "manufacturer": "Dalmatika (Bulgaaria)",
     "suitability": "2 aastat",
     "keep": "Hoida kuivas, lastele kättesaamatus kohas, temperatuuril kuni +25°С."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Tervisele",
     "review_count": "288 kommentaari",
     "niche": "Seenhaigus",
-    "form_factor": "paberkarp / klaaspudel, pipett / 20 ml",
+    "form_factor": "paberkarp / klaaspudel, pipett / 30 ml",
     "short_description": "Bakteritsiidse toimega looduslik õli aitab võidelda seenhaiguse sümptomitega.",
     "description": "4 õlist (teepuuõli, kaneel münt, sindrunhein) koosnev kompleks on nahale põletikuvastase, antiseptilise, toniseeriva, toitva ja niisutava toimega. Tungib sügavale naha sisse ja jääb seenhaigusest mõjutatud piirkonda pikaks ajaks.",
-    "compound": "<span class=\"attention\">Denatureeritud alkohol, vesi, propüleenglükool, glütseriin, niatsiinamiid, hariliku varemerohu ekstrakt, taruvaigu ekstrakt, teekummeliõie ekstrakt, alumiiniumklorohüdraat, salitsüülhape, fenüülpropaanool, o-tsümen-5-ool, detsüleenglükool, teepuu õli, allantoiin, kaneelilehe õli, piparmündi üli, 4-terpineool, sidrunheina õli, naatriumakrülaatkopolümeer, ksantaankummi, letsitiin, dinaatrium-EDTA, tsitraal, linalool, limoneen, eugenool, kaneel, bensüülbensoaat, geraniool.</span>.",
+    "compound": "Vesi, Glütseriin, Magusa mandli õli, Vedel parafiin, Naatriumpolüakrülaat, Hydroxyethyl Acrylate/Natrium Acryloyldimethyl Taurate kopolümeer, Polüsorbaat 80, PEG-40 hüdrogeenitud riitsinusõli, Bisabolool, Salitsüülhape, Tee puuõli, Glükonolaktoon, Kamper, Hüdrogeenitud polüdeseen, Tokofeetatsetaat, Nelgiõie ekstrakt, Hobukastani seemne ekstrakt, Meliloti ekstrakt, Saialille ekstrakt, Harilik ratsutäht ekstrakt, Rosmariini lehe ekstrakt, Kamomilla ekstrakt, Arctium Lappa ekstrakt, Fenoksüetanool, Naatriumhüaluroonaat, Piparmündiõli, Trideceth-6, BHT, Disodium EDTA, Etilheksüülglütseriin, Kaltsiumglükonaat, Sidrunhape, Na-benzoaat, Kaaliumsorbaat, gamma-terpinen, alfa-terpinen, Terpineool, Piin, Terpinoleen, Limonen, Mentool.",
     "usage": "kanda puhastele ja kuivadele labajalgadele 2 korda päevas. Sobivuse testimiseks kandke väike kogus geeli nahale.",
     "contraindications": "individuaalne tundlikkus koostisainete suhtes.",
     "manufacturer": "Dalmatika (Bulgaaria)",
@@ -1731,15 +1731,15 @@
     "suitability": "2 aastat ",
     "keep": "Hoida temperatuuril 0°С kuni 25°С, kuivas ja pimedas kohas."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Tervisele",
     "review_count": "341 kommentaari",
     "niche": "Kuulmine",
     "form_factor": "Kapslileht, 10 kapslit, paberkarp, tehnilised juhised",
     "short_description": "Aitab parandad kuulmist tänu tasakaalustatud vitamiinide ja mineraalide kompleksile.",
     "description": "looduslikku päritolu kompleks aitab vabaneda kõrvakohinast ja aeglustada kuulmislangust.",
-    "compound": "L-askorbiinhape, želatiin, C-vitamiin (L-askorbiinhape) (kapslikest), mikrokristalne tselluloos (täiteaine), atsetüül-L-karnitiin hcl, ginkgo biloba lehe ekstrakt, magneesiumoksiid, nikotiinamiid, tsink, magneesiumstearaat (täiteaine), tiamiinvesinikkloriid, ränidioksiid (paakumisvastane aine), riboflaviin, püridoksiinvesinikkloriid.",
+    "compound": "L-askorbiinhape, želatiin, Vitamiin C (L-askorbiinhape), mikrokristalne tselluloos, atseetüül L-karnitiin HCl, Ginkgo biloba lehe ekstrakt, magneesiumoksiid, nikotinamid, tsink, magneesiumstearaat, ränioksiid.",
     "usage": "täiskasvanutel võtta 1 kapsel päevas kas toiduga või ilma. Üks kuur kestab 2 kuud. Ärge ületage soovitatud ööpäevast annust.",
     "contraindications": "individuaalne tundlikkus mis tahes koostisaine suhtes; lastele (kuni 18-aastastele).",
     "manufacturer": "Dalmatika (Bulgaaria)",
@@ -1761,15 +1761,15 @@
     "suitability": "2 aastat",
     "keep": "Hoida kuivas, lastele kättesaamatus kohas, temperatuuril kuni +25°С."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Tervisele",
     "review_count": "297 kommentaari",
     "niche": "Potents",
     "form_factor": "kapslileht, 10 kapslit",
     "short_description": "Meeste tervise preparaat, mis aitab taastada reproduktiivorganite funktsioone.",
-    "description": "taimset päritolu kompleks suurendab meeste libiidot ja parandab seksuaalfunktsiooni, normaliseerib suguelundite funktsionaalset seisundit erektsioonihäirete korral (et suurendada libiidot ja potentsi), parandab sperma kvaliteeti, samuti suurendab meeste vaimset ja füüsilist jõudlust ja kohanemisvõimet. Wirex men’s formula \u200B\u200B on funktsionaalse toimega ja sisaldab aktiivseid koostisosi, \u200B\u200B aidates meestel lahendada seksuaalfunktsiooni, libiido, spermatogeneesi, mälu ja energiatasemega seotud probleeme.",
-    "compound": "Jõhvikamarja ekstrakt, želatiin (kapslikest), sabalpalmivilja ekstrakt, nõgesejuure ekstrakt, mikrokristalne tselluloos (täiteaine), tsinktsitraat, magneesiumstearaat (täiteaine), ränidioksiid (paakumisvastane aine), värvained (kapslikest): E171, E132.",
+    "description": "taimset päritolu kompleks suurendab meeste libiidot ja parandab seksuaalfunktsiooni, normaliseerib suguelundite funktsionaalset seisundit erektsioonihäirete korral (et suurendada libiidot ja potentsi), parandab sperma kvaliteeti, samuti suurendab meeste vaimset ja füüsilist jõudlust ja kohanemisvõimet. Viarex \u200B\u200B on funktsionaalse toimega ja sisaldab aktiivseid koostisosi, \u200B\u200B aidates meestel lahendada seksuaalfunktsiooni, libiido, spermatogeneesi, mälu ja energiatasemega seotud probleeme.",
+    "compound": "Maca juure ekstrakt (Lepidium meyenii 4:1) - 60 mg, Pohla ekstrakt (Vaccinium macrocarpon, 35% proantotsüanidiinid) - 53 mg, Hariliku palmi vilja ekstrakt (Serenoa repens 5:1) - 50 mg, Nõgese juure ekstrakt (Urtica dioica, 1% beetasitosteroon) - 40 mg, Tsink (Tsinktsitraat-trihüdraat) - 5 mg.",
     "usage": "Võtta 1–2 kapslit päevas koos toiduga. Üks kuur kestab 45 päeva. Vajadusel võib kuuri korrata. Soovitatav ööpäevane annus on 2 kapslit.",
     "contraindications": "Individuaalne tundlikkus mis tahes koostisaine suhtes; lastele (kuni 18-aastastele) Enne tarvitamist on soovitatav konsulteerida arstiga. Tegemist ei ole ravimiga. Ärge ületage soovitatud ööpäevast annust. Hoidke lastele kättesaamatus kohas. See toidulisand ei tohi asendada mitmekülgset toitumist.",
     "manufacturer": "Dalmatika (Bulgaaria)",
@@ -1955,8 +1955,8 @@
       "salePrice": "25",
       "newPrice": "73"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "96"
     },
@@ -1990,8 +1990,8 @@
       "salePrice": "26",
       "newPrice": "165"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "25",
       "newPrice": "119"
     },
@@ -2000,8 +2000,8 @@
       "salePrice": "26",
       "newPrice": "79"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "26",
       "newPrice": "102"
     },
@@ -3971,13 +3971,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Gabriel Vernos",
-        "text": "Proovisin Exofeet Oili tilkasid juba eelmisel aastal. Sain probleemist lahti ja enam tagasi ei ole tulnud. Jalaküüned ja nahk on terve, kõik on korras.",
+        "text": "Proovisin Desalixi tilkasid juba eelmisel aastal. Sain probleemist lahti ja enam tagasi ei ole tulnud. Jalaküüned ja nahk on terve, kõik on korras.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4003,11 +4003,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Olivia Bolton",
-        "text": "Kui kasutasin Exofeet Oili, kadus kohe esimeste päevadega sügelus ja ebameeldiv lõhn. Jätkan tarvitamist, kuni saan probleemist täiesti lahti.",
+        "text": "Kui kasutasin Desalixi, kadus kohe esimeste päevadega sügelus ja ebameeldiv lõhn. Jätkan tarvitamist, kuni saan probleemist täiesti lahti.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4033,11 +4033,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Lina Ivaschescu",
-        "text": "Vaevlesin seene tõttu aastaid, aga tuli välja, et sellest on võimalik kergelt lahti saada. Tänu Exofeet Oilile mul seent enam pole ja loodan, et see nii ka jääb!",
+        "text": "Vaevlesin seene tõttu aastaid, aga tuli välja, et sellest on võimalik kergelt lahti saada. Tänu Desalixile mul seent enam pole ja loodan, et see nii ka jääb!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4063,11 +4063,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Dmitri Schehnad",
-        "text": "Mul on Exofeet Oiliga head kogemused. Sain seenest lahti. Sügelus, ebameeldiv lõhn ja lõhed kadusid kiiresti!",
+        "text": "Mul on Desalixiga head kogemused. Sain seenest lahti. Sügelus, ebameeldiv lõhn ja lõhed kadusid kiiresti!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4093,11 +4093,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Fernanda Torres",
-        "text": "Exofeet Oil on suurepärane preparaat! Seda on lihtne kasutada ja sel on meeldiv lõhn. Ja mis peamine, sellest on abi. Võtab sügeluse ära ja aitab seenest vabaneda.",
+        "text": "Desalix on suurepärane preparaat! Seda on lihtne kasutada ja sel on meeldiv lõhn. Ja mis peamine, sellest on abi. Võtab sügeluse ära ja aitab seenest vabaneda.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4123,11 +4123,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Amelia Levanson",
-        "text": "Nüüd usun, et seenest on tõesti võimalik mõne nädalaga lahti saada. Enne seda vaevlesin kuude kaupa. Aitäh Exofeet Oili eest!",
+        "text": "Nüüd usun, et seenest on tõesti võimalik mõne nädalaga lahti saada. Enne seda vaevlesin kuude kaupa. Aitäh Desalixi eest!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4153,11 +4153,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Lorenzo Ibanez",
-        "text": "Naine tellis Exofeet Oili ja see jõudis paari päevaga kohale. Lõhesid ja sügelust enam pole. Lõpuks sain ebameeldivast lõhnast lahti. See toode on tõesti 10/10!",
+        "text": "Naine tellis Desalixi ja see jõudis paari päevaga kohale. Lõhesid ja sügelust enam pole. Lõpuks sain ebameeldivast lõhnast lahti. See toode on tõesti 10/10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4183,8 +4183,8 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Aria Dowson",
         "text": "See on hea abivahend soodsa hinnaga. Aitab seene puhul, võtab sümptomid ära ja taatab normaalse naha ja küüned. Olen 100% rahul!",
@@ -4213,11 +4213,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Lizzie Lowndes",
-        "text": "Proovisin seenest lahti saada erinevate kreemide ja rahvameditsiini vahenditega. Kuid kahjuks polnud neist abi. Aitas ainult Exofeet Oil. Juba esimeste päevadega läks sügelus ära ja varsti ka kõik muud sümptomid. Nüüd on mul terved jalad!",
+        "text": "Proovisin seenest lahti saada erinevate kreemide ja rahvameditsiini vahenditega. Kuid kahjuks polnud neist abi. Aitas ainult Desalix. Juba esimeste päevadega läks sügelus ära ja varsti ka kõik muud sümptomid. Nüüd on mul terved jalad!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4243,11 +4243,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Marta Godez",
-        "text": "Exofeet Oili tean juba ammu. Võin oma kogemusest öelda, et see on kõige parem vahend seenest vabanemisseks! Pärast kuuri läbimist on nii nahk kui ka küüned täiesti terved!",
+        "text": "Desalixi tean juba ammu. Võin oma kogemusest öelda, et see on kõige parem vahend seenest vabanemisseks! Pärast kuuri läbimist on nii nahk kui ka küüned täiesti terved!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4273,11 +4273,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Paulina Reckbesh",
-        "text": "Tellisin hiljuti Exofeet Oil ja tulemusi on juba näha. Nahk on niisutatud ja pehme, isegi kõvastunud kohad on jälle pehmeks muutunud. Loodan, et varsti ei pea enam jalgu peitma ja kandma ainult kinniseid kingi.",
+        "text": "Tellisin hiljuti Desalix ja tulemusi on juba näha. Nahk on niisutatud ja pehme, isegi kõvastunud kohad on jälle pehmeks muutunud. Loodan, et varsti ei pea enam jalgu peitma ja kandma ainult kinniseid kingi.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4303,11 +4303,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Rolana Petrascu",
-        "text": "Soovitan Exofeet Oili neile, kes soovivad seenest lahti saada ja otsivad hea hinnaga toodet! Aitab kiiresti sellest nuhtlusest igaveseks vabaneda!",
+        "text": "Soovitan Desalixi neile, kes soovivad seenest lahti saada ja otsivad hea hinnaga toodet! Aitab kiiresti sellest nuhtlusest igaveseks vabaneda!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4332,11 +4332,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Ingrid Sharton",
-        "text": "Seenest lahtisaamine vajab aega ja palju kannatust. Kõik teavad, et seen vajab pikaajalist ravi. Kuid Exofeet Oiliga sain probleemist kiiresti lahti. Pärast ühte kuuri on mul jälle täiesti terved küüned!",
+        "text": "Seenest lahtisaamine vajab aega ja palju kannatust. Kõik teavad, et seen vajab pikaajalist ravi. Kuid Desalixiga sain probleemist kiiresti lahti. Pärast ühte kuuri on mul jälle täiesti terved küüned!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4362,11 +4362,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Alexandro Malber",
-        "text": "Kui võtsin kingad ära, oli alati tunda ebameeldivat lõhna ja ma häbenesin seda. Naine otsustas mulle Exofeet Oili tellida. Ja sellest oli abi. Jalad ei lõhna enam ja ei sügele enam pärast jalatsite kandmist. Ei ole pool aastat enam kasutanud, aga probleem pole tagasi tulnud!",
+        "text": "Kui võtsin kingad ära, oli alati tunda ebameeldivat lõhna ja ma häbenesin seda. Naine otsustas mulle Desalixi tellida. Ja sellest oli abi. Jalad ei lõhna enam ja ei sügele enam pärast jalatsite kandmist. Ei ole pool aastat enam kasutanud, aga probleem pole tagasi tulnud!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4392,11 +4392,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Desalix",
         "rating_text": "Suurepärane toode!",
         "name": "Ninelle Lambert",
-        "text": "Sain tänu sellele mõne nädalaga seenest lahti! Nahk on parem ja küüned on terved ja tugevad. Olge ettevaatlik, kelle juurde lähete maniküüri! Varuge endale igaks juhuks Exofeet Oili!",
+        "text": "Sain tänu sellele mõne nädalaga seenest lahti! Nahk on parem ja küüned on terved ja tugevad. Olge ettevaatlik, kelle juurde lähete maniküüri! Varuge endale igaks juhuks Desalixi!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5774,13 +5774,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Mary Lucescu",
-        "text": "Kui tekkisid kuulmisprobleemid, hakkasin otsima lahendust. Mulle soovitati Ottomax+. Sellel on täitsa mõju olemas! Ma ei pea enam vestluskaaslaselt asju üle küsima. Ja see pole üldse kallis!",
+        "text": "Kui tekkisid kuulmisprobleemid, hakkasin otsima lahendust. Mulle soovitati Ausen. Sellel on täitsa mõju olemas! Ma ei pea enam vestluskaaslaselt asju üle küsima. Ja see pole üldse kallis!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5806,8 +5806,8 @@
       },
 
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Frederica Garcia",
         "text": "See on suurepärane vahend kuulmise taastamiseks. Juba mõne nädalaga märkasin, et asi on läinud paremaks. Kui te töötate mürarikkas keskkonnas, soovitan kasutada kasvõi profülaktikaks.",
@@ -5836,8 +5836,8 @@
       },
 
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Michel Farcio",
         "text": "Aitab hästi kõrvavalu ja kohina korral. Aitab kõrvade vilisemisest lahti saada. Lisaks on efektiivne, loodusliku koostise ja taskukohase hinnaga.",
@@ -5866,11 +5866,11 @@
       },
 
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Orlando Lortes",
-        "text": "Olin kõrvadega hädas kuude kaupa, kasutasin tilku, aga siis kuulsin, et on olemas selline asi nagu Ottomax+. Seda on tunduvalt mugavam kasutada ja see aitab. Olen hakanud paremini kuulma ja kõrvad ei vilise enam.",
+        "text": "Olin kõrvadega hädas kuude kaupa, kasutasin tilku, aga siis kuulsin, et on olemas selline asi nagu Ausen. Seda on tunduvalt mugavam kasutada ja see aitab. Olen hakanud paremini kuulma ja kõrvad ei vilise enam.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5896,8 +5896,8 @@
       },
 
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Tomasch Oloveczki",
         "text": "Aitab kuulmishädade puhul. Aitab ka põletike puhul (võtsin, kui mul oli keskkõrvapõletik ja see aitas) Võtab valu ära.",
@@ -5926,11 +5926,11 @@
       },
 
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Julie Taroks",
-        "text": "Sain aru, kui hea Ottomax+ on pärast seda, kui kaotasin ühe kontserdi tõttu kuulmise. See aitab. Suur pluss on ka see, et need on kapslid, mitte tilgad.",
+        "text": "Sain aru, kui hea Ausen on pärast seda, kui kaotasin ühe kontserdi tõttu kuulmise. See aitab. Suur pluss on ka see, et need on kapslid, mitte tilgad.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5956,11 +5956,11 @@
       },
 
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Gabriel Martinoz",
-        "text": "Gripi tõttu tekkis kõrvatüsistus. Jubedalt valutas ja kõrvad hakkasid kohisema. Tabletid võtsid küll valu ära, aga kuulmise aitas täielikult tagast saada siiski ainult Ottomax+. Soovitan seda nüüd kõikidele sõpradele ja tuttavatele!",
+        "text": "Gripi tõttu tekkis kõrvatüsistus. Jubedalt valutas ja kõrvad hakkasid kohisema. Tabletid võtsid küll valu ära, aga kuulmise aitas täielikult tagast saada siiski ainult Ausen. Soovitan seda nüüd kõikidele sõpradele ja tuttavatele!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5986,11 +5986,11 @@
       },
 
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Henrietta York",
-        "text": "Vanusega hakkas kuulmine halvenema. Tuttav arst soovitas mul proovida Ottomax+. Ja see tõesti aitab! Vabanesin kõrvakohinast, millega olin pidevalt hädas olnud.",
+        "text": "Vanusega hakkas kuulmine halvenema. Tuttav arst soovitas mul proovida Ausen. Ja see tõesti aitab! Vabanesin kõrvakohinast, millega olin pidevalt hädas olnud.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6016,8 +6016,8 @@
       },
 
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Albert Debores",
         "text": "See preparaat aitab. Aitäh kiire kojutarne eest ja et saab internetist tellida. Konsultandid on toredad ja vastavad kõikidele küsimustele.",
@@ -6046,11 +6046,11 @@
       },
 
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Helena Cortes",
-        "text": "Tellisin Ottomax+ vanaemale. Ta ütleb ise seda ja ka mina näen, et tal on kuumine paremaks läinud. Ütleb ka, et on hakanud paremini magama. Järelikult aitab see ka vananemisest tingitud probleemide korral!",
+        "text": "Tellisin Ausen vanaemale. Ta ütleb ise seda ja ka mina näen, et tal on kuumine paremaks läinud. Ütleb ka, et on hakanud paremini magama. Järelikult aitab see ka vananemisest tingitud probleemide korral!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6076,8 +6076,8 @@
       },
 
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Lucas Barbardes",
         "text": "Mul ei ole enam kõrvad lukus ja kõrvad ei helise enam. Kuulen nüüd paremini. Mõtlen teha veel ühe kuuri, et tulemus kestaks kauem.",
@@ -6106,8 +6106,8 @@
       },
 
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Agnes Batrocks",
         "text": "See on suurepärane vahend kõrvadele. Sellel on rikkalik looduslik koostis, see tõesti toimib ja sellel on väga vähe vastunäidustusi. Ja veel taskukohase hinnaga! Suurepärane!",
@@ -6136,11 +6136,11 @@
       },
 
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Salma Forexis",
-        "text": "Olen Ottomax+ ka varem kasutanud. Aitab krooniliste vaevuste ja vanusega kaasneva kuulmislanguse korral. Kasutan ka põletike korral. Olen sellega väga rahul!",
+        "text": "Olen Ausen ka varem kasutanud. Aitab krooniliste vaevuste ja vanusega kaasneva kuulmislanguse korral. Kasutan ka põletike korral. Olen sellega väga rahul!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6166,8 +6166,8 @@
       },
 
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Maurice Strauss",
         "text": "Tänu sellele preparaadile ei pidanud ma minema operatsioonile ja ma ei pea enam kasutama kuulmisaparaati. Olen teinud mitu kuuri aastas, nagu arst soovitas. Kuulen hästi ja mingeid probleeme kuulmisega ei ole.",
@@ -6196,11 +6196,11 @@
       },
 
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Ausen",
         "rating_text": "Suurepärane toode!",
         "name": "Clarisse Mornoz",
-        "text": "Töötan kohas, kus on palju müra ja see mõjub kuulmisele halvasti. Pärast Ottomax+ tarvitamist olen hakanud palju paremini kuulma. Õhtuti ei ole enam kõrvades kohinat ja ma isegi magan paremini! Suur tänu sellise kvaliteetse ja tõhusa toote eest!",
+        "text": "Töötan kohas, kus on palju müra ja see mõjub kuulmisele halvasti. Pärast Ausen tarvitamist olen hakanud palju paremini kuulma. Õhtuti ei ole enam kõrvades kohinat ja ma isegi magan paremini! Suur tänu sellise kvaliteetse ja tõhusa toote eest!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8616,10 +8616,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Jeremy Closak",
         "text": "Aitas mul meesteprobleemid lahendada. Ei hakka täpsemalt rääkima, aga erektsioon on jälle nii nagu peab. Preparaadist jätkub kauaks!",
@@ -8648,8 +8648,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Lübert Ferdinez",
         "text": "Toimib nii nagu vaja. Viimastel kuudel pole ühtegi probleemi olnud. Ei teki sõltuvust ega kõrvalmõjusid.",
@@ -8678,8 +8678,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Barbara Delascon",
         "text": "Tellisin mehele, kui meil hakkasid voodiprobleemid. Nüüd on kõike rohkem, sagedamini ja kauem. Näib, et mees oskab veel üllatada!",
@@ -8708,11 +8708,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Diego Santiago",
-        "text": "Vanem mees võib puutuda kokku intiimsete probleemidega. Ka minul tekkisid probleemid ja abi sain preparaadist Wirex men`s. Soovitan!",
+        "text": "Vanem mees võib puutuda kokku intiimsete probleemidega. Ka minul tekkisid probleemid ja abi sain preparaadist Viarex. Soovitan!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8738,11 +8738,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Claudia Elkasar",
-        "text": "Mehe käitumine on viimasel ajal mind üllatanud, justkui oleks noorus tagasi. Aga siis nägin, et tal oli kotis Wirex men`s formula ja kõik oli selge.",
+        "text": "Mehe käitumine on viimasel ajal mind üllatanud, justkui oleks noorus tagasi. Aga siis nägin, et tal oli kotis Viarex ja kõik oli selge.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8768,8 +8768,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Lucio Marquez",
         "text": "See on pehme toimega ja kestab kaua, võib võtta ka alkoholiga ja ei mõju tervisele halvasti.",
@@ -8798,8 +8798,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Tomasc Zhardeck",
         "text": "Ühe kuuriga võib täielikult taastada meheliku jõu. Pärast kuuri jääb efekt kestma. Mina kõrvalmõjusid ei kogenud.",
@@ -8828,11 +8828,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Daphne Foxtrite",
-        "text": "Stressi tõttu hakkasid mehel meesteprobleemid. Sain mehe nõusse, et ta prooviks Wirex men`s formulat ja see aitas teda! Libiido on tagasi ja nüüd seksime iga päev!",
+        "text": "Stressi tõttu hakkasid mehel meesteprobleemid. Sain mehe nõusse, et ta prooviks Viarex ja see aitas teda! Libiido on tagasi ja nüüd seksime iga päev!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8858,11 +8858,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Rebecca Strauson",
-        "text": "See on suurepärane vahend. Mees on Wirex men`s formulaga rahul ja mina olen jällegi mehega rahul. Ei osanud arvatagi, et ta võib kesta tunde!",
+        "text": "See on suurepärane vahend. Mees on Viarex rahul ja mina olen jällegi mehega rahul. Ei osanud arvatagi, et ta võib kesta tunde!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8888,8 +8888,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Augustin Petres",
         "text": "See on super asi, aitab tõepoolest! Suur tänu konsultatsiooni ja koju kohaletoimetamise eest. Juba esimeste päevadega oli mõju tunda.",
@@ -8918,8 +8918,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Orlando Dyres",
         "text": "Võrreldes teiste analoogsete toodetega on see kõige parem. Plussidena tooks välja selle, et kui olete kuuri läbi täinud, siis mõju jääb püsima, seda võib võtta ka alkoholiga, mingeid kõrvaltoimeid pole.",
@@ -8948,8 +8948,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Lena Gavrosh",
         "text": "Soovin tänada enda ja mehe poolt sellise kvaliteetse preparaadi eest. Meie elus on jälle intiimset lähedust ja see on aidanud meie suhet hoida!",
@@ -8978,8 +8978,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Lukian Mornash",
         "text": "Efekt on olemas, vererõhku ei tõsta, ja võib tarvitada koos alkoholiga. Pärast kuuri jääb mõju kestma. Mina arvates on tegu parima selle kategooria tootega.",
@@ -9008,8 +9008,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Michael Vernandez",
         "text": "See vahend aitab erutuda, aitab erektsioonil kauem kesta ja muudab tundlikumaks. Lisaks veel siis üsna taskukohase hinnaga. Midagi negatiivset ei täheldanud.",
@@ -9038,11 +9038,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Viarex",
         "rating_text": "Suurepärane toode!",
         "name": "Robert Wynes",
-        "text": "Arvasin, et ega Wirex men`s formulast kasu pole, aga ma eksisin. Esimeste päevadega oli juba tulemust näha. Pärast kuuri tervis taastus ja enam erektsiooniga probleeme pole olnud.",
+        "text": "Arvasin, et ega Viarex kasu pole, aga ma eksisin. Esimeste päevadega oli juba tulemust näha. Pärast kuuri tervis taastus ja enam erektsiooniga probleeme pole olnud.",
         "stars": [
           {
             "src": "img/svg/star.svg",

@@ -180,11 +180,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -209,8 +209,8 @@
       ],
       "text": "288 ocen",
       "desc": "Naravno olje z baktericidnim delovanjem, namenjeno boju proti manifestacijam glivic na nogah.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -435,12 +435,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -465,8 +465,8 @@
       ],
       "text": "341 ocen",
       "desc": "Kompleks za izboljšanje slušnih funkcij z uravnoteženo formulo vitaminov in mineralov.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -509,12 +509,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -539,8 +539,8 @@
       ],
       "text": "297 ocen",
       "desc": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega sistema.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -976,13 +976,13 @@
       "niche": "Smer: Krčne žile"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1214,13 +1214,13 @@
       "niche": "Smer: Pomlajevanje"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1282,13 +1282,13 @@
       "niche": "Smer: Paraziti"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1612,22 +1612,22 @@
     "form_factor": "30 ml tuba, kartonska škatla, tehnična navodila, krema / gel",
     "short_description": "Gel s hladilnim učinkom, namenjen boju proti manifestacijam krčnih žil.",
     "description": "gel na rastlinski osnovi, ki nežno hladi in lajša težo v nogah, krepi stene krvnih žil in preprečuje razvoj krčnih žil.",
-    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
+    "compound": "Voda, Glicerin, Propilen glikol, Denaturirani alkohol, Ekstrakt kostanja (Aesculus hippocastanum), Ekstrakt Centella Asiatica, Ekstrakt korenine Ruscus Aculeatus, Kalusna kultura Symphytum Officinale, Ekstrakt cvetov Chamomilla Recutita, Niacinamid, Troxerutin, Kofein, Urea, Arginin, Kopolimer Ammonium Acryloyldimethyltaurate/VP, Salicilna kislina, Mentol, Alantoin, Natrijev hialuronat, Fenoksietanol, Etilheksilglicerin, Disodium EDTA.",
     "usage": "nanesite z lahkimi masažnimi gibi 3-5 minut 2-krat na dan. Pred nanosom opravite test tolerance na koži.",
     "contraindications": "izogibajte se stiku z očmi. Ne uporabljajte za otroke, mlajše od treh let, in neposredno za odprte rane.",
     "manufacturer": "Dalmatika (Bolgarija)",
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Za zdravje",
     "review_count": "288 ocen",
     "niche": "Glivice",
-    "form_factor": "kartonska škatla / steklenica, pipeta / 20 ml",
+    "form_factor": "kartonska škatla / steklenica, pipeta / 30 ml",
     "short_description": "Naravno olje z baktericidnim delovanjem, namenjeno boju proti manifestacijam glivic na nogah.",
     "description": "kompleks na osnovi 4 olj (čajevca, cimeta, mete, limonske trave) ima splošen protivnetni, antiseptični, tonizirajoči, negovalni in vlažilni učinek na kožo. Globoko prodira in se dolgo zadržuje na mestu lokalizacije glive.",
-    "compound": "<span class=\"attention\">Alcohol Denat, Voda, propilenglikol, glicerin, niacinamid, izvleček listov Simfitum Officinale, ekstrakt propolisa, izvleček cvetov Chamomilla Recutita, aluminijev klorohidrat, salicilna kislina, Fenilpropanol, o-Cimen-5-ol, Decilen glikol, olje listov Melaleuca Alternifolia, alantoin, olje listov Cinnamomum Zeilanicum, olje Mentha Piperita, 4-Terpineol, olje Cimbopogon Fleksuosus, Kopolimer natrijevih akrilatov, ksantan gumi, lecitin, dinatrijev EDTA, Citral, linalool, limonen, evgenol, cimet, Benzil benzoat, geraniol</span>.",
+    "compound": "Voda, Glicerin, Sladko mandljevo olje, Parafinum Liquidum, Natrijev poliakrilat, Kopolimer Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate, Polisorbat 80, PEG-40 Hidrogenirano ricinusovo olje, Bisabolol, Salicilna kislina, Olje čajevca, Glukonolakton, Kafr, Hidrogeniran polidecen, Tokoferol acetat, Ekstrakt klinčkov, Ekstrakt semen kostanja, Ekstrakt Melilotus Officinalis, Ekstrakt Calendula Officinalis, Ekstrakt preslice, Ekstrakt rožmarina, Ekstrakt cvetov kamilice, Ekstrakt repinca, Fenoksietanol, Natrijev hialuronat, Olje mete, Trideceth-6, BHT, Disodium EDTA, Etilheksilglicerin, Kalcijev glukonat, Citronka kislina, Natrijev benzoat, Kalijev sorbat, gamma-Terpinene, alpha-Terpinene, Terpineol, Pinene, Terpinolene, Limonene, Mentol.",
     "usage": "nanesite na dobro očiščeno in suho kožo podplata 2-krat na dan. Pred uporabo naredite test združljivosti s kožo.",
     "contraindications": "posamezna nestrpnost komponent.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1724,15 +1724,15 @@
     "suitability": "2 leti ",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Za zdravje",
     "review_count": "341 ocen",
     "niche": "Zaslišanje",
     "form_factor": "pretisni omot, kapsule 10&nbsp;kosov, kartonska škatla, tehnična navodila",
     "short_description": "Kompleks za izboljšanje slušnih funkcij z uravnoteženo formulo vitaminov in mineralov.",
     "description": "kompleks naravnih sestavin, katerih delovanje je namenjeno odpravljanju tinitusa in upočasnitvi izgube sluha.",
-    "compound": "L-askorbinska kislina, želatina, vitamin C (L-askorbinska kislina)  (ovoj kapsule), mikrokristalna celuloza (polnilo), acetil L-karnitin hcl, izvleček listov ginka bilobe, magnezijev oksid, nikotinamid, cink, magnezijev stearat (polnilo), tiamin hidroklorid, silicijev dioksid (sredstvo proti strjevanju), riboflavin, piridoksin hidroklorid.",
+    "compound": "L-askorbinska kislina, Želatina, Vitamin C (L-askorbinska kislina), Mikrokristalna celuloza, Acetil L-karnitin HCl, Ekstrakt listov Ginkgo biloba, Magnezijev oksid, Nikotinamid, Cink, Magnezijev stearat, Silicijev dioksid.",
     "usage": "odrasli jemljejo 1 kapsulo na dan med obroki ali po njih. Trajanje enega tečaja je 2 meseca. Ne prekoračite priporočenega dnevnega odmerka.",
     "contraindications": "posamezna nestrpnost do komponent, starost otrok (do 18 let).",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1754,15 +1754,15 @@
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Za zdravje",
     "review_count": "297 ocen",
     "niche": "Moč",
     "form_factor": "pretisni omot, kapsule 10&nbsp;kosov",
     "short_description": "Zdravilo za moške, namenjeno normalizaciji funkcij reproduktivnega sistema.",
     "description": "kompleks zeliščnih sestavin, ki povečuje spolno željo in izboljšuje spolno funkcijo pri moških, normalizira funkcionalno stanje genitourinarnega sistema pri erektilni disfunkciji (za povečanje libida in moči), izboljša kakovost sperme, poveča pa tudi duševno in telesno zmogljivost ter prilagoditvene sposobnosti pri moških. Delovanje žične moške formule je posledica\u200B\u200B funkcionalnih lastnosti aktivnih sestavin in je namenjeno reševanju težav s spolno funkcijo, libido, spermatogenezo, spominom in energijo pri moških.",
-    "compound": "Izvleček jagod brusnice, želatina (ovoj kapsule), izvleček ploda žagaste palme, izvleček korenine koprive, mikrokristalna celuloza (polnilo), cinkov citrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju), barvila (ovoj kapsule): E171, E132.",
+    "compound": "Ekstrakt korena mace (Lepidium meyenii 4:1) - 60 mg, Ekstrakt brusnice (Vaccinium macrocarpon, 35% proantocianidini) - 53 mg, Ekstrakt plodov Saw Palmetto (Serenoa repens 5:1) - 50 mg, Ekstrakt korena koprive (Urtica dioica, 1% beta-sitosterol) - 40 mg, Cink (Cink citrat trihidrat) - 5 mg.",
     "usage": "Vzemite 1 kapsulo 1-2 krat na dan z obroki. Trajanje enega tečaja je 45 dni. Po potrebi se tečaj lahko ponovi. Priporočeni dnevni odmerek je 2 kapsuli.",
     "contraindications": "Posamezna nestrpnost do katere koli sestavine, starost otrok (do 18 let). Pred jemanjem je priporočljivo, da se posvetujete z zdravnikom. To ni zdravilo. Ne prekoračite priporočenega dnevnega odmerka. Izogibajte se otrokom. To prehransko dopolnilo ne sme nadomestiti raznolike prehrane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1948,8 +1948,8 @@
       "salePrice": "24",
       "newPrice": "82"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "89"
     },
@@ -1983,8 +1983,8 @@
       "salePrice": "24",
       "newPrice": "135"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "26",
       "newPrice": "136"
     },
@@ -1993,8 +1993,8 @@
       "salePrice": "24",
       "newPrice": "88"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -3943,13 +3943,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gabriela Vernos",
-        "text": "Lansko leto sem preizkusil Exofeet Oil kapljice. Težava je izginila in se od takrat ni več pojavila. Koža in nohti na nogah so zdravi, nič me ne moti.",
+        "text": "Lansko leto sem preizkusil Desalix kapljice. Težava je izginila in se od takrat ni več pojavila. Koža in nohti na nogah so zdravi, nič me ne moti.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3974,11 +3974,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Olivija Bolton",
-        "text": "Od prvih dni uporabe Exofeet Oil sta srbenje in neprijeten vonj izginila. Tečaj nadaljujem, dokler težava ni popolnoma odpravljena.",
+        "text": "Od prvih dni uporabe Desalix sta srbenje in neprijeten vonj izginila. Tečaj nadaljujem, dokler težava ni popolnoma odpravljena.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4003,11 +4003,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lina Ivašesku",
-        "text": "Dolga leta sem živela z glivicami, a izkazalo se je, da se jih lahko znebite tako enostavno. Zahvaljujoč Exofeet Oil sem na to pozabila in upam, da za vedno!",
+        "text": "Dolga leta sem živela z glivicami, a izkazalo se je, da se jih lahko znebite tako enostavno. Zahvaljujoč Desalix sem na to pozabila in upam, da za vedno!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4032,11 +4032,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dimitrij Žehnad",
-        "text": "Imam pozitivne izkušnje z uporabo Exofeet Oil. Znebil se glivic. Srbenje, neprijeten vonj in razpoke na nogah so hitro izginili!",
+        "text": "Imam pozitivne izkušnje z uporabo Desalix. Znebil se glivic. Srbenje, neprijeten vonj in razpoke na nogah so hitro izginili!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4061,11 +4061,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Fernanda Torres",
-        "text": "Exofeet Oil je čudovit izdelek! Priročen za uporabo, ima prijetno aromo. Ampak glavno je, da pomaga. Odpravlja srbenje in pomaga znebiti glivic.",
+        "text": "Desalix je čudovit izdelek! Priročen za uporabo, ima prijetno aromo. Ampak glavno je, da pomaga. Odpravlja srbenje in pomaga znebiti glivic.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4090,11 +4090,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Amelija Levanson",
-        "text": "Zdaj verjamem, da se lahko v nekaj tednih poslovite od glivic na nohtih. Pred tem sem trpela več mesecev. Hvala za Exofeet Oil!",
+        "text": "Zdaj verjamem, da se lahko v nekaj tednih poslovite od glivic na nohtih. Pred tem sem trpela več mesecev. Hvala za Desalix!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4119,11 +4119,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lorenzo Ibanes",
-        "text": "Moja žena je naročila Exofeet Oil, dostavljeno je bilo v nekaj dneh. Razpoke so se zacelile in srbenje je izginilo. Končno se je znebil neprijetnega vonja. 10 od 10!",
+        "text": "Moja žena je naročila Desalix, dostavljeno je bilo v nekaj dneh. Razpoke so se zacelile in srbenje je izginilo. Končno se je znebil neprijetnega vonja. 10 od 10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4148,8 +4148,8 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Arija Dauson",
         "text": "Dober izdelek po dostopni ceni. Pomaga proti glivicam, odpravlja vse znake poškodb ter obnavlja kožo in nohte. 100% zadovoljna!",
@@ -4177,11 +4177,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lizzi Laundes",
-        "text": "Poskušal sem se znebiti glivic z različnimi kremami in ljudskimi zdravili. Vse zaman. Pomagalo je le Exofeet Oil. Od prvih dni je srbenje izginilo, nato pa vse ostalo. Zdaj zdrave noge!",
+        "text": "Poskušal sem se znebiti glivic z različnimi kremami in ljudskimi zdravili. Vse zaman. Pomagalo je le Desalix. Od prvih dni je srbenje izginilo, nato pa vse ostalo. Zdaj zdrave noge!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4206,11 +4206,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marta Goddes",
-        "text": "Za Exofeet Oil vem že dolgo. Iz lastnih izkušenj lahko rečem, da je to najboljše zdravilo za glivice! Po tečaju ni bilo nobenih sledi na koži ali nohtih!",
+        "text": "Za Desalix vem že dolgo. Iz lastnih izkušenj lahko rečem, da je to najboljše zdravilo za glivice! Po tečaju ni bilo nobenih sledi na koži ali nohtih!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4235,11 +4235,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Pavlina Rekbeš",
-        "text": "Pred kratkim sem naročil Exofeet Oil in že vidim rezultate. Koža se je navlažila, postala mehkejša, tudi hrapavi predeli so se zmehčali. Upam, da bom kmalu nehala skrivati ​​noge v zaprtih čevljih..",
+        "text": "Pred kratkim sem naročil Desalix in že vidim rezultate. Koža se je navlažila, postala mehkejša, tudi hrapavi predeli so se zmehčali. Upam, da bom kmalu nehala skrivati ​​noge v zaprtih čevljih..",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4264,11 +4264,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rolana Petrasku",
-        "text": "Če potrebujete učinkovito in poceni zdravilo proti glivicam, priporočam Exofeet Oil! Hitro pomaga in vam omogoča, da za vedno pozabite na to okužbo!",
+        "text": "Če potrebujete učinkovito in poceni zdravilo proti glivicam, priporočam Desalix! Hitro pomaga in vam omogoča, da za vedno pozabite na to okužbo!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4293,11 +4293,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ingrid Šarton",
-        "text": "Spopadanje z glivicami zahteva veliko potrpljenja. Težava zahteva dolgotrajno terapijo, to vsi vedo. A s pomočjo Exofeet Oil je bilo vse hitro in učinkovito. En tečaj - in popolnoma zdravi nohti!",
+        "text": "Spopadanje z glivicami zahteva veliko potrpljenja. Težava zahteva dolgotrajno terapijo, to vsi vedo. A s pomočjo Desalix je bilo vse hitro in učinkovito. En tečaj - in popolnoma zdravi nohti!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4322,11 +4322,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Alejandro Malber",
-        "text": "Bilo mi je neprijetno zaradi vonja, ko sem se sezul, žena mi je prinesla Exofeet Oil. Zdravilo je pomagalo. Ni vonja, noge so me po nošenju čevljev prenehale srbeti. Nisem ga uporabljal šest mesecev in težava se ni vrnila!",
+        "text": "Bilo mi je neprijetno zaradi vonja, ko sem se sezul, žena mi je prinesla Desalix. Zdravilo je pomagalo. Ni vonja, noge so me po nošenju čevljev prenehale srbeti. Nisem ga uporabljal šest mesecev in težava se ni vrnila!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4351,11 +4351,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ninel Lambert",
-        "text": "Pomagal mi je, da sem se znebila glivic v nekaj tednih! Stanje kože se je izboljšalo, nohti rastejo zdravi in ​​močni. Bodite previdni pri izbiri manikerice ali še bolje imejte Exofeet Oil na zalogi!",
+        "text": "Pomagal mi je, da sem se znebila glivic v nekaj tednih! Stanje kože se je izboljšalo, nohti rastejo zdravi in ​​močni. Bodite previdni pri izbiri manikerice ali še bolje imejte Desalix na zalogi!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5691,13 +5691,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Meri Lučesku",
-        "text": "Ko so se začele težave s sluhom, sem dolgo iskala zdravilo. Priporočamo Ottomax+. Učinek zagotovo je! Spet sem prenehala spraševati sogovornika. In to je poceni!",
+        "text": "Ko so se začele težave s sluhom, sem dolgo iskala zdravilo. Priporočamo Ausen. Učinek zagotovo je! Spet sem prenehala spraševati sogovornika. In to je poceni!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5722,8 +5722,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Frederica Garsia",
         "text": "Odlično zdravilo za obnovo sluha. V nekaj tednih sem opazila pozitivne izboljšave. Če delate v hrupni industriji, ga lahko uporabite tudi za preventivo.",
@@ -5751,8 +5751,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mišel Farzio",
         "text": "Dobro za bolečine in hrup v ušesih. Pomaga odpraviti zvonjenje. Pros: učinkovitost, naravna sestava, dostopna cena.",
@@ -5780,11 +5780,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Orlando Lortes",
-        "text": "Več mesecev sem se boril s kapljicami za ušesa, dokler nisem izvedel za Ottomax+. Je veliko bolj priročen za uporabo in rezultati so tu. Moj sluh se je izboljšal in šumenje v ušesih je izginilo.",
+        "text": "Več mesecev sem se boril s kapljicami za ušesa, dokler nisem izvedel za Ausen. Je veliko bolj priročen za uporabo in rezultati so tu. Moj sluh se je izboljšal in šumenje v ušesih je izginilo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5809,8 +5809,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tomaš Olovecki",
         "text": "Pomaga pri težavah s sluhom. Učinkovit pri vnetju (vzel sem ga za otitis in je vse izginilo). Lajša bolečine.",
@@ -5838,11 +5838,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džuli Taroks",
-        "text": "Učinkovitost Ottomax+ sem cenila, ko sem po koncertu izgubil sluh. Pomaga. Velik plus je, da je izdelek v obliki kapsul, ne kapljic.",
+        "text": "Učinkovitost Ausen sem cenila, ko sem po koncertu izgubil sluh. Pomaga. Velik plus je, da je izdelek v obliki kapsul, ne kapljic.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5867,11 +5867,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gabriela Martinos",
-        "text": "Zaradi gripe se mi je zapletlo v ušesu. Strašno me je bolelo in imela sem tinitus. Tablete so lajšale bolečino, le Ottomax+ mi je pomagal popolnoma povrniti sluh. Zdaj ga priporočam svojim prijateljem in znancem!",
+        "text": "Zaradi gripe se mi je zapletlo v ušesu. Strašno me je bolelo in imela sem tinitus. Tablete so lajšale bolečino, le Ausen mi je pomagal popolnoma povrniti sluh. Zdaj ga priporočam svojim prijateljem in znancem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5896,11 +5896,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Henrijetta Jork",
-        "text": "S starostjo se je moj sluh začel hitro slabšati. Prijatelj specialist je priporočil Ottomax+. In res je pomagal! Osvobodil me je hrupa, ki me je nenehno preganjal.",
+        "text": "S starostjo se je moj sluh začel hitro slabšati. Prijatelj specialist je priporočil Ausen. In res je pomagal! Osvobodil me je hrupa, ki me je nenehno preganjal.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5925,8 +5925,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Albert Debores",
         "text": "Izdelek pomaga. Hvala za hitro dostavo do vaših vrat in možnost spletnega naročanja. Svetovalci so prijazni in odgovorijo na vsa vprašanja.",
@@ -5954,11 +5954,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Kortes",
-        "text": "Za babico sem naročila Ottomax+. In govori in vidim, da se ji je sluh izboljšal. Pravi tudi, da bolje spi. To pomeni, da lahko pomaga pri težavah, povezanih s starostjo!",
+        "text": "Za babico sem naročila Ausen. In govori in vidim, da se ji je sluh izboljšal. Pravi tudi, da bolje spi. To pomeni, da lahko pomaga pri težavah, povezanih s starostjo!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5983,8 +5983,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lukas Barbardes",
         "text": "Pomagalo se je znebiti zamašenosti ušes in zvonjenja. Začel sem bolje slišati. Razmišljam o še enem tečaju, da utrdim rezultate.",
@@ -6012,8 +6012,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Agnes Batroks",
         "text": "Odličen izdelek za zdravje ušes. Bogata in naravna sestava, učinkovitost, minimalne kontraindikacije. In to po tej ceni! Neverjetno!",
@@ -6041,11 +6041,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Salma Forexis",
-        "text": "To ni prvič, da jemljem Ottomax+. Pomaga pri kroničnih obolenjih in starostni izgubi sluha. Uporabljam ga tudi pri vnetjih. Z izdelkom sem zelo zadovoljen!",
+        "text": "To ni prvič, da jemljem Ausen. Pomaga pri kroničnih obolenjih in starostni izgubi sluha. Uporabljam ga tudi pri vnetjih. Z izdelkom sem zelo zadovoljen!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6070,8 +6070,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Moris Štraus",
         "text": "To zdravilo je pomagalo preprečiti operacijo in odstraniti slušni aparat. Po priporočilu specialista sem opravil več tečajev na leto. Slišim dobro, brez težav s sluhom.",
@@ -6099,11 +6099,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klarissa Mornos",
-        "text": "Delam v hrupnem prostoru in to negativno vpliva na moj sluh. In po Ottomaxu+ se je moj sluh veliko izboljšal, do večera ni bilo tinitusa, tudi spanje se mi je izboljšalo! Hvala za kakovosten in učinkovit izdelek!",
+        "text": "Delam v hrupnem prostoru in to negativno vpliva na moj sluh. In po Ausen se je moj sluh veliko izboljšal, do večera ni bilo tinitusa, tudi spanje se mi je izboljšalo! Hvala za kakovosten in učinkovit izdelek!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8460,10 +8460,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Džeremi Klosak",
         "text": "Pomagal mi je rešiti moje \"moške težave\". Ne bom šel v podrobnosti, vendar se je moja erekcija vrnila z novo močjo. Dolgo traja!",
@@ -8491,8 +8491,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ljubert Ferdinez",
         "text": "Deluje kot mora. V zadnjih mesecih niti enega neuspelega vžiga. Brez zasvojenosti ali stranskih učinkov.",
@@ -8520,8 +8520,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Delaskon",
         "text": "Naročila sem ga možu, ko sva imela težave s seksom. Vse je postalo veliko bolje, pogosteje in dlje. Izkazalo se je, da me mož še vedno lahko preseneti!",
@@ -8549,11 +8549,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Diego Santjago",
-        "text": "S starostjo se lahko vsak moški sooči s težavami v intimnem smislu. Tudi jaz sem jih imela, dokler nisem preizkusil  Wirex moške formule. Priporočam!",
+        "text": "S starostjo se lahko vsak moški sooči s težavami v intimnem smislu. Tudi jaz sem jih imela, dokler nisem preizkusil Viarex moške formule. Priporočam!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8578,11 +8578,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaudija Elkasar",
-        "text": "Presenetilo me je moževo obnašanje v zadnjem času, kot da se je vrnil v mladost. In potem sem v njegovi torbi našla moško formulo Wirex in vse razumela.",
+        "text": "Presenetilo me je moževo obnašanje v zadnjem času, kot da se je vrnil v mladost. In potem sem v njegovi torbi našla moško formulo Viarex in vse razumela.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8607,8 +8607,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucio Markes",
         "text": "Ima blag in dolgotrajen učinek, lahko ga jemljemo z alkoholom in ne škoduje zdravju.",
@@ -8636,8 +8636,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tomaš Žardek",
         "text": "Med tečajem vam lahko popolnoma povrne \"moč\". Po tečaju učinek ostane. Stranskih učinkov nisem imel.",
@@ -8665,11 +8665,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dafna Fokstrit",
-        "text": "Mož je zaradi stresa začel imeti težave »po moško«. Moža sem prepričala, da poskusi Wirex moško formulo, pomagalo je! Vrnila se mu je želja, seks vsak dan!",
+        "text": "Mož je zaradi stresa začel imeti težave »po moško«. Moža sem prepričala, da poskusi Viarex moško formulo, pomagalo je! Vrnila se mu je želja, seks vsak dan!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8694,11 +8694,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rebeka Štrauson",
-        "text": "Odlično orodje. Moj mož je zadovoljen z moško formulo Wirex, jaz pa končno zadovoljna s svojim možem. Sploh si nisem mislila, da lahko zdrži ure in ure!",
+        "text": "Odlično orodje. Moj mož je zadovoljen z moško formulo Viarex, jaz pa končno zadovoljna s svojim možem. Sploh si nisem mislila, da lahko zdrži ure in ure!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8723,8 +8723,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Avgustin Petres",
         "text": "Odličen izdelek, pomaga! Hvala za posvet in dostavo do vrat. Učinek se je pojavil od prvih dni uporabe.",
@@ -8752,8 +8752,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Orlando Dajres",
         "text": "Najboljši izdelek med analogi. Prednosti: samo vzemite tečaj in učinek ostane, lahko se jemlje z alkoholom, ne povzroča stranskih učinkov.",
@@ -8781,8 +8781,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lena Gavroš",
         "text": "V svojem in moževem imenu se vam najlepše zahvaljujem za tako kvaliteten izdelek. V naša življenja je vrnil intimnost in pomagal rešiti družino!",
@@ -8810,8 +8810,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lukijan Mornaš",
         "text": "Učinek je, ne zvišuje krvnega tlaka, je združljiv z alkoholom. Po tečaju ostane rezultat. Po mojem mnenju najboljši izdelek v kategoriji.",
@@ -8839,8 +8839,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Mihael Vernandez",
         "text": "Vznemirljiva stvar, dolga moč in izboljšani občutki. Poleg tega po dokaj ugodni ceni. Nisem našel nobenih slabosti.",
@@ -8868,11 +8868,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Viarex",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Vajns",
-        "text": "Malo sem verjel, da lahko moška formula Wirex pomaga, a sem se motil. Rezultat sem čutil od prvih dni, po tečaju se mi je zdravje povrnilo, s \"prijateljem\" ni bilo več težav.",
+        "text": "Malo sem verjel, da lahko moška formula Viarex pomaga, a sem se motil. Rezultat sem čutil od prvih dni, po tečaju se mi je zdravje povrnilo, s \"prijateljem\" ni bilo več težav.",
         "stars": [
           {
             "src": "img/svg/star.svg",

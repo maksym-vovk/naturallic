@@ -180,11 +180,11 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -209,8 +209,8 @@
       ],
       "text": "288 avis",
       "desc": "Huile naturelle à action bactéricide, destinée à combattre les manifestations des champignons",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "En savoir plus"
     },
@@ -435,12 +435,12 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -465,8 +465,8 @@
       ],
       "text": "341 avis",
       "desc": "Complexe pour améliorer les fonctions auditives avec une formule équilibrée de vitamines et de minéraux",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "En savoir plus"
     },
@@ -509,12 +509,12 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -539,8 +539,8 @@
       ],
       "text": "297 avis",
       "desc": "Produit pour hommes, destiné à normaliser les fonctions du système reproducteur et urogénital",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "En savoir plus"
     },
@@ -976,13 +976,13 @@
       "niche": "Catégorie: Varices"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1214,13 +1214,13 @@
       "niche": "Catégorie: Rajeunissement"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1282,13 +1282,13 @@
       "niche": "Catégorie: Parasites"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1612,22 +1612,22 @@
     "form_factor": "tube 30 ml, boîte en carton, notice technique, crème/gel",
     "short_description": "Gel à effet rafraîchissant conçu pour lutter contre les manifestations des varices",
     "description": "gel à base de plantes qui rafraîchit délicatement, soulage la lourdeur dans les jambes, renforce les parois des vaisseaux sanguins et prévient le développement des varices",
-    "compound": "<span class=\"attention\">Aqua, Glycérine, Propylène Glycol, Alcool dénaturé, Extrait d'Aesculus Hippocastanum, Extrait de Centella Asiatica, Extrait de racine de Ruscus Aculeatus, Extrait de culture de callus de Symphytum Officinale, Extrait de fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère d'acryloyldiméthyltaurate d'ammonium/VP, Acide salicylique, Menthol, Allantoïne, Hyaluronate de sodium, Phénoxyéthanol, Éthylhexylglycérine, EDTА Disodium.</span>.",
+    "compound": "<span class=\"attention\">Eau, Glycérine, Propylène Glycol, Alcool Dénaturé, Extrait d’Aesculus hippocastanum, Extrait de Centella Asiatica, Racine de Ruscus Aculeatus, Culture de calus de Symphytum Officinale, Fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère Ammonium Acryloyldiméthyltaurate/VP, Acide Salicylique, Menthol, Allantoïne, Hyaluronate de Sodium, Phénoxyéthanol, Éthylhexyl Glycérine, Disodium EDTA.</span>.",
     "usage": "appliquer par de légers mouvements de massage pendant 3-5 minutes, 2 fois par jour. Faire un test de tolérance cutanée avant application",
     "contraindications": "éviter le contact avec les yeux. Ne pas utiliser chez les enfants de moins de 3 ans ni sur des plaies ouvertes",
     "manufacturer": "Dalmatika (Bulgarie)",
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Pour la santé",
     "review_count": "288 avis",
     "niche": "Mycose",
-    "form_factor": "boîte en carton / flacon en verre avec pipette / 20 ml",
+    "form_factor": "boîte en carton / flacon en verre avec pipette / 30 ml",
     "short_description": "Huile naturelle à action bactéricide, conçue pour lutter contre les manifestations des champignons",
     "description": "complexe à base de 4 huiles (arbre à thé, cannelle, menthe, citronnelle) qui exerce une action anti-inflammatoire générale, antiseptique, tonifiante, nourrissante et hydratante sur la peau. Pénètre profondément et reste longtemps dans la zone affectée par le champignon",
-    "compound": "<span class=\"attention\">Alcool Dénaturé, Aqua, Propylène Glycol, Glycérine, Niacinamide, Extrait de Feuille de Symphytum Officinale, Extrait de Propolis, Extrait de Fleur de Chamomilla Recutita, Chlorhydrate d'Aluminium, Acide Salicylique, Phénylpropanol, o-Cymen-5-ol, Décylène Glycol, Huile de Feuille de Melaleuca Alternifolia, Allantoïne, Huile de Feuille de Cinnamomum Zeylanicum, Huile de Mentha Piperita, 4-Terpineol, Huile de Cymbopogon Flexuosus, Copolymère d'acrylates de Sodium, Gomme Xanthane, Lécithine, Disodium EDTА, Citral, Linalool, Limonène, Eugénol, Cinnamal, Benzoate de Benzyle, Géraniol</span>.",
+    "compound": "<span class=\"attention\">Eau, Glycérine, Huile d'Amande Douce, Paraffine Liquide, Polyacrylate de Sodium, Copolymère Hydroxyéthyl Acrylate/Sodium Acryloyldiméthyl Taurate, Polysorbate 80, PEG-40 Huile de Ricin Hydrogénée, Bisabolol, Acide Salicylique, Huile d'Arbre à Thé, Gluconolactone, Camphre, Polydecène Hydrogénée, Acétate de Tocophérol, Extrait de Clou de Girofle, Extrait de Marron d'Inde, Extrait de Mélilot, Extrait de Calendula, Extrait de Prêle, Extrait de Romarin, Extrait de Chamomille, Extrait de Bardane, Phénoxyéthanol, Hyaluronate de Sodium, Huile de Menthe Poivrée, Trideceth-6, BHT, Disodium EDTA, Éthylhexyl Glycérine, Gluconate de Calcium, Acide Citrique, Benzoate de Sodium, Sorbate de Potassium, gamma-Terpinène, alpha-Terpinène, Terpinolène, Limonène, Menthol.</span>.",
     "usage": "appliquer sur une peau propre et sèche de la plante des pieds, 2 fois par jour. Faire un test de compatibilité avant usage",
     "contraindications": "intolérance individuelle aux composants",
     "manufacturer": "Dalmatika (Bulgarie)",
@@ -1724,15 +1724,15 @@
     "suitability": "2 leti ",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Pour la santé",
     "review_count": "341 avis",
     "niche": "Ouïe",
     "form_factor": "Blister, 10 gélules, boîte en carton, notice technique",
     "short_description": "Complexe pour améliorer les fonctions auditives avec une formule équilibrée de vitamines et de minéraux",
     "description": "Complexe de composants naturels dont l’action vise à réduire les acouphènes et ralentir la perte d’audition",
-    "compound": "Acide L-ascorbique, gélatine (enveloppe de la capsule), Cellulose microcristalline (agent de charge), Acétyl L-carnitine HCl, Extrait de feuille de ginkgo biloba, oxyde de magnésium, nicotinamide, oxyde de zinc, stéarate de magnésium (agent de charge), chlorhydrate de thiamine, dioxyde de silicium (anti-agglomérant), riboflavine, chlorhydrate de pyridoxine, mélatonine, carbonate de calcium (colorant alimentaire, enveloppe de la capsule)",
+    "compound": "Acide L-ascorbique, Gélatine, Vitamine C (Acide L-ascorbique), Cellulose Microcristalline, Acétate de L-carnitine HCl, Extrait de Feuille de Ginkgo Biloba, Oxyde de Magnésium, Nicotinamide, Zinc, Stéarate de Magnésium, Dioxyde de Silicium.",
     "usage": "Adultes: 1 gélule par jour au cours ou après le repas. Durée d’une cure : 2 mois. Ne pas dépasser la dose journalière recommandée",
     "contraindications": "Intolérance individuelle aux composants, âge < 18 ans.",
     "manufacturer": "Dalmatika (Bulgarie)",
@@ -1754,15 +1754,15 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Pour la santé",
     "review_count": "297 avis",
     "niche": "Puissance",
     "form_factor": "blister, 20 gélules,",
     "short_description": "Produit pour hommes destiné à normaliser les fonctions du système reproducteur et urinaire",
-    "description": "Complexe de composants végétaux qui stimule le désir sexuel et améliore la fonction sexuelle chez l’homme, normalise l’état fonctionnel du système urogénital en cas de dysfonction érectile (pour augmenter la libido et la puissance), améliore la qualité du sperme, ainsi que les performances mentales, physiques et les capacités d’adaptation chez l’homme. L’action de formule pour hommes Wirex est due aux propriétés fonctionnelles de ses ingrédients actifs et vise à résoudre les problèmes de fonction sexuelle, libido, spermatogenèse, mémoire et énergie chez l’homme.",
-    "compound": "Extrait de canneberge, gélatine (enveloppe de la gélule), extrait de fruit de palmier nain, extrait de racine d’ortie, cellulose microcristalline (excipient), citrate de zinc, stéarate de magnésium (excipient), dioxyde de silicium (anti-agglomérant), colorants (enveloppe de la gélule) : E171, E132.",
+    "description": "Complexe de composants végétaux qui stimule le désir sexuel et améliore la fonction sexuelle chez l’homme, normalise l’état fonctionnel du système urogénital en cas de dysfonction érectile (pour augmenter la libido et la puissance), améliore la qualité du sperme, ainsi que les performances mentales, physiques et les capacités d’adaptation chez l’homme. L’action de formule pour hommes Viarex est due aux propriétés fonctionnelles de ses ingrédients actifs et vise à résoudre les problèmes de fonction sexuelle, libido, spermatogenèse, mémoire et énergie chez l’homme.",
+    "compound": "Extrait de Racine de Maca (Lepidium meyenii 4:1) - 60 mg, Extrait de Baie de Canneberge (Vaccinium macrocarpon, 35% proanthocyanidines) - 53 mg, Extrait de Fruit de Palmier Nain (Serenoa repens 5:1) - 50 mg, Extrait de Racine d'Ortie (Urtica dioica, 1% bêta-sitostérol) - 40 mg, Zinc (Citrate de Zinc Trihydraté) - 5 mg.",
     "usage": "Prendre 1 gélule 1 à 2 fois par jour au cours des repas. Durée d’une cure : 45 jours. Cure renouvelable si nécessaire. Dose quotidienne recommandée : 2 gélules.",
     "contraindications": "Intolérance individuelle à l’un des ingrédients, âge <18 ans. Avant utilisation, il est conseillé de consulter un médecin. Ce produit n’est pas un médicament. Ne pas dépasser la dose journalière recommandée. Tenir hors de portée des enfants. Ce complément alimentaire ne doit pas remplacer une alimentation variée.",
     "manufacturer": "Dalmatika (Bulgarie)",
@@ -1948,7 +1948,7 @@
       "newPrice": "82"
     },
     "exofeet_oil": {
-      "productName": "Exofeet Oil",
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "89"
     },
@@ -1982,8 +1982,8 @@
       "salePrice": "24",
       "newPrice": "135"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "26",
       "newPrice": "136"
     },
@@ -1992,8 +1992,8 @@
       "salePrice": "24",
       "newPrice": "88"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -3942,13 +3942,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Gabriel De Ryck",
-        "text": "J'ai essayé les gouttes Exofeet Oil l'année dernière. Le problème a disparu et n'est pas réapparu depuis. La peau et les ongles de mes pieds sont en bonne santé, je n'ai plus aucun souci.",
+        "text": "J'ai essayé les gouttes Desalix l'année dernière. Le problème a disparu et n'est pas réapparu depuis. La peau et les ongles de mes pieds sont en bonne santé, je n'ai plus aucun souci.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3973,11 +3973,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Olivia Lhoest",
-        "text": "Dès les premiers jours d'utilisation d'Exofeet Oil, les démangeaisons et les odeurs désagréables ont disparu. Je continue à utiliser le produit jusqu'à ce que le problème soit complètement résolu.",
+        "text": "Dès les premiers jours d'utilisation d'Desalix, les démangeaisons et les odeurs désagréables ont disparu. Je continue à utiliser le produit jusqu'à ce que le problème soit complètement résolu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4002,11 +4002,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Lina Van Hecke",
-        "text": "J'ai vécu avec cette mycose pendant des années, et il s'avère qu'il est si facile de s'en débarrasser. Grâce à Exofeet Oil, je l'ai oubliée et j'espère que c'est pour toujours!",
+        "text": "J'ai vécu avec cette mycose pendant des années, et il s'avère qu'il est si facile de s'en débarrasser. Grâce à Desalix, je l'ai oubliée et j'espère que c'est pour toujours!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4031,11 +4031,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Dimitri Van Quaethem",
-        "text": "J'ai une expérience positive de l'utilisation d'Exofeet Oil. Je me suis débarrassé de la mycose. Les démangeaisons, l'odeur désagréable et les crevasses sur les pieds ont disparu rapidement!",
+        "text": "J'ai une expérience positive de l'utilisation d'Desalix. Je me suis débarrassé de la mycose. Les démangeaisons, l'odeur désagréable et les crevasses sur les pieds ont disparu rapidement!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4060,11 +4060,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Fernande Piret",
-        "text": "Exofeet Oil est un produit formidable! Il est facile à utiliser et a un parfum agréable. Mais surtout, il est efficace. Il élimine les démangeaisons et aide à se débarrasser de la mycose.",
+        "text": "Desalix est un produit formidable! Il est facile à utiliser et a un parfum agréable. Mais surtout, il est efficace. Il élimine les démangeaisons et aide à se débarrasser de la mycose.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4089,11 +4089,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Amélie De Muer",
-        "text": "Je crois désormais qu'il est possible de dire adieu à la mycose des ongles en quelques semaines. Avant, j'en souffrais depuis des mois. Merci Exofeet Oil!",
+        "text": "Je crois désormais qu'il est possible de dire adieu à la mycose des ongles en quelques semaines. Avant, j'en souffrais depuis des mois. Merci Desalix!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4118,11 +4118,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Laurent Vandeneynde",
-        "text": "Ma femme a commandé Exofeet Oil, qui a été livré en quelques jours. Les crevasses ont cicatrisé, les démangeaisons ont disparu. Je me suis enfin débarrassé de cette odeur désagréable. 10 sur 10!",
+        "text": "Ma femme a commandé Desalix, qui a été livré en quelques jours. Les crevasses ont cicatrisé, les démangeaisons ont disparu. Je me suis enfin débarrassé de cette odeur désagréable. 10 sur 10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4147,8 +4147,8 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Aria Delbaere",
         "text": "Un bon produit à un prix abordable. Il aide à lutter contre les mycoses, élimine tous les signes d'infection et régénère la peau et les ongles. Je suis satisfaite à 100%!",
@@ -4176,11 +4176,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Lizzy Vanmullem",
-        "text": "J'ai essayé de me débarrasser de la mycose à l'aide de différentes crèmes et remèdes traditionnels. En vain. Seul Exofeet Oil m'a aidée. Dès les premiers jours, les démangeaisons ont disparu, puis tout le reste. Maintenant, j'ai des pieds en bonne santé!",
+        "text": "J'ai essayé de me débarrasser de la mycose à l'aide de différentes crèmes et remèdes traditionnels. En vain. Seul Desalix m'a aidée. Dès les premiers jours, les démangeaisons ont disparu, puis tout le reste. Maintenant, j'ai des pieds en bonne santé!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4205,11 +4205,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Marthe De Schrijver",
-        "text": "Je connais Exofeet Oil depuis longtemps. D'après mon expérience, je peux dire que c'est le meilleur remède contre la mycose! Après le cours, il n'y a plus aucune trace sur la peau ni sur les ongles!",
+        "text": "Je connais Desalix depuis longtemps. D'après mon expérience, je peux dire que c'est le meilleur remède contre la mycose! Après le cours, il n'y a plus aucune trace sur la peau ni sur les ongles!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4234,11 +4234,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Pavlina Vanraes",
-        "text": "J'ai commandé Exofeet Oil récemment et je vois déjà le résultat. Ma peau est hydratée, plus douce, même les zones rugueuses se sont adoucies. J'espère que je vais bientôt pouvoir arrêter de cacher mes pieds dans des chaussures fermées...",
+        "text": "J'ai commandé Desalix récemment et je vois déjà le résultat. Ma peau est hydratée, plus douce, même les zones rugueuses se sont adoucies. J'espère que je vais bientôt pouvoir arrêter de cacher mes pieds dans des chaussures fermées...",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4263,11 +4263,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Rolande Leemans",
-        "text": "Si vous cherchez un remède efficace et peu coûteux contre les mycoses, je vous recommande Exofeet Oil! Il agit rapidement et vous permet d'oublier définitivement cette infection!",
+        "text": "Si vous cherchez un remède efficace et peu coûteux contre les mycoses, je vous recommande Desalix! Il agit rapidement et vous permet d'oublier définitivement cette infection!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4292,11 +4292,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Ingrid De Sutter",
-        "text": "Pour venir à bout des mycoses, il faut beaucoup de patience. Tout le monde sait que ce problème nécessite un soin durable. Mais grâce à Exofeet Oil, tout s'est passé rapidement et efficacement. Un seul cours et voilà des ongles en parfaite santé!",
+        "text": "Pour venir à bout des mycoses, il faut beaucoup de patience. Tout le monde sait que ce problème nécessite un soin durable. Mais grâce à Desalix, tout s'est passé rapidement et efficacement. Un seul cours et voilà des ongles en parfaite santé!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4321,11 +4321,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Alexandre Pollet",
-        "text": "L'odeur me gênait quand j'enlevais mes chaussures, ma femme m'a apporté Exofeet Oil. Le produit m'a aidé. Il n'y a plus d'odeur et mes pieds ne me démangent plus après avoir porté des chaussures. Cela fait six mois que je ne l'utilise plus et le problème n'est pas revenu!",
+        "text": "L'odeur me gênait quand j'enlevais mes chaussures, ma femme m'a apporté Desalix. Le produit m'a aidé. Il n'y a plus d'odeur et mes pieds ne me démangent plus après avoir porté des chaussures. Cela fait six mois que je ne l'utilise plus et le problème n'est pas revenu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4350,11 +4350,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Desalix",
         "rating_text": "Excellente qualité!",
         "name": "Ninelle Vanneste",
-        "text": "Il m'a aidé à me débarrasser de la mycose en quelques semaines ! L'état de ma peau s'est amélioré, mes ongles poussent sains et solides. Soyez prudent lorsque vous choisissez votre manucure, ou mieux encore, ayez toujours Exofeet Oil en réserve!",
+        "text": "Il m'a aidé à me débarrasser de la mycose en quelques semaines ! L'état de ma peau s'est amélioré, mes ongles poussent sains et solides. Soyez prudent lorsque vous choisissez votre manucure, ou mieux encore, ayez toujours Desalix en réserve!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5690,13 +5690,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Marie Luysen",
-        "text": "Lorsque mes problèmes auditifs ont commencé, j'ai longtemps cherché un remède. On m'a recommandé Ottomax+. L'effet est indéniable ! Je n'ai plus besoin de demander à mon interlocuteur de répéter. Et en plus, ce n'est pas cher!",
+        "text": "Lorsque mes problèmes auditifs ont commencé, j'ai longtemps cherché un remède. On m'a recommandé Ausen. L'effet est indéniable ! Je n'ai plus besoin de demander à mon interlocuteur de répéter. Et en plus, ce n'est pas cher!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5721,8 +5721,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Frédérique De Loor",
         "text": "C'est un excellent remède pour restaurer l'audition. J'ai constaté une amélioration positive après seulement quelques semaines. Si vous travaillez dans un environnement bruyant, vous pouvez également l'utiliser à titre préventif.",
@@ -5750,8 +5750,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Michel Van Hecke",
         "text": "Il soulage bien les douleurs et les bruits dans les oreilles. Il aide à éliminer les bourdonnements. Ses avantages: efficacité, composition naturelle, prix abordable.",
@@ -5779,11 +5779,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Orlando De Munck",
-        "text": "J'ai souffert pendant des mois avec des gouttes pour les oreilles, jusqu'à ce que je découvre Ottomax+. Il est beaucoup plus pratique à utiliser et donne des résultats. J'entends mieux, les bourdonnements dans les oreilles ont disparu.",
+        "text": "J'ai souffert pendant des mois avec des gouttes pour les oreilles, jusqu'à ce que je découvre Ausen. Il est beaucoup plus pratique à utiliser et donne des résultats. J'entends mieux, les bourdonnements dans les oreilles ont disparu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5808,8 +5808,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Tomás Van Calster",
         "text": "Il aide en cas de problèmes d'audition. Il est efficace en cas d'inflammation (je l'ai pris pour une otite et tout est rentré dans l'ordre). Il soulage la douleur.",
@@ -5837,11 +5837,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Julie De Ryck",
-        "text": "J'ai apprécié l'efficacité d'Ottomax+ lorsque j'ai perdu l'ouïe après un concert. Il aide. Le fait qu'il se présente sous forme de gélules et non de gouttes est un gros avantage.",
+        "text": "J'ai apprécié l'efficacité d'Ausen lorsque j'ai perdu l'ouïe après un concert. Il aide. Le fait qu'il se présente sous forme de gélules et non de gouttes est un gros avantage.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5866,11 +5866,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Gabriel Vannoppen",
-        "text": "La grippe a entraîné des complications au niveau de l'oreille. J'avais très mal et j'avais des bourdonnements dans les oreilles. Les comprimés ont soulagé la douleur, mais seul Ottomax+ m'a aidé à retrouver complètement mon audition. Maintenant, je le recommande à mes connaissances et à mes amis!",
+        "text": "La grippe a entraîné des complications au niveau de l'oreille. J'avais très mal et j'avais des bourdonnements dans les oreilles. Les comprimés ont soulagé la douleur, mais seul Ausen m'a aidé à retrouver complètement mon audition. Maintenant, je le recommande à mes connaissances et à mes amis!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5895,11 +5895,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Henriette De Saedeleer",
-        "text": "Avec l'âge, mon audition a commencé à se détériorer rapidement. Un spécialiste de ma connaissance m'a recommandé Ottomax+. Et ça m'a vraiment aidé ! Ça m'a débarrassé du bruit qui me poursuivait constamment.",
+        "text": "Avec l'âge, mon audition a commencé à se détériorer rapidement. Un spécialiste de ma connaissance m'a recommandé Ausen. Et ça m'a vraiment aidé ! Ça m'a débarrassé du bruit qui me poursuivait constamment.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5924,8 +5924,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Albert De Witte",
         "text": "Ce produit est efficace. Merci pour la livraison rapide à domicile et la possibilité de commander en ligne. Les conseillers sont aimables et répondent à toutes les questions.",
@@ -5953,11 +5953,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Helena Van Zeebroeck",
-        "text": "J'ai commandé Ottomax+ pour ma grand-mère. Elle dit, et je constate, que son audition s'est améliorée. Elle dit aussi qu'elle dort mieux. Cela signifie que ce produit peut aider à lutter contre les problèmes liés à l'âge!",
+        "text": "J'ai commandé Ausen pour ma grand-mère. Elle dit, et je constate, que son audition s'est améliorée. Elle dit aussi qu'elle dort mieux. Cela signifie que ce produit peut aider à lutter contre les problèmes liés à l'âge!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5982,8 +5982,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Lucas De Roover",
         "text": "Il m'a aidé à me débarrasser de la sensation d'oreille bouchée et des bourdonnements. J'entends mieux. Je pense suivre un autre cours pour consolider le résultat.",
@@ -6011,8 +6011,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Agnes Van Ransbeeck",
         "text": "Un excellent remède pour la santé des oreilles. Une composition riche et naturelle, une efficacité, un minimum de contre-indications. Et en plus à un tel prix! Formidable!",
@@ -6040,11 +6040,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Salma De Muer",
-        "text": "Ce n'est pas la première fois que j'achète Ottomax+. Il aide à soulager les maux chroniques et les troubles auditifs liés à l'âge. Je l'utilise également en cas d'inflammation. Je suis très satisfaite de ce produit!",
+        "text": "Ce n'est pas la première fois que j'achète Ausen. Il aide à soulager les maux chroniques et les troubles auditifs liés à l'âge. Je l'utilise également en cas d'inflammation. Je suis très satisfaite de ce produit!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6069,8 +6069,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Maurice Van Impe",
         "text": "Ce produit m'a aidé à éviter une opération et à retirer mon appareil auditif. J'ai suivi plusieurs cours par an, comme recommandé par le spécialiste. J'entends bien, je n'ai aucun problème d'audition.",
@@ -6098,11 +6098,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Ausen",
         "rating_text": "Excellente qualité!",
         "name": "Clarisse De Backer",
-        "text": "Je travaille dans un environnement bruyant, ce qui a un impact négatif sur mon audition. Mais depuis que j'utilise Ottomax+, j'entends beaucoup mieux, je n'ai plus de bourdonnements dans les oreilles le soir et je dors même mieux ! Merci pour ce produit efficace et de qualité!",
+        "text": "Je travaille dans un environnement bruyant, ce qui a un impact négatif sur mon audition. Mais depuis que j'utilise Ausen, j'entends beaucoup mieux, je n'ai plus de bourdonnements dans les oreilles le soir et je dors même mieux ! Merci pour ce produit efficace et de qualité!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8459,10 +8459,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Jérémie Closset",
         "text": "Il m'a aidé à résoudre mes «problèmes masculins». Je n'entrerai pas dans les détails, mais mon érection est revenue en force. Elle dure longtemps!",
@@ -8490,8 +8490,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Lubert Ferdinck",
         "text": "Il fonctionne comme il faut. Pas un seul raté ces derniers mois. Sans accoutumance ni effets secondaires.",
@@ -8519,8 +8519,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Barbara Delcroix",
         "text": "Je l'ai commandé pour mon mari lorsque nous avons commencé à avoir des problèmes sexuels. Tout est devenu beaucoup mieux, plus fréquent et plus long. Il s'avère que mon mari peut encore me surprendre!",
@@ -8548,11 +8548,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Didier Santens",
-        "text": "Avec l'âge, chaque homme peut rencontrer des problèmes d'ordre intime. J'en avais aussi, jusqu'à ce que j'essaie Wirex men`s formula. Je le recommande!",
+        "text": "Avec l'âge, chaque homme peut rencontrer des problèmes d'ordre intime. J'en avais aussi, jusqu'à ce que j'essaie Viarex. Je le recommande!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8577,11 +8577,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Claudine Elsen",
-        "text": "Le comportement de mon mari m'étonnait ces derniers temps, comme s'il avait retrouvé sa jeunesse. Puis j'ai trouvé Wirex men`s formula dans son sac et j'ai tout compris.",
+        "text": "Le comportement de mon mari m'étonnait ces derniers temps, comme s'il avait retrouvé sa jeunesse. Puis j'ai trouvé Viarex dans son sac et j'ai tout compris.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8606,8 +8606,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Luc Maes",
         "text": "Effet doux et durable, peut être pris avec de l'alcool et n'est pas nocif pour la santé.",
@@ -8635,8 +8635,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Thomas Jardenne",
         "text": "Un cours complet peut restaurer entièrement votre « puissance ». L'effet persiste après le cours. Je n'ai pas eu d'effets secondaires.",
@@ -8664,11 +8664,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Daphné Foqué",
-        "text": "Mon mari a commencé à avoir des problèmes «masculins» à cause du stress. Je l'ai convaincu d'essayer Wirex men`s formula, et ça a marché! Il a retrouvé son désir, on fait l'amour tous les jours!",
+        "text": "Mon mari a commencé à avoir des problèmes «masculins» à cause du stress. Je l'ai convaincu d'essayer Viarex, et ça a marché! Il a retrouvé son désir, on fait l'amour tous les jours!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8693,11 +8693,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Rebecca Straeten",
-        "text": "C'est un super produit. Mon mari est content de Wirex men`s formula, et moi, je suis enfin contente de mon mari. Je ne pensais pas qu'il pouvait tenir aussi longtemps!",
+        "text": "C'est un super produit. Mon mari est content de Viarex, et moi, je suis enfin contente de mon mari. Je ne pensais pas qu'il pouvait tenir aussi longtemps!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8722,8 +8722,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Auguste Peters",
         "text": "Excellent produit, ça marche! Merci pour les conseils et la livraison à domicile. Les effets se sont fait sentir dès les premiers jours d'utilisation.",
@@ -8751,8 +8751,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Roland Deraes",
         "text": "Le meilleur produit parmi ses concurrents. Avantages: il suffit de suivre un cours et les effets persistent, il peut être pris avec de l'alcool, il ne provoque pas d'effets secondaires.",
@@ -8780,8 +8780,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Lena Gavray",
         "text": "En mon nom et au nom de mon mari, merci beaucoup pour ce produit de grande qualité. Il a ramené l'intimité dans notre vie et nous a aidés à sauver notre famille!",
@@ -8809,8 +8809,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Lucien Mornay",
         "text": "Il est efficace, ne fait pas monter la tension et est compatible avec l'alcool. Après le cours, le résultat persiste. À mon avis, c'est le meilleur produit de sa catégorie.",
@@ -8838,8 +8838,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Michel Verniers",
         "text": "Produit stimulant, puissance durable et sensations intensifiées. De plus, son prix est assez abordable. Je n'ai trouvé aucun inconvénient.",
@@ -8867,11 +8867,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Viarex",
         "rating_text": "Excellente qualité!",
         "name": "Robert Vyncke",
-        "text": "Je ne croyais pas vraiment que Wirex men`s formula pouvait m'aider, mais je me trompais. J'ai ressenti les effets dès les premiers jours, après le cours, ma santé s'est rétablie et je n'ai plus eu de problèmes avec mon «ami».",
+        "text": "Je ne croyais pas vraiment que Viarex pouvait m'aider, mais je me trompais. J'ai ressenti les effets dès les premiers jours, après le cours, ma santé s'est rétablie et je n'ai plus eu de problèmes avec mon «ami».",
         "stars": [
           {
             "src": "img/svg/star.svg",

@@ -183,11 +183,11 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -212,8 +212,8 @@
       ],
       "text": "288 atsauksmes",
       "desc": "Dabīgā eļļa ar baktericīdu iedarbību, kura domātā sēnītes izpausmju novēršanai.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -438,12 +438,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -468,8 +468,8 @@
       ],
       "text": "341 atsauksmes",
       "desc": "Komplekss dzirdes funkciju uzlabošanai ar sabalansētu vitamīnu un minerālvielu formulu.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -512,12 +512,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -542,8 +542,8 @@
       ],
       "text": "297 atsauksmes",
       "desc": "Līdzeklis vīriešiem, kas vērsts uz reproduktīvās sistēmas funkciju normalizēšanu.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -982,13 +982,13 @@
       "niche": "Virziens: Varikoze"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1220,13 +1220,13 @@
       "niche": "Virziens: Ādas atjaunošana"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1288,13 +1288,13 @@
       "niche": "Virziens: Parazīti"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1619,22 +1619,22 @@
     "form_factor": "tuba 30 ml, kartona kārba, lietošanās instrukcija, krēms/gels",
     "short_description": "Gels ar dzesējošu efektu, kurš domāts varikozes izpausmju novēršanai.",
     "description": "gels, uz augu bāzes, kas maigi atdzesē un noņem smaguma sajūtu kājās, stiprina asinsvadu sieniņas un novērš varikozes attīstību.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat, Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА.</span>.",
+    "compound": "Ūdens, Glicerīns, Propilēnglikols, Denaturēts alkohols, Zirgkastaņas ekstrakts (Aesculus hippocastanum), Centella Asiatica ekstrakts, Ruscus Aculeatus saknes ekstrakts, Symphytum Officinale kalusa kultūras ekstrakts, Chamomilla Recutita ziedu ekstrakts, Niacinamīds, Troxerutīns, Kofeīns, Ureja, Arginīns, Ammonium Acryloyldimethyltaurate/VP kopolimērs, Salicilskābe, Mentols, Allantoīns, Nātrija hialuronāts, Fenoksietanols, Etilheksilglicerīns, Disodium EDTA.",
     "usage": "uzklāt ar vieglām masāžas kustībām 3-5 minūtes 2 reizes dienā. Pirms lietošanas ir jāveic panesamības tests uz ādas.",
     "contraindications": "izvairīties no saskares ar acīm. Nelietot bērniem līdz trīs gadu vecumā un neuzklāt tieši uz atklātām brūcēm.",
     "manufacturer": "Dalmatika (Bulgārija)",
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Veselībai",
     "review_count": "288 atsauksmes",
     "niche": "Sēnīte",
-    "form_factor": "kartona kārba / stikla pudelīte, pipete/20 ml.",
+    "form_factor": "kartona kārba / stikla pudelīte, pipete/30 ml.",
     "short_description": "Dabīgā eļļa ar baktericīdu iedarbību, kura domātā sēnītes izpausmju novēršanai.",
     "description": "kompleksam, kura pamatā ir 4 eļļas (tējas koks, kanēlis, piparmētras, citronzāle), ir vispārēja pretiekaisuma, antiseptiska, tonizējoša, barojoša un mitrinoša iedarbība uz ādu. Iekļūstot dziļāk ādā tā ilgstoši paliek sēnītes lokalizācijas vietā.",
-    "compound": "<span class=\"attention\">Alcohol Denat, Aqua, Propylene Glycol, Glycerin, Niacinamide, Symphytum Officinale Leaf Extract, Propolis Extract, Chamomilla Recutita Flower Extract, Aluminum Chlorohydrate, Salicylic Acid, Phenylpropanol, o-Cymen-5-ol, Decylene Glycol, Melaleuca Alternifolia Leaf Oil, Allantoin, Cinnamomum Zeylanicum Leaf Oil, Mentha Piperita Oil, 4-Terpineol, Cymbopogon Flexuosus Oil, Sodium Acrylates Copolymer, Xanthan Gum, Lecithin, Disodium EDTА, Citral, Linalool, Limonene, Eugenol, Cinnamal, Benzyl Benzoate, Geraniol</span>.",
+    "compound": "Ūdens, Glicerīns, Saldā mandeļu eļļa, Šķidrais parafīns, Nātrija poliakrilāts, Hidroksietil akrilāta/Nātrija akriloildimetiltaurāta kopolimērs, Polisorbāts 80, PEG-40 hidrogenēta rīcineļļa, Bisabolols, Salicilskābe, Tējas koka eļļa, Glukonolaktons, Kāmfars, Hidrogenēts polidekens, Tokoferila acetāts, Krustnagliņas ekstrakts, Zirgkastaņas sēklu ekstrakts, Melilota ekstrakts, Kliņģerīšu ekstrakts, Zirņu ekstrakts, Rozmarīna lapu ekstrakts, Chamomilla recutita ekstrakts, Arktija ekstrakts, Fenoksietanols, Nātrija hialuronāts, Piparmētru eļļa, Trideceth-6, BHT, Disodium EDTA, Etilheksilglicerīns, Kalcija glikonāts, Citronskābe, Nātrija benzoāts, Kālija sorbāts, gamma-Terpinēns, alfa-Terpinēns, Terpinols, Pinēns, Terpinolēns, Limonēns, Mentols.",
     "usage": "uzklāt uz labi attīrītas un nosusinātas pēdu ādas 2 reizes dienā. Pirms lietošanas pārbaudiet eļļas saderību ar Jūsu ādu.",
     "contraindications": "Sastāvdaļu individuālā nepanesība.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1731,15 +1731,15 @@
     "suitability": "2 gadi ",
     "keep": "Uzglabāt temperatūrā no 0°C līdz 25°C, prom no tiešiem saules stariem un mitruma."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Veselībai",
     "review_count": "341 atsauksmes",
     "niche": "Dzirde",
     "form_factor": "blisters, kapsulas 10 gab, kartona kārba, lietošanās instrukcija",
     "short_description": "Komplekss dzirdes funkciju uzlabošanai ar sabalansētu vitamīnu un minerālvielu formulu.",
     "description": "dabīgo komponentu komplekss, kuru darbība vērsta uz trokšņa novēršanu ausīs un dzirdes zuduma palēnināšanu.",
-    "compound": "L-ascorbic acid, gelatin, Vitamin C (L-ascorbic acid) (capsule shell), microcrystalline cellulose (filler), acetyl L-carnitine hcl, ginkgo biloba leaf extract, magnesium oxide, nicotinamide, zinc, magnesium stearate (filler), thiamine hydrochloride, silicon dioxide (anti-caking agent), riboflavin, pyridoxine hydrochloride.",
+    "compound": "L-askorbīnskābe, Želatīns, C vitamīns (L-askorbīnskābe), Mikrokristāliskā celuloze, Acetil L-karnitīns HCl, Ginkgo biloba lapu ekstrakts, Magnija oksīds, Nikotinamīds, Cinks, Magnija stearāts, Silīcija dioksīds.",
     "usage": "pieaugušajiem 1 kapsula 1-2 reizes dienā ēšanas laikā vai pēc tās. Viena kursa ilgums – 2 mēneši. Nepārsniedziet ieteikto dienas devu.",
     "contraindications": "sastāvdaļu individuālā nepanesība, bērna vecums (līdz 18 gadiem).",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1761,15 +1761,15 @@
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Veselībai",
     "review_count": "297 atsauksmes",
     "niche": "Potence",
     "form_factor": "blisters, kapsulas 10 gab.",
     "short_description": "Līdzeklis vīriešiem, kas vērsts uz reproduktīvās sistēmas funkciju normalizēšanu.",
-    "description": "augu komponentu komplekss, kas pastiprina seksuālo vēlmi un uzlabo seksuālo funkciju vīriešiem, normalizē uroģenitālas sistēmas funkcionālo stāvokli pie erektilās disfunkcijas (libido un potences paaugstināšanai), uzlabo spermas kvalitāti, kā arī paaugstina garīgās un fiziskās darba spējas un adaptācijas spējas vīriešiem. Wirex men’s formula darbība ir nosacīta ar \u200B\u200B aktīvo sastāvdaļu funkcionālajām īpašībām un ir vērsta \u200B\u200B uz seksuālo funkciju, libido, spermatoģenēzes, atmiņas un enerģijas problēmu risināšanu vīriešiem.",
-    "compound": "Cranberry berry extract, gelatin (capsule shell), Saw palmetto fruit extract, Nettle root extract, microcrystalline cellulose (filler), Zinc citrate, magnesium stearate (filler), silicon dioxide (anti-caking agent), colorants (capsule shell): E171, E132.",
+    "description": "augu komponentu komplekss, kas pastiprina seksuālo vēlmi un uzlabo seksuālo funkciju vīriešiem, normalizē uroģenitālas sistēmas funkcionālo stāvokli pie erektilās disfunkcijas (libido un potences paaugstināšanai), uzlabo spermas kvalitāti, kā arī paaugstina garīgās un fiziskās darba spējas un adaptācijas spējas vīriešiem. Viarex darbība ir nosacīta ar \u200B\u200B aktīvo sastāvdaļu funkcionālajām īpašībām un ir vērsta \u200B\u200B uz seksuālo funkciju, libido, spermatoģenēzes, atmiņas un enerģijas problēmu risināšanu vīriešiem.",
+    "compound": "Maca saknes ekstrakts (Lepidium meyenii 4:1) - 60 mg, Dzērveņu ogu ekstrakts (Vaccinium macrocarpon, 35% proantocianidīni) - 53 mg, Saw Palmetto augļu ekstrakts (Serenoa repens 5:1) - 50 mg, Nātru saknes ekstrakts (Urtica dioica, 1% beta sitosterols) - 40 mg, Cinks (Cinka citrāts trihidrāts) - 5 mg.",
     "usage": "1 kapsula 1-2 reizes dienā ēšanas laikā. Viena kursa ilgums – 45 dienas. Ja nepieciešams, kursu var atkārtot. Ieteicamā dienas deva – 2 kapsulas.",
     "contraindications": "Jebkuras sastāvdaļas individuālā nepanesība, bērna vecums (līdz 18 gadiem). Pirms lietošanas ieteicams konsultēties ar ārstu. Tās nav zāles. Nepārsniedziet ieteikto dienas devu. Glabājiet bērniem nepieejamā vietā. Šīs ir uztura bagātinātājs, un tā nedrīkst aizstāt pilnveidīgu uzturu.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1955,8 +1955,8 @@
       "salePrice": "25",
       "newPrice": "73"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "96"
     },
@@ -1990,8 +1990,8 @@
       "salePrice": "26",
       "newPrice": "165"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "25",
       "newPrice": "119"
     },
@@ -2000,8 +2000,8 @@
       "salePrice": "26",
       "newPrice": "79"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "26",
       "newPrice": "102"
     },
@@ -3971,13 +3971,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Gabriela Vernosa",
-        "text": "Pilienus Exofeet Oil es izmēģināju jau pagājušajā gadā. Problēma izzuda un kopš tā laika nav parādījusies. Kāju āda un nagi ir veseli, nekas netraucē.",
+        "text": "Pilienus Desalix es izmēģināju jau pagājušajā gadā. Problēma izzuda un kopš tā laika nav parādījusies. Kāju āda un nagi ir veseli, nekas netraucē.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4003,11 +4003,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Olīvija Boltone",
-        "text": "Ar pirmajām līdzekļa Exofeet Oil lietošanas dienām izzuda nieze un nepatīkamā smaka. Turpinu lietot kursu veidā līdz pilnīgai problēmas novēršanai.",
+        "text": "Ar pirmajām līdzekļa Desalix lietošanas dienām izzuda nieze un nepatīkamā smaka. Turpinu lietot kursu veidā līdz pilnīgai problēmas novēršanai.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4033,11 +4033,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Lina Ivašesku",
-        "text": "Ar sēnīti es dzīvoju gadiem, bet izrādās, ka no tās var tik vienkārši atbrīvoties. Pateicoties Exofeet Oil esmu par to aizmirsusi un ceru, ka uz visiem laikiem!",
+        "text": "Ar sēnīti es dzīvoju gadiem, bet izrādās, ka no tās var tik vienkārši atbrīvoties. Pateicoties Desalix esmu par to aizmirsusi un ceru, ka uz visiem laikiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4063,11 +4063,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Dimitrijs Žehnads",
-        "text": "Man ir pozitīva līdzekļa Exofeet Oil lietošanas pieredze. Es atbrīvojos no sēnītes. Nieze, nepatīkama smaka, plaisas kāju āda ātri pārgāja!",
+        "text": "Man ir pozitīva līdzekļa Desalix lietošanas pieredze. Es atbrīvojos no sēnītes. Nieze, nepatīkama smaka, plaisas kāju āda ātri pārgāja!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4093,11 +4093,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Fernanda Toresa",
-        "text": "Exofeet Oil - tas ir lielisks līdzeklis! Ērti lietojams, ar patīkamu aromātu. Bet pats galvenais, ka palīdz. Novērš niezi un palīdz atbrīvoties no sēnītes.",
+        "text": "Desalix - tas ir lielisks līdzeklis! Ērti lietojams, ar patīkamu aromātu. Bet pats galvenais, ka palīdz. Novērš niezi un palīdz atbrīvoties no sēnītes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4123,11 +4123,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Amēlija Levansone",
-        "text": "Tagad ticu, ka ir iespējams atvadīties no nagu sēnītes dažās nedēļās. Es ar to mocījos mēnešiem. Paldies par Exofeet Oil!",
+        "text": "Tagad ticu, ka ir iespējams atvadīties no nagu sēnītes dažās nedēļās. Es ar to mocījos mēnešiem. Paldies par Desalix!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4153,11 +4153,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Lorenco Ibaness",
-        "text": "Sieva pasūtīja  Exofeet Oil, tika piegādāts pāris dienu laikā. Plaisas sadzija, nieze izzuda. Beidzot es atbrīvojos no nepatīkamās smakas 10 no 10!",
+        "text": "Sieva pasūtīja  Desalix, tika piegādāts pāris dienu laikā. Plaisas sadzija, nieze izzuda. Beidzot es atbrīvojos no nepatīkamās smakas 10 no 10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4183,8 +4183,8 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Ārija Dousona",
         "text": "Labs līdzeklis par pieejamu cenu. Palīdz pret sēnīti, likvidē visas infekcijas pazīmes un atjauno ādu un nagus. Esmu apmierināta par 100%!",
@@ -4213,11 +4213,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Līzija Laundesa",
-        "text": "Centos atbrīvoties no sēnītes ar dažādu krēmu un tautas līdzekļu palīdzību. Viss velti. Palīdzēja tikai Exofeet Oil. Ar pirmajām dienām pārgāja nieze, tad arī viss pārējais. Tagad man ir veselas kājiņas!",
+        "text": "Centos atbrīvoties no sēnītes ar dažādu krēmu un tautas līdzekļu palīdzību. Viss velti. Palīdzēja tikai Desalix. Ar pirmajām dienām pārgāja nieze, tad arī viss pārējais. Tagad man ir veselas kājiņas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4243,11 +4243,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Marta Godesa",
-        "text": "Par Exofeet Oil es zinu jau sen. Pēc savas pieredzes var teikt, ka tas ir labākais līdzeklis pret sēnīti! Pēc kursa - ne uz ādas, ne uz nagiem nepaliek nekādu pēdu!",
+        "text": "Par Desalix es zinu jau sen. Pēc savas pieredzes var teikt, ka tas ir labākais līdzeklis pret sēnīti! Pēc kursa - ne uz ādas, ne uz nagiem nepaliek nekādu pēdu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4273,11 +4273,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Paulīne Rekbeša",
-        "text": "Nesen pasūtīju Exofeet Oil, jau redzu rezultātu. Āda ir kļuvusi mitrāka, mīkstāka, bet pārragotā daļa ir mīkstinājusies. Ceru, ka drīz pārstāšu slēpt savus nagus slēgtos apavos..",
+        "text": "Nesen pasūtīju Desalix, jau redzu rezultātu. Āda ir kļuvusi mitrāka, mīkstāka, bet pārragotā daļa ir mīkstinājusies. Ceru, ka drīz pārstāšu slēpt savus nagus slēgtos apavos..",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4303,11 +4303,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Rolana Petrasku",
-        "text": "Ja ir nepieciešams efektīvs un lēts pretsēnīšu līdzeklis, iesaku Exofeet Oil! Ātri palīdz un ļauj aizmirst par šo sērgu uz visiem laikiem!",
+        "text": "Ja ir nepieciešams efektīvs un lēts pretsēnīšu līdzeklis, iesaku Desalix! Ātri palīdz un ļauj aizmirst par šo sērgu uz visiem laikiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4332,11 +4332,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Ingrīda Šartona",
-        "text": "Lai tiktu galā ar sēnīti, ir jābūt ļoti pacietīgam. Problēma prasa ilgstošu terapiju, visi to zina. Tomēr ar Exofeet Oil palīdzību viss notika ātri un efektīvi. Viens kurss - un nagi!",
+        "text": "Lai tiktu galā ar sēnīti, ir jābūt ļoti pacietīgam. Problēma prasa ilgstošu terapiju, visi to zina. Tomēr ar Desalix palīdzību viss notika ātri un efektīvi. Viens kurss - un nagi!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4362,11 +4362,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Aleksandro Malbers",
-        "text": "Novelkot apavus, bija neērti smakas dēļ, sieva atnesa Exofeet Oil. Līdzeklis palīdzēja. Smakas nav, pēc apaviem kājas pārstāja niezēt. Jau pusgadu es nelietoju, tomēr problēma neatgriežas!",
+        "text": "Novelkot apavus, bija neērti smakas dēļ, sieva atnesa Desalix. Līdzeklis palīdzēja. Smakas nav, pēc apaviem kājas pārstāja niezēt. Jau pusgadu es nelietoju, tomēr problēma neatgriežas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4392,11 +4392,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Ninele Lamberta",
-        "text": "Palīdzēja atbrīvoties no sēnītes vien dažās nedēļās! Ādas stāvoklis uzlabojās, nagi aug veseli un stipri. Esiet uzmanīgi, kad izvēlieties manikīra meistaru, bet vislabāk - turiet krājumā Exofeet Oil!",
+        "text": "Palīdzēja atbrīvoties no sēnītes vien dažās nedēļās! Ādas stāvoklis uzlabojās, nagi aug veseli un stipri. Esiet uzmanīgi, kad izvēlieties manikīra meistaru, bet vislabāk - turiet krājumā Desalix!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5774,13 +5774,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Mērija Lučesku",
-        "text": "Kad sākās problēmas ar dzirdi, es ilgi meklēju līdzekli. Ieteica Ottomax+. Viennozīmīgi - efekts ir! Pārstāju pārjautāt sarunu biedriem. Un maksā lēti!",
+        "text": "Kad sākās problēmas ar dzirdi, es ilgi meklēju līdzekli. Ieteica Ausen. Viennozīmīgi - efekts ir! Pārstāju pārjautāt sarunu biedriem. Un maksā lēti!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5806,8 +5806,8 @@
       },
 
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Frederika Garsija",
         "text": "Lielisks līdzeklis dzirdes atjaunošanai. Pozitīvas izmaiņas es pamanīju jau pēc dažām nedēļām. Ja jūs strādājat trokšņainā ražotnē, var lietot profilakses nolūkos.",
@@ -5836,8 +5836,8 @@
       },
 
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Mišels Farcio",
         "text": "Labi palīdz pret sāpēm un troksni ausīs. Palīdz novērst zvanīšanu. Plusi - efektivitāte, dabīgs sastāvs, pieejama cena.",
@@ -5866,11 +5866,11 @@
       },
 
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Orlando Lortess",
-        "text": "Mēnešiem mocījos ar ausu pilieniem, līdz uzzināju par Ottomax+. Daudz ērtāk lietojams un ir rezultāts. Saku labāk dzirdēt, izzuda zvanīšana ausīs.",
+        "text": "Mēnešiem mocījos ar ausu pilieniem, līdz uzzināju par Ausen. Daudz ērtāk lietojams un ir rezultāts. Saku labāk dzirdēt, izzuda zvanīšana ausīs.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5896,8 +5896,8 @@
       },
 
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Tolmašs Olovecki",
         "text": "Palīdz problēmu ar dzirdi gadījumā. Efektīvs pie iekaisumiem (lietoju, kad man bija otīts, un viss pārgāja). Noņem sāpes.",
@@ -5926,11 +5926,11 @@
       },
 
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Džūlija Taroksa",
-        "text": "Novērtēju Ottomax+ efektivitāti, kad pēc koncerta zaudēju dzirdi. Palīdz. Liels pluss, ka līdzeklis ir kapsulu, nevis pilienu veidā.",
+        "text": "Novērtēju Ausen efektivitāti, kad pēc koncerta zaudēju dzirdi. Palīdz. Liels pluss, ka līdzeklis ir kapsulu, nevis pilienu veidā.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5956,11 +5956,11 @@
       },
 
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Gabriels Martinos",
-        "text": "Pēc gripas radās sarežģījumi ar dzirdi. Briesmīgi sāpēja, parādījās troksnis ausīs. Tabletes noņēma sāpes, tomēr pilnīgi atjaunot dzirdi palīdzēja vien Ottomax+. Tagad iesaku paziņām un draugiem!",
+        "text": "Pēc gripas radās sarežģījumi ar dzirdi. Briesmīgi sāpēja, parādījās troksnis ausīs. Tabletes noņēma sāpes, tomēr pilnīgi atjaunot dzirdi palīdzēja vien Ausen. Tagad iesaku paziņām un draugiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5986,11 +5986,11 @@
       },
 
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Henriete Jorka",
-        "text": "Uz vecumu sāka strauji pasliktināties dzirde. Pazīstams speciālists ieteica Ottomax+. Un tas tiešām darbojas! Atbrīvoja mani no trokšņa, kas mani pastāvīgi vajāja.",
+        "text": "Uz vecumu sāka strauji pasliktināties dzirde. Pazīstams speciālists ieteica Ausen. Un tas tiešām darbojas! Atbrīvoja mani no trokšņa, kas mani pastāvīgi vajāja.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6016,8 +6016,8 @@
       },
 
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Alberts Debores",
         "text": "Līdzeklis palīdz. Paldies par ātro piegādi līdz durvīm un iespēju pasūtīt caur internetu. Konsultanti ir laipni un atbild uz visiem jautājumiem.",
@@ -6046,11 +6046,11 @@
       },
 
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Helēna Kortesa",
-        "text": "Pasūtīju Ottomax+ vecmāmiņai. Viņa saka un es redzu, ka viņas dzirde uzlabojas. Vēl saka, ka ir sākusi labāk gulēt. Tātad var palīdzēt pie vecuma problēmām!",
+        "text": "Pasūtīju Ausen vecmāmiņai. Viņa saka un es redzu, ka viņas dzirde uzlabojas. Vēl saka, ka ir sākusi labāk gulēt. Tātad var palīdzēt pie vecuma problēmām!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6076,8 +6076,8 @@
       },
 
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Lukas Barbardess",
         "text": "Palīdzēja atbrīvoties no ausu aizkrišanas sajūtas un zvanīšanas. Sāku labāk dzirdēt. Rezultāta nostiprināšanai, domāju izlietot vēl vienu kursu.",
@@ -6106,8 +6106,8 @@
       },
 
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Agnese Bartoksa",
         "text": "Lielisks ausu veselības līdzeklis. Bagātīgs un dabīgs sastāvs, efektivitāte, minimums kontrindikāciju. Un vēl par tādu cenu! Lieliski!",
@@ -6136,11 +6136,11 @@
       },
 
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Salma Foreksize",
-        "text": "Ottomax+ iegādājos ne pirmo reizi. Palīdz pret hroniskam kaitēm un pret vecuma dzirdes traucējumiem. Lietoju arī iekaisumu gadījumos. Esmu ļoti apmierināta ar līdzekli!",
+        "text": "Ausen iegādājos ne pirmo reizi. Palīdz pret hroniskam kaitēm un pret vecuma dzirdes traucējumiem. Lietoju arī iekaisumu gadījumos. Esmu ļoti apmierināta ar līdzekli!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6166,8 +6166,8 @@
       },
 
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Moriss Štrauss",
         "text": "Šis līdzeklis palīdzējam man izvairīties no operācijas un tikt vaļā no dzirdes aparāta. Lietoju vairākus kursus gadā, kā to ieteica speciālists. Dzirdu labi, nav nekādu problēmu ar dzirdi.",
@@ -6196,11 +6196,11 @@
       },
 
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Klarisa Mormosa",
-        "text": "Es strādāju trokšņainā telpā un tas negatīvi ir ietekmējis dzirdi. Bet Ottomax+ es esmu sākusi dzirdēt daudz labāk, vakara cēlienā vairs nav trokšņa ausīs, pat miegs ir uzlabojies! Izsaku pateicību par kvalitatīvo un efektīvo līdzekli!",
+        "text": "Es strādāju trokšņainā telpā un tas negatīvi ir ietekmējis dzirdi. Bet Ausen es esmu sākusi dzirdēt daudz labāk, vakara cēlienā vairs nav trokšņa ausīs, pat miegs ir uzlabojies! Izsaku pateicību par kvalitatīvo un efektīvo līdzekli!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8616,10 +8616,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Džeremi Klosaks",
         "text": "Palīdzēja man atrisinās manas \"vīrišķās problēmas\". Nestāstīšu detalizēti, bet erekcija atgriezās ar jaunu spēku. Pietiek ilgam laikam!",
@@ -8648,8 +8648,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Ljuberts Ferdinezs",
         "text": "Darbojas kā vajag. Pēdējo mēnešu laikā - neviena atteikuma. Bez pieraduma un blakusefektiem.",
@@ -8678,8 +8678,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Barbara Delaskona",
         "text": "Pasūtīju vīram, kad mums parādījās problēmas seksā. Viss kļuva daudz labāk, biežāk un ilgāk. Izrādās, ka mans vīrs vēl spēj pārsteigt!",
@@ -8708,11 +8708,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Djego Santjago",
-        "text": "Ar vecumu katrs vīrietis var saskarties ar intīma veida problēmām. Man arī tādas bija līdz es izmēģināju Wirex men`s formula. Iesaku!",
+        "text": "Ar vecumu katrs vīrietis var saskarties ar intīma veida problēmām. Man arī tādas bija līdz es izmēģināju Viarex. Iesaku!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8738,11 +8738,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Klaudija Elkasara",
-        "text": "Man pēdējā laika pārsteidza vīra uzvedība, it kā jaunība būtu atgriezusies. Un tad es viņa somā atradu Wirex men`s formula un visu sapratu.",
+        "text": "Man pēdējā laika pārsteidza vīra uzvedība, it kā jaunība būtu atgriezusies. Un tad es viņa somā atradu Viarex un visu sapratu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8768,8 +8768,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Lučio Markess",
         "text": "Maigs un ilgstošs efekts, var lietot kopā ar alkoholu un nekaitē veselībai.",
@@ -8798,8 +8798,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Tomašs Žardeks",
         "text": "Kursa laikā var pilnīgi atjaunot jūsu \"spēku\". Pēc kursa beigām efekts saglabājas. Blakusparādību man nebija.",
@@ -8828,11 +8828,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Dafne Fokstrīta",
-        "text": "Stresa dēļ manam vīram sākās \"vīriešu problēmas\". Pierunāju izmēģināt Wirex men`s formula, tas palīdzēja! Viņam atgriezās vēlme, sekss ir katru dienu!",
+        "text": "Stresa dēļ manam vīram sākās \"vīriešu problēmas\". Pierunāju izmēģināt Viarex, tas palīdzēja! Viņam atgriezās vēlme, sekss ir katru dienu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8858,11 +8858,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Rebeka Štrausone",
-        "text": "Lielisks līdzeklis. Vīrs ir apmierināts ar Wirex men`s formula, bet es beidzot esmu apmierināta ar vīru. Pat nedomāju, ka viņš ir spējīgs turēties stundām!",
+        "text": "Lielisks līdzeklis. Vīrs ir apmierināts ar Viarex, bet es beidzot esmu apmierināta ar vīru. Pat nedomāju, ka viņš ir spējīgs turēties stundām!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8888,8 +8888,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Augustīns Peters",
         "text": "Lielisks līdzeklis, palīdz! Paldies par konsultāciju un piegādi līdz durvīm. Efekts parādījās ar pirmajām lietošanas dienām.",
@@ -8918,8 +8918,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Orlando Dairess",
         "text": "Labākais līdzeklis analogu vidū. Plusi: pietiek izlietot kursu un efekts saglabājas, var lietot kopā ar alkoholu, neizraisa blakusparādības.",
@@ -8948,8 +8948,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Ļena Gavroša",
         "text": "Liels paldies par tādu kvalitatīvu līdzekli gan no manis, gan no vīra. Tas atgrieza mūsu dzīvē intīmo tuvību, palīdzēja saglabāt ģimeni!",
@@ -8978,8 +8978,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Lukjans Mornašs",
         "text": "Efekts ir, spiedienu nepaceļ, savietojams ar alkoholu. Pēc kursa rezultāts saglabājas. Pēc manām domām - labākais šīs kategorijas produkts.",
@@ -9008,8 +9008,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Mihaels Vernandes",
         "text": "Uzbudinoša lieta, ilga potence un pastiprinātas sajūtas. Pietam par diezgan pieejamu cenu. Mīnusus neatklāju.",
@@ -9038,11 +9038,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts Vains",
-        "text": "Es īpaši neticēju, ka Wirex men`s formula var palīdzēt, bet es kļūdījos. Rezultātu sajutu no pirmajām dienām, pēc kursa veselība atjaunojās, problēmu ar \"draudziņu\" vairs nebija.",
+        "text": "Es īpaši neticēju, ka Viarex var palīdzēt, bet es kļūdījos. Rezultātu sajutu no pirmajām dienām, pēc kursa veselība atjaunojās, problēmu ar \"draudziņu\" vairs nebija.",
         "stars": [
           {
             "src": "img/svg/star.svg",

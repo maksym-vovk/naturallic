@@ -180,11 +180,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -209,8 +209,8 @@
       ],
       "text": "288 κριτικές",
       "desc": "Φυσικό έλαιο με βακτηριοκτόνο δράση για την καταπολέμηση των συμπτωμάτων της μυκητίασης",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -435,12 +435,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -465,8 +465,8 @@
       ],
       "text": "341 κριτικές",
       "desc": "Σύμπλεγμα για τη βελτίωση των ακουστικών λειτουργιών με ισορροπημένη φόρμουλα βιταμινών και ανόργανων συστατικών.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -509,12 +509,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -539,8 +539,8 @@
       ],
       "text": "297 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -976,13 +976,13 @@
       "niche": "Κατεύθυνση: Κιρσοί"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1214,13 +1214,13 @@
       "niche": "Κατεύθυνση: Αναζωογόνηση"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1282,13 +1282,13 @@
       "niche": "Κατεύθυνση: Παράσιτα"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1612,22 +1612,22 @@
     "form_factor": "σωληνάριο  30 ml, χαρτοκιβώτιο, τεχνικές οδηγίες, κρέμα/τζελ,",
     "short_description": "Γέλη με δροσιστική δράση για την καταπολέμηση των εκδηλώσεων των κιρσών.",
     "description": "γέλη με φυτική βάση, που δροσίζει απαλά και ανακουφίζει από το βάρος στα πόδια, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη κιρσών.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА</span>.",
+    "compound": "Νερό, Γλυκερίνη, Προπυλενογλυκόλη, Αλκοόλ Denat., Εκχύλισμα Ιπποκαστανιάς (Aesculus hippocastanum), Εκχύλισμα Centella Asiatica, Εκχύλισμα ρίζας Ruscus Aculeatus, Εκχύλισμα καλλιέργειας καλούσα Symphytum Officinale, Εκχύλισμα άνθους Chamomilla Recutita, Νιασιναμίδη, Τροξερουτίνη, Καφεΐνη, Ουρία, Αργινίνη, Copolymer Ammonium Acryloyldimethyltaurate/VP, Σαλικυλικό οξύ, Μενθόλη, Αλλαντοΐνη, Υαλουρονικό νάτριο, Φαινοξυαιθανόλη, Εθυλεξυλογλυκερίνη, Disodium EDTA.",
     "usage": "εφαρμόστε με ελαφριές κινήσεις μασάζ για 3-5 λεπτά 2 φορές την ημέρα. Πριν από την εφαρμογή, κάντε ένα τεστ ανεκτικότητας στο δέρμα σας.",
     "contraindications": "αποφύγετε την επαφή με τα μάτια. Μην το χρησιμοποιείτε σε παιδιά κάτω των τριών ετών και απευθείας σε ανοιχτές πληγές.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Για την υγεία",
     "review_count": "288 κριτικές",
     "niche": "Μύκητας",
-    "form_factor": "χαρτοκιβώτιο / γυάλινο φιαλίδιο, πιπέτα / 20 ml",
+    "form_factor": "χαρτοκιβώτιο / γυάλινο φιαλίδιο, πιπέτα / 30 ml",
     "short_description": "Φυσικό έλαιο  με βακτηριοκτόνο δράση για την καταπολέμηση των μυκητιάσεων.",
     "description": "σύμπλεγμα με βάση 4 έλαια (τσάι, κανέλα, μέντα, λεμονόχορτο) που έχει γενική αντιφλεγμονώδη, αντισηπτική, τονωτική, θρεπτική και ενυδατική δράση στο δέρμα. Διεισδύει βαθιά και παραμένει για μεγάλο χρονικό διάστημα στο σημείο όπου εντοπίζεται ο μύκητας.",
-    "compound": "<span class=\"attention\">Alcohol Denat., Aqua, Propylene Glycol, Glycerin, Niacinamide, Symphytum Officinale Leaf Extract, Propolis Extract, Chamomilla Recutita Flower Extract, Aluminum Chlorohydrate, Salicylic Acid, Phenylpropanol, o-Cymen-5-ol, Decylene Glycol, Melaleuca Alternifolia Leaf Oil, Allantoin, Cinnamomum Zeylanicum Leaf Oil, Mentha Piperita Oil, 4-Terpineol, Cymbopogon Flexuosus Oil, Sodium Acrylates Copolymer, Xanthan Gum, Lecithin, Disodium EDTА, Citral, Linalool, Limonene, Eugenol, Cinnamal, Benzyl Benzoate, Geraniol</span>.",
+    "compound": "Νερό, Γλυκερίνη, Αμυγδαλέλαιο, Υγρή παραφίνη, Πολυακρυλικό νάτριο, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 80, PEG-40 Υδρογινωμένο καστορέλαιο, Bisabolol, Σαλικυλικό οξύ, Έλαιο Τσαγιού, Gluconolactone, Καμφορά, Υδρογονωμένο Πολυδεκένιο, Tocopheryl Acetate, Εκχύλισμα Γαρίφαλου, Εκχύλισμα Σπόρου Ιπποκαστανιάς, Εκχύλισμα Μελίλωτου, Εκχύλισμα Καλέντουλας, Εκχύλισμα Σπάρτου, Εκχύλισμα Δεντρολίβανου, Εκχύλισμα Χαμομηλιού, Εκχύλισμα Μπάρδου, Φαινοξυαιθανόλη, Υαλουρονικό νάτριο, Έλαιο Μέντας, Trideceth-6, BHT, Disodium EDTA, Εθυλεξυλογλυκερίνη, Γλυκονικό Ασβέστιο, Κιτρικό Οξύ, Βενζοϊκό Νάτριο, Σορβικό Κάλιο, γ-Τερπινένιο, α-Τερπινένιο, Τερπινεόλη, Πινένιο, Τερπινολένιο, Λιμονένιο, Μενθόλη.",
     "usage": "εφαρμόστε σε καλά καθαρισμένο και στεγνό δέρμα των πέλματος 2 φορές την ημέρα. Πριν από τη χρήση, κάντε ένα τεστ συμβατότητας με το δέρμα σας.",
     "contraindications": "ατομική δυσανεξία στα συστατικά.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1724,15 +1724,15 @@
     "suitability": "2 έτη ",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Για την υγεία",
     "review_count": "341 κριτικές",
     "niche": "Ακοή",
     "form_factor": "blister, κάψουλες 10 τεμ., χαρτοκιβώτιο, τεχνικές οδηγίες",
     "short_description": "Σύμπλεγμα για τη βελτίωση των λειτουργιών της ακοής με ισορροπημένη φόρμουλα βιταμινών και μετάλλων.",
     "description": "σύμπλεγμα φυσικών συστατικών, η δράση των οποίων στοχεύει στην εξάλειψη του θορύβου στα αυτιά και στην επιβράδυνση της απώλειας ακοής.",
-    "compound": "<span class=\"attention\">L-ασκορβικό οξύ, ζελατίνη (κέλυφος κάψουλας), μικροκρυσταλλική κυτταρίνη (πληρωτικό), ακετυλο L-καρνιτίνη hcl, εκχύλισμα φύλλων ginkgo biloba, οξείδιο του μαγνησίου, νικοτιναμίδιο, οξείδιο του ψευδαργύρου, στεατικό μαγνήσιο (πληρωτικό), υδροχλωρική θειαμίνη, διοξείδιο του πυριτίου (αντισυσσωματικό), ριβοφλαβίνη, υδροχλωρική πυριδοξίνη, μελατονίνη, ανθρακικό ασβέστιο (χρωστική τροφίμων, κέλυφος κάψουλας)</span>.",
+    "compound": "L-ασκορβικό οξύ, Ζελατίνη, Βιταμίνη C (L-ασκορβικό οξύ), Μικροκρυσταλλική κυτταρίνη, Ακετυλο L-καρνιτίνη HCl, Εκχύλισμα φύλλων Ginkgo biloba, Οξείδιο μαγνησίου, Νικοτιναμίδη, Ψευδάργυρος, Στεατικό μαγνήσιο, Διοξείδιο του πυριτίου.",
     "usage": "Ενήλικες: 1 κάψουλα την ημέρα κατά τη διάρκεια ή μετά το γεύμα. Διάρκεια μιας θεραπείας: 2 μήνες. Μην υπερβαίνετε τη συνιστώμενη ημερήσια δόση.",
     "contraindications": "Ατομική δυσανεξία στα συστατικά,  παιδική ηλικία (έως 18 ετών).",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1754,15 +1754,15 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Για την υγεία",
     "review_count": "297 κριτικές",
     "niche": "Δύναμη",
     "form_factor": "blister, κάψουλες 20 τεμ.",
     "short_description": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-    "description": "σύμπλεγμα φυτικών συστατικών που ενισχύει τη σεξουαλική επιθυμία και βελτιώνει τη σεξουαλική λειτουργία στους άνδρες, ομαλοποιεί τη λειτουργική κατάσταση του ουροποιογεννητικού συστήματος σε περίπτωση στυτικής δυσλειτουργίας (για την αύξηση του λίμπιντο και της ανδρικής δύναμης), βελτιώνει την ποιότητα του σπέρματος, καθώς και αυξάνει τη διανοητική και σωματική ικανότητα και τις δυνατότητες προσαρμογής στους άνδρες.  Η δράση του Wirex men’s formula οφείλεται στις λειτουργικές ιδιότητες των ενεργών συστατικών και στοχεύει στην επίλυση προβλημάτων με τη σεξουαλική λειτουργία, το λίμπιντο, τη σπερματογένεση, τη μνήμη και την ενέργεια στους άνδρες.",
-    "compound": "<span class=\"attention\">Εκχύλισμα μούρων cranberry, ζελατίνη (κέλυφος κάψουλας), εκχύλισμα καρπού Saw palmetto, εκχύλισμα ρίζας τσουκνίδας, μικροκρυσταλλική κυτταρίνη (πληρωτικό), κιτρικό ψευδάργυρο, στεατικό μαγνήσιο (πληρωτικό), διοξείδιο του πυριτίου (αντισυσσωματικό), χρωστικές ουσίες (κέλυφος κάψουλας): E171, E132</span>.",
+    "description": "σύμπλεγμα φυτικών συστατικών που ενισχύει τη σεξουαλική επιθυμία και βελτιώνει τη σεξουαλική λειτουργία στους άνδρες, ομαλοποιεί τη λειτουργική κατάσταση του ουροποιογεννητικού συστήματος σε περίπτωση στυτικής δυσλειτουργίας (για την αύξηση του λίμπιντο και της ανδρικής δύναμης), βελτιώνει την ποιότητα του σπέρματος, καθώς και αυξάνει τη διανοητική και σωματική ικανότητα και τις δυνατότητες προσαρμογής στους άνδρες.  Η δράση του Viarex οφείλεται στις λειτουργικές ιδιότητες των ενεργών συστατικών και στοχεύει στην επίλυση προβλημάτων με τη σεξουαλική λειτουργία, το λίμπιντο, τη σπερματογένεση, τη μνήμη και την ενέργεια στους άνδρες.",
+    "compound": "Εκχύλισμα ρίζας Maca (Lepidium meyenii 4:1) - 60 mg, Εκχύλισμα βακκίνιου (Vaccinium macrocarpon, 35% προανθοκυανιδίνες) - 53 mg, Εκχύλισμα φρούτου Saw Palmetto (Serenoa repens 5:1) - 50 mg, Εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1% β-σιτοστερόλη) - 40 mg, Ψευδάργυρος (Citrate Ψευδαργύρου Τριϋδρική) - 5 mg.",
     "usage": "1 κάψουλα 1-2 φορές την ημέρα κατά τη διάρκεια του γεύματος. Η διάρκεια μιας θεραπείας είναι 45 ημέρες. Εάν είναι απαραίτητο, η θεραπεία μπορεί να επαναληφθεί. Η συνιστώμενη ημερήσια δόση είναι 2 κάψουλες.",
     "contraindications": "Ατομική δυσανεξία σε οποιοδήποτε από τα συστατικά, παιδική ηλικία (έως 18 ετών). Πριν από τη λήψη, συνιστάται να συμβουλευτείτε το γιατρό σας. Δεν είναι φάρμακο. Μην υπερβαίνετε τη συνιστώμενη ημερήσια δόση. Κρατήστε το μακριά από τα παιδιά. Αυτό το συμπλήρωμα διατροφής δεν πρέπει να αντικαθιστά μια ποικίλη διατροφή.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1948,8 +1948,8 @@
       "salePrice": "24",
       "newPrice": "82"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "89"
     },
@@ -1983,8 +1983,8 @@
       "salePrice": "24",
       "newPrice": "135"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "26",
       "newPrice": "136"
     },
@@ -1993,8 +1993,8 @@
       "salePrice": "24",
       "newPrice": "88"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -3943,13 +3943,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκαμπριέλ Βέρνος",
-        "text": "Χρησιμοποίησα το Exofeet Oil πέρσι. Το πρόβλημα εξαφανίστηκε και δεν επανήλθε. Δέρμα και νύχια στα πόδια υγιή, τίποτα δεν με ενοχλεί.",
+        "text": "Χρησιμοποίησα το Desalix πέρσι. Το πρόβλημα εξαφανίστηκε και δεν επανήλθε. Δέρμα και νύχια στα πόδια υγιή, τίποτα δεν με ενοχλεί.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3974,11 +3974,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ολίβια Μπόλτον",
-        "text": "Από τις πρώτες μέρες χρήσης του Exofeet Oil εξαφανίστηκε η φαγούρα και η δυσάρεστη οσμή. Συνεχίζω τον κύκλο μέχρι την πλήρη εξάλειψη του προβλήματος.",
+        "text": "Από τις πρώτες μέρες χρήσης του Desalix εξαφανίστηκε η φαγούρα και η δυσάρεστη οσμή. Συνεχίζω τον κύκλο μέχρι την πλήρη εξάλειψη του προβλήματος.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4003,11 +4003,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λίνα Ιβασέσκου",
-        "text": "Ζούσα με μύκητα για χρόνια, και αποδείχθηκε ότι είναι τόσο εύκολο να απαλλαγείς. Με το Exofeet Oil τον ξέχασα και ελπίζω για πάντα!",
+        "text": "Ζούσα με μύκητα για χρόνια, και αποδείχθηκε ότι είναι τόσο εύκολο να απαλλαγείς. Με το Desalix τον ξέχασα και ελπίζω για πάντα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4032,11 +4032,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δημήτρης Ζέχναντ",
-        "text": "Έχω θετική εμπειρία με το Exofeet Oil. Απαλλάχθηκα από τον μύκητα. Η φαγούρα, η μυρωδιά και οι ρωγμές στα πόδια εξαφανίστηκαν γρήγορα!",
+        "text": "Έχω θετική εμπειρία με το Desalix. Απαλλάχθηκα από τον μύκητα. Η φαγούρα, η μυρωδιά και οι ρωγμές στα πόδια εξαφανίστηκαν γρήγορα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4061,11 +4061,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φερνάντα Τόρρες",
-        "text": "Το Exofeet Oil είναι υπέροχο προϊόν! Εύκολο στη χρήση, ωραίο άρωμα. Αλλά το σημαντικότερο — λειτουργεί. Εξαλείφει τη φαγούρα και τον μύκητα.",
+        "text": "Το Desalix είναι υπέροχο προϊόν! Εύκολο στη χρήση, ωραίο άρωμα. Αλλά το σημαντικότερο — λειτουργεί. Εξαλείφει τη φαγούρα και τον μύκητα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4090,8 +4090,8 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αμέλια Λέβανσον",
         "text": "Τώρα πιστεύω ότι μπορείς να ξεφορτωθείς τον μύκητα νυχιών σε λίγες εβδομάδες. Πριν υπέφερα μήνες. Ευχαριστώ!",
@@ -4119,11 +4119,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λορέντζο Ιμπάνεζ",
-        "text": "Η γυναίκα μου παρήγγειλε το Exofeet Oil, έφτασε σε δύο μέρες. Οι ρωγμές έκλεισαν, η φαγούρα εξαφανίστηκε. Τέλος η δυσάρεστη οσμή. 10/10!",
+        "text": "Η γυναίκα μου παρήγγειλε το Desalix, έφτασε σε δύο μέρες. Οι ρωγμές έκλεισαν, η φαγούρα εξαφανίστηκε. Τέλος η δυσάρεστη οσμή. 10/10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4148,8 +4148,8 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άρια Ντόουσον",
         "text": "Καλό προϊόν σε προσιτή τιμή. Βοηθά ενάντια στον μύκητα, αποκαθιστά δέρμα και νύχια. Είμαι 100% ικανοποιημένη!",
@@ -4177,11 +4177,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λίζι Λάουντες",
-        "text": "Προσπαθούσα να απαλλαγώ από τον μύκητα με κρέμες και σπιτικές μεθόδους. Όλα άδικα. Μόνο το Exofeet Oil βοήθησε. Από τις πρώτες μέρες εξαφανίστηκε η φαγούρα.",
+        "text": "Προσπαθούσα να απαλλαγώ από τον μύκητα με κρέμες και σπιτικές μεθόδους. Όλα άδικα. Μόνο το Desalix βοήθησε. Από τις πρώτες μέρες εξαφανίστηκε η φαγούρα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4206,11 +4206,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μάρτα Γκόντες",
-        "text": "Ξέρω για το Exofeet Oil εδώ και καιρό. Από την εμπειρία μου είναι το καλύτερο προϊόν για μύκητα! Μετά τον κύκλο δεν έμεινε κανένα ίχνος.",
+        "text": "Ξέρω για το Desalix εδώ και καιρό. Από την εμπειρία μου είναι το καλύτερο προϊόν για μύκητα! Μετά τον κύκλο δεν έμεινε κανένα ίχνος.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4235,11 +4235,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Παυλίνα Ρεκμπές",
-        "text": "Παρήγγειλα το Exofeet Oil πρόσφατα και ήδη βλέπω αποτέλεσμα. Το δέρμα ενυδατώθηκε, έγινε πιο απαλό, ακόμη και οι σκληρές περιοχές μαλάκωσαν.",
+        "text": "Παρήγγειλα το Desalix πρόσφατα και ήδη βλέπω αποτέλεσμα. Το δέρμα ενυδατώθηκε, έγινε πιο απαλό, ακόμη και οι σκληρές περιοχές μαλάκωσαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4264,11 +4264,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρολάνα Πετράσκου",
-        "text": "Αν χρειάζεστε αποτελεσματικό και οικονομικό προϊόν για μύκητα, προτείνω το Exofeet Oil! Βοηθά γρήγορα και για πάντα.",
+        "text": "Αν χρειάζεστε αποτελεσματικό και οικονομικό προϊόν για μύκητα, προτείνω το Desalix! Βοηθά γρήγορα και για πάντα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4293,11 +4293,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ίνγκριντ Σάρτον",
-        "text": "Για να νικήσεις τον μύκητα χρειάζεται υπομονή. Συνήθως απαιτείται μακρά θεραπεία. Αλλά με το Exofeet Oil όλα έγιναν γρήγορα και αποτελεσματικά. Ένας κύκλος — και υγιή νύχια!",
+        "text": "Για να νικήσεις τον μύκητα χρειάζεται υπομονή. Συνήθως απαιτείται μακρά θεραπεία. Αλλά με το Desalix όλα έγιναν γρήγορα και αποτελεσματικά. Ένας κύκλος — και υγιή νύχια!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4322,11 +4322,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αλεχάντρο Μάλμπερ",
-        "text": "Ενοχλούσε η μυρωδιά όταν έβγαζα τα παπούτσια. Η γυναίκα μου έφερε το Exofeet Oil. Βοήθησε! Δεν υπάρχει πια οσμή, ούτε φαγούρα. Μισό χρόνο χωρίς χρήση, και δεν επέστρεψε.",
+        "text": "Ενοχλούσε η μυρωδιά όταν έβγαζα τα παπούτσια. Η γυναίκα μου έφερε το Desalix. Βοήθησε! Δεν υπάρχει πια οσμή, ούτε φαγούρα. Μισό χρόνο χωρίς χρήση, και δεν επέστρεψε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4351,11 +4351,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Νινέλ Λάμπερτ",
-        "text": "Βοήθησε να απαλλαγώ από τον μύκητα σε λίγες εβδομάδες! Το δέρμα βελτιώθηκε, τα νύχια μεγαλώνουν υγιή. Προσέξτε όταν διαλέγετε μανικιούρ, καλύτερα να έχετε το Exofeet Oil μαζί σας!",
+        "text": "Βοήθησε να απαλλαγώ από τον μύκητα σε λίγες εβδομάδες! Το δέρμα βελτιώθηκε, τα νύχια μεγαλώνουν υγιή. Προσέξτε όταν διαλέγετε μανικιούρ, καλύτερα να έχετε το Desalix μαζί σας!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5691,13 +5691,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρία Λουτσέσκου",
-        "text": "Όταν άρχισαν τα προβλήματα ακοής, έψαχνα καιρό λύση. Μου πρότειναν το Ottomax+. Υπάρχει σαφές αποτέλεσμα! Δεν ζητώ πια από τον άλλον να επαναλάβει. Και είναι οικονομικό.",
+        "text": "Όταν άρχισαν τα προβλήματα ακοής, έψαχνα καιρό λύση. Μου πρότειναν το Ausen. Υπάρχει σαφές αποτέλεσμα! Δεν ζητώ πια από τον άλλον να επαναλάβει. Και είναι οικονομικό.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5722,8 +5722,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φρεντερίκα Γκαρσία",
         "text": "Εξαιρετικό μέσο αποκατάστασης της ακοής. Θετική βελτίωση σε λίγες εβδομάδες. Αν δουλεύετε σε θόρυβο, κάνει και για πρόληψη.",
@@ -5751,8 +5751,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μισέλ Φάρτσιο",
         "text": "Βοηθά σε πόνο και βουητό στα αυτιά. Αφαιρεί τον ήχο. Συν: αποτελεσματικό, φυσικό, προσιτό.",
@@ -5780,11 +5780,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορλάντο Λόρτες",
-        "text": "Μήνες βασανιζόμουν με σταγόνες μέχρι που έμαθα το Ottomax+. Πιο βολικό και με αποτέλεσμα. Ακούω καλύτερα, το βουητό έφυγε.",
+        "text": "Μήνες βασανιζόμουν με σταγόνες μέχρι που έμαθα το Ausen. Πιο βολικό και με αποτέλεσμα. Ακούω καλύτερα, το βουητό έφυγε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5809,8 +5809,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τομάς Ολοβέτσκι",
         "text": "Βοηθά σε προβλήματα ακοής. Αποτελεσματικό σε φλεγμονές (το πήρα σε ωτίτιδα — πέρασε). Ανακουφίζει τον πόνο.",
@@ -5838,11 +5838,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τζούλι Τάροξ",
-        "text": "Εκτίμησα το Ottomax+ όταν έχασα ακοή μετά από συναυλία. Βοηθά. Μεγάλο πλεονέκτημα ότι είναι κάψουλες και όχι σταγόνες.",
+        "text": "Εκτίμησα το Ausen όταν έχασα ακοή μετά από συναυλία. Βοηθά. Μεγάλο πλεονέκτημα ότι είναι κάψουλες και όχι σταγόνες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5867,11 +5867,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γαβριήλ Μαρτίνος",
-        "text": "Η γρίπη έδωσε επιπλοκή στο αυτί — πόνος, βουητό. Τα χάπια έπαιρναν τον πόνο, αλλά την πλήρη αποκατάσταση την έδωσε μόνο το Ottomax+. Τώρα το συστήνω σε όλους.",
+        "text": "Η γρίπη έδωσε επιπλοκή στο αυτί — πόνος, βουητό. Τα χάπια έπαιρναν τον πόνο, αλλά την πλήρη αποκατάσταση την έδωσε μόνο το Ausen. Τώρα το συστήνω σε όλους.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5896,11 +5896,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ενριέττα Γιορκ",
-        "text": "Με την ηλικία η ακοή χειροτέρεψε απότομα. Ειδικός πρότεινε Ottomax+ και πράγματι βοήθησε! Με απάλλαξε από το μόνιμο βουητό.",
+        "text": "Με την ηλικία η ακοή χειροτέρεψε απότομα. Ειδικός πρότεινε Ausen και πράγματι βοήθησε! Με απάλλαξε από το μόνιμο βουητό.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5925,8 +5925,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άλμπερτ Ντεμπόρες",
         "text": "Το προϊόν βοηθά. Ευχαριστώ για γρήγορη κατ’ οίκον παράδοση και online παραγγελία. Οι σύμβουλοι ευγενικοί και κατατοπιστικοί.",
@@ -5954,11 +5954,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελένη Κορτές",
-        "text": "Παρήγγειλα το Ottomax+ για τη γιαγιά. Και εκείνη λέει, και εγώ βλέπω, ότι η ακοή της βελτιώθηκε. Κοιμάται και καλύτερα — άρα βοηθά και σε ηλικιακά θέματα.",
+        "text": "Παρήγγειλα το Ausen για τη γιαγιά. Και εκείνη λέει, και εγώ βλέπω, ότι η ακοή της βελτιώθηκε. Κοιμάται και καλύτερα — άρα βοηθά και σε ηλικιακά θέματα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5983,8 +5983,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λούκας Μπαρμπάρδες",
         "text": "Βοήθησε να φύγει η αίσθηση «βουλωμένου» αυτιού και το βουητό. Ακούω καλύτερα. Θα κάνω άλλο έναν κύκλο για σταθεροποίηση.",
@@ -6012,8 +6012,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αγνή Μπάτροξ",
         "text": "Υπέροχο προϊόν για την υγεία των αυτιών. Πλούσια φυσική σύνθεση, αποτελεσματικότητα, ελάχιστες αντενδείξεις. Και σε καλή τιμή!",
@@ -6041,11 +6041,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Σάλμα Φορέξις",
-        "text": "Παίρνω το Ottomax+ όχι για πρώτη φορά. Βοηθά και σε χρόνια προβλήματα και σε ηλικιακή βαρηκοΐα — και σε φλεγμονές. Εξαιρετικά ικανοποιημένη.",
+        "text": "Παίρνω το Ausen όχι για πρώτη φορά. Βοηθά και σε χρόνια προβλήματα και σε ηλικιακή βαρηκοΐα — και σε φλεγμονές. Εξαιρετικά ικανοποιημένη.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6070,8 +6070,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μωρίς Στράους",
         "text": "Με βοήθησε να αποφύγω επέμβαση και να βγάλω το ακουστικό. Έκανα μερικούς κύκλους τον χρόνο όπως είπε ο ειδικός. Ακούω καλά, κανένα πρόβλημα.",
@@ -6099,11 +6099,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλαρίσσα Μόρνος",
-        "text": "Δουλεύω σε θορυβώδη χώρο και αυτό επηρέαζε την ακοή μου. Με το Ottomax+ ακούω πολύ καλύτερα, δεν έχω βουητό το βράδυ και βελτιώθηκε ο ύπνος. Ευχαριστώ!",
+        "text": "Δουλεύω σε θορυβώδη χώρο και αυτό επηρέαζε την ακοή μου. Με το Ausen ακούω πολύ καλύτερα, δεν έχω βουητό το βράδυ και βελτιώθηκε ο ύπνος. Ευχαριστώ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8460,10 +8460,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ιερεμίας Κλόσακ",
         "text": "Με βοήθησε να λύσω τα \"ανδρικά\" μου προβλήματα. Δεν θα μπω σε λεπτομέρειες, αλλά η στύση επέστρεψε με δύναμη. Κρατάει πολύ!",
@@ -8491,8 +8491,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λιούμπερτ Φερνιντέζ",
         "text": "Δουλεύει όπως πρέπει. Τους τελευταίους μήνες ούτε μία αποτυχία. Χωρίς εθισμό και χωρίς παρενέργειες.",
@@ -8520,8 +8520,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βαρβάρα Ντελάσκον",
         "text": "Το παρήγγειλα για τον άντρα μου όταν είχαμε προβλήματα στο σεξ. Όλα έγιναν πολύ καλύτερα, πιο συχνά και με μεγαλύτερη διάρκεια. Δεν περίμενα ότι μπορεί να με εκπλήξει!",
@@ -8549,11 +8549,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ντιέγκο Σαντιάγκο",
-        "text": "Με την ηλικία κάθε άντρας μπορεί να έχει προβλήματα στο κρεβάτι. Και εγώ είχα, μέχρι που δοκίμασα το Wirex men’s formula. Το συνιστώ!",
+        "text": "Με την ηλικία κάθε άντρας μπορεί να έχει προβλήματα στο κρεβάτι. Και εγώ είχα, μέχρι που δοκίμασα το Viarex. Το συνιστώ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8578,11 +8578,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλαούντια Ελκασάρ",
-        "text": "Με εξέπληττε η συμπεριφορά του άντρα μου, σαν να γύρισε στη νιότη. Μετά βρήκα το Wirex men’s formula στην τσάντα του και κατάλαβα.",
+        "text": "Με εξέπληττε η συμπεριφορά του άντρα μου, σαν να γύρισε στη νιότη. Μετά βρήκα το Viarex στην τσάντα του και κατάλαβα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8607,8 +8607,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λούκιος Μάρκες",
         "text": "Ήπιο και μακράς διάρκειας αποτέλεσμα, μπορεί να ληφθεί με αλκοόλ και δεν βλάπτει την υγεία.",
@@ -8636,8 +8636,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Θωμάς Ζάρντεκ",
         "text": "Με έναν κύκλο μπορεί να επαναφέρει πλήρως τη \"δύναμη\". Το αποτέλεσμα μένει. Παρενέργειες δεν είχα.",
@@ -8665,11 +8665,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δάφνη Φοξτρίτ",
-        "text": "Ο άντρας μου λόγω άγχους είχε «ανδρικά» προβλήματα. Τον έπεισα να δοκιμάσει το Wirex men’s formula — και βοήθησε! Η επιθυμία επέστρεψε, κάνουμε έρωτα κάθε μέρα!",
+        "text": "Ο άντρας μου λόγω άγχους είχε «ανδρικά» προβλήματα. Τον έπεισα να δοκιμάσει το Viarex — και βοήθησε! Η επιθυμία επέστρεψε, κάνουμε έρωτα κάθε μέρα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8694,11 +8694,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρεβέκκα Στράουσον",
-        "text": "Εξαιρετικό προϊόν. Ο άντρας μου είναι ευχαριστημένος με το Wirex men’s formula, κι εγώ πλέον ευχαριστημένη μαζί του. Δεν περίμενα ότι μπορεί να αντέξει ώρες!",
+        "text": "Εξαιρετικό προϊόν. Ο άντρας μου είναι ευχαριστημένος με το Viarex, κι εγώ πλέον ευχαριστημένη μαζί του. Δεν περίμενα ότι μπορεί να αντέξει ώρες!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8723,8 +8723,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αυγουστίνος Πέτρες",
         "text": "Υπέροχο προϊόν, βοηθάει! Ευχαριστώ για τη συμβουλή και την παράδοση στην πόρτα. Το αποτέλεσμα φάνηκε από τις πρώτες μέρες.",
@@ -8752,8 +8752,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορλάντο Ντάιρες",
         "text": "Το καλύτερο προϊόν από τα αντίστοιχα. Συν: αρκεί ένας κύκλος και το αποτέλεσμα μένει, μπορεί να ληφθεί με αλκοόλ, δεν προκαλεί παρενέργειες.",
@@ -8781,8 +8781,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λένα Γαβρός",
         "text": "Ευχαριστώ πολύ για το ποιοτικό προϊόν. Μας έφερε πίσω την οικειότητα και βοήθησε να κρατήσουμε την οικογένεια!",
@@ -8810,8 +8810,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκιανός Μόρνας",
         "text": "Υπάρχει αποτέλεσμα, δεν ανεβάζει την πίεση, συμβατό με αλκοόλ. Μετά τον κύκλο το αποτέλεσμα μένει. Για μένα το καλύτερο προϊόν στην κατηγορία.",
@@ -8839,8 +8839,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μιχαήλ Βερνάντες",
         "text": "Δυνατό διεγερτικό, μεγάλη διάρκεια στύσης και ενισχυμένες αισθήσεις. Και σε πολύ καλή τιμή. Μειονεκτήματα δεν βρήκα.",
@@ -8868,11 +8868,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Βάινς",
-        "text": "Δεν πίστευα ότι το Wirex men’s formula θα βοηθήσει, αλλά έκανα λάθος. Το αποτέλεσμα φάνηκε από τις πρώτες μέρες, μετά τον κύκλο η υγεία μου αποκαταστάθηκε και τα «προβλήματα» εξαφανίστηκαν.",
+        "text": "Δεν πίστευα ότι το Viarex θα βοηθήσει, αλλά έκανα λάθος. Το αποτέλεσμα φάνηκε από τις πρώτες μέρες, μετά τον κύκλο η υγεία μου αποκαταστάθηκε και τα «προβλήματα» εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",

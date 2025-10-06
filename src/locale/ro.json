@@ -181,11 +181,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -210,8 +210,8 @@
       ],
       "text": "288 recenzii",
       "desc": "Ulei natural cu acțiune bactericidă care vizează combaterea manifestărilor de ciuperci.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -436,12 +436,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -466,8 +466,8 @@
       ],
       "text": "341 recenzii",
       "desc": "Un complex pentru îmbunătățirea funcțiilor auditive cu o formulă echilibrată de vitamine și minerale.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -510,12 +510,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -540,8 +540,8 @@
       ],
       "text": "297 recenzii",
       "desc": "Un remediu pentru bărbați care vizează normalizarea funcției de reproducere.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -981,13 +981,13 @@
       "niche": "Direcție: Varice"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1219,13 +1219,13 @@
       "niche": "Direcție: Întinerire"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1287,13 +1287,13 @@
       "niche": "Direcție: Paraziți"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1617,22 +1617,22 @@
     "form_factor": "gel într-un tub, 30 ml.",
     "short_description": "Gel cu efect de răcire care vizează combaterea manifestărilor venelor varicoase.",
     "description": "Un gel pe bază de plante care răcește ușor și ameliorează greutatea picioarelor, întărește pereții vaselor de sânge și previne dezvoltarea varicelor.",
-    "compound": "Aqua, Glicerina, Propilen Glicol, Alcool Denat, Extract de Aesculus Hippocastanum, Extract de Centella Asiatica, Extract de rădăcină de Ruscus Aculeatus, Extract de cultură de calus Symphytum Officinale, Extract de floare de Chamomilla Recutita, Niacinamidă, Troxerutin, Cofeină, Uree, Amonietil Copuraloil/Amonim Copolimer Arginina/VP, acid salicilic, mentol, alantoină, hialuronat de sodiu, fenoxietanol, etilhexilglicerină, EDTА disodic.",
+    "compound": "Apă, Glicerină, Propilenglicol, Alcool Denat., Extract de Aesculus hippocastanum, Extract de Centella Asiatica, Extract de rădăcină Ruscus Aculeatus, Cultură de calus Symphytum Officinale, Floare Chamomilla Recutita, Niacinamid, Troxerutină, Cofeină, Uree, Arginină, Copolimer Ammonium Acryloyldimethyltaurate/VP, Acid Salicilic, Mentol, Alantoină, Hialuronat de Sodiu, Fenoxietanol, Etilhexilglicerină, Disodium EDTA.",
     "usage": "Aplicați cu mișcări ușoare de masaj timp de 3-5 minute de 2 ori pe zi. Înainte de aplicare, efectuați un test de toleranță pe piele.",
     "contraindications": "Evitați contactul cu ochii. Nu se aplică copiilor sub trei ani și direct la răni deschise.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Pentru sănătate",
     "review_count": "288 recenzii",
     "niche": "Ciupercă",
-    "form_factor": "ulei într-o sticlă, 20 ml.",
+    "form_factor": "ulei într-o sticlă, 30 ml.",
     "short_description": "Ulei natural cu acțiune bactericidă care vizează combaterea manifestărilor de ciuperci.",
     "description": "Complexul bazat pe 4 uleiuri (arbore de ceai, scorțișoară, mentă, lemongrass) are un efect general antiinflamator, antiseptic, tonifiant, hrănitor și hidratant asupra pielii. Pătrunde adânc și persistă mult timp în locul localizării ciupercii.",
-    "compound": "Alcool Denat, Aqua, Propilen Glicol, Glicerină, Niacinamidă, Extract de frunze de Symphytum Officinale, Extract de propolis, Extract de floare de Chamomilla Recutita, Clorohidrat de aluminiu, Acid salicilic, Fenilpropanol, o-Cymen-5-ol, Decylene Oglicol, Melanifolia Leafăil, Alantoină, ulei de frunze de Cinnamomum Zeylanicum, ulei de mentha piperita, 4-terpineol, ulei de Cymbopogon Flexuosus, copolimer de acrilați de sodiu, gumă xantană, lecitină, EDT disodic, citral, linalol, limonen, eugenol, cinamal, geraniol, benzoal, benzil.",
+    "compound": "Apă, Glicerină, Ulei de Migdale Dulci, Paraffinum Liquidum, Poliacrilat de Sodiu, Copolimer Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate, Polisorbate 80, PEG-40 Ulei de Ricin Hidrogenat, Bisabolol, Acid Salicilic, Ulei de Arbore de Ceai, Gluconolactonă, Camfor, Polidecen Hidrogenat, Acetat de Tocoferol, Extract de Cuișoare, Extract de Semințe de Aesculus hippocastanum, Extract de Melilot, Extract de Calendula, Extract de Coada-calului, Extract de Frunze de Rozmarin, Extract de Chamomilla, Extract de Lăptucă, Fenoxietanol, Hialuronat de Sodiu, Ulei de Mentă, Trideceth-6, BHT, Disodium EDTA, Etilhexilglicerină, Gluconat de Calciu, Acid Citric, Benzoat de Sodiu, Sorbat de Potasiu, gamma-Terpinen, alpha-Terpinen, Terpineol, Pinene, Terpinolene, Limonene, Mentol.",
     "usage": "Aplicați pe pielea bine curățată și uscată (pe zona afectată) de 2 ori pe zi. Înainte de utilizare, faceți un test de compatibilitate cu pielea.",
     "contraindications": "Intoleranță individuală la componente.",
     "manufacturer": "Dalmatika (Bulgaria)",
@@ -1729,15 +1729,15 @@
     "suitability": "2 de ani",
     "keep": "păstrați la o temperatură cuprinsă între 0 și 25 și 25, departe de lumina directă a soarelui și umiditate."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Pentru sănătate",
     "review_count": "341 recenzii",
     "niche": "Auz",
     "form_factor": "capsule într-un blister, 10 buc.",
     "short_description": "Un complex pentru îmbunătățirea funcțiilor auditive cu o formulă echilibrată de vitamine și minerale.",
     "description": "Un complex de ingrediente naturale, a cărui acțiune vizează eliminarea tinitusului și încetinirea pierderii auzului.",
-    "compound": "Vitamina C, acetil L-carnitină, extract de frunze de Ginkgo Biloba, Magneziu, Vitamina B3 (nicotinamidă), Zinc, Vitamina B1, Vitamina B2, Vitamina B6, Melatonină.",
+    "compound": "Acid L-ascorbic, Gelatină, Vitamina C (Acid L-ascorbic), Celuloză microcristalină, Acetil L-carnitină HCl, Extract de frunze de Ginkgo biloba, Oxid de Magneziu, Nicotinamidă, Zinc, Stearat de Magneziu, Dioxid de Siliciu.",
     "usage": "Pentru adulți - câte 1 capsulă zilnic în timpul sau după mese. Durata unui curs - 2 luni. Nu depășiți doza zilnică recomandată.",
     "contraindications": "Intoleranță individuală la oricare dintre ingrediente. Numai pentru adulți, restricții pentru copii sub 18 ani.",
     "manufacturer": "Dalmatika (Bulgaria)",
@@ -1759,15 +1759,15 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Pentru sănătate",
     "review_count": "297 recenzii",
     "niche": "Potență",
     "form_factor": "capsule într-un blister, 10 buc",
     "short_description": "Un remediu pentru bărbați care vizează normalizarea funcției de reproducere.",
     "description": "Un complex de componente pe bază de plante care sporește dorința sexuală și îmbunătățește funcția sexuală la bărbați, normalizează starea funcțională a sistemului genito-urinar în disfuncția erectilă (pentru a crește libidoul și potența), îmbunătățește calitatea spermei și, de asemenea, crește performanța mentală și fizică și capacitățile de adaptare la bărbați.",
-    "compound": "Extract de boabe de merișor, gelatină (coaja capsulei), extract de fructe Saw palmetto, extract de rădăcină de urzică, celuloză microcristalină (umplutură), citrat de zinc, stearat de magneziu (umplutură), dioxid de siliciu (agent antiaglomerant), coloranți (învelișul capsulei): E171, E132.",
+    "compound": "Extract de rădăcină de Maca (Lepidium meyenii 4:1) - 60 mg, Extract de fructe de Merișor (Vaccinium macrocarpon, 35% proantocianidine) - 53 mg, Extract de fructe Saw Palmetto (Serenoa repens 5:1) - 50 mg, Extract de rădăcină de Urzică (Urtica dioica, 1% beta-sitosterol) - 40 mg, Zinc (Citrate de Zinc Trihidrat) - 5 mg.",
     "usage": "Luați câte 1 capsulă de 1-2 ori pe zi împreună cu mese. Durata unui curs - 45 de zile. Dacă este necesar, cursul poate fi repetat. Doza zilnică recomandată - 2 capsule.",
     "contraindications": "Intoleranță individuală la oricare dintre ingrediente, vârsta copiilor (până la 18 ani). Se recomandă să consultați un medic înainte de al lua. Nu e un medicament. Nu depășiți doza zilnică recomandată. Păstrați mai departe de copii. Acest supliment alimentar nu poate înlocui o dietă variată.",
     "manufacturer": "Dalmatika (Bulgaria)",
@@ -1953,8 +1953,8 @@
       "salePrice": "511",
       "newPrice": "2034"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "502",
       "newPrice": "1505"
     },
@@ -1988,8 +1988,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -1998,8 +1998,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -3975,11 +3975,11 @@
         "text": "Un instrument eficient la un preț accesibil. Durerea este îndepărtată imediat, inflamația și umflarea dispar treptat. Sunt mulțumit complet! 10 din 10!"
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
+        "src": "img/review_desalix_1.png",
         "name": "Radu Balan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4003,13 +4003,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am încercat picăturile Exofeet Oil anul trecut. Problema a dispărut și nu a apărut de atunci. Pielea și unghiile de la picioare sunt sănătoase, nimic nu mă deranjează."
+        "text": "Am încercat picăturile Desalix anul trecut. Problema a dispărut și nu a apărut de atunci. Pielea și unghiile de la picioare sunt sănătoase, nimic nu mă deranjează."
       },
 
       {
-        "src": "img/review_exofeet-oil_2.png",
+        "src": "img/review_desalix_2.png",
         "name": "Sofia Mălâia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4033,13 +4033,13 @@
             "type": "empty"
           }
         ],
-        "text": "Din primele zile de utilizare a Exofeet Oil, mâncărimea și mirosul neplăcut au dispărut. Continui să folosesc cursul până când problema va fi complet eliminată."
+        "text": "Din primele zile de utilizare a Desalix, mâncărimea și mirosul neplăcut au dispărut. Continui să folosesc cursul până când problema va fi complet eliminată."
       },
 
       {
-        "src": "img/review_exofeet-oil_3.png",
+        "src": "img/review_desalix_3.png",
         "name": "Anastasia Drăgan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4063,13 +4063,13 @@
             "type": "empty"
           }
         ],
-        "text": "Trăiesc cu ciuperca de ani de zile, dar s-a dovedit a fi atât de ușor să scap de ea. Datorită Exofeet Oil, am uitat de ea și sper că pentru totdeauna!"
+        "text": "Trăiesc cu ciuperca de ani de zile, dar s-a dovedit a fi atât de ușor să scap de ea. Datorită Desalix, am uitat de ea și sper că pentru totdeauna!"
       },
 
       {
-        "src": "img/review_exofeet-oil_4.png",
+        "src": "img/review_desalix_4.png",
         "name": "Dumitru Troian",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4093,13 +4093,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am o experiență pozitivă în utilizarea Exofeet Oil. Am scăpat de ciupercă. Mâncărime, miros neplăcut, fisuri pe picioare au trecut repede!"
+        "text": "Am o experiență pozitivă în utilizarea Desalix. Am scăpat de ciupercă. Mâncărime, miros neplăcut, fisuri pe picioare au trecut repede!"
       },
 
       {
-        "src": "img/review_exofeet-oil_5.png",
+        "src": "img/review_desalix_5.png",
         "name": "Delia Bratosin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4123,13 +4123,13 @@
             "type": "empty"
           }
         ],
-        "text": "Exofeet Oil este un instrument minunat! Este convenabil de utilizat, are o aromă plăcută. Dar principalul lucru care ajută. Elimină mâncărimea și ajută la eliminarea ciupercii."
+        "text": "Desalix este un instrument minunat! Este convenabil de utilizat, are o aromă plăcută. Dar principalul lucru care ajută. Elimină mâncărimea și ajută la eliminarea ciupercii."
       },
 
       {
-        "src": "img/review_exofeet-oil_6.png",
+        "src": "img/review_desalix_6.png",
         "name": "Elisabeta Mălăeru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4153,13 +4153,13 @@
             "type": "empty"
           }
         ],
-        "text": "Acum cred că poți să-ți iei rămas bun de la ciuperca unghiilor în câteva săptămâni. Înainte de asta, am suferit luni de zile. Mulțumim pentru Exofeet Oil!"
+        "text": "Acum cred că poți să-ți iei rămas bun de la ciuperca unghiilor în câteva săptămâni. Înainte de asta, am suferit luni de zile. Mulțumim pentru Desalix!"
       },
 
       {
-        "src": "img/review_exofeet-oil_7.png",
+        "src": "img/review_desalix_7.png",
         "name": "Mădălin  Țuțea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4183,13 +4183,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soția mea a comandat Exofeet Oil, a fost livrat în câteva zile. Crăpăturile s-au vindecat, mâncărimea a dispărut. În cele din urmă a scăpat de mirosul neplăcut. 10 din 10!"
+        "text": "Soția mea a comandat Desalix, a fost livrat în câteva zile. Crăpăturile s-au vindecat, mâncărimea a dispărut. În cele din urmă a scăpat de mirosul neplăcut. 10 din 10!"
       },
 
       {
-        "src": "img/review_exofeet-oil_8.png",
+        "src": "img/review_desalix_8.png",
         "name": "Monica Pălici",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4217,9 +4217,9 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_9.png",
+        "src": "img/review_desalix_9.png",
         "name": "Ania Pîndaru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4243,13 +4243,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am încercat să scap de ciuperci cu ajutorul diferitelor creme și remedii folclorice. Toate în zadar. M-a ajutat doar Exofeet Oil. Din primele zile, mâncărimea a dispărut și apoi orice altceva. Acum am picioare sănătoase!"
+        "text": "Am încercat să scap de ciuperci cu ajutorul diferitelor creme și remedii folclorice. Toate în zadar. M-a ajutat doar Desalix. Din primele zile, mâncărimea a dispărut și apoi orice altceva. Acum am picioare sănătoase!"
       },
 
       {
-        "src": "img/review_exofeet-oil_10.png",
+        "src": "img/review_desalix_10.png",
         "name": "Brândușa Radu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4273,13 +4273,13 @@
             "type": "empty"
           }
         ],
-        "text": "Știu despre Exofeet Oil de mult timp. Din experiența mea, pot spune că acesta este cel mai bun remediu pentru ciuperci! După curs, nu există urme pe piele sau pe unghii!"
+        "text": "Știu despre Desalix de mult timp. Din experiența mea, pot spune că acesta este cel mai bun remediu pentru ciuperci! După curs, nu există urme pe piele sau pe unghii!"
       },
 
       {
-        "src": "img/review_exofeet-oil_11.png",
+        "src": "img/review_desalix_11.png",
         "name": "Maria Mălâia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4303,13 +4303,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am comandat recent Exofeet Oil, deja văd rezultatul. Pielea a fost umezită, a devenit mai moale, chiar și zonele îngroșate s-au înmuiat. Sper că în curând voi înceta să-mi ascund picioarele în pantofi închise…"
+        "text": "Am comandat recent Desalix, deja văd rezultatul. Pielea a fost umezită, a devenit mai moale, chiar și zonele îngroșate s-au înmuiat. Sper că în curând voi înceta să-mi ascund picioarele în pantofi închise…"
       },
 
       {
-        "src": "img/review_exofeet-oil_12.png",
+        "src": "img/review_desalix_12.png",
         "name": "Catarina Bejan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4333,12 +4333,12 @@
             "type": "empty"
           }
         ],
-        "text": "Dacă aveți nevoie de un remediu eficient și ieftin pentru ciuperci, vă recomand Exofeet Oil! Ajută rapid și vă permite să uitați de această infecție pentru totdeauna!"
+        "text": "Dacă aveți nevoie de un remediu eficient și ieftin pentru ciuperci, vă recomand Desalix! Ajută rapid și vă permite să uitați de această infecție pentru totdeauna!"
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
+        "src": "img/review_desalix_13.png",
         "name": "Irăna Șonda",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4362,13 +4362,13 @@
             "type": "empty"
           }
         ],
-        "text": "Pentru a face față ciupercii, trebuie să aveți multă răbdare. Problema necesită terapie pe termen lung, toată lumea știe asta. Dar cu ajutorul Exofeet Oil, totul a fost rapid și eficient. Un curs — și unghii complet sănătoase!"
+        "text": "Pentru a face față ciupercii, trebuie să aveți multă răbdare. Problema necesită terapie pe termen lung, toată lumea știe asta. Dar cu ajutorul Desalix, totul a fost rapid și eficient. Un curs — și unghii complet sănătoase!"
       },
 
       {
-        "src": "img/review_exofeet-oil_14.png",
+        "src": "img/review_desalix_14.png",
         "name": "Alexandru Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4392,13 +4392,13 @@
             "type": "empty"
           }
         ],
-        "text": "A fost inconfortabil din cauza mirosului când mi-am scos pantofii, soția mea mi-a adus Exofeet Oil. Remediul a ajutat. Nu are miros, picioarele s-au oprit să mă mănânce după pantofi. Nu l-am folosit de șase luni, dar problema nu revine!"
+        "text": "A fost inconfortabil din cauza mirosului când mi-am scos pantofii, soția mea mi-a adus Desalix. Remediul a ajutat. Nu are miros, picioarele s-au oprit să mă mănânce după pantofi. Nu l-am folosit de șase luni, dar problema nu revine!"
       },
 
       {
-        "src": "img/review_exofeet-oil_15.png",
+        "src": "img/review_desalix_15.png",
         "name": "Ioana Lacu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Desalix",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4422,7 +4422,7 @@
             "type": "empty"
           }
         ],
-        "text": "M-a ajutat să scap de ciupercă în câteva săptămâni! Starea pielii s-a îmbunătățit, unghiile cresc sănătoase și puternice. Aveți grijă atunci când alegeți un maestru de manichiură, este mai bine să aveți Exofeet Oil în stoc!"
+        "text": "M-a ajutat să scap de ciupercă în câteva săptămâni! Starea pielii s-a îmbunătățit, unghiile cresc sănătoase și puternice. Aveți grijă atunci când alegeți un maestru de manichiură, este mai bine să aveți Desalix în stoc!"
       }
     ],
     "reviews_feronex": [
@@ -5778,11 +5778,11 @@
         "text": "Neoveris este folosit de soția mea, are probleme cu venele încă din tinerețe. Sunt mulțumit de rezultat. Nu s-a plâns de sănătate în ultimele șase luni, iar venele sunt aproape invizibile pe picioarele ei."
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
+        "src": "img/review_ausen_1.png",
         "name": "Maria Marin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5806,13 +5806,13 @@
             "type": "empty"
           }
         ],
-        "text": "Când s-au început problemele de auz, am căutat un remediu mult timp. Recomandat Ottomax+. Efect este cu siguranță! Am încetat să întreb din nou interlocutorii. Și este ieftin!"
+        "text": "Când s-au început problemele de auz, am căutat un remediu mult timp. Recomandat Ausen. Efect este cu siguranță! Am încetat să întreb din nou interlocutorii. Și este ieftin!"
       },
 
       {
-        "src": "img/review_ottomax_2.png",
+        "src": "img/review_ausen_2.png",
         "name": "Liliana Dragu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5840,9 +5840,9 @@
       },
 
       {
-        "src": "img/review_ottomax_3.png",
+        "src": "img/review_ausen_3.png",
         "name": "Mihael Burdu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5870,9 +5870,9 @@
       },
 
       {
-        "src": "img/review_ottomax_4.png",
+        "src": "img/review_ausen_4.png",
         "name": "Mircea Balan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5896,13 +5896,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am suferit luni de zile cu picături de urechi până când am aflat despre Ottomax+. Este mult mai convenabil de utilizat și rezultatul este mult mai bun. Audierea a devenit mai bună, zvonul în urechi a dispărut."
+        "text": "Am suferit luni de zile cu picături de urechi până când am aflat despre Ausen. Este mult mai convenabil de utilizat și rezultatul este mult mai bun. Audierea a devenit mai bună, zvonul în urechi a dispărut."
       },
 
       {
-        "src": "img/review_ottomax_5.png",
+        "src": "img/review_ausen_5.png",
         "name": "Dragoș Vultur",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5930,9 +5930,9 @@
       },
 
       {
-        "src": "img/review_ottomax_6.png",
+        "src": "img/review_ausen_6.png",
         "name": "Diana Pelin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5956,13 +5956,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am apreciat eficacitatea Ottomax+ când mi-am pierdut auzul după concert. Ajută. Un mare plus este că produsul este sub formă de capsule, nu picături."
+        "text": "Am apreciat eficacitatea Ausen când mi-am pierdut auzul după concert. Ajută. Un mare plus este că produsul este sub formă de capsule, nu picături."
       },
 
       {
-        "src": "img/review_ottomax_7.png",
+        "src": "img/review_ausen_7.png",
         "name": "Dan Ciopârlă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5986,13 +5986,13 @@
             "type": "empty"
           }
         ],
-        "text": "Gripa a dat complicații urechii. M-a durut teribil, a fost un zgomot în urechi. Pastilele au ușurat durerea, dar numai Ottomax+ a ajutat la restabilirea completă a auzului. Acum îl recomand prietenilor și cunoștințelor mele!"
+        "text": "Gripa a dat complicații urechii. M-a durut teribil, a fost un zgomot în urechi. Pastilele au ușurat durerea, dar numai Ausen a ajutat la restabilirea completă a auzului. Acum îl recomand prietenilor și cunoștințelor mele!"
       },
 
       {
-        "src": "img/review_ottomax_8.png",
+        "src": "img/review_ausen_8.png",
         "name": "Ana Moară",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6016,13 +6016,13 @@
             "type": "empty"
           }
         ],
-        "text": "Odată cu vârsta, auzul a început să se deterioreze rapid. Un specialist familiar a recomandat Ottomax+. Și a ajutat cu adevărat! M-a scapat de zgomotul care mă urmează constant."
+        "text": "Odată cu vârsta, auzul a început să se deterioreze rapid. Un specialist familiar a recomandat Ausen. Și a ajutat cu adevărat! M-a scapat de zgomotul care mă urmează constant."
       },
 
       {
-        "src": "img/review_ottomax_9.png",
+        "src": "img/review_ausen_9.png",
         "name": "Alin Bordea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6050,9 +6050,9 @@
       },
 
       {
-        "src": "img/review_ottomax_10.png",
+        "src": "img/review_ausen_10.png",
         "name": "Elena Adamache",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6076,13 +6076,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am comandat Ottomax+ pentru bunica mea. Și ea spune, și eu văd, că auzul ei s-a îmbunătățit. Ea spune, de asemenea, că a început să dormă mai bine. Deci, poate ajuta cu probleme legate de vârstă!"
+        "text": "Am comandat Ausen pentru bunica mea. Și ea spune, și eu văd, că auzul ei s-a îmbunătățit. Ea spune, de asemenea, că a început să dormă mai bine. Deci, poate ajuta cu probleme legate de vârstă!"
       },
 
       {
-        "src": "img/review_ottomax_11.png",
+        "src": "img/review_ausen_11.png",
         "name": "Lucian Petriceanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6110,9 +6110,9 @@
       },
 
       {
-        "src": "img/review_ottomax_12.png",
+        "src": "img/review_ausen_12.png",
         "name": "Lucreția Florescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6140,9 +6140,9 @@
       },
 
       {
-        "src": "img/review_ottomax_13.png",
+        "src": "img/review_ausen_13.png",
         "name": "Sanrda Tudra",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6166,13 +6166,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ottomax+ iau nu prima dată. Ajută atât la afecțiuni cronice, cât și la tulburări de auz legate de vârstă. De asemenea, îl folosesc pentru inflamație. Sunt foarte mulțumită de remediu!"
+        "text": "Ausen iau nu prima dată. Ajută atât la afecțiuni cronice, cât și la tulburări de auz legate de vârstă. De asemenea, îl folosesc pentru inflamație. Sunt foarte mulțumită de remediu!"
       },
 
       {
-        "src": "img/review_ottomax_14.png",
+        "src": "img/review_ausen_14.png",
         "name": "Marin Clopot",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6200,9 +6200,9 @@
       },
 
       {
-        "src": "img/review_ottomax_15.png",
+        "src": "img/review_ausen_15.png",
         "name": "Gheorghina Neamțu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Ausen",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -6226,7 +6226,7 @@
             "type": "empty"
           }
         ],
-        "text": "Lucrez într-o cameră zgomotoasă și acest lucru îmi afectează negativ auzul. Și după Ottomax+, auzul a devenit mult mai bun, seara nu mai există zgomot în urechi, chiar și somnul s-a îmbunătățit! Vă mulțumim pentru un remediu de înaltă calitate și eficient!"
+        "text": "Lucrez într-o cameră zgomotoasă și acest lucru îmi afectează negativ auzul. Și după Ausen, auzul a devenit mult mai bun, seara nu mai există zgomot în urechi, chiar și somnul s-a îmbunătățit! Vă mulțumim pentru un remediu de înaltă calitate și eficient!"
       }
     ],
     "reviews_paraxan": [
@@ -8771,11 +8771,11 @@
         "text": "Răcește plăcut, ameliorează durerea, oprește crampele de noapte. Am simțit efectul din primele zile și se îmbunătățea în fiecare zi!"
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
+        "src": "img/review_viarex_1.png",
         "name": "Ion Marinescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8803,9 +8803,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_2.png",
+        "src": "img/review_viarex_2.png",
         "name": "Gheorghe Nistor",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8833,9 +8833,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_3.png",
+        "src": "img/review_viarex_3.png",
         "name": "Măriuța Coman",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8863,9 +8863,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_4.png",
+        "src": "img/review_viarex_4.png",
         "name": "Daniel Spataru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8889,13 +8889,13 @@
             "type": "empty"
           }
         ],
-        "text": "Odată cu vârsta, fiecare bărbat se poate confrunta cu probleme într-un mod intim. Le-am avut și eu, până când am încercat formula pentru bărbați Wirex. Îl recomand!"
+        "text": "Odată cu vârsta, fiecare bărbat se poate confrunta cu probleme într-un mod intim. Le-am avut și eu, până când am încercat formula pentru bărbați Viarex. Îl recomand!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_5.png",
+        "src": "img/review_viarex_5.png",
         "name": "Cornelia Crăciun",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8919,13 +8919,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am fost surprins de comportamentul soțului meu în ultima vreme, de parcă s-ar fi întors în tinerețe. Și apoi am găsit Wirex men`s formula în geanta lui și am înțeles totul."
+        "text": "Am fost surprins de comportamentul soțului meu în ultima vreme, de parcă s-ar fi întors în tinerețe. Și apoi am găsit Viarex în geanta lui și am înțeles totul."
       },
 
       {
-        "src": "img/review_wirex-mens-formula_6.png",
+        "src": "img/review_viarex_6.png",
         "name": "Lucrețiu Vlad",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8953,9 +8953,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_7.png",
+        "src": "img/review_viarex_7.png",
         "name": "Teodor Bercea",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8983,9 +8983,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_8.png",
+        "src": "img/review_viarex_8.png",
         "name": "Dafna Cantemir",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9009,13 +9009,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a început să aibă probleme \"ca un bărbat\" pe fondul stresului. L-am convins să încerce Wirex men`s formula, a ajutat! Dorința s-a întors la el, sex în fiecare zi!"
+        "text": "Soțul meu a început să aibă probleme \"ca un bărbat\" pe fondul stresului. L-am convins să încerce Viarex, a ajutat! Dorința s-a întors la el, sex în fiecare zi!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_9.png",
+        "src": "img/review_viarex_9.png",
         "name": "Dionisa Opa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9039,13 +9039,13 @@
             "type": "empty"
           }
         ],
-        "text": "Un remediu excelent. Soțul meu este mulțumit de Wirex men`s formula și, în sfârșit, sunt mulțumit de soțul meu. Nici nu credeam că poate rezista ore întregi!"
+        "text": "Un remediu excelent. Soțul meu este mulțumit de Viarex și, în sfârșit, sunt mulțumit de soțul meu. Nici nu credeam că poate rezista ore întregi!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_10.png",
+        "src": "img/review_viarex_10.png",
         "name": "Aurel Vieru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9073,9 +9073,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_11.png",
+        "src": "img/review_viarex_11.png",
         "name": "Ghiță Druță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9103,9 +9103,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_12.png",
+        "src": "img/review_viarex_12.png",
         "name": "Elena Spataru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9133,9 +9133,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_13.png",
+        "src": "img/review_viarex_13.png",
         "name": "Lucian Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9163,9 +9163,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_14.png",
+        "src": "img/review_viarex_14.png",
         "name": "Mihael Verbu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9193,9 +9193,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_15.png",
+        "src": "img/review_viarex_15.png",
         "name": "Robert Popescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Viarex",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9219,7 +9219,7 @@
             "type": "empty"
           }
         ],
-        "text": "Am avut puțină încredere că Wirex men`s formula ar putea ajuta, dar m-am înșelat. Am simțit rezultatul din primele zile, după ce cursul mi-a fost restabilit sănătatea, nu au mai existat probleme cu \"prietenul\"."
+        "text": "Am avut puțină încredere că Viarex ar putea ajuta, dar m-am înșelat. Am simțit rezultatul din primele zile, după ce cursul mi-a fost restabilit sănătatea, nu au mai existat probleme cu \"prietenul\"."
       }
     ],
     "reviews_guavital": [

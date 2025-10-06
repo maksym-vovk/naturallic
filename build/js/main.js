@@ -359,12 +359,12 @@ const productsInfo = {
       salePrice: "511",
       newPrice: "2034"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Ciupercă',
       country: 'Romania',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "502",
       newPrice: "1505"
     },
@@ -425,13 +425,13 @@ const productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Auz',
       country: 'Romania',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -445,13 +445,13 @@ const productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Potență',
       country: 'Romania',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -549,12 +549,12 @@ const productsInfo = {
       salePrice: "511",
       newPrice: "2034"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Gomba',
       country: 'Hungary',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "502",
       newPrice: "1505"
     },
@@ -615,13 +615,13 @@ const productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Hallás',
       country: 'Hungary',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -635,13 +635,13 @@ const productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Potencia',
       country: 'Hungary',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -739,12 +739,12 @@ const productsInfo = {
       salePrice: "29",
       newPrice: "99"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Fungo',
       country: 'Italy',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "26",
       newPrice: "94"
     },
@@ -805,13 +805,13 @@ const productsInfo = {
       salePrice: "30",
       newPrice: "168"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Udito',
       country: 'Italy',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "27",
       newPrice: "140"
     },
@@ -825,13 +825,13 @@ const productsInfo = {
       salePrice: "30",
       newPrice: "112"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Potenza',
       country: 'Italy',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "30",
       newPrice: "149"
     },
@@ -929,12 +929,12 @@ const productsInfo = {
       salePrice: "511",
       newPrice: "2034"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Fungus',
       country: 'Czech',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "502",
       newPrice: "1505"
     },
@@ -995,13 +995,13 @@ const productsInfo = {
       salePrice: "524",
       newPrice: "3199"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Sluch',
       country: 'Czech',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "518",
       newPrice: "2455"
     },
@@ -1015,13 +1015,13 @@ const productsInfo = {
       salePrice: "509",
       newPrice: "1644"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Potence',
       country: 'Czech',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "516",
       newPrice: "2694"
     },
@@ -1119,12 +1119,12 @@ const productsInfo = {
       salePrice: "43",
       newPrice: "149"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Гъбички',
       country: 'Bulgaria',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "44",
       newPrice: "159"
     },
@@ -1185,13 +1185,13 @@ const productsInfo = {
       salePrice: "43",
       newPrice: "239"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Слух',
       country: 'Bulgaria',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "42",
       newPrice: "217"
     },
@@ -1205,13 +1205,13 @@ const productsInfo = {
       salePrice: "43",
       newPrice: "161"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Потентност',
       country: 'Bulgaria',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "44",
       newPrice: "220"
     },
@@ -1309,12 +1309,12 @@ const productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Seenhaigus',
       country: 'Estonia',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "96"
     },
@@ -1375,13 +1375,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "165"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Kuulmine',
       country: 'Estonia',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "25",
       newPrice: "119"
     },
@@ -1395,13 +1395,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Potents',
       country: 'Estonia',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "26",
       newPrice: "102"
     },
@@ -1499,12 +1499,12 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "82"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Gljivice',
       country: 'Croatia',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "89"
     },
@@ -1565,13 +1565,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "135"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Sluh',
       country: 'Croatia',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "26",
       newPrice: "136"
     },
@@ -1585,13 +1585,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "88"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Potencija',
       country: 'Croatia',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "25",
       newPrice: "125"
     },
@@ -1689,12 +1689,12 @@ const productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Grybelis',
       country: 'Lithuania',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "96"
     },
@@ -1755,13 +1755,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "165"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Klausa',
       country: 'Lithuania',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "25",
       newPrice: "119"
     },
@@ -1775,13 +1775,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Potencja',
       country: 'Lithuania',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "26",
       newPrice: "102"
     },
@@ -1879,12 +1879,12 @@ const productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Sēnīte',
       country: 'Latvia',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "96"
     },
@@ -1945,13 +1945,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "165"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Dzirde',
       country: 'Latvia',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "25",
       newPrice: "119"
     },
@@ -1965,13 +1965,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Potence',
       country: 'Latvia',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "26",
       newPrice: "102"
     },
@@ -2069,12 +2069,12 @@ const productsInfo = {
       salePrice: "29",
       newPrice: "99"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Fungo',
       country: 'Portugal',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "26",
       newPrice: "94"
     },
@@ -2135,13 +2135,13 @@ const productsInfo = {
       salePrice: "30",
       newPrice: "168"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Audição',
       country: 'Portugal',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "27",
       newPrice: "140"
     },
@@ -2155,13 +2155,13 @@ const productsInfo = {
       salePrice: "30",
       newPrice: "112"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Potência',
       country: 'Portugal',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "30",
       newPrice: "149"
     },
@@ -2259,12 +2259,12 @@ const productsInfo = {
       salePrice: "93",
       newPrice: "323"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Grzybica',
       country: 'Poland',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "93",
       newPrice: "333"
     },
@@ -2325,13 +2325,13 @@ const productsInfo = {
       salePrice: "95",
       newPrice: "523"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Słuch',
       country: 'Poland',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "90",
       newPrice: "476"
     },
@@ -2345,13 +2345,13 @@ const productsInfo = {
       salePrice: "95",
       newPrice: "352"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Potencja',
       country: 'Poland',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "94",
       newPrice: "466"
     },
@@ -2449,12 +2449,12 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "82"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Glivice',
       country: 'Slovenia',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "89"
     },
@@ -2515,13 +2515,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "135"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Zaslišanje',
       country: 'Slovenia',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "26",
       newPrice: "136"
     },
@@ -2535,13 +2535,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "88"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Moč',
       country: 'Slovenia',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "25",
       newPrice: "125"
     },
@@ -2639,12 +2639,12 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "82"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Pleseň',
       country: 'Slovakia',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "89"
     },
@@ -2705,13 +2705,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "135"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Sluch',
       country: 'Slovakia',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "26",
       newPrice: "136"
     },
@@ -2725,13 +2725,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "88"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Potencia',
       country: 'Slovakia',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "25",
       newPrice: "125"
     },
@@ -2829,12 +2829,12 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "82"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Mycose',
       country: 'Belgium',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "89"
     },
@@ -2895,13 +2895,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "135"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Ouïe',
       country: 'Belgium',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "26",
       newPrice: "136"
     },
@@ -2915,13 +2915,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "88"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Puissance',
       country: 'Belgium',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "25",
       newPrice: "125"
     },
@@ -3019,12 +3019,12 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "82"
     },
-    exofeet_oil: {
+    desalix: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Μύκητας',
       country: 'Greece',
-      productName: 'Exofeet Oil',
+      productName: 'Desalix',
       salePrice: "25",
       newPrice: "89"
     },
@@ -3085,13 +3085,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "135"
     },
-    ottomax: {
+    ausen: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Ακοή',
       country: 'Greece',
-      productName: 'Ottomax+',
+      productName: 'Ausen',
       salePrice: "26",
       newPrice: "136"
     },
@@ -3105,13 +3105,13 @@ const productsInfo = {
       salePrice: "24",
       newPrice: "88"
     },
-    wirex: {
+    viarex: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Δύναμη',
       country: 'Greece',
-      productName: 'Wirex men’s formula',
+      productName: 'Viarex',
       salePrice: "25",
       newPrice: "125"
     },

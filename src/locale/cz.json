@@ -180,11 +180,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -209,8 +209,8 @@
       ],
       "text": "288 recenzí",
       "desc": "Přírodní olej s baktericidním účinkem proti příznakům plísní.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -435,12 +435,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -465,8 +465,8 @@
       ],
       "text": "341 recenzí",
       "desc": "Komplex pro zlepšení sluchových funkcí s vyváženým složením vitaminů a minerálů.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -509,12 +509,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -539,8 +539,8 @@
       ],
       "text": "297 recenzí",
       "desc": "Komplex bylinných složek, který zvyšuje sexuální touhu normalizuje funkční stav močopohlavního systému.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -979,13 +979,13 @@
       "niche": "Směr: Křečové žíly"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1217,13 +1217,13 @@
       "niche": "Směr: Omlazování"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1285,13 +1285,13 @@
       "niche": "Směr: Paraziti"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1615,22 +1615,22 @@
     "form_factor": "tuba 30 ml, kartonová krabička, technický návod, krém/gel.",
     "short_description": "Chladivý gel určený proti příznakům křečových žil.",
     "description": "Gel na rostlinné bázi, který jemně chladí a zmírňuje tíhu v nohách, posiluje stěny cév a zabraňuje vzniku křečových žil.",
-    "compound": "Voda, glycerin, propylenglykol, alkohol denat, extrakt z jitrocele kopinatého (Aesculus Hippocastanum), extrakt z centella asiatica, extrakt z kořene Ruscus Aculeatus, extrakt z kalusové kultury Symphytum Officinale, extrakt z květu Chamomilla Recutita, niacinamid, Troxerutin, kofein, močovina, arginin, kopolymer akryloyldimethyltaurátu amonného/VP, kyselina salicylová, mentol, alantoin, hyaluronát sodný, fenoxyethanol, ethylhexylglycerin, disodná sůl EDTA.",
+    "compound": "Voda, Glycerin, Propylenglykol, Denaturovaný alkohol, Extrakt z jírovce maďalu (Aesculus hippocastanum), Extrakt z Centella asiatica, Extrakt z kořene Ruscu aculeatus, Kultury kalusu Symphytum officinale, Květ heřmánku (Chamomilla recutita), Niacinamid, Troxerutin, Kofein, Urea, Argin, Kopolymér Ammonium Acryloyldiméthyltaurat/VP, Kyselina salicylová, Menthol, Allantoin, Hyaluronát sodný, Fenoxyethanol, Ethylhexylglycerin, Disodium EDTA.",
     "usage": "Aplikujte lehkými masážními tahy po dobu 3-5 minut dvakrát denně. Před aplikací proveďte na pokožce test kožní snášenlivosti.",
     "contraindications": "Vyhněte se kontaktu s očima. Nepoužívejte u dětí mladších tří let ani přímo na otevřené rány.",
     "manufacturer": "Dalmatika (Bulharsko)",
     "suitability": "2 roky",
     "keep": " Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Pro zdraví",
     "review_count": "288 recenzí",
     "niche": "Fungus",
-    "form_factor": "olej v balení, 20 ml.",
+    "form_factor": "olej v balení, 30 ml.",
     "short_description": "Přírodní olej s baktericidním účinkem proti příznakům plísní.",
     "description": "Komplex na bázi 4 olejů ( čajovník, skořice, máta peprná, citronová tráva) působí na pokožku celkově protizánětlivě, antisepticky, tonizujícím, vyživujícím a hydratačním účinkem. Proniká hluboko a dlouho přetrvává v lokalizované oblasti plísně.",
-    "compound": "Alkohol Denat, voda, propylenglykol, glycerin, niacinamid, extrakt z listů Symphytum Officinale, extrakt z propolisu, extrakt z květů Chamomilla Recutita, chlorhydrát hliníku, kyselina salicylová, fenylpropanol, o-cymen-5-ol, decylenglykol, olej z listů Melaleuca Alternifolia, Allantoin, olej z listů Cinnamomum Zeylanicum, máslo Mentha Piperita, 4-terpineol, olej z Cymbopogon Flexuosus, kopolymer akrylátů sodných, xanthanová guma, lecitin, disodium EDTА, citral, linalool, limonen, eugenol, skořice, benzyl benzoát, geraniol.",
+    "compound": "Voda, Glycerin, Olej ze sladkých mandlí, Kapalný parafín, Polyakrylát sodný, Kopolymér hydroxyethyl akrylátu/sodného acryloyldimethyl taurátu, Polysorbát 80, PEG-40 hydrogenovaný ricinový olej, Bisabolol, Kyselina salicylová, Olej z čajovníku, Glukonolakton, Kamfor, Hydrogenovaný polydecen, Acetát tokoferolu, Extrakt z hřebíčku, Extrakt z jírovce maďalu, Extrakt z melilotu, Extrakt z měsíčku, Extrakt z přesličky, Extrakt z rozmarýnu, Extrakt z heřmánku, Extrakt z lopuchu, Fenoxyethanol, Hyaluronát sodný, Olej z máty peprné, Trideceth-6, BHT, Disodium EDTA, Ethylhexylglycerin, Glukonát vápenatý, Kyselina citronová, Benzoát sodný, Sorban draselný, gamma-Terpinene, alpha-Terpinene, Terpinolene, Limonene, Menthol.",
     "usage": "Aplikujte na dobře očištěnou a suchou pokožku (na poškozené místo) dvakrát denně. Před použitím proveďte test kožní snášenlivosti.",
     "contraindications": "individuální nesnášenlivost složek.",
     "manufacturer": "Dalmatika (Bulharsko)",
@@ -1727,15 +1727,15 @@
     "suitability": "2 roky ",
     "keep": "Skladujte při teplotě od 0 °C do 25 °C, mimo dosah přímého slunečního záření a vlhkosti."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Pro zdraví",
     "review_count": "341 recenzí",
     "niche": "Sluch",
     "form_factor": "blistr, 10 tobolek, kartonová krabička, technický návod,",
     "short_description": "Komplex pro zlepšení sluchových funkcí s vyváženým složením vitaminů a minerálů.",
     "description": "Komplex přírodních složek, které působí na odstranění tinnitu a oddálení ztráty sluchu.",
-    "compound": "kyselina L-askorbová, želatina, vitamin C (kyselina L-askorbová) (obal kapsle), mikrokrystalická celulóza (plnidlo), acetyl L-karnitin hcl, extrakt z listů ginkgo biloby, oxid hořečnatý, nikotinamid, zinek, stearan hořečnatý (plnidlo), thiamin hydrochlorid, oxid křemičitý (protispékavá látka), riboflavin, pyridoxin hydrochlorid.",
+    "compound": "Kyselina L-askorbová, želatina, Vitamin C (kyselina L-askorbová), Mikrokrytalická celulóza, Acetyl L-karnitin HCl, Extrakt z listů Ginkgo biloba, Oxid hořečnatý, Nikotinamid, Zinek, Stearát hořečnatý, Oxid křemičitý.",
     "usage": "Dospělí: 1 kapsle denně s jídlem nebo po jídle. Jeden kurz trvá 2 měsíce. Pokud \n Nepřekračujte doporučenou denní dávku.",
     "contraindications": "Individuální nesnášenlivost některé ze složek. Pouze pro dospělé, omezení pro děti do 18 let.",
     "manufacturer": "Dalmatika (Bulharsko)",
@@ -1757,15 +1757,15 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Pro zdraví",
     "review_count": "297 recenzí",
     "niche": "Potence",
     "form_factor": "Kapsle v blistru, 10 ks.",
     "short_description": "Komplex bylinných složek, který zvyšuje sexuální touhu normalizuje funkční stav močopohlavního systému.",
-    "description": "Komplex bylinných složek, který zvyšuje sexuální touhu a zlepšuje sexuální funkce u mužů, normalizuje funkční stav močopohlavního systému při erektilní dysfunkci (pro zvýšení libida a potence), zlepšuje kvalitu spermií a zvyšuje psychickou a fyzickou výkonnost a adaptační schopnosti mužů. Působení přípravku Wirex men's formula je dáno funkčními vlastnostmi účinných látek a je zaměřeno na řešení problémů se sexuálními funkcemi, libidem, spermatogenezí, pamětí a energií u mužů.",
-    "compound": "Želatina (obal tobolky), mikrokrystalická celulóza (plnidlo), extrakt z plodů brusinek, extrakt z plodů Saw Palmetto, extrakt z kořene kopřivy, trihydrát citrátu zinečnatého, stearan hořečnatý (plnidlo), oxid křemičitý (protispékavá látka).",
+    "description": "Komplex bylinných složek, který zvyšuje sexuální touhu a zlepšuje sexuální funkce u mužů, normalizuje funkční stav močopohlavního systému při erektilní dysfunkci (pro zvýšení libida a potence), zlepšuje kvalitu spermií a zvyšuje psychickou a fyzickou výkonnost a adaptační schopnosti mužů. Působení přípravku Viarex je dáno funkčními vlastnostmi účinných látek a je zaměřeno na řešení problémů se sexuálními funkcemi, libidem, spermatogenezí, pamětí a energií u mužů.",
+    "compound": "Extrakt z kořene Maca (Lepidium meyenii 4:1) - 60 mg, Extrakt z brusinky (Vaccinium macrocarpon, 35% proanthokyanidiny) - 53 mg, Extrakt z plodů Saw Palmetto (Serenoa repens 5:1) - 50 mg, Extrakt z kořene kopřivy (Urtica dioica, 1% beta-sitosterol) - 40 mg, Zinek (Citrát zinku trihydrát) - 5 mg.",
     "usage": "1 kapsle 1-2x denně s jídlem. Jeden kurz trvá 45 dní. V případě potřeby lze kurz opakovat.\n Doporučená denní dávka jsou 2 kapsle.",
     "contraindications": "Individuální nesnášenlivost některé ze složek, děti (do 18 let). \n Před užíváním je vhodné poradit se s lékařem. Není to lék. Nepřekračujte doporučenou denní dávku. Uchovávejte mimo dosah dětí. Tento doplněk stravy by neměl nahrazovat pestrou stravu.",
     "manufacturer": "Dalmatika (Bulharsko)",
@@ -1951,8 +1951,8 @@
       "salePrice": "511",
       "newPrice": "2034"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "502",
       "newPrice": "1505"
     },
@@ -1986,8 +1986,8 @@
       "salePrice": "524",
       "newPrice": "3199"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "518",
       "newPrice": "2455"
     },
@@ -1996,8 +1996,8 @@
       "salePrice": "509",
       "newPrice": "1644"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "516",
       "newPrice": "2694"
     },
@@ -3972,11 +3972,11 @@
         "text": "Efektivní prostředek za přijatelnou cenu. Bolest okamžitě odstraní, zánět a otok postupně zmizí. Jsem moc spokojený! 10 z 10!"
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
+        "src": "img/review_desalix_1.png",
         "name": "Jaroslava Netíková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4000,13 +4000,13 @@
             "type": "empty"
           }
         ],
-        "text": "Zkoušela jsem kapky Exofeet Oil ještě loni. Problém zmizel a od té doby se neobjevil. Kůže a nehty jsou zdravé, nic mě netrápí."
+        "text": "Zkoušela jsem kapky Desalix ještě loni. Problém zmizel a od té doby se neobjevil. Kůže a nehty jsou zdravé, nic mě netrápí."
       },
 
       {
-        "src": "img/review_exofeet-oil_2.png",
+        "src": "img/review_desalix_2.png",
         "name": "Jana Machýčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4030,13 +4030,13 @@
             "type": "empty"
           }
         ],
-        "text": "Od prvních dnů používání přípravku Exofeet Oil byly svědění a nepříjemný zápach pryč. Pokračuji v používání kurzu až do úplného odstranění problému."
+        "text": "Od prvních dnů používání přípravku Desalix byly svědění a nepříjemný zápach pryč. Pokračuji v používání kurzu až do úplného odstranění problému."
       },
 
       {
-        "src": "img/review_exofeet-oil_3.png",
+        "src": "img/review_desalix_3.png",
         "name": "Markéta Erhardtová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4060,13 +4060,13 @@
             "type": "empty"
           }
         ],
-        "text": "S houbou jsem žila roky, a ukázalo se, že je tak snadné se ji zbavit. Díky Exofeet Oil jsem na ni zapomněla a doufám, že navždy!"
+        "text": "S houbou jsem žila roky, a ukázalo se, že je tak snadné se ji zbavit. Díky Desalix jsem na ni zapomněla a doufám, že navždy!"
       },
 
       {
-        "src": "img/review_exofeet-oil_4.png",
+        "src": "img/review_desalix_4.png",
         "name": "Václav Čichoň",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4090,13 +4090,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mám pozitivní zkušenosti s používáním prostředku Exofeet Oil. Zbavil jsem se houby. Svědění, nepříjemný zápach, praskliny na nohou zmizely rychle!"
+        "text": "Mám pozitivní zkušenosti s používáním prostředku Desalix. Zbavil jsem se houby. Svědění, nepříjemný zápach, praskliny na nohou zmizely rychle!"
       },
 
       {
-        "src": "img/review_exofeet-oil_5.png",
+        "src": "img/review_desalix_5.png",
         "name": "Anna Široká",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4120,13 +4120,13 @@
             "type": "empty"
           }
         ],
-        "text": "Exofeet Oil je skvělý prostředek! Pohodlné použití, má příjemnou vůni. Ale hlavně to pomáhá. Odstraňuje svědění a pomáhá zbavit se houby."
+        "text": "Desalix je skvělý prostředek! Pohodlné použití, má příjemnou vůni. Ale hlavně to pomáhá. Odstraňuje svědění a pomáhá zbavit se houby."
       },
 
       {
-        "src": "img/review_exofeet-oil_6.png",
+        "src": "img/review_desalix_6.png",
         "name": "Milena Kolářová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4150,13 +4150,13 @@
             "type": "empty"
           }
         ],
-        "text": "Teď věřím, že se s houbou nehtů můžeme rozloučit během několika týdnů. Předtím jsem se trápila měsíce. Díky za Exofeet Oil!"
+        "text": "Teď věřím, že se s houbou nehtů můžeme rozloučit během několika týdnů. Předtím jsem se trápila měsíce. Díky za Desalix!"
       },
 
       {
-        "src": "img/review_exofeet-oil_7.png",
+        "src": "img/review_desalix_7.png",
         "name": "Tomáš Haken",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4180,13 +4180,13 @@
             "type": "empty"
           }
         ],
-        "text": "Manželka mi objednala Exofeet Oil, doručili ho za pár dní. Praskliny se zahojily, svědění je pryč. Nakonec jsem se zbavil nepříjemného zápachu. 10 z 10!"
+        "text": "Manželka mi objednala Desalix, doručili ho za pár dní. Praskliny se zahojily, svědění je pryč. Nakonec jsem se zbavil nepříjemného zápachu. 10 z 10!"
       },
 
       {
-        "src": "img/review_exofeet-oil_8.png",
+        "src": "img/review_desalix_8.png",
         "name": "Eliška Crkvová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4214,9 +4214,9 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_9.png",
+        "src": "img/review_desalix_9.png",
         "name": "Ludmila Velebilová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4240,13 +4240,13 @@
             "type": "empty"
           }
         ],
-        "text": "Snažila jsem se zbavit houby pomocí různých krémů a lidových prostředků. Všechno bylo marné. Pomohl pouze Exofeet Oil. Během prvních dnů zmizelo svědění a pak všechno ostatní. Teď mám zdravé nohy!"
+        "text": "Snažila jsem se zbavit houby pomocí různých krémů a lidových prostředků. Všechno bylo marné. Pomohl pouze Desalix. Během prvních dnů zmizelo svědění a pak všechno ostatní. Teď mám zdravé nohy!"
       },
 
       {
-        "src": "img/review_exofeet-oil_10.png",
+        "src": "img/review_desalix_10.png",
         "name": "Kristýna Šenfeldová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4270,13 +4270,13 @@
             "type": "empty"
           }
         ],
-        "text": "O Exofeet Oil vím už dlouho. Z vlastní zkušenosti mohu říci, že je to nejlepší prostředek na houby! Po kurzu na pokožce, ani na nehtech žádné stopy!"
+        "text": "O Desalix vím už dlouho. Z vlastní zkušenosti mohu říci, že je to nejlepší prostředek na houby! Po kurzu na pokožce, ani na nehtech žádné stopy!"
       },
 
       {
-        "src": "img/review_exofeet-oil_11.png",
+        "src": "img/review_desalix_11.png",
         "name": "Libuše Štěpánová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4300,13 +4300,13 @@
             "type": "empty"
           }
         ],
-        "text": "Exofeet Oil jsem si objednala nedávno, už vidím výsledek. Pokožka se stála hydratovaná, měkčí, dokonce i hrubé oblasti změkčily. Doufám, že brzy přestanu schovávat nohy v uzavřených botách…"
+        "text": "Desalix jsem si objednala nedávno, už vidím výsledek. Pokožka se stála hydratovaná, měkčí, dokonce i hrubé oblasti změkčily. Doufám, že brzy přestanu schovávat nohy v uzavřených botách…"
       },
 
       {
-        "src": "img/review_exofeet-oil_12.png",
+        "src": "img/review_desalix_12.png",
         "name": "Marie Komendová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4330,12 +4330,12 @@
             "type": "empty"
           }
         ],
-        "text": "Pokud potřebujete účinný a levný prostředek na plíseň, doporučuji Exofeet Oil! Rychle pomáhá a umožňuje navždy zapomenout na tuto infekci!"
+        "text": "Pokud potřebujete účinný a levný prostředek na plíseň, doporučuji Desalix! Rychle pomáhá a umožňuje navždy zapomenout na tuto infekci!"
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
+        "src": "img/review_desalix_13.png",
         "name": "Marta Klimková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4359,13 +4359,13 @@
             "type": "empty"
           }
         ],
-        "text": "Chcete-li zvládnout houbu, musíte mít hodně trpělivosti. Problém vyžaduje dlouhodobou terapii, to každý ví. Ale s Exofeet Oil bylo všechno rychlé a efektivní. Jeden kurz-a zcela zdravé nehty!"
+        "text": "Chcete-li zvládnout houbu, musíte mít hodně trpělivosti. Problém vyžaduje dlouhodobou terapii, to každý ví. Ale s Desalix bylo všechno rychlé a efektivní. Jeden kurz-a zcela zdravé nehty!"
       },
 
       {
-        "src": "img/review_exofeet-oil_14.png",
+        "src": "img/review_desalix_14.png",
         "name": "Roman Dřímal",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4389,13 +4389,13 @@
             "type": "empty"
           }
         ],
-        "text": "Bylo to nepříjemné kvůli zápachu, když jsem si sundal boty, manželka mi přinesla Exofeet Oil. Prostředek mi pomohl! Není zápach, nohy se po botách přestaly svědit. Půl roku už to nepoužívám a problém se nevrací!"
+        "text": "Bylo to nepříjemné kvůli zápachu, když jsem si sundal boty, manželka mi přinesla Desalix. Prostředek mi pomohl! Není zápach, nohy se po botách přestaly svědit. Půl roku už to nepoužívám a problém se nevrací!"
       },
 
       {
-        "src": "img/review_exofeet-oil_15.png",
+        "src": "img/review_desalix_15.png",
         "name": "Hana Hercíková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Desalix",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4419,7 +4419,7 @@
             "type": "empty"
           }
         ],
-        "text": "Pomohlo to se mi zbavit houby během několika týdnů! Stav pokožky se zlepšil, nehty rostou zdravé a silné. Buďte opatrní, když si vyberete místo na manikúru, a nejlépe mít ve skřínce Exofeet Oil!"
+        "text": "Pomohlo to se mi zbavit houby během několika týdnů! Stav pokožky se zlepšil, nehty rostou zdravé a silné. Buďte opatrní, když si vyberete místo na manikúru, a nejlépe mít ve skřínce Desalix!"
       }
     ],
     "reviews_feronex": [
@@ -5775,11 +5775,11 @@
         "text": "Neoveris používá manželka, od mládí má problémy s žilami.S výsledkem je spokojená.Poslední půlrok si na zdraví nestěžovala a žíly na nohou téměř nejsou vidět."
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
+        "src": "img/review_ausen_1.png",
         "name": "Marcela Vyskočilová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5803,13 +5803,13 @@
             "type": "empty"
           }
         ],
-        "text": "Když začaly problémy se sluchem, dlouho jsem hledala prostředek. Doporučili mi Ottomax+. Efekt je jednoznačný! Přestala jsem prosit partnera aby věty zopakoval. A je to levné!"
+        "text": "Když začaly problémy se sluchem, dlouho jsem hledala prostředek. Doporučili mi Ausen. Efekt je jednoznačný! Přestala jsem prosit partnera aby věty zopakoval. A je to levné!"
       },
 
       {
-        "src": "img/review_ottomax_2.png",
+        "src": "img/review_ausen_2.png",
         "name": "Hana Kelichová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5837,9 +5837,9 @@
       },
 
       {
-        "src": "img/review_ottomax_3.png",
+        "src": "img/review_ausen_3.png",
         "name": "Helena Řeháková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5867,9 +5867,9 @@
       },
 
       {
-        "src": "img/review_ottomax_4.png",
+        "src": "img/review_ausen_4.png",
         "name": "Marian Tvrdoň",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5893,13 +5893,13 @@
             "type": "empty"
           }
         ],
-        "text": "Měsíce jsem se trápil s kapkami do uší, dokud jsem se dozvěděl o Ottomax+. Je mnohem pohodlnější používat a výsledek je. Slyšel jsem lépe, zvonění v uších zmizelo."
+        "text": "Měsíce jsem se trápil s kapkami do uší, dokud jsem se dozvěděl o Ausen. Je mnohem pohodlnější používat a výsledek je. Slyšel jsem lépe, zvonění v uších zmizelo."
       },
 
       {
-        "src": "img/review_ottomax_5.png",
+        "src": "img/review_ausen_5.png",
         "name": "Tadeáš Bárta",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5927,9 +5927,9 @@
       },
 
       {
-        "src": "img/review_ottomax_6.png",
+        "src": "img/review_ausen_6.png",
         "name": "Gabriela Wagnerová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5953,13 +5953,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ocenila jsem účinnost Ottomax+, když po koncertě ztratila sluch. Pomáhá mi to. Velkým plusem je, že prostředek je ve formě kapslí, nikoliv kapiček."
+        "text": "Ocenila jsem účinnost Ausen, když po koncertě ztratila sluch. Pomáhá mi to. Velkým plusem je, že prostředek je ve formě kapslí, nikoliv kapiček."
       },
 
       {
-        "src": "img/review_ottomax_7.png",
+        "src": "img/review_ausen_7.png",
         "name": "Jarmila Novotná",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5983,13 +5983,13 @@
             "type": "empty"
           }
         ],
-        "text": "Chřipka způsobila komplikace u ucha. Bolelo to strašně, objevil se tinnitus. Bolest pilulky byla odstraněna, ale zcela obnovit sluch pomohl pouze Ottomax+. Nyní doporučuji známým a přátelům!"
+        "text": "Chřipka způsobila komplikace u ucha. Bolelo to strašně, objevil se tinnitus. Bolest pilulky byla odstraněna, ale zcela obnovit sluch pomohl pouze Ausen. Nyní doporučuji známým a přátelům!"
       },
 
       {
-        "src": "img/review_ottomax_8.png",
+        "src": "img/review_ausen_8.png",
         "name": "Irena Švandová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6013,13 +6013,13 @@
             "type": "empty"
           }
         ],
-        "text": "S věkem se sluch začal rychle zhoršovat. Známý odborník mi doporučil Ottomax+. A pomohl! Zbavil hluku, který mě neustále pronásledoval."
+        "text": "S věkem se sluch začal rychle zhoršovat. Známý odborník mi doporučil Ausen. A pomohl! Zbavil hluku, který mě neustále pronásledoval."
       },
 
       {
-        "src": "img/review_ottomax_9.png",
+        "src": "img/review_ausen_9.png",
         "name": "Pavel Černý",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6047,9 +6047,9 @@
       },
 
       {
-        "src": "img/review_ottomax_10.png",
+        "src": "img/review_ausen_10.png",
         "name": "Jana Synková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6073,13 +6073,13 @@
             "type": "empty"
           }
         ],
-        "text": "Objednala jsem si Ottomax + pro babičku. A ona říká a já to vidím, že její sluch se zlepšil. Taky říká, že nyní lépe spí. Takže s věkovými problémy může také pomoci!"
+        "text": "Objednala jsem si Ausen pro babičku. A ona říká a já to vidím, že její sluch se zlepšil. Taky říká, že nyní lépe spí. Takže s věkovými problémy může také pomoci!"
       },
 
       {
-        "src": "img/review_ottomax_11.png",
+        "src": "img/review_ausen_11.png",
         "name": "Petr Skácel",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6107,9 +6107,9 @@
       },
 
       {
-        "src": "img/review_ottomax_12.png",
+        "src": "img/review_ausen_12.png",
         "name": "Lucie Kadrmasová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6137,9 +6137,9 @@
       },
 
       {
-        "src": "img/review_ottomax_13.png",
+        "src": "img/review_ausen_13.png",
         "name": "Věra Máčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6163,13 +6163,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ottomax + neberu poprvé. Pomáhá jak z chronických onemocnění, tak z věkové poruchy sluchu. Používám i při zánětech. Jsem velmi spokojená s tímto prostředkem!"
+        "text": "Ausen neberu poprvé. Pomáhá jak z chronických onemocnění, tak z věkové poruchy sluchu. Používám i při zánětech. Jsem velmi spokojená s tímto prostředkem!"
       },
 
       {
-        "src": "img/review_ottomax_14.png",
+        "src": "img/review_ausen_14.png",
         "name": "Michael Vostřel",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6197,9 +6197,9 @@
       },
 
       {
-        "src": "img/review_ottomax_15.png",
+        "src": "img/review_ausen_15.png",
         "name": "Kristýna Pomahačová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -6223,7 +6223,7 @@
             "type": "empty"
           }
         ],
-        "text": "Pracuji v hlučné místnosti a to negativně ovlivňuje sluch. A po Ottomax + slyšet jsem se stala mnohem lépe, večer žádný tinnitus, dokonce i spánek se zlepšil! Děkuji za kvalitní a efektivní prostředek!"
+        "text": "Pracuji v hlučné místnosti a to negativně ovlivňuje sluch. A po Ausen slyšet jsem se stala mnohem lépe, večer žádný tinnitus, dokonce i spánek se zlepšil! Děkuji za kvalitní a efektivní prostředek!"
       }
     ],
     "reviews_paraxan": [
@@ -8617,11 +8617,11 @@
         "text": "Příjemně chladí, zmírňuje bolest, v noci křeče už ruší. Účinek bylo cítit od prvních dnů a každý den se zlepšoval!"
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
+        "src": "img/review_viarex_1.png",
         "name": "Roman Osička",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8649,9 +8649,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_2.png",
+        "src": "img/review_viarex_2.png",
         "name": "Ladislav Fejta",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8679,9 +8679,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_3.png",
+        "src": "img/review_viarex_3.png",
         "name": "Stanislava Smetanová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8709,9 +8709,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_4.png",
+        "src": "img/review_viarex_4.png",
         "name": "David Sadílek",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8735,13 +8735,13 @@
             "type": "empty"
           }
         ],
-        "text": "S věkem může každý muž čelit problémům v intimním plánu. Měl jsem to také, dokud jsem nezkusil Wirex Men ' s formula. Doporučuju!"
+        "text": "S věkem může každý muž čelit problémům v intimním plánu. Měl jsem to také, dokud jsem nezkusil Viarex. Doporučuju!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_5.png",
+        "src": "img/review_viarex_5.png",
         "name": "Pavlína Pánková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8765,13 +8765,13 @@
             "type": "empty"
           }
         ],
-        "text": "Manželovo chování v poslední době mě překvapilo, jako by se vrátil do mládí. Pak jsem našla v keho kabelce Wirex Men ' s formula a pochopila jsem to."
+        "text": "Manželovo chování v poslední době mě překvapilo, jako by se vrátil do mládí. Pak jsem našla v keho kabelce Viarex a pochopila jsem to."
       },
 
       {
-        "src": "img/review_wirex-mens-formula_6.png",
+        "src": "img/review_viarex_6.png",
         "name": "Rudolf Kobes",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8799,9 +8799,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_7.png",
+        "src": "img/review_viarex_7.png",
         "name": "Marian Čihák",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8829,9 +8829,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_8.png",
+        "src": "img/review_viarex_8.png",
         "name": "Miroslava Zítková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8855,13 +8855,13 @@
             "type": "empty"
           }
         ],
-        "text": "Manžel na pozadí stresu začal mít \"mužské\" problémy. Přesvědčila jsem ho, aby zkusil Wirex Men ' s formula a pomohlo to! Vrátila se mu touha, sex máme každý den!"
+        "text": "Manžel na pozadí stresu začal mít \"mužské\" problémy. Přesvědčila jsem ho, aby zkusil Viarex a pomohlo to! Vrátila se mu touha, sex máme každý den!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_9.png",
+        "src": "img/review_viarex_9.png",
         "name": "Dana Doležalová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8889,9 +8889,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_10.png",
+        "src": "img/review_viarex_10.png",
         "name": "Jakub Moravec",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8919,9 +8919,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_11.png",
+        "src": "img/review_viarex_11.png",
         "name": "Denis Pecha",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8949,9 +8949,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_12.png",
+        "src": "img/review_viarex_12.png",
         "name": "Zuzana Grulichová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -8979,9 +8979,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_13.png",
+        "src": "img/review_viarex_13.png",
         "name": "Luboš Andrýsek",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -9009,9 +9009,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_14.png",
+        "src": "img/review_viarex_14.png",
         "name": "Libor Nesnídal",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -9039,9 +9039,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_15.png",
+        "src": "img/review_viarex_15.png",
         "name": "Vít Fous",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Viarex",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -9065,7 +9065,7 @@
             "type": "empty"
           }
         ],
-        "text": "Skoro jsem nevěřil, že Wirex Men ' s formula může pomoci, ale mýlil jsem se. Výsledek byl cítit od prvních dnů, po kúře se zdravotní stav zotavil, problémy s \"přítelem\" již nebyly."
+        "text": "Skoro jsem nevěřil, že Viarex může pomoci, ale mýlil jsem se. Výsledek byl cítit od prvních dnů, po kúře se zdravotní stav zotavil, problémy s \"přítelem\" již nebyly."
       }
     ],
     "reviews_guavital": [
