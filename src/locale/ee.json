@@ -585,11 +585,11 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -614,8 +614,8 @@
       ],
       "text": "311 kommentaari",
       "desc": "Taimne komplekstoode potentsi, vastupidavuse ja meeste viljakuse tugevdamiseks igas vanuses.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -1356,13 +1356,13 @@
       "niche": "Sihtrühm: Liigesed"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1791,8 +1791,8 @@
     "suitability": "2 aastat",
     "keep": "Hoida kuivas, lastele kättesaamatus kohas, temperatuuril kuni +25°С."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Tervisele",
     "review_count": "311 kommentaari",
     "niche": "Potents",
@@ -2005,8 +2005,8 @@
       "salePrice": "26",
       "newPrice": "102"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -4421,10 +4421,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Louie Mizeres",
         "text": "See on hea vahend ja toimib. Mõju on näha ja kõrvaltoimeid ei teki. Ühe kuuriga sain probleemist täiesti lahti.",
@@ -4453,11 +4453,11 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Robert Osteon",
-        "text": "Olid probleemid urineerimisel ja Feronex aitas probleemist vabaneda. Valu läks ära ja erektsioon on parem ning kestab kauem. Ei ole tekkinud sõltuvust ega kõrvalmõjusid.",
+        "text": "Olid probleemid urineerimisel ja Urosaf aitas probleemist vabaneda. Valu läks ära ja erektsioon on parem ning kestab kauem. Ei ole tekkinud sõltuvust ega kõrvalmõjusid.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4483,11 +4483,11 @@
       },
 
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Herman Strozzi",
-        "text": "Tarvitasin Feronexi eelmisel aastal. Sellest ajast saadik toimib kõik hästi ja erektsioon on alati olemas kui vaja! Probleeme pole!",
+        "text": "Tarvitasin Urosafi eelmisel aastal. Sellest ajast saadik toimib kõik hästi ja erektsioon on alati olemas kui vaja! Probleeme pole!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4513,8 +4513,8 @@
       },
 
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Stella Schweizer",
         "text": "Tellisin mehele, kui tekkisid probleemid. See aitas! Mees on jälle selline nagu noorena. Ta on aktiivne, enesekindel ja kirglik!",
@@ -4543,8 +4543,8 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Lukian Ross",
         "text": "Mõju on tunda peaaegu kohe, kusjuures ajaga muutub efekt üha paremaks. Pärast kuuri erektsiooniga enam probleeme pole olnud.",
@@ -4573,8 +4573,8 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Panphil Ormando",
         "text": "Mõju on olemas, seda võib tarvitada koos alkoholiga ja kõrvaltoimeid ei ole märganud. Kasutasin stimulaatorite asemel ja pärast kuuri ei ole pidanud neid enam võtma.",
@@ -4603,11 +4603,11 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Katarina Lowson",
-        "text": "Mu mees on 56 ja selles vanuses tekivad paljudel meesteprobleemid. Aitäh Feronexi eest. See aitas tal probleemidest jagu saada ja nüüd tunneb end jälle noore ja tervena!",
+        "text": "Mu mees on 56 ja selles vanuses tekivad paljudel meesteprobleemid. Aitäh Urosafi eest. See aitas tal probleemidest jagu saada ja nüüd tunneb end jälle noore ja tervena!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4633,11 +4633,11 @@
       },
 
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Richard Picard",
-        "text": "Vanusega hakkas erektsioon muutuma nõrgemaks ja libiido vähenema. Otsustasin proovida Feronexi. Tulemus avaldas muljet! Kui iga poole aasta tagant kuuri teha, siis meesteasjadega probleeme ei teki.",
+        "text": "Vanusega hakkas erektsioon muutuma nõrgemaks ja libiido vähenema. Otsustasin proovida Urosafi. Tulemus avaldas muljet! Kui iga poole aasta tagant kuuri teha, siis meesteasjadega probleeme ei teki.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4663,11 +4663,11 @@
       },
 
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Klaus Rollings",
-        "text": "Erinevalt teistest tuntud stimulaatoritest ei pane Feronex pead valutama. Iga päev on mõju üha parem ja pärast kuuri ei ole vaja enam täiendavalt võtta, oled siis alati valmis!",
+        "text": "Erinevalt teistest tuntud stimulaatoritest ei pane Urosaf pead valutama. Iga päev on mõju üha parem ja pärast kuuri ei ole vaja enam täiendavalt võtta, oled siis alati valmis!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4693,11 +4693,11 @@
       },
 
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Amelia Rosetti",
-        "text": "Mehel hakkasin probleemid tööstressi tõttu. Tuttav arst soovitas proovida Feronexi. Sellest oli abi! Intiimelu on saanud uue hoo sisse ja meie vahekorrad kestavad kauem ja on sagedasemad ja paremad!",
+        "text": "Mehel hakkasin probleemid tööstressi tõttu. Tuttav arst soovitas proovida Urosafi. Sellest oli abi! Intiimelu on saanud uue hoo sisse ja meie vahekorrad kestavad kauem ja on sagedasemad ja paremad!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4723,11 +4723,11 @@
       },
 
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Venera Saverien",
-        "text": "Mees on juba tükk aega tarvitanud stimuleerivaid tablette. Kuid kõrvalmõjudena tekkisid ärrituvus ja peavalu. Soovitasin tal nende asemel proovida Feronexi. Pool aastat on möödas, kuur on läbi ja mehel ei ole vaja enne seksi n-ö täiendavat abi!",
+        "text": "Mees on juba tükk aega tarvitanud stimuleerivaid tablette. Kuid kõrvalmõjudena tekkisid ärrituvus ja peavalu. Soovitasin tal nende asemel proovida Urosafi. Pool aastat on möödas, kuur on läbi ja mehel ei ole vaja enne seksi n-ö täiendavat abi!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4753,11 +4753,11 @@
       },
 
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Charles Parker",
-        "text": "Feronexi tellisin huvi pärast proovimiseks. Ja tulemus avaldas muljet! Lisaks toimetati kiiresti kohale ja toode oli hästi pakendatud.",
+        "text": "Urosafi tellisin huvi pärast proovimiseks. Ja tulemus avaldas muljet! Lisaks toimetati kiiresti kohale ja toode oli hästi pakendatud.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4783,8 +4783,8 @@
       },
 
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Christopher Rinaldo",
         "text": "Efektiivne ja ohutu vahend meestetervisele. Ja taskukohase hinnaga! Kõrvalmõjusid ei ole olnud.",
@@ -4813,8 +4813,8 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Edmund Sivers",
         "text": "Aitab hästi erektsiooni probleemide puhul, mis tekkisid erinevatel põhjustel. Tulemusega olen 100% rahul! Pärast kuuri olen probleemid unustanud.",
@@ -4843,8 +4843,8 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;UROSAF",
         "rating_text": "Suurepärane toode!",
         "name": "Eduardo Ferran",
         "text": "Tulemust on näha kohe pärast esimesi kasutuskordi. Oleme naisega nüüd sagedamini vahekorras. Ta õnnelik ja rahul. Tunnen end noorena ja et olen paljuks suuteline!",

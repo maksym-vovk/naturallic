@@ -585,11 +585,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -614,8 +614,8 @@
       ],
       "text": "311 opinii",
       "desc": "Kompleksowy środek roślinny na zwiększenie potencji, wytrzymałości i płodności mężczyzn w każdym wieku.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "Szczegóły"
     },
@@ -1356,13 +1356,13 @@
       "niche": "Zastosowanie: Stawy"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1791,8 +1791,8 @@
     "suitability": "2 lata",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Dla zdrowia",
     "review_count": "311 opinii",
     "niche": "Potencja",
@@ -2010,8 +2010,8 @@
       "salePrice": "91",
       "newPrice": "296"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "95",
       "newPrice": "554"
     },
@@ -4426,11 +4426,11 @@
         "text": "Pomógł pozbyć się grzybicy w ciągu kilku tygodni! Stan skóry się poprawił, paznokcie rosną zdrowe i mocne. Bądźcie ostrożni, wybierając mistrza manicure, a lepiej miejcie Exofeet Oil pod ręką!"
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
+        "src": "img/review_urosaf_1.png",
         "name": "Łukasz Kowalski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4458,9 +4458,9 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
+        "src": "img/review_urosaf_2.png",
         "name": "Robert Ostrowski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4484,13 +4484,13 @@
             "type": "empty"
           }
         ],
-        "text": "Miałem problemy z wizytami w toalecie, Feronex pomógł je rozwiązać. Ból minął, erekcja stała się lepsza i dłuższa. Bez uzależnienia i skutków ubocznych."
+        "text": "Miałem problemy z wizytami w toalecie, Urosaf pomógł je rozwiązać. Ból minął, erekcja stała się lepsza i dłuższa. Bez uzależnienia i skutków ubocznych."
       },
 
       {
-        "src": "img/review_feronex_3.png",
+        "src": "img/review_urosaf_3.png",
         "name": "Herman Strzałka",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4514,13 +4514,13 @@
             "type": "empty"
           }
         ],
-        "text": "Brałem Feronex w zeszłym roku. Od tego czasu wszystko działa doskonale, \"przyjaciel\" zawsze gotowy! Bez problemów i wpadek!"
+        "text": "Brałem Urosaf w zeszłym roku. Od tego czasu wszystko działa doskonale, \"przyjaciel\" zawsze gotowy! Bez problemów i wpadek!"
       },
 
       {
-        "src": "img/review_feronex_4.png",
+        "src": "img/review_urosaf_4.png",
         "name": "Zuzanna Borkowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4548,9 +4548,9 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
+        "src": "img/review_urosaf_5.png",
         "name": "Lucjan Ross",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4578,9 +4578,9 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
+        "src": "img/review_urosaf_6.png",
         "name": "Borys Dąbrowski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4608,9 +4608,9 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
+        "src": "img/review_urosaf_7.png",
         "name": "Katarzyna Lawson",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4634,13 +4634,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mój mąż ma 56 lat, \"męskie\" problemy w tym wieku trudno uniknąć. Dzięki Feronex, który pomógł mu sobie z nimi poradzić i znów poczuć się młodym i zdrowym!"
+        "text": "Mój mąż ma 56 lat, \"męskie\" problemy w tym wieku trudno uniknąć. Dzięki Urosaf, który pomógł mu sobie z nimi poradzić i znów poczuć się młodym i zdrowym!"
       },
 
       {
-        "src": "img/review_feronex_8.png",
+        "src": "img/review_urosaf_8.png",
         "name": "Ryszard Piekarski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4664,13 +4664,13 @@
             "type": "empty"
           }
         ],
-        "text": "Z wiekiem potencja zaczęła słabnąć, a pożądanie gasnąć. Zdecydowałem się wypróbować Feronex. Efekt zrobił na mnie wrażenie! Jeśli brać co pół roku, męskich problemów można uniknąć."
+        "text": "Z wiekiem potencja zaczęła słabnąć, a pożądanie gasnąć. Zdecydowałem się wypróbować Urosaf. Efekt zrobił na mnie wrażenie! Jeśli brać co pół roku, męskich problemów można uniknąć."
       },
 
       {
-        "src": "img/review_feronex_9.png",
+        "src": "img/review_urosaf_9.png",
         "name": "Klaudiusz Rollin",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4694,13 +4694,13 @@
             "type": "empty"
           }
         ],
-        "text": "W przeciwieństwie do popularnych i wszystkim znanych stymulantów od Feronex nie boli głowa. Efekt lepszy z każdym dniem, czyli po kuracji można nic nie brać, jesteś zawsze gotowy!"
+        "text": "W przeciwieństwie do popularnych i wszystkim znanych stymulantów od Urosaf nie boli głowa. Efekt lepszy z każdym dniem, czyli po kuracji można nic nie brać, jesteś zawsze gotowy!"
       },
 
       {
-        "src": "img/review_feronex_10.png",
+        "src": "img/review_urosaf_10.png",
         "name": "Amelia Rosetti",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4724,13 +4724,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mój mąż zaczął mieć problemy z powodu stresu w pracy. Znajomy specjalista polecił Feronex. Środek pomógł! Bliskość wróciła, dłużej, częściej i lepiej!"
+        "text": "Mój mąż zaczął mieć problemy z powodu stresu w pracy. Znajomy specjalista polecił Urosaf. Środek pomógł! Bliskość wróciła, dłużej, częściej i lepiej!"
       },
 
       {
-        "src": "img/review_feronex_11.png",
+        "src": "img/review_urosaf_11.png",
         "name": "Antonina Rutkowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4754,13 +4754,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mój mąż długo brał tabletki stymulujące. Skutkiem ubocznym była drażliwość i ból głowy. Nalegałam, aby zastąpił je Feronex. Pół roku minęło, kuracja się skończyła, a mąż teraz nie potrzebuje \"pomocy\" przed seksem!"
+        "text": "Mój mąż długo brał tabletki stymulujące. Skutkiem ubocznym była drażliwość i ból głowy. Nalegałam, aby zastąpił je Urosaf. Pół roku minęło, kuracja się skończyła, a mąż teraz nie potrzebuje \"pomocy\" przed seksem!"
       },
 
       {
-        "src": "img/review_feronex_12.png",
+        "src": "img/review_urosaf_12.png",
         "name": "Czesław Sadowski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4784,13 +4784,13 @@
             "type": "empty"
           }
         ],
-        "text": "Zamówiłem Feronex z ciekawości. Ale efekt zrobił na mnie wrażenie! Szybka dostawa i produkt był dobrze zapakowany."
+        "text": "Zamówiłem Urosaf z ciekawości. Ale efekt zrobił na mnie wrażenie! Szybka dostawa i produkt był dobrze zapakowany."
       },
 
       {
-        "src": "img/review_feronex_13.png",
+        "src": "img/review_urosaf_13.png",
         "name": "Krzysztof Walczak",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4818,9 +4818,9 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
+        "src": "img/review_urosaf_14.png",
         "name": "Norbert Konieczny",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4848,9 +4848,9 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
+        "src": "img/review_urosaf_15.png",
         "name": "Dominik Szewczyk",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {

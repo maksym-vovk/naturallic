@@ -582,11 +582,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 recenzí",
       "desc": "Komplexní bylinný přípravek pro zvýšení potence, výdrže a plodnosti mužů v každém věku.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -1353,13 +1353,13 @@
       "niche": "Směr: Klouby"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1787,8 +1787,8 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Pro zdraví",
     "review_count": "311 recenzí",
     "niche": "Potence",
@@ -2006,8 +2006,8 @@
       "salePrice": "514",
       "newPrice": "1465"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "522",
       "newPrice": "3550"
     },
@@ -4422,11 +4422,11 @@
         "text": "Pomohlo to se mi zbavit houby během několika týdnů! Stav pokožky se zlepšil, nehty rostou zdravé a silné. Buďte opatrní, když si vyberete místo na manikúru, a nejlépe mít ve skřínce Exofeet Oil!"
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
+        "src": "img/review_urosaf_1.png",
         "name": "Ivan Oliva",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4454,9 +4454,9 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
+        "src": "img/review_urosaf_2.png",
         "name": "Josef Zahradník",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4480,13 +4480,13 @@
             "type": "empty"
           }
         ],
-        "text": "Měl jsem problémy když jsem šel na záchod, Feronex mi je pomohl odstranit. Bolest zmizela, erekce se zlepšila a potrvá déle. Není návykový a nejsou vedlejší účinky."
+        "text": "Měl jsem problémy když jsem šel na záchod, Urosaf mi je pomohl odstranit. Bolest zmizela, erekce se zlepšila a potrvá déle. Není návykový a nejsou vedlejší účinky."
       },
 
       {
-        "src": "img/review_feronex_3.png",
+        "src": "img/review_urosaf_3.png",
         "name": "Alois Gabčo",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4510,13 +4510,13 @@
             "type": "empty"
           }
         ],
-        "text": "Loni jsem bral Feronex. Od té doby všechno funguje skvěle, \"přítel\" je vždy připraven! Bez problémů a bez neúspěchů!"
+        "text": "Loni jsem bral Urosaf. Od té doby všechno funguje skvěle, \"přítel\" je vždy připraven! Bez problémů a bez neúspěchů!"
       },
 
       {
-        "src": "img/review_feronex_4.png",
+        "src": "img/review_urosaf_4.png",
         "name": "Zdeňka Jaszová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4544,9 +4544,9 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
+        "src": "img/review_urosaf_5.png",
         "name": "Michal Myslivec",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4574,9 +4574,9 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
+        "src": "img/review_urosaf_6.png",
         "name": "Roman Ledvinka",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4604,9 +4604,9 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
+        "src": "img/review_urosaf_7.png",
         "name": "Evženie Vojtková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4630,13 +4630,13 @@
             "type": "empty"
           }
         ],
-        "text": "Manželovi je 56, \"mužských\" problémů v tomto věku je těžké se vyhnout. Díky za Feronex, který mu pomohl se s nimi vyrovnat a znovu se cítí mladý a zdravý!"
+        "text": "Manželovi je 56, \"mužských\" problémů v tomto věku je těžké se vyhnout. Díky za Urosaf, který mu pomohl se s nimi vyrovnat a znovu se cítí mladý a zdravý!"
       },
 
       {
-        "src": "img/review_feronex_8.png",
+        "src": "img/review_urosaf_8.png",
         "name": "Václav Valoušek",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4660,13 +4660,13 @@
             "type": "empty"
           }
         ],
-        "text": "S věkem začala potence slábnout a touha zmizet. Rozhodl jsem se vyzkoušet Feronex. Efekt mě ohromil! Pokud jednou za půl roku absolvujete kúru, nebudete čelit problémům v mužské části."
+        "text": "S věkem začala potence slábnout a touha zmizet. Rozhodl jsem se vyzkoušet Urosaf. Efekt mě ohromil! Pokud jednou za půl roku absolvujete kúru, nebudete čelit problémům v mužské části."
       },
 
       {
-        "src": "img/review_feronex_9.png",
+        "src": "img/review_urosaf_9.png",
         "name": "Pavel Pozler",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4690,13 +4690,13 @@
             "type": "empty"
           }
         ],
-        "text": "Na rozdíl od běžných a všech známých stimulantů od Feronex nebolela mě hlava. Účinek se zlepšuje každý den, to znamená, že po kurzu nemusíte nic brát, jste vždy připraveni!"
+        "text": "Na rozdíl od běžných a všech známých stimulantů od Urosaf nebolela mě hlava. Účinek se zlepšuje každý den, to znamená, že po kurzu nemusíte nic brát, jste vždy připraveni!"
       },
 
       {
-        "src": "img/review_feronex_10.png",
+        "src": "img/review_urosaf_10.png",
         "name": "Kateřina Bradová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4720,13 +4720,13 @@
             "type": "empty"
           }
         ],
-        "text": "Manžel měl problémy na pozadí stresu v práci. Známý odborník doporučil Feronex. Prostředek mi pomohl! Intimní život se obnovil, déle, častěji a lépe!"
+        "text": "Manžel měl problémy na pozadí stresu v práci. Známý odborník doporučil Urosaf. Prostředek mi pomohl! Intimní život se obnovil, déle, častěji a lépe!"
       },
 
       {
-        "src": "img/review_feronex_11.png",
+        "src": "img/review_urosaf_11.png",
         "name": "Julie Smutková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4750,13 +4750,13 @@
             "type": "empty"
           }
         ],
-        "text": "Manžel dlouho užíval stimulující pilulky. Vedlejším účinkem byla podrážděnost a bolest hlavy. Trvala jsem na výměně za Feronex. Uplynulo půl roku, absolvoval kurz a manžel nyní nepotřebuje \"pomoc\" před sexem!"
+        "text": "Manžel dlouho užíval stimulující pilulky. Vedlejším účinkem byla podrážděnost a bolest hlavy. Trvala jsem na výměně za Urosaf. Uplynulo půl roku, absolvoval kurz a manžel nyní nepotřebuje \"pomoc\" před sexem!"
       },
 
       {
-        "src": "img/review_feronex_12.png",
+        "src": "img/review_urosaf_12.png",
         "name": "Jan Hofman",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4780,13 +4780,13 @@
             "type": "empty"
           }
         ],
-        "text": "Feronex jsem si objednal ze zajímavosti. Ale efekt mě ohromil! Navíc to rychlé dodání a prostředek byl dobře zabalen."
+        "text": "Urosaf jsem si objednal ze zajímavosti. Ale efekt mě ohromil! Navíc to rychlé dodání a prostředek byl dobře zabalen."
       },
 
       {
-        "src": "img/review_feronex_13.png",
+        "src": "img/review_urosaf_13.png",
         "name": "Tomáš Hofrichter",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4814,9 +4814,9 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
+        "src": "img/review_urosaf_14.png",
         "name": "Leoš Potěšil",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4844,9 +4844,9 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
+        "src": "img/review_urosaf_15.png",
         "name": "Jaroslav Zezulka",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;UROSAF",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {

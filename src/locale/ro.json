@@ -583,11 +583,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -612,8 +612,8 @@
       ],
       "text": "311 recenzii",
       "desc": "Un remediu complex pe bază de plante pentru creșterea potenței, rezistenței și fertilității bărbaților la orice vârstă.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -1355,13 +1355,13 @@
       "niche": "Direcție: Articulații"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1789,8 +1789,8 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Pentru sănătate",
     "review_count": "311 recenzii",
     "niche": "Potență",
@@ -2008,8 +2008,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -4425,11 +4425,11 @@
         "text": "M-a ajutat să scap de ciupercă în câteva săptămâni! Starea pielii s-a îmbunătățit, unghiile cresc sănătoase și puternice. Aveți grijă atunci când alegeți un maestru de manichiură, este mai bine să aveți Exofeet Oil în stoc!"
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
+        "src": "img/review_urosaf_1.png",
         "name": "Lucian Druță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4457,9 +4457,9 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
+        "src": "img/review_urosaf_2.png",
         "name": "Robert Osteon",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4483,13 +4483,13 @@
             "type": "empty"
           }
         ],
-        "text": "Au existat probleme atunci când merg la toaletă, Feronex a ajutat la eliminarea. Durerea a dispărut, erecția a devenit mai bună și mai lungă. Nu provoacă dependență și efecte secundare."
+        "text": "Au existat probleme atunci când merg la toaletă, Urosaf a ajutat la eliminarea. Durerea a dispărut, erecția a devenit mai bună și mai lungă. Nu provoacă dependență și efecte secundare."
       },
 
       {
-        "src": "img/review_feronex_3.png",
+        "src": "img/review_urosaf_3.png",
         "name": "Gheorghe Stan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4513,13 +4513,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am luat Feronex anul trecut. De atunci totul funcționează bine, \"prietenul\" este întotdeauna gata! Fără probleme și eșecuri!"
+        "text": "Am luat Urosaf anul trecut. De atunci totul funcționează bine, \"prietenul\" este întotdeauna gata! Fără probleme și eșecuri!"
       },
 
       {
-        "src": "img/review_feronex_4.png",
+        "src": "img/review_urosaf_4.png",
         "name": "Stela Cioban",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4547,9 +4547,9 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
+        "src": "img/review_urosaf_5.png",
         "name": "Lucrețiu Roșu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4577,9 +4577,9 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
+        "src": "img/review_urosaf_6.png",
         "name": "Panfil Opacu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4607,9 +4607,9 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
+        "src": "img/review_urosaf_7.png",
         "name": "Catalina Neamțu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4633,13 +4633,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu are 56 de ani, este greu să eviți problemele \"masculine\" la această vârstă. Vă mulțumim pentru Feronex, care l-a ajutat să facă față și să se simtă din nou tânăr și sănătos!"
+        "text": "Soțul meu are 56 de ani, este greu să eviți problemele \"masculine\" la această vârstă. Vă mulțumim pentru Urosaf, care l-a ajutat să facă față și să se simtă din nou tânăr și sănătos!"
       },
 
       {
-        "src": "img/review_feronex_8.png",
+        "src": "img/review_urosaf_8.png",
         "name": "Petru Movilă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4663,13 +4663,13 @@
             "type": "empty"
           }
         ],
-        "text": "Odată cu vârsta, potența a început să slăbească și dorința de a dispărea. Am decis să încerc Feronex. Efectul m-a impresionat! Dacă beți la fiecare șase luni cu cursuri, este posibil să nu întâmpinați probleme cu partea masculină."
+        "text": "Odată cu vârsta, potența a început să slăbească și dorința de a dispărea. Am decis să încerc Urosaf. Efectul m-a impresionat! Dacă beți la fiecare șase luni cu cursuri, este posibil să nu întâmpinați probleme cu partea masculină."
       },
 
       {
-        "src": "img/review_feronex_9.png",
+        "src": "img/review_urosaf_9.png",
         "name": "Emil Sandu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4693,13 +4693,13 @@
             "type": "empty"
           }
         ],
-        "text": "Spre deosebire de stimulentele răspândite și bine cunoscute, de la Feronex nu există dureri de cap. Efectul se îmbunătățește în fiecare zi, adică după curs puteți să nu mai lua nimic, sunteți întotdeauna gata!"
+        "text": "Spre deosebire de stimulentele răspândite și bine cunoscute, de la Urosaf nu există dureri de cap. Efectul se îmbunătățește în fiecare zi, adică după curs puteți să nu mai lua nimic, sunteți întotdeauna gata!"
       },
 
       {
-        "src": "img/review_feronex_10.png",
+        "src": "img/review_urosaf_10.png",
         "name": "Amelia Sava",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4723,13 +4723,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a început să aibă probleme din cauza stresului la locul de muncă. Un specialist familiar i-a recomandat Feronex. Remediul i-a ajutat! Intimitatea s-a întors, mai mult, mai des și mai bine!"
+        "text": "Soțul meu a început să aibă probleme din cauza stresului la locul de muncă. Un specialist familiar i-a recomandat Urosaf. Remediul i-a ajutat! Intimitatea s-a întors, mai mult, mai des și mai bine!"
       },
 
       {
-        "src": "img/review_feronex_11.png",
+        "src": "img/review_urosaf_11.png",
         "name": "Venera Petcu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4753,13 +4753,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a luat pastile stimulante de mult timp. Efectul secundar erau iritabilitatea și durerea de cap. Am insistat să-l înlocuiască cu Feronex. Au trecut șase luni, cursul s-a încheiat, iar soțul acum nu are nevoie de \"ajutor\" înainte de sex!"
+        "text": "Soțul meu a luat pastile stimulante de mult timp. Efectul secundar erau iritabilitatea și durerea de cap. Am insistat să-l înlocuiască cu Urosaf. Au trecut șase luni, cursul s-a încheiat, iar soțul acum nu are nevoie de \"ajutor\" înainte de sex!"
       },
 
       {
-        "src": "img/review_feronex_12.png",
+        "src": "img/review_urosaf_12.png",
         "name": "Ciprian Cioară",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4783,13 +4783,13 @@
             "type": "empty"
           }
         ],
-        "text": "Feronex am comandat de dragul interesului. Dar efectul a fost impresionant! Plus livrare rapidă și produsul a fost bine ambalat."
+        "text": "Urosaf am comandat de dragul interesului. Dar efectul a fost impresionant! Plus livrare rapidă și produsul a fost bine ambalat."
       },
 
       {
-        "src": "img/review_feronex_13.png",
+        "src": "img/review_urosaf_13.png",
         "name": "Cristian Călugăreanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4817,9 +4817,9 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
+        "src": "img/review_urosaf_14.png",
         "name": "Eduard Adamache",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4847,9 +4847,9 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
+        "src": "img/review_urosaf_15.png",
         "name": "Dan Panfil",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {

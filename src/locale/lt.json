@@ -585,11 +585,11 @@
     },
     {
       "label": "Top prekė",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -614,8 +614,8 @@
       ],
       "text": "311 atsiliepimai",
       "desc": "Kompleksinis augalinis produktas stiprinti potencijai, ištvermei ir vyrų vaisingumui bet kuriame amžiuje.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "DAUGIAU"
     },
@@ -1356,13 +1356,13 @@
       "niche": "Kryptis: Sąnariai"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1791,8 +1791,8 @@
     "suitability": "2 metai",
     "keep": "Laikyti sausoje, vaikams nepasiekiamoje vietoje, ne aukštesnėje kaip +25°C temperatūroje."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Sveikatos palaikymui",
     "review_count": "311 atsiliepimai",
     "niche": "Potencja",
@@ -2005,8 +2005,8 @@
       "salePrice": "26",
       "newPrice": "102"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -4421,10 +4421,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Liudas Miškinis",
         "text": "Gera priemonė, veiksminga. Efektas yra, šalutinių poveikių nesukelia. Atlikus kursą problema išnyko.",
@@ -4453,11 +4453,11 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Rimantas Kaminskas",
-        "text": "Turėjau problemų šlapinantis, Feronex jas išsprendė. Dingo skausmas, erekcija tapo geresnė ir ilgesnė. Nėra pripratimo ir šalutinių poveikių.",
+        "text": "Turėjau problemų šlapinantis, Urosaf jas išsprendė. Dingo skausmas, erekcija tapo geresnė ir ilgesnė. Nėra pripratimo ir šalutinių poveikių.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4483,11 +4483,11 @@
       },
 
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Petras Savickis",
-        "text": "Vartojau Feronex praėjusiais metais. Nuo to laiko viskas puikiai veikia, „draugas“ visada pasiruošęs! Be problemų ir nesklandumų!",
+        "text": "Vartojau Urosaf praėjusiais metais. Nuo to laiko viskas puikiai veikia, „draugas“ visada pasiruošęs! Be problemų ir nesklandumų!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4513,8 +4513,8 @@
       },
 
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Stela Šulcienė",
         "text": "Užsisakiau vyrui, kai jam prasidėjo problemos. Padėjo! Vyras pagaliau vėl tapo toks, koks buvo jaunystėje. Aktyvus, pasitikintis savimi ir aistringas!",
@@ -4543,8 +4543,8 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Lukas Gudzinskas",
         "text": "Veikia beveik iš karto, be to, yra kaupiamasis efektas. Po kurso problemų su erekcija nebeliko.",
@@ -4573,8 +4573,8 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Paulius Oginskis",
         "text": "Efektas yra, galima derinti su alkoholiu, šalutinių poveikių nepastebėjau. Naudojau kaip alternatyvą stimuliantams, ir po kurso jų nebereikia.",
@@ -4603,11 +4603,11 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Jovita Laudauskienė",
-        "text": "Mano vyrui 56 metai, „vyriškų“ problemų šiame amžiuje sunkiai išvengiama. Dėkoju už Feronex, kuris jam padėjo su jomis susidoroti ir vėl jaustis jaunu ir sveiku!",
+        "text": "Mano vyrui 56 metai, „vyriškų“ problemų šiame amžiuje sunkiai išvengiama. Dėkoju už Urosaf, kuris jam padėjo su jomis susidoroti ir vėl jaustis jaunu ir sveiku!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4633,10 +4633,10 @@
       },
 
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
-        "name": "Ričardas Mockus   Su amžiumi potencija pradėjo silpti, o noras prigeso. Nusprendžiau išbandyti Feronex. Efektas nustebino! Jei kas pusmetį vartoti kursais, galima išvengti vyriškų problemų.",
+        "name": "Ričardas Mockus   Su amžiumi potencija pradėjo silpti, o noras prigeso. Nusprendžiau išbandyti Urosaf. Efektas nustebino! Jei kas pusmetį vartoti kursais, galima išvengti vyriškų problemų.",
         "text":" ",
         "stars": [
           {
@@ -4663,11 +4663,11 @@
       },
 
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Kęstas Rudys",
-        "text": "Skirtingai nuo paplitusių ir visiems žinomų stimuliantų nuo Feronex neskauda galvos. Efektas vis ryškesnis su kiekviena diena, po kurso nieko daugiau nebereikia vartoti, esu visada pasiruošęs!",
+        "text": "Skirtingai nuo paplitusių ir visiems žinomų stimuliantų nuo Urosaf neskauda galvos. Efektas vis ryškesnis su kiekviena diena, po kurso nieko daugiau nebereikia vartoti, esu visada pasiruošęs!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4693,11 +4693,11 @@
       },
 
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Asta Klimaitė",
-        "text": "Vyrui prasidėjo problemos dėl streso darbe. Pažįstamas specialistas patarė Feronex. Priemonė padėjo! Lytinis gyvenimas atsigaivino, dabar ilgiau, dažniau ir geriau!",
+        "text": "Vyrui prasidėjo problemos dėl streso darbe. Pažįstamas specialistas patarė Urosaf. Priemonė padėjo! Lytinis gyvenimas atsigaivino, dabar ilgiau, dažniau ir geriau!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4723,11 +4723,11 @@
       },
 
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Vanda Sirusienė",
-        "text": "Vyras ilgai vartojo stimuliuojančius vaistus. Šalutinis poveikis buvo dirglumas ir galvos skausmas. Primygtinai pasiūliau pakeisti į Feronex. Praėjo pusmetis, kursas baigėsi, o vyrui dabar nebereikia „pagalbos“ prieš seksą!",
+        "text": "Vyras ilgai vartojo stimuliuojančius vaistus. Šalutinis poveikis buvo dirglumas ir galvos skausmas. Primygtinai pasiūliau pakeisti į Urosaf. Praėjo pusmetis, kursas baigėsi, o vyrui dabar nebereikia „pagalbos“ prieš seksą!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4753,11 +4753,11 @@
       },
 
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Daumantas Karpauskas",
-        "text": "Užsisakiau Feronex iš smalsumo. Bet efektas nustebino! Be to, greitai pristatyta ir gražus įpakavimas.",
+        "text": "Užsisakiau Urosaf iš smalsumo. Bet efektas nustebino! Be to, greitai pristatyta ir gražus įpakavimas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4783,8 +4783,8 @@
       },
 
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Kristupas Remeikis",
         "text": "Efektyvi ir saugi priemonė vyrų sveikatai. Be to, prieinama kaina! Šalutinių poveikių nepastebėjau.",
@@ -4813,8 +4813,8 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Algimantas Sadauskas",
         "text": "Gera pagalba susiduriant su erekcijos sutrikimais dėl įvairių priežasčių. Rezultatas 100%! Po kurso apie buvusias problemas pamiršau.",
@@ -4843,8 +4843,8 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;UROSAF",
         "rating_text": "Puiki kokybė!",
         "name": "Edvardas Jasiulis",
         "text": "Efektas jaučiamas nuo pirmųjų naudojimo dienų. Dažniau su žmona paišdykaujame. Ji laiminga, patenkinta. Vėl jaučiuosi jaunas ir pajėgus!",

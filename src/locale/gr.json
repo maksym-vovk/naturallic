@@ -582,11 +582,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -1350,13 +1350,13 @@
       "niche": "Κατεύθυνση: Αρθρώσεις"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1784,8 +1784,8 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Για την υγεία",
     "review_count": "311 κριτικές",
     "niche": "δύναμη",
@@ -2003,8 +2003,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "24",
       "newPrice": "139"
     },
@@ -4380,10 +4380,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουί Μιζέρες",
         "text": "Ένα καλό και αποτελεσματικό προϊόν. Υπάρχει αποτέλεσμα, δεν προκαλεί παρενέργειες. Μετά την αγωγή βοήθησε να εξαφανιστεί πλήρως το πρόβλημα.",
@@ -4411,11 +4411,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Όστεον",
-        "text": "Είχα προβλήματα στην ούρηση, το Feronex τα εξαφάνισε. Ο πόνος έφυγε, η στύση έγινε καλύτερη και διαρκεί περισσότερο. Χωρίς εθισμό και παρενέργειες.",
+        "text": "Είχα προβλήματα στην ούρηση, το Urosaf τα εξαφάνισε. Ο πόνος έφυγε, η στύση έγινε καλύτερη και διαρκεί περισσότερο. Χωρίς εθισμό και παρενέργειες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4440,11 +4440,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γερμανός Στροτσί",
-        "text": "Πήρα το Feronex πέρσι. Από τότε όλα λειτουργούν τέλεια, ο \"φίλος\" είναι πάντα έτοιμος! Χωρίς προβλήματα και αποτυχίες!",
+        "text": "Πήρα το Urosaf πέρσι. Από τότε όλα λειτουργούν τέλεια, ο \"φίλος\" είναι πάντα έτοιμος! Χωρίς προβλήματα και αποτυχίες!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4469,8 +4469,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέλλα Σβάιτσερ",
         "text": "Παρήγγειλα για τον άντρα μου όταν άρχισαν προβλήματα. Βοήθησε! Έγινε ξανά δραστήριος, γεμάτος αυτοπεποίθηση και πάθος!",
@@ -4498,8 +4498,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκιανός Ρος",
         "text": "Δρα σχεδόν αμέσως, με σωρευτικό αποτέλεσμα. Μετά την αγωγή δεν υπήρχαν πια προβλήματα στύσης.",
@@ -4527,8 +4527,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πανφίλος Ορμάνδο",
         "text": "Υπάρχει αποτέλεσμα, μπορείς να το συνδυάσεις με αλκοόλ, δεν προκαλεί παρενέργειες. Το χρησιμοποίησα ως εναλλακτική στα διεγερτικά και μετά την αγωγή δεν τα χρειάζομαι πια.",
@@ -4556,11 +4556,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Καταρία Λόουσον",
-        "text": "Ο άντρας μου είναι 56, δύσκολο να αποφύγεις τα «ανδρικά» προβλήματα σε αυτήν την ηλικία. Ευχαριστώ το Feronex που τον βοήθησε να τα ξεπεράσει και να νιώσει ξανά νέος και υγιής!",
+        "text": "Ο άντρας μου είναι 56, δύσκολο να αποφύγεις τα «ανδρικά» προβλήματα σε αυτήν την ηλικία. Ευχαριστώ το Urosaf που τον βοήθησε να τα ξεπεράσει και να νιώσει ξανά νέος και υγιής!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4585,11 +4585,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρίχαρντ Πικάρντ",
-        "text": "Με την ηλικία η ισχύς άρχισε να μειώνεται, η επιθυμία να σβήνει. Αποφάσισα να δοκιμάσω το Feronex. Το αποτέλεσμα εντυπωσίασε! Αν το παίρνεις κάθε εξάμηνο, μπορεί να μη γνωρίσεις καθόλου προβλήματα.",
+        "text": "Με την ηλικία η ισχύς άρχισε να μειώνεται, η επιθυμία να σβήνει. Αποφάσισα να δοκιμάσω το Urosaf. Το αποτέλεσμα εντυπωσίασε! Αν το παίρνεις κάθε εξάμηνο, μπορεί να μη γνωρίσεις καθόλου προβλήματα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4614,11 +4614,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλάους Ρόλινγκς",
-        "text": "Σε αντίθεση με τα γνωστά διεγερτικά, το Feronex δεν προκαλεί πονοκέφαλο. Το αποτέλεσμα γίνεται καλύτερο κάθε μέρα, μετά την αγωγή δεν χρειάζεται τίποτα άλλο!",
+        "text": "Σε αντίθεση με τα γνωστά διεγερτικά, το Urosaf δεν προκαλεί πονοκέφαλο. Το αποτέλεσμα γίνεται καλύτερο κάθε μέρα, μετά την αγωγή δεν χρειάζεται τίποτα άλλο!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4643,11 +4643,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αμέλια Ροσέτι",
-        "text": "Ο άντρας μου είχε προβλήματα λόγω στρες στη δουλειά. Ένας ειδικός μας συνέστησε το Feronex. Βοήθησε! Η οικειότητα επέστρεψε, πιο συχνά, πιο δυνατά και καλύτερα!",
+        "text": "Ο άντρας μου είχε προβλήματα λόγω στρες στη δουλειά. Ένας ειδικός μας συνέστησε το Urosaf. Βοήθησε! Η οικειότητα επέστρεψε, πιο συχνά, πιο δυνατά και καλύτερα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4672,11 +4672,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βενέρα Σαβεριέν",
-        "text": "Ο άντρας μου έπαιρνε διεγερτικά χάπια, αλλά είχε νεύρα και πονοκεφάλους. Επέμεινα να τα αντικαταστήσει με το Feronex. Έξι μήνες πέρασαν, δεν χρειάζεται πλέον \"βοήθεια\" πριν το σεξ!",
+        "text": "Ο άντρας μου έπαιρνε διεγερτικά χάπια, αλλά είχε νεύρα και πονοκεφάλους. Επέμεινα να τα αντικαταστήσει με το Urosaf. Έξι μήνες πέρασαν, δεν χρειάζεται πλέον \"βοήθεια\" πριν το σεξ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4701,11 +4701,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τσαρλς Πάρκερ",
-        "text": "Παρήγγειλα το Feronex από περιέργεια. Αλλά το αποτέλεσμα με εντυπωσίασε! Επίσης, η γρήγορη παράδοση και η καλή συσκευασία ήταν μπόνους.",
+        "text": "Παρήγγειλα το Urosaf από περιέργεια. Αλλά το αποτέλεσμα με εντυπωσίασε! Επίσης, η γρήγορη παράδοση και η καλή συσκευασία ήταν μπόνους.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4730,8 +4730,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χριστόφορος Ρινάλντο",
         "text": "Αποτελεσματικό και ασφαλές προϊόν για την ανδρική υγεία. Και σε προσιτή τιμή! Δεν βρήκα παρενέργειες.",
@@ -4759,8 +4759,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Έντμουντ Σίβερς",
         "text": "Καλή βοήθεια για προβλήματα στύσης από διάφορες αιτίες. Αποτέλεσμα 100%! Μετά την αγωγή ξέχασα τα προβλήματα.",
@@ -4788,8 +4788,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "Εδουάρδος Φεράν",
         "name": "Eduardo Ferran",
         "text": "Υπάρχει αποτέλεσμα από τις πρώτες μέρες. Με τη γυναίκα είμαστε πιο συχνά μαζί. Είναι χαρούμενη. Νιώθω ξανά νέος και ικανός για πολλά!",

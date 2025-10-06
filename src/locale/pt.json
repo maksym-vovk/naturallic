@@ -582,11 +582,11 @@
     },
     {
       "label": "Bater",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 comentários",
       "desc": "Produto vegetal complexo para aumentar a potência, resistência e fertilidade masculina em qualquer idade.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "MAIS DETALHES"
     },
@@ -1350,13 +1350,13 @@
       "niche": "Direção: Articulações"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1784,8 +1784,8 @@
     "suitability": "2 anos",
     "keep": "armazenar em local seco, fora do alcance das crianças, a uma temperatura não superior a +25°."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Para boa saúde",
     "review_count": "311 comentários",
     "niche": "Potência",
@@ -2003,8 +2003,8 @@
       "salePrice": "27",
       "newPrice": "79"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "27",
       "newPrice": "156"
     },
@@ -4380,10 +4380,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Luis Moisés",
         "text": "Bom produto, eficaz. Existe um efeito, não causa efeitos colaterais. Após o curso ele ajudou a eliminar completamente o problema.",
         "rating_text": "Qualidade excelente!",
@@ -4411,10 +4411,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Bruno Joelson",
-        "text": "Houve problemas na hora de ir ao banheiro, a Feronex ajudou a eliminá-los. A dor passou, a ereção ficou melhor e mais longa. Não há vício ou efeitos colaterais.",
+        "text": "Houve problemas na hora de ir ao banheiro, a Urosaf ajudou a eliminá-los. A dor passou, a ereção ficou melhor e mais longa. Não há vício ou efeitos colaterais.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4440,10 +4440,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Geraldo Lemos",
-        "text": "Tomei Feronex no ano passado. Desde então tudo tem funcionado muito bem, o “amigo” está sempre pronto! Sem problemas ou falhas de ignição!",
+        "text": "Tomei Urosaf no ano passado. Desde então tudo tem funcionado muito bem, o “amigo” está sempre pronto! Sem problemas ou falhas de ignição!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4469,8 +4469,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Stella Blindada",
         "text": "Encomendei para meu marido quando surgiram problemas. Ajudou! Meu marido finalmente se tornou o mesmo que eu me lembrava dele quando era jovem. Ativo, confiante e apaixonado!",
         "rating_text": "Qualidade excelente!",
@@ -4498,8 +4498,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Manuel Quindala",
         "text": "Atua quase imediatamente e há um efeito cumulativo. Após o curso não houve mais problemas de ereção.",
         "rating_text": "Qualidade excelente!",
@@ -4527,8 +4527,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Tarso Miguel",
         "text": "Tem efeito, pode ser combinado com álcool, não encontrei efeitos colaterais. Usei como alternativa aos estimulantes e depois do curso não houve necessidade deles.",
         "rating_text": "Qualidade excelente!",
@@ -4556,10 +4556,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Kataleia  Ribeiro",
-        "text": "Meu marido tem 56 anos, é difícil evitar problemas “masculinos” nessa idade. Obrigado pela Feronex, que o ajudou a lidar com eles e a sentir-se jovem e saudável novamente!",
+        "text": "Meu marido tem 56 anos, é difícil evitar problemas “masculinos” nessa idade. Obrigado pela Urosaf, que o ajudou a lidar com eles e a sentir-se jovem e saudável novamente!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4585,10 +4585,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Richard Pimentel",
-        "text": "Com a idade, a potência começou a enfraquecer e o desejo começou a desaparecer. Decidi experimentar Feronex. O efeito foi impressionante! Se você fizer cursos semestralmente, poderá não encontrar problemas com a parte masculina.",
+        "text": "Com a idade, a potência começou a enfraquecer e o desejo começou a desaparecer. Decidi experimentar Urosaf. O efeito foi impressionante! Se você fizer cursos semestralmente, poderá não encontrar problemas com a parte masculina.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4614,10 +4614,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Abner Manuel",
-        "text": "Ao contrário dos estimulantes comuns e conhecidos, Feronex não causa dor de cabeça. O efeito é cada dia melhor, ou seja, depois do curso você não precisa tomar nada, está sempre pronto!",
+        "text": "Ao contrário dos estimulantes comuns e conhecidos, Urosaf não causa dor de cabeça. O efeito é cada dia melhor, ou seja, depois do curso você não precisa tomar nada, está sempre pronto!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4643,10 +4643,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Amélia Rosaria",
-        "text": "Meu marido começou a ter problemas devido ao estresse no trabalho. Um amigo especialista recomendou a Feronex. O produto ajudou! A intimidade foi retomada, por mais tempo, com mais frequência e melhor!",
+        "text": "Meu marido começou a ter problemas devido ao estresse no trabalho. Um amigo especialista recomendou a Urosaf. O produto ajudou! A intimidade foi retomada, por mais tempo, com mais frequência e melhor!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4672,10 +4672,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Vania Silvia",
-        "text": "Meu marido toma pílulas estimulantes há muito tempo. Os efeitos colaterais foram irritabilidade e dor de cabeça. Ela insistiu em substituí-lo pelo Feronex. Seis meses se passaram, o curso terminou e meu marido não precisa mais de “ajuda” antes do sexo!",
+        "text": "Meu marido toma pílulas estimulantes há muito tempo. Os efeitos colaterais foram irritabilidade e dor de cabeça. Ela insistiu em substituí-lo pelo Urosaf. Seis meses se passaram, o curso terminou e meu marido não precisa mais de “ajuda” antes do sexo!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4701,10 +4701,10 @@
         ]
       },
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Charles Puati",
-        "text": "Encomendei Feronex por curiosidade. Mas o efeito foi impressionante! Além da entrega rápida e o produto estava bem embalado.",
+        "text": "Encomendei Urosaf por curiosidade. Mas o efeito foi impressionante! Além da entrega rápida e o produto estava bem embalado.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -4730,8 +4730,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Cristóvão Rinaldo",
         "text": "Um produto eficaz e seguro para a saúde do homem. Também a um preço acessível! Não encontrei nenhum efeito colateral.",
         "rating_text": "Qualidade excelente!",
@@ -4759,8 +4759,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Edmundo Silveste",
         "text": "Boa ajuda para problemas de ereção que surgem por vários motivos. Resultado 100%! Depois do curso esqueci dos problemas.",
         "rating_text": "Qualidade excelente!",
@@ -4788,8 +4788,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;UROSAF",
         "name": "Eduardo Ferrari",
         "text": "Há efeito desde os primeiros dias de uso. Minha esposa e eu começamos a passar mais tempo sozinhos. Ela está feliz, satisfeita. Sinto-me jovem novamente e capaz de muito!",
         "rating_text": "Qualidade excelente!",

@@ -123,12 +123,12 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1402523',
             niche: 'Potență',
             country: 'Romania',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "800",
             newPrice: "111111",
         },
@@ -313,12 +313,12 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1402524',
             niche: 'Potencia',
             country: 'Hungary',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "800",
             newPrice: "111111",
         },
@@ -503,12 +503,12 @@ export const productsInfo = {
             salePrice: "27",
             newPrice: "79",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082471',
             niche: 'Potenza',
             country: 'Italy',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "27",
             newPrice: "156",
         },
@@ -693,12 +693,12 @@ export const productsInfo = {
             salePrice: "514",
             newPrice: "1465",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082469',
             niche: 'Potence',
             country: 'Czech',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "522",
             newPrice: "3550",
         },
@@ -883,12 +883,12 @@ export const productsInfo = {
             salePrice: "44",
             newPrice: "140",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082459',
             niche: 'Потентност',
             country: 'Bulgaria',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "43",
             newPrice: "250",
         },
@@ -1073,12 +1073,12 @@ export const productsInfo = {
         //     salePrice: "800",
         //     newPrice: "111111",
         // },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082460',
             niche: 'Potents',
             country: 'Estonia',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "25",
             newPrice: "125",
         },
@@ -1263,12 +1263,12 @@ export const productsInfo = {
             salePrice: "24",
             newPrice: "77",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082465',
             niche: 'Potencija',
             country: 'Croatia',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "24",
             newPrice: "139",
         },
@@ -1453,12 +1453,12 @@ export const productsInfo = {
         //     salePrice: "800",
         //     newPrice: "111111",
         // },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082458',
             niche: 'Potencja',
             country: 'Lithuania',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "25",
             newPrice: "125",
         },
@@ -1643,12 +1643,12 @@ export const productsInfo = {
         //     salePrice: "800",
         //     newPrice: "111111",
         // },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082461',
             niche: 'Potence',
             country: 'Latvia',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "25",
             newPrice: "125",
         },
@@ -1833,12 +1833,12 @@ export const productsInfo = {
             salePrice: "27",
             newPrice: "79",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082463',
             niche: 'Potência',
             country: 'Portugal',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "27",
             newPrice: "156",
         },
@@ -2023,12 +2023,12 @@ export const productsInfo = {
             salePrice: "91",
             newPrice: "296",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082462',
             niche: 'Potencja',
             country: 'Poland',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "95",
             newPrice: "554",
         },
@@ -2213,12 +2213,12 @@ export const productsInfo = {
             salePrice: "24",
             newPrice: "77",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Moč',
             country: 'Slovenia',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "24",
             newPrice: "139",
         },
@@ -2403,12 +2403,12 @@ export const productsInfo = {
             salePrice: "24",
             newPrice: "77",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Potencia',
             country: 'Slovakia',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "24",
             newPrice: "139",
         },
@@ -2593,12 +2593,12 @@ export const productsInfo = {
             salePrice: "24",
             newPrice: "77",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'Puissance',
             country: 'Belgium',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "24",
             newPrice: "139",
         },
@@ -2783,12 +2783,12 @@ export const productsInfo = {
             salePrice: "24",
             newPrice: "77",
         },
-        feronex: {
+        urosaf: {
             company: 'everad',
             campaign_id: '1082464',
             niche: 'δύναμη',
             country: 'Greece',
-            productName: 'Feronex',
+            productName: 'Urosaf',
             salePrice: "24",
             newPrice: "139",
         },
