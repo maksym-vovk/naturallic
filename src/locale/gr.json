@@ -144,11 +144,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -173,18 +173,18 @@
       ],
       "text": "305 κριτικές",
       "desc": "Γέλη με δροσιστικό αποτέλεσμα για την καταπολέμηση των εκδηλώσεων των κιρσών.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -209,8 +209,8 @@
       ],
       "text": "288 κριτικές",
       "desc": "Φυσικό έλαιο με βακτηριοκτόνο δράση για την καταπολέμηση των συμπτωμάτων της μυκητίασης",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -252,12 +252,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -282,8 +282,8 @@
       ],
       "text": "322 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -435,12 +435,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -465,8 +465,8 @@
       ],
       "text": "341 κριτικές",
       "desc": "Σύμπλεγμα για τη βελτίωση των ακουστικών λειτουργιών με ισορροπημένη φόρμουλα βιταμινών και ανόργανων συστατικών.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -509,12 +509,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -539,8 +539,8 @@
       ],
       "text": "297 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -582,11 +582,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -655,11 +655,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,18 +684,18 @@
       ],
       "text": "234 κριτικές",
       "desc": "Τζελ με φυσικά εκχυλίσματα που στοχεύει στην καταπολέμηση των εκδηλώσεων των κιρσών.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 κριτικές",
       "desc": "Κρέμα με βακτηριοκτόνο δράση για την καταπολέμηση των συμπτωμάτων της μυκητίασης.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -799,12 +799,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -829,8 +829,8 @@
       ],
       "text": "267 κριτικές",
       "desc": "Το προϊόν, με φυτική βάση, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη αιμορροΐδων.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     }
@@ -942,13 +942,13 @@
       "niche": "Κατεύθυνση: απώλεια βάρους"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -976,13 +976,13 @@
       "niche": "Κατεύθυνση: Κιρσοί"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1044,13 +1044,13 @@
       "niche": "Κατεύθυνση: Παράσιτα"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1214,13 +1214,13 @@
       "niche": "Κατεύθυνση: Αναζωογόνηση"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1282,13 +1282,13 @@
       "niche": "Κατεύθυνση: Παράσιτα"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1350,13 +1350,13 @@
       "niche": "Κατεύθυνση: Αρθρώσεις"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1418,13 +1418,13 @@
       "niche": "Κατεύθυνση: αρθρώσεις"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1452,13 +1452,13 @@
       "niche": "Κατεύθυνση: Κιρσοί"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1554,13 +1554,13 @@
       "niche": "Κατεύθυνση: όραση"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1604,30 +1604,30 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Για την υγεία",
     "review_count": "305 κριτικές",
     "niche": "Κιρσοί",
     "form_factor": "σωληνάριο  30 ml, χαρτοκιβώτιο, τεχνικές οδηγίες, κρέμα/τζελ,",
     "short_description": "Γέλη με δροσιστική δράση για την καταπολέμηση των εκδηλώσεων των κιρσών.",
     "description": "γέλη με φυτική βάση, που δροσίζει απαλά και ανακουφίζει από το βάρος στα πόδια, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη κιρσών.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА</span>.",
+    "compound": "Νερό, Γλυκερίνη, Προπυλενογλυκόλη, Αλκοόλ Denat., Εκχύλισμα Ιπποκαστανιάς (Aesculus hippocastanum), Εκχύλισμα Centella Asiatica, Εκχύλισμα ρίζας Ruscus Aculeatus, Εκχύλισμα καλλιέργειας καλούσα Symphytum Officinale, Εκχύλισμα άνθους Chamomilla Recutita, Νιασιναμίδη, Τροξερουτίνη, Καφεΐνη, Ουρία, Αργινίνη, Copolymer Ammonium Acryloyldimethyltaurate/VP, Σαλικυλικό οξύ, Μενθόλη, Αλλαντοΐνη, Υαλουρονικό νάτριο, Φαινοξυαιθανόλη, Εθυλεξυλογλυκερίνη, Disodium EDTA.",
     "usage": "εφαρμόστε με ελαφριές κινήσεις μασάζ για 3-5 λεπτά 2 φορές την ημέρα. Πριν από την εφαρμογή, κάντε ένα τεστ ανεκτικότητας στο δέρμα σας.",
     "contraindications": "αποφύγετε την επαφή με τα μάτια. Μην το χρησιμοποιείτε σε παιδιά κάτω των τριών ετών και απευθείας σε ανοιχτές πληγές.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Για την υγεία",
     "review_count": "288 κριτικές",
     "niche": "Μύκητας",
-    "form_factor": "χαρτοκιβώτιο / γυάλινο φιαλίδιο, πιπέτα / 20 ml",
+    "form_factor": "χαρτοκιβώτιο / γυάλινο φιαλίδιο, πιπέτα / 30 ml",
     "short_description": "Φυσικό έλαιο  με βακτηριοκτόνο δράση για την καταπολέμηση των μυκητιάσεων.",
     "description": "σύμπλεγμα με βάση 4 έλαια (τσάι, κανέλα, μέντα, λεμονόχορτο) που έχει γενική αντιφλεγμονώδη, αντισηπτική, τονωτική, θρεπτική και ενυδατική δράση στο δέρμα. Διεισδύει βαθιά και παραμένει για μεγάλο χρονικό διάστημα στο σημείο όπου εντοπίζεται ο μύκητας.",
-    "compound": "<span class=\"attention\">Alcohol Denat., Aqua, Propylene Glycol, Glycerin, Niacinamide, Symphytum Officinale Leaf Extract, Propolis Extract, Chamomilla Recutita Flower Extract, Aluminum Chlorohydrate, Salicylic Acid, Phenylpropanol, o-Cymen-5-ol, Decylene Glycol, Melaleuca Alternifolia Leaf Oil, Allantoin, Cinnamomum Zeylanicum Leaf Oil, Mentha Piperita Oil, 4-Terpineol, Cymbopogon Flexuosus Oil, Sodium Acrylates Copolymer, Xanthan Gum, Lecithin, Disodium EDTА, Citral, Linalool, Limonene, Eugenol, Cinnamal, Benzyl Benzoate, Geraniol</span>.",
+    "compound": "Νερό, Γλυκερίνη, Αμυγδαλέλαιο, Υγρή παραφίνη, Πολυακρυλικό νάτριο, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 80, PEG-40 Υδρογινωμένο καστορέλαιο, Bisabolol, Σαλικυλικό οξύ, Έλαιο Τσαγιού, Gluconolactone, Καμφορά, Υδρογονωμένο Πολυδεκένιο, Tocopheryl Acetate, Εκχύλισμα Γαρίφαλου, Εκχύλισμα Σπόρου Ιπποκαστανιάς, Εκχύλισμα Μελίλωτου, Εκχύλισμα Καλέντουλας, Εκχύλισμα Σπάρτου, Εκχύλισμα Δεντρολίβανου, Εκχύλισμα Χαμομηλιού, Εκχύλισμα Μπάρδου, Φαινοξυαιθανόλη, Υαλουρονικό νάτριο, Έλαιο Μέντας, Trideceth-6, BHT, Disodium EDTA, Εθυλεξυλογλυκερίνη, Γλυκονικό Ασβέστιο, Κιτρικό Οξύ, Βενζοϊκό Νάτριο, Σορβικό Κάλιο, γ-Τερπινένιο, α-Τερπινένιο, Τερπινεόλη, Πινένιο, Τερπινολένιο, Λιμονένιο, Μενθόλη.",
     "usage": "εφαρμόστε σε καλά καθαρισμένο και στεγνό δέρμα των πέλματος 2 φορές την ημέρα. Πριν από τη χρήση, κάντε ένα τεστ συμβατότητας με το δέρμα σας.",
     "contraindications": "ατομική δυσανεξία στα συστατικά.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1649,15 +1649,15 @@
     "suitability": "2 έτη",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Για την υγεία",
     "review_count": "322 κριτικές",
     "niche": "Προστατίτιδα",
-    "form_factor": "blister, κάψουλες 20 τεμ.",
+    "form_factor": "blister, 10 κάψουλες",
     "short_description": "Φάρμακο για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιητικού συστήματος.",
     "description": "σύμπλεγμα φυσικών εκχυλισμάτων για την πρόληψη προβλημάτων του ουροποιητικού συστήματος που μπορεί να αντιμετωπίσει κάθε άνδρας. Η δράση των φυτικών εκχυλισμάτων στοχεύει στην:  εξάλειψη του πόνου και της φλεγμονής,  επίδραση στην υγεία του προστάτη,  διευκόλυνση της ούρησης,  βελτίωση της κυκλοφορίας του αίματος.",
-    "compound": "<span class=\"attention\">gelatin (capsule shell), microcrystalline cellulose (filler), saw palmetto fruit extract, nettle root extract, tribulus terrestris fruit extract, εκχύλισμα ρίζας μάκα, κιτρικό ψευδάργυρο, στεατικό μαγνήσιο (πληρωτικό), διοξείδιο του πυριτίου (αντισυσσωματικό)</span>.",
+    "compound": "Εκχύλισμα ρίζας μάκα (Lepidium meyenii 4:1) - 60 mg, Εκχύλισμα κράνμπερι (Vaccinium macrocarpon, 35% προανθοκυανιδίνες) - 53 mg, Εκχύλισμα φρούτου Saw Palmetto (Serenoa repens 5:1) - 50 mg, Εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1% βήτα-σιτοστερόλη) - 40 mg, Ψευδάργυρος (κιτρικό ψευδάργυρο τριυδρικό) - 5 mg.",
     "usage": "οι ενήλικες πρέπει να λαμβάνουν 1 κάψουλα 1-2 φορές την ημέρα κατά τη διάρκεια του γεύματος ή χωρίς. Η διάρκεια ενός κύκλου είναι 45 ημέρες. Εάν είναι απαραίτητο, ο κύκλος μπορεί να επαναληφθεί. Συνιστώμενη ημερήσια δόση - 2 κάψουλες.",
     "contraindications": "ατομική δυσανεξία σε οποιοδήποτε από τα συστατικά, παιδική ηλικία (έως 18 ετών). Πριν από τη λήψη, συνιστάται να συμβουλευτείτε το γιατρό σας. Δεν είναι φάρμακο. Μην υπερβαίνετε τη συνιστώμενη ημερήσια δόση. Κρατήστε το μακριά από τα παιδιά. Αυτό το συμπλήρωμα διατροφής δεν πρέπει να αντικαθιστά μια ποικίλη διατροφή.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1724,15 +1724,15 @@
     "suitability": "2 έτη ",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Για την υγεία",
     "review_count": "341 κριτικές",
     "niche": "Ακοή",
     "form_factor": "blister, κάψουλες 10 τεμ., χαρτοκιβώτιο, τεχνικές οδηγίες",
     "short_description": "Σύμπλεγμα για τη βελτίωση των λειτουργιών της ακοής με ισορροπημένη φόρμουλα βιταμινών και μετάλλων.",
     "description": "σύμπλεγμα φυσικών συστατικών, η δράση των οποίων στοχεύει στην εξάλειψη του θορύβου στα αυτιά και στην επιβράδυνση της απώλειας ακοής.",
-    "compound": "<span class=\"attention\">L-ασκορβικό οξύ, ζελατίνη (κέλυφος κάψουλας), μικροκρυσταλλική κυτταρίνη (πληρωτικό), ακετυλο L-καρνιτίνη hcl, εκχύλισμα φύλλων ginkgo biloba, οξείδιο του μαγνησίου, νικοτιναμίδιο, οξείδιο του ψευδαργύρου, στεατικό μαγνήσιο (πληρωτικό), υδροχλωρική θειαμίνη, διοξείδιο του πυριτίου (αντισυσσωματικό), ριβοφλαβίνη, υδροχλωρική πυριδοξίνη, μελατονίνη, ανθρακικό ασβέστιο (χρωστική τροφίμων, κέλυφος κάψουλας)</span>.",
+    "compound": "L-ασκορβικό οξύ, Ζελατίνη, Βιταμίνη C (L-ασκορβικό οξύ), Μικροκρυσταλλική κυτταρίνη, Ακετυλο L-καρνιτίνη HCl, Εκχύλισμα φύλλων Ginkgo biloba, Οξείδιο μαγνησίου, Νικοτιναμίδη, Ψευδάργυρος, Στεατικό μαγνήσιο, Διοξείδιο του πυριτίου.",
     "usage": "Ενήλικες: 1 κάψουλα την ημέρα κατά τη διάρκεια ή μετά το γεύμα. Διάρκεια μιας θεραπείας: 2 μήνες. Μην υπερβαίνετε τη συνιστώμενη ημερήσια δόση.",
     "contraindications": "Ατομική δυσανεξία στα συστατικά,  παιδική ηλικία (έως 18 ετών).",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1754,15 +1754,15 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Για την υγεία",
     "review_count": "297 κριτικές",
     "niche": "Δύναμη",
     "form_factor": "blister, κάψουλες 20 τεμ.",
     "short_description": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-    "description": "σύμπλεγμα φυτικών συστατικών που ενισχύει τη σεξουαλική επιθυμία και βελτιώνει τη σεξουαλική λειτουργία στους άνδρες, ομαλοποιεί τη λειτουργική κατάσταση του ουροποιογεννητικού συστήματος σε περίπτωση στυτικής δυσλειτουργίας (για την αύξηση του λίμπιντο και της ανδρικής δύναμης), βελτιώνει την ποιότητα του σπέρματος, καθώς και αυξάνει τη διανοητική και σωματική ικανότητα και τις δυνατότητες προσαρμογής στους άνδρες.  Η δράση του Wirex men’s formula οφείλεται στις λειτουργικές ιδιότητες των ενεργών συστατικών και στοχεύει στην επίλυση προβλημάτων με τη σεξουαλική λειτουργία, το λίμπιντο, τη σπερματογένεση, τη μνήμη και την ενέργεια στους άνδρες.",
-    "compound": "<span class=\"attention\">Εκχύλισμα μούρων cranberry, ζελατίνη (κέλυφος κάψουλας), εκχύλισμα καρπού Saw palmetto, εκχύλισμα ρίζας τσουκνίδας, μικροκρυσταλλική κυτταρίνη (πληρωτικό), κιτρικό ψευδάργυρο, στεατικό μαγνήσιο (πληρωτικό), διοξείδιο του πυριτίου (αντισυσσωματικό), χρωστικές ουσίες (κέλυφος κάψουλας): E171, E132</span>.",
+    "description": "σύμπλεγμα φυτικών συστατικών που ενισχύει τη σεξουαλική επιθυμία και βελτιώνει τη σεξουαλική λειτουργία στους άνδρες, ομαλοποιεί τη λειτουργική κατάσταση του ουροποιογεννητικού συστήματος σε περίπτωση στυτικής δυσλειτουργίας (για την αύξηση του λίμπιντο και της ανδρικής δύναμης), βελτιώνει την ποιότητα του σπέρματος, καθώς και αυξάνει τη διανοητική και σωματική ικανότητα και τις δυνατότητες προσαρμογής στους άνδρες.  Η δράση του Viarex οφείλεται στις λειτουργικές ιδιότητες των ενεργών συστατικών και στοχεύει στην επίλυση προβλημάτων με τη σεξουαλική λειτουργία, το λίμπιντο, τη σπερματογένεση, τη μνήμη και την ενέργεια στους άνδρες.",
+    "compound": "Εκχύλισμα ρίζας Maca (Lepidium meyenii 4:1) - 60 mg, Εκχύλισμα βακκίνιου (Vaccinium macrocarpon, 35% προανθοκυανιδίνες) - 53 mg, Εκχύλισμα φρούτου Saw Palmetto (Serenoa repens 5:1) - 50 mg, Εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1% β-σιτοστερόλη) - 40 mg, Ψευδάργυρος (Citrate Ψευδαργύρου Τριϋδρική) - 5 mg.",
     "usage": "1 κάψουλα 1-2 φορές την ημέρα κατά τη διάρκεια του γεύματος. Η διάρκεια μιας θεραπείας είναι 45 ημέρες. Εάν είναι απαραίτητο, η θεραπεία μπορεί να επαναληφθεί. Η συνιστώμενη ημερήσια δόση είναι 2 κάψουλες.",
     "contraindications": "Ατομική δυσανεξία σε οποιοδήποτε από τα συστατικά, παιδική ηλικία (έως 18 ετών). Πριν από τη λήψη, συνιστάται να συμβουλευτείτε το γιατρό σας. Δεν είναι φάρμακο. Μην υπερβαίνετε τη συνιστώμενη ημερήσια δόση. Κρατήστε το μακριά από τα παιδιά. Αυτό το συμπλήρωμα διατροφής δεν πρέπει να αντικαθιστά μια ποικίλη διατροφή.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1784,15 +1784,15 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Για την υγεία",
     "review_count": "311 κριτικές",
     "niche": "δύναμη",
-    "form_factor": "πλαστικό δοχείο / 20 κάψουλες",
+    "form_factor": "κάψουλες σε κυψέλη, 10 τεμ",
     "short_description": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
     "description": "κάψουλες με σύμπλεγμα φυσικών εκχυλισμάτων και ψευδάργυρο. Η φόρμουλα έχει σχεδιαστεί με γνώμονα την πρόληψη όλων των προβλημάτων του ουροποιητικού συστήματος που μπορεί να αντιμετωπίσει οποιοσδήποτε άνδρας, συμπεριλαμβανομένων των προβλημάτων με το λίμπιντο. Η δράση του προϊόντος στοχεύει στην αναπλήρωση των ουσιών που λείπουν από τον οργανισμό, οι οποίες είναι δύσκολο να ληφθούν με την τροφή και οι οποίες επηρεάζουν: τη βελτίωση της κυκλοφορίας του αίματος, την στύση, την αύξηση της παραγωγής τεστοστερόνης, αύξηση της αντοχής του οργανισμού, την υγεία του ουροποιητικού συστήματος και του προστάτη.",
-    "compound": "<span class=\"attention\">Εκχύλισμα καρπού Saw palmetto (Serenoa repens 5:1), εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1% β-σιτοστερόλη), εκχύλισμα ρίζας Maca (Lepidium meyenii 10:1), ψευδάργυρος (κιτρικός ψευδάργυρος)</span>.",
+    "compound": "Εκχύλισμα ρίζας μάκα (Lepidium meyenii 4:1) – 60 mg, εκχύλισμα κράνμπερι (Vaccinium macrocarpon, 35 % προανθοκυανιδίνες) – 53 mg, εκχύλισμα καρπού φοίνικα saw palmetto (Serenoa repens 5:1) – 50 mg, εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1 % β-σιτοστερόλη) – 40 mg, ψευδάργυρος (κιτρικό ψευδάργυρο τριένυδρο) – 5 mg.",
     "usage": "1 κάψουλα 1-2 φορές την ημέρα κατά τη διάρκεια ή μετά το γεύμα.",
     "contraindications": "ατομική δυσανεξία στα συστατικά. Δεν προορίζεται για παιδιά, έγκυες και θηλάζουσες γυναίκες.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1814,30 +1814,30 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Για την υγεία",
     "review_count": "234 κριτικές",
     "niche": "Κιρσοί",
     "form_factor": "γέλη σε σωληνάριο, 30 ml",
     "short_description": "Γέλη με φυσικά εκχυλίσματα για την καταπολέμηση των εκδηλώσεων των κιρσών.",
     "description": "σύμπλεγμα φυτικών συστατικών για την ομαλοποίηση της κατάστασης του οργανισμού, τη ρύθμιση του μεταβολισμού και την ενεργοποίηση της διαδικασίας απώλειας βάρους. Φυτικό σύμπλεγμα: ενεργοποιεί τη διαδικασία κατανάλωσης των αποθεμάτων λίπους του οργανισμού, συμβάλλει στην απώλεια βάρους, υποστηρίζει τον φυσιολογικό μεταβολισμό.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, εκχύλισμα καλλιέργειας Symphytum Officinale Callus, εκχύλισμα λουλουδιού Chamomilla Recutita, νιασιναμίδη, τροξερουτίνη, καφεΐνη, ουρία, αργινίνη, ακρυλοδιμεθυλταουρικό άλας αμμωνίου/συνπολυμερές VP, σαλικυλικό οξύ, μενθόλη, αλλαντοΐνη, υαλουρονικό νάτριο, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, δισόξινο EDTA</span>.",
+    "compound": "Aqua, γλυκερίνη, προπυλενογλυκόλη, αλκοόλη denat., εκχύλισμα αγριοκαστανιάς, εκχύλισμα Centella Asiatica, εκχύλισμα ρίζας Ruscus Aculeatus, εκχύλισμα κυτταροκαλλιέργειας Symphytum Officinale, εκχύλισμα άνθους χαμομηλιού, νιασιναμίδη, καφεΐνη, ουρία, αργινίνη, συμπολυμερές αμμωνίου acryloyldimethyltaurate/VP, σαλικυλικό οξύ, μενθόλη, αλλαντοΐνη, υαλουρονικό νάτριο, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, δινάτριο EDTA.",
     "usage": "Απλώστε με ελαφριές κινήσεις μασάζ για 3-5 λεπτά 2 φορές την ημέρα. Πριν από την εφαρμογή, κάντε ένα τεστ ανεκτικότητας στο δέρμα σας.",
     "contraindications": "για ατομική δυσανεξία στα συστατικά. Αποφύγετε την επαφή με τα μάτια. Μην το χρησιμοποιείτε σε παιδιά κάτω των τριών ετών και απευθείας σε ανοιχτές πληγές.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
     "suitability": "2 έτη",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Για την υγεία",
     "review_count": "301 κριτικές",
     "niche": "Μύκητας",
-    "form_factor": "χαρτοκιβώτιο, τεχνικές οδηγίες, σωληνάριο 30 ml",
+    "form_factor": "κρέμα, 30 ml",
     "short_description": "Κρέμα με βακτηριοκτόνο δράση για την καταπολέμηση των εκδηλώσεων του μύκητα.",
     "description": "Περιέχει βιοδραστικά συστατικά με ευρύ φάσμα δερματολογικών και καλλυντικών ιδιοτήτων. Προάγει τη φυσιολογική μικροχλωρίδα και έχει καταπραϋντική δράση στο δέρμα. Έχει κερατολυτική δράση και απομακρύνει τα νεκρά κύτταρα του δέρματος. Έχει ενυδατική και μαλακτική δράση στο δέρμα. Προάγει και διεγείρει την ανανέωση των κυττάρων του επιδερμίδα. Προορίζεται για τη διατήρηση της φυσιολογικής κατάστασης του δέρματος.",
-    "compound": "<span class=\"attention\">Aqua,Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Caprylic/Capric Triglyceride, Chamomila Recutita Flower Extract, Butyrospermum Parkii Butter, Niacinamide, Zinc Оxide, Propolis extract, Cocos Nucifera Oil, Sulfur, Аlcloxa, Salicylic Acid, Salix Alba Bark Extract, εκχύλισμα φλοιού/φύλλων Betula Alba, έλαιο ξύλου Juniperus Oxycedrus, Polysorbate 80, έλαιο φύλλων Melaleuca Alternifolia, έλαιο Mentha Piperita, Xanthan Gum,  4-Terpineol, Piroctone Olamine, Phenoxyethanol, Ethylhexylglycerin, BHT, Disodium EDTА, Linalool, Limonene</span>.",
+    "compound": "Aqua, γλυκερίνη, cetearyl alcohol, παραφινικό υγρό, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, εκχύλισμα άνθους χαμομηλιού, βούτυρο butyrospermum parkii, νιασιναμίδη, οξείδιο ψευδαργύρου, εκχύλισμα πρόπολης, λάδι καρύδας, θείο, alcloxa, σαλικυλικό οξύ, εκχύλισμα φλοιού/φύλλων λευκής σημύδας, αιθέριο έλαιο ξύλου γιουνίπερου, πολυσορβικό 80, αιθέριο έλαιο φύλλων melaleuca alternifolia, αιθέριο έλαιο μέντας, ξανθανική γόμμα, 4-terpineol, piroctone olamine, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, bht, δινάτριο edta, λιναλόλη, λιμονένιο.",
     "usage": "Εφαρμόστε σε καλά καθαρισμένο και στεγνό δέρμα της πληγείσας περιοχής του σώματος με ελαφρές κινήσεις μασάζ από κάτω προς τα πάνω. Πριν από τη χρήση, είναι απαραίτητο να κάνετε ένα τεστ ανεκτικότητας των συστατικών του φαρμάκου από το δέρμα. <span class=\"color: red\">Προσοχή:</span> αποφύγετε την επαφή με τα μάτια.",
     "contraindications": "Μην το εφαρμόζετε σε παιδιά κάτω των 3 ετών, έγκυες και θηλάζουσες γυναίκες. Μην το εφαρμόζετε  σε ανοιχτές πληγές.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1874,15 +1874,15 @@
     "suitability": "2 έτη",
     "keep": "Φυλάξτε το σε ξηρό μέρος, απρόσιτο για τα παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Υγεία",
     "review_count": "333 κριτικές",
     "niche": "αιμορροΐδες",
-    "form_factor": "γέλη σε σωληνάριο",
+    "form_factor": "γέλη σε σωληνάριο, 30 ml",
     "short_description": "Το προϊόν, με φυτική βάση, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη αιμορροΐδων.",
     "description": "Γέλη με ελαφρύ δροσιστικό αποτέλεσμα, που επιτρέπει στο προϊόν να ανακουφίζει τον πόνο και να μειώνει τη φλεγμονή. Περιέχει ένα ευρύ φάσμα βιολογικά ενεργών συστατικών: εκχυλίσματα ασιατικής τσεντέλας, καστανιάς, χαμομηλιού, αγκαθιάς, σπαθόχορτου, τροξερουτίνης, καφεΐνης, αλλαντοΐνης, Β3, υαλουρονικού οξέος.",
-    "compound": "<span class=\"attention\">Νερό, γλυκερίνη, προπυλενογλυκόλη, αλκοόλη Denat., εκχύλισμα Aesculus Hippocastanum, εκχύλισμα Centella Asiatica, εκχύλισμα ρίζας Ruscus Aculeatus, εκχύλισμα καλλιέργειας Symphytum Officinale Callus, εκχύλισμα λουλουδιού Chamomilla Recutita, Νιασιναμίδη, Τροξερουτίνη, Καφεΐνη, Ουρία, Αργινίνη, Αμμώνιο ακρυλοδιμεθυλταουρικό/VP συμπολυμερές, Σαλικυλικό οξύ, Μενθόλη, Αλλαντοΐνη, Υαλουρονικό νάτριο, Φαινοξυαιθανόλη, Αιθυλεξυλογλυκερίνη, Δισόδιο EDTА</span>.",
+    "compound": "Aqua, γλυκερίνη, προπυλενογλυκόλη, αλκοόλη denat., εκχύλισμα αγριοκαστανιάς, εκχύλισμα centella asiatica, εκχύλισμα ρίζας ruscus aculeatus, εκχύλισμα κυτταροκαλλιέργειας symphytum officinale, εκχύλισμα άνθους χαμομηλιού, νιασιναμίδη, τροξερουτίνη, καφεΐνη, ουρία, αργινίνη, συμπολυμερές αμμωνίου acryloyldimethyltaurate/vp, σαλικυλικό οξύ, μενθόλη, αλλαντοΐνη, υαλουρονικό νάτριο, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, δινάτριο edta.",
     "usage": "Εφαρμόστε με ελαφριές κινήσεις μασάζ για 3-5 λεπτά 2 φορές την ημέρα. Πριν από τη χρήση, πραγματοποιήστε τεστ συμβατότητας με το δέρμα σας. Συνιστάται η χρήση 1-2 φορές την ημέρα.",
     "contraindications": "Ατομική δυσανεξία σε οποιοδήποτε από τα συστατικά. Μόνο για ενήλικες, απαγορεύεται σε άτομα κάτω των 18 ετών. Φυλάξτε το σε μέρος απρόσιτο για παιδιά.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1943,13 +1943,13 @@
       "salePrice": "26",
       "newPrice": "112"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "24",
       "newPrice": "82"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "89"
     },
@@ -1958,8 +1958,8 @@
       "salePrice": "26",
       "newPrice": "79"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "26",
       "newPrice": "102"
     },
@@ -1983,8 +1983,8 @@
       "salePrice": "24",
       "newPrice": "135"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "26",
       "newPrice": "136"
     },
@@ -1993,8 +1993,8 @@
       "salePrice": "24",
       "newPrice": "88"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -2003,8 +2003,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "24",
       "newPrice": "139"
     },
@@ -2013,13 +2013,13 @@
       "salePrice": "26",
       "newPrice": "75"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -2033,8 +2033,8 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
     }
@@ -3069,13 +3069,13 @@
         ]
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μοντέστ Ανβάρι",
-        "text": "Πριν 3 χρόνια πήρα διάγνωση, δοκίμασα πολλά προϊόντα και θεραπείες. Βοήθησε μόνο το Deluron Forte. Το παρήγγειλα από το διαδίκτυο με παράδοση κατ’ οίκον.",
+        "text": "Πριν 3 χρόνια πήρα διάγνωση, δοκίμασα πολλά προϊόντα και θεραπείες. Βοήθησε μόνο το Exurol. Το παρήγγειλα από το διαδίκτυο με παράδοση κατ’ οίκον.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3100,8 +3100,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αυγουστίνος Γκαλέβι",
         "text": "Καλό προϊόν, βοηθά να ομαλοποιηθεί η ούρηση, αφαιρεί τον πόνο. Δρα από την πρώτη εβδομάδα. Επανήλθε και η σεξουαλική επιθυμία.",
@@ -3129,8 +3129,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λόρα Κρόους",
         "text": "Το παρήγγειλα για τον άντρα μου. Μου είπε ότι υπάρχει αποτέλεσμα. Κοιμάται καλύτερα το βράδυ, η σεξουαλική μας ζωή επέστρεψε. Συνεχίζει τον κύκλο.",
@@ -3158,11 +3158,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέφαν Ροντρίγκεζ",
-        "text": "Στη μάχη με την προστατίτιδα ξόδεψα πολλά χρήματα και προσπάθειες. Αποδείχτηκε ότι η λύση ήταν οικονομική και αποτελεσματική. Το Deluron Forte βοήθησε. Από τις πρώτες μέρες ένιωσα βελτίωση.",
+        "text": "Στη μάχη με την προστατίτιδα ξόδεψα πολλά χρήματα και προσπάθειες. Αποδείχτηκε ότι η λύση ήταν οικονομική και αποτελεσματική. Το Exurol βοήθησε. Από τις πρώτες μέρες ένιωσα βελτίωση.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3187,11 +3187,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Όττο Ζέγκερς",
-        "text": "Δεν πίστευα στη δύναμη τέτοιων προϊόντων, μέχρι που δοκίμασα το Deluron Forte. Εξάλειψε τον πόνο, τη φλεγμονή και τις συνεχείς επισκέψεις στην τουαλέτα. Το προϊόν λειτουργεί!",
+        "text": "Δεν πίστευα στη δύναμη τέτοιων προϊόντων, μέχρι που δοκίμασα το Exurol. Εξάλειψε τον πόνο, τη φλεγμονή και τις συνεχείς επισκέψεις στην τουαλέτα. Το προϊόν λειτουργεί!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3216,11 +3216,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλαούντια Λάουντερς",
-        "text": "Ο άντρας μου έπαιρνε το Deluron Forte. Δεν μοιραζόταν λεπτομέρειες, αλλά η διάθεσή του βελτιώθηκε. Επίσης η σεξουαλική μας ζωή ξανάρχισε. Μάλλον βοηθά, αφού έχει τέτοιες αλλαγές!",
+        "text": "Ο άντρας μου έπαιρνε το Exurol. Δεν μοιραζόταν λεπτομέρειες, αλλά η διάθεσή του βελτιώθηκε. Επίσης η σεξουαλική μας ζωή ξανάρχισε. Μάλλον βοηθά, αφού έχει τέτοιες αλλαγές!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3245,11 +3245,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ντολόρες Κρόφορντ",
-        "text": "Αγόρασα το Deluron Forte για τον παππού. Η επέμβαση είχε αντενδείξεις, δεν υπήρχαν άλλες επιλογές, ελπίζαμε μόνο σε αυτό. Και βοήθησε! Το μέγεθος του προστάτη επανήλθε στο φυσιολογικό μετά τον κύκλο!",
+        "text": "Αγόρασα το Exurol για τον παππού. Η επέμβαση είχε αντενδείξεις, δεν υπήρχαν άλλες επιλογές, ελπίζαμε μόνο σε αυτό. Και βοήθησε! Το μέγεθος του προστάτη επανήλθε στο φυσιολογικό μετά τον κύκλο!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3274,11 +3274,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρόμπερτ Βορόβσκι",
-        "text": "Δεν ξέρω κάτι πιο αποτελεσματικό από το Deluron Forte. Γρήγορα εξαλείφει τον πόνο και μειώνει τη συχνότητα της ούρησης. Η ζωή έγινε καλύτερη!",
+        "text": "Δεν ξέρω κάτι πιο αποτελεσματικό από το Exurol. Γρήγορα εξαλείφει τον πόνο και μειώνει τη συχνότητα της ούρησης. Η ζωή έγινε καλύτερη!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3303,11 +3303,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άννα Βέλτιμπορ",
-        "text": "Ο άντρας μου είχε προβλήματα, δοκιμάσαμε πολλά για να αφαιρέσουμε τον πόνο και τη φλεγμονή. Μου είπε ότι μόνο μετά το Deluron Forte ένιωσε αποτέλεσμα.",
+        "text": "Ο άντρας μου είχε προβλήματα, δοκιμάσαμε πολλά για να αφαιρέσουμε τον πόνο και τη φλεγμονή. Μου είπε ότι μόνο μετά το Exurol ένιωσε αποτέλεσμα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3332,8 +3332,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπέρναρντ Κοβάλσκι",
         "text": "Καλό προϊόν με βάση φυτικά συστατικά. Εξάλειψε όλα τα σημάδια προστατίτιδας, η φλεγμονή πέρασε. Δεν προκάλεσε παρενέργειες.",
@@ -3361,11 +3361,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουί Ντόρτσον",
-        "text": "Η προστατίτιδα διαγνώστηκε πριν από 7 χρόνια. Ζω φυσιολογικά και χωρίς επιπλοκές μόνο χάρη στο Deluron Forte. Δύο προληπτικοί κύκλοι τον χρόνο και καμία ενόχληση.",
+        "text": "Η προστατίτιδα διαγνώστηκε πριν από 7 χρόνια. Ζω φυσιολογικά και χωρίς επιπλοκές μόνο χάρη στο Exurol. Δύο προληπτικοί κύκλοι τον χρόνο και καμία ενόχληση.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3390,11 +3390,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χανς Ζάλτσμαν",
-        "text": "Ένας γνωστός ειδικός μου συνέστησε το Deluron Forte. Είχα κρυώσει και πήγα σε αυτόν με παράπονα. Μου το πρότεινε φιλικά. Τα συμπτώματα εξαφανίστηκαν.",
+        "text": "Ένας γνωστός ειδικός μου συνέστησε το Exurol. Είχα κρυώσει και πήγα σε αυτόν με παράπονα. Μου το πρότεινε φιλικά. Τα συμπτώματα εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3419,11 +3419,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γιόζεφ Σόστεκ",
-        "text": "Με τη φλεγμονή του προστάτη υπέφερα για καιρό. Ήμουν έτοιμος για χειρουργείο, αλλά το Deluron Forte με βοήθησε να το αποφύγω. Στην αρχή έφυγε ο πόνος και οι επισκέψεις στην τουαλέτα, μετά εξαφανίστηκε εντελώς η φλεγμονή.",
+        "text": "Με τη φλεγμονή του προστάτη υπέφερα για καιρό. Ήμουν έτοιμος για χειρουργείο, αλλά το Exurol με βοήθησε να το αποφύγω. Στην αρχή έφυγε ο πόνος και οι επισκέψεις στην τουαλέτα, μετά εξαφανίστηκε εντελώς η φλεγμονή.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3448,11 +3448,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρόλαν Κλαρκ",
-        "text": "Δεν εμπιστεύομαι φαρμακευτικά προϊόντα. Όταν χρειάζομαι στήριξη για ανδρικά θέματα, παίρνω Deluron Forte. Φυσική σύνθεση και καλή βοήθεια.",
+        "text": "Δεν εμπιστεύομαι φαρμακευτικά προϊόντα. Όταν χρειάζομαι στήριξη για ανδρικά θέματα, παίρνω Exurol. Φυσική σύνθεση και καλή βοήθεια.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3477,8 +3477,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρολάνα Γκράβς",
         "text": "Εκφράζω την ευγνωμοσύνη μου από εμένα και τον άντρα μου. Ευχαριστώ για αυτό το εξαιρετικό προϊόν, τη γρήγορη παράδοση και τη συμβουλή. Βοήθησε τον άντρα μου! Επιτέλους είναι ξανά υγιής!",
@@ -3943,13 +3943,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκαμπριέλ Βέρνος",
-        "text": "Χρησιμοποίησα το Exofeet Oil πέρσι. Το πρόβλημα εξαφανίστηκε και δεν επανήλθε. Δέρμα και νύχια στα πόδια υγιή, τίποτα δεν με ενοχλεί.",
+        "text": "Χρησιμοποίησα το Desalix πέρσι. Το πρόβλημα εξαφανίστηκε και δεν επανήλθε. Δέρμα και νύχια στα πόδια υγιή, τίποτα δεν με ενοχλεί.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3974,11 +3974,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ολίβια Μπόλτον",
-        "text": "Από τις πρώτες μέρες χρήσης του Exofeet Oil εξαφανίστηκε η φαγούρα και η δυσάρεστη οσμή. Συνεχίζω τον κύκλο μέχρι την πλήρη εξάλειψη του προβλήματος.",
+        "text": "Από τις πρώτες μέρες χρήσης του Desalix εξαφανίστηκε η φαγούρα και η δυσάρεστη οσμή. Συνεχίζω τον κύκλο μέχρι την πλήρη εξάλειψη του προβλήματος.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4003,11 +4003,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λίνα Ιβασέσκου",
-        "text": "Ζούσα με μύκητα για χρόνια, και αποδείχθηκε ότι είναι τόσο εύκολο να απαλλαγείς. Με το Exofeet Oil τον ξέχασα και ελπίζω για πάντα!",
+        "text": "Ζούσα με μύκητα για χρόνια, και αποδείχθηκε ότι είναι τόσο εύκολο να απαλλαγείς. Με το Desalix τον ξέχασα και ελπίζω για πάντα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4032,11 +4032,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δημήτρης Ζέχναντ",
-        "text": "Έχω θετική εμπειρία με το Exofeet Oil. Απαλλάχθηκα από τον μύκητα. Η φαγούρα, η μυρωδιά και οι ρωγμές στα πόδια εξαφανίστηκαν γρήγορα!",
+        "text": "Έχω θετική εμπειρία με το Desalix. Απαλλάχθηκα από τον μύκητα. Η φαγούρα, η μυρωδιά και οι ρωγμές στα πόδια εξαφανίστηκαν γρήγορα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4061,11 +4061,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φερνάντα Τόρρες",
-        "text": "Το Exofeet Oil είναι υπέροχο προϊόν! Εύκολο στη χρήση, ωραίο άρωμα. Αλλά το σημαντικότερο — λειτουργεί. Εξαλείφει τη φαγούρα και τον μύκητα.",
+        "text": "Το Desalix είναι υπέροχο προϊόν! Εύκολο στη χρήση, ωραίο άρωμα. Αλλά το σημαντικότερο — λειτουργεί. Εξαλείφει τη φαγούρα και τον μύκητα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4090,8 +4090,8 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αμέλια Λέβανσον",
         "text": "Τώρα πιστεύω ότι μπορείς να ξεφορτωθείς τον μύκητα νυχιών σε λίγες εβδομάδες. Πριν υπέφερα μήνες. Ευχαριστώ!",
@@ -4119,11 +4119,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λορέντζο Ιμπάνεζ",
-        "text": "Η γυναίκα μου παρήγγειλε το Exofeet Oil, έφτασε σε δύο μέρες. Οι ρωγμές έκλεισαν, η φαγούρα εξαφανίστηκε. Τέλος η δυσάρεστη οσμή. 10/10!",
+        "text": "Η γυναίκα μου παρήγγειλε το Desalix, έφτασε σε δύο μέρες. Οι ρωγμές έκλεισαν, η φαγούρα εξαφανίστηκε. Τέλος η δυσάρεστη οσμή. 10/10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4148,8 +4148,8 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άρια Ντόουσον",
         "text": "Καλό προϊόν σε προσιτή τιμή. Βοηθά ενάντια στον μύκητα, αποκαθιστά δέρμα και νύχια. Είμαι 100% ικανοποιημένη!",
@@ -4177,11 +4177,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λίζι Λάουντες",
-        "text": "Προσπαθούσα να απαλλαγώ από τον μύκητα με κρέμες και σπιτικές μεθόδους. Όλα άδικα. Μόνο το Exofeet Oil βοήθησε. Από τις πρώτες μέρες εξαφανίστηκε η φαγούρα.",
+        "text": "Προσπαθούσα να απαλλαγώ από τον μύκητα με κρέμες και σπιτικές μεθόδους. Όλα άδικα. Μόνο το Desalix βοήθησε. Από τις πρώτες μέρες εξαφανίστηκε η φαγούρα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4206,11 +4206,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μάρτα Γκόντες",
-        "text": "Ξέρω για το Exofeet Oil εδώ και καιρό. Από την εμπειρία μου είναι το καλύτερο προϊόν για μύκητα! Μετά τον κύκλο δεν έμεινε κανένα ίχνος.",
+        "text": "Ξέρω για το Desalix εδώ και καιρό. Από την εμπειρία μου είναι το καλύτερο προϊόν για μύκητα! Μετά τον κύκλο δεν έμεινε κανένα ίχνος.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4235,11 +4235,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Παυλίνα Ρεκμπές",
-        "text": "Παρήγγειλα το Exofeet Oil πρόσφατα και ήδη βλέπω αποτέλεσμα. Το δέρμα ενυδατώθηκε, έγινε πιο απαλό, ακόμη και οι σκληρές περιοχές μαλάκωσαν.",
+        "text": "Παρήγγειλα το Desalix πρόσφατα και ήδη βλέπω αποτέλεσμα. Το δέρμα ενυδατώθηκε, έγινε πιο απαλό, ακόμη και οι σκληρές περιοχές μαλάκωσαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4264,11 +4264,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρολάνα Πετράσκου",
-        "text": "Αν χρειάζεστε αποτελεσματικό και οικονομικό προϊόν για μύκητα, προτείνω το Exofeet Oil! Βοηθά γρήγορα και για πάντα.",
+        "text": "Αν χρειάζεστε αποτελεσματικό και οικονομικό προϊόν για μύκητα, προτείνω το Desalix! Βοηθά γρήγορα και για πάντα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4293,11 +4293,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ίνγκριντ Σάρτον",
-        "text": "Για να νικήσεις τον μύκητα χρειάζεται υπομονή. Συνήθως απαιτείται μακρά θεραπεία. Αλλά με το Exofeet Oil όλα έγιναν γρήγορα και αποτελεσματικά. Ένας κύκλος — και υγιή νύχια!",
+        "text": "Για να νικήσεις τον μύκητα χρειάζεται υπομονή. Συνήθως απαιτείται μακρά θεραπεία. Αλλά με το Desalix όλα έγιναν γρήγορα και αποτελεσματικά. Ένας κύκλος — και υγιή νύχια!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4322,11 +4322,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αλεχάντρο Μάλμπερ",
-        "text": "Ενοχλούσε η μυρωδιά όταν έβγαζα τα παπούτσια. Η γυναίκα μου έφερε το Exofeet Oil. Βοήθησε! Δεν υπάρχει πια οσμή, ούτε φαγούρα. Μισό χρόνο χωρίς χρήση, και δεν επέστρεψε.",
+        "text": "Ενοχλούσε η μυρωδιά όταν έβγαζα τα παπούτσια. Η γυναίκα μου έφερε το Desalix. Βοήθησε! Δεν υπάρχει πια οσμή, ούτε φαγούρα. Μισό χρόνο χωρίς χρήση, και δεν επέστρεψε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4351,11 +4351,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Desalix",
         "rating_text": "άριστη ποιότητα!",
         "name": "Νινέλ Λάμπερτ",
-        "text": "Βοήθησε να απαλλαγώ από τον μύκητα σε λίγες εβδομάδες! Το δέρμα βελτιώθηκε, τα νύχια μεγαλώνουν υγιή. Προσέξτε όταν διαλέγετε μανικιούρ, καλύτερα να έχετε το Exofeet Oil μαζί σας!",
+        "text": "Βοήθησε να απαλλαγώ από τον μύκητα σε λίγες εβδομάδες! Το δέρμα βελτιώθηκε, τα νύχια μεγαλώνουν υγιή. Προσέξτε όταν διαλέγετε μανικιούρ, καλύτερα να έχετε το Desalix μαζί σας!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4380,10 +4380,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουί Μιζέρες",
         "text": "Ένα καλό και αποτελεσματικό προϊόν. Υπάρχει αποτέλεσμα, δεν προκαλεί παρενέργειες. Μετά την αγωγή βοήθησε να εξαφανιστεί πλήρως το πρόβλημα.",
@@ -4411,11 +4411,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Όστεον",
-        "text": "Είχα προβλήματα στην ούρηση, το Feronex τα εξαφάνισε. Ο πόνος έφυγε, η στύση έγινε καλύτερη και διαρκεί περισσότερο. Χωρίς εθισμό και παρενέργειες.",
+        "text": "Είχα προβλήματα στην ούρηση, το Urosaf τα εξαφάνισε. Ο πόνος έφυγε, η στύση έγινε καλύτερη και διαρκεί περισσότερο. Χωρίς εθισμό και παρενέργειες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4440,11 +4440,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γερμανός Στροτσί",
-        "text": "Πήρα το Feronex πέρσι. Από τότε όλα λειτουργούν τέλεια, ο \"φίλος\" είναι πάντα έτοιμος! Χωρίς προβλήματα και αποτυχίες!",
+        "text": "Πήρα το Urosaf πέρσι. Από τότε όλα λειτουργούν τέλεια, ο \"φίλος\" είναι πάντα έτοιμος! Χωρίς προβλήματα και αποτυχίες!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4469,8 +4469,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέλλα Σβάιτσερ",
         "text": "Παρήγγειλα για τον άντρα μου όταν άρχισαν προβλήματα. Βοήθησε! Έγινε ξανά δραστήριος, γεμάτος αυτοπεποίθηση και πάθος!",
@@ -4498,8 +4498,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκιανός Ρος",
         "text": "Δρα σχεδόν αμέσως, με σωρευτικό αποτέλεσμα. Μετά την αγωγή δεν υπήρχαν πια προβλήματα στύσης.",
@@ -4527,8 +4527,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πανφίλος Ορμάνδο",
         "text": "Υπάρχει αποτέλεσμα, μπορείς να το συνδυάσεις με αλκοόλ, δεν προκαλεί παρενέργειες. Το χρησιμοποίησα ως εναλλακτική στα διεγερτικά και μετά την αγωγή δεν τα χρειάζομαι πια.",
@@ -4556,11 +4556,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Καταρία Λόουσον",
-        "text": "Ο άντρας μου είναι 56, δύσκολο να αποφύγεις τα «ανδρικά» προβλήματα σε αυτήν την ηλικία. Ευχαριστώ το Feronex που τον βοήθησε να τα ξεπεράσει και να νιώσει ξανά νέος και υγιής!",
+        "text": "Ο άντρας μου είναι 56, δύσκολο να αποφύγεις τα «ανδρικά» προβλήματα σε αυτήν την ηλικία. Ευχαριστώ το Urosaf που τον βοήθησε να τα ξεπεράσει και να νιώσει ξανά νέος και υγιής!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4585,11 +4585,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρίχαρντ Πικάρντ",
-        "text": "Με την ηλικία η ισχύς άρχισε να μειώνεται, η επιθυμία να σβήνει. Αποφάσισα να δοκιμάσω το Feronex. Το αποτέλεσμα εντυπωσίασε! Αν το παίρνεις κάθε εξάμηνο, μπορεί να μη γνωρίσεις καθόλου προβλήματα.",
+        "text": "Με την ηλικία η ισχύς άρχισε να μειώνεται, η επιθυμία να σβήνει. Αποφάσισα να δοκιμάσω το Urosaf. Το αποτέλεσμα εντυπωσίασε! Αν το παίρνεις κάθε εξάμηνο, μπορεί να μη γνωρίσεις καθόλου προβλήματα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4614,11 +4614,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλάους Ρόλινγκς",
-        "text": "Σε αντίθεση με τα γνωστά διεγερτικά, το Feronex δεν προκαλεί πονοκέφαλο. Το αποτέλεσμα γίνεται καλύτερο κάθε μέρα, μετά την αγωγή δεν χρειάζεται τίποτα άλλο!",
+        "text": "Σε αντίθεση με τα γνωστά διεγερτικά, το Urosaf δεν προκαλεί πονοκέφαλο. Το αποτέλεσμα γίνεται καλύτερο κάθε μέρα, μετά την αγωγή δεν χρειάζεται τίποτα άλλο!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4643,11 +4643,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αμέλια Ροσέτι",
-        "text": "Ο άντρας μου είχε προβλήματα λόγω στρες στη δουλειά. Ένας ειδικός μας συνέστησε το Feronex. Βοήθησε! Η οικειότητα επέστρεψε, πιο συχνά, πιο δυνατά και καλύτερα!",
+        "text": "Ο άντρας μου είχε προβλήματα λόγω στρες στη δουλειά. Ένας ειδικός μας συνέστησε το Urosaf. Βοήθησε! Η οικειότητα επέστρεψε, πιο συχνά, πιο δυνατά και καλύτερα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4672,11 +4672,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βενέρα Σαβεριέν",
-        "text": "Ο άντρας μου έπαιρνε διεγερτικά χάπια, αλλά είχε νεύρα και πονοκεφάλους. Επέμεινα να τα αντικαταστήσει με το Feronex. Έξι μήνες πέρασαν, δεν χρειάζεται πλέον \"βοήθεια\" πριν το σεξ!",
+        "text": "Ο άντρας μου έπαιρνε διεγερτικά χάπια, αλλά είχε νεύρα και πονοκεφάλους. Επέμεινα να τα αντικαταστήσει με το Urosaf. Έξι μήνες πέρασαν, δεν χρειάζεται πλέον \"βοήθεια\" πριν το σεξ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4701,11 +4701,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τσαρλς Πάρκερ",
-        "text": "Παρήγγειλα το Feronex από περιέργεια. Αλλά το αποτέλεσμα με εντυπωσίασε! Επίσης, η γρήγορη παράδοση και η καλή συσκευασία ήταν μπόνους.",
+        "text": "Παρήγγειλα το Urosaf από περιέργεια. Αλλά το αποτέλεσμα με εντυπωσίασε! Επίσης, η γρήγορη παράδοση και η καλή συσκευασία ήταν μπόνους.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4730,8 +4730,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χριστόφορος Ρινάλντο",
         "text": "Αποτελεσματικό και ασφαλές προϊόν για την ανδρική υγεία. Και σε προσιτή τιμή! Δεν βρήκα παρενέργειες.",
@@ -4759,8 +4759,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Έντμουντ Σίβερς",
         "text": "Καλή βοήθεια για προβλήματα στύσης από διάφορες αιτίες. Αποτέλεσμα 100%! Μετά την αγωγή ξέχασα τα προβλήματα.",
@@ -4788,8 +4788,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "Εδουάρδος Φεράν",
         "name": "Eduardo Ferran",
         "text": "Υπάρχει αποτέλεσμα από τις πρώτες μέρες. Με τη γυναίκα είμαστε πιο συχνά μαζί. Είναι χαρούμενη. Νιώθω ξανά νέος και ικανός για πολλά!",
@@ -4817,13 +4817,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ενριέττα Λοπαρέ",
-        "text": "Χρόνια πάλευα με μύκητες στα πόδια. Όλα τα μέσα είχαν μόνο προσωρινό αποτέλεσμα. Το Keramin με βοήθησε να το ξεχάσω για πάντα. Τώρα έχω υγιές δέρμα και νύχια!",
+        "text": "Χρόνια πάλευα με μύκητες στα πόδια. Όλα τα μέσα είχαν μόνο προσωρινό αποτέλεσμα. Το Demyxil με βοήθησε να το ξεχάσω για πάντα. Τώρα έχω υγιές δέρμα και νύχια!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4848,11 +4848,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λάουρα Βάλδος",
-        "text": "Πρόσφατα ανακάλυψα θηλώματα στο λαιμό. Αποφάσισα να δοκιμάσω την κρέμα Keramin. Βοήθησε! Γρήγορη δράση, δέρμα υγιές και ενυδατωμένο.",
+        "text": "Πρόσφατα ανακάλυψα θηλώματα στο λαιμό. Αποφάσισα να δοκιμάσω την κρέμα Demyxil. Βοήθησε! Γρήγορη δράση, δέρμα υγιές και ενυδατωμένο.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4877,11 +4877,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φαίνα Ντόουσον",
-        "text": "Είχα κηλίδες στους αγκώνες, με φαγούρα και ξηρότητα. Ειδικός μου πρότεινε το Keramin. Υπέροχο προϊόν! Ανακούφιση από τις πρώτες μέρες, μετά την αγωγή το πρόβλημα εξαφανίστηκε.",
+        "text": "Είχα κηλίδες στους αγκώνες, με φαγούρα και ξηρότητα. Ειδικός μου πρότεινε το Demyxil. Υπέροχο προϊόν! Ανακούφιση από τις πρώτες μέρες, μετά την αγωγή το πρόβλημα εξαφανίστηκε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4906,11 +4906,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπιάνκα Ουίλμπορν",
-        "text": "Έχω θετική εμπειρία με το Keramin. Εξαιρετικό προϊόν με έλαια στη σύνθεση! Μαλακώνει το δέρμα, βοηθά στη μάχη με τους μύκητες.",
+        "text": "Έχω θετική εμπειρία με το Demyxil. Εξαιρετικό προϊόν με έλαια στη σύνθεση! Μαλακώνει το δέρμα, βοηθά στη μάχη με τους μύκητες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4935,8 +4935,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κέβιν Ρέινος",
         "text": "Βοηθάει καλά σε δερματολογικά προβλήματα. Η γυναίκα απαλλάχθηκε από θηλώματα, εγώ από ψωρίαση. Χωρίς παρενέργειες!",
@@ -4964,8 +4964,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουίζα Μάικλσον",
         "text": "Μετά από λίγες εβδομάδες χρήσης, δεν υπήρχε πια ίχνος από μύκητες. Οι ρωγμές εξαφανίστηκαν, ο κνησμός έφυγε σχεδόν αμέσως.",
@@ -4993,11 +4993,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορνέλλα Σπένσερ",
-        "text": "Από ορμονικές διαταραχές είχα προβλήματα με το δέρμα: ξηρότητα, ρωγμές, κνησμό. Μόνο το Keramin βοήθησε. Το δέρμα ανανεώθηκε πλήρως!",
+        "text": "Από ορμονικές διαταραχές είχα προβλήματα με το δέρμα: ξηρότητα, ρωγμές, κνησμό. Μόνο το Demyxil βοήθησε. Το δέρμα ανανεώθηκε πλήρως!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5022,8 +5022,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Τρέιντες",
         "text": "Καλό αντιφλεγμονώδες προϊόν. Δεν προκαλεί δυσφορία μετά την εφαρμογή. Δουλεύει!",
@@ -5051,8 +5051,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπόμπι Σέλβαρος",
         "text": "Ευχαριστώ για την ποιοτική κρέμα, την παράδοση και τη συμβουλή. Θα παραγγείλω ξανά!",
@@ -5080,8 +5080,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ταΐρα Μάλτονες",
         "text": "Καθαρίζει γρήγορα το δέρμα από θηλώματα, χωρίς ουλές. Μετά την αγωγή δεν ξαναεμφανίστηκαν.",
@@ -5109,8 +5109,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βέρα Ράλφος",
         "text": "Εξαιρετική αντιμυκητιακή κρέμα! Από τις πρώτες μέρες εξαφανίζει τον κνησμό και τη δυσοσμία. Το δέρμα ανανεώθηκε πλήρως.",
@@ -5138,8 +5138,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πατρίτσια Πελάδος",
         "text": "Το αποτέλεσμα με εντυπωσίασε! Κάθε μέρα οι κηλίδες μειώνονταν, οι ρωγμές επουλώνονταν.",
@@ -5167,8 +5167,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λορένα Πούφοις",
         "text": "Δεν ξέρω τίποτα πιο αποτελεσματικό για μύκητες νυχιών. Ο κατεστραμμένος νύχιος αποκαταστάθηκε, μεγάλωσε υγιής.",
@@ -5196,8 +5196,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δοριανός Τερρέλ",
         "text": "Αποτελεσματικό προϊόν με φυσική σύνθεση. Ορατές αλλαγές από τις πρώτες μέρες. Έναν χρόνο χωρίς υποτροπές ψωρίασης.",
@@ -5225,8 +5225,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Καρίνα Πάουλσον",
         "text": "Η καλύτερη κρέμα για δερματολογικά προβλήματα. Βοηθά και σε μύκητες και σε θηλώματα. Το δέρμα μου τώρα είναι εντελώς υγιές!",
@@ -5254,13 +5254,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαργαρίτα Πιτρέλ",
-        "text": "Πρόσφατα παρήγγειλα το τζελ Neoveris. Έχει ευχάριστο δροσερό εφέ μετά την εφαρμογή. Σε λίγες μέρες ένιωσα ελαφρότητα — αρχικό αποτέλεσμα υπάρχει.",
+        "text": "Πρόσφατα παρήγγειλα το τζελ Vasaxal. Έχει ευχάριστο δροσερό εφέ μετά την εφαρμογή. Σε λίγες μέρες ένιωσα ελαφρότητα — αρχικό αποτέλεσμα υπάρχει.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5285,8 +5285,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουσία Αρμάντες",
         "text": "Αποτελεσματικό τζελ που αφαιρεί το βάρος και την κόπωση από τα πόδια. Πέρασε ο παλμικός πόνος και ο πόνος στο περπάτημα· συνεχίζω τη χρήση.",
@@ -5314,8 +5314,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αριάδνη Φάντε",
         "text": "Εξαφανίστηκαν το πρήξιμο και η βαριά αίσθηση στα πόδια, σταμάτησαν οι κράμπες και οι φλέβες είναι λιγότερο ορατές. Το συνιστώ!",
@@ -5343,8 +5343,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λέιλα Φεργκάρος",
         "text": "Εξαιρετικό και αποτελεσματικό προϊόν, γρήγορη παράδοση, ευγενικοί σύμβουλοι. Ευχαριστώ!",
@@ -5372,11 +5372,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φίλιπ Μπαρμπεσόν",
-        "text": "Αγόρασα το Neoveris για τη μητέρα μου — είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο ελαφριά, τα πόδια πρήζονται λιγότερο και δεν πονούν.",
+        "text": "Αγόρασα το Vasaxal για τη μητέρα μου — είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο ελαφριά, τα πόδια πρήζονται λιγότερο και δεν πονούν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5401,8 +5401,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βερονίκη Βάιτς",
         "text": "Τα αγγειώδη «διχτάκια» στα πόδια έγιναν σχεδόν αόρατα, αφαιρεί τον πόνο και προλαμβάνει το οίδημα. Βοηθάει καλά!",
@@ -5430,8 +5430,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βικτώρια Λάσκες",
         "text": "Ευχάριστη, ελαφριά υφή, φυτικά συστατικά και προσιτή τιμή. Και το σημαντικότερο — έχει αποτέλεσμα!",
@@ -5459,8 +5459,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Θωμάς Λόρσον",
         "text": "Πρόλαβε τη φλεβίτιδα και αφαίρεσε γρήγορα τον πόνο. Εξαφανίστηκαν οι νυχτερινές κράμπες. Ακόμη και μετά από δύσκολη μέρα δεν νιώθω βάρος ή οίδημα.",
@@ -5488,11 +5488,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκλόρια Λούμπρεξ",
-        "text": "Το Neoveris μου επέστρεψε την ελαφρότητα στα πόδια. Οι φλέβες έπαψαν να φλεγμαίνουν, τα αγγειακά «αστεράκια» χάθηκαν. Πολύ ευχάριστο εφέ μετά την εφαρμογή.",
+        "text": "Το Vasaxal μου επέστρεψε την ελαφρότητα στα πόδια. Οι φλέβες έπαψαν να φλεγμαίνουν, τα αγγειακά «αστεράκια» χάθηκαν. Πολύ ευχάριστο εφέ μετά την εφαρμογή.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5517,11 +5517,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χριστόφορος Γκέλμπες",
-        "text": "Αθλούμαι έντονα και εμφανίζονταν μώλωπες και πόνος στα πόδια. Με το Neoveris δεν υπάρχει πια αυτό το πρόβλημα — ο πόνος περνάει, ακόμη και μετά την προπόνηση όλα καλά.",
+        "text": "Αθλούμαι έντονα και εμφανίζονταν μώλωπες και πόνος στα πόδια. Με το Vasaxal δεν υπάρχει πια αυτό το πρόβλημα — ο πόνος περνάει, ακόμη και μετά την προπόνηση όλα καλά.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5546,11 +5546,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φεντερίκα Άλβαρες",
-        "text": "Έμαθα πρόσφατα για το Neoveris. Πολλές θετικές κριτικές. Αμέσως ένιωσα αποτέλεσμα: έφυγε το βάρος, οι φλέβες δεν είναι τόσο διογκωμένες. Είμαι ικανοποιημένη!",
+        "text": "Έμαθα πρόσφατα για το Vasaxal. Πολλές θετικές κριτικές. Αμέσως ένιωσα αποτέλεσμα: έφυγε το βάρος, οι φλέβες δεν είναι τόσο διογκωμένες. Είμαι ικανοποιημένη!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5575,11 +5575,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζανέτ Βιβάλες",
-        "text": "Χρόνια πρόβλημα με φλέβες, κληρονομικό. Φοβόμουν πολύ την επέμβαση, αλλά το Neoveris βοήθησε να την αποφύγω. Οι φλέβες λιγότερο ορατές, έφυγαν βάρος, πόνος και κράμπες.",
+        "text": "Χρόνια πρόβλημα με φλέβες, κληρονομικό. Φοβόμουν πολύ την επέμβαση, αλλά το Vasaxal βοήθησε να την αποφύγω. Οι φλέβες λιγότερο ορατές, έφυγαν βάρος, πόνος και κράμπες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5604,8 +5604,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ούρσουλα Νέμπελσον",
         "text": "Πολύ καλό αποτέλεσμα! Αμέσως ένιωσα ευχάριστη ανακούφιση. Κοιμήθηκα όλη τη νύχτα χωρίς κράμπες και πόνο. Θα συνεχίσω.",
@@ -5633,11 +5633,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ραμόνα Κάρμελες",
-        "text": "Το Neoveris είναι το καλύτερο που έχω δοκιμάσει. Είχα απογοητευτεί από τζελ/κρέμες, αλλά με το Neoveris κατάλαβα ότι ένα καλό προϊόν μπορεί να βοηθήσει στις κιρσούς!",
+        "text": "Το Vasaxal είναι το καλύτερο που έχω δοκιμάσει. Είχα απογοητευτεί από τζελ/κρέμες, αλλά με το Vasaxal κατάλαβα ότι ένα καλό προϊόν μπορεί να βοηθήσει στις κιρσούς!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5662,11 +5662,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ερνέστ Βόλρες",
-        "text": "Το Neoveris το χρησιμοποιεί η σύζυγός μου — έχει πρόβλημα με φλέβες από νεαρή ηλικία. Είναι ικανοποιημένη: εδώ και έξι μήνες δεν παραπονιέται και οι φλέβες σχεδόν δεν φαίνονται.",
+        "text": "Το Vasaxal το χρησιμοποιεί η σύζυγός μου — έχει πρόβλημα με φλέβες από νεαρή ηλικία. Είναι ικανοποιημένη: εδώ και έξι μήνες δεν παραπονιέται και οι φλέβες σχεδόν δεν φαίνονται.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5691,13 +5691,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρία Λουτσέσκου",
-        "text": "Όταν άρχισαν τα προβλήματα ακοής, έψαχνα καιρό λύση. Μου πρότειναν το Ottomax+. Υπάρχει σαφές αποτέλεσμα! Δεν ζητώ πια από τον άλλον να επαναλάβει. Και είναι οικονομικό.",
+        "text": "Όταν άρχισαν τα προβλήματα ακοής, έψαχνα καιρό λύση. Μου πρότειναν το Ausen. Υπάρχει σαφές αποτέλεσμα! Δεν ζητώ πια από τον άλλον να επαναλάβει. Και είναι οικονομικό.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5722,8 +5722,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φρεντερίκα Γκαρσία",
         "text": "Εξαιρετικό μέσο αποκατάστασης της ακοής. Θετική βελτίωση σε λίγες εβδομάδες. Αν δουλεύετε σε θόρυβο, κάνει και για πρόληψη.",
@@ -5751,8 +5751,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μισέλ Φάρτσιο",
         "text": "Βοηθά σε πόνο και βουητό στα αυτιά. Αφαιρεί τον ήχο. Συν: αποτελεσματικό, φυσικό, προσιτό.",
@@ -5780,11 +5780,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορλάντο Λόρτες",
-        "text": "Μήνες βασανιζόμουν με σταγόνες μέχρι που έμαθα το Ottomax+. Πιο βολικό και με αποτέλεσμα. Ακούω καλύτερα, το βουητό έφυγε.",
+        "text": "Μήνες βασανιζόμουν με σταγόνες μέχρι που έμαθα το Ausen. Πιο βολικό και με αποτέλεσμα. Ακούω καλύτερα, το βουητό έφυγε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5809,8 +5809,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τομάς Ολοβέτσκι",
         "text": "Βοηθά σε προβλήματα ακοής. Αποτελεσματικό σε φλεγμονές (το πήρα σε ωτίτιδα — πέρασε). Ανακουφίζει τον πόνο.",
@@ -5838,11 +5838,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τζούλι Τάροξ",
-        "text": "Εκτίμησα το Ottomax+ όταν έχασα ακοή μετά από συναυλία. Βοηθά. Μεγάλο πλεονέκτημα ότι είναι κάψουλες και όχι σταγόνες.",
+        "text": "Εκτίμησα το Ausen όταν έχασα ακοή μετά από συναυλία. Βοηθά. Μεγάλο πλεονέκτημα ότι είναι κάψουλες και όχι σταγόνες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5867,11 +5867,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γαβριήλ Μαρτίνος",
-        "text": "Η γρίπη έδωσε επιπλοκή στο αυτί — πόνος, βουητό. Τα χάπια έπαιρναν τον πόνο, αλλά την πλήρη αποκατάσταση την έδωσε μόνο το Ottomax+. Τώρα το συστήνω σε όλους.",
+        "text": "Η γρίπη έδωσε επιπλοκή στο αυτί — πόνος, βουητό. Τα χάπια έπαιρναν τον πόνο, αλλά την πλήρη αποκατάσταση την έδωσε μόνο το Ausen. Τώρα το συστήνω σε όλους.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5896,11 +5896,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ενριέττα Γιορκ",
-        "text": "Με την ηλικία η ακοή χειροτέρεψε απότομα. Ειδικός πρότεινε Ottomax+ και πράγματι βοήθησε! Με απάλλαξε από το μόνιμο βουητό.",
+        "text": "Με την ηλικία η ακοή χειροτέρεψε απότομα. Ειδικός πρότεινε Ausen και πράγματι βοήθησε! Με απάλλαξε από το μόνιμο βουητό.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5925,8 +5925,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άλμπερτ Ντεμπόρες",
         "text": "Το προϊόν βοηθά. Ευχαριστώ για γρήγορη κατ’ οίκον παράδοση και online παραγγελία. Οι σύμβουλοι ευγενικοί και κατατοπιστικοί.",
@@ -5954,11 +5954,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελένη Κορτές",
-        "text": "Παρήγγειλα το Ottomax+ για τη γιαγιά. Και εκείνη λέει, και εγώ βλέπω, ότι η ακοή της βελτιώθηκε. Κοιμάται και καλύτερα — άρα βοηθά και σε ηλικιακά θέματα.",
+        "text": "Παρήγγειλα το Ausen για τη γιαγιά. Και εκείνη λέει, και εγώ βλέπω, ότι η ακοή της βελτιώθηκε. Κοιμάται και καλύτερα — άρα βοηθά και σε ηλικιακά θέματα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5983,8 +5983,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λούκας Μπαρμπάρδες",
         "text": "Βοήθησε να φύγει η αίσθηση «βουλωμένου» αυτιού και το βουητό. Ακούω καλύτερα. Θα κάνω άλλο έναν κύκλο για σταθεροποίηση.",
@@ -6012,8 +6012,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αγνή Μπάτροξ",
         "text": "Υπέροχο προϊόν για την υγεία των αυτιών. Πλούσια φυσική σύνθεση, αποτελεσματικότητα, ελάχιστες αντενδείξεις. Και σε καλή τιμή!",
@@ -6041,11 +6041,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Σάλμα Φορέξις",
-        "text": "Παίρνω το Ottomax+ όχι για πρώτη φορά. Βοηθά και σε χρόνια προβλήματα και σε ηλικιακή βαρηκοΐα — και σε φλεγμονές. Εξαιρετικά ικανοποιημένη.",
+        "text": "Παίρνω το Ausen όχι για πρώτη φορά. Βοηθά και σε χρόνια προβλήματα και σε ηλικιακή βαρηκοΐα — και σε φλεγμονές. Εξαιρετικά ικανοποιημένη.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6070,8 +6070,8 @@
         ]
       },
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μωρίς Στράους",
         "text": "Με βοήθησε να αποφύγω επέμβαση και να βγάλω το ακουστικό. Έκανα μερικούς κύκλους τον χρόνο όπως είπε ο ειδικός. Ακούω καλά, κανένα πρόβλημα.",
@@ -6099,11 +6099,11 @@
         ]
       },
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Ausen",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλαρίσσα Μόρνος",
-        "text": "Δουλεύω σε θορυβώδη χώρο και αυτό επηρέαζε την ακοή μου. Με το Ottomax+ ακούω πολύ καλύτερα, δεν έχω βουητό το βράδυ και βελτιώθηκε ο ύπνος. Ευχαριστώ!",
+        "text": "Δουλεύω σε θορυβώδη χώρο και αυτό επηρέαζε την ακοή μου. Με το Ausen ακούω πολύ καλύτερα, δεν έχω βουητό το βράδυ και βελτιώθηκε ο ύπνος. Ευχαριστώ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8023,13 +8023,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βικτώρια Βέρμπερ",
-        "text": "Το Wintex Ultra αφαίρεσε το βάρος και το πρήξιμο από τα πόδια από τις πρώτες μέρες. Έγινε πολύ πιο εύκολο. Αποτελεσματική βοήθεια για όσους πάσχουν από κιρσούς.",
+        "text": "Το Trovazin αφαίρεσε το βάρος και το πρήξιμο από τα πόδια από τις πρώτες μέρες. Έγινε πολύ πιο εύκολο. Αποτελεσματική βοήθεια για όσους πάσχουν από κιρσούς.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8054,11 +8054,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρσέλο Λουτσιάνο",
-        "text": "Δοκίμασα το Wintex Ultra την προηγούμενη εβδομάδα. Καλό τζελ, από την πρώτη χρήση ένιωσα ανακούφιση. Θα συνεχίσω.",
+        "text": "Δοκίμασα το Trovazin την προηγούμενη εβδομάδα. Καλό τζελ, από την πρώτη χρήση ένιωσα ανακούφιση. Θα συνεχίσω.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8083,8 +8083,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δωρίνα Πετράκ",
         "text": "Υπέροχο τζελ με ευχάριστο δροσιστικό αποτέλεσμα. Απορροφάται γρήγορα και ανακουφίζει! 100% ικανοποιημένη.",
@@ -8112,8 +8112,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελένα Σπάρκς",
         "text": "Το πρήξιμο και η βαρύτητα εξαφανίστηκαν, οι γάμπες δεν πονάνε πια. Ευχαριστώ για την γρήγορη παράδοση και την αναλυτική συμβουλή.",
@@ -8141,11 +8141,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ιησούς Μαρτίν",
-        "text": "Ο γιος μου χρησιμοποιεί Wintex Ultra και μου το πρότεινε. Εξαιρετικό τζελ για όσους έχουν κιρσούς ή στέκονται όλη μέρα. Ανακουφίζει βάρος, πόνο και πρήξιμο.",
+        "text": "Ο γιος μου χρησιμοποιεί Trovazin και μου το πρότεινε. Εξαιρετικό τζελ για όσους έχουν κιρσούς ή στέκονται όλη μέρα. Ανακουφίζει βάρος, πόνο και πρήξιμο.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8170,11 +8170,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ισαβέλλα Μαρντόνο",
-        "text": "Πέταξα όλες τις κρέμες και αλοιφές, κράτησα μόνο το Wintex Ultra. Υπέροχο προϊόν σε καλή τιμή. Βοηθάει! Το αποτέλεσμα φαίνεται αμέσως.",
+        "text": "Πέταξα όλες τις κρέμες και αλοιφές, κράτησα μόνο το Trovazin. Υπέροχο προϊόν σε καλή τιμή. Βοηθάει! Το αποτέλεσμα φαίνεται αμέσως.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8199,11 +8199,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άλμπα Ρίμελ",
-        "text": "Μετά τη χρήση του Wintex Ultra οι φλέβες έγιναν λιγότερο εμφανείς. Οι φλεβικές γραμμές εξαφανίστηκαν. Χρησιμοποιώ δύο φορές τον χρόνο σε κύκλους και δεν έχω πρόβλημα.",
+        "text": "Μετά τη χρήση του Trovazin οι φλέβες έγιναν λιγότερο εμφανείς. Οι φλεβικές γραμμές εξαφανίστηκαν. Χρησιμοποιώ δύο φορές τον χρόνο σε κύκλους και δεν έχω πρόβλημα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8228,11 +8228,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βιολέτα Ρονάλντο",
-        "text": "Παρήγγειλα το Wintex Ultra για τη μητέρα μου· είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο άνετα με αυτό το τζελ. Το πρήξιμο μειώθηκε, οι κράμπες εξαφανίστηκαν.",
+        "text": "Παρήγγειλα το Trovazin για τη μητέρα μου· είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο άνετα με αυτό το τζελ. Το πρήξιμο μειώθηκε, οι κράμπες εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8257,11 +8257,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζάρα Φερράν",
-        "text": "Το Wintex Ultra αφαιρεί πόνο, οι φλέβες και οι φλεβικές γραμμές λιγοστεύουν. Και βολικά παραγγέλνεις από το ίντερνετ και το παίρνεις στην πόρτα.",
+        "text": "Το Trovazin αφαιρεί πόνο, οι φλέβες και οι φλεβικές γραμμές λιγοστεύουν. Και βολικά παραγγέλνεις από το ίντερνετ και το παίρνεις στην πόρτα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8286,8 +8286,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φρεντερική Σουάρες",
         "text": "Εξαιρετικό τζελ! Απορροφάται γρήγορα, δροσίζει, έχει ελαφριά υφή και άρωμα. Το χρησιμοποιώ δύο εβδομάδες, νιώθω ήδη το αποτέλεσμα.",
@@ -8315,11 +8315,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελίζα Ντάρον",
-        "text": "Δοκίμασα πολλές αλοιφές και κρέμες για κιρσούς, το Wintex Ultra είναι το καλύτερο. Εξαιρετική φυσική σύνθεση και αποτελεσματική δράση. Η βαρύτητα στα πόδια πέρασε, νιώθω ελαφριά!",
+        "text": "Δοκίμασα πολλές αλοιφές και κρέμες για κιρσούς, το Trovazin είναι το καλύτερο. Εξαιρετική φυσική σύνθεση και αποτελεσματική δράση. Η βαρύτητα στα πόδια πέρασε, νιώθω ελαφριά!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8344,8 +8344,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τίνα Άλσαρ",
         "text": "Μετά τον κύκλο τα πόδια δεν πονούν πια, οι κράμπες και τα πρηξίματα εξαφανίστηκαν. Οι φλέβες δεν φλεγμαίνουν. Σκοπεύω να επαναλάβω τον κύκλο για σταθερό αποτέλεσμα.",
@@ -8373,8 +8373,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μάρκος Λόμπιο",
         "text": "Αποτελεσματικό και οικονομικό τζελ. Δεν θυμάμαι άλλο προϊόν που να διώχνει τη βαρύτητα στα πόδια για τόσο καιρό. Πολύ ικανοποιημένος!",
@@ -8402,11 +8402,11 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λάουρα Τσέσνεϊ",
-        "text": "Με το Wintex Ultra επανέφερα την ελαφρότητα στα πόδια και ξεφορτώθηκα τις φλεβικές γραμμές. Συν: καλή σύνθεση, ελαφριά υφή, ωραίο άρωμα. Μείον: κανένα.",
+        "text": "Με το Trovazin επανέφερα την ελαφρότητα στα πόδια και ξεφορτώθηκα τις φλεβικές γραμμές. Συν: καλή σύνθεση, ελαφριά υφή, ωραίο άρωμα. Μείον: κανένα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8431,8 +8431,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Trovazin",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κέιτλιν Τόμπσον",
         "text": "Δροσίζει ευχάριστα, αφαιρεί τον πόνο, οι κράμπες τη νύχτα εξαφανίστηκαν. Το αποτέλεσμα το ένιωσα από τις πρώτες μέρες και γινόταν όλο και καλύτερο!",
@@ -8460,10 +8460,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ιερεμίας Κλόσακ",
         "text": "Με βοήθησε να λύσω τα \"ανδρικά\" μου προβλήματα. Δεν θα μπω σε λεπτομέρειες, αλλά η στύση επέστρεψε με δύναμη. Κρατάει πολύ!",
@@ -8491,8 +8491,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λιούμπερτ Φερνιντέζ",
         "text": "Δουλεύει όπως πρέπει. Τους τελευταίους μήνες ούτε μία αποτυχία. Χωρίς εθισμό και χωρίς παρενέργειες.",
@@ -8520,8 +8520,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βαρβάρα Ντελάσκον",
         "text": "Το παρήγγειλα για τον άντρα μου όταν είχαμε προβλήματα στο σεξ. Όλα έγιναν πολύ καλύτερα, πιο συχνά και με μεγαλύτερη διάρκεια. Δεν περίμενα ότι μπορεί να με εκπλήξει!",
@@ -8549,11 +8549,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ντιέγκο Σαντιάγκο",
-        "text": "Με την ηλικία κάθε άντρας μπορεί να έχει προβλήματα στο κρεβάτι. Και εγώ είχα, μέχρι που δοκίμασα το Wirex men’s formula. Το συνιστώ!",
+        "text": "Με την ηλικία κάθε άντρας μπορεί να έχει προβλήματα στο κρεβάτι. Και εγώ είχα, μέχρι που δοκίμασα το Viarex. Το συνιστώ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8578,11 +8578,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλαούντια Ελκασάρ",
-        "text": "Με εξέπληττε η συμπεριφορά του άντρα μου, σαν να γύρισε στη νιότη. Μετά βρήκα το Wirex men’s formula στην τσάντα του και κατάλαβα.",
+        "text": "Με εξέπληττε η συμπεριφορά του άντρα μου, σαν να γύρισε στη νιότη. Μετά βρήκα το Viarex στην τσάντα του και κατάλαβα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8607,8 +8607,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λούκιος Μάρκες",
         "text": "Ήπιο και μακράς διάρκειας αποτέλεσμα, μπορεί να ληφθεί με αλκοόλ και δεν βλάπτει την υγεία.",
@@ -8636,8 +8636,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Θωμάς Ζάρντεκ",
         "text": "Με έναν κύκλο μπορεί να επαναφέρει πλήρως τη \"δύναμη\". Το αποτέλεσμα μένει. Παρενέργειες δεν είχα.",
@@ -8665,11 +8665,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δάφνη Φοξτρίτ",
-        "text": "Ο άντρας μου λόγω άγχους είχε «ανδρικά» προβλήματα. Τον έπεισα να δοκιμάσει το Wirex men’s formula — και βοήθησε! Η επιθυμία επέστρεψε, κάνουμε έρωτα κάθε μέρα!",
+        "text": "Ο άντρας μου λόγω άγχους είχε «ανδρικά» προβλήματα. Τον έπεισα να δοκιμάσει το Viarex — και βοήθησε! Η επιθυμία επέστρεψε, κάνουμε έρωτα κάθε μέρα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8694,11 +8694,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρεβέκκα Στράουσον",
-        "text": "Εξαιρετικό προϊόν. Ο άντρας μου είναι ευχαριστημένος με το Wirex men’s formula, κι εγώ πλέον ευχαριστημένη μαζί του. Δεν περίμενα ότι μπορεί να αντέξει ώρες!",
+        "text": "Εξαιρετικό προϊόν. Ο άντρας μου είναι ευχαριστημένος με το Viarex, κι εγώ πλέον ευχαριστημένη μαζί του. Δεν περίμενα ότι μπορεί να αντέξει ώρες!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8723,8 +8723,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αυγουστίνος Πέτρες",
         "text": "Υπέροχο προϊόν, βοηθάει! Ευχαριστώ για τη συμβουλή και την παράδοση στην πόρτα. Το αποτέλεσμα φάνηκε από τις πρώτες μέρες.",
@@ -8752,8 +8752,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορλάντο Ντάιρες",
         "text": "Το καλύτερο προϊόν από τα αντίστοιχα. Συν: αρκεί ένας κύκλος και το αποτέλεσμα μένει, μπορεί να ληφθεί με αλκοόλ, δεν προκαλεί παρενέργειες.",
@@ -8781,8 +8781,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λένα Γαβρός",
         "text": "Ευχαριστώ πολύ για το ποιοτικό προϊόν. Μας έφερε πίσω την οικειότητα και βοήθησε να κρατήσουμε την οικογένεια!",
@@ -8810,8 +8810,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκιανός Μόρνας",
         "text": "Υπάρχει αποτέλεσμα, δεν ανεβάζει την πίεση, συμβατό με αλκοόλ. Μετά τον κύκλο το αποτέλεσμα μένει. Για μένα το καλύτερο προϊόν στην κατηγορία.",
@@ -8839,8 +8839,8 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μιχαήλ Βερνάντες",
         "text": "Δυνατό διεγερτικό, μεγάλη διάρκεια στύσης και ενισχυμένες αισθήσεις. Και σε πολύ καλή τιμή. Μειονεκτήματα δεν βρήκα.",
@@ -8868,11 +8868,11 @@
         ]
       },
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Viarex",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Βάινς",
-        "text": "Δεν πίστευα ότι το Wirex men’s formula θα βοηθήσει, αλλά έκανα λάθος. Το αποτέλεσμα φάνηκε από τις πρώτες μέρες, μετά τον κύκλο η υγεία μου αποκαταστάθηκε και τα «προβλήματα» εξαφανίστηκαν.",
+        "text": "Δεν πίστευα ότι το Viarex θα βοηθήσει, αλλά έκανα λάθος. Το αποτέλεσμα φάνηκε από τις πρώτες μέρες, μετά τον κύκλο η υγεία μου αποκαταστάθηκε και τα «προβλήματα» εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9771,13 +9771,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δήμητρα Ιωάννου",
-        "text": "Το Rectin είναι εξαιρετικό τζελ. Μέσα σε μία εβδομάδα όλα τα συμπτώματα των αιμορροΐδων εξαφανίστηκαν. Καμία υπόθετο δεν μπορεί να συγκριθεί με αυτό. Ο ειδικός μου το συνέστησε και τον εμπιστεύομαι πολύ.",
+        "text": "Το Vasos Duo είναι εξαιρετικό τζελ. Μέσα σε μία εβδομάδα όλα τα συμπτώματα των αιμορροΐδων εξαφανίστηκαν. Καμία υπόθετο δεν μπορεί να συγκριθεί με αυτό. Ο ειδικός μου το συνέστησε και τον εμπιστεύομαι πολύ.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9802,11 +9802,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γεωργία Κομιώτη",
-        "text": "Ζούσα με αυτόν τον εφιάλτη 5 χρόνια. Στην αρχή ήταν απλά φαγούρα και δυσφορία. Μετά ήρθαν οι εξάρσεις, μώλωπες, έντονος πόνος. Άλειφα κρέμες, έβαζα υπόθετα — τίποτα δεν βοήθησε. Χάρη στο Rectin, μέσα σε έναν μήνα όλα πέρασαν.",
+        "text": "Ζούσα με αυτόν τον εφιάλτη 5 χρόνια. Στην αρχή ήταν απλά φαγούρα και δυσφορία. Μετά ήρθαν οι εξάρσεις, μώλωπες, έντονος πόνος. Άλειφα κρέμες, έβαζα υπόθετα — τίποτα δεν βοήθησε. Χάρη στο Vasos Duo, μέσα σε έναν μήνα όλα πέρασαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9831,11 +9831,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βαρβάρα Παναγιώτου",
-        "text": "Είχα πρόβλημα με αιμορροΐδες σχεδόν έναν χρόνο. Δοκίμασα αλοιφές, υπόθετα και ακόμη και γιατροσόφια. Νόμιζα ότι θα ζούσα έτσι για πάντα. Αλλά δύο εβδομάδες μετά την έναρξη χρήσης του Rectin, όλα εξαφανίστηκαν! Είμαι πολύ ευχαριστημένη.",
+        "text": "Είχα πρόβλημα με αιμορροΐδες σχεδόν έναν χρόνο. Δοκίμασα αλοιφές, υπόθετα και ακόμη και γιατροσόφια. Νόμιζα ότι θα ζούσα έτσι για πάντα. Αλλά δύο εβδομάδες μετά την έναρξη χρήσης του Vasos Duo, όλα εξαφανίστηκαν! Είμαι πολύ ευχαριστημένη.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9860,11 +9860,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αλεξάνδρα Μαρίνου",
-        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά από μια θεραπεία με αντιβιοτικά. Υπήρχαν δύο κόμβοι. Ο ειδικός μου έγραψε υπόθετα· στην αρχή ένιωσα ανακούφιση, αλλά μετά ο πόνος επέστρεψε και η τουαλέτα έγινε μαρτύριο. Διάβασα πολλές καλές κριτικές για το Rectin και αποφάσισα να το δοκιμάσω. Μετά τον κύκλο θεραπείας απαλλάχθηκα εντελώς από το πρόβλημα. Εξαιρετικό τζελ!",
+        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά από μια θεραπεία με αντιβιοτικά. Υπήρχαν δύο κόμβοι. Ο ειδικός μου έγραψε υπόθετα· στην αρχή ένιωσα ανακούφιση, αλλά μετά ο πόνος επέστρεψε και η τουαλέτα έγινε μαρτύριο. Διάβασα πολλές καλές κριτικές για το Vasos Duo και αποφάσισα να το δοκιμάσω. Μετά τον κύκλο θεραπείας απαλλάχθηκα εντελώς από το πρόβλημα. Εξαιρετικό τζελ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9889,11 +9889,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γιώργος Γεωργίου",
-        "text": "Το Rectin ενισχύει τα τοιχώματα των αγγείων και ανακουφίζει τον πόνο. Πριν το χρησιμοποιήσω, συμβουλεύτηκα μια γνωστή ειδικό, που το ενέκρινε. Κανένα δημοφιλές χημικό σκεύασμα δεν μπορεί να βοηθήσει τόσο, όσο αυτό το φυτικό τζελ.",
+        "text": "Το Vasos Duo ενισχύει τα τοιχώματα των αγγείων και ανακουφίζει τον πόνο. Πριν το χρησιμοποιήσω, συμβουλεύτηκα μια γνωστή ειδικό, που το ενέκρινε. Κανένα δημοφιλές χημικό σκεύασμα δεν μπορεί να βοηθήσει τόσο, όσο αυτό το φυτικό τζελ.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9918,11 +9918,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκάς Πετρίδης",
-        "text": "Ο ειδικός βρήκε δύο τεράριες διογκώσεις σε μένα και συνέστησε θεραπεία με Rectin. Το αποτέλεσμα ήρθε τρεις μέρες μετά την έναρξη χρήσης. Το τζελ έχει ελαφριά δροσιστική δράση, ανακουφίζει από τον πόνο, τη φαγούρα και τη δυσφορία.",
+        "text": "Ο ειδικός βρήκε δύο τεράριες διογκώσεις σε μένα και συνέστησε θεραπεία με Vasos Duo. Το αποτέλεσμα ήρθε τρεις μέρες μετά την έναρξη χρήσης. Το τζελ έχει ελαφριά δροσιστική δράση, ανακουφίζει από τον πόνο, τη φαγούρα και τη δυσφορία.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9947,11 +9947,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέλλα Μάνου",
-        "text": "Είχα προχωρημένες αιμορροΐδες και ετοιμάζονταν να μου κάνουν χειρουργείο. Όμως η αδελφή μου μού πρότεινε να δοκιμάσω το Rectin. Το χρησιμοποίησα ενάμιση μήνα — η φλεγμονή και οι διογκώσεις εξαφανίστηκαν, ο πόνος και ο ερεθισμός πέρασαν.",
+        "text": "Είχα προχωρημένες αιμορροΐδες και ετοιμάζονταν να μου κάνουν χειρουργείο. Όμως η αδελφή μου μού πρότεινε να δοκιμάσω το Vasos Duo. Το χρησιμοποίησα ενάμιση μήνα — η φλεγμονή και οι διογκώσεις εξαφανίστηκαν, ο πόνος και ο ερεθισμός πέρασαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9976,11 +9976,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελεονώρα Δημητρίου",
-        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά τον τοκετό. Χρησιμοποίησα το Rectin για έναν μήνα και αυτό ήταν αρκετό για να απαλλαγώ πλήρως από το πρόβλημα. Οι κόμβοι άρχισαν να υποχωρούν, οι κενώσεις ομαλοποιήθηκαν, ο πόνος εξαφανίστηκε, καμία δυσφορία πια. Το συνιστώ από καρδιάς!",
+        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά τον τοκετό. Χρησιμοποίησα το Vasos Duo για έναν μήνα και αυτό ήταν αρκετό για να απαλλαγώ πλήρως από το πρόβλημα. Οι κόμβοι άρχισαν να υποχωρούν, οι κενώσεις ομαλοποιήθηκαν, ο πόνος εξαφανίστηκε, καμία δυσφορία πια. Το συνιστώ από καρδιάς!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10005,11 +10005,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_9.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρία Μήτρου",
-        "text": "Το Rectin είναι πολύ καλό προϊόν, πραγματικά λειτουργεί και βοηθάει. Είχα έντονη δυσκοιλιότητα και ανέπτυξα αιμορροΐδες. Μια φίλη μου το πρότεινε και είμαι πολύ ευγνώμων. Όλα πέρασαν!",
+        "text": "Το Vasos Duo είναι πολύ καλό προϊόν, πραγματικά λειτουργεί και βοηθάει. Είχα έντονη δυσκοιλιότητα και ανέπτυξα αιμορροΐδες. Μια φίλη μου το πρότεινε και είμαι πολύ ευγνώμων. Όλα πέρασαν!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10034,11 +10034,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δήμος Δανιηλίδης",
-        "text": "Η χρήση του τζελ είναι πολύ βολική. Πολύ καλύτερο από υπόθετα και λιπαρές αλοιφές. Το αποτέλεσμα εξαιρετικό — το Rectin μειώνει τη φλεγμονή και τον πόνο, ενισχύει τα αγγεία και εξαφανίζει όλα τα συμπτώματα των αιμορροΐδων. Το συνιστώ σε όλους που έχουν αυτό το πρόβλημα.",
+        "text": "Η χρήση του τζελ είναι πολύ βολική. Πολύ καλύτερο από υπόθετα και λιπαρές αλοιφές. Το αποτέλεσμα εξαιρετικό — το Vasos Duo μειώνει τη φλεγμονή και τον πόνο, ενισχύει τα αγγεία και εξαφανίζει όλα τα συμπτώματα των αιμορροΐδων. Το συνιστώ σε όλους που έχουν αυτό το πρόβλημα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10063,11 +10063,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκλόρια Δριάνοβα",
-        "text": "Είχα αιμορροΐδες 2ου βαθμού. Ο ειδικός μού συνέστησε υπόθετα και αλοιφή, 10 ημέρες πρωί και βράδυ. Αυτό βοήθησε, αλλά μετά επέμενε σε χειρουργείο. Ευτυχώς βρήκα εγκαίρως το τζελ Rectin. Έκανα τον κύκλο θεραπείας και ξέχασα το πρόβλημα σαν έναν τρομερό εφιάλτη.",
+        "text": "Είχα αιμορροΐδες 2ου βαθμού. Ο ειδικός μού συνέστησε υπόθετα και αλοιφή, 10 ημέρες πρωί και βράδυ. Αυτό βοήθησε, αλλά μετά επέμενε σε χειρουργείο. Ευτυχώς βρήκα εγκαίρως το τζελ Vasos Duo. Έκανα τον κύκλο θεραπείας και ξέχασα το πρόβλημα σαν έναν τρομερό εφιάλτη.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10092,11 +10092,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πρεσλάβα Πέεβα",
-        "text": "Αυτό το πρόβλημα εμφανίστηκε σε μένα μετά τη δεύτερη γέννα. Διάβασα πολλές πληροφορίες στο διαδίκτυο, δοκίμασα διάφορα μέσα, αλλά όλα ήταν άχρηστα. Μόνο το Rectin με βοήθησε. Μου έμεινε μάλιστα και μια συσκευασία «για παν ενδεχόμενο».",
+        "text": "Αυτό το πρόβλημα εμφανίστηκε σε μένα μετά τη δεύτερη γέννα. Διάβασα πολλές πληροφορίες στο διαδίκτυο, δοκίμασα διάφορα μέσα, αλλά όλα ήταν άχρηστα. Μόνο το Vasos Duo με βοήθησε. Μου έμεινε μάλιστα και μια συσκευασία «για παν ενδεχόμενο».",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10121,11 +10121,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ηλίας Καραϊβάνης",
-        "text": "Έψαχνα καιρό για ένα σκεύασμα με βάση την τροξερουτίνη. Έχει αντιφλεγμονώδη και αντιαποιδηματική δράση — η πιο αποτελεσματική δραστική ουσία μέχρι σήμερα. Βρήκα το Rectin, το χρησιμοποίησα 2 εβδομάδες και οι αιμορροΐδες εξαφανίστηκαν.",
+        "text": "Έψαχνα καιρό για ένα σκεύασμα με βάση την τροξερουτίνη. Έχει αντιφλεγμονώδη και αντιαποιδηματική δράση — η πιο αποτελεσματική δραστική ουσία μέχρι σήμερα. Βρήκα το Vasos Duo, το χρησιμοποίησα 2 εβδομάδες και οι αιμορροΐδες εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10150,11 +10150,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_14.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Νεφέλη Αράβου",
-        "text": "Εμφανίστηκε έντονη δυσφορία, ο ειδικός βρήκε κόμβο. Έπαθα σοκ! Μου είπε να τρώω περισσότερες φυτικές ίνες, να αποφεύγω τη δυσκοιλιότητα και μου έγραψε αλοιφή. Στο σπίτι η μητέρα μου μού είπε ότι απαλλάχθηκε από αιμορροΐδες με το τζελ Rectin. Έκανα τον κύκλο και τα συμπτώματα εξαφανίστηκαν μέσα σε λίγες μέρες. Στον επανέλεγχο ο ειδικός είπε ότι το πρόβλημα δεν υπάρχει πια.",
+        "text": "Εμφανίστηκε έντονη δυσφορία, ο ειδικός βρήκε κόμβο. Έπαθα σοκ! Μου είπε να τρώω περισσότερες φυτικές ίνες, να αποφεύγω τη δυσκοιλιότητα και μου έγραψε αλοιφή. Στο σπίτι η μητέρα μου μού είπε ότι απαλλάχθηκε από αιμορροΐδες με το τζελ Vasos Duo. Έκανα τον κύκλο και τα συμπτώματα εξαφανίστηκαν μέσα σε λίγες μέρες. Στον επανέλεγχο ο ειδικός είπε ότι το πρόβλημα δεν υπάρχει πια.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10179,11 +10179,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζωή Βοδουρά",
-        "text": "Τα συμπτώματα των αιμορροΐδων είναι πραγματικά βασανιστικά — δεν είναι απλά μια φαγούρα, αλλά ένας αληθινά ανυπόφορος πόνος! Κατά τη γνώμη μου, το τζελ Rectin δεν έχει ανταγωνιστές — είναι σίγουρα το καλύτερο που έχει δημιουργηθεί μέχρι σήμερα.",
+        "text": "Τα συμπτώματα των αιμορροΐδων είναι πραγματικά βασανιστικά — δεν είναι απλά μια φαγούρα, αλλά ένας αληθινά ανυπόφορος πόνος! Κατά τη γνώμη μου, το τζελ Vasos Duo δεν έχει ανταγωνιστές — είναι σίγουρα το καλύτερο που έχει δημιουργηθεί μέχρι σήμερα.",
         "stars": [
           {
             "src": "img/svg/star.svg",

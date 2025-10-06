@@ -1,0 +1,11 @@
+include ../../mixins/product-page
+
+-
+    var PRODUCT_NAME = 'Ausen'
+    var PRODUCT_CARD = LANG.product_card;
+    var CURRENT_PRODUCT = LANG.ausen;
+    var RECOMMENDATIONS = LANG.recommendations.filter(prod => prod.name === 'Visoptic DUO Day' || prod.name === 'Visoptic DUO Night' || prod.name === 'Vasaxal');
+    var REVIEWS = LANG.reviews.reviews_ausen;
+    REVIEWS.length = 3;
+
++productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)

@@ -147,11 +147,11 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -176,18 +176,18 @@
       ],
       "text": "305 atsauksmes",
       "desc": "Gels ar dzesējošu efektu, kurš domāts varikozes izpausmju novēršanai.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "SĪKĀK"
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -212,8 +212,8 @@
       ],
       "text": "288 atsauksmes",
       "desc": "Dabīgā eļļa ar baktericīdu iedarbību, kura domātā sēnītes izpausmju novēršanai.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -255,12 +255,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -285,8 +285,8 @@
       ],
       "text": "322 atsauksmes",
       "desc": "Līdzeklis vīriešiem, kas vērsts uz uroģenitālās sistēmas funkciju normalizēšanu.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -438,12 +438,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -468,8 +468,8 @@
       ],
       "text": "341 atsauksmes",
       "desc": "Komplekss dzirdes funkciju uzlabošanai ar sabalansētu vitamīnu un minerālvielu formulu.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -512,12 +512,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -542,8 +542,8 @@
       ],
       "text": "297 atsauksmes",
       "desc": "Līdzeklis vīriešiem, kas vērsts uz reproduktīvās sistēmas funkciju normalizēšanu.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -585,11 +585,11 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -614,8 +614,8 @@
       ],
       "text": "311 atsauksmes",
       "desc": "Komplekss augu izcelsmes produkts potences, izturības un vīriešu fertilitātes uzlabošanai jebkurā vecumā.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -658,11 +658,11 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -687,18 +687,18 @@
       ],
       "text": "234 atsauksmes",
       "desc": "Gels ar dabīgiem ekstraktiem, kurš domāts varikozes izpausmju novēršanai.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "SĪKĀK"
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 atsauksmes",
       "desc": "Krēms ar baktericīdu iedarbību, kurš domātā sēnītes izpausmju novēršanai.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -802,12 +802,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -832,8 +832,8 @@
       ],
       "text": "267 atsauksmes",
       "desc": "Produkts uz augu bāzes, stiprina asinsvadu sieniņas un novērš hemoroīdu attīstību.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "SĪKĀK"
     }
@@ -948,13 +948,13 @@
       "niche": "Virziens: Tievēšana"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -982,13 +982,13 @@
       "niche": "Virziens: Varikoze"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1050,13 +1050,13 @@
       "niche": "Virziens: Parazīti"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1220,13 +1220,13 @@
       "niche": "Virziens: Ādas atjaunošana"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1288,13 +1288,13 @@
       "niche": "Virziens: Parazīti"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1356,13 +1356,13 @@
       "niche": "Virziens: Locītavas"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1424,13 +1424,13 @@
       "niche": "Virziens: Locītavas"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1458,13 +1458,13 @@
       "niche": "Virziens: Varikoze"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1560,13 +1560,13 @@
       "niche": "Virziens: Redze"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1611,30 +1611,30 @@
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Veselībai",
     "review_count": "305 atsauksmes",
     "niche": "Varikoze",
     "form_factor": "tuba 30 ml, kartona kārba, lietošanās instrukcija, krēms/gels",
     "short_description": "Gels ar dzesējošu efektu, kurš domāts varikozes izpausmju novēršanai.",
     "description": "gels, uz augu bāzes, kas maigi atdzesē un noņem smaguma sajūtu kājās, stiprina asinsvadu sieniņas un novērš varikozes attīstību.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat, Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА.</span>.",
+    "compound": "Ūdens, Glicerīns, Propilēnglikols, Denaturēts alkohols, Zirgkastaņas ekstrakts (Aesculus hippocastanum), Centella Asiatica ekstrakts, Ruscus Aculeatus saknes ekstrakts, Symphytum Officinale kalusa kultūras ekstrakts, Chamomilla Recutita ziedu ekstrakts, Niacinamīds, Troxerutīns, Kofeīns, Ureja, Arginīns, Ammonium Acryloyldimethyltaurate/VP kopolimērs, Salicilskābe, Mentols, Allantoīns, Nātrija hialuronāts, Fenoksietanols, Etilheksilglicerīns, Disodium EDTA.",
     "usage": "uzklāt ar vieglām masāžas kustībām 3-5 minūtes 2 reizes dienā. Pirms lietošanas ir jāveic panesamības tests uz ādas.",
     "contraindications": "izvairīties no saskares ar acīm. Nelietot bērniem līdz trīs gadu vecumā un neuzklāt tieši uz atklātām brūcēm.",
     "manufacturer": "Dalmatika (Bulgārija)",
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Veselībai",
     "review_count": "288 atsauksmes",
     "niche": "Sēnīte",
-    "form_factor": "kartona kārba / stikla pudelīte, pipete/20 ml.",
+    "form_factor": "kartona kārba / stikla pudelīte, pipete/30 ml.",
     "short_description": "Dabīgā eļļa ar baktericīdu iedarbību, kura domātā sēnītes izpausmju novēršanai.",
     "description": "kompleksam, kura pamatā ir 4 eļļas (tējas koks, kanēlis, piparmētras, citronzāle), ir vispārēja pretiekaisuma, antiseptiska, tonizējoša, barojoša un mitrinoša iedarbība uz ādu. Iekļūstot dziļāk ādā tā ilgstoši paliek sēnītes lokalizācijas vietā.",
-    "compound": "<span class=\"attention\">Alcohol Denat, Aqua, Propylene Glycol, Glycerin, Niacinamide, Symphytum Officinale Leaf Extract, Propolis Extract, Chamomilla Recutita Flower Extract, Aluminum Chlorohydrate, Salicylic Acid, Phenylpropanol, o-Cymen-5-ol, Decylene Glycol, Melaleuca Alternifolia Leaf Oil, Allantoin, Cinnamomum Zeylanicum Leaf Oil, Mentha Piperita Oil, 4-Terpineol, Cymbopogon Flexuosus Oil, Sodium Acrylates Copolymer, Xanthan Gum, Lecithin, Disodium EDTА, Citral, Linalool, Limonene, Eugenol, Cinnamal, Benzyl Benzoate, Geraniol</span>.",
+    "compound": "Ūdens, Glicerīns, Saldā mandeļu eļļa, Šķidrais parafīns, Nātrija poliakrilāts, Hidroksietil akrilāta/Nātrija akriloildimetiltaurāta kopolimērs, Polisorbāts 80, PEG-40 hidrogenēta rīcineļļa, Bisabolols, Salicilskābe, Tējas koka eļļa, Glukonolaktons, Kāmfars, Hidrogenēts polidekens, Tokoferila acetāts, Krustnagliņas ekstrakts, Zirgkastaņas sēklu ekstrakts, Melilota ekstrakts, Kliņģerīšu ekstrakts, Zirņu ekstrakts, Rozmarīna lapu ekstrakts, Chamomilla recutita ekstrakts, Arktija ekstrakts, Fenoksietanols, Nātrija hialuronāts, Piparmētru eļļa, Trideceth-6, BHT, Disodium EDTA, Etilheksilglicerīns, Kalcija glikonāts, Citronskābe, Nātrija benzoāts, Kālija sorbāts, gamma-Terpinēns, alfa-Terpinēns, Terpinols, Pinēns, Terpinolēns, Limonēns, Mentols.",
     "usage": "uzklāt uz labi attīrītas un nosusinātas pēdu ādas 2 reizes dienā. Pirms lietošanas pārbaudiet eļļas saderību ar Jūsu ādu.",
     "contraindications": "Sastāvdaļu individuālā nepanesība.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1656,15 +1656,15 @@
     "suitability": "2 gadi",
     "keep": "Uzglabāt temperatūrā no 0°C līdz 25°C, prom no tiešiem saules stariem un mitruma."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Veselībai",
     "review_count": "322 atsauksmes",
     "niche": "Prostatīts",
-    "form_factor": "blisters, kapsulas 10 gab.",
+    "form_factor": "blisteris, 10 kapsulas",
     "short_description": "Līdzeklis vīriešiem, kas vērsts uz uroģenitālās sistēmas funkciju normalizēšanu.",
     "description": "dabīgo ekstraktu komplekss uroģenitālo problēmu profilaksei, ar kurām var saskarties jebkurš vīrietis. Augu ekstraktu iedarbība ir vērsta uz: sāpju un iekaisuma novēršanu; prostatas veselības ietekmēšanu; urinēšanas atvieglošanu; asinsrites uzlabošanu.",
-    "compound": "Gelatin (capsule shell), Microcrystalline cellulose (filler), Cranberry berry extract, Saw Palmetto fruit extract, Nettle root extract, Zinc citrate trihydrate, Magnesium stearate (filler), Silicondioxide (anti-caking agent).",
+    "compound": "Makas saknes ekstrakts (Lepidium meyenii 4:1) - 60 mg, Dzērveņu ogu ekstrakts (Vaccinium macrocarpon, 35% proantocianidīni) - 53 mg, Saw Palmetto augļu ekstrakts (Serenoa repens 5:1) - 50 mg, Nātru saknes ekstrakts (Urtica dioica, 1% beta-sitosterols) - 40 mg, Cinks (cinka citrāta trihidrāts) - 5 mg.",
     "usage": "pieaugušajiem jālieto pa 1 kapsulai 1-2 reizes dienā ēšanas laikā vai neatkarīgi no tās. Viena kursa ilgums – 45 dienas. Ja nepieciešams, kursu var atkārtot. Ieteicamā dienas deva – 2 kapsulas.",
     "contraindications": "jebkuras sastāvdaļas individuālā nepanesība, bērna vecums (līdz 18 gadiem). Pirms lietošanas ieteicams konsultēties ar ārstu. Tās nav zāles. Nepārsniedziet ieteikto dienas devu. Glabājiet bērniem nepieejamā vietā. Šīs ir uztura bagātinātājs, un tā nedrīkst aizstāt pilnveidīgu uzturu.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1731,15 +1731,15 @@
     "suitability": "2 gadi ",
     "keep": "Uzglabāt temperatūrā no 0°C līdz 25°C, prom no tiešiem saules stariem un mitruma."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Veselībai",
     "review_count": "341 atsauksmes",
     "niche": "Dzirde",
     "form_factor": "blisters, kapsulas 10 gab, kartona kārba, lietošanās instrukcija",
     "short_description": "Komplekss dzirdes funkciju uzlabošanai ar sabalansētu vitamīnu un minerālvielu formulu.",
     "description": "dabīgo komponentu komplekss, kuru darbība vērsta uz trokšņa novēršanu ausīs un dzirdes zuduma palēnināšanu.",
-    "compound": "L-ascorbic acid, gelatin, Vitamin C (L-ascorbic acid) (capsule shell), microcrystalline cellulose (filler), acetyl L-carnitine hcl, ginkgo biloba leaf extract, magnesium oxide, nicotinamide, zinc, magnesium stearate (filler), thiamine hydrochloride, silicon dioxide (anti-caking agent), riboflavin, pyridoxine hydrochloride.",
+    "compound": "L-askorbīnskābe, Želatīns, C vitamīns (L-askorbīnskābe), Mikrokristāliskā celuloze, Acetil L-karnitīns HCl, Ginkgo biloba lapu ekstrakts, Magnija oksīds, Nikotinamīds, Cinks, Magnija stearāts, Silīcija dioksīds.",
     "usage": "pieaugušajiem 1 kapsula 1-2 reizes dienā ēšanas laikā vai pēc tās. Viena kursa ilgums – 2 mēneši. Nepārsniedziet ieteikto dienas devu.",
     "contraindications": "sastāvdaļu individuālā nepanesība, bērna vecums (līdz 18 gadiem).",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1761,15 +1761,15 @@
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Veselībai",
     "review_count": "297 atsauksmes",
     "niche": "Potence",
     "form_factor": "blisters, kapsulas 10 gab.",
     "short_description": "Līdzeklis vīriešiem, kas vērsts uz reproduktīvās sistēmas funkciju normalizēšanu.",
-    "description": "augu komponentu komplekss, kas pastiprina seksuālo vēlmi un uzlabo seksuālo funkciju vīriešiem, normalizē uroģenitālas sistēmas funkcionālo stāvokli pie erektilās disfunkcijas (libido un potences paaugstināšanai), uzlabo spermas kvalitāti, kā arī paaugstina garīgās un fiziskās darba spējas un adaptācijas spējas vīriešiem. Wirex men’s formula darbība ir nosacīta ar \u200B\u200B aktīvo sastāvdaļu funkcionālajām īpašībām un ir vērsta \u200B\u200B uz seksuālo funkciju, libido, spermatoģenēzes, atmiņas un enerģijas problēmu risināšanu vīriešiem.",
-    "compound": "Cranberry berry extract, gelatin (capsule shell), Saw palmetto fruit extract, Nettle root extract, microcrystalline cellulose (filler), Zinc citrate, magnesium stearate (filler), silicon dioxide (anti-caking agent), colorants (capsule shell): E171, E132.",
+    "description": "augu komponentu komplekss, kas pastiprina seksuālo vēlmi un uzlabo seksuālo funkciju vīriešiem, normalizē uroģenitālas sistēmas funkcionālo stāvokli pie erektilās disfunkcijas (libido un potences paaugstināšanai), uzlabo spermas kvalitāti, kā arī paaugstina garīgās un fiziskās darba spējas un adaptācijas spējas vīriešiem. Viarex darbība ir nosacīta ar \u200B\u200B aktīvo sastāvdaļu funkcionālajām īpašībām un ir vērsta \u200B\u200B uz seksuālo funkciju, libido, spermatoģenēzes, atmiņas un enerģijas problēmu risināšanu vīriešiem.",
+    "compound": "Maca saknes ekstrakts (Lepidium meyenii 4:1) - 60 mg, Dzērveņu ogu ekstrakts (Vaccinium macrocarpon, 35% proantocianidīni) - 53 mg, Saw Palmetto augļu ekstrakts (Serenoa repens 5:1) - 50 mg, Nātru saknes ekstrakts (Urtica dioica, 1% beta sitosterols) - 40 mg, Cinks (Cinka citrāts trihidrāts) - 5 mg.",
     "usage": "1 kapsula 1-2 reizes dienā ēšanas laikā. Viena kursa ilgums – 45 dienas. Ja nepieciešams, kursu var atkārtot. Ieteicamā dienas deva – 2 kapsulas.",
     "contraindications": "Jebkuras sastāvdaļas individuālā nepanesība, bērna vecums (līdz 18 gadiem). Pirms lietošanas ieteicams konsultēties ar ārstu. Tās nav zāles. Nepārsniedziet ieteikto dienas devu. Glabājiet bērniem nepieejamā vietā. Šīs ir uztura bagātinātājs, un tā nedrīkst aizstāt pilnveidīgu uzturu.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1791,15 +1791,15 @@
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Veselībai",
     "review_count": "311 atsauksmes",
     "niche": "Potence",
-    "form_factor": "Plastmasas bundžiņa / 20 kapsulas",
+    "form_factor": "kapsulas blisterī, 10 gab",
     "short_description": "Komplekss augu izcelsmes produkts potences, izturības un vīriešu fertilitātes uzlabošanai jebkurā vecumā.",
     "description": "kapsulas ar dabīgo ekstraktu kompleksu un cinku. Formula izstrādāta, ņemot vērā visu uroģenitālās sistēmas problēmu profilaksi ar kurām var saskarties jebkurš vīrietis, arī problēmas ar libido. Līdzekļa iedarbība ir vērsta uz organismā trūkstošo vielu papildināšanu, kuras ir sarežģīti iegūt ar pārtiku un kuras ietekmē: asinsrites uzlabošanu; ietekmē erekciju; paaugstina testosterona izstrādi; paaugstina organisma izturību; ietekmē uroģenitālās sistēmas un prostatas veselību.",
-    "compound": "Saw palmetto fruit extract (Serenoa repens 5:1), Nettle root extract (Urtica dioica, 1% Beta-Sitosterol), Maca root extract (Lepidium meyenii 10:1), Zinc (Zinc citrate).",
+    "compound": "Makas saknes ekstrakts (Lepidium meyenii 4:1) – 60 mg, dzērveņu ekstrakts (Vaccinium macrocarpon, 35 % proantocianidīni) – 53 mg, saw palmetto ogu ekstrakts (Serenoa repens 5:1) – 50 mg, nātru saknes ekstrakts (Urtica dioica, 1 % beta-sitosterols) – 40 mg, cinks (cinka citrāta trihidrāts) – 5 mg.",
     "usage": "1 kapsula 1-2 reizes dienā ēšanas laikā vai pēc tās.",
     "contraindications": "jebkuras sastāvdaļas individuālā nepanesība, bērna vecums (līdz 18 gadiem). Pirms lietošanas ieteicams konsultēties ar ārstu. Tās nav zāles. Nepārsniedziet ieteikto dienas devu. Glabājiet bērniem nepieejamā vietā. Šīs ir uztura bagātinātājs, un tā nedrīkst aizstāt pilnveidīgu uzturu.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1821,30 +1821,30 @@
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Veselībai",
     "review_count": "234 atsauksmes",
     "niche": "Varikoze",
     "form_factor": "gels tubā, 30 ml.",
     "short_description": "Gels ar dabīgiem ekstraktiem, kurš domāts varikozes izpausmju novēršanai.",
     "description": "Augu komponentu komplekss organisma stāvokļa normalizēšanai, vielmaiņas regulēšanai un ādas atjaunošanas procesu aktivizēšanai.",
-    "compound": "Aqua, Glycerin, Propylene Glycol, Alcohol Denat, Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА.",
+    "compound": "Aqua, glicerīns, propilēnglikols, alkohols denat., zirgkastaņas ekstrakts, Centella Asiatica ekstrakts, Ruscus Aculeatus saknes ekstrakts, Symphytum Officinale šūnu kultūras ekstrakts, kumelīšu ziedu ekstrakts, niacinamīds, kofeīns, urīnviela, arginīns, amonija acryloyldimethyltaurate/VP kopolimērs, salicilskābe, mentols, allantoin, nātrija hialuronāts, fenoksietanols, etilheksilglicerīns, dinātrija EDTA.",
     "usage": "uzklāt ar vieglām masāžas kustībām 3-5 minūtes 2 reizes dienā. Pirms izmantošanas ir jāveic panesamības tests uz ādas.",
     "contraindications": "sastāvdaļu individuālā nepanesība. Izvairīties no saskares ar acīm. Nelietot bērniem līdz trīs gadu vecumā un neuzklāt tieši uz atklātām brūcēm.",
     "manufacturer": "Dalmatika (Bulgārija)",
     "suitability": "2 gadi",
     "keep": "Uzglabāt temperatūrā no 0°C līdz 25°C, prom no tiešiem saules stariem un mitruma."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Veselībai",
     "review_count": "301 atsauksmes",
     "niche": "Sēnīte",
-    "form_factor": "kartona kārba, lietošanās instrukcija, tuba 30 ml.",
+    "form_factor": "krēms, 30 ml",
     "short_description": "Krēms ar baktericīdu iedarbību, kurš domāts sēnītes izpausmju novēršanai.",
     "description": "Satur bioaktīvus komponentus, kuriem piemīt plašs dermatoloģisko un kosmētisko īpašību spektrs. Veicina normālu mikrofloru un nomierinoši iedarbojas uz ādu. Piemīt keratolītiska iedarbība, notīra atmirušās šūnās. Piemīt ādas mitrināšanas un mīkstināšanas efekts. Veicina un stimulē epidermas šūnu atjaunošanos. Paredzēts normāla ādas stāvokļa uzturēšanai.",
-    "compound": "Aqua, Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Caprylic/Capric Triglyceride, Chamomila Recutita Flower Extract, Butyrospermum Parkii Butter, Niacinamide, Zinc Оxide, Propolis extract, Cocos Nucifera Oil, Sulfur, Аlcloxa, Salicylic Acid, Salix Alba Bark Extract, Betula Alba Bark/Leaf Extract, Juniperus Oxycedrus Wood Oil, Polysorbate 80, Melaleuca Alternifolia Leaf Oil, Mentha Piperita Oil, Xanthan Gum, 4-Terpineol, Piroctone Olamine, Phenoxyethanol, Ethylhexylglycerin, BHT, Disodium EDTА, Linalool, Limonene.",
+    "compound": "Aqua, glicerīns, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, kumelīšu ziedu ekstrakts, butyrospermum parkii sviests, niacinamīds, cinka oksīds, propolisa ekstrakts, kokosriekstu eļļa, sērs, alcloxa, salicilskābe, baltā vītola mizas ekstrakts, baltā bērza mizas/lapu ekstrakts, egļu koksnes eļļa, polisorbāts 80, melaleuca alternifolia lapu eļļa, piparmētru eļļa, ksantāna gumija, 4-terpineols, piroktons olamīns, fenoksietanols, etilheksilglicerīns, bht, dinātrija edta, linalool, limonēns.",
     "usage": "vieglām masāžas kustībām no apakšas uz augšu uzklāt uz labi notīrītas un sausas ādas bojajuma vietā. Pirms lietošanas noteikti ir jāveic preparāta sastāvdaļu panesamības tests uz ādas. <span class=\"color: red\">Uzmanību:</span> izvairīties no saskares ar acīm.",
     "contraindications": "Nelietot bērniem līdz trīs gadu vecumā, grūtniecēm un ar krūti barojošām sievietēm. Neuzklāt uz atklātām brūcēm.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1881,15 +1881,15 @@
     "suitability": "2 gadi",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 atsauksmes",
     "niche": "Hemoroīdi",
-    "form_factor": "gels tubā",
+    "form_factor": "gels tubā, 30 ml.",
     "short_description": "produkts uz augu bāzes, stiprina asinsvadu sieniņas un novērš hemoroīdu attīstību.",
     "description": "Gels ar vieglu dzesējošu efektu, kas ļauj produktam noņemt sāpes un mazināt iekaisumu. Satur bioloģiski aktīvo sastāvdaļu bagātīgu klāstu: gotu kolas, kastaņa, kumelīšu, irbulenes, tauksaknes ekstrakti, trokserutīns, kofeīns, alantoīns, vitamīns B3, hialuronskābe.",
-    "compound": "Aqua, Glycerin, Propylene Glycol, Alcohol Denat, Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, Symphytum Officinale Callus Culture Extract, Chamomilla Recutita Flower Extract, Niacinamide, Troxerutin, Caffeine, Urea, Arginine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Menthol, Allantoin, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTА.",
+    "compound": "Aqua, glicerīns, propilēnglikols, alkohols denat., zirgkastaņas ekstrakts, centella asiatica ekstrakts, ruscus aculeatus saknes ekstrakts, symphytum officinale šūnu kultūras ekstrakts, kumelīšu ziedu ekstrakts, niacinamīds, trokserutīns, kofeīns, urīnviela, arginīns, amonija acryloyldimethyltaurate/vp kopolimērs, salicilskābe, mentols, allantoin, nātrija hialuronāts, fenoksietanols, etilheksilglicerīns, dinātrija edta.",
     "usage": "uzklāt ar vieglām masāžas kustībām uz 3-5 minūtēm 2 reizes dienā. Pirms lietošanas pārbaudiet gela saderību ar Jūsu ādu. Ieteicams lietot 1-2 reizes dienā.",
     "contraindications": "Jebkuras sastāvdaļas individuālā nepanesība. Tikai pieaugušajiem, aizliegts lietot bērniem līdz 18 gadu vecumā. Glabājiet bērniem nepieejamā vietā.",
     "manufacturer": "Dalmatika (Bulgārija)",
@@ -1950,13 +1950,13 @@
       "salePrice": "26",
       "newPrice": "112"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "25",
       "newPrice": "73"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "96"
     },
@@ -1965,8 +1965,8 @@
       "salePrice": "25",
       "newPrice": "89"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "26",
       "newPrice": "80"
     },
@@ -1990,8 +1990,8 @@
       "salePrice": "26",
       "newPrice": "165"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "25",
       "newPrice": "119"
     },
@@ -2000,13 +2000,13 @@
       "salePrice": "26",
       "newPrice": "79"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "26",
       "newPrice": "102"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "25",
       "newPrice": "125"
     },
@@ -2015,13 +2015,13 @@
       "salePrice": "26",
       "newPrice": "69"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "24",
       "newPrice": "77"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "82",
       "newPrice": "26"
     },
@@ -2035,8 +2035,8 @@
       "salePrice": "26",
       "newPrice": "109"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "24",
       "newPrice": "88"
     }
@@ -3072,13 +3072,13 @@
         ]
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_1.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Modests Anvari",
-        "text": "Pirms 3 gadiem man uzstādīja diagnozi, izmēģināju dažādus līdzekļus un atjaunošanas shēmas. Palīdzēja tikai Deluron Forte. Pasūtīju internetā ar kurjera piegādi.",
+        "text": "Pirms 3 gadiem man uzstādīja diagnozi, izmēģināju dažādus līdzekļus un atjaunošanas shēmas. Palīdzēja tikai Exurol. Pasūtīju internetā ar kurjera piegādi.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3103,8 +3103,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Augustīns Galevi",
         "text": "Labs līdzeklis, palīdz normalizēt urinēšanas procesu, noņem sāpes. Palīdz ar pirmo lietošanas nedēļu. Dzimumtieksme arī ir atgriezusies.",
@@ -3133,8 +3133,8 @@
       },
 
       {
-        "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Lora Krausa",
         "text": "Pasūtīju vīram. Saka, ka ir rezultāts. Naktīs ir sācis labāk gulēt, mūsu dzīvē ir atgriezies sekss. Turpina kursu.",
@@ -3163,11 +3163,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Stefans Rodrigezs",
-        "text": "Cīņai ar prostatītu tika patērēts daudz naudas un spēka. Bet izrādījās, risinājums bija lēts un efektīvs. Palīdzēja Deluron Forte. Ar pirmajām dienām palika labāk.",
+        "text": "Cīņai ar prostatītu tika patērēts daudz naudas un spēka. Bet izrādījās, risinājums bija lēts un efektīvs. Palīdzēja Exurol. Ar pirmajām dienām palika labāk.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3193,11 +3193,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Oto Zegers",
-        "text": "Neticēju tamlīdzīgu brīnumlīdzekļu spējām, līdz izmēģināju Deluron Forte. Noņēma sāpju sindromu, iekaisumu un pastāvīgo vēlmi iet uz tualeti. Līdzeklis darbojas!",
+        "text": "Neticēju tamlīdzīgu brīnumlīdzekļu spējām, līdz izmēģināju Exurol. Noņēma sāpju sindromu, iekaisumu un pastāvīgo vēlmi iet uz tualeti. Līdzeklis darbojas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3223,11 +3223,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Klaudija Ludersa",
-        "text": "Vīrs lietoja Deluron Forte. Sīkumos viņš ar mani nedalījās, bet garastāvoklis viņam uzlabojās. Pie tam atjaunojās intīmā dzīve. Laikam palīdz, ja viņa uzvedība ir tā mainījusies.",
+        "text": "Vīrs lietoja Exurol. Sīkumos viņš ar mani nedalījās, bet garastāvoklis viņam uzlabojās. Pie tam atjaunojās intīmā dzīve. Laikam palīdz, ja viņa uzvedība ir tā mainījusies.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3253,11 +3253,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Doloresa Krouforde",
-        "text": "Deluron Forte nopirku tēvocim. Operācijai bija kontrindikācijas, citu variantu nebija, cerējām tikai uz Deluron Forte. Un tas palīdzēja! Pēc kursa izdzeršanas, prostatas izmēri ir normas robežās!",
+        "text": "Exurol nopirku tēvocim. Operācijai bija kontrindikācijas, citu variantu nebija, cerējām tikai uz Exurol. Un tas palīdzēja! Pēc kursa izdzeršanas, prostatas izmēri ir normas robežās!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3283,11 +3283,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts Voravskis",
-        "text": "Nezinu neko efektīvāku par Deluron Forte. Ātri novērš sāpes, samazina vēlmes iet uz tualeti skaitu. Dzīve ir kļuvusi labāka!",
+        "text": "Nezinu neko efektīvāku par Exurol. Ātri novērš sāpes, samazina vēlmes iet uz tualeti skaitu. Dzīve ir kļuvusi labāka!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3313,11 +3313,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_9.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Anna Veltibora",
-        "text": "Vīram bija problēmas, lai novērstu iekaisumu un sāpes, izmēģinājām daudz ko. Viņš saka, ka efektu sajuta tikai pēc Deluron Forte.",
+        "text": "Vīram bija problēmas, lai novērstu iekaisumu un sāpes, izmēģinājām daudz ko. Viņš saka, ka efektu sajuta tikai pēc Exurol.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3343,8 +3343,8 @@
       },
 
       {
-        "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Bernards Kovaļskis",
         "text": "Labs produkts uz augu komponentu bāzes. Likvidēja visas prostatīta pazīmes, iekaisums pārgāja. Neizraisīja blakusefektus.",
@@ -3373,11 +3373,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_11.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Luī Dortsons",
-        "text": "Prostatīts tika atklāts jau pirms 7 gadiem. Dzīvoju normāli un bez sarežģījumiem tikai pateicoties Deluron Forte. Divi profilakses kursi gadā un nekādas problēmas ar veselību.",
+        "text": "Prostatīts tika atklāts jau pirms 7 gadiem. Dzīvoju normāli un bez sarežģījumiem tikai pateicoties Exurol. Divi profilakses kursi gadā un nekādas problēmas ar veselību.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3403,11 +3403,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_12.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Hanss Zalcmanis",
-        "text": "Deluron Forte ieteica pazīstams eksperts. Pārsalu un aizgāju pie viņa ar sūdzībām. Viņš man pa draugam ieteica šo līdzekli. Sūdzības pazuda.",
+        "text": "Exurol ieteica pazīstams eksperts. Pārsalu un aizgāju pie viņa ar sūdzībām. Viņš man pa draugam ieteica šo līdzekli. Sūdzības pazuda.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3432,11 +3432,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_13.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Jozefs Šosteks",
-        "text": "Ar prostatas iekaisumu mocījos jau sen. Jau biju gatavs operācijai, tomēr Deluron Forte palīdzēja no tās izvairīties. Vispirms pārgāja sāpes un vēlmes iet uz tualeti skaits samazinājās, tad arī iekaisums pilnīgi pārgāja.",
+        "text": "Ar prostatas iekaisumu mocījos jau sen. Jau biju gatavs operācijai, tomēr Exurol palīdzēja no tās izvairīties. Vispirms pārgāja sāpes un vēlmes iet uz tualeti skaits samazinājās, tad arī iekaisums pilnīgi pārgāja.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3462,11 +3462,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Rolands Klarks",
-        "text": "Es sen vairs neticu aptieku līdzekļiem. Kad ir nepieciešama palīdzību pa vīriešu līniju, paņēmu Deluron Forte. Dabīgs sastāvs un labi palīdz.",
+        "text": "Es sen vairs neticu aptieku līdzekļiem. Kad ir nepieciešama palīdzību pa vīriešu līniju, paņēmu Exurol. Dabīgs sastāvs un labi palīdz.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3492,8 +3492,8 @@
       },
 
       {
-        "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exurol",
         "rating_text": "Doskonała jakość!",
         "name": "Rolana Gravsa",
         "text": "Izsaku pateicību no sevis personīgi un mana vīra vārdā. Paldies par šādu lielisku līdzekli, ātro piegādi un konsultāciju. Vīram palīdzēja! Beidzot viņš ir atkal vesels!",
@@ -3971,13 +3971,13 @@
         ]
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Gabriela Vernosa",
-        "text": "Pilienus Exofeet Oil es izmēģināju jau pagājušajā gadā. Problēma izzuda un kopš tā laika nav parādījusies. Kāju āda un nagi ir veseli, nekas netraucē.",
+        "text": "Pilienus Desalix es izmēģināju jau pagājušajā gadā. Problēma izzuda un kopš tā laika nav parādījusies. Kāju āda un nagi ir veseli, nekas netraucē.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4003,11 +4003,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Olīvija Boltone",
-        "text": "Ar pirmajām līdzekļa Exofeet Oil lietošanas dienām izzuda nieze un nepatīkamā smaka. Turpinu lietot kursu veidā līdz pilnīgai problēmas novēršanai.",
+        "text": "Ar pirmajām līdzekļa Desalix lietošanas dienām izzuda nieze un nepatīkamā smaka. Turpinu lietot kursu veidā līdz pilnīgai problēmas novēršanai.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4033,11 +4033,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Lina Ivašesku",
-        "text": "Ar sēnīti es dzīvoju gadiem, bet izrādās, ka no tās var tik vienkārši atbrīvoties. Pateicoties Exofeet Oil esmu par to aizmirsusi un ceru, ka uz visiem laikiem!",
+        "text": "Ar sēnīti es dzīvoju gadiem, bet izrādās, ka no tās var tik vienkārši atbrīvoties. Pateicoties Desalix esmu par to aizmirsusi un ceru, ka uz visiem laikiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4063,11 +4063,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Dimitrijs Žehnads",
-        "text": "Man ir pozitīva līdzekļa Exofeet Oil lietošanas pieredze. Es atbrīvojos no sēnītes. Nieze, nepatīkama smaka, plaisas kāju āda ātri pārgāja!",
+        "text": "Man ir pozitīva līdzekļa Desalix lietošanas pieredze. Es atbrīvojos no sēnītes. Nieze, nepatīkama smaka, plaisas kāju āda ātri pārgāja!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4093,11 +4093,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_5.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_5.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Fernanda Toresa",
-        "text": "Exofeet Oil - tas ir lielisks līdzeklis! Ērti lietojams, ar patīkamu aromātu. Bet pats galvenais, ka palīdz. Novērš niezi un palīdz atbrīvoties no sēnītes.",
+        "text": "Desalix - tas ir lielisks līdzeklis! Ērti lietojams, ar patīkamu aromātu. Bet pats galvenais, ka palīdz. Novērš niezi un palīdz atbrīvoties no sēnītes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4123,11 +4123,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_6.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_6.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Amēlija Levansone",
-        "text": "Tagad ticu, ka ir iespējams atvadīties no nagu sēnītes dažās nedēļās. Es ar to mocījos mēnešiem. Paldies par Exofeet Oil!",
+        "text": "Tagad ticu, ka ir iespējams atvadīties no nagu sēnītes dažās nedēļās. Es ar to mocījos mēnešiem. Paldies par Desalix!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4153,11 +4153,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_7.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Lorenco Ibaness",
-        "text": "Sieva pasūtīja  Exofeet Oil, tika piegādāts pāris dienu laikā. Plaisas sadzija, nieze izzuda. Beidzot es atbrīvojos no nepatīkamās smakas 10 no 10!",
+        "text": "Sieva pasūtīja  Desalix, tika piegādāts pāris dienu laikā. Plaisas sadzija, nieze izzuda. Beidzot es atbrīvojos no nepatīkamās smakas 10 no 10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4183,8 +4183,8 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Ārija Dousona",
         "text": "Labs līdzeklis par pieejamu cenu. Palīdz pret sēnīti, likvidē visas infekcijas pazīmes un atjauno ādu un nagus. Esmu apmierināta par 100%!",
@@ -4213,11 +4213,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_9.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Līzija Laundesa",
-        "text": "Centos atbrīvoties no sēnītes ar dažādu krēmu un tautas līdzekļu palīdzību. Viss velti. Palīdzēja tikai Exofeet Oil. Ar pirmajām dienām pārgāja nieze, tad arī viss pārējais. Tagad man ir veselas kājiņas!",
+        "text": "Centos atbrīvoties no sēnītes ar dažādu krēmu un tautas līdzekļu palīdzību. Viss velti. Palīdzēja tikai Desalix. Ar pirmajām dienām pārgāja nieze, tad arī viss pārējais. Tagad man ir veselas kājiņas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4243,11 +4243,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Marta Godesa",
-        "text": "Par Exofeet Oil es zinu jau sen. Pēc savas pieredzes var teikt, ka tas ir labākais līdzeklis pret sēnīti! Pēc kursa - ne uz ādas, ne uz nagiem nepaliek nekādu pēdu!",
+        "text": "Par Desalix es zinu jau sen. Pēc savas pieredzes var teikt, ka tas ir labākais līdzeklis pret sēnīti! Pēc kursa - ne uz ādas, ne uz nagiem nepaliek nekādu pēdu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4273,11 +4273,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Paulīne Rekbeša",
-        "text": "Nesen pasūtīju Exofeet Oil, jau redzu rezultātu. Āda ir kļuvusi mitrāka, mīkstāka, bet pārragotā daļa ir mīkstinājusies. Ceru, ka drīz pārstāšu slēpt savus nagus slēgtos apavos..",
+        "text": "Nesen pasūtīju Desalix, jau redzu rezultātu. Āda ir kļuvusi mitrāka, mīkstāka, bet pārragotā daļa ir mīkstinājusies. Ceru, ka drīz pārstāšu slēpt savus nagus slēgtos apavos..",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4303,11 +4303,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Rolana Petrasku",
-        "text": "Ja ir nepieciešams efektīvs un lēts pretsēnīšu līdzeklis, iesaku Exofeet Oil! Ātri palīdz un ļauj aizmirst par šo sērgu uz visiem laikiem!",
+        "text": "Ja ir nepieciešams efektīvs un lēts pretsēnīšu līdzeklis, iesaku Desalix! Ātri palīdz un ļauj aizmirst par šo sērgu uz visiem laikiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4332,11 +4332,11 @@
         ]
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Ingrīda Šartona",
-        "text": "Lai tiktu galā ar sēnīti, ir jābūt ļoti pacietīgam. Problēma prasa ilgstošu terapiju, visi to zina. Tomēr ar Exofeet Oil palīdzību viss notika ātri un efektīvi. Viens kurss - un nagi!",
+        "text": "Lai tiktu galā ar sēnīti, ir jābūt ļoti pacietīgam. Problēma prasa ilgstošu terapiju, visi to zina. Tomēr ar Desalix palīdzību viss notika ātri un efektīvi. Viens kurss - un nagi!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4362,11 +4362,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Aleksandro Malbers",
-        "text": "Novelkot apavus, bija neērti smakas dēļ, sieva atnesa Exofeet Oil. Līdzeklis palīdzēja. Smakas nav, pēc apaviem kājas pārstāja niezēt. Jau pusgadu es nelietoju, tomēr problēma neatgriežas!",
+        "text": "Novelkot apavus, bija neērti smakas dēļ, sieva atnesa Desalix. Līdzeklis palīdzēja. Smakas nav, pēc apaviem kājas pārstāja niezēt. Jau pusgadu es nelietoju, tomēr problēma neatgriežas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4392,11 +4392,11 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Exofeet&nbsp;Oil",
+        "src": "img/review_desalix_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Desalix",
         "rating_text": "Doskonała jakość!",
         "name": "Ninele Lamberta",
-        "text": "Palīdzēja atbrīvoties no sēnītes vien dažās nedēļās! Ādas stāvoklis uzlabojās, nagi aug veseli un stipri. Esiet uzmanīgi, kad izvēlieties manikīra meistaru, bet vislabāk - turiet krājumā Exofeet Oil!",
+        "text": "Palīdzēja atbrīvoties no sēnītes vien dažās nedēļās! Ādas stāvoklis uzlabojās, nagi aug veseli un stipri. Esiet uzmanīgi, kad izvēlieties manikīra meistaru, bet vislabāk - turiet krājumā Desalix!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4421,10 +4421,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Luī Mizeress",
         "text": "Labs līdzeklis, iedarbīgs. Ir efekts, neizraisa blakusparādības. Pēc kursa palīdzēja pilnībā novērst problēmu.",
@@ -4453,11 +4453,11 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts Osteons",
-        "text": "Bija problēmas ejot uz tualeti, Feronex palīdzēja novērst. Izzuda sāpes, erekcija kļuva labāka un ilgāka. Nav pieraduma un blakusefektu.",
+        "text": "Bija problēmas ejot uz tualeti, Urosaf palīdzēja novērst. Izzuda sāpes, erekcija kļuva labāka un ilgāka. Nav pieraduma un blakusefektu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4483,11 +4483,11 @@
       },
 
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Hermanis Strocci",
-        "text": "Lietoju Feronex pagājušajā gadā. Kopš tā laika viss lieliski darbojas, \"draudziņš\" vienmēr ir gatavs! Bez problēmām un neveiksmēm!",
+        "text": "Lietoju Urosaf pagājušajā gadā. Kopš tā laika viss lieliski darbojas, \"draudziņš\" vienmēr ir gatavs! Bez problēmām un neveiksmēm!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4513,8 +4513,8 @@
       },
 
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Stella Šveicere",
         "text": "Pasūtīju vīram, kad parādījās problēmas. Palīdzēja! Vīrs beidzot kļuva tāds, kādu es viņu atceros no jaunības. Aktīvs, pārliecināts par sevi un kaislīgs!",
@@ -4543,8 +4543,8 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Lukjans Ross",
         "text": "Darbojas gandrīz uzreiz, pie tam ir uzkrājošs efekts. Pēc kursa problēmu ar erekciju vairs nebija.",
@@ -4573,8 +4573,8 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Panfils Ormando",
         "text": "Efekts ir, var savietot ar alkoholu, blakus īpašības neatklāju. Lietoju ka alternatīvu stimulatoriem, un pēc kursa pēc tiem vairs nepieciešamības nebija.",
@@ -4603,11 +4603,11 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Katarija Lousone",
-        "text": "Vīram ir 56, izvairīties no \"vīriešu\" problēmām šajā vecumā ir grūti. Paldies par Feronex, kas palīdzēja viņam tikt ar tām galā un atkal sajusties jaunam un veselam!",
+        "text": "Vīram ir 56, izvairīties no \"vīriešu\" problēmām šajā vecumā ir grūti. Paldies par Urosaf, kas palīdzēja viņam tikt ar tām galā un atkal sajusties jaunam un veselam!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4633,11 +4633,11 @@
       },
 
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Ričards Pikards",
-        "text": "Uz vecumu potence kļuva vājāka un iekāre saka dzist. Nolēmu izmēģināt Feronex. Efekts iespaidoja! Ja reizi pusgadā lietot kursu veidā, ar vīriešu problēmām var pat nesaskarties.",
+        "text": "Uz vecumu potence kļuva vājāka un iekāre saka dzist. Nolēmu izmēģināt Urosaf. Efekts iespaidoja! Ja reizi pusgadā lietot kursu veidā, ar vīriešu problēmām var pat nesaskarties.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4663,11 +4663,11 @@
       },
 
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Klauss Rollings",
-        "text": "Atšķirībā no plaši izplatītajiem un visiem zināmajiem stimulatoriem no Feronex nesāp galva. Ar katru dienu efekts kļūst labāks, tas nozīmē - pēc kursa var neko nelietot, tu vienmēr esi gatavs!",
+        "text": "Atšķirībā no plaši izplatītajiem un visiem zināmajiem stimulatoriem no Urosaf nesāp galva. Ar katru dienu efekts kļūst labāks, tas nozīmē - pēc kursa var neko nelietot, tu vienmēr esi gatavs!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4693,11 +4693,11 @@
       },
 
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Amēlija Rossetti",
-        "text": "Stresa darba dēļ vīram sākās problēmas. Pazīstams speciālists ieteica Feronex. Līdzeklis palīdzēja! Intīmā tuvība atjaunojās, ilgāk, biežāk un labāk!",
+        "text": "Stresa darba dēļ vīram sākās problēmas. Pazīstams speciālists ieteica Urosaf. Līdzeklis palīdzēja! Intīmā tuvība atjaunojās, ilgāk, biežāk un labāk!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4723,11 +4723,11 @@
       },
 
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Venēra Saverjena",
-        "text": "Vīrs sen jau lietoja stimulējošas tabletes. Blakusefekts bija nervozitāte un galvassāpes. Es uzstāju, ka ir jāaizvieto ar Feronex. Ir pagājis pusgads, kurs ir beidzies, un vīram pirms seksa tagad nav nepieciešama \"palīdzība\"!",
+        "text": "Vīrs sen jau lietoja stimulējošas tabletes. Blakusefekts bija nervozitāte un galvassāpes. Es uzstāju, ka ir jāaizvieto ar Urosaf. Ir pagājis pusgads, kurs ir beidzies, un vīram pirms seksa tagad nav nepieciešama \"palīdzība\"!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4753,11 +4753,11 @@
       },
 
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Čarlzs Parkers",
-        "text": "Feronex pasūtīju intereses pēc. Un efekts iespaidoja! Pie tam ātra piegāde un līdzeklis bija labi iepakots.",
+        "text": "Urosaf pasūtīju intereses pēc. Un efekts iespaidoja! Pie tam ātra piegāde un līdzeklis bija labi iepakots.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4783,8 +4783,8 @@
       },
 
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Kristofers Rinaldo",
         "text": "Efektīvs un drošs līdzeklis vīriešu veselībai. Un vēl par pieejamu cenu! Blakusefektus neatklāju.",
@@ -4813,8 +4813,8 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Edmunds Sivers",
         "text": "Laba palīdzība pie problēmām ar erekciju, kuras ir radušās dažādu iemeslu dēļ. 100% rezultāts! Pēc kursa es aizmirsu par problēmām.",
@@ -4843,8 +4843,8 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
         "rating_text": "Doskonała jakość!",
         "name": "Eduardo Ferrāns",
         "text": "Kopš pirmajām lietošanas dienām ir efekts. Sākām ar sievu biežāk meklēt vientulību. Viņa ir laimīga, apmierināta. Atkal jūtos jauns un spējīgs uz daudz ko!",
@@ -4872,13 +4872,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Henriete Loparesa",
-        "text": "Gadiem es cīnījos ar kāju sēnīti. Visiem līdzekļiem piemita tikai īslaicīgs efekts. Keramin man palīdzēja uz visiem laikiem aizmirst par šo problēmu. Tagad kājas un nagi ir veseli! Lieliski!",
+        "text": "Gadiem es cīnījos ar kāju sēnīti. Visiem līdzekļiem piemita tikai īslaicīgs efekts. Demyxil man palīdzēja uz visiem laikiem aizmirst par šo problēmu. Tagad kājas un nagi ir veseli! Lieliski!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4904,11 +4904,11 @@
       },
 
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Laura Valdosa",
-        "text": "Sen atklāju, ka visa kakla āda ir papilomās. Nolēmu izmēģināt krēmu Keramin. Palīdzēja. Diezgan efektīvs līdzeklis. Ātri atbrīvojos no papilomām, āda kļuva veselīga un mitrināta!",
+        "text": "Sen atklāju, ka visa kakla āda ir papilomās. Nolēmu izmēģināt krēmu Demyxil. Palīdzēja. Diezgan efektīvs līdzeklis. Ātri atbrīvojos no papilomām, āda kļuva veselīga un mitrināta!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4934,11 +4934,11 @@
       },
 
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Faina Dousone",
-        "text": "Atklāju uz elkoņiem plankumus, ļoti niezēja un lobījās. Pazīstams speciālists ieteica Keramin. Lielisks līdzeklis! Atvieglojums iestājās no pirmajām dienām, bet pēc lietošanas kursa problēma pilnīgi izzuda.",
+        "text": "Atklāju uz elkoņiem plankumus, ļoti niezēja un lobījās. Pazīstams speciālists ieteica Demyxil. Lielisks līdzeklis! Atvieglojums iestājās no pirmajām dienām, bet pēc lietošanas kursa problēma pilnīgi izzuda.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4964,11 +4964,11 @@
       },
 
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Bjanka Vilborna",
-        "text": "Man ir pozitīva krēma Keramin lietošanas pieredze. Lielisks un efektīvs produkts, kura sastāvā ir eļļas! Mīkstina ādu un palīdz cīnīties ar sēnīti.",
+        "text": "Man ir pozitīva krēma Demyxil lietošanas pieredze. Lielisks un efektīvs produkts, kura sastāvā ir eļļas! Mīkstina ādu un palīdz cīnīties ar sēnīti.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4994,8 +4994,8 @@
       },
 
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Kevins Reinoss",
         "text": "Labi palīdz pret dermatoloģiskām problēmām. Sievai palīdzēja atbrīvoties no papilomām, man - no psoriāzes. Blakusefektus neatklājām!",
@@ -5024,8 +5024,8 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Luīze Maiklsone",
         "text": "Pēc dažām lietošanas nedēļām, no sēnītes nepalika ne pēdu. Viss pārgāja. Izzuda plaisas, nieze gandrīz pilnīgi pārgāja. Diezgan efektīvi maskē nepatīkamo smaku!",
@@ -5054,11 +5054,11 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Orvela Spensere",
-        "text": "Hormonālo traucējumu dēļ sākās problēmas ar ādu. Sausums, plaisas, nieze, it īpašu uz ceļiem, galvas un elkoņiem. Palīdzēja tikai Keramin. Āda pilnīgi atjaunojās, bet nepatīkamie simptomi izzuda ar pirmajām lietošanas dienām!",
+        "text": "Hormonālo traucējumu dēļ sākās problēmas ar ādu. Sausums, plaisas, nieze, it īpašu uz ceļiem, galvas un elkoņiem. Palīdzēja tikai Demyxil. Āda pilnīgi atjaunojās, bet nepatīkamie simptomi izzuda ar pirmajām lietošanas dienām!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5084,8 +5084,8 @@
       },
 
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts TReidess",
         "text": "Labs pretiekaisuma līdzeklis. Pēc uzsmērēšanas neizrausa nepatīkamas sajūtas. Darbojas!",
@@ -5114,8 +5114,8 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Bobijs Servaross",
         "text": "Paldies par kvalitatīvo un efektīvo krēmu, ātro piegādi un konsultāciju. Griezīšos pie jums vēl!",
@@ -5144,8 +5144,8 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Taira Maltonesa",
         "text": "Palīdz ātri attīrīt ādu no papilomām, nepaliek rētas. Pēc lietošanas kursa, izauguma pārstāja veidoties uz kakla, pleciem un padusēs.",
@@ -5174,8 +5174,8 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Vera Ralfasa",
         "text": "Lielisks pretsēnīšu krēms! Ar pirmajām dienam novērš niezi un nepatīkamo smaku, ar laiku āda pilnīgi atjauninās un atjaunojas. Iesaku!",
@@ -5204,8 +5204,8 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Patrīcija Peladonsa",
         "text": "Efekts patīkami pārsteidza! Ar katru dienu plankumi kļuva aizvien mazāki, sadzija plaisas. Es ļoti apmierināta ar rezultātu!",
@@ -5234,8 +5234,8 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Lorena Pufosa",
         "text": "Nezinu neko efektīvāku pret nagu sēnīti. Likvidē nagu plātnes atslāņojumu, bojātais nags noaug, jaunais aug pilnīgi vesels. Palīdzēja viena kursa laikā!",
@@ -5264,8 +5264,8 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Dorians Terels",
         "text": "Iedarbīgs līdzeklis ar dabīgu sastāvu. Redzamas un jūtamas izmaiņas ar pirmajām lietošanas dienām. Pēdējā gada laikā nebija neviena psoriāzes recidīva.",
@@ -5294,11 +5294,11 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Karīna Poulsone",
-        "text": "Labākais krēms pret dermatoloģiskām problēmām. Novērtēju efektivitāti gan cīņā pret sēnītēm, gan papilomām. Pateicoties Keramin mana āda ir pilnīgi vesela!",
+        "text": "Labākais krēms pret dermatoloģiskām problēmām. Novērtēju efektivitāti gan cīņā pret sēnītēm, gan papilomām. Pateicoties Demyxil mana āda ir pilnīgi vesela!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5323,13 +5323,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Margarita Pitrella",
-        "text": "Tikai nesen pasūtīju gelu Neoveris. Pēc uzsmērēšanas ir patīkams atvēsinošs efekts. Jau pēc dažām dienām palika vieglāk, ir sākotnējs efekts.",
+        "text": "Tikai nesen pasūtīju gelu Vasaxal. Pēc uzsmērēšanas ir patīkams atvēsinošs efekts. Jau pēc dažām dienām palika vieglāk, ir sākotnējs efekts.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5355,8 +5355,8 @@
       },
 
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Lusija Armandesa",
         "text": "Efektīvs gels, kas noņem kāju smagumu un nogurumu. Pārgāja pulsējošas sāpes un sāpes staigājot, turpinu lietot.",
@@ -5385,8 +5385,8 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Ariadne Fantē",
         "text": "Pārgāja kāju tūska un smaguma sajūta, pārstāja traucēt krampji un vēnas kļuva mazāk manāmas. Iesaku!",
@@ -5415,8 +5415,8 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Leila Fergarosa",
         "text": "Lielisks un efektīvs līdzeklis, ātra piegāde, patīkami konsultanti. Paldies!",
@@ -5445,11 +5445,11 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Filats Barbesons",
-        "text": "Nopirku Neoveris mammai, viņa ir ļoti apmierināta. Saka, ka ir palicis daudz vieglāk, kājas mazāk pietūkst un nesāp!",
+        "text": "Nopirku Vasaxal mammai, viņa ir ļoti apmierināta. Saka, ka ir palicis daudz vieglāk, kājas mazāk pietūkst un nesāp!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5475,8 +5475,8 @@
       },
 
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Veronika Vaita",
         "text": "Asinsvadu tīklojums uz kājām ir kļuvis gandrīz nemanāms, noņem sāpes un novērš tūsku. Palīdz labi!",
@@ -5505,8 +5505,8 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Viktorija Laskesa",
         "text": "Patīkama un viegla konsistence, sastāvā augu komponenti, pieejama cena. Un pats galvenais - ir efektīvs!",
@@ -5535,8 +5535,8 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Tomass Loursons",
         "text": "Novērsa vēnu iekaisumu un ātri noņēma sāpes. Naktīs vairs nav krampju. Pat pēc smagas dienas nav smaguma sajūtas un pietūkuma.",
@@ -5565,11 +5565,11 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Glorija Lubreksa",
-        "text": "Neoveris man atgrieza kāju vieglumu. Pārstāja iekaist vēnas, izgaisa asinsvadu tīklojums. Pēc uzsmērēšanas ir ļoti patīkams efekts.",
+        "text": "Vasaxal man atgrieza kāju vieglumu. Pārstāja iekaist vēnas, izgaisa asinsvadu tīklojums. Pēc uzsmērēšanas ir ļoti patīkams efekts.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5595,11 +5595,11 @@
       },
 
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Kristofers Gebels",
-        "text": "Aktīvi nodarbojos ar sportu, tādēļ parādās zilumi un sāpes. Pēc Neoveris lietošanas šādu problēmu nav. Sāpes pāriet, pat pēc slodzes, nav problēmu.",
+        "text": "Aktīvi nodarbojos ar sportu, tādēļ parādās zilumi un sāpes. Pēc Vasaxal lietošanas šādu problēmu nav. Sāpes pāriet, pat pēc slodzes, nav problēmu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5625,11 +5625,11 @@
       },
 
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Frederika Alvaresa",
-        "text": "Nesen uzzināju par gelu Neoveris. Ļoti daudz pozitīvu atsauksmju. Rezultātu sajutu uzreiz, pārgāja smagums, vēnas vairs nav tik piepūtušās. Esmu apmierināta!",
+        "text": "Nesen uzzināju par gelu Vasaxal. Ļoti daudz pozitīvu atsauksmju. Rezultātu sajutu uzreiz, pārgāja smagums, vēnas vairs nav tik piepūtušās. Esmu apmierināta!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5655,11 +5655,11 @@
       },
 
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Žanete Vivalesa",
-        "text": "Man sen jau ir problēmas ar vēnām, saņēmu mantojumā. Es ļoti baidījos no operācijas, un Neoveris palīdzēja to novērst. Vēnas ir kļuvušas mazāk pamanāmas, ir izzudusi smaguma sajūta un sāpes, pārgājuši krampji.",
+        "text": "Man sen jau ir problēmas ar vēnām, saņēmu mantojumā. Es ļoti baidījos no operācijas, un Vasaxal palīdzēja to novērst. Vēnas ir kļuvušas mazāk pamanāmas, ir izzudusi smaguma sajūta un sāpes, pārgājuši krampji.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5685,8 +5685,8 @@
       },
 
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Ursula Nebelsone",
         "text": "Labs rezultāts! Uzreiz sajutu patīkamu atvieglojumu. Nakti nogulēju bez krampjiem un sāpēm. Turpināšu lietot.",
@@ -5715,11 +5715,11 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Raimoda Karmelesa",
-        "text": "Neoveris — tas ir labākais, ko esmu izmēģinājusi. Es jau biju vīlusies gelos un krēmos, bet pēc Neoveris es sapratu, ka labs līdzeklis var palīdzēt cīņā ar vēnu paplašinājumiem!",
+        "text": "Vasaxal — tas ir labākais, ko esmu izmēģinājusi. Es jau biju vīlusies gelos un krēmos, bet pēc Vasaxal es sapratu, ka labs līdzeklis var palīdzēt cīņā ar vēnu paplašinājumiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5745,11 +5745,11 @@
       },
 
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Ernests Volress",
-        "text": "Sieva lieto Neoveris, viņai kopš jaunības ir problēmas ar vēnām. Ar rezultātu ir apmierināta. Pēdējā pusgad laikā nav sūdzējusies par veselību un uz kājām vēnas gandrīz nav redzamas.",
+        "text": "Sieva lieto Vasaxal, viņai kopš jaunības ir problēmas ar vēnām. Ar rezultātu ir apmierināta. Pēdējā pusgad laikā nav sūdzējusies par veselību un uz kājām vēnas gandrīz nav redzamas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5774,13 +5774,13 @@
         ]
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Mērija Lučesku",
-        "text": "Kad sākās problēmas ar dzirdi, es ilgi meklēju līdzekli. Ieteica Ottomax+. Viennozīmīgi - efekts ir! Pārstāju pārjautāt sarunu biedriem. Un maksā lēti!",
+        "text": "Kad sākās problēmas ar dzirdi, es ilgi meklēju līdzekli. Ieteica Ausen. Viennozīmīgi - efekts ir! Pārstāju pārjautāt sarunu biedriem. Un maksā lēti!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5806,8 +5806,8 @@
       },
 
       {
-        "src": "img/review_ottomax_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Frederika Garsija",
         "text": "Lielisks līdzeklis dzirdes atjaunošanai. Pozitīvas izmaiņas es pamanīju jau pēc dažām nedēļām. Ja jūs strādājat trokšņainā ražotnē, var lietot profilakses nolūkos.",
@@ -5836,8 +5836,8 @@
       },
 
       {
-        "src": "img/review_ottomax_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Mišels Farcio",
         "text": "Labi palīdz pret sāpēm un troksni ausīs. Palīdz novērst zvanīšanu. Plusi - efektivitāte, dabīgs sastāvs, pieejama cena.",
@@ -5866,11 +5866,11 @@
       },
 
       {
-        "src": "img/review_ottomax_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Orlando Lortess",
-        "text": "Mēnešiem mocījos ar ausu pilieniem, līdz uzzināju par Ottomax+. Daudz ērtāk lietojams un ir rezultāts. Saku labāk dzirdēt, izzuda zvanīšana ausīs.",
+        "text": "Mēnešiem mocījos ar ausu pilieniem, līdz uzzināju par Ausen. Daudz ērtāk lietojams un ir rezultāts. Saku labāk dzirdēt, izzuda zvanīšana ausīs.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5896,8 +5896,8 @@
       },
 
       {
-        "src": "img/review_ottomax_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Tolmašs Olovecki",
         "text": "Palīdz problēmu ar dzirdi gadījumā. Efektīvs pie iekaisumiem (lietoju, kad man bija otīts, un viss pārgāja). Noņem sāpes.",
@@ -5926,11 +5926,11 @@
       },
 
       {
-        "src": "img/review_ottomax_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Džūlija Taroksa",
-        "text": "Novērtēju Ottomax+ efektivitāti, kad pēc koncerta zaudēju dzirdi. Palīdz. Liels pluss, ka līdzeklis ir kapsulu, nevis pilienu veidā.",
+        "text": "Novērtēju Ausen efektivitāti, kad pēc koncerta zaudēju dzirdi. Palīdz. Liels pluss, ka līdzeklis ir kapsulu, nevis pilienu veidā.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5956,11 +5956,11 @@
       },
 
       {
-        "src": "img/review_ottomax_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Gabriels Martinos",
-        "text": "Pēc gripas radās sarežģījumi ar dzirdi. Briesmīgi sāpēja, parādījās troksnis ausīs. Tabletes noņēma sāpes, tomēr pilnīgi atjaunot dzirdi palīdzēja vien Ottomax+. Tagad iesaku paziņām un draugiem!",
+        "text": "Pēc gripas radās sarežģījumi ar dzirdi. Briesmīgi sāpēja, parādījās troksnis ausīs. Tabletes noņēma sāpes, tomēr pilnīgi atjaunot dzirdi palīdzēja vien Ausen. Tagad iesaku paziņām un draugiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5986,11 +5986,11 @@
       },
 
       {
-        "src": "img/review_ottomax_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Henriete Jorka",
-        "text": "Uz vecumu sāka strauji pasliktināties dzirde. Pazīstams speciālists ieteica Ottomax+. Un tas tiešām darbojas! Atbrīvoja mani no trokšņa, kas mani pastāvīgi vajāja.",
+        "text": "Uz vecumu sāka strauji pasliktināties dzirde. Pazīstams speciālists ieteica Ausen. Un tas tiešām darbojas! Atbrīvoja mani no trokšņa, kas mani pastāvīgi vajāja.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6016,8 +6016,8 @@
       },
 
       {
-        "src": "img/review_ottomax_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_9.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Alberts Debores",
         "text": "Līdzeklis palīdz. Paldies par ātro piegādi līdz durvīm un iespēju pasūtīt caur internetu. Konsultanti ir laipni un atbild uz visiem jautājumiem.",
@@ -6046,11 +6046,11 @@
       },
 
       {
-        "src": "img/review_ottomax_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Helēna Kortesa",
-        "text": "Pasūtīju Ottomax+ vecmāmiņai. Viņa saka un es redzu, ka viņas dzirde uzlabojas. Vēl saka, ka ir sākusi labāk gulēt. Tātad var palīdzēt pie vecuma problēmām!",
+        "text": "Pasūtīju Ausen vecmāmiņai. Viņa saka un es redzu, ka viņas dzirde uzlabojas. Vēl saka, ka ir sākusi labāk gulēt. Tātad var palīdzēt pie vecuma problēmām!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6076,8 +6076,8 @@
       },
 
       {
-        "src": "img/review_ottomax_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_11.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Lukas Barbardess",
         "text": "Palīdzēja atbrīvoties no ausu aizkrišanas sajūtas un zvanīšanas. Sāku labāk dzirdēt. Rezultāta nostiprināšanai, domāju izlietot vēl vienu kursu.",
@@ -6106,8 +6106,8 @@
       },
 
       {
-        "src": "img/review_ottomax_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Agnese Bartoksa",
         "text": "Lielisks ausu veselības līdzeklis. Bagātīgs un dabīgs sastāvs, efektivitāte, minimums kontrindikāciju. Un vēl par tādu cenu! Lieliski!",
@@ -6136,11 +6136,11 @@
       },
 
       {
-        "src": "img/review_ottomax_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Salma Foreksize",
-        "text": "Ottomax+ iegādājos ne pirmo reizi. Palīdz pret hroniskam kaitēm un pret vecuma dzirdes traucējumiem. Lietoju arī iekaisumu gadījumos. Esmu ļoti apmierināta ar līdzekli!",
+        "text": "Ausen iegādājos ne pirmo reizi. Palīdz pret hroniskam kaitēm un pret vecuma dzirdes traucējumiem. Lietoju arī iekaisumu gadījumos. Esmu ļoti apmierināta ar līdzekli!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6166,8 +6166,8 @@
       },
 
       {
-        "src": "img/review_ottomax_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Moriss Štrauss",
         "text": "Šis līdzeklis palīdzējam man izvairīties no operācijas un tikt vaļā no dzirdes aparāta. Lietoju vairākus kursus gadā, kā to ieteica speciālists. Dzirdu labi, nav nekādu problēmu ar dzirdi.",
@@ -6196,11 +6196,11 @@
       },
 
       {
-        "src": "img/review_ottomax_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;OTTOMAX+",
+        "src": "img/review_ausen_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Ausen",
         "rating_text": "Doskonała jakość!",
         "name": "Klarisa Mormosa",
-        "text": "Es strādāju trokšņainā telpā un tas negatīvi ir ietekmējis dzirdi. Bet Ottomax+ es esmu sākusi dzirdēt daudz labāk, vakara cēlienā vairs nav trokšņa ausīs, pat miegs ir uzlabojies! Izsaku pateicību par kvalitatīvo un efektīvo līdzekli!",
+        "text": "Es strādāju trokšņainā telpā un tas negatīvi ir ietekmējis dzirdi. Bet Ausen es esmu sākusi dzirdēt daudz labāk, vakara cēlienā vairs nav trokšņa ausīs, pat miegs ir uzlabojies! Izsaku pateicību par kvalitatīvo un efektīvo līdzekli!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -7871,7 +7871,7 @@
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Modests Anvari",
-        "text": "Pirms 3 gadiem man uzstādīja diagnozi, izmēģināju dažādus līdzekļus un atjaunošanas shēmas. Palīdzēja tikai Deluron Forte. Pasūtīju internetā ar kurjera piegādi.",
+        "text": "Pirms 3 gadiem man uzstādīja diagnozi, izmēģināju dažādus līdzekļus un atjaunošanas shēmas. Palīdzēja tikai Exurol. Pasūtīju internetā ar kurjera piegādi.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -7961,7 +7961,7 @@
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Stefans Rodrigezs",
-        "text": "Cīņai ar prostatītu tika patērēts daudz naudas un spēka. Bet izrādījās, risinājums bija lēts un efektīvs. Palīdzēja Deluron Forte. Ar pirmajām dienām palika labāk.",
+        "text": "Cīņai ar prostatītu tika patērēts daudz naudas un spēka. Bet izrādījās, risinājums bija lēts un efektīvs. Palīdzēja Exurol. Ar pirmajām dienām palika labāk.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -7991,7 +7991,7 @@
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Oto Zegers",
-        "text": "Neticēju tamlīdzīgu brīnumlīdzekļu spējām, līdz izmēģināju Deluron Forte. Noņēma sāpju sindromu, iekaisumu un pastāvīgo vēlmi iet uz tualeti. Līdzeklis darbojas!",
+        "text": "Neticēju tamlīdzīgu brīnumlīdzekļu spējām, līdz izmēģināju Exurol. Noņēma sāpju sindromu, iekaisumu un pastāvīgo vēlmi iet uz tualeti. Līdzeklis darbojas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8021,7 +8021,7 @@
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Klaudija Ludersa",
-        "text": "Vīrs lietoja Deluron Forte. Sīkumos viņš ar mani nedalījās, bet garastāvoklis viņam uzlabojās. Pie tam atjaunojās intīmā dzīve. Laikam palīdz, ja viņa uzvedība ir tā mainījusies.",
+        "text": "Vīrs lietoja Exurol. Sīkumos viņš ar mani nedalījās, bet garastāvoklis viņam uzlabojās. Pie tam atjaunojās intīmā dzīve. Laikam palīdz, ja viņa uzvedība ir tā mainījusies.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8051,7 +8051,7 @@
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Doloresa Krouforde",
-        "text": "Deluron Forte nopirku tēvocim. Operācijai bija kontrindikācijas, citu variantu nebija, cerējām tikai uz Deluron Forte. Un tas palīdzēja! Pēc kursa izdzeršanas, prostatas izmēri ir normas robežās!",
+        "text": "Exurol nopirku tēvocim. Operācijai bija kontrindikācijas, citu variantu nebija, cerējām tikai uz Exurol. Un tas palīdzēja! Pēc kursa izdzeršanas, prostatas izmēri ir normas robežās!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8081,7 +8081,7 @@
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts Voravskis",
-        "text": "Nezinu neko efektīvāku par Deluron Forte. Ātri novērš sāpes, samazina vēlmes iet uz tualeti skaitu. Dzīve ir kļuvusi labāka!",
+        "text": "Nezinu neko efektīvāku par Exurol. Ātri novērš sāpes, samazina vēlmes iet uz tualeti skaitu. Dzīve ir kļuvusi labāka!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8111,7 +8111,7 @@
         "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Doskonała jakość!",
         "name": "Anna Veltibora",
-        "text": "Vīram bija problēmas, lai novērstu iekaisumu un sāpes, izmēģinājām daudz ko. Viņš saka, ka efektu sajuta tikai pēc Deluron Forte.",
+        "text": "Vīram bija problēmas, lai novērstu iekaisumu un sāpes, izmēģinājām daudz ko. Viņš saka, ka efektu sajuta tikai pēc Exurol.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8166,13 +8166,13 @@
         ]
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Viktorija Vēbere",
-        "text": "Wintex Ultra jau pirmajās dienās likvidēja kāju tūsku un smaguma sajūtu. Kļuva daudz vieglāk. Efektīva palīdzība cilvēkiem, kuri cieš no varikozēm.",
+        "text": "Trovazin jau pirmajās dienās likvidēja kāju tūsku un smaguma sajūtu. Kļuva daudz vieglāk. Efektīva palīdzība cilvēkiem, kuri cieš no varikozēm.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8198,11 +8198,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Marsels Lučiano",
-        "text": "Pagājušajā nedēļā izmēģināju Wintex Ultra. Labs gels, ar pirmo lietošanu sajutu atvieglojumu. Turpināšu lietot.",
+        "text": "Pagājušajā nedēļā izmēģināju Trovazin. Labs gels, ar pirmo lietošanu sajutu atvieglojumu. Turpināšu lietot.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8228,11 +8228,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Doriana Petraka",
-        "text": "Wintex Ultra ir lielisks gels ar patīkamu atvēsinošu efektu. Ātri uzsūcas un dāvā atvieglojuma sajūtu! Esmu apmierināta par 100%!",
+        "text": "Trovazin ir lielisks gels ar patīkamu atvēsinošu efektu. Ātri uzsūcas un dāvā atvieglojuma sajūtu! Esmu apmierināta par 100%!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8258,8 +8258,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Aļona Sparksa",
         "text": "Izzuda tūskas un smagums, pārstāja sāpēt ikri. Atsevišķs paldies par ātro piegādi un detalizēto konsultāciju pa telefonu.",
@@ -8288,11 +8288,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Džošua Martins",
-        "text": "Dēls lieto Wintex Ultra un ieteica arī man. Lielisks gels tiem, kuriem nākas dzīvot ar varikozi vai visa diena jāpavada stāvus. Noņem smagumu, sāpes, tūskas.",
+        "text": "Dēls lieto Trovazin un ieteica arī man. Lielisks gels tiem, kuriem nākas dzīvot ar varikozi vai visa diena jāpavada stāvus. Noņem smagumu, sāpes, tūskas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8318,11 +8318,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_6.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Izabella Mordano",
-        "text": "Izmetu visus krēmus un ziedes, atstāju tikai Wintex Ultra. Lielisks līdzeklis par patīkamu cenu. Palīdz! Efektu jūtu uzreiz pēc uzklāšanas!",
+        "text": "Izmetu visus krēmus un ziedes, atstāju tikai Trovazin. Lielisks līdzeklis par patīkamu cenu. Palīdz! Efektu jūtu uzreiz pēc uzklāšanas!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8348,11 +8348,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Alba Rimmele",
-        "text": "Pēc gela Wintex Ultra vēnas tiešām ir kļuvušas mazāk redzamas. Izzudis ir asinsvadu tīklojums. Divas reizes gadā lietoju Wintex Ultra kursu veidā un nav nekādu problēmu!",
+        "text": "Pēc gela Trovazin vēnas tiešām ir kļuvušas mazāk redzamas. Izzudis ir asinsvadu tīklojums. Divas reizes gadā lietoju Trovazin kursu veidā un nav nekādu problēmu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8378,11 +8378,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Violeta Ronaldo",
-        "text": "Pasūtīju Wintex Ultra mammai, viņa ir ļoti apmierināta. Saka, ka viņai ar gelu ir kļuvis daudz vieglāk. Kājas mazāk pietūkst, krampji un sāpes vairs netraucē.",
+        "text": "Pasūtīju Trovazin mammai, viņa ir ļoti apmierināta. Saka, ka viņai ar gelu ir kļuvis daudz vieglāk. Kājas mazāk pietūkst, krampji un sāpes vairs netraucē.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8408,11 +8408,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_9.png",
+        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Zāra Ferrāna",
-        "text": "Wintex Ultra likvidē sāpes, vēnas un asinsvadu tīklojums kļūst aizvien mazāk pamanāms. Ērti, ka pēc tā nekur nav jāiet, var pasūtīt internetā un saņemt pie durvīm.",
+        "text": "Trovazin likvidē sāpes, vēnas un asinsvadu tīklojums kļūst aizvien mazāk pamanāms. Ērti, ka pēc tā nekur nav jāiet, var pasūtīt internetā un saņemt pie durvīm.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8438,8 +8438,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Frederika Suaresa",
         "text": "Lielisks gels! Ātri uzsūcas, dāvā patīkamu vēsumu, tam ir viegla konsistence un patīkams aromāts. Lietoju otro nedēļu, jau jūtu rezultātu.",
@@ -8468,11 +8468,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Elīza Darrona",
-        "text": "Izmēģināju dažādas smēres un krēmus pret varikozi, tomēr Wintex Ultra - tas ir vislabākais līdzeklis. Lielisks dabīgais sastāvs un efektīva iedarbība. Smagums kājās ir pārgājis, jūtu vieglumu!",
+        "text": "Izmēģināju dažādas smēres un krēmus pret varikozi, tomēr Trovazin - tas ir vislabākais līdzeklis. Lielisks dabīgais sastāvs un efektīva iedarbība. Smagums kājās ir pārgājis, jūtu vieglumu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8498,8 +8498,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Tīna Alsara",
         "text": "Pēc lietošanas kursa kājas pārstāja sāpēt, pazuda krampji un pietūkums! Vēnas vairs neiekaist. Plānoju nostiprināt rezultātu atkārtota kursa laikā.",
@@ -8527,8 +8527,8 @@
         ]
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_13.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Markuss Lobio",
         "text": "Gels ir efektīvs un tam ir pieejama cena. Neatceros, ka vēl kāds līdzeklis varētu uz ilgu laiku atbrīvot no smaguma sajūtas kājās. Esmu apmierināts ar iedarbību un efektivitāti!",
@@ -8557,11 +8557,11 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_14.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Laura Česneja",
-        "text": "Ar Wintex Ultra palīdzību ir atgriezies kāju vieglums un esmu atbrīvojusies no asinsvadu zvaigznītēm. Plusi: Labs sastāvs, viegla tekstūra un patīkams aromāts. Mīnusu nav!",
+        "text": "Ar Trovazin palīdzību ir atgriezies kāju vieglums un esmu atbrīvojusies no asinsvadu zvaigznītēm. Plusi: Labs sastāvs, viegla tekstūra un patīkams aromāts. Mīnusu nav!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8587,8 +8587,8 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Wintex&nbsp;Ultra",
+        "src": "img/review_trovazin_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Trovazin",
         "rating_text": "Doskonała jakość!",
         "name": "Ketlīna Tomsone",
         "text": "Patīkami atvēsina, noņem sāpes, naktīs vairs netraucē krampji. Efektu sajutu kopš pirmajam dienām un ar katru dienu kļuva aizvien labāk!",
@@ -8616,10 +8616,10 @@
         ]
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_1.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Džeremi Klosaks",
         "text": "Palīdzēja man atrisinās manas \"vīrišķās problēmas\". Nestāstīšu detalizēti, bet erekcija atgriezās ar jaunu spēku. Pietiek ilgam laikam!",
@@ -8648,8 +8648,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_2.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Ljuberts Ferdinezs",
         "text": "Darbojas kā vajag. Pēdējo mēnešu laikā - neviena atteikuma. Bez pieraduma un blakusefektiem.",
@@ -8678,8 +8678,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Barbara Delaskona",
         "text": "Pasūtīju vīram, kad mums parādījās problēmas seksā. Viss kļuva daudz labāk, biežāk un ilgāk. Izrādās, ka mans vīrs vēl spēj pārsteigt!",
@@ -8708,11 +8708,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_4.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Djego Santjago",
-        "text": "Ar vecumu katrs vīrietis var saskarties ar intīma veida problēmām. Man arī tādas bija līdz es izmēģināju Wirex men`s formula. Iesaku!",
+        "text": "Ar vecumu katrs vīrietis var saskarties ar intīma veida problēmām. Man arī tādas bija līdz es izmēģināju Viarex. Iesaku!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8738,11 +8738,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_5.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_5.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Klaudija Elkasara",
-        "text": "Man pēdējā laika pārsteidza vīra uzvedība, it kā jaunība būtu atgriezusies. Un tad es viņa somā atradu Wirex men`s formula un visu sapratu.",
+        "text": "Man pēdējā laika pārsteidza vīra uzvedība, it kā jaunība būtu atgriezusies. Un tad es viņa somā atradu Viarex un visu sapratu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8768,8 +8768,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_6.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Lučio Markess",
         "text": "Maigs un ilgstošs efekts, var lietot kopā ar alkoholu un nekaitē veselībai.",
@@ -8798,8 +8798,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_7.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Tomašs Žardeks",
         "text": "Kursa laikā var pilnīgi atjaunot jūsu \"spēku\". Pēc kursa beigām efekts saglabājas. Blakusparādību man nebija.",
@@ -8828,11 +8828,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_8.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_8.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Dafne Fokstrīta",
-        "text": "Stresa dēļ manam vīram sākās \"vīriešu problēmas\". Pierunāju izmēģināt Wirex men`s formula, tas palīdzēja! Viņam atgriezās vēlme, sekss ir katru dienu!",
+        "text": "Stresa dēļ manam vīram sākās \"vīriešu problēmas\". Pierunāju izmēģināt Viarex, tas palīdzēja! Viņam atgriezās vēlme, sekss ir katru dienu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8858,11 +8858,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_9.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_9.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Rebeka Štrausone",
-        "text": "Lielisks līdzeklis. Vīrs ir apmierināts ar Wirex men`s formula, bet es beidzot esmu apmierināta ar vīru. Pat nedomāju, ka viņš ir spējīgs turēties stundām!",
+        "text": "Lielisks līdzeklis. Vīrs ir apmierināts ar Viarex, bet es beidzot esmu apmierināta ar vīru. Pat nedomāju, ka viņš ir spējīgs turēties stundām!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8888,8 +8888,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Augustīns Peters",
         "text": "Lielisks līdzeklis, palīdz! Paldies par konsultāciju un piegādi līdz durvīm. Efekts parādījās ar pirmajām lietošanas dienām.",
@@ -8918,8 +8918,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_11.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Orlando Dairess",
         "text": "Labākais līdzeklis analogu vidū. Plusi: pietiek izlietot kursu un efekts saglabājas, var lietot kopā ar alkoholu, neizraisa blakusparādības.",
@@ -8948,8 +8948,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Ļena Gavroša",
         "text": "Liels paldies par tādu kvalitatīvu līdzekli gan no manis, gan no vīra. Tas atgrieza mūsu dzīvē intīmo tuvību, palīdzēja saglabāt ģimeni!",
@@ -8978,8 +8978,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_13.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Lukjans Mornašs",
         "text": "Efekts ir, spiedienu nepaceļ, savietojams ar alkoholu. Pēc kursa rezultāts saglabājas. Pēc manām domām - labākais šīs kategorijas produkts.",
@@ -9008,8 +9008,8 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Mihaels Vernandes",
         "text": "Uzbudinoša lieta, ilga potence un pastiprinātas sajūtas. Pietam par diezgan pieejamu cenu. Mīnusus neatklāju.",
@@ -9038,11 +9038,11 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "src": "img/review_viarex_15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts Vains",
-        "text": "Es īpaši neticēju, ka Wirex men`s formula var palīdzēt, bet es kļūdījos. Rezultātu sajutu no pirmajām dienām, pēc kursa veselība atjaunojās, problēmu ar \"draudziņu\" vairs nebija.",
+        "text": "Es īpaši neticēju, ka Viarex var palīdzēt, bet es kļūdījos. Rezultātu sajutu no pirmajām dienām, pēc kursa veselība atjaunojās, problēmu ar \"draudziņu\" vairs nebija.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9964,13 +9964,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Aija Mežavilka",
-        "text": "Rectin - ir lielisks gels. Jau pēc nedēļas man pārgāji visi hemoroīdu simptomi. Nevar ne salīdzināt ar visādām svecītēm. Man to ieteica mans eksperts, un es viņam ļoti uzticos.",
+        "text": "Vasos Duo - ir lielisks gels. Jau pēc nedēļas man pārgāji visi hemoroīdu simptomi. Nevar ne salīdzināt ar visādām svecītēm. Man to ieteica mans eksperts, un es viņam ļoti uzticos.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9996,11 +9996,11 @@
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Zane Ķiršteina",
-        "text": "Ar šīm šausmām es dzīvoju 5 gadus. Vispirms viss bija vieglā formā, vienkārši nieze, diskomforts. Tad sākas paasinājumi, parādījās asiņošanas, stipras sāpes. Smērēju krēmus, liku svecītes, nekas nepalīdzēja. Pateicoties Rectin mēneša laikā viss pārgāja.",
+        "text": "Ar šīm šausmām es dzīvoju 5 gadus. Vispirms viss bija vieglā formā, vienkārši nieze, diskomforts. Tad sākas paasinājumi, parādījās asiņošanas, stipras sāpes. Smērēju krēmus, liku svecītes, nekas nepalīdzēja. Pateicoties Vasos Duo mēneša laikā viss pārgāja.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10026,11 +10026,11 @@
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Inese Gailīte",
-        "text": "Man ir problēmas ar hemoroīdiem gandrīz gadu, izmēģināju ziedes un svecītes un pat tautas līdzekļus. Domāju, ka nāksies tā dzīvot visu mūžu. Tomēr pēc 2 nedēļām Rectin lietošanas, viss pārgāja! Esmu ļoti apmierināta.",
+        "text": "Man ir problēmas ar hemoroīdiem gandrīz gadu, izmēģināju ziedes un svecītes un pat tautas līdzekļus. Domāju, ka nāksies tā dzīvot visu mūžu. Tomēr pēc 2 nedēļām Vasos Duo lietošanas, viss pārgāja! Esmu ļoti apmierināta.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10056,11 +10056,11 @@
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Evija Vērdiņa",
-        "text": "Hemoroīdi man parādījās pēc antibiotiku kursa. Bija 2 mezgli. Eksperts nozīmēja sveces, no sākuma palika vieglāk, bet pēc tam sāpes atgriezās, uz tualeti iet bija ļoti sāpīgi. Par Rectin es lasīju daudz labu atsauksmju. Nolēmu nopirkt. Izlietoju kursu un problēmas vairs nav. Lielisks gels!",
+        "text": "Hemoroīdi man parādījās pēc antibiotiku kursa. Bija 2 mezgli. Eksperts nozīmēja sveces, no sākuma palika vieglāk, bet pēc tam sāpes atgriezās, uz tualeti iet bija ļoti sāpīgi. Par Vasos Duo es lasīju daudz labu atsauksmju. Nolēmu nopirkt. Izlietoju kursu un problēmas vairs nav. Lielisks gels!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10086,11 +10086,11 @@
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Raimonds Liepiņš",
-        "text": "Rectin nostiprina asinsvadu sieniņas un noņem sāpes. Pirms lietošanas konsultējos ar ekspertu, pazīstamu sievieti, viņa atzina par labu. Nekādi populāri ķīmiski līdzekļi nespēja tā palīdzēt, kā šis gels uz augu bāzes.",
+        "text": "Vasos Duo nostiprina asinsvadu sieniņas un noņem sāpes. Pirms lietošanas konsultējos ar ekspertu, pazīstamu sievieti, viņa atzina par labu. Nekādi populāri ķīmiski līdzekļi nespēja tā palīdzēt, kā šis gels uz augu bāzes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10116,11 +10116,11 @@
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Edgars Pētersons",
-        "text": "Eksperts man atklājas 2 milzīgus bumbuļus un ieteica iziet Rectin kursu. Efekts iestājās jau 3 dienas pēc lietošanas uzsākšanas. Gels ar vieglu atvēsinošu efektu, noņem sāpes, niezi un diskomfortu.",
+        "text": "Eksperts man atklājas 2 milzīgus bumbuļus un ieteica iziet Vasos Duo kursu. Efekts iestājās jau 3 dienas pēc lietošanas uzsākšanas. Gels ar vieglu atvēsinošu efektu, noņem sāpes, niezi un diskomfortu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10146,11 +10146,11 @@
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Antra Strazdiņa",
-        "text": "Man bija ielaista hemoroīdu stadija, gatavojās veikt operāciju. Bet māsa ieteica izmēģināt Rectin. To lietoju tikai 1,5 mēnešus - pārgāja iekaisums un bumbuļi, izzuda sāpes un iekaisums.",
+        "text": "Man bija ielaista hemoroīdu stadija, gatavojās veikt operāciju. Bet māsa ieteica izmēģināt Vasos Duo. To lietoju tikai 1,5 mēnešus - pārgāja iekaisums un bumbuļi, izzuda sāpes un iekaisums.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10176,11 +10176,11 @@
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Vita Čepule",
-        "text": "Pēc dzemdībām parādījās hemoroīdi. Mēnesi lietoju Rectin un šis laiks bija pietiekams problēmas novēršanai. Mezgli sāka uzsūkties, normalizējās defekācija, pārgāja sāpes, nekādu nepatīkamu sajūtu. Tā, ka - iesaku no visas sirds.",
+        "text": "Pēc dzemdībām parādījās hemoroīdi. Mēnesi lietoju Vasos Duo un šis laiks bija pietiekams problēmas novēršanai. Mezgli sāka uzsūkties, normalizējās defekācija, pārgāja sāpes, nekādu nepatīkamu sajūtu. Tā, ka - iesaku no visas sirds.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10206,11 +10206,11 @@
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_9.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Sieviete",
-        "text": "Rectin - ir ļoti labs līdzeklis, tiešam darbojas un palīdz. Man bija stipri aizcietējumi un attīstījās hemoroīdi. Rectin man ieteica draudzene, par ko es esmu viņai ļoti pateicīga. Viss pārgāja!",
+        "text": "Vasos Duo - ir ļoti labs līdzeklis, tiešam darbojas un palīdz. Man bija stipri aizcietējumi un attīstījās hemoroīdi. Vasos Duo man ieteica draudzene, par ko es esmu viņai ļoti pateicīga. Viss pārgāja!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10236,11 +10236,11 @@
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Valters Jansons",
-        "text": "Gelu lietot ir ērti. Daudz labāk par svecītēm un treknām ziedēm. Efekts ir lielisks - Rectin noņem iekaisumu un sāpes, nostiprina asinsvadu sieniņas, novērš visus hemoroīdu simptomus. Iesaku visiem, kuriem ir šī problēma.",
+        "text": "Gelu lietot ir ērti. Daudz labāk par svecītēm un treknām ziedēm. Efekts ir lielisks - Vasos Duo noņem iekaisumu un sāpes, nostiprina asinsvadu sieniņas, novērš visus hemoroīdu simptomus. Iesaku visiem, kuriem ir šī problēma.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10266,11 +10266,11 @@
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Solvita Akmentiņa",
-        "text": "Man bija 2 stadijas hemoroīdi. Eksperts izrakstīja svecītes un ziedi, 10 dienas - no rīta un vakarā. Nepalīdzēja. Tad viņš sāka uzstāt uz operāciju. Labi, ka es laikā atradu Rectin. Izlietoju kursu un aizmirsu par problēmu, kā par ļaunu murgu.",
+        "text": "Man bija 2 stadijas hemoroīdi. Eksperts izrakstīja svecītes un ziedi, 10 dienas - no rīta un vakarā. Nepalīdzēja. Tad viņš sāka uzstāt uz operāciju. Labi, ka es laikā atradu Vasos Duo. Izlietoju kursu un aizmirsu par problēmu, kā par ļaunu murgu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10296,11 +10296,11 @@
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Madara Grēviņa",
-        "text": "Man šī problēma parādījās pēc otrajām dzemdībām. Internetā es izlasīju lielu daudzumu informācijas, glābos ar dažādiem līdzekļiem, bet viss bija bezjēdzīgi. Palīdzēja tikai Rectin! Līdz pat šim laikam glabāju vienu paciņu visādam gadījumam.",
+        "text": "Man šī problēma parādījās pēc otrajām dzemdībām. Internetā es izlasīju lielu daudzumu informācijas, glābos ar dažādiem līdzekļiem, bet viss bija bezjēdzīgi. Palīdzēja tikai Vasos Duo! Līdz pat šim laikam glabāju vienu paciņu visādam gadījumam.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10326,11 +10326,11 @@
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Ivars Lācis",
-        "text": "Sen jau meklēju līdzekli uz trokserutīna bāzes. Tam piemīt pretiekaisuma un prettūskas efekts, pašlaik pats efektīvākais iedarbīgais līdzeklis. Atradu Rectin, lietoju 2 nedēļas, hemoroīdu vairs nav.",
+        "text": "Sen jau meklēju līdzekli uz trokserutīna bāzes. Tam piemīt pretiekaisuma un prettūskas efekts, pašlaik pats efektīvākais iedarbīgais līdzeklis. Atradu Vasos Duo, lietoju 2 nedēļas, hemoroīdu vairs nav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10356,11 +10356,11 @@
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_14.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Liena Balode",
-        "text": "Parādījās stiprs diskomforts, eksperts atklāja mezgliņu. Es biju šausmās! Ieteica ēst vairāk šķiedrvielu, lai nebūtu aizcietējumu. Izrakstīja smēri. Bet mājās mamma man pateica, ka atbrīvoties no hemoroīdiem var ar Rectin palīdzību. Es izlietoju kursu, simptomi izzuda jau pēc pāris dienām. Atkārtotas apskates laikā eksperts teica, ka problēmas vairs nav.",
+        "text": "Parādījās stiprs diskomforts, eksperts atklāja mezgliņu. Es biju šausmās! Ieteica ēst vairāk šķiedrvielu, lai nebūtu aizcietējumu. Izrakstīja smēri. Bet mājās mamma man pateica, ka atbrīvoties no hemoroīdiem var ar Vasos Duo palīdzību. Es izlietoju kursu, simptomi izzuda jau pēc pāris dienām. Atkārtotas apskates laikā eksperts teica, ka problēmas vairs nav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10386,11 +10386,11 @@
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Brigita Zariņa",
-        "text": "Hemoroīdu simptomi ir patiesi mokoši, tā nav vienkārši kaut kāda nieze, bet reāli nepanesamas sāpes! Manuprāt gelam Rectin nav konkurentu, tas noteikti ir pats labākais, kas līdz šim ir izdomāts.",
+        "text": "Hemoroīdu simptomi ir patiesi mokoši, tā nav vienkārši kaut kāda nieze, bet reāli nepanesamas sāpes! Manuprāt gelam Vasos Duo nav konkurentu, tas noteikti ir pats labākais, kas līdz šim ir izdomāts.",
         "stars": [
           {
             "src": "img/svg/star.svg",

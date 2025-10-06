@@ -144,11 +144,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -173,18 +173,18 @@
       ],
       "text": "305 hozzászólás",
       "desc": "Hűsítő gél a visszerek tüneteinek leküzdésére.",
-      "link": "wintex.html",
-      "tag": "wintex",
+      "link": "trovazin.html",
+      "tag": "trovazin",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -209,8 +209,8 @@
       ],
       "text": "288 hozzászólás",
       "desc": "Természetes olaj baktériumölő hatással a gombás tünetek ellen.",
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
+      "link": "desalix.html",
+      "tag": "desalix",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -252,12 +252,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -282,8 +282,8 @@
       ],
       "text": "322 hozzászólás",
       "desc": "Férfiak számára készült készítmény, amelynek célja az urogenitális rendszer működésének normalizálása.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -435,12 +435,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
       "modifier": "img-space--right",
-      "name": "Ottomax+",
+      "name": "Ausen",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -465,8 +465,8 @@
       ],
       "text": "341 hozzászólás",
       "desc": "A hallásfunkciók javítására szolgáló komplex vitaminok és ásványi anyagok kiegyensúlyozott formulájával.",
-      "link": "ottomax.html",
-      "tag": "ottomax",
+      "link": "ausen.html",
+      "tag": "ausen",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -509,12 +509,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
       "modifier": "img-space--right",
-      "name": "Wirex men’s formula",
+      "name": "Viarex",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -539,8 +539,8 @@
       ],
       "text": "297 hozzászólás",
       "desc": "A reproduktív funkciók normalizálását célzó készítmény férfiak számára.",
-      "link": "wirex.html",
-      "tag": "wirex",
+      "link": "viarex.html",
+      "tag": "viarex",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -582,11 +582,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 hozzászólás",
       "desc": "Komplex növényi készítmény a potencia, az állóképesség és a termékenység fokozására minden korosztályú férfinél.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -655,11 +655,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,18 +684,18 @@
       ],
       "text": "234 hozzászólás",
       "desc": "Természetes kivonatokat tartalmazó gél, amelynek célja a visszerek megjelenésének leküzdése.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 hozzászólás",
       "desc": "Baktériumölő hatású krém a gomba ellen.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -800,12 +800,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -830,8 +830,8 @@
       ],
       "text": "267 hozzászólás",
       "desc": "Description.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "RÉSZLETEK"
     }
@@ -945,13 +945,13 @@
       "niche": "Irányzat: Fogyás"
     },
     {
-      "link": "wintex.html",
-      "tag": "wintex",
-      "srcPhoto": "img/wintex.png",
-      "srcPhotoWebp": "img/wintex.webp",
-      "mobSrcPhoto": "img/wintex-mob.png",
-      "mobSrcPhotoWebp": "img/wintex-mob.webp",
-      "name": "Wintex Ultra",
+      "link": "trovazin.html",
+      "tag": "trovazin",
+      "srcPhoto": "img/trovazin.png",
+      "srcPhotoWebp": "img/trovazin.webp",
+      "mobSrcPhoto": "img/trovazin-mob.png",
+      "mobSrcPhotoWebp": "img/trovazin-mob.webp",
+      "name": "Trovazin",
       "narrow": true,
       "stars": [
         {
@@ -979,13 +979,13 @@
       "niche": "Irányzat: Visszerek"
     },
     {
-      "link": "exofeet-oil.html",
-      "tag": "exofeet_oil",
-      "srcPhoto": "img/exofeet-oil.png",
-      "srcPhotoWebp": "img/exofeet-oil.webp",
-      "mobSrcPhoto": "img/exofeet-oil-mob.png",
-      "mobSrcPhotoWebp": "img/exofeet-oil-mob.webp",
-      "name": "Exofeet Oil",
+      "link": "desalix.html",
+      "tag": "desalix",
+      "srcPhoto": "img/desalix.png",
+      "srcPhotoWebp": "img/desalix.webp",
+      "mobSrcPhoto": "img/desalix-mob.png",
+      "mobSrcPhotoWebp": "img/desalix-mob.webp",
+      "name": "Desalix",
       "narrow": true,
       "stars": [
         {
@@ -1047,13 +1047,13 @@
       "niche": "Irányzat: Paraziták"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1217,13 +1217,13 @@
       "niche": "Irányzat: Fiatalítás"
     },
     {
-      "link": "ottomax.html",
-      "tag": "ottomax",
-      "srcPhoto": "img/ottomax.png",
-      "srcPhotoWebp": "img/ottomax.webp",
-      "mobSrcPhoto": "img/ottomax-mob.png",
-      "mobSrcPhotoWebp": "img/ottomax-mob.webp",
-      "name": "Ottomax+",
+      "link": "ausen.html",
+      "tag": "ausen",
+      "srcPhoto": "img/ausen.png",
+      "srcPhotoWebp": "img/ausen.webp",
+      "mobSrcPhoto": "img/ausen-mob.png",
+      "mobSrcPhotoWebp": "img/ausen-mob.webp",
+      "name": "Ausen",
       "narrow": true,
       "stars": [
         {
@@ -1285,13 +1285,13 @@
       "niche": "Irányzat: Paraziták"
     },
     {
-      "link": "wirex.html",
-      "tag": "wirex",
-      "srcPhoto": "img/wirex.png",
-      "srcPhotoWebp": "img/wirex.webp",
-      "mobSrcPhoto": "img/wirex-mob.png",
-      "mobSrcPhotoWebp": "img/wirex-mob.webp",
-      "name": "Wirex men’s formula",
+      "link": "viarex.html",
+      "tag": "viarex",
+      "srcPhoto": "img/viarex.png",
+      "srcPhotoWebp": "img/viarex.webp",
+      "mobSrcPhoto": "img/viarex-mob.png",
+      "mobSrcPhotoWebp": "img/viarex-mob.webp",
+      "name": "Viarex",
       "narrow": true,
       "stars": [
         {
@@ -1353,13 +1353,13 @@
       "niche": "Irányzat: Ízületek"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1421,13 +1421,13 @@
       "niche": "Irányzat: Ízületek"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1455,13 +1455,13 @@
       "niche": "Irányzat: Visszerek"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1557,13 +1557,13 @@
       "niche": "Irányzat: Niche"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1608,30 +1608,30 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "wintex": {
-    "title": "Wintex Ultra",
+  "trovazin": {
+    "title": "Trovazin",
     "category": "Az egészségért",
     "review_count": "305 hozzászólás",
     "niche": "Visszerek",
     "form_factor": "gél tubusban, 30 ml.",
     "short_description": "Hűsítő gél a visszerek tüneteinek leküzdésére.",
     "description": "Növényi alapú gél, amely gyengéden hűsíti és enyhíti az elnehezült lábakat, erősíti az érfalakat és megelőzi a visszerek kialakulását.",
-    "compound": "Aqua, Glicerin, Propilénglikol, Alkohol Denat, Aesculus Hippocastanum kivonat, Centella Asiatica kivonat, Ruscus Aculeatus gyökér kivonat, Symphytum Officinale kalluszkultúra kivonat, Chamomilla Recutita virág kivonat, Niacinamid, Troxerutin, Koffein, Urea, Arginin, Ammónium-akrilil-dimetil-turát/VP kopolimer, Szalicilsav, Mentol, Allantoin, Nátrium-hialuronát, Fenoxietanol, Etil-hexil-glicerin, Dinátrium-EDTA.",
+    "compound": "Víz, Glicerin, Propilénglikol, Denaturált alkohol, Vadgesztenye kivonat (Aesculus hippocastanum), Centella Asiatica kivonat, Ruscus Aculeatus gyökérkivonat, Symphytum Officinale kaluszkultúra kivonat, Kamilla virágkivonat (Chamomilla Recutita), Niacinamid, Troxerutin, Koffein, Urea, Arginin, Ammonium Acryloyldimethyltaurate/VP kopolimer, Szalicilsav, Mentol, Allantoin, Nátrium-hialuronát, Fenoxietanol, Etilhexil-glicerid, Disodium EDTA.",
     "usage": "Könnyű masszázsmozdulatokkal naponta kétszer 3-5 percig alkalmazza. Alkalmazás előtt végezzen bőrtűrési tesztet.",
     "contraindications": "Kerülje a szemmel való érintkezést. Ne használja három év alatti gyermekeknél vagy közvetlenül nyílt sebeken.",
     "manufacturer": "Dalmácia (Bulgária)",
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "exofeet": {
-    "title": "Exofeet Oil",
+  "desalix": {
+    "title": "Desalix",
     "category": "Az egészségért",
     "review_count": "288 hozzászólás",
     "niche": "Gomba",
-    "form_factor": "olaj üvegcsében, 20 ml.",
+    "form_factor": "olaj üvegcsében, 30 ml.",
     "short_description": "Természetes olaj baktériumölő hatással a gombás tünetek ellen.",
     "description": "A 4 olajon (teafa, fahéj, borsmenta, citromfű) alapuló komplexum általános gyulladáscsökkentő, fertőtlenítő, tonizáló, tápláló és hidratáló hatással van a bőrre. Mélyen behatol, és hosszú ideig megmarad a gombás területen.",
-    "compound": "Alkohol Denat, Aqua, propilénglikol, glicerin, niacinamid, Symphytum Officinale levélkivonat, Propoliszkivonat, Chamomilla Recutita virágkivonat, Alumínium-klórhidrát, Szalicilsav, fenilpropanol, o-cymen-5-ol, decilenglikol, Melaleuca Alternifolia levélolaj, Allantoin, Cinnamomum Zeylanicum levélolaj, Menta Piperita olaj, 4-Terpineol, Cymbopogon Flexuosus olaj, Nátrium-akrilát kopolimer, Xantán gumi, Lecitin, Disodium EDTA, Citrál, Linalool, Limonén, Eugenol, Cinnamal, Benzil-benzoát, Geraniol.",
+    "compound": "Víz, Glicerin, Édesmandula olaj, Folyékony paraffin, Nátrium-polialkilát, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate kopolimer, Poliszorbát 80, PEG-40 Hidrogénezett ricinusolaj, Bisabolol, Szalicilsav, Teafa olaj, Glükonolakton, Kámfor, Hidrogénezett polidecén, Tokoferil-acetát, Szegfű kivonat, Vadgesztenye mag kivonat, Mézhúr kivonat, Körömvirág kivonat, Mezei zsurló kivonat, Rozmaring levél kivonat, Kamilla kivonat, Gyökérkivonat (Arctium Lappa), Fenoxietanol, Nátrium-hialuronát, Borsmenta olaj, Trideceth-6, BHT, Disodium EDTA, Etilhexilglicerid, Kalcium-glükonát, Citromsav, Nátrium-benzoát, Kálium-szorbát, gamma-Terpinen, alfa-Terpinen, Terpineol, Pinén, Terpinolén, Limonén, Mentol.",
     "usage": "Naponta kétszer vigye fel a jól megtisztított és száraz bőrre (a sérült területre). Használat előtt végezzen bőrkompatibilitási tesztet.",
     "contraindications": "Egyéni intolerancia az összetevőkkel szemben.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1653,15 +1653,15 @@
     "suitability": "2 év",
     "keep": "0°C és 25°C közötti hőmérsékleten, közvetlen napfénytől és nedvességtől védve tárolja."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Az egészségért",
     "review_count": "322 hozzászólás",
     "niche": "Prosztatagyulladás",
-    "form_factor": "kapszula buborékcsomagolásban, 10 db.",
+    "form_factor": "bliszter, 10 kapszula",
     "short_description": "Férfiak számára készült készítmény, amelynek célja az urogenitális rendszer működésének normalizálása.",
     "description": "Természetes kivonatok komplexe a húgyúti rendszer problémáinak megelőzésére, amelyekkel bármely férfi találkozhat. A növényi kivonatok hatása a következőkre irányul: a fájdalom és a gyulladás megszüntetése; a prosztata egészségének javítása; a vizeletürítés megkönnyítése; a vérkeringés javítása.",
-    "compound": "Zselatin (kapszulahéj), mikrokristályos cellulóz (töltőanyag), fűrészpálma gyümölcskivonat, csalángyökér kivonat, tribulus terrestris gyümölcskivonat, maca gyökér kivonat, cink-citrát, magnézium-sztearát (töltőanyag), szilícium-dioxid (csomósodásgátló).",
+    "compound": "Maca gyökér kivonat (Lepidium meyenii 4:1) - 60 mg, Tőzegáfonya kivonat (Vaccinium macrocarpon, 35% proantocianidinek) - 53 mg, Fűrészpálma gyümölcs kivonat (Serenoa repens 5:1) - 50 mg, Csalángyökér kivonat (Urtica dioica, 1% béta-szitoszterol) - 40 mg, Cink (cink-citrát-trihidrát) - 5 mg.",
     "usage": "Felnőtteknek naponta 1-2 alkalommal 1 kapszulát kell bevenniük étkezés közben vagy anélkül. Egy kúra időtartama 45 nap. A kúra szükség esetén megismételhető. Ajánlott napi adag 2 kapszula.",
     "contraindications": "Egyéni intolerancia az összetevők bármelyikével szemben, gyermekek (18 év alattiak) számára nem ajánlott. Alkalmazás előtt tanácsos orvoshoz fordulni. Ez nem gyógyszer. Ne lépje túl az ajánlott napi adagot.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1728,15 +1728,15 @@
     "suitability": "2 év",
     "keep": "0°C és 25°C közötti hőmérsékleten, közvetlen napfénytől és nedvességtől védve tárolja."
   },
-  "ottomax": {
-    "title": "Ottomax+",
+  "ausen": {
+    "title": "Ausen",
     "category": "Az egészségért",
     "review_count": "341 hozzászólás",
     "niche": "Hallás",
     "form_factor": "kapszula buborékcsomagolásban, 10 db.",
     "short_description": "A hallásfunkciók javítására szolgáló komplex vitaminok és ásványi anyagok kiegyensúlyozott formulájával.",
     "description": "Természetes összetevőkből álló komplex, amely megszünteti a fülzúgást és késlelteti a hallásvesztést.",
-    "compound": "C-Vitamin, Acetil-L-Karnitin, Ginkgo Biloba Levélkivonat, Magnézium, B3-Vitamin (Nikotinamid), Cink, B1-Vitamin, B2-Vitamin, B6-Vitamin, Melatonin.",
+    "compound": "L-aszkorbinsav, Zselatin, C-vitamin (L-aszkorbinsav), Mikrokristályos cellulóz, Acetil L-karnitin HCl, Ginkgo biloba levél kivonat, Magnézium-oxid, Nikotinamid, Cink, Magnézium-sztearát, Szilícium-dioxid.",
     "usage": "Felnőtteknek napi 1 kapszula étkezés közben vagy után. Egy kúra időtartama 2 hónap. Ne lépje túl az ajánlott napi adagot.",
     "contraindications": "Egyéni intolerancia az összetevők bármelyikével szemben. Csak felnőtteknek, 18 év alatti gyermekek számára korlátozva.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1758,15 +1758,15 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "wirex": {
-    "title": "Wirex men’s formula",
+  "viarex": {
+    "title": "Viarex",
     "category": "Az egészségért",
     "review_count": "297 hozzászólás",
     "niche": "Potencia",
     "form_factor": "kapszula buborékcsomagolásban, 10 db.",
     "short_description": "A reproduktív funkciók normalizálását célzó készítmény férfiak számára.",
     "description": "Növényi összetevők komplexe, amely növeli a szexuális vágyat és javítja a férfiak szexuális funkcióját, normalizálja az urogenitális rendszer funkcionális állapotát merevedési zavarok esetén (a libidó és a potencia növelése érdekében), javítja az ondó minőségét, valamint növeli a férfiak szellemi és fizikai teljesítményét és állóképességét.",
-    "compound": "Áfonya bogyó kivonat, zselatin (kapszulahéj), fűrészpálma gyümölcs kivonat, csalángyökér kivonat, mikrokristályos cellulóz (töltőanyag), cink-citrát, magnézium-sztearát (töltőanyag), szilícium-dioxid (csomósodásgátló), színezékek (kapszulahéj): E171, E132.",
+    "compound": "Maca gyökér kivonat (Lepidium meyenii 4:1) - 60 mg, Tőzegáfonya kivonat (Vaccinium macrocarpon, 35% proantocianidinek) - 53 mg, Saw Palmetto gyümölcs kivonat (Serenoa repens 5:1) - 50 mg, Csalán gyökér kivonat (Urtica dioica, 1% béta-szitoszterol) - 40 mg, Cink (Cink-citrát-trihidrát) - 5 mg.",
     "usage": "Naponta 1-2 alkalommal 1 kapszula étkezés közben. Egy kúra időtartama 45 nap. A kúra szükség esetén megismételhető. Ajánlott napi adag 2 kapszula.",
     "contraindications": "Egyéni intolerancia az összetevők bármelyikével szemben, gyermekek (18 év alattiak) számára nem ajánlott. Alkalmazás előtt tanácsos orvoshoz fordulni. Ez nem gyógyszer. Ne lépje túl az ajánlott napi adagot. Gyermekektől távol tartandó. Ez az étrend-kiegészítő nem helyettesítheti a változatos étrendet.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1788,15 +1788,15 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Az egészségért",
     "review_count": "311 hozzászólás",
     "niche": "Potencia",
-    "form_factor": "kapszula tégelyben, 20 db.",
+    "form_factor": "kapszula buborékcsomagolásban, 10 db",
     "short_description": "Komplex növényi készítmény a potencia, az állóképesség és a termékenység fokozására minden korosztályú férfinél.",
     "description": "A kapszulák természetes kivonatok és cink komplexét tartalmazzák. A termék hatása a hiányzó anyagok pótlására irányul, amelyekhez nehéz táplálékkal hozzájutni, és amelyek befolyásolják: a vérkeringés javulását; az erekciót; a tesztoszterontermelés növelését; a test állóképességének növelését; befolyásolja az urogenitális rendszer és a prosztata egészségét.",
-    "compound": "Fűrészpálma gyümölcskivonat (Serenoa repens 5:1), csalángyökér kivonat (Urtica dioica, 1% béta-szitoszterin), Tribulus terrestris gyümölcskivonat, 40% szaponinok, Maca gyökér kivonat (Lepidium meyenii 10:1), cink (cink-citrát). Segédanyagok: töltőanyag: mikrokristályos cellulóz, magnézium-sztearát, csomósodásgátló: szilícium-dioxid. Kapszulahéj összetétele: zselatin.",
+    "compound": "Maca gyökér kivonat (Lepidium meyenii 4:1) – 60 mg, vörösáfonya kivonat (Vaccinium macrocarpon, 35 % proantocianidinek) – 53 mg, saw palmetto gyümölcs kivonat (Serenoa repens 5:1) – 50 mg, csalángyökér kivonat (Urtica dioica, 1 % béta-szitoszterol) – 40 mg, cink (cink-citrát trihidrát) – 5 mg.",
     "usage": "Naponta 1-2 alkalommal 1 kapszula étkezés közben vagy után.",
     "contraindications": "Egyéni intolerancia az összetevőkkel szemben. Gyermekeknek, terhes és szoptató nőknek nem ajánlott.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1818,30 +1818,30 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Az egészségért",
     "review_count": "234 hozzászólás",
     "niche": "Visszerek",
     "form_factor": "gél tubusban, 30 ml.",
     "short_description": "Természetes kivonatokat tartalmazó gél, amelynek célja a visszerek megjelenésének leküzdése.",
     "description": "Visszér elleni készítmény, amely biztonságosan enyhíti a tüneteket és megelőzi a visszér kialakulását a szakemberek által kiválasztott összetevők bizonyított hatásának köszönhetően.",
-    "compound": "Aqua, Glicerin, Propilénglikol, Alkohol Denat, Aesculus Hippocastanum Kivonat, Centella Asiatica Kivonat, Ruscus Aculeatus Gyökér Kivonat, Symphytum Officinale Kalluszkultúra Kivonat, Chamomilla Recutita Virág Kivonat, Niacinamid, Troxerutin, Koffein, Karbamid, Arginin, Ammónium-Akrilil-Dimetil-Turát/Vp Kopolimer, Szalicilsav, Mentol, Allantoin, Nátrium-Hialuronát, Fenoxietanol, Etil-Hexil-Glicerin, Dinátrium-EDTA.",
+    "compound": "Aqua, glicerin, propilénglikol, alkohol denat., vadgesztenye kivonat, ázsiai gázló kivonat, borostyán gyökér kivonat, fekete nadálytő sejtkultúra kivonat, kamilla virág kivonat, niacinamid, koffein, karbamid, arginin, ammónium acryloyldimethyltaurate/VP kopolimer, szalicilsav, mentol, allantoin, nátrium-hialuronát, fenoxietanol, etilhexilglicerin, dinátrium EDTA.",
     "usage": "Könnyű masszázsmozdulatokkal naponta kétszer 3-5 percig alkalmazza. Alkalmazás előtt végezzen bőrtűrési tesztet.",
     "contraindications": "Egyéni intolerancia az összetevőkkel szemben. Kerülje a szemmel való érintkezést. Ne használja három év alatti gyermekeknél vagy közvetlenül nyílt sebeken.",
     "manufacturer": "Dalmácia (Bulgária)",
     "suitability": "2 év",
     "keep": "0°C és 25°C közötti hőmérsékleten, közvetlen napfénytől és nedvességtől védve tárolja."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Az egészségért",
     "review_count": "301 hozzászólás",
     "niche": "Gomba",
-    "form_factor": "krém tubusban, 30 ml. ",
+    "form_factor": "krém, 30 ml",
     "short_description": "Baktériumölő hatású krém a gomba ellen.",
     "description": "Elősegíti a normál mikroflórát és nyugtató hatással van a bőrre. Keratolitikus hatású, és eltávolítja a keratinizált bőrrétegeket. Hidratáló és lágyító hatással van a bőrre. Elősegíti és serkenti a hámsejtek megújulását.",
-    "compound": "Aqua, Glicerin, Cetearyl alkohol, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Caprylic/Capric Triglyceride, Chamomila Recutita virágkivonat, Butyrospermum Parkii vaj, Niacinamide, Zinc Оxide, Propolis kivonat, Cocos Nucifera olaj, Sulfur, Alcloxa, Salicylic Acid, Salix Alba kéregkivonat, Betula Alba kéreg/levél kivonat, Juniperus Oxycedrus faolaj, Poliszorbát 80, Melaleuca Alternifolia levélolaj, Mentha Piperita olaj, Xantán gumi, 4-Terpineol, Piroctone Olamine, Phenoxyethanol, Etilhexilglicerin, BHT, Dinátrium EDTА, Linalool, Limonén.",
+    "compound": "Aqua, glicerin, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, kamilla virág kivonat, shea vaj, niacinamid, cink-oxid, propolisz kivonat, kókuszolaj, kén, alcloxa, szalicilsav, fehér fűz kéreg kivonat, fehér nyír kéreg/levél kivonat, boróka faolaj, polisorbát 80, teafaolaj, borsmentaolaj, xantángumi, 4-terpineol, pirocton olamin, fenoxietanol, etilhexilglicerin, bht, dinátrium edta, linalool, limonén.",
     "usage": "Vigye fel a jól megtisztított és száraz bőrre az érintett testrészen, alulról felfelé haladva gyengéden masszírozva. Használat előtt mindenképpen tesztelje az összetevők bőrrel szembeni tűrőképességét.",
     "contraindications": "Kerülje a szemmel való érintkezést. Ne alkalmazza 3 év alatti gyermekeknél, valamint terhes vagy szoptató nőknél. Ne alkalmazza nyílt sebeken.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1878,15 +1878,15 @@
     "suitability": "suitability",
     "keep": "keep."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Category",
     "review_count": "333 hozzászólás",
     "niche": "Niche",
-    "form_factor": "form_factor",
+    "form_factor": "gél tubusban, 30 ml.",
     "short_description": "short_description.",
     "description": "description.",
-    "compound": "compound.",
+    "compound": "Aqua, glicerin, propilénglikol, alkohol denat., vadgesztenye kivonat, ázsiai gázló kivonat, borostyán gyökér kivonat, fekete nadálytő sejtkultúra kivonat, kamilla virág kivonat, niacinamid, troxerutin, koffein, karbamid, arginin, ammónium acryloyldimethyltaurate/vp kopolimer, szalicilsav, mentol, allantoin, nátrium-hialuronát, fenoxietanol, etilhexilglicerin, dinátrium edta.",
     "usage": "usage.",
     "contraindications": "contraindications.",
     "manufacturer": "manufacturer",
@@ -1947,13 +1947,13 @@
       "salePrice": "508",
       "newPrice": "1690"
     },
-    "wintex": {
-      "productName": "Wintex Ultra",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "511",
       "newPrice": "2034"
     },
-    "exofeet_oil": {
-      "productName": "Exofeet Oil",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "502",
       "newPrice": "1505"
     },
@@ -1962,8 +1962,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -1987,8 +1987,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "ottomax": {
-      "productName": "Ottomax+",
+    "ausen": {
+      "productName": "Ausen",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -1997,8 +1997,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "wirex": {
-      "productName": "Wirex men’s formula",
+    "viarex": {
+      "productName": "Viarex",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -2007,8 +2007,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -2017,13 +2017,13 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -2037,8 +2037,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "800",
       "newPrice": "111111"
     }
@@ -3073,11 +3073,11 @@
         "text": "Köszönöm a minőségi és hatékony terméket! Mínusz 10 kg, remekül érzem magam és tökéletes alakom van. Ha önök is ilyen eredményeket szeretnének, ajánlom a Delislimet!"
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
+        "src": "img/review_exurol_1.png",
         "name": "Horváth Mátyás",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3101,12 +3101,12 @@
             "type": "empty"
           }
         ],
-        "text": "3 évvel ezelőtt diagnosztizáltak, különböző készítményeket és helyreállítási programokat próbáltam ki. Csak a Deluron Forte segített. Online rendeltem futárszolgálattal."
+        "text": "3 évvel ezelőtt diagnosztizáltak, különböző készítményeket és helyreállítási programokat próbáltam ki. Csak a Exurol segített. Online rendeltem futárszolgálattal."
       },
       {
-        "src": "img/review_deluron-forte_2.png",
+        "src": "img/review_exurol_2.png",
         "name": "Nagy Andrea",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3134,9 +3134,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_3.png",
+        "src": "img/review_exurol_3.png",
         "name": "Kerekes Lilla",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3164,9 +3164,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_4.png",
+        "src": "img/review_exurol_4.png",
         "name": "Rácz Kristóf",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3190,13 +3190,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sok pénzt és erőfeszítést fordítottunk a prosztatagyulladás elleni küzdelemre. És kiderült, hogy a megoldás olcsó és hatékony. A Deluron Forte segített. Az első naptól kezdve jobban éreztem magam."
+        "text": "Sok pénzt és erőfeszítést fordítottunk a prosztatagyulladás elleni küzdelemre. És kiderült, hogy a megoldás olcsó és hatékony. A Exurol segített. Az első naptól kezdve jobban éreztem magam."
       },
 
       {
-        "src": "img/review_deluron-forte_5.png",
+        "src": "img/review_exurol_5.png",
         "name": "Tiberi Ádám",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3220,13 +3220,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nem hittem az ilyen csodaszerek erejében, amíg ki nem próbáltam a Deluron Forte-t. Megszüntette a fájdalmat, a gyulladást és az állandó vizelési ingert. A készítmény működik!"
+        "text": "Nem hittem az ilyen csodaszerek erejében, amíg ki nem próbáltam a Exurol. Megszüntette a fájdalmat, a gyulladást és az állandó vizelési ingert. A készítmény működik!"
       },
 
       {
-        "src": "img/review_deluron-forte_6.png",
+        "src": "img/review_exurol_6.png",
         "name": "Kecskés Klaudia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3250,13 +3250,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjem Deluron Forte-t szedett. A részleteket nem osztotta meg velem, de a hangulata javult. A szexuális életünk is újraindult. Biztosan működik, mert a viselkedése megváltozott."
+        "text": "A férjem Exurol szedett. A részleteket nem osztotta meg velem, de a hangulata javult. A szexuális életünk is újraindult. Biztosan működik, mert a viselkedése megváltozott."
       },
 
       {
-        "src": "img/review_deluron-forte_7.png",
+        "src": "img/review_exurol_7.png",
         "name": "Kovács Dorina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3280,13 +3280,13 @@
             "type": "empty"
           }
         ],
-        "text": "Deluron Forte-t vettem a nagyapámnak. Ellenjavallt volt a műtét, és nem volt más lehetőség, így csak Deluron Forte-ban reménykedtünk. És működött! A prosztata mérete a kúra után a normális határokon belül van!"
+        "text": "Exurol vettem a nagyapámnak. Ellenjavallt volt a műtét, és nem volt más lehetőség, így csak Exurol reménykedtünk. És működött! A prosztata mérete a kúra után a normális határokon belül van!"
       },
 
       {
-        "src": "img/review_deluron-forte_8.png",
+        "src": "img/review_exurol_8.png",
         "name": "Vass Róbert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3310,13 +3310,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nem tudok semmi hatékonyabbat, mint a Deluron Forte. Gyorsan megszünteti a fájdalmat, és csökkenti a WC-re menés gyakoriságát. Az életem jobb lett!"
+        "text": "Nem tudok semmi hatékonyabbat, mint a Exurol. Gyorsan megszünteti a fájdalmat, és csökkenti a WC-re menés gyakoriságát. Az életem jobb lett!"
       },
 
       {
-        "src": "img/review_deluron-forte_9.png",
+        "src": "img/review_exurol_9.png",
         "name": "Pintye Anna",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3340,13 +3340,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjemnek problémái voltak, és sok mindent kipróbált a gyulladás és a fájdalom enyhítésére. Azt mondja, hogy csak Deluron Forte után érzett hatást."
+        "text": "A férjemnek problémái voltak, és sok mindent kipróbált a gyulladás és a fájdalom enyhítésére. Azt mondja, hogy csak Exurol után érzett hatást."
       },
 
       {
-        "src": "img/review_deluron-forte_10.png",
+        "src": "img/review_exurol_10.png",
         "name": "Kelemen Béla",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3374,9 +3374,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_11.png",
+        "src": "img/review_exurol_11.png",
         "name": "Debreceni Lajos",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3400,13 +3400,13 @@
             "type": "empty"
           }
         ],
-        "text": "7 évvel ezelőtt prosztatagyulladást diagnosztizáltak nálam. Csak a Deluron Forte-nak köszönhetően élek normálisan és komplikációk nélkül. Évente két profilaktikus kúra, és nincsenek egészségügyi problémák."
+        "text": "7 évvel ezelőtt prosztatagyulladást diagnosztizáltak nálam. Csak a Exurol köszönhetően élek normálisan és komplikációk nélkül. Évente két profilaktikus kúra, és nincsenek egészségügyi problémák."
       },
 
       {
-        "src": "img/review_deluron-forte_12.png",
+        "src": "img/review_exurol_12.png",
         "name": "Virág Kálmán",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3430,12 +3430,12 @@
             "type": "empty"
           }
         ],
-        "text": "A Deluron Forte-t egy általam ismert szakértő ajánlotta. Nagyon felfáztam és a panaszaimmal elmentem hozzá. Barátságosan ajánlotta ezt a készítményt. A panaszok eltűntek."
+        "text": "A Exurol-t egy általam ismert szakértő ajánlotta. Nagyon felfáztam és a panaszaimmal elmentem hozzá. Barátságosan ajánlotta ezt a készítményt. A panaszok eltűntek."
       },
       {
-        "src": "img/review_deluron-forte_13.png",
+        "src": "img/review_exurol_13.png",
         "name": "Gulyás József",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3459,13 +3459,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hosszú ideje szenvedtem prosztatagyulladástól. Készen álltam egy műtétre, de a Deluron Forte segített elkerülni azt. Először elmúlt a fájdalom és a vizelési inger, majd a gyulladás teljesen megszűnt."
+        "text": "Hosszú ideje szenvedtem prosztatagyulladástól. Készen álltam egy műtétre, de a Exurol segített elkerülni azt. Először elmúlt a fájdalom és a vizelési inger, majd a gyulladás teljesen megszűnt."
       },
 
       {
-        "src": "img/review_deluron-forte_14.png",
+        "src": "img/review_exurol_14.png",
         "name": "Kenéz Roland",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3489,13 +3489,13 @@
             "type": "empty"
           }
         ],
-        "text": "Már régóta nem bízom a gyógyszertári szerekben. Ha férfi problémákkal kapcsolatos támogatásra van szükségem, Deluron Forte-t szedek. Természetes és jól működik."
+        "text": "Már régóta nem bízom a gyógyszertári szerekben. Ha férfi problémákkal kapcsolatos támogatásra van szükségem, Exurol szedek. Természetes és jól működik."
       },
 
       {
-        "src": "img/review_deluron-forte_15.png",
+        "src": "img/review_exurol_15.png",
         "name": "Hajdu Renáta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3972,11 +3972,11 @@
         "text": "Hatékony készítmény megfizethető áron. Azonnal enyhíti a fájdalmat, és fokozatosan elmúlik a gyulladás és a duzzanat. Teljesen elégedett vagyok! 10-ből 10!"
       }
     ],
-    "reviews_exofeet": [
+    "reviews_desalix": [
       {
-        "src": "img/review_exofeet-oil_1.png",
+        "src": "img/review_desalix_1.png",
         "name": "Mészáros Gabriella",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4000,13 +4000,13 @@
             "type": "empty"
           }
         ],
-        "text": "Tavaly kipróbáltam az Exofeet Oil cseppeket. A probléma megszűnt, és azóta sem jelentkezett. A bőr és a körmök egészségesek, és semmi sem zavar."
+        "text": "Tavaly kipróbáltam az Desalix cseppeket. A probléma megszűnt, és azóta sem jelentkezett. A bőr és a körmök egészségesek, és semmi sem zavar."
       },
 
       {
-        "src": "img/review_exofeet-oil_2.png",
+        "src": "img/review_desalix_2.png",
         "name": "Barta Olívia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4030,13 +4030,13 @@
             "type": "empty"
           }
         ],
-        "text": "Az Exofeet Oil használatának első napjaitól kezdve a viszketés és a kellemetlen szag eltűnt. Addig folytatom a kúrát, amíg a probléma teljesen meg nem oldódik."
+        "text": "Az Desalix használatának első napjaitól kezdve a viszketés és a kellemetlen szag eltűnt. Addig folytatom a kúrát, amíg a probléma teljesen meg nem oldódik."
       },
 
       {
-        "src": "img/review_exofeet-oil_3.png",
+        "src": "img/review_desalix_3.png",
         "name": "Ivancsó Lívia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4060,13 +4060,13 @@
             "type": "empty"
           }
         ],
-        "text": "Évek óta gombával élek, és kiderült, hogy nagyon könnyen meg lehet tőle szabadulni. Az Exofeet Oil-nak köszönhetően már el is felejtettem, remélem, mindörökre."
+        "text": "Évek óta gombával élek, és kiderült, hogy nagyon könnyen meg lehet tőle szabadulni. Az Desalix köszönhetően már el is felejtettem, remélem, mindörökre."
       },
 
       {
-        "src": "img/review_exofeet-oil_4.png",
+        "src": "img/review_desalix_4.png",
         "name": "Csanádi Lajos",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4090,13 +4090,13 @@
             "type": "empty"
           }
         ],
-        "text": "Az Exofeet olajjal kapcsolatban pozitív tapasztalataim vannak. Megszabadultam a gombától. A viszketés, a kellemetlen szag és a repedések a lábamon gyorsan elmúltak!"
+        "text": "Az Desalix olajjal kapcsolatban pozitív tapasztalataim vannak. Megszabadultam a gombától. A viszketés, a kellemetlen szag és a repedések a lábamon gyorsan elmúltak!"
       },
 
       {
-        "src": "img/review_exofeet-oil_5.png",
+        "src": "img/review_desalix_5.png",
         "name": "Turi Katalin",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4120,13 +4120,13 @@
             "type": "empty"
           }
         ],
-        "text": "Az Exofeet Oil nagyszerű! Könnyen használható és kellemes illatú. De ami a legfontosabb, segít. Enyhíti a viszketést és segít megszabadulni a gombától."
+        "text": "Az Desalix nagyszerű! Könnyen használható és kellemes illatú. De ami a legfontosabb, segít. Enyhíti a viszketést és segít megszabadulni a gombától."
       },
 
       {
-        "src": "img/review_exofeet-oil_6.png",
+        "src": "img/review_desalix_6.png",
         "name": "Orsós Amélia",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4150,13 +4150,13 @@
             "type": "empty"
           }
         ],
-        "text": "Most már elhiszem, hogy néhány héten belül búcsút lehet mondani a körömgombának. Pedig ezelőtt hónapok óta szenvedtem. Köszönöm az Exofeet Oil-t!"
+        "text": "Most már elhiszem, hogy néhány héten belül búcsút lehet mondani a körömgombának. Pedig ezelőtt hónapok óta szenvedtem. Köszönöm az Desalix!"
       },
 
       {
-        "src": "img/review_exofeet-oil_7.png",
+        "src": "img/review_desalix_7.png",
         "name": "Király Levente",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4180,13 +4180,13 @@
             "type": "empty"
           }
         ],
-        "text": "A feleségem megrendelte az Exofeet Oil-t, és néhány napon belül kiszállították. A repedések begyógyultak, és a viszketés is elmúlt. Végre megszabadultam a kellemetlen szagtól. 10/10!"
+        "text": "A feleségem megrendelte az Desalix, és néhány napon belül kiszállították. A repedések begyógyultak, és a viszketés is elmúlt. Végre megszabadultam a kellemetlen szagtól. 10/10!"
       },
 
       {
-        "src": "img/review_exofeet-oil_8.png",
+        "src": "img/review_desalix_8.png",
         "name": "Demeter Á.",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4214,9 +4214,9 @@
       },
 
       {
-        "src": "img/review_exofeet-oil_9.png",
+        "src": "img/review_desalix_9.png",
         "name": "Balla Erzsébet",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4240,13 +4240,13 @@
             "type": "empty"
           }
         ],
-        "text": "Különböző krémekkel és népi gyógymódokkal próbáltam megszabadulni a gombától. Minden hiába. Csak az Exofeet Oil segített. Az első naptól kezdve eltűnt a viszketés, majd minden más is. Most már egészséges a lábam!"
+        "text": "Különböző krémekkel és népi gyógymódokkal próbáltam megszabadulni a gombától. Minden hiába. Csak az Desalix segített. Az első naptól kezdve eltűnt a viszketés, majd minden más is. Most már egészséges a lábam!"
       },
 
       {
-        "src": "img/review_exofeet-oil_10.png",
+        "src": "img/review_desalix_10.png",
         "name": "Oláh Márta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4270,13 +4270,13 @@
             "type": "empty"
           }
         ],
-        "text": "Már régóta ismerem az Exofeet Oil-t. Tapasztalatból mondhatom, hogy ez a legjobb gyógyír a gombára! A kúra után nem maradnak nyomok a bőrön vagy a körmökön!"
+        "text": "Már régóta ismerem az Desalix. Tapasztalatból mondhatom, hogy ez a legjobb gyógyír a gombára! A kúra után nem maradnak nyomok a bőrön vagy a körmökön!"
       },
 
       {
-        "src": "img/review_exofeet-oil_11.png",
+        "src": "img/review_desalix_11.png",
         "name": "Barna Réka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4300,13 +4300,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrég rendeltem meg az Exofeet Oilt, és már látom az eredményeket. A bőr hidratált, puhább, még az érdes területek is megpuhultak. Remélem, hamarosan nem kell többé zárt cipőbe rejtenem a lábam."
+        "text": "Nemrég rendeltem meg az Desalix, és már látom az eredményeket. A bőr hidratált, puhább, még az érdes területek is megpuhultak. Remélem, hamarosan nem kell többé zárt cipőbe rejtenem a lábam."
       },
 
       {
-        "src": "img/review_exofeet-oil_12.png",
+        "src": "img/review_desalix_12.png",
         "name": "Petrovics R.",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4330,12 +4330,12 @@
             "type": "empty"
           }
         ],
-        "text": "Ha hatékony és olcsó készítményre van szüksége a gomba ellen, ajánlom az Exofeet Oil-t! Gyorsan segít, és örökre elfeledteti a problémát!"
+        "text": "Ha hatékony és olcsó készítményre van szüksége a gomba ellen, ajánlom az Desalix! Gyorsan segít, és örökre elfeledteti a problémát!"
       },
       {
-        "src": "img/review_exofeet-oil_13.png",
+        "src": "img/review_desalix_13.png",
         "name": "Sipos Ingrid",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4359,13 +4359,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sok türelem kell a gomba leküzdéséhez. A probléma hosszú távú terápiát igényel, ezt mindenki tudja. De az Exofeet Oil segítségével ez gyorsan és hatékonyan ment. Egy kúra és teljesen egészséges körmök!"
+        "text": "Sok türelem kell a gomba leküzdéséhez. A probléma hosszú távú terápiát igényel, ezt mindenki tudja. De az Desalix segítségével ez gyorsan és hatékonyan ment. Egy kúra és teljesen egészséges körmök!"
       },
 
       {
-        "src": "img/review_exofeet-oil_14.png",
+        "src": "img/review_desalix_14.png",
         "name": "Soós Alexandra",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4389,13 +4389,13 @@
             "type": "empty"
           }
         ],
-        "text": "Kényelmetlen volt a szag miatt, amikor levettem a cipőmet. A feleségem hozott nekem Exofeet Oil-t. A termék segített. Nincs szag, nincs többé viszkető láb a cipő után. Fél éve nem használtam, és a probléma nem tért vissza!"
+        "text": "Kényelmetlen volt a szag miatt, amikor levettem a cipőmet. A feleségem hozott nekem Desalix. A termék segített. Nincs szag, nincs többé viszkető láb a cipő után. Fél éve nem használtam, és a probléma nem tért vissza!"
       },
 
       {
-        "src": "img/review_exofeet-oil_15.png",
+        "src": "img/review_desalix_15.png",
         "name": "Bogdán Aranka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exofeet&nbsp;Oil",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Desalix",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4419,14 +4419,14 @@
             "type": "empty"
           }
         ],
-        "text": "Segített megszabadulni a gombától néhány hét alatt! A bőr állapota javult, a körmök egészségesen és erősen nőnek. Legyenek óvatosak a manikűrös kiválasztásakor, és ami még jobb, legyen kéznél Exofeet Oil!"
+        "text": "Segített megszabadulni a gombától néhány hét alatt! A bőr állapota javult, a körmök egészségesen és erősen nőnek. Legyenek óvatosak a manikűrös kiválasztásakor, és ami még jobb, legyen kéznél Desalix!"
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
+        "src": "img/review_urosaf_1.png",
         "name": "Mező Árpád",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4454,9 +4454,9 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
+        "src": "img/review_urosaf_2.png",
         "name": "Faragó Róbert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4480,13 +4480,13 @@
             "type": "empty"
           }
         ],
-        "text": "Problémáim voltak a WC-re járással, a Feronex segített megszüntetni ezt. A fájdalom megszűnt, az erekció jobb és tovább tart. Nincsenek addiktív reakciók vagy mellékhatások."
+        "text": "Problémáim voltak a WC-re járással, a Urosaf segített megszüntetni ezt. A fájdalom megszűnt, az erekció jobb és tovább tart. Nincsenek addiktív reakciók vagy mellékhatások."
       },
 
       {
-        "src": "img/review_feronex_3.png",
+        "src": "img/review_urosaf_3.png",
         "name": "Sztojka Henrik",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4510,13 +4510,13 @@
             "type": "empty"
           }
         ],
-        "text": "A tavaly használtam a Feronexet. Azóta minden tökéletesen működik, a \"kisbarátom\" mindig készen áll! Semmi probléma vagy baleset!"
+        "text": "A tavaly használtam a Urosafet. Azóta minden tökéletesen működik, a \"kisbarátom\" mindig készen áll! Semmi probléma vagy baleset!"
       },
 
       {
-        "src": "img/review_feronex_4.png",
+        "src": "img/review_urosaf_4.png",
         "name": "Sváb Mónika",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4544,9 +4544,9 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
+        "src": "img/review_urosaf_5.png",
         "name": "Rózsa Tamás",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4574,9 +4574,9 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
+        "src": "img/review_urosaf_6.png",
         "name": "Dudás Péter",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4604,9 +4604,9 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
+        "src": "img/review_urosaf_7.png",
         "name": "Fazekas Katalin",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4630,13 +4630,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjem 56 éves, és a \"férfi\" problémákat nehéz elkerülni ebben a korban. Köszönjük a Feronexet, amely segített neki megoldani ezeket, és újra fiatalnak és egészségesnek érezheti magát!"
+        "text": "A férjem 56 éves, és a \"férfi\" problémákat nehéz elkerülni ebben a korban. Köszönjük a Urosafet, amely segített neki megoldani ezeket, és újra fiatalnak és egészségesnek érezheti magát!"
       },
 
       {
-        "src": "img/review_feronex_8.png",
+        "src": "img/review_urosaf_8.png",
         "name": "Pintér Richárd",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4660,13 +4660,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ahogy öregedtem, a potencia kezdett csökkenni, és a vágyam is kezdett alábbhagyni. Úgy döntöttem, hogy kipróbálom a Feronexet. Lenyűgözött a hatás! Ha félévente kúraszerűen szedi, nem lesznek férfiproblémái."
+        "text": "Ahogy öregedtem, a potencia kezdett csökkenni, és a vágyam is kezdett alábbhagyni. Úgy döntöttem, hogy kipróbálom a Urosafet. Lenyűgözött a hatás! Ha félévente kúraszerűen szedi, nem lesznek férfiproblémái."
       },
 
       {
-        "src": "img/review_feronex_9.png",
+        "src": "img/review_urosaf_9.png",
         "name": "Biró Attila",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4690,13 +4690,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Feronex használatakor, az elterjedt és jól ismert stimulánsokkal ellentétben, nincs fejfájás. A hatás napról napra jobb, ami azt jelenti, hogy a kúra után semmit sem kell szedni, mindig készen állsz!"
+        "text": "A Urosaf használatakor, az elterjedt és jól ismert stimulánsokkal ellentétben, nincs fejfájás. A hatás napról napra jobb, ami azt jelenti, hogy a kúra után semmit sem kell szedni, mindig készen állsz!"
       },
 
       {
-        "src": "img/review_feronex_10.png",
+        "src": "img/review_urosaf_10.png",
         "name": "Sárközi Anett",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4720,13 +4720,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjemnek problémái voltak a munkahelyi stressz miatt. Egy szakember ajánlotta a Feronexet. A termék bevált! Újra van intimitás közöttünk, a dolog hosszabb, gyakrabb és jobb!"
+        "text": "A férjemnek problémái voltak a munkahelyi stressz miatt. Egy szakember ajánlotta a Urosafet. A termék bevált! Újra van intimitás közöttünk, a dolog hosszabb, gyakrabb és jobb!"
       },
 
       {
-        "src": "img/review_feronex_11.png",
+        "src": "img/review_urosaf_11.png",
         "name": "Szilvási Vera",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4750,13 +4750,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjem már régóta szed stimuláns tablettákat. A mellékhatás ingerlékenység és fejfájás volt. Ragaszkodtam hozzá, hogy Feronexre cseréljük. Hat hónap telt el, a kúra véget ért, és a férjemnek már nincs szüksége \"segítségre\" a szex előtt!"
+        "text": "A férjem már régóta szed stimuláns tablettákat. A mellékhatás ingerlékenység és fejfájás volt. Ragaszkodtam hozzá, hogy Urosafre cseréljük. Hat hónap telt el, a kúra véget ért, és a férjemnek már nincs szüksége \"segítségre\" a szex előtt!"
       },
 
       {
-        "src": "img/review_feronex_12.png",
+        "src": "img/review_urosaf_12.png",
         "name": "Ecsedi Sándor",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4780,13 +4780,13 @@
             "type": "empty"
           }
         ],
-        "text": "Kíváncsiságból rendeltem Feronexet. De a hatás lenyűgöző volt! Ráadásul a szállítás gyors volt, és a termék jól csomagolt."
+        "text": "Kíváncsiságból rendeltem Urosafet. De a hatás lenyűgöző volt! Ráadásul a szállítás gyors volt, és a termék jól csomagolt."
       },
 
       {
-        "src": "img/review_feronex_13.png",
+        "src": "img/review_urosaf_13.png",
         "name": "Rigó Kristóf",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4814,9 +4814,9 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
+        "src": "img/review_urosaf_14.png",
         "name": "Gáspár Erik",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4844,9 +4844,9 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
+        "src": "img/review_urosaf_15.png",
         "name": "Szalai Viktor",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;UROSAF",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4873,11 +4873,11 @@
         "text": "A hatás már a használat első napjaitól kezdve megvolt. A feleségemmel gyakrabban bújunk össze. Boldog, elégedett. Újra fiatalnak érzem magam és erősnek!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Laskó Henrietta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4901,13 +4901,13 @@
             "type": "empty"
           }
         ],
-        "text": "Évekig küzdöttem a lábgombával. Minden készítménynek csak átmeneti hatása volt. A Keramin segített elfelejteni ezt a problémát örökre. Most már egészséges a bőröm és a körmeim!"
+        "text": "Évekig küzdöttem a lábgombával. Minden készítménynek csak átmeneti hatása volt. A Demyxil segített elfelejteni ezt a problémát örökre. Most már egészséges a bőröm és a körmeim!"
       },
 
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Orlik Laura",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4931,13 +4931,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrég fedeztem fel, hogy a nyakamon az egész bőröm papillómákkal borított. Úgy döntöttem, hogy kipróbálom a Keramin krémet. Működött. Elég hatásos. A papillómáktól gyorsan megszabadultam, a bőröm pedig egészségesnek és hidratáltnak érzem!"
+        "text": "Nemrég fedeztem fel, hogy a nyakamon az egész bőröm papillómákkal borított. Úgy döntöttem, hogy kipróbálom a Demyxil krémet. Működött. Elég hatásos. A papillómáktól gyorsan megszabadultam, a bőröm pedig egészségesnek és hidratáltnak érzem!"
       },
 
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Fábik Orsolya",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4961,13 +4961,13 @@
             "type": "empty"
           }
         ],
-        "text": "A könyökömön találtam olyan foltokat, amelyek nagyon viszketnek és hámlanak. Egy szakember ajánlotta a Keramint. Nagyszerű volt! Az első naptól kezdve enyhülést tapasztaltam, és egy kúra után a probléma teljesen megszűnt."
+        "text": "A könyökömön találtam olyan foltokat, amelyek nagyon viszketnek és hámlanak. Egy szakember ajánlotta a Demyxilt. Nagyszerű volt! Az első naptól kezdve enyhülést tapasztaltam, és egy kúra után a probléma teljesen megszűnt."
       },
 
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Jacsó Bianka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4991,13 +4991,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Keramin krémmel pozitív tapasztalataim vannak. Kiváló és hatékony termék olajokkal! Puhítja a bőrt és segít a gomba elleni küzdelemben."
+        "text": "A Demyxil krémmel pozitív tapasztalataim vannak. Kiváló és hatékony termék olajokkal! Puhítja a bőrt és segít a gomba elleni küzdelemben."
       },
 
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Vértes Krisztián",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5025,9 +5025,9 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Lacza Réka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5055,9 +5055,9 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Pilsák Adél",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5081,13 +5081,13 @@
             "type": "empty"
           }
         ],
-        "text": "A hormonális egyensúlyhiány bőrproblémákat okozott. Szárazság, repedések, viszketés, különösen a térdemen, a fejemen és a könyökömön. A Keramin volt az egyetlen dolog, ami segített. A bőröm teljesen megújult és a kellemetlen tünetek már az első nap eltűntek!"
+        "text": "A hormonális egyensúlyhiány bőrproblémákat okozott. Szárazság, repedések, viszketés, különösen a térdemen, a fejemen és a könyökömön. A Demyxil volt az egyetlen dolog, ami segített. A bőröm teljesen megújult és a kellemetlen tünetek már az első nap eltűntek!"
       },
 
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Tihanyi Róbert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5115,9 +5115,9 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Szarvas Balázs",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5145,9 +5145,9 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Matolcsi Klára",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5175,9 +5175,9 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Pásti Boglárka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5205,9 +5205,9 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Ambrus Zsófia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5235,9 +5235,9 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Polay Kincső",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5265,9 +5265,9 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Terek Gyöngyi",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5295,9 +5295,9 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Pap Karolina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5321,14 +5321,14 @@
             "type": "empty"
           }
         ],
-        "text": "A legjobb krém bőrgyógyászati problémákra. Nagyon hatásosnak találtam a gomba és a papillomák ellen is. A Keraminnak köszönhetően a bőröm teljesen egészséges!"
+        "text": "A legjobb krém bőrgyógyászati problémákra. Nagyon hatásosnak találtam a gomba és a papillomák ellen is. A Demyxilnak köszönhetően a bőröm teljesen egészséges!"
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
+        "src": "img/review_vasaxal_1.png",
         "name": "Pető Margaréta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5352,13 +5352,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrég rendeltem Neoveris gélt. Alkalmazása után kellemes hűsítő hatás érezhető. Már néhány nap után könnyedség jelenik meg, lényegében az első alkalmazás után hat."
+        "text": "Nemrég rendeltem Vasaxal gélt. Alkalmazása után kellemes hűsítő hatás érezhető. Már néhány nap után könnyedség jelenik meg, lényegében az első alkalmazás után hat."
       },
 
       {
-        "src": "img/review_neoveris_2.png",
+        "src": "img/review_vasaxal_2.png",
         "name": "Gidaly Olívia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5386,9 +5386,9 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
+        "src": "img/review_vasaxal_3.png",
         "name": "Fanta A.",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5416,9 +5416,9 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
+        "src": "img/review_vasaxal_4.png",
         "name": "Sima Aranka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5446,9 +5446,9 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
+        "src": "img/review_vasaxal_5.png",
         "name": "Barabás Ferenc",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5472,13 +5472,13 @@
             "type": "empty"
           }
         ],
-        "text": "Anyukámnak vettem a Neoverist, és nagyon elégedett vele. Azt mondja, sokkal könnyebb, kevésbé duzzadt a lába és nem fáj!"
+        "text": "Anyukámnak vettem a Vasaxalt, és nagyon elégedett vele. Azt mondja, sokkal könnyebb, kevésbé duzzadt a lába és nem fáj!"
       },
 
       {
-        "src": "img/review_neoveris_6.png",
+        "src": "img/review_vasaxal_6.png",
         "name": "Vadász Kornélia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5506,9 +5506,9 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
+        "src": "img/review_vasaxal_7.png",
         "name": "Sánta Viktória",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5536,9 +5536,9 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
+        "src": "img/review_vasaxal_8.png",
         "name": "Takács Alex",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5566,9 +5566,9 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
+        "src": "img/review_vasaxal_9.png",
         "name": "Virág Renáta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5592,13 +5592,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Neoveris visszahozta a könnyedséget a lábaimba. A vénák már nem gyulladnak be, az érhálózatok eltűntek. Nagyon kellemes hatás az alkalmazás után."
+        "text": "A Vasaxal visszahozta a könnyedséget a lábaimba. A vénák már nem gyulladnak be, az érhálózatok eltűntek. Nagyon kellemes hatás az alkalmazás után."
       },
 
       {
-        "src": "img/review_neoveris_10.png",
+        "src": "img/review_vasaxal_10.png",
         "name": "Kacsó Kristóf",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5622,13 +5622,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sokat sportolok, ami zúzódásokat és fájdalmat okoz a lábamban. A Neoveris használata után nincs ilyen problémám. A fájdalom elmúlik, még megerőltetés után is, nincs probléma."
+        "text": "Sokat sportolok, ami zúzódásokat és fájdalmat okoz a lábamban. A Vasaxal használata után nincs ilyen problémám. A fájdalom elmúlik, még megerőltetés után is, nincs probléma."
       },
 
       {
-        "src": "img/review_neoveris_11.png",
+        "src": "img/review_vasaxal_11.png",
         "name": "Almássy Teodóra",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5652,13 +5652,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrégiben szereztem tudomást a Neoveris gélről. Rengeteg pozitív értékelés van. Azonnal éreztem az eredményt, a nehézkesség eltűnt, az erek nem olyan duzzadtak. Elégedett vagyok!"
+        "text": "Nemrégiben szereztem tudomást a Vasaxal gélről. Rengeteg pozitív értékelés van. Azonnal éreztem az eredményt, a nehézkesség eltűnt, az erek nem olyan duzzadtak. Elégedett vagyok!"
       },
 
       {
-        "src": "img/review_neoveris_12.png",
+        "src": "img/review_vasaxal_12.png",
         "name": "Váradi Zsanett",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5682,13 +5682,13 @@
             "type": "empty"
           }
         ],
-        "text": "Régóta vannak vénaproblémáim, örököltem őket. Borzasztóan féltem a műtéttől, de a Neoveris segített megelőzni. A vénák kevésbé láthatóak, nincs fájdalom, nincsenek görcsök."
+        "text": "Régóta vannak vénaproblémáim, örököltem őket. Borzasztóan féltem a műtéttől, de a Vasaxal segített megelőzni. A vénák kevésbé láthatóak, nincs fájdalom, nincsenek görcsök."
       },
 
       {
-        "src": "img/review_neoveris_13.png",
+        "src": "img/review_vasaxal_13.png",
         "name": "Újhelyi Marianna",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5716,9 +5716,9 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
+        "src": "img/review_vasaxal_14.png",
         "name": "Kormos Ramóna",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5742,13 +5742,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Neoveris a legjobb dolog, amit valaha kipróbáltam, már csalódtam a gélekben és krémekben, de a Neoveris után rájöttem, hogy egy jó termék segíthet a vénatágulásban!"
+        "text": "A Vasaxal a legjobb dolog, amit valaha kipróbáltam, már csalódtam a gélekben és krémekben, de a Vasaxal után rájöttem, hogy egy jó termék segíthet a vénatágulásban!"
       },
 
       {
-        "src": "img/review_neoveris_15.png",
+        "src": "img/review_vasaxal_15.png",
         "name": "Hegedűs Ernő",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5772,14 +5772,14 @@
             "type": "empty"
           }
         ],
-        "text": "A Neoverist a feleségem használja, akinek fiatal kora óta vénaproblémái vannak. Elégedett az eredménnyel. Az elmúlt hat hónapban nem panaszkodott az egészségére, és a vénák szinte láthatatlanok a lábán."
+        "text": "A Vasaxalt a feleségem használja, akinek fiatal kora óta vénaproblémái vannak. Elégedett az eredménnyel. Az elmúlt hat hónapban nem panaszkodott az egészségére, és a vénák szinte láthatatlanok a lábán."
       }
     ],
-    "reviews_ottomax": [
+    "reviews_ausen": [
       {
-        "src": "img/review_ottomax_1.png",
+        "src": "img/review_ausen_1.png",
         "name": "Lukács Henrietta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5803,13 +5803,13 @@
             "type": "empty"
           }
         ],
-        "text": "Amikor hallásproblémáim támadtak, sokáig kerestem a megfelelő készítményt. Az Ottomax+-t ajánlották. A hatás határozottan megvan! Most már nem kell átkérdeznem mindent. És nem drága!"
+        "text": "Amikor hallásproblémáim támadtak, sokáig kerestem a megfelelő készítményt. Az Ausen-t ajánlották. A hatás határozottan megvan! Most már nem kell átkérdeznem mindent. És nem drága!"
       },
 
       {
-        "src": "img/review_ottomax_2.png",
+        "src": "img/review_ausen_2.png",
         "name": "Héder Franciska",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5837,9 +5837,9 @@
       },
 
       {
-        "src": "img/review_ottomax_3.png",
+        "src": "img/review_ausen_3.png",
         "name": "Fekete Borbála",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5867,9 +5867,9 @@
       },
 
       {
-        "src": "img/review_ottomax_4.png",
+        "src": "img/review_ausen_4.png",
         "name": "Radics András",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5893,13 +5893,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hónapokig küzdöttem a fülcseppekkel, amíg nem találtam rá az Ottomax+-ra. Sokkal kényelmesebb használni, és az eredmények is megvannak. Jobban hallok, és a fülcsengés is megszűnt."
+        "text": "Hónapokig küzdöttem a fülcseppekkel, amíg nem találtam rá az Ausen-ra. Sokkal kényelmesebb használni, és az eredmények is megvannak. Jobban hallok, és a fülcsengés is megszűnt."
       },
 
       {
-        "src": "img/review_ottomax_5.png",
+        "src": "img/review_ausen_5.png",
         "name": "Csedreki Tamás",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5927,9 +5927,9 @@
       },
 
       {
-        "src": "img/review_ottomax_6.png",
+        "src": "img/review_ausen_6.png",
         "name": "Czirják Júlia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5953,13 +5953,13 @@
             "type": "empty"
           }
         ],
-        "text": "Az Ottomax+ hatékonyságát akkor értékeltem, amikor egy koncert után elvesztettem a hallásomat. Ez segít. Nagy előnye, hogy nem cseppek, hanem kapszula formájában van."
+        "text": "Az Ausen hatékonyságát akkor értékeltem, amikor egy koncert után elvesztettem a hallásomat. Ez segít. Nagy előnye, hogy nem cseppek, hanem kapszula formájában van."
       },
 
       {
-        "src": "img/review_ottomax_7.png",
+        "src": "img/review_ausen_7.png",
         "name": "Marinka Gabriella",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5983,13 +5983,13 @@
             "type": "empty"
           }
         ],
-        "text": "Az influenza szövődménye okozta a fülproblémáimat. A fájdalom szörnyű volt, és fülzúgás is volt. A tabletták enyhítették a fájdalmat, de csak az Ottomax+ segített teljesen helyreállítani a hallásomat. Most már ajánlom barátaimnak és ismerőseimnek!"
+        "text": "Az influenza szövődménye okozta a fülproblémáimat. A fájdalom szörnyű volt, és fülzúgás is volt. A tabletták enyhítették a fájdalmat, de csak az Ausen segített teljesen helyreállítani a hallásomat. Most már ajánlom barátaimnak és ismerőseimnek!"
       },
 
       {
-        "src": "img/review_ottomax_8.png",
+        "src": "img/review_ausen_8.png",
         "name": "Dezsőfi Hajnalka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6013,13 +6013,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ahogy öregedtem, a hallásom rohamosan romlani kezdett. Egy szakember ajánlotta az Ottomax+-t. És ez tényleg segített! Megszabadított a zúgástól, ami mindig is zavart."
+        "text": "Ahogy öregedtem, a hallásom rohamosan romlani kezdett. Egy szakember ajánlotta az Ausen-t. És ez tényleg segített! Megszabadított a zúgástól, ami mindig is zavart."
       },
 
       {
-        "src": "img/review_ottomax_9.png",
+        "src": "img/review_ausen_9.png",
         "name": "Dúró Albert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6047,9 +6047,9 @@
       },
 
       {
-        "src": "img/review_ottomax_10.png",
+        "src": "img/review_ausen_10.png",
         "name": "Kondros Johanna",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6073,13 +6073,13 @@
             "type": "empty"
           }
         ],
-        "text": "A nagymamámnak rendeltem Ottomax+-t. Mondja, és látom is, hogy a hallása javult. Azt is mondja, hogy jobban alszik. Tehát segíthet az időskori problémákon!"
+        "text": "A nagymamámnak rendeltem Ausen-t. Mondja, és látom is, hogy a hallása javult. Azt is mondja, hogy jobban alszik. Tehát segíthet az időskori problémákon!"
       },
 
       {
-        "src": "img/review_ottomax_11.png",
+        "src": "img/review_ausen_11.png",
         "name": "Barabás Levente",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6107,9 +6107,9 @@
       },
 
       {
-        "src": "img/review_ottomax_12.png",
+        "src": "img/review_ausen_12.png",
         "name": "Bodnár Ágnes",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6137,9 +6137,9 @@
       },
 
       {
-        "src": "img/review_ottomax_13.png",
+        "src": "img/review_ausen_13.png",
         "name": "Dobi Katalin",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6163,13 +6163,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nem ez az első alkalom, hogy az Ottomax+-t veszem. Segít a krónikus betegségeken és az időskori halláscsökkenésen. Gyulladásokra is használom. Nagyon elégedett vagyok a termékkel!"
+        "text": "Nem ez az első alkalom, hogy az Ausen-t veszem. Segít a krónikus betegségeken és az időskori halláscsökkenésen. Gyulladásokra is használom. Nagyon elégedett vagyok a termékkel!"
       },
 
       {
-        "src": "img/review_ottomax_14.png",
+        "src": "img/review_ausen_14.png",
         "name": "Szekeres Máté",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6197,9 +6197,9 @@
       },
 
       {
-        "src": "img/review_ottomax_15.png",
+        "src": "img/review_ausen_15.png",
         "name": "Móré Kriszta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;OTTOMAX+",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Ausen",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -6223,7 +6223,7 @@
             "type": "empty"
           }
         ],
-        "text": "Zajos környezetben dolgozom, és ez megviseli a hallásomat. Az Ottomax+ után sokkal jobban hallok, nincs fülzúgás este, még az alvásom is javult! Köszönöm a termék minőségét és hatékonyságát!"
+        "text": "Zajos környezetben dolgozom, és ez megviseli a hallásomat. Az Ausen után sokkal jobban hallok, nincs fülzúgás este, még az alvásom is javult! Köszönöm a termék minőségét és hatékonyságát!"
       }
     ],
     "reviews_paraxan": [
@@ -8318,11 +8318,11 @@
         "text": "Kiválóan alkalmas mindenféle szembetegségre. Gyulladás, szárazság, könnyezés, kellemetlen érzés - mind elmúlik. És jobban is látok!"
       }
     ],
-    "reviews_wintex_ultra": [
+    "reviews_trovazin": [
       {
-        "src": "img/review_wintex-ultra_1.png",
+        "src": "img/review_trovazin_1.png",
         "name": "Borbély Viktória",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8346,13 +8346,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra már az első napokban megszüntette a lábam nehézkességét és duzzanatát. Sokkal könnyebbnek tűnik. Hatékony segítség a visszerességben szenvedőknek."
+        "text": "A Trovazin már az első napokban megszüntette a lábam nehézkességét és duzzanatát. Sokkal könnyebbnek tűnik. Hatékony segítség a visszerességben szenvedőknek."
       },
 
       {
-        "src": "img/review_wintex-ultra_2.png",
+        "src": "img/review_trovazin_2.png",
         "name": "Lakatos Márk",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8376,13 +8376,13 @@
             "type": "empty"
           }
         ],
-        "text": "Múlt héten kipróbáltam a Wintex Ultra-t. Jó gél, már az első alkalmazástól kezdve megkönnyebbülést éreztem. Továbbra is használni fogom."
+        "text": "Múlt héten kipróbáltam a Trovazin. Jó gél, már az első alkalmazástól kezdve megkönnyebbülést éreztem. Továbbra is használni fogom."
       },
 
       {
-        "src": "img/review_wintex-ultra_3.png",
+        "src": "img/review_trovazin_3.png",
         "name": "Petrák Dorina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8406,13 +8406,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra kiváló gél kellemes hűsítő hatással. Gyorsan felszívódik és megkönnyebbülést ad! 100%-ig elégedett vagyok!"
+        "text": "A Trovazin kiváló gél kellemes hűsítő hatással. Gyorsan felszívódik és megkönnyebbülést ad! 100%-ig elégedett vagyok!"
       },
 
       {
-        "src": "img/review_wintex-ultra_4.png",
+        "src": "img/review_trovazin_4.png",
         "name": "Spák Olga",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8440,9 +8440,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_5.png",
+        "src": "img/review_trovazin_5.png",
         "name": "Mezei János",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8466,13 +8466,13 @@
             "type": "empty"
           }
         ],
-        "text": "A fiam a Wintex Ultra-t használja, és nekem is ajánlotta. Nagyszerű gél azok számára, akik visszerekkel élnek, vagy egész nap állva töltik a napot. Enyhíti a nehézséget, a fájdalmat és a duzzanatot."
+        "text": "A fiam a Trovazin használja, és nekem is ajánlotta. Nagyszerű gél azok számára, akik visszerekkel élnek, vagy egész nap állva töltik a napot. Enyhíti a nehézséget, a fájdalmat és a duzzanatot."
       },
 
       {
-        "src": "img/review_wintex-ultra_6.png",
+        "src": "img/review_trovazin_6.png",
         "name": "Maros Judit",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8496,13 +8496,13 @@
             "type": "empty"
           }
         ],
-        "text": "Kidobtam az összes krémet és kenőcsöt, és csak a Wintex Ultra maradt. Kiváló termék jó áron. Működik! Érzem a hatását, amint felkenem!"
+        "text": "Kidobtam az összes krémet és kenőcsöt, és csak a Trovazin maradt. Kiváló termék jó áron. Működik! Érzem a hatását, amint felkenem!"
       },
 
       {
-        "src": "img/review_wintex-ultra_7.png",
+        "src": "img/review_trovazin_7.png",
         "name": "Rékasi A.",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8526,13 +8526,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra gél használata után a vénák valóban kevésbé láthatóvá váltak. A kidudorodó erek eltűntek. Évente kétszer használom a Wintex Ultra-t, és semmi gondom nincs!"
+        "text": "A Trovazin gél használata után a vénák valóban kevésbé láthatóvá váltak. A kidudorodó erek eltűntek. Évente kétszer használom a Trovazin, és semmi gondom nincs!"
       },
 
       {
-        "src": "img/review_wintex-ultra_8.png",
+        "src": "img/review_trovazin_8.png",
         "name": "Halász Viola",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8556,13 +8556,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra-t édesanyámnak rendeltem, és nagyon elégedett vele. Azt mondja, sokkal jobban érzi magát ezzel a géllel. A lábai kevésbé duzzadtak, a görcsök és a fájdalom már nem jelentenek gondot."
+        "text": "A Trovazin édesanyámnak rendeltem, és nagyon elégedett vele. Azt mondja, sokkal jobban érzi magát ezzel a géllel. A lábai kevésbé duzzadtak, a görcsök és a fájdalom már nem jelentenek gondot."
       },
 
       {
-        "src": "img/review_wintex-ultra_9.png",
+        "src": "img/review_trovazin_9.png",
         "name": "Bajusz Z.",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8586,13 +8586,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra enyhíti a fájdalmat, és kevésbé láthatóvá teszi a vénákat és a vénahálókat. Kényelmes, hogy nem kell sehova sem mennie érte, hanem online megrendelheted, és otthon átveheted."
+        "text": "A Trovazin enyhíti a fájdalmat, és kevésbé láthatóvá teszi a vénákat és a vénahálókat. Kényelmes, hogy nem kell sehova sem mennie érte, hanem online megrendelheted, és otthon átveheted."
       },
 
       {
-        "src": "img/review_wintex-ultra_10.png",
+        "src": "img/review_trovazin_10.png",
         "name": "Szabó Fruzsina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8620,9 +8620,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_11.png",
+        "src": "img/review_trovazin_11.png",
         "name": "Dudás Elza",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8646,13 +8646,13 @@
             "type": "empty"
           }
         ],
-        "text": "Többféle kenőcsöt és krémet kipróbáltam már a visszerekre, de a Wintex Ultra a legjobb. Kiváló természetes összetétel és hatékony hatás. Nem érzek semmi nehézséget a lábamban, könnyűnek érzem magam!"
+        "text": "Többféle kenőcsöt és krémet kipróbáltam már a visszerekre, de a Trovazin a legjobb. Kiváló természetes összetétel és hatékony hatás. Nem érzek semmi nehézséget a lábamban, könnyűnek érzem magam!"
       },
 
       {
-        "src": "img/review_wintex-ultra_12.png",
+        "src": "img/review_trovazin_12.png",
         "name": "Jászai Tünde",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8679,9 +8679,9 @@
         "text": "Egy használat után már nem fáj a lábam, a görcsök és a duzzanat megszűnt! A vénák már nem gyulladnak be. Azt tervezem, hogy megismétlem a kúrát."
       },
       {
-        "src": "img/review_wintex-ultra_13.png",
+        "src": "img/review_trovazin_13.png",
         "name": "Lajta Zoltán",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8709,9 +8709,9 @@
       },
 
       {
-        "src": "img/review_wintex-ultra_14.png",
+        "src": "img/review_trovazin_14.png",
         "name": "Csonka Laura",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8735,13 +8735,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Wintex Ultra segítségével a lábaim újra könnyűek lettek, és megszabadultam a pókhálós vénáktól. Előnyök: jó összetétel, könnyű textúra és kellemes illat. Nincs semmi mínusz!"
+        "text": "A Trovazin segítségével a lábaim újra könnyűek lettek, és megszabadultam a pókhálós vénáktól. Előnyök: jó összetétel, könnyű textúra és kellemes illat. Nincs semmi mínusz!"
       },
 
       {
-        "src": "img/review_wintex-ultra_15.png",
+        "src": "img/review_trovazin_15.png",
         "name": "Tóth Karolina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Wintex&nbsp;Ultra",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Trovazin",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8768,11 +8768,11 @@
         "text": "Kellemesen hűsít, enyhíti a fájdalmat, nincs többé görcs éjszakánként. Már az első nap éreztem a hatását, és napról napra jobb lett!"
       }
     ],
-    "reviews_wirex_mens_formula": [
+    "reviews_viarex": [
       {
-        "src": "img/review_wirex-mens-formula_1.png",
+        "src": "img/review_viarex_1.png",
         "name": "Kulcsár János",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8800,9 +8800,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_2.png",
+        "src": "img/review_viarex_2.png",
         "name": "Fodor Levente",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8830,9 +8830,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_3.png",
+        "src": "img/review_viarex_3.png",
         "name": "Demeter Barbara",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8860,9 +8860,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_4.png",
+        "src": "img/review_viarex_4.png",
         "name": "Szankó György",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8886,13 +8886,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ahogy a férfiak öregszenek, minden férfinak lehetnek intimitási problémái. Nekem is, amíg ki nem próbáltam a Wirex men's formula-t. Ajánlom!"
+        "text": "Ahogy a férfiak öregszenek, minden férfinak lehetnek intimitási problémái. Nekem is, amíg ki nem próbáltam a Viarex. Ajánlom!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_5.png",
+        "src": "img/review_viarex_5.png",
         "name": "Ecsedi Klaudia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8916,13 +8916,13 @@
             "type": "empty"
           }
         ],
-        "text": "Meglepett a férjem viselkedése az utóbbi időben, mintha visszatért volna a fiatalsága. Aztán megtaláltam a táskájában a Wirex men's formula-t, és minden értelmet nyert."
+        "text": "Meglepett a férjem viselkedése az utóbbi időben, mintha visszatért volna a fiatalsága. Aztán megtaláltam a táskájában a Viarex, és minden értelmet nyert."
       },
 
       {
-        "src": "img/review_wirex-mens-formula_6.png",
+        "src": "img/review_viarex_6.png",
         "name": "Máté Ernő",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8950,9 +8950,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_7.png",
+        "src": "img/review_viarex_7.png",
         "name": "Páva Tamás",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -8980,9 +8980,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_8.png",
+        "src": "img/review_viarex_8.png",
         "name": "Fekete Kinga",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9006,13 +9006,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjem stressz alatt volt, és \"férfi problémái\" kezdtek lenni. Rábeszéltem, hogy próbálja ki a Wirex men's formulát, és ez segített! Visszakapta a vágyát, szex minden nap!"
+        "text": "A férjem stressz alatt volt, és \"férfi problémái\" kezdtek lenni. Rábeszéltem, hogy próbálja ki a Viarex, és ez segített! Visszakapta a vágyát, szex minden nap!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_9.png",
+        "src": "img/review_viarex_9.png",
         "name": "Seres Rita",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9036,13 +9036,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nagyszerű termék. A férjem elégedett a Wirex men's formula hatásával én pedig végre elégedett vagyok a férjemmel. Nem is gondoltam, hogy órákig bírja!"
+        "text": "Nagyszerű termék. A férjem elégedett a Viarex hatásával én pedig végre elégedett vagyok a férjemmel. Nem is gondoltam, hogy órákig bírja!"
       },
 
       {
-        "src": "img/review_wirex-mens-formula_10.png",
+        "src": "img/review_viarex_10.png",
         "name": "Petróczy Szabina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9070,9 +9070,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_11.png",
+        "src": "img/review_viarex_11.png",
         "name": "Dankó Hunor",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9100,9 +9100,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_12.png",
+        "src": "img/review_viarex_12.png",
         "name": "Gajda Irén",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9130,9 +9130,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_13.png",
+        "src": "img/review_viarex_13.png",
         "name": "Molnár Sándor",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9160,9 +9160,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_14.png",
+        "src": "img/review_viarex_14.png",
         "name": "Veres Mihály",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9190,9 +9190,9 @@
       },
 
       {
-        "src": "img/review_wirex-mens-formula_15.png",
+        "src": "img/review_viarex_15.png",
         "name": "Kósa Róbert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;WIREX&nbsp;MEN`S FORMULA",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Viarex",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -9216,7 +9216,7 @@
             "type": "empty"
           }
         ],
-        "text": "Kevéssé hittem abban, hogy a Wirex men`s formula segíthet, de tévedtem. Már az első nap éreztem az eredményeket, a kúra után helyreállt az egészségem, és nem volt többé problémám a \"barátommal\"."
+        "text": "Kevéssé hittem abban, hogy a Viarex segíthet, de tévedtem. Már az első nap éreztem az eredményeket, a kúra után helyreállt az egészségem, és nem volt többé problémám a \"barátommal\"."
       }
     ],
     "reviews_guavital": [
@@ -10116,11 +10116,11 @@
         "text": "Comment text - Ophtalax"
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_1.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10144,13 +10144,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_2.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10174,13 +10174,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_3.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10204,13 +10204,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_4.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10234,13 +10234,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_5.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10264,13 +10264,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_6.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10294,13 +10294,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_7.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10324,13 +10324,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_8.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10354,13 +10354,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_9.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10384,13 +10384,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_10.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10414,13 +10414,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_11.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10444,13 +10444,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_12.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10474,13 +10474,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_13.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10504,13 +10504,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_14.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10534,13 +10534,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_15.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10564,7 +10564,7 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       }
     ]
   }

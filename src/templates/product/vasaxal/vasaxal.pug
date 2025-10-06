@@ -1,0 +1,11 @@
+include ../../mixins/product-page
+
+-
+	var PRODUCT_NAME = 'Vasaxal'
+	var PRODUCT_CARD = LANG.product_card;
+	var CURRENT_PRODUCT = LANG.vasaxal;
+	var RECOMMENDATIONS = LANG.recommendations.filter(prod => prod.name === 'Steplex' || prod.name === 'Exofeet Oil' || prod.name === 'Delislim')
+	var REVIEWS = LANG.reviews.reviews_vasaxal;
+	REVIEWS.length = 3;
+
++productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, REVIEWS)
