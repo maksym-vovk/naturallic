@@ -799,10 +799,10 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -829,8 +829,8 @@
       ],
       "text": "267 κριτικές",
       "desc": "Το προϊόν, με φυτική βάση, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη αιμορροΐδων.",
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     }
@@ -1554,12 +1554,12 @@
       "niche": "Κατεύθυνση: όραση"
     },
     {
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1874,7 +1874,7 @@
     "suitability": "2 έτη",
     "keep": "Φυλάξτε το σε ξηρό μέρος, απρόσιτο για τα παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "vasos-duo": {
+  "vasos_duo": {
     "title": "Vasos Duo",
     "category": "Υγεία",
     "review_count": "333 κριτικές",
@@ -2033,7 +2033,7 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "vasos-duo": {
+    "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
@@ -9771,9 +9771,9 @@
         ]
       }
     ],
-    "reviews_vasos-duo": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_vasos-duo_1.png",
+        "src": "img/review_vasos_duo_1.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δήμητρα Ιωάννου",
@@ -9802,7 +9802,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_2.png",
+        "src": "img/review_vasos_duo_2.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γεωργία Κομιώτη",
@@ -9831,7 +9831,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_3.png",
+        "src": "img/review_vasos_duo_3.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βαρβάρα Παναγιώτου",
@@ -9860,7 +9860,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_4.png",
+        "src": "img/review_vasos_duo_4.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αλεξάνδρα Μαρίνου",
@@ -9889,7 +9889,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_5.png",
+        "src": "img/review_vasos_duo_5.png",
         "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γιώργος Γεωργίου",
@@ -9918,7 +9918,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_6.png",
+        "src": "img/review_vasos_duo_6.png",
         "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκάς Πετρίδης",
@@ -9947,7 +9947,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_7.png",
+        "src": "img/review_vasos_duo_7.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέλλα Μάνου",
@@ -9976,7 +9976,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_8.png",
+        "src": "img/review_vasos_duo_8.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελεονώρα Δημητρίου",
@@ -10005,7 +10005,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_9.png",
+        "src": "img/review_vasos_duo_9.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρία Μήτρου",
@@ -10034,7 +10034,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_10.png",
+        "src": "img/review_vasos_duo_10.png",
         "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δήμος Δανιηλίδης",
@@ -10063,7 +10063,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_11.png",
+        "src": "img/review_vasos_duo_11.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκλόρια Δριάνοβα",
@@ -10092,7 +10092,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_12.png",
+        "src": "img/review_vasos_duo_12.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πρεσλάβα Πέεβα",
@@ -10121,7 +10121,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_13.png",
+        "src": "img/review_vasos_duo_13.png",
         "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ηλίας Καραϊβάνης",
@@ -10150,7 +10150,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_14.png",
+        "src": "img/review_vasos_duo_14.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Νεφέλη Αράβου",
@@ -10179,7 +10179,7 @@
         ]
       },
       {
-        "src": "img/review_vasos-duo_15.png",
+        "src": "img/review_vasos_duo_15.png",
         "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζωή Βοδουρά",

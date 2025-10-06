@@ -492,12 +492,12 @@ var productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Ciupercă',
       country: 'Romania',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -519,13 +519,13 @@ var productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Hemoroizi',
       country: 'Romania',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "800",
       newPrice: "111111"
     }
@@ -682,12 +682,12 @@ var productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Gomba',
       country: 'Hungary',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -709,13 +709,13 @@ var productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Aranyér',
       country: 'Hungary',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "800",
       newPrice: "111111"
     }
@@ -872,12 +872,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Fungo',
       country: 'Italy',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "28",
       newPrice: "106"
     },
@@ -899,13 +899,13 @@ var productsInfo = {
       salePrice: "28",
       newPrice: "123"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Emorroide',
       country: 'Italy',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }
@@ -1062,12 +1062,12 @@ var productsInfo = {
       salePrice: "505",
       newPrice: "1874"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Fungus',
       country: 'Czech',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "525",
       newPrice: "2654"
     },
@@ -1089,13 +1089,13 @@ var productsInfo = {
       salePrice: "515",
       newPrice: "1765"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Hemoroidy',
       country: 'Czech',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "519",
       newPrice: "1983"
     }
@@ -1252,12 +1252,12 @@ var productsInfo = {
       salePrice: "42",
       newPrice: "123"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Гъбички',
       country: 'Bulgaria',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "45",
       newPrice: "164"
     },
@@ -1279,13 +1279,13 @@ var productsInfo = {
       salePrice: "45",
       newPrice: "205"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Хемороиди',
       country: 'Bulgaria',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "42",
       newPrice: "130"
     }
@@ -1442,12 +1442,12 @@ var productsInfo = {
       salePrice: "24",
       newPrice: "77"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Seenhaigus',
       country: 'Estonia',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -1469,13 +1469,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "109"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Hemorroidid',
       country: 'Estonia',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "24",
       newPrice: "88"
     }
@@ -1632,12 +1632,12 @@ var productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Gljivice',
       country: 'Croatia',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -1659,13 +1659,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "119"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Hemoroidi',
       country: 'Croatia',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }
@@ -1822,12 +1822,12 @@ var productsInfo = {
       salePrice: "24",
       newPrice: "77"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Grybelis',
       country: 'Lithuania',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -1849,13 +1849,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "109"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Hemorojus',
       country: 'Lithuania',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "24",
       newPrice: "88"
     }
@@ -2012,12 +2012,12 @@ var productsInfo = {
       salePrice: "24",
       newPrice: "77"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Sēnīte',
       country: 'Latvia',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "82",
       newPrice: "26"
     },
@@ -2039,13 +2039,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "109"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Hemoroīdi',
       country: 'Latvia',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "24",
       newPrice: "88"
     }
@@ -2202,12 +2202,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Fungo',
       country: 'Portugal',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "106",
       newPrice: "30"
     },
@@ -2229,13 +2229,13 @@ var productsInfo = {
       salePrice: "27",
       newPrice: "123"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Hemorróidas',
       country: 'Portugal',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }
@@ -2392,12 +2392,12 @@ var productsInfo = {
       salePrice: "92",
       newPrice: "270"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Grzybica',
       country: 'Poland',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "95",
       newPrice: "354"
     },
@@ -2419,13 +2419,13 @@ var productsInfo = {
       salePrice: "94",
       newPrice: "450"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Hemoroidy',
       country: 'Poland',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "91",
       newPrice: "287"
     }
@@ -2582,12 +2582,12 @@ var productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Glivice',
       country: 'Slovenia',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -2609,13 +2609,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "119"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Hemoroidy',
       country: 'Slovenia',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }
@@ -2772,12 +2772,12 @@ var productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Pleseň (mykóza)',
       country: 'Slovakia',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -2799,13 +2799,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "119"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Hemoroidy',
       country: 'Slovakia',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }
@@ -2962,12 +2962,12 @@ var productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Mycose',
       country: 'Belgium',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -2989,13 +2989,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "119"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Hémorroïdes',
       country: 'Belgium',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }
@@ -3152,12 +3152,12 @@ var productsInfo = {
       salePrice: "25",
       newPrice: "73"
     },
-    keramin: {
+    demyxil: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Μύκητας',
       country: 'Greece',
-      productName: 'Keramin',
+      productName: 'Demyxil',
       salePrice: "26",
       newPrice: "82"
     },
@@ -3179,13 +3179,13 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "119"
     },
-    rectin: {
+    vasos_duo: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'αιμορροΐδες',
       country: 'Greece',
-      productName: 'Rectin',
+      productName: 'Vasos Duo',
       salePrice: "26",
       newPrice: "80"
     }

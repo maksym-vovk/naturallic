@@ -801,10 +801,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -831,8 +831,8 @@
       ],
       "text": "267 recenzí",
       "desc": "Produkt na rostlinné bázi, posiluje cévy a prevence vzniku hemoroidů.",
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "DETALNĚJI"
     }
@@ -1557,12 +1557,12 @@
       "niche": "Směr: Zrak"
     },
     {
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1877,7 +1877,7 @@
     "suitability": "2 roky",
     "keep": "Uchovávejte v suchu, mimo dosah dětí, při teplotě nepřesahující +25 °C."
   },
-  "vasos-duo": {
+  "vasos_duo": {
     "title": "Vasos Duo",
     "category": "Pro zdraví",
     "review_count": "333 recenzí",
@@ -2036,7 +2036,7 @@
       "salePrice": "515",
       "newPrice": "1765"
     },
-    "vasos-duo": {
+    "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "519",
       "newPrice": "1983"
@@ -9965,9 +9965,9 @@
         "text": "Ophtalax mi pomohl odstranit napětí v očích a slzení kvůli dlouhé práci u počítače. Nyní trávím stejně času před monitorem, ale s očima je vše skvělé."
       }
     ],
-    "reviews_vasos-duo": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_vasos-duo_1.png",
+        "src": "img/review_vasos_duo_1.png",
         "name": "Jana Nováková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -9997,7 +9997,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_2.png",
+        "src": "img/review_vasos_duo_2.png",
         "name": "Eva Pospíšilová",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10027,7 +10027,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_3.png",
+        "src": "img/review_vasos_duo_3.png",
         "name": "Lucie Křížová",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10057,7 +10057,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_4.png",
+        "src": "img/review_vasos_duo_4.png",
         "name": "Marie Horáková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10087,7 +10087,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_5.png",
+        "src": "img/review_vasos_duo_5.png",
         "name": "Ladislav Vrzal",
         "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10117,7 +10117,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_6.png",
+        "src": "img/review_vasos_duo_6.png",
         "name": "Josef Novák",
         "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10147,7 +10147,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_7.png",
+        "src": "img/review_vasos_duo_7.png",
         "name": "Helena Vondráčková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10177,7 +10177,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_8.png",
+        "src": "img/review_vasos_duo_8.png",
         "name": "Kristýna Dvořáková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10207,7 +10207,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_9.png",
+        "src": "img/review_vasos_duo_9.png",
         "name": "Jana Nováková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10237,7 +10237,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_10.png",
+        "src": "img/review_vasos_duo_10.png",
         "name": "Petr Svoboda",
         "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10267,7 +10267,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_11.png",
+        "src": "img/review_vasos_duo_11.png",
         "name": "Hana Lavičková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10297,7 +10297,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_12.png",
+        "src": "img/review_vasos_duo_12.png",
         "name": "Marie Horáková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10327,7 +10327,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_13.png",
+        "src": "img/review_vasos_duo_13.png",
         "name": "Josef Novák",
         "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10357,7 +10357,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_14.png",
+        "src": "img/review_vasos_duo_14.png",
         "name": "Helena Vondráčková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
@@ -10387,7 +10387,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_15.png",
+        "src": "img/review_vasos_duo_15.png",
         "name": "Kristýna Dvořáková",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",

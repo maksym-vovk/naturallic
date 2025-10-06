@@ -802,10 +802,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -832,8 +832,8 @@
       ],
       "text": "267 opinii",
       "desc": "Produkt na bazie roślinnej wzmacnia ściany naczyń krwionośnych i zapobiega rozwojowi hemoroidów.",
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "Szczegóły"
     }
@@ -1560,12 +1560,12 @@
       "niche": "Zastosowanie: Wzrok"
     },
     {
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1881,7 +1881,7 @@
     "suitability": "2 lata",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "vasos-duo": {
+  "vasos_duo": {
     "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 opinii",
@@ -2040,7 +2040,7 @@
       "salePrice": "94",
       "newPrice": "450"
     },
-    "vasos-duo": {
+    "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "91",
       "newPrice": "287"
@@ -9969,9 +9969,9 @@
         "text": "Ophtalax pomógł mi wyeliminować napięcie w oczach i łzawienie z powodu długiej pracy przy komputerze. Teraz spędzam tyle samo czasu przed monitorem, ale z oczami jest wszystko w porządku."
       }
     ],
-    "reviews_vasos-duo": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_vasos-duo_1.png",
+        "src": "img/review_vasos_duo_1.png",
         "name": "Aniela Wilk",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10001,7 +10001,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_2.png",
+        "src": "img/review_vasos_duo_2.png",
         "name": "Olga Kubiak",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10031,7 +10031,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_3.png",
+        "src": "img/review_vasos_duo_3.png",
         "name": "Katarzyna Zakrzewska",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10061,7 +10061,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_4.png",
+        "src": "img/review_vasos_duo_4.png",
         "name": "Paulina Stępień",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10091,7 +10091,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_5.png",
+        "src": "img/review_vasos_duo_5.png",
         "name": "Jędrzej Szczepański",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10121,7 +10121,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_6.png",
+        "src": "img/review_vasos_duo_6.png",
         "name": "Aleks Górski",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10151,7 +10151,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_7.png",
+        "src": "img/review_vasos_duo_7.png",
         "name": "Roksana Jakubowska",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10181,7 +10181,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_8.png",
+        "src": "img/review_vasos_duo_8.png",
         "name": "Julianna Mróz",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10211,7 +10211,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_9.png",
+        "src": "img/review_vasos_duo_9.png",
         "name": "Angelika Mazur",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10241,7 +10241,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_10.png",
+        "src": "img/review_vasos_duo_10.png",
         "name": "Dawid Wysocki",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10271,7 +10271,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_11.png",
+        "src": "img/review_vasos_duo_11.png",
         "name": "Justyna Krawczyk",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10301,7 +10301,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_12.png",
+        "src": "img/review_vasos_duo_12.png",
         "name": "Kaja Adamczyk",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10331,7 +10331,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_13.png",
+        "src": "img/review_vasos_duo_13.png",
         "name": "Stanisław Wiśniewski",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10361,7 +10361,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_14.png",
+        "src": "img/review_vasos_duo_14.png",
         "name": "Maja Kozłowska",
         "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
@@ -10391,7 +10391,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_15.png",
+        "src": "img/review_vasos_duo_15.png",
         "name": "Matylda Głowacka",
         "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",

@@ -802,10 +802,10 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -832,8 +832,8 @@
       ],
       "text": "267 отзива",
       "desc": "Продуктът на растителна основа укрепва стените на кръвоносните съдове и предотвратява развитието на хемороиди.",
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "ПОДРОБНО"
     }
@@ -1560,12 +1560,12 @@
       "niche": "Посока: Зрение"
     },
     {
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1881,7 +1881,7 @@
     "suitability": "2 години",
     "keep": "Съхранявайте на сухо място, недостъпно за деца, при температура не по-висока от +25°С."
   },
-  "vasos-duo": {
+  "vasos_duo": {
     "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 отзива",
@@ -2041,7 +2041,7 @@
       "salePrice": "45",
       "newPrice": "205"
     },
-    "vasos-duo": {
+    "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "42",
       "newPrice": "130"
@@ -9970,9 +9970,9 @@
         ]
       }
     ],
-    "reviews_vasos-duo": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_vasos-duo_1.png",
+        "src": "img/review_vasos_duo_1.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Диляна Иванова",
@@ -10002,7 +10002,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_2.png",
+        "src": "img/review_vasos_duo_2.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Гергана Комитска",
@@ -10032,7 +10032,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_3.png",
+        "src": "img/review_vasos_duo_3.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Боряна Панайотова",
@@ -10062,7 +10062,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_4.png",
+        "src": "img/review_vasos_duo_4.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Алескандра Маринова",
@@ -10092,7 +10092,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_5.png",
+        "src": "img/review_vasos_duo_5.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Георги Георгиев",
@@ -10122,7 +10122,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_6.png",
+        "src": "img/review_vasos_duo_6.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Людмил Петков",
@@ -10152,7 +10152,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_7.png",
+        "src": "img/review_vasos_duo_7.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Станка Манчева",
@@ -10182,7 +10182,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_8.png",
+        "src": "img/review_vasos_duo_8.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Елеонора Димитрова",
@@ -10212,7 +10212,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_9.png",
+        "src": "img/review_vasos_duo_9.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Мария Митева",
@@ -10242,7 +10242,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_10.png",
+        "src": "img/review_vasos_duo_10.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Димо Данилов",
@@ -10272,7 +10272,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_11.png",
+        "src": "img/review_vasos_duo_11.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Глория Дрянова",
@@ -10302,7 +10302,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_12.png",
+        "src": "img/review_vasos_duo_12.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Преслава Пеева",
@@ -10332,7 +10332,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_13.png",
+        "src": "img/review_vasos_duo_13.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Илиян Караиванов",
@@ -10362,7 +10362,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_14.png",
+        "src": "img/review_vasos_duo_14.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Невена Арабова",
@@ -10392,7 +10392,7 @@
       },
 
       {
-        "src": "img/review_vasos-duo_15.png",
+        "src": "img/review_vasos_duo_15.png",
         "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Живка Бодурова",

@@ -178,7 +178,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1402523',
@@ -368,7 +368,7 @@ export const productsInfo = {
             salePrice: "800",
             newPrice: "111111",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1402524',
@@ -558,7 +558,7 @@ export const productsInfo = {
             salePrice: "28",
             newPrice: "123",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082471',
@@ -748,7 +748,7 @@ export const productsInfo = {
             salePrice: "515",
             newPrice: "1765",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082469',
@@ -938,7 +938,7 @@ export const productsInfo = {
             salePrice: "45",
             newPrice: "205",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082459',
@@ -1128,7 +1128,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "109",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
@@ -1318,7 +1318,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "119",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082465',
@@ -1508,7 +1508,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "109",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082458',
@@ -1698,7 +1698,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "109",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082461',
@@ -1888,7 +1888,7 @@ export const productsInfo = {
             salePrice: "27",
             newPrice: "123",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082463',
@@ -2078,7 +2078,7 @@ export const productsInfo = {
             salePrice: "94",
             newPrice: "450",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082462',
@@ -2268,7 +2268,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "119",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
@@ -2458,7 +2458,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "119",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
@@ -2648,7 +2648,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "119",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',
@@ -2838,7 +2838,7 @@ export const productsInfo = {
             salePrice: "26",
             newPrice: "119",
         },
-        vasos-duo: {
+        vasos_duo: {
             modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082464',

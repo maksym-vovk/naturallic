@@ -800,10 +800,10 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
       "name": "Vasos Duo",
       "stars": [
@@ -830,8 +830,8 @@
       ],
       "text": "267 hozzászólás",
       "desc": "Description.",
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "RÉSZLETEK"
     }
@@ -1557,12 +1557,12 @@
       "niche": "Irányzat: Niche"
     },
     {
-      "link": "vasos-duo.html",
-      "tag": "vasos-duo",
-      "srcPhoto": "img/vasos-duo.png",
-      "srcPhotoWebp": "img/vasos-duo.webp",
-      "mobSrcPhoto": "img/vasos-duo-mob.png",
-      "mobSrcPhotoWebp": "img/vasos-duo-mob.webp",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "name": "Vasos Duo",
       "narrow": true,
       "stars": [
@@ -1878,7 +1878,7 @@
     "suitability": "suitability",
     "keep": "keep."
   },
-  "vasos-duo": {
+  "vasos_duo": {
     "title": "Vasos Duo",
     "category": "Category",
     "review_count": "333 hozzászólás",
@@ -2037,7 +2037,7 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "vasos-duo": {
+    "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "800",
       "newPrice": "111111"
@@ -10116,11 +10116,11 @@
         "text": "Comment text - Ophtalax"
       }
     ],
-    "reviews_vasos-duo": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_vasos-duo_1.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_1.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10144,13 +10144,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_2.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_2.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10174,13 +10174,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_3.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_3.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10204,13 +10204,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_4.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_4.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10234,13 +10234,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_5.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_5.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10264,13 +10264,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_6.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_6.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10294,13 +10294,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_7.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_7.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10324,13 +10324,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_8.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_8.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10354,13 +10354,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_9.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_9.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10384,13 +10384,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_10.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_10.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10414,13 +10414,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_11.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_11.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10444,13 +10444,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_12.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_12.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10474,13 +10474,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_13.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_13.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10504,13 +10504,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_14.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_14.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10534,13 +10534,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_vasos-duo_15.png",
-        "name": "Name - vasos-duo",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo",
+        "src": "img/review_vasos_duo_15.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10564,7 +10564,7 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - vasos-duo"
+        "text": "Comment text - vasos_duo"
       }
     ]
   }
