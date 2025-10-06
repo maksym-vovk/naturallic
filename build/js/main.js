@@ -377,13 +377,13 @@ const productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Prostatita',
       country: 'Romania',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -567,13 +567,13 @@ const productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Prosztatagyulladás',
       country: 'Hungary',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -757,13 +757,13 @@ const productsInfo = {
       salePrice: "28",
       newPrice: "86"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Prostatite',
       country: 'Italy',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "29",
       newPrice: "118"
     },
@@ -947,13 +947,13 @@ const productsInfo = {
       salePrice: "506",
       newPrice: "1786"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Zánět prostaty',
       country: 'Czech',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "507",
       newPrice: "2190"
     },
@@ -1137,13 +1137,13 @@ const productsInfo = {
       salePrice: "45",
       newPrice: "137"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Простатит',
       country: 'Bulgaria',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "45",
       newPrice: "179"
     },
@@ -1327,13 +1327,13 @@ const productsInfo = {
       salePrice: "25",
       newPrice: "89"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Prostatiit',
       country: 'Estonia',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "80"
     },
@@ -1517,13 +1517,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Prostatitis',
       country: 'Croatia',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "102"
     },
@@ -1707,13 +1707,13 @@ const productsInfo = {
       salePrice: "25",
       newPrice: "89"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Prostatitas',
       country: 'Lithuania',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "80"
     },
@@ -1897,13 +1897,13 @@ const productsInfo = {
       salePrice: "25",
       newPrice: "89"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Prostatīts',
       country: 'Latvia',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "80"
     },
@@ -2087,13 +2087,13 @@ const productsInfo = {
       salePrice: "28",
       newPrice: "86"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Prostatite',
       country: 'Portugal',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "29",
       newPrice: "118"
     },
@@ -2277,13 +2277,13 @@ const productsInfo = {
       salePrice: "90",
       newPrice: "269"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Zapalenie gruczołu krokowego',
       country: 'Poland',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "95",
       newPrice: "377"
     },
@@ -2467,13 +2467,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Prostatitis',
       country: 'Slovenia',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "102"
     },
@@ -2657,13 +2657,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Prostatitída',
       country: 'Slovakia',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "102"
     },
@@ -2847,13 +2847,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Prostatite',
       country: 'Belgium',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "102"
     },
@@ -3037,13 +3037,13 @@ const productsInfo = {
       salePrice: "26",
       newPrice: "79"
     },
-    deluron: {
+    exurol: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Προστατίτιδα',
       country: 'Greece',
-      productName: 'Deluron Forte',
+      productName: 'Exurol',
       salePrice: "26",
       newPrice: "102"
     },

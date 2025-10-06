@@ -255,12 +255,12 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -285,8 +285,8 @@
       ],
       "text": "322 kommentaari",
       "desc": "Meeste tervise preparaat, mis aitab taastada urogenitaaltrakti funktsioone.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -1050,13 +1050,13 @@
       "niche": "Sihtrühm: Parasiidid"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1656,15 +1656,15 @@
     "suitability": "2 aastat",
     "keep": "Hoida temperatuuril 0°С kuni 25°С, kuivas ja pimedas kohas."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Tervisele",
     "review_count": "322 kommentaari",
     "niche": "Prostatiit",
-    "form_factor": "Kapslilehed, 10 kapslit",
+    "form_factor": "blister, 10 kapslit",
     "short_description": "Meeste tervise preparaat, mis aitab taastada urogenitaaltrakti funktsioone.",
     "description": "looduslikel ekstraktidel põhinev kompleks sobib meestele urogenitaaltrakti probleemide profülaktikaks. Taimsed ekstraktid aitavad leevendada valu ja põletikku, mõjutavad eesnäärme seisundit, hõlbustavad urineerimist ja parandavad vereringlust.",
-    "compound": "Želatiin (kapslikest), mikrokristalne tselluloos (täiteaine), jõhvikamarja ekstrakt, sabalpalmivilja ekstrakt, nõgesejuure ekstrakt, tsinktsitraat-trihüdraat, magneesiumstearaat (täiteaine), ränidioksiid(paakumisvastane aine).",
+    "compound": "Maca juure ekstrakt (Lepidium meyenii 4:1) - 60 mg, Jõhvika marja ekstrakt (Vaccinium macrocarpon, 35% proantotsüanidiinid) - 53 mg, Saw Palmetto vilja ekstrakt (Serenoa repens 5:1) - 50 mg, Nõgese juure ekstrakt (Urtica dioica, 1% beeta-sitosterool) - 40 mg, Tsink (tsinktsitraat-trihüdraat) - 5 mg.",
     "usage": "täiskasvanutel võtta üks kapsel 1–2 kapslit päevas kas koos toiduga või ilma. Üks preparaadikuur kestab 45 päeva. Vajadusel on võimalik kuuri korrata. Soovitatav ööpäevane annus on 2 kapslit.",
     "contraindications": "individuaalne tundlikkus mis tahes koostisaine suhtes; lastele (kuni 18-aastastele) Enne tarvitamist on soovitatav konsulteerida arstiga. Tegemist ei ole ravimiga. Ärge ületage soovitatavat ööpäevast annust. Hoida lastele kättesaamatus kohas. See toidulisand ei tohi asendada mitmekülgset toitumist.",
     "manufacturer": "Dalmatika (Bulgaaria)",
@@ -1965,8 +1965,8 @@
       "salePrice": "25",
       "newPrice": "89"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "26",
       "newPrice": "80"
     },
@@ -3072,13 +3072,13 @@
         ]
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Modest Anvari",
-        "text": "Sain diagnoosi 3 aastat tagasi, proovisin erinevaid preparaate ja meetodeid. Paraku aitas ainult Deluron Forte. Tellisin internetist kulleriga kohaletoimetamise.",
+        "text": "Sain diagnoosi 3 aastat tagasi, proovisin erinevaid preparaate ja meetodeid. Paraku aitas ainult Exurol. Tellisin internetist kulleriga kohaletoimetamise.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3103,8 +3103,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Augustin Galevi",
         "text": "See on hea preparaat, aitab urineerimist jälle korda saada ning võtab valu ära. Esimesel nädalal tundsin juba paranemist. Ka potentsiga on kõik korras.",
@@ -3133,8 +3133,8 @@
       },
 
       {
-        "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Laura Crows",
         "text": "Tellisin mehele. Ütleb, et aitab. Hakkas paremini magama ja meie voodielu on tagasi. Jätkab tarvitamist.",
@@ -3163,11 +3163,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Stephan Rodriguez",
-        "text": "Olin prostatiidiga hädas ja kulutasin sellele palju raha ja aega. Aga selgus, et aitab asi, mis on ühtlasi nii odav kui ka tõhus. Mina sain abi Deluron Fortest. Juba esimeste päevadega läks paremaks.",
+        "text": "Olin prostatiidiga hädas ja kulutasin sellele palju raha ja aega. Aga selgus, et aitab asi, mis on ühtlasi nii odav kui ka tõhus. Mina sain abi Exurolst. Juba esimeste päevadega läks paremaks.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3193,11 +3193,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Otto Zegers",
-        "text": "Ei uskunud, et sellised imeasjad töötavad. Deluron Forte pani mind oma arvamust muutma. Võttis ära valu ja põletiku. Enam ei ole vaja pidevalt WC vahet käia. See preparaat tõesti aitab!",
+        "text": "Ei uskunud, et sellised imeasjad töötavad. Exurol pani mind oma arvamust muutma. Võttis ära valu ja põletiku. Enam ei ole vaja pidevalt WC vahet käia. See preparaat tõesti aitab!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3223,11 +3223,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Claudia Lauders",
-        "text": "Mees võttis Deluron Fortet. Ta ei rääkinud mulle täpsemalt, aga märkasin, et tal läks tuju paremaks. Ka meie intiimelu muutus paremaks. Ilmselt aitab, sest ta käitumine muutus.",
+        "text": "Mees võttis Exurolt. Ta ei rääkinud mulle täpsemalt, aga märkasin, et tal läks tuju paremaks. Ka meie intiimelu muutus paremaks. Ilmselt aitab, sest ta käitumine muutus.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3253,11 +3253,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Dolore Crawford",
-        "text": "Ostsin Deluron Forte vanaisale. Operatsioon oli talle vastunäidustatud. Muid variante polnud ja sellepärast lootsin, et äkki saab Deluron Fortest abi. Ja see aitas! Eenääre on pärast kuuri läbimist jälle normis!",
+        "text": "Ostsin Exurol vanaisale. Operatsioon oli talle vastunäidustatud. Muid variante polnud ja sellepärast lootsin, et äkki saab Exurolst abi. Ja see aitas! Eenääre on pärast kuuri läbimist jälle normis!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3283,11 +3283,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Robert Woravski",
-        "text": "Ei tea teist sellist, mis töötaks nii hästi nagu Deluron Forte. Võtab kiiresti valu ära ja ei pea enam nii sagedasti WC-sse minema. Elu on läinud paremaks!",
+        "text": "Ei tea teist sellist, mis töötaks nii hästi nagu Exurol. Võtab kiiresti valu ära ja ei pea enam nii sagedasti WC-sse minema. Elu on läinud paremaks!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3313,11 +3313,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_9.png",
+        "desc": "<span class=\"review__mark\">ütlesа</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Anna Weltibore",
-        "text": "Mehel olid probleemid, proovis erinevaid asju, et põletikust ja valust lahti saada. Ütleb, et aitas ainult Deluron Forte.",
+        "text": "Mehel olid probleemid, proovis erinevaid asju, et põletikust ja valust lahti saada. Ütleb, et aitas ainult Exurol.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3343,8 +3343,8 @@
       },
 
       {
-        "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Bernard Kowalski",
         "text": "See on hea toode loodusliku koostisega. Prostatiidi sümptomid ja põletik on läinud. Mingeid kõrvalmõjusid ma ei kogenud.",
@@ -3373,11 +3373,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Louie Dortson",
-        "text": "Mul diagnoositi eesnäärmepõletik 7 aastat tagasi. Põhimõtteliselt ainult tänu Deluron Fortele saan normaalselt elada ilma probleemideta. Tegin aastas kaks kuuri läbi ja enam tervisega probleeme pole.",
+        "text": "Mul diagnoositi eesnäärmepõletik 7 aastat tagasi. Põhimõtteliselt ainult tänu Exurolle saan normaalselt elada ilma probleemideta. Tegin aastas kaks kuuri läbi ja enam tervisega probleeme pole.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3403,11 +3403,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Hans Zalcman",
-        "text": "Mulle soovitas Deluron Fortet üks tuttav. Olin kusagil külmetanud ja rääkisin tuttavale oma murest. Hea sõbrana soovitas mulle seda. Ja sain asja korda.",
+        "text": "Mulle soovitas Exurolt üks tuttav. Olin kusagil külmetanud ja rääkisin tuttavale oma murest. Hea sõbrana soovitas mulle seda. Ja sain asja korda.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3432,11 +3432,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Joseph Shostek",
-        "text": "Olin eesnäärmepõletikuga ammu hädas. Ja olin juba valmis opile minema, aga tänu Deluron Fortele ei pidanud seda tegema. Algul võttis valu ära ja ei pidanud enam tihti vetsu vahet jooksma, ja siis läks põletik ka üle.",
+        "text": "Olin eesnäärmepõletikuga ammu hädas. Ja olin juba valmis opile minema, aga tänu Exurolle ei pidanud seda tegema. Algul võttis valu ära ja ei pidanud enam tihti vetsu vahet jooksma, ja siis läks põletik ka üle.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3462,11 +3462,11 @@
       },
 
       {
-        "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Rolan Clark",
-        "text": "Me ei usu enam ammu apteekides müüdavatesse asjadesse. Kui on vaja meesteasjades natuke abi, võtan Deluron Fortet. See on looduslik ja aitab hästi.",
+        "text": "Me ei usu enam ammu apteekides müüdavatesse asjadesse. Kui on vaja meesteasjades natuke abi, võtan Exurolt. See on looduslik ja aitab hästi.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3492,8 +3492,8 @@
       },
 
       {
-        "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;Exurol",
         "rating_text": "Suurepärane toode!",
         "name": "Rolana Gravs",
         "text": "Tahan tänada enda ja mehe poolt. Suur tänu nii hea preparaadi, kiire tarne ja konsultatsiooni eest. Mu meest see tõesti aitas! Ta on jälle terve!",

@@ -252,12 +252,12 @@
     },
     {
       "label": "Bater",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -282,8 +282,8 @@
       ],
       "text": "322 comentários",
       "desc": "Um produto masculino que visa normalizar as funções dos aparelhos geniturinário.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "MAIS DETALHES"
     },
@@ -1044,13 +1044,13 @@
       "niche": "Direção: Parasitas"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1649,15 +1649,15 @@
     "suitability": "2 anos",
     "keep": "armazenar em temperaturas de 0°C a 25°C, longe da luz solar direta e da umidade."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Para boa saúde",
     "review_count": "322 comentários",
     "niche": "Prostatite",
-    "form_factor": "blister, cápsulas 10&nbsp;unidades",
+    "form_factor": "blister, 10 cápsulas",
     "short_description": "Um produto masculino que visa normalizar as funções dos aparelhos geniturinário.",
     "description": "um complexo de extratos naturais para a prevenção de problemas do aparelho geniturinário que qualquer homem possa encontrar. A ação dos extratos vegetais visa: eliminar dores e inflamações; afeta a saúde da próstata; facilita a micção; melhor circulação sanguínea.",
-    "compound": "Gelatina (cápsula), Celulose microcristalina (preenchimento), Extrato de cranberry, Extrato de fruta Saw Palmetto, Extrato de raiz de urtiga, Citrato de zinco tri-hidratado, Estearato de magnésio (preenchimento), Dióxido de silício (agente antiaglomerante).",
+    "compound": "Extrato de raiz de maca (Lepidium meyenii 4:1) - 60 mg, Extrato de cranberry (Vaccinium macrocarpon, 35% proantocianidinas) - 53 mg, Extrato de fruto de Saw Palmetto (Serenoa repens 5:1) - 50 mg, Extrato de raiz de urtiga (Urtica dioica, 1% beta-sitosterol) - 40 mg, Zinco (citrato de zinco tri-hidratado) - 5 mg.",
     "usage": "Os adultos devem tomar 1 cápsula 1-2 vezes ao dia com ou sem refeições. A duração de um curso é de 45 dias. Se necessário, o curso pode ser repetido. Dose diária recomendada - 2 cápsulas.",
     "contraindications": "intolerância individual a qualquer um dos ingredientes, idade infantil (até 18 anos). Recomenda-se consultar um especialista antes de usar. Isto não é uma cura. Não exceda a dose diária recomendada. Fique longe das crianças. Este suplemento alimentar não deve substituir uma dieta variada.",
     "manufacturer": "Dalmática (Bulgária)",
@@ -1958,8 +1958,8 @@
       "salePrice": "28",
       "newPrice": "86"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "29",
       "newPrice": "118"
     },
@@ -3069,12 +3069,12 @@
         ]
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_1.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Alvaro Lima",
-        "text": "Fui diagnosticado há 3 anos e tentei diferentes produtos e regimes de recuperação. Apenas Deluron Forte ajudou. Encomendei online com entrega por correio.",
+        "text": "Fui diagnosticado há 3 anos e tentei diferentes produtos e regimes de recuperação. Apenas Exurol ajudou. Encomendei online com entrega por correio.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3100,8 +3100,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_2.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Augustinho Helder",
         "text": "Um bom produto que ajuda a normalizar o processo de micção e alivia a dor. Eficaz desde a primeira semana de uso. O desejo sexual também voltou.",
         "rating_text": "Qualidade excelente!",
@@ -3129,8 +3129,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_3.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Laura Creusa",
         "text": "Encomendei para meu marido. Ele diz que há um resultado. Comecei a dormir melhor à noite, o sexo voltou às nossas vidas. Continua o curso.",
         "rating_text": "Qualidade excelente!",
@@ -3158,10 +3158,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_4.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Stefan Rodrígues",
-        "text": "Muito dinheiro e esforço foram gastos na luta contra a prostatite. Mas descobriu-se que a solução era barata e eficaz. Deluron Forte ajudou. Melhorou desde os primeiros dias.",
+        "text": "Muito dinheiro e esforço foram gastos na luta contra a prostatite. Mas descobriu-se que a solução era barata e eficaz. Exurol ajudou. Melhorou desde os primeiros dias.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3187,10 +3187,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_5.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Otávio Sergio",
-        "text": "Eu não acreditava no poder desses produtos milagrosos até experimentar o Deluron Forte. Removida a dor, a inflamação e a vontade constante de ir ao banheiro. O produto funciona!",
+        "text": "Eu não acreditava no poder desses produtos milagrosos até experimentar o Exurol. Removida a dor, a inflamação e a vontade constante de ir ao banheiro. O produto funciona!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3216,10 +3216,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_6.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Cláudia Lurdes",
-        "text": "Meu marido tomou Deluron Forte. Ele não compartilhou os detalhes comigo, mas seu humor melhorou. Além disso, a vida íntima foi retomada. Provavelmente ajuda, já que existem mudanças em seu comportamento.",
+        "text": "Meu marido tomou Exurol. Ele não compartilhou os detalhes comigo, mas seu humor melhorou. Além disso, a vida íntima foi retomada. Provavelmente ajuda, já que existem mudanças em seu comportamento.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3245,10 +3245,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_7.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Dolores Correia",
-        "text": "Comprei Deluron Forte para meu avô. Havia contra-indicações para a operação, não havia outras opções, só esperavam pelo Deluron Forte. E ele ajudou! O tamanho da próstata após o curso está dentro dos limites normais!",
+        "text": "Comprei Exurol para meu avô. Havia contra-indicações para a operação, não havia outras opções, só esperavam pelo Exurol. E ele ajudou! O tamanho da próstata após o curso está dentro dos limites normais!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3274,10 +3274,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_8.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Roberto Orancio",
-        "text": "Não conheço nada mais eficaz que Deluron Forte. Elimina rapidamente a dor, reduz a frequência da vontade de ir ao banheiro. A vida ficou melhor!",
+        "text": "Não conheço nada mais eficaz que Exurol. Elimina rapidamente a dor, reduz a frequência da vontade de ir ao banheiro. A vida ficou melhor!",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3303,10 +3303,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_9.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Ana Gildo",
-        "text": "Meu marido teve problemas e tentou muitas coisas para eliminar a inflamação e a dor. Ele diz que só sentiu o efeito depois do Deluron Forte.",
+        "text": "Meu marido teve problemas e tentou muitas coisas para eliminar a inflamação e a dor. Ele diz que só sentiu o efeito depois do Exurol.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3332,8 +3332,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_10.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Bernardo Carlos",
         "text": "Um bom produto à base de ingredientes à base de plantas. Todos os sinais de prostatite foram removidos, a inflamação desapareceu. Não causou nenhum efeito colateral.",
         "rating_text": "Qualidade excelente!",
@@ -3361,10 +3361,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_11.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Luis Tarso",
-        "text": "A prostatite foi descoberta há 7 anos. Vivo normalmente e sem complicações só graças ao Deluron Forte. Dois cursos preventivos por ano e sem problemas de saúde.",
+        "text": "A prostatite foi descoberta há 7 anos. Vivo normalmente e sem complicações só graças ao Exurol. Dois cursos preventivos por ano e sem problemas de saúde.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3390,10 +3390,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_12.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Helder Silva",
-        "text": "Deluron Forte foi recomendado por um especialista conhecido. Eu congelei e fui até ele com reclamações. Eu recomendei este produto de maneira amigável. As reclamações acabaram.",
+        "text": "Exurol foi recomendado por um especialista conhecido. Eu congelei e fui até ele com reclamações. Eu recomendei este produto de maneira amigável. As reclamações acabaram.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3419,10 +3419,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_13.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Jose Sumbo",
-        "text": "Sofri de inflamação da próstata por muito tempo. Eu já estava pronto para a cirurgia, mas o Deluron Forte ajudou a evitá-la. Primeiro a dor passou e a vontade de ir ao banheiro diminuiu, depois a inflamação desapareceu completamente.",
+        "text": "Sofri de inflamação da próstata por muito tempo. Eu já estava pronto para a cirurgia, mas o Exurol ajudou a evitá-la. Primeiro a dor passou e a vontade de ir ao banheiro diminuiu, depois a inflamação desapareceu completamente.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3448,10 +3448,10 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_14.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Romario  Celso",
-        "text": "Faz muito tempo que não confio em produtos farmacêuticos. Quando preciso de apoio masculino, tomo Deluron Forte. Composição natural e ajuda bem.",
+        "text": "Faz muito tempo que não confio em produtos farmacêuticos. Quando preciso de apoio masculino, tomo Exurol. Composição natural e ajuda bem.",
         "rating_text": "Qualidade excelente!",
         "stars": [
           {
@@ -3477,8 +3477,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_15.png",
+        "desc": "<span class=\"review__mark\">expressou</span> sua opinião sobre&nbsp;Exurol",
         "name": "Rosana Simão",
         "text": "Expresso minha gratidão em meu nome e em nome de meu marido. Obrigado por um produto tão maravilhoso, entrega rápida e consulta. Ajudei meu marido! Finalmente ele está saudável novamente!",
         "rating_text": "Qualidade excelente!",

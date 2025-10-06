@@ -253,12 +253,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -283,8 +283,8 @@
       ],
       "text": "322 recenzii",
       "desc": "Un remediu pentru bărbați care vizează normalizarea funcțiilor sistemului genito-urinar.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -1049,13 +1049,13 @@
       "niche": "Direcție: Paraziți"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1654,15 +1654,15 @@
     "suitability": "2 de ani",
     "keep": "Păstrați la o temperatură cuprinsă între 0 și 25 și 25, departe de lumina directă a soarelui și umiditate."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Pentru sănătate",
     "review_count": "322 recenzii",
     "niche": "Prostatita",
-    "form_factor": "capsule într-un blister, 10 buc.",
+    "form_factor": "blister, 10 capsule",
     "short_description": "Un remediu pentru bărbați care vizează normalizarea funcțiilor sistemului genito-urinar.",
     "description": "Un complex de extracte naturale pentru prevenirea problemelor sistemului genito-urinar cu care se poate confrunta orice bărbat. Acțiunea extractelor de plante vizează: eliminarea durerii și inflamației; afectează sănătatea prostatei; facilitează urinarea; îmbunătățește circulația sângelui.",
-    "compound": "Gelatină (învelișul capsulei), celuloză microcristalină (umplutură), extract de fructe de saw palmetto, extract de rădăcină de urzică, extract de fructe de tribulus terrestris, extract de rădăcină de maca, citrat de zinc, stearat de magneziu (umplutură), dioxid de siliciu (agent antiaglomerant).",
+    "compound": "Extract din rădăcină de maca (Lepidium meyenii 4:1) - 60 mg, Extract de merișor (Vaccinium macrocarpon, 35% proantocianidine) - 53 mg, Extract de fruct Saw Palmetto (Serenoa repens 5:1) - 50 mg, Extract din rădăcină de urzică (Urtica dioica, 1% beta-sitosterol) - 40 mg, Zinc (citrat de zinc trihidrat) - 5 mg.",
     "usage": "Pentru adulții câte 1 capsulă de 1-2 ori pe zi, cu sau fără mese. Durata unui curs - 45 de zile. Dacă este necesar, cursul poate fi repetat. Doza zilnică recomandată - 2 capsule.",
     "contraindications": "Intoleranță individuală la oricare dintre ingrediente, vârsta copiilor (până la 18 ani). Se recomandă să consultați un medic înainte de al lua. Nu e un medicament. Nu depășiți doza zilnică recomandată.",
     "manufacturer": "Dalmatika (Bulgaria)",
@@ -1963,8 +1963,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -3076,11 +3076,11 @@
         "text": "Vă mulțumim pentru un produs de înaltă calitate și eficient! Minus 10 kg, sănătate excelentă și figură perfectă. Dacă doriți astfel de rezultate, vă recomand Delislim!"
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
+        "src": "img/review_exurol_1.png",
         "name": "Modest Florescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3104,12 +3104,12 @@
             "type": "empty"
           }
         ],
-        "text": "Am fost diagnosticat acum 3 ani, am încercat diferite remedii și scheme de recuperare. Numai Deluron Forte m-a ajutat. Am comandat online cu livrare prin curier."
+        "text": "Am fost diagnosticat acum 3 ani, am încercat diferite remedii și scheme de recuperare. Numai Exurol m-a ajutat. Am comandat online cu livrare prin curier."
       },
       {
-        "src": "img/review_deluron-forte_2.png",
+        "src": "img/review_exurol_2.png",
         "name": "Augustin Dumbravă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3137,9 +3137,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_3.png",
+        "src": "img/review_exurol_3.png",
         "name": "Laura Dragan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3167,9 +3167,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_4.png",
+        "src": "img/review_exurol_4.png",
         "name": "Stefan Gheorghe",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3193,13 +3193,13 @@
             "type": "empty"
           }
         ],
-        "text": "O mulțime de bani și efort au fost cheltuite pentru lupta împotriva prostatitei. Dar s-a dovedit că soluția a fost ieftină și eficientă. M-a ajutat Deluron Forte. Din primele zile starea s-a îmbunătățit."
+        "text": "O mulțime de bani și efort au fost cheltuite pentru lupta împotriva prostatitei. Dar s-a dovedit că soluția a fost ieftină și eficientă. M-a ajutat Exurol. Din primele zile starea s-a îmbunătățit."
       },
 
       {
-        "src": "img/review_deluron-forte_5.png",
+        "src": "img/review_exurol_5.png",
         "name": "Sebastian Tămaș",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3223,13 +3223,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nu am crezut în puterea unor astfel de remedii miraculoase până nu am încercat Deluron Forte. Am eliminat sindromul durerii, inflamația și nevoia constantă de a merge la toaletă. Instrumentul funcționează!"
+        "text": "Nu am crezut în puterea unor astfel de remedii miraculoase până nu am încercat Exurol. Am eliminat sindromul durerii, inflamația și nevoia constantă de a merge la toaletă. Instrumentul funcționează!"
       },
 
       {
-        "src": "img/review_deluron-forte_6.png",
+        "src": "img/review_exurol_6.png",
         "name": "Lorena Moraru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3253,13 +3253,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a luat Deluron Forte. Nu mi-a împărtășit detaliile, dar starea lui de spirit s-a îmbunătățit. În plus, viața intimă s-a îmbunătățit semnificativ. Probabil ajută, deoarece astfel de schimbări în comportamentul său."
+        "text": "Soțul meu a luat Exurol. Nu mi-a împărtășit detaliile, dar starea lui de spirit s-a îmbunătățit. În plus, viața intimă s-a îmbunătățit semnificativ. Probabil ajută, deoarece astfel de schimbări în comportamentul său."
       },
 
       {
-        "src": "img/review_deluron-forte_7.png",
+        "src": "img/review_exurol_7.png",
         "name": "Dana Cloru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3283,13 +3283,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am cumpărat Deluron Forte pentru bunicul meu. A avut contraindicații pentru operație, iar alte opțiuni nici nu au existat, speram doar pentru Deluron Forte. Și el l-a ajutat! Dimensiunea prostatei după curs este în limitele normale!"
+        "text": "Am cumpărat Exurol pentru bunicul meu. A avut contraindicații pentru operație, iar alte opțiuni nici nu au existat, speram doar pentru Exurol. Și el l-a ajutat! Dimensiunea prostatei după curs este în limitele normale!"
       },
 
       {
-        "src": "img/review_deluron-forte_8.png",
+        "src": "img/review_exurol_8.png",
         "name": "Sergiu Ghiță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3313,13 +3313,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nu știu nimic mai eficient decât Deluron Forte. Elimină rapid durerea, reduce frecvența îndemnurilor la toaletă. Viața a devenit mai bună!"
+        "text": "Nu știu nimic mai eficient decât Exurol. Elimină rapid durerea, reduce frecvența îndemnurilor la toaletă. Viața a devenit mai bună!"
       },
 
       {
-        "src": "img/review_deluron-forte_9.png",
+        "src": "img/review_exurol_9.png",
         "name": "Ana Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3343,13 +3343,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a avut probleme, a încercat multe lucruri pentru a elimina inflamația și durerea. El spune că a simțit efect numai după Deluron Forte."
+        "text": "Soțul meu a avut probleme, a încercat multe lucruri pentru a elimina inflamația și durerea. El spune că a simțit efect numai după Exurol."
       },
 
       {
-        "src": "img/review_deluron-forte_10.png",
+        "src": "img/review_exurol_10.png",
         "name": "Florin Niță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3377,9 +3377,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_11.png",
+        "src": "img/review_exurol_11.png",
         "name": "Mădălin Cătălin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3403,13 +3403,13 @@
             "type": "empty"
           }
         ],
-        "text": "Prostatita a fost descoperită acum 7 ani. Trăiesc în mod normal și fără complicații numai datorită Deluron Forte. Două cursuri preventive pe an și nu mai am probleme de sănătate."
+        "text": "Prostatita a fost descoperită acum 7 ani. Trăiesc în mod normal și fără complicații numai datorită Exurol. Două cursuri preventive pe an și nu mai am probleme de sănătate."
       },
 
       {
-        "src": "img/review_deluron-forte_12.png",
+        "src": "img/review_exurol_12.png",
         "name": "Pavel Manole",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3433,12 +3433,12 @@
             "type": "empty"
           }
         ],
-        "text": "Deluron Forte mi l-a fost sfătuit un expert familiar. Am înghețat și am venit la el cu plângeri. Mi-a recomandat acest remediu într-un mod prietenos. Plângerile au dispărut."
+        "text": "Exurol mi l-a fost sfătuit un expert familiar. Am înghețat și am venit la el cu plângeri. Mi-a recomandat acest remediu într-un mod prietenos. Plângerile au dispărut."
       },
       {
-        "src": "img/review_deluron-forte_13.png",
+        "src": "img/review_exurol_13.png",
         "name": "Anton Frățilă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3462,13 +3462,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am suferit de inflamația prostatei de mult timp. Eram deja pregătit pentru operație, dar Deluron Forte m-a ajutat să o evit. La început, durerea a dispărut și nevoia de a merge la toaletă s-a redus, iar apoi inflamația a trecut complet."
+        "text": "Am suferit de inflamația prostatei de mult timp. Eram deja pregătit pentru operație, dar Exurol m-a ajutat să o evit. La început, durerea a dispărut și nevoia de a merge la toaletă s-a redus, iar apoi inflamația a trecut complet."
       },
 
       {
-        "src": "img/review_deluron-forte_14.png",
+        "src": "img/review_exurol_14.png",
         "name": "Marius Iancu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -3492,13 +3492,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nu am avut încredere în produsele farmaceutice de mult timp. Când am nevoie de sprijin masculin, iau Deluron Forte. Compoziție naturală și ajută bine."
+        "text": "Nu am avut încredere în produsele farmaceutice de mult timp. Când am nevoie de sprijin masculin, iau Exurol. Compoziție naturală și ajută bine."
       },
 
       {
-        "src": "img/review_deluron-forte_15.png",
+        "src": "img/review_exurol_15.png",
         "name": "Rolana Balan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;Exurol",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {

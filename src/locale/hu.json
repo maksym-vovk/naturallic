@@ -252,12 +252,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -282,8 +282,8 @@
       ],
       "text": "322 hozzászólás",
       "desc": "Férfiak számára készült készítmény, amelynek célja az urogenitális rendszer működésének normalizálása.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -1047,13 +1047,13 @@
       "niche": "Irányzat: Paraziták"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1653,15 +1653,15 @@
     "suitability": "2 év",
     "keep": "0°C és 25°C közötti hőmérsékleten, közvetlen napfénytől és nedvességtől védve tárolja."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Az egészségért",
     "review_count": "322 hozzászólás",
     "niche": "Prosztatagyulladás",
-    "form_factor": "kapszula buborékcsomagolásban, 10 db.",
+    "form_factor": "bliszter, 10 kapszula",
     "short_description": "Férfiak számára készült készítmény, amelynek célja az urogenitális rendszer működésének normalizálása.",
     "description": "Természetes kivonatok komplexe a húgyúti rendszer problémáinak megelőzésére, amelyekkel bármely férfi találkozhat. A növényi kivonatok hatása a következőkre irányul: a fájdalom és a gyulladás megszüntetése; a prosztata egészségének javítása; a vizeletürítés megkönnyítése; a vérkeringés javítása.",
-    "compound": "Zselatin (kapszulahéj), mikrokristályos cellulóz (töltőanyag), fűrészpálma gyümölcskivonat, csalángyökér kivonat, tribulus terrestris gyümölcskivonat, maca gyökér kivonat, cink-citrát, magnézium-sztearát (töltőanyag), szilícium-dioxid (csomósodásgátló).",
+    "compound": "Maca gyökér kivonat (Lepidium meyenii 4:1) - 60 mg, Tőzegáfonya kivonat (Vaccinium macrocarpon, 35% proantocianidinek) - 53 mg, Fűrészpálma gyümölcs kivonat (Serenoa repens 5:1) - 50 mg, Csalángyökér kivonat (Urtica dioica, 1% béta-szitoszterol) - 40 mg, Cink (cink-citrát-trihidrát) - 5 mg.",
     "usage": "Felnőtteknek naponta 1-2 alkalommal 1 kapszulát kell bevenniük étkezés közben vagy anélkül. Egy kúra időtartama 45 nap. A kúra szükség esetén megismételhető. Ajánlott napi adag 2 kapszula.",
     "contraindications": "Egyéni intolerancia az összetevők bármelyikével szemben, gyermekek (18 év alattiak) számára nem ajánlott. Alkalmazás előtt tanácsos orvoshoz fordulni. Ez nem gyógyszer. Ne lépje túl az ajánlott napi adagot.",
     "manufacturer": "Dalmácia (Bulgária)",
@@ -1962,8 +1962,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -3073,11 +3073,11 @@
         "text": "Köszönöm a minőségi és hatékony terméket! Mínusz 10 kg, remekül érzem magam és tökéletes alakom van. Ha önök is ilyen eredményeket szeretnének, ajánlom a Delislimet!"
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
+        "src": "img/review_exurol_1.png",
         "name": "Horváth Mátyás",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3101,12 +3101,12 @@
             "type": "empty"
           }
         ],
-        "text": "3 évvel ezelőtt diagnosztizáltak, különböző készítményeket és helyreállítási programokat próbáltam ki. Csak a Deluron Forte segített. Online rendeltem futárszolgálattal."
+        "text": "3 évvel ezelőtt diagnosztizáltak, különböző készítményeket és helyreállítási programokat próbáltam ki. Csak a Exurol segített. Online rendeltem futárszolgálattal."
       },
       {
-        "src": "img/review_deluron-forte_2.png",
+        "src": "img/review_exurol_2.png",
         "name": "Nagy Andrea",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3134,9 +3134,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_3.png",
+        "src": "img/review_exurol_3.png",
         "name": "Kerekes Lilla",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3164,9 +3164,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_4.png",
+        "src": "img/review_exurol_4.png",
         "name": "Rácz Kristóf",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3190,13 +3190,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sok pénzt és erőfeszítést fordítottunk a prosztatagyulladás elleni küzdelemre. És kiderült, hogy a megoldás olcsó és hatékony. A Deluron Forte segített. Az első naptól kezdve jobban éreztem magam."
+        "text": "Sok pénzt és erőfeszítést fordítottunk a prosztatagyulladás elleni küzdelemre. És kiderült, hogy a megoldás olcsó és hatékony. A Exurol segített. Az első naptól kezdve jobban éreztem magam."
       },
 
       {
-        "src": "img/review_deluron-forte_5.png",
+        "src": "img/review_exurol_5.png",
         "name": "Tiberi Ádám",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3220,13 +3220,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nem hittem az ilyen csodaszerek erejében, amíg ki nem próbáltam a Deluron Forte-t. Megszüntette a fájdalmat, a gyulladást és az állandó vizelési ingert. A készítmény működik!"
+        "text": "Nem hittem az ilyen csodaszerek erejében, amíg ki nem próbáltam a Exurol. Megszüntette a fájdalmat, a gyulladást és az állandó vizelési ingert. A készítmény működik!"
       },
 
       {
-        "src": "img/review_deluron-forte_6.png",
+        "src": "img/review_exurol_6.png",
         "name": "Kecskés Klaudia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3250,13 +3250,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjem Deluron Forte-t szedett. A részleteket nem osztotta meg velem, de a hangulata javult. A szexuális életünk is újraindult. Biztosan működik, mert a viselkedése megváltozott."
+        "text": "A férjem Exurol szedett. A részleteket nem osztotta meg velem, de a hangulata javult. A szexuális életünk is újraindult. Biztosan működik, mert a viselkedése megváltozott."
       },
 
       {
-        "src": "img/review_deluron-forte_7.png",
+        "src": "img/review_exurol_7.png",
         "name": "Kovács Dorina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3280,13 +3280,13 @@
             "type": "empty"
           }
         ],
-        "text": "Deluron Forte-t vettem a nagyapámnak. Ellenjavallt volt a műtét, és nem volt más lehetőség, így csak Deluron Forte-ban reménykedtünk. És működött! A prosztata mérete a kúra után a normális határokon belül van!"
+        "text": "Exurol vettem a nagyapámnak. Ellenjavallt volt a műtét, és nem volt más lehetőség, így csak Exurol reménykedtünk. És működött! A prosztata mérete a kúra után a normális határokon belül van!"
       },
 
       {
-        "src": "img/review_deluron-forte_8.png",
+        "src": "img/review_exurol_8.png",
         "name": "Vass Róbert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3310,13 +3310,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nem tudok semmi hatékonyabbat, mint a Deluron Forte. Gyorsan megszünteti a fájdalmat, és csökkenti a WC-re menés gyakoriságát. Az életem jobb lett!"
+        "text": "Nem tudok semmi hatékonyabbat, mint a Exurol. Gyorsan megszünteti a fájdalmat, és csökkenti a WC-re menés gyakoriságát. Az életem jobb lett!"
       },
 
       {
-        "src": "img/review_deluron-forte_9.png",
+        "src": "img/review_exurol_9.png",
         "name": "Pintye Anna",
-        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondtaа</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3340,13 +3340,13 @@
             "type": "empty"
           }
         ],
-        "text": "A férjemnek problémái voltak, és sok mindent kipróbált a gyulladás és a fájdalom enyhítésére. Azt mondja, hogy csak Deluron Forte után érzett hatást."
+        "text": "A férjemnek problémái voltak, és sok mindent kipróbált a gyulladás és a fájdalom enyhítésére. Azt mondja, hogy csak Exurol után érzett hatást."
       },
 
       {
-        "src": "img/review_deluron-forte_10.png",
+        "src": "img/review_exurol_10.png",
         "name": "Kelemen Béla",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3374,9 +3374,9 @@
       },
 
       {
-        "src": "img/review_deluron-forte_11.png",
+        "src": "img/review_exurol_11.png",
         "name": "Debreceni Lajos",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3400,13 +3400,13 @@
             "type": "empty"
           }
         ],
-        "text": "7 évvel ezelőtt prosztatagyulladást diagnosztizáltak nálam. Csak a Deluron Forte-nak köszönhetően élek normálisan és komplikációk nélkül. Évente két profilaktikus kúra, és nincsenek egészségügyi problémák."
+        "text": "7 évvel ezelőtt prosztatagyulladást diagnosztizáltak nálam. Csak a Exurol köszönhetően élek normálisan és komplikációk nélkül. Évente két profilaktikus kúra, és nincsenek egészségügyi problémák."
       },
 
       {
-        "src": "img/review_deluron-forte_12.png",
+        "src": "img/review_exurol_12.png",
         "name": "Virág Kálmán",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3430,12 +3430,12 @@
             "type": "empty"
           }
         ],
-        "text": "A Deluron Forte-t egy általam ismert szakértő ajánlotta. Nagyon felfáztam és a panaszaimmal elmentem hozzá. Barátságosan ajánlotta ezt a készítményt. A panaszok eltűntek."
+        "text": "A Exurol-t egy általam ismert szakértő ajánlotta. Nagyon felfáztam és a panaszaimmal elmentem hozzá. Barátságosan ajánlotta ezt a készítményt. A panaszok eltűntek."
       },
       {
-        "src": "img/review_deluron-forte_13.png",
+        "src": "img/review_exurol_13.png",
         "name": "Gulyás József",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3459,13 +3459,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hosszú ideje szenvedtem prosztatagyulladástól. Készen álltam egy műtétre, de a Deluron Forte segített elkerülni azt. Először elmúlt a fájdalom és a vizelési inger, majd a gyulladás teljesen megszűnt."
+        "text": "Hosszú ideje szenvedtem prosztatagyulladástól. Készen álltam egy műtétre, de a Exurol segített elkerülni azt. Először elmúlt a fájdalom és a vizelési inger, majd a gyulladás teljesen megszűnt."
       },
 
       {
-        "src": "img/review_deluron-forte_14.png",
+        "src": "img/review_exurol_14.png",
         "name": "Kenéz Roland",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -3489,13 +3489,13 @@
             "type": "empty"
           }
         ],
-        "text": "Már régóta nem bízom a gyógyszertári szerekben. Ha férfi problémákkal kapcsolatos támogatásra van szükségem, Deluron Forte-t szedek. Természetes és jól működik."
+        "text": "Már régóta nem bízom a gyógyszertári szerekben. Ha férfi problémákkal kapcsolatos támogatásra van szükségem, Exurol szedek. Természetes és jól működik."
       },
 
       {
-        "src": "img/review_deluron-forte_15.png",
+        "src": "img/review_exurol_15.png",
         "name": "Hajdu Renáta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DELURON&nbsp;FORTE",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;Exurol",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {

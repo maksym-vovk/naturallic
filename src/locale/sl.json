@@ -252,12 +252,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -282,8 +282,8 @@
       ],
       "text": "322 ocen",
       "desc": "Zdravilo za moške, namenjeno normalizaciji funkcij genitourinarnega sistema.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -1044,13 +1044,13 @@
       "niche": "Smer: Paraziti"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1649,15 +1649,15 @@
     "suitability": "2 leti",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Za zdravje",
     "review_count": "322 ocen",
     "niche": "Prostatitis",
-    "form_factor": "pretisni omot, kapsule 10&nbsp;kosov",
+    "form_factor": "blister, 10 kapsul",
     "short_description": "Zdravilo za moške, namenjeno normalizaciji funkcij genitourinarnega sistema.",
     "description": "kompleks naravnih izvlečkov za preprečevanje težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški. Delovanje rastlinskih izvlečkov je namenjeno: odpravljanju bolečin in vnetij; vpliva na zdravje prostate; olajša uriniranje; izboljša krvni obtok.",
-    "compound": "želatina (ovoj kapsule), mikrokristalna celuloza (polnilo), izvleček jagod brusnice, izvleček ploda žagaste palme, izvleček korenine koprive, izvleček ploda tribulus terrestris, izvleček korenine mace, cinkov citrat trihidrat, magnezijev stearat (polnilo), silicijev dioksid (sredstvo proti strjevanju).",
+    "compound": "Izvleček korenine mace (Lepidium meyenii 4:1) - 60 mg, Izvleček brusnice (Vaccinium macrocarpon, 35% proantocianidini) - 53 mg, Izvleček plodov Saw Palmetto (Serenoa repens 5:1) - 50 mg, Izvleček korenine koprive (Urtica dioica, 1% beta-sitosterol) - 40 mg, Cink (cinkov citrat trihidrat) - 5 mg.",
     "usage": "odrasli naj jemljejo 1 kapsulo 1-2 krat na dan z obroki ali brez njih. Trajanje enega tečaja je 45 dni. Po potrebi se tečaj lahko ponovi. Priporočeni dnevni odmerek je 2 kapsuli.",
     "contraindications": "posamezna nestrpnost do katere koli sestavine, starost otrok (do 18 let). Pred jemanjem je priporočljivo, da se posvetujete z zdravnikom. To ni zdravilo. Ne prekoračite priporočenega dnevnega odmerka. Izogibajte se otrokom. To prehransko dopolnilo ne sme nadomestiti raznolike prehrane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1958,8 +1958,8 @@
       "salePrice": "26",
       "newPrice": "79"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "26",
       "newPrice": "102"
     },
@@ -3069,13 +3069,13 @@
         ]
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Modest Anvari",
-        "text": "Diagnozo so mi postavili pred 3 leti in poskusil sem različna zdravila in režime okrevanja. Pomagal je le Deluron Forte. Naročil sem preko spleta z dostavo po kurirju.",
+        "text": "Diagnozo so mi postavili pred 3 leti in poskusil sem različna zdravila in režime okrevanja. Pomagal je le Exurol. Naročil sem preko spleta z dostavo po kurirju.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3100,8 +3100,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Avgustin Halevi",
         "text": "Dober izdelek, ki pomaga normalizirati proces uriniranja in lajša bolečine. Učinkovito od prvega tedna uporabe. Vrnil se je tudi spolna želja.",
@@ -3129,8 +3129,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lora Krous",
         "text": "Naročila sem ga za moža. Pravi, da je rezultat. Ponoči sem začel bolje spati, seks se je vrnil v naša življenja. Nadaljuje tečaj.",
@@ -3158,11 +3158,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Stefan Rodrigez",
-        "text": "Veliko denarja in truda je bilo porabljenega za boj proti prostatitisu. A izkazalo se je, da je rešitev poceni in učinkovita. Deluron Forte je pomagal. Od prvih dni je šlo na bolje.",
+        "text": "Veliko denarja in truda je bilo porabljenega za boj proti prostatitisu. A izkazalo se je, da je rešitev poceni in učinkovita. Exurol je pomagal. Od prvih dni je šlo na bolje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3187,11 +3187,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Otto Zegers",
-        "text": "Nisem verjel v moč tako čudežnih zdravil, dokler nisem poskusil Delurona Forte. Odstranjena bolečina, vnetje in stalna želja po odhodu na stranišče. Izdelek deluje!",
+        "text": "Nisem verjel v moč tako čudežnih zdravil, dokler nisem poskusil Exurol. Odstranjena bolečina, vnetje in stalna želja po odhodu na stranišče. Izdelek deluje!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3216,11 +3216,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_6.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaudia Lauders",
-        "text": "Moj mož je vzel Deluron Forte. Podrobnosti mi ni povedal, a njegovo razpoloženje se je izboljšalo. Poleg tega se je nadaljevalo intimno življenje. Verjetno pomaga, saj so takšne spremembe v njegovem vedenju.",
+        "text": "Moj mož je vzel Exurol. Podrobnosti mi ni povedal, a njegovo razpoloženje se je izboljšalo. Poleg tega se je nadaljevalo intimno življenje. Verjetno pomaga, saj so takšne spremembe v njegovem vedenju.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3245,11 +3245,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dolores Krouford",
-        "text": "Kupila sem Deluron Forte za svojega dedka. Za operacijo so bile kontraindikacije, drugih možnosti ni bilo, upali so le na Deluron Forte. In pomagal je! Velikost prostate po tečaju je v mejah normale!",
+        "text": "Kupila sem Exurol za svojega dedka. Za operacijo so bile kontraindikacije, drugih možnosti ni bilo, upali so le na Exurol. In pomagal je! Velikost prostate po tečaju je v mejah normale!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3274,11 +3274,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Voravski",
-        "text": "Ne poznam nič bolj učinkovitega kot Deluron Forte. Hitro odpravi bolečino, zmanjša pogostost želje po odhodu na stranišče. Življenje je postalo boljše!",
+        "text": "Ne poznam nič bolj učinkovitega kot Exurol. Hitro odpravi bolečino, zmanjša pogostost želje po odhodu na stranišče. Življenje je postalo boljše!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3303,11 +3303,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Anna Veltibor",
-        "text": "Moj mož je imel težave in je poskusil marsikaj za odpravo vnetij in bolečin. Pravi, da je učinek začutil šele po Deluronu Forte.",
+        "text": "Moj mož je imel težave in je poskusil marsikaj za odpravo vnetij in bolečin. Pravi, da je učinek začutil šele po Exurol.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3332,8 +3332,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Bernard Kovalski",
         "text": "Dober izdelek na osnovi zeliščnih sestavin. Odstranili so vse znake prostatitisa, vnetje je izginilo. Ni povzročil nobenih stranskih učinkov.",
@@ -3361,11 +3361,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lui Dortson",
-        "text": "Prostatitis so odkrili pred 7 leti. Samo zaradi Delurona Forte živim normalno in brez zapletov. Dva preventivna tečaja na leto in brez zdravstvenih težav.",
+        "text": "Prostatitis so odkrili pred 7 leti. Samo zaradi Exurol živim normalno in brez zapletov. Dva preventivna tečaja na leto in brez zdravstvenih težav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3390,11 +3390,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Hans Salzmann",
-        "text": "Deluron Forte je priporočil znani strokovnjak. Zmrznil sem in prišel k njemu s pritožbami. Ta izdelek sem prijazno priporočil. Pritožbe so izginile.",
+        "text": "Exurol je priporočil znani strokovnjak. Zmrznil sem in prišel k njemu s pritožbami. Ta izdelek sem prijazno priporočil. Pritožbe so izginile.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3419,11 +3419,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Josef Šostek",
-        "text": "Dolgo sem trpel za vnetjem prostate. Bil sem že pripravljen na operacijo, vendar je Deluron Forte pomagal preprečiti to. Najprej je bolečina izzvenela in želja po odhodu na stranišče se je zmanjšala, nato pa je vnetje popolnoma izginilo.",
+        "text": "Dolgo sem trpel za vnetjem prostate. Bil sem že pripravljen na operacijo, vendar je Exurol pomagal preprečiti to. Najprej je bolečina izzvenela in želja po odhodu na stranišče se je zmanjšala, nato pa je vnetje popolnoma izginilo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3448,11 +3448,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Roland Klark",
-        "text": "Lekarniškim izdelkom že dolgo ne zaupam več. Ko potrebujem moško podporo, vzamem Deluron Forte. Naravna sestava in dobro pomaga.",
+        "text": "Lekarniškim izdelkom že dolgo ne zaupam več. Ko potrebujem moško podporo, vzamem Exurol. Naravna sestava in dobro pomaga.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3477,8 +3477,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_15.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
         "rating_text": "Odlična kvaliteta!",
         "name": "Rolana Graves",
         "text": "Zahvaljujem se v svojem imenu in imenu svojega moža. Hvala za tako čudovit izdelek, hitro dostavo in svetovanje. Pomagal mojemu možu! Končno je spet zdrav!",

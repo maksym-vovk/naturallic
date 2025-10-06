@@ -252,12 +252,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
       "modifier": "img-space--right",
-      "name": "Deluron Forte",
+      "name": "Exurol",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -282,8 +282,8 @@
       ],
       "text": "322 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "deluron.html",
-      "tag": "deluron",
+      "link": "exurol.html",
+      "tag": "exurol",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -1044,13 +1044,13 @@
       "niche": "Κατεύθυνση: Παράσιτα"
     },
     {
-      "link": "deluron.html",
-      "tag": "deluron",
-      "srcPhoto": "img/deluron.png",
-      "srcPhotoWebp": "img/deluron.webp",
-      "mobSrcPhoto": "img/deluron-mob.png",
-      "mobSrcPhotoWebp": "img/deluron-mob.webp",
-      "name": "Deluron Forte",
+      "link": "exurol.html",
+      "tag": "exurol",
+      "srcPhoto": "img/exurol.png",
+      "srcPhotoWebp": "img/exurol.webp",
+      "mobSrcPhoto": "img/exurol-mob.png",
+      "mobSrcPhotoWebp": "img/exurol-mob.webp",
+      "name": "Exurol",
       "narrow": true,
       "stars": [
         {
@@ -1649,15 +1649,15 @@
     "suitability": "2 έτη",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "deluron": {
-    "title": "Deluron Forte",
+  "exurol": {
+    "title": "Exurol",
     "category": "Για την υγεία",
     "review_count": "322 κριτικές",
     "niche": "Προστατίτιδα",
-    "form_factor": "blister, κάψουλες 20 τεμ.",
+    "form_factor": "blister, 10 κάψουλες",
     "short_description": "Φάρμακο για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιητικού συστήματος.",
     "description": "σύμπλεγμα φυσικών εκχυλισμάτων για την πρόληψη προβλημάτων του ουροποιητικού συστήματος που μπορεί να αντιμετωπίσει κάθε άνδρας. Η δράση των φυτικών εκχυλισμάτων στοχεύει στην:  εξάλειψη του πόνου και της φλεγμονής,  επίδραση στην υγεία του προστάτη,  διευκόλυνση της ούρησης,  βελτίωση της κυκλοφορίας του αίματος.",
-    "compound": "<span class=\"attention\">gelatin (capsule shell), microcrystalline cellulose (filler), saw palmetto fruit extract, nettle root extract, tribulus terrestris fruit extract, εκχύλισμα ρίζας μάκα, κιτρικό ψευδάργυρο, στεατικό μαγνήσιο (πληρωτικό), διοξείδιο του πυριτίου (αντισυσσωματικό)</span>.",
+    "compound": "Εκχύλισμα ρίζας μάκα (Lepidium meyenii 4:1) - 60 mg, Εκχύλισμα κράνμπερι (Vaccinium macrocarpon, 35% προανθοκυανιδίνες) - 53 mg, Εκχύλισμα φρούτου Saw Palmetto (Serenoa repens 5:1) - 50 mg, Εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1% βήτα-σιτοστερόλη) - 40 mg, Ψευδάργυρος (κιτρικό ψευδάργυρο τριυδρικό) - 5 mg.",
     "usage": "οι ενήλικες πρέπει να λαμβάνουν 1 κάψουλα 1-2 φορές την ημέρα κατά τη διάρκεια του γεύματος ή χωρίς. Η διάρκεια ενός κύκλου είναι 45 ημέρες. Εάν είναι απαραίτητο, ο κύκλος μπορεί να επαναληφθεί. Συνιστώμενη ημερήσια δόση - 2 κάψουλες.",
     "contraindications": "ατομική δυσανεξία σε οποιοδήποτε από τα συστατικά, παιδική ηλικία (έως 18 ετών). Πριν από τη λήψη, συνιστάται να συμβουλευτείτε το γιατρό σας. Δεν είναι φάρμακο. Μην υπερβαίνετε τη συνιστώμενη ημερήσια δόση. Κρατήστε το μακριά από τα παιδιά. Αυτό το συμπλήρωμα διατροφής δεν πρέπει να αντικαθιστά μια ποικίλη διατροφή.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1958,8 +1958,8 @@
       "salePrice": "26",
       "newPrice": "79"
     },
-    "deluron": {
-      "productName": "Deluron Forte",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "26",
       "newPrice": "102"
     },
@@ -3069,13 +3069,13 @@
         ]
       }
     ],
-    "reviews_deluron": [
+    "reviews_exurol": [
       {
-        "src": "img/review_deluron-forte_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μοντέστ Ανβάρι",
-        "text": "Πριν 3 χρόνια πήρα διάγνωση, δοκίμασα πολλά προϊόντα και θεραπείες. Βοήθησε μόνο το Deluron Forte. Το παρήγγειλα από το διαδίκτυο με παράδοση κατ’ οίκον.",
+        "text": "Πριν 3 χρόνια πήρα διάγνωση, δοκίμασα πολλά προϊόντα και θεραπείες. Βοήθησε μόνο το Exurol. Το παρήγγειλα από το διαδίκτυο με παράδοση κατ’ οίκον.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3100,8 +3100,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αυγουστίνος Γκαλέβι",
         "text": "Καλό προϊόν, βοηθά να ομαλοποιηθεί η ούρηση, αφαιρεί τον πόνο. Δρα από την πρώτη εβδομάδα. Επανήλθε και η σεξουαλική επιθυμία.",
@@ -3129,8 +3129,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λόρα Κρόους",
         "text": "Το παρήγγειλα για τον άντρα μου. Μου είπε ότι υπάρχει αποτέλεσμα. Κοιμάται καλύτερα το βράδυ, η σεξουαλική μας ζωή επέστρεψε. Συνεχίζει τον κύκλο.",
@@ -3158,11 +3158,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_4.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_4.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέφαν Ροντρίγκεζ",
-        "text": "Στη μάχη με την προστατίτιδα ξόδεψα πολλά χρήματα και προσπάθειες. Αποδείχτηκε ότι η λύση ήταν οικονομική και αποτελεσματική. Το Deluron Forte βοήθησε. Από τις πρώτες μέρες ένιωσα βελτίωση.",
+        "text": "Στη μάχη με την προστατίτιδα ξόδεψα πολλά χρήματα και προσπάθειες. Αποδείχτηκε ότι η λύση ήταν οικονομική και αποτελεσματική. Το Exurol βοήθησε. Από τις πρώτες μέρες ένιωσα βελτίωση.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3187,11 +3187,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Όττο Ζέγκερς",
-        "text": "Δεν πίστευα στη δύναμη τέτοιων προϊόντων, μέχρι που δοκίμασα το Deluron Forte. Εξάλειψε τον πόνο, τη φλεγμονή και τις συνεχείς επισκέψεις στην τουαλέτα. Το προϊόν λειτουργεί!",
+        "text": "Δεν πίστευα στη δύναμη τέτοιων προϊόντων, μέχρι που δοκίμασα το Exurol. Εξάλειψε τον πόνο, τη φλεγμονή και τις συνεχείς επισκέψεις στην τουαλέτα. Το προϊόν λειτουργεί!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3216,11 +3216,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλαούντια Λάουντερς",
-        "text": "Ο άντρας μου έπαιρνε το Deluron Forte. Δεν μοιραζόταν λεπτομέρειες, αλλά η διάθεσή του βελτιώθηκε. Επίσης η σεξουαλική μας ζωή ξανάρχισε. Μάλλον βοηθά, αφού έχει τέτοιες αλλαγές!",
+        "text": "Ο άντρας μου έπαιρνε το Exurol. Δεν μοιραζόταν λεπτομέρειες, αλλά η διάθεσή του βελτιώθηκε. Επίσης η σεξουαλική μας ζωή ξανάρχισε. Μάλλον βοηθά, αφού έχει τέτοιες αλλαγές!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3245,11 +3245,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ντολόρες Κρόφορντ",
-        "text": "Αγόρασα το Deluron Forte για τον παππού. Η επέμβαση είχε αντενδείξεις, δεν υπήρχαν άλλες επιλογές, ελπίζαμε μόνο σε αυτό. Και βοήθησε! Το μέγεθος του προστάτη επανήλθε στο φυσιολογικό μετά τον κύκλο!",
+        "text": "Αγόρασα το Exurol για τον παππού. Η επέμβαση είχε αντενδείξεις, δεν υπήρχαν άλλες επιλογές, ελπίζαμε μόνο σε αυτό. Και βοήθησε! Το μέγεθος του προστάτη επανήλθε στο φυσιολογικό μετά τον κύκλο!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3274,11 +3274,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρόμπερτ Βορόβσκι",
-        "text": "Δεν ξέρω κάτι πιο αποτελεσματικό από το Deluron Forte. Γρήγορα εξαλείφει τον πόνο και μειώνει τη συχνότητα της ούρησης. Η ζωή έγινε καλύτερη!",
+        "text": "Δεν ξέρω κάτι πιο αποτελεσματικό από το Exurol. Γρήγορα εξαλείφει τον πόνο και μειώνει τη συχνότητα της ούρησης. Η ζωή έγινε καλύτερη!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3303,11 +3303,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_9.png",
-        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_9.png",
+        "desc": "<span class=\"review__mark\">izrazilа</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Άννα Βέλτιμπορ",
-        "text": "Ο άντρας μου είχε προβλήματα, δοκιμάσαμε πολλά για να αφαιρέσουμε τον πόνο και τη φλεγμονή. Μου είπε ότι μόνο μετά το Deluron Forte ένιωσε αποτέλεσμα.",
+        "text": "Ο άντρας μου είχε προβλήματα, δοκιμάσαμε πολλά για να αφαιρέσουμε τον πόνο και τη φλεγμονή. Μου είπε ότι μόνο μετά το Exurol ένιωσε αποτέλεσμα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3332,8 +3332,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπέρναρντ Κοβάλσκι",
         "text": "Καλό προϊόν με βάση φυτικά συστατικά. Εξάλειψε όλα τα σημάδια προστατίτιδας, η φλεγμονή πέρασε. Δεν προκάλεσε παρενέργειες.",
@@ -3361,11 +3361,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_11.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_11.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουί Ντόρτσον",
-        "text": "Η προστατίτιδα διαγνώστηκε πριν από 7 χρόνια. Ζω φυσιολογικά και χωρίς επιπλοκές μόνο χάρη στο Deluron Forte. Δύο προληπτικοί κύκλοι τον χρόνο και καμία ενόχληση.",
+        "text": "Η προστατίτιδα διαγνώστηκε πριν από 7 χρόνια. Ζω φυσιολογικά και χωρίς επιπλοκές μόνο χάρη στο Exurol. Δύο προληπτικοί κύκλοι τον χρόνο και καμία ενόχληση.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3390,11 +3390,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χανς Ζάλτσμαν",
-        "text": "Ένας γνωστός ειδικός μου συνέστησε το Deluron Forte. Είχα κρυώσει και πήγα σε αυτόν με παράπονα. Μου το πρότεινε φιλικά. Τα συμπτώματα εξαφανίστηκαν.",
+        "text": "Ένας γνωστός ειδικός μου συνέστησε το Exurol. Είχα κρυώσει και πήγα σε αυτόν με παράπονα. Μου το πρότεινε φιλικά. Τα συμπτώματα εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3419,11 +3419,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γιόζεφ Σόστεκ",
-        "text": "Με τη φλεγμονή του προστάτη υπέφερα για καιρό. Ήμουν έτοιμος για χειρουργείο, αλλά το Deluron Forte με βοήθησε να το αποφύγω. Στην αρχή έφυγε ο πόνος και οι επισκέψεις στην τουαλέτα, μετά εξαφανίστηκε εντελώς η φλεγμονή.",
+        "text": "Με τη φλεγμονή του προστάτη υπέφερα για καιρό. Ήμουν έτοιμος για χειρουργείο, αλλά το Exurol με βοήθησε να το αποφύγω. Στην αρχή έφυγε ο πόνος και οι επισκέψεις στην τουαλέτα, μετά εξαφανίστηκε εντελώς η φλεγμονή.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3448,11 +3448,11 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρόλαν Κλαρκ",
-        "text": "Δεν εμπιστεύομαι φαρμακευτικά προϊόντα. Όταν χρειάζομαι στήριξη για ανδρικά θέματα, παίρνω Deluron Forte. Φυσική σύνθεση και καλή βοήθεια.",
+        "text": "Δεν εμπιστεύομαι φαρμακευτικά προϊόντα. Όταν χρειάζομαι στήριξη για ανδρικά θέματα, παίρνω Exurol. Φυσική σύνθεση και καλή βοήθεια.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -3477,8 +3477,8 @@
         ]
       },
       {
-        "src": "img/review_deluron-forte_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DELURON&nbsp;FORTE",
+        "src": "img/review_exurol_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Exurol",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρολάνα Γκράβς",
         "text": "Εκφράζω την ευγνωμοσύνη μου από εμένα και τον άντρα μου. Ευχαριστώ για αυτό το εξαιρετικό προϊόν, τη γρήγορη παράδοση και τη συμβουλή. Βοήθησε τον άντρα μου! Επιτέλους είναι ξανά υγιής!",
