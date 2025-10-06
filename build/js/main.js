@@ -483,12 +483,12 @@ var productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Varice',
       country: 'Romania',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -673,12 +673,12 @@ var productsInfo = {
       salePrice: "800",
       newPrice: "111111"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Visszerek',
       country: 'Hungary',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "800",
       newPrice: "111111"
     },
@@ -863,12 +863,12 @@ var productsInfo = {
       salePrice: "27",
       newPrice: "71"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Varici',
       country: 'Italy',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "26",
       newPrice: "75"
     },
@@ -1053,12 +1053,12 @@ var productsInfo = {
       salePrice: "520",
       newPrice: "3065"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Křečové žíly',
       country: 'Czech',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "505",
       newPrice: "1874"
     },
@@ -1243,12 +1243,12 @@ var productsInfo = {
       salePrice: "43",
       newPrice: "121"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Варикоза',
       country: 'Bulgaria',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "42",
       newPrice: "123"
     },
@@ -1433,12 +1433,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "69"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Varikoos',
       country: 'Estonia',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "24",
       newPrice: "77"
     },
@@ -1623,12 +1623,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Proširene vene',
       country: 'Croatia',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "25",
       newPrice: "73"
     },
@@ -1813,12 +1813,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "69"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Venų varikozė',
       country: 'Lithuania',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "24",
       newPrice: "77"
     },
@@ -2003,12 +2003,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "69"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Varikoze',
       country: 'Latvia',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "24",
       newPrice: "77"
     },
@@ -2193,12 +2193,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Varizes',
       country: 'Portugal',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "26",
       newPrice: "75"
     },
@@ -2383,12 +2383,12 @@ var productsInfo = {
       salePrice: "91",
       newPrice: "255"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Żylaki',
       country: 'Poland',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "92",
       newPrice: "270"
     },
@@ -2573,12 +2573,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Krčne žile',
       country: 'Slovenia',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "25",
       newPrice: "73"
     },
@@ -2763,12 +2763,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Kŕčové žily',
       country: 'Slovakia',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "25",
       newPrice: "73"
     },
@@ -2953,12 +2953,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Varices',
       country: 'Belgium',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "25",
       newPrice: "73"
     },
@@ -3143,12 +3143,12 @@ var productsInfo = {
       salePrice: "26",
       newPrice: "75"
     },
-    neoveris: {
+    vasaxal: {
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Κιρσοί',
       country: 'Greece',
-      productName: 'Neoveris',
+      productName: 'Vasaxal',
       salePrice: "25",
       newPrice: "73"
     },

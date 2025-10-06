@@ -658,11 +658,11 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -687,8 +687,8 @@
       ],
       "text": "234 kommentaari",
       "desc": "Looduslike ekstraktidega geel aitab võidelda varikoosi sümptomitega.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -1424,13 +1424,13 @@
       "niche": "Sihtrühm: Liigesed"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1821,8 +1821,8 @@
     "suitability": "2 aastat",
     "keep": "Hoida kuivas, lastele kättesaamatus kohas, temperatuuril kuni +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Tervisele",
     "review_count": "234 kommentaari",
     "niche": "Varikoos",
@@ -2015,8 +2015,8 @@
       "salePrice": "26",
       "newPrice": "69"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "24",
       "newPrice": "77"
     },
@@ -5323,13 +5323,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Margarie Pitrell",
-        "text": "Tellisin Neoverise geeli alles hiljuti. Pärast pealekandmist tekib meeldiv jahutav efekt. Juba mõne päevaga on hakanud paremaks minema ja esialgne mõju on olemas.",
+        "text": "Tellisin Vasaxale geeli alles hiljuti. Pärast pealekandmist tekib meeldiv jahutav efekt. Juba mõne päevaga on hakanud paremaks minema ja esialgne mõju on olemas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5355,8 +5355,8 @@
       },
 
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Lucia Armandez",
         "text": "See on efektiivne geel, mis leevendab jalgade väsimust ja raskust. Enam ei ole tuikavat valu. Saan nüüd ilma valudeta kõndida ja jätkan kasutamist.",
@@ -5385,8 +5385,8 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Ariadna Fante",
         "text": "Jalad ei ole enam paistes ega rasked. Mind ei vaeva enam krambid ja ka veenid ei ole enam nii nähtavad. Soovitan!",
@@ -5415,8 +5415,8 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Leila Fergaroz",
         "text": "Suurepärane ja tõhus preparaat. Toimetatakse kiirelt kohale ja konsultandid on meeldivad. Tänan!",
@@ -5445,11 +5445,11 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Filat Barbeson",
-        "text": "Ostsin Neoverise emale ja ta on väga rahul. Ütleb, et on läinud paremaks, jalad on vähem paistes ja ei valuta enam!",
+        "text": "Ostsin Vasaxale emale ja ta on väga rahul. Ütleb, et on läinud paremaks, jalad on vähem paistes ja ei valuta enam!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5475,8 +5475,8 @@
       },
 
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Veronica Wytes",
         "text": "Veresoonte võrgustikud on jalgadelt peaaegu kadunud. Võtab valu ära ja aitab paistetust ära hoida. Aitab hästi!",
@@ -5505,8 +5505,8 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Victoria Lasquez",
         "text": "Selllel on kerge ja mõnus tekstuur. Koostises on ravimtaimed ja tootel on soodne hind. Ja mis kõige olulisem – see mõjub!",
@@ -5535,8 +5535,8 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Thomas Laurson",
         "text": "Aitas ära hoida veenipõletikku ja võttis kiiresti valu ära. Öösiti ei ole enam jalakrampe. Isegi pärast rasket päeva ei ole enam jalad paistes ega rasked.",
@@ -5565,11 +5565,11 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Gloria Lubreks",
-        "text": "Tänu Neoverisele on mu jalad jälle kerged. Veenid ei ole enam põletikulised ja veresoonte võrgustikud on kadunud. Pärast pealekandmist tekib väga mõnus efekt.",
+        "text": "Tänu Vasaxalele on mu jalad jälle kerged. Veenid ei ole enam põletikulised ja veresoonte võrgustikud on kadunud. Pärast pealekandmist tekib väga mõnus efekt.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5595,11 +5595,11 @@
       },
 
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Christopher Gelbez",
-        "text": "Tegelesin aktiivselt spordiga ja seetõttu tekkisid jalgadele verevalumid ning jalad hakkasid valutama. Pärast Neoverise kasutamist selliste probleemidega enam kokku puutunud ei ole. Valu läheb üle ja isegi pärast koormusi ei ole enam vaevusi.",
+        "text": "Tegelesin aktiivselt spordiga ja seetõttu tekkisid jalgadele verevalumid ning jalad hakkasid valutama. Pärast Vasaxale kasutamist selliste probleemidega enam kokku puutunud ei ole. Valu läheb üle ja isegi pärast koormusi ei ole enam vaevusi.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5625,11 +5625,11 @@
       },
 
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Frederica Alvarez",
-        "text": "Neoverise geelist kuulsin hiljuti. Sellel on palju positiivseid kommentaare. Kohe pärast kasutamist oli mõju tunda, raskus kadus ja veenid ei ole enam nii nähtavad. Olen rahul!",
+        "text": "Vasaxale geelist kuulsin hiljuti. Sellel on palju positiivseid kommentaare. Kohe pärast kasutamist oli mõju tunda, raskus kadus ja veenid ei ole enam nii nähtavad. Olen rahul!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5655,11 +5655,11 @@
       },
 
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Janette Vivalez",
-        "text": "Olen veenidega hädas juba ammu, see on meie peres pärilik. Kartsin väga operatsiooni ja tänu Neoverisele ei pidanud sinna minema. Veenid ei ole enam nii nähtavad, valu ja raskustunne, ka krambid, on kadunud.",
+        "text": "Olen veenidega hädas juba ammu, see on meie peres pärilik. Kartsin väga operatsiooni ja tänu Vasaxalele ei pidanud sinna minema. Veenid ei ole enam nii nähtavad, valu ja raskustunne, ka krambid, on kadunud.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5685,8 +5685,8 @@
       },
 
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Ursula Nebelson",
         "text": "Mõjub hästi! Kohe pärast pealekandmist tekib kerge tunne. Öösel sain magada ilma krampide ja valuta. Jätkan tarvitamist.",
@@ -5715,11 +5715,11 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Ramona Carmelez",
-        "text": "Neoveris on kõige parem toode, mida olen proovinud. Olin juba kreemides ja geelides pettunud, kuid pärast Neoverise proovimist sain aru, et hea preparaat pakub veenilaiendite puhul leevendust!",
+        "text": "Vasaxal on kõige parem toode, mida olen proovinud. Olin juba kreemides ja geelides pettunud, kuid pärast Vasaxale proovimist sain aru, et hea preparaat pakub veenilaiendite puhul leevendust!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5745,11 +5745,11 @@
       },
 
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;VASAXAL",
         "rating_text": "Suurepärane toode!",
         "name": "Ernest Volres",
-        "text": "Neoverist kasutab mu naine, kellel on veenidega probleemid noorusest saati. On tulemusega rahul. Viimased pool aastat pole tervise üle enam kurtnud ja veene pole jalgadel enam peaaegu üldse näha.",
+        "text": "Vasaxalt kasutab mu naine, kellel on veenidega probleemid noorusest saati. On tulemusega rahul. Viimased pool aastat pole tervise üle enam kurtnud ja veene pole jalgadel enam peaaegu üldse näha.",
         "stars": [
           {
             "src": "img/svg/star.svg",

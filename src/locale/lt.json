@@ -658,11 +658,11 @@
     },
     {
       "label": "Top prekė",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -687,8 +687,8 @@
       ],
       "text": "234 atsiliepimai",
       "desc": "Gelis su natūraliais ekstraktais, skirtas kovoti su venų varikozės apraiškomis.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "DAUGIAU"
     },
@@ -1424,13 +1424,13 @@
       "niche": "Kryptis: Sąnariai"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1821,8 +1821,8 @@
     "suitability": "2 metai",
     "keep": "Laikyti sausoje, vaikams nepasiekiamoje vietoje, ne aukštesnėje kaip +25°C temperatūroje."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Sveikatos palaikymui",
     "review_count": "234 atsiliepimai",
     "niche": "Venų varikozė",
@@ -2015,8 +2015,8 @@
       "salePrice": "26",
       "newPrice": "69"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "24",
       "newPrice": "77"
     },
@@ -5323,13 +5323,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Margarita Pitrėnienė",
-        "text": "Neseniai užsisakiau gelį Neoveris. Yra malonus vėsinamasis efektas pasitepus. Jau po kelių dienų pasijuto lengvumas kojose, jau matosi efektas.",
+        "text": "Neseniai užsisakiau gelį Vasaxal. Yra malonus vėsinamasis efektas pasitepus. Jau po kelių dienų pasijuto lengvumas kojose, jau matosi efektas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5355,8 +5355,8 @@
       },
 
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Liucija Asimauskaitė",
         "text": "Efektyvus gelis, mažina kojų sunkumą ir nuovargį. Praėjo pulsuojantis skausmas ir skausmas vaikštant, tęsiu naudojimą.",
@@ -5385,8 +5385,8 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Arija Marčiulionienė",
         "text": "Dingo patinimas ir sunkumas kojose, nebeištinka mėšlungis, o venos tapo mažiau pastebimos. Rekomenduoju!",
@@ -5415,8 +5415,8 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Liuda Masionienė",
         "text": "Puiki ir efektyvi priemonė, greitas pristatymas, malonūs konsultantai. Ačiū!",
@@ -5445,11 +5445,11 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Steponas Barkauskas",
-        "text": "Pirkau Neoveris mamai, ji labai patenkinta. Sako, kad tapo daug geriau, kojos mažiau patinsta ir nebeskauda!",
+        "text": "Pirkau Vasaxal mamai, ji labai patenkinta. Sako, kad tapo daug geriau, kojos mažiau patinsta ir nebeskauda!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5475,8 +5475,8 @@
       },
 
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Veronika Galdikaitė",
         "text": "Kraujagyslių raštai ant kojų jau beveik nepastebimi, gelis malšina skausmą ir užkerta kelią tinimui. Gerai padeda!",
@@ -5505,8 +5505,8 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Viktorija Jankauskaitė",
         "text": "Maloni ir lengva konsistencija, augaliniai komponentai sudėtyje, prieinama kaina. O svarbiausia – yra akivaizdus efektas!",
@@ -5535,8 +5535,8 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Tomas Lauraitis",
         "text": "Užkirto kelią venų uždegimui ir greitai pašalino skausmą. Nebebūna naktinio mėšlungio. Net po sunkios dienos nejaučiu sunkumo ir patinimo.",
@@ -5565,11 +5565,11 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Glorija Navickienė",
-        "text": "Neoveris grąžino kojoms lengvumą. Praėjo venų uždegimas, dingo kraujagyslių tinkliukai. Labai malonus efektas po tepimo.",
+        "text": "Vasaxal grąžino kojoms lengvumą. Praėjo venų uždegimas, dingo kraujagyslių tinkliukai. Labai malonus efektas po tepimo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5595,11 +5595,11 @@
       },
 
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Kristupas Lazauskas",
-        "text": "Aktyviai sportuoju, dėl to ant kojų atsiranda mėlynių, skauda. Po Neoveris naudojimo šios problemos nebetokios ūmios. Skausmas praktiškai praėjo, net po didesnių krūvių problemų nėra.",
+        "text": "Aktyviai sportuoju, dėl to ant kojų atsiranda mėlynių, skauda. Po Vasaxal naudojimo šios problemos nebetokios ūmios. Skausmas praktiškai praėjo, net po didesnių krūvių problemų nėra.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5625,11 +5625,11 @@
       },
 
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Aistė Bružienė",
-        "text": "Apie gelį Neoveris sužinojau palyginti neseniai. Skaičiau labai daug teigiamų atsiliepimų. Iškart pajutau rezultatą, sunkumas praeina, venos nebe tokios išpūstos. Labai patenkinta!",
+        "text": "Apie gelį Vasaxal sužinojau palyginti neseniai. Skaičiau labai daug teigiamų atsiliepimų. Iškart pajutau rezultatą, sunkumas praeina, venos nebe tokios išpūstos. Labai patenkinta!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5655,11 +5655,11 @@
       },
 
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Sigutė Žukienė",
-        "text": "Jau seniai turiu problemų su venomis, paveldėjau. Labai bijojau operacijos, bet Neoveris padėjo jos išvengti. Venos tapo mažiau pastebimos, dingo sunkumas ir skausmas, praėjo spazmai.",
+        "text": "Jau seniai turiu problemų su venomis, paveldėjau. Labai bijojau operacijos, bet Vasaxal padėjo jos išvengti. Venos tapo mažiau pastebimos, dingo sunkumas ir skausmas, praėjo spazmai.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5685,8 +5685,8 @@
       },
 
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Uršulė Kisielienė",
         "text": "Geras rezultatas! Iškart pajutau malonų palengvėjimą. Naktį pramiegojau be mėšlungio ir skausmo. Naudosiu toliau.",
@@ -5715,11 +5715,11 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Ramūnė Karvelytė",
-        "text": "Neoveris - geriausia priemonė iš visko, ką esu išbandžiusi. Jau buvau nusivylusi geliais ir kremas, bet po Neoveris supratau, kad geras produktas vis dėlto gali padėti kovoti su venų išsiplėtimu!",
+        "text": "Vasaxal - geriausia priemonė iš visko, ką esu išbandžiusi. Jau buvau nusivylusi geliais ir kremas, bet po Vasaxal supratau, kad geras produktas vis dėlto gali padėti kovoti su venų išsiplėtimu!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5745,11 +5745,11 @@
       },
 
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;VASAXAL",
         "rating_text": "Puiki kokybė!",
         "name": "Ernestas Norkus",
-        "text": "Neoveris naudoja mano žmona, ji nuo jaunystės turi problemų su venomis. Rezultatu patenkinta. Paskutinį pusmetį sveikata nesiskundė, o venų ant kojų beveik nematyti.",
+        "text": "Vasaxal naudoja mano žmona, ji nuo jaunystės turi problemų su venomis. Rezultatu patenkinta. Paskutinį pusmetį sveikata nesiskundė, o venų ant kojų beveik nematyti.",
         "stars": [
           {
             "src": "img/svg/star.svg",

@@ -655,11 +655,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,8 +684,8 @@
       ],
       "text": "234 hozzászólás",
       "desc": "Természetes kivonatokat tartalmazó gél, amelynek célja a visszerek megjelenésének leküzdése.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -1421,13 +1421,13 @@
       "niche": "Irányzat: Ízületek"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1818,8 +1818,8 @@
     "suitability": "2 év",
     "keep": "Száraz helyen, gyermekek elől elzárva, legfeljebb +25 °C hőmérsékleten tárolandó."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Az egészségért",
     "review_count": "234 hozzászólás",
     "niche": "Visszerek",
@@ -2017,8 +2017,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -5324,11 +5324,11 @@
         "text": "A legjobb krém bőrgyógyászati problémákra. Nagyon hatásosnak találtam a gomba és a papillomák ellen is. A Keraminnak köszönhetően a bőröm teljesen egészséges!"
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
+        "src": "img/review_vasaxal_1.png",
         "name": "Pető Margaréta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5352,13 +5352,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrég rendeltem Neoveris gélt. Alkalmazása után kellemes hűsítő hatás érezhető. Már néhány nap után könnyedség jelenik meg, lényegében az első alkalmazás után hat."
+        "text": "Nemrég rendeltem Vasaxal gélt. Alkalmazása után kellemes hűsítő hatás érezhető. Már néhány nap után könnyedség jelenik meg, lényegében az első alkalmazás után hat."
       },
 
       {
-        "src": "img/review_neoveris_2.png",
+        "src": "img/review_vasaxal_2.png",
         "name": "Gidaly Olívia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5386,9 +5386,9 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
+        "src": "img/review_vasaxal_3.png",
         "name": "Fanta A.",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5416,9 +5416,9 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
+        "src": "img/review_vasaxal_4.png",
         "name": "Sima Aranka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5446,9 +5446,9 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
+        "src": "img/review_vasaxal_5.png",
         "name": "Barabás Ferenc",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5472,13 +5472,13 @@
             "type": "empty"
           }
         ],
-        "text": "Anyukámnak vettem a Neoverist, és nagyon elégedett vele. Azt mondja, sokkal könnyebb, kevésbé duzzadt a lába és nem fáj!"
+        "text": "Anyukámnak vettem a Vasaxalt, és nagyon elégedett vele. Azt mondja, sokkal könnyebb, kevésbé duzzadt a lába és nem fáj!"
       },
 
       {
-        "src": "img/review_neoveris_6.png",
+        "src": "img/review_vasaxal_6.png",
         "name": "Vadász Kornélia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5506,9 +5506,9 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
+        "src": "img/review_vasaxal_7.png",
         "name": "Sánta Viktória",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5536,9 +5536,9 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
+        "src": "img/review_vasaxal_8.png",
         "name": "Takács Alex",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5566,9 +5566,9 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
+        "src": "img/review_vasaxal_9.png",
         "name": "Virág Renáta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5592,13 +5592,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Neoveris visszahozta a könnyedséget a lábaimba. A vénák már nem gyulladnak be, az érhálózatok eltűntek. Nagyon kellemes hatás az alkalmazás után."
+        "text": "A Vasaxal visszahozta a könnyedséget a lábaimba. A vénák már nem gyulladnak be, az érhálózatok eltűntek. Nagyon kellemes hatás az alkalmazás után."
       },
 
       {
-        "src": "img/review_neoveris_10.png",
+        "src": "img/review_vasaxal_10.png",
         "name": "Kacsó Kristóf",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5622,13 +5622,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sokat sportolok, ami zúzódásokat és fájdalmat okoz a lábamban. A Neoveris használata után nincs ilyen problémám. A fájdalom elmúlik, még megerőltetés után is, nincs probléma."
+        "text": "Sokat sportolok, ami zúzódásokat és fájdalmat okoz a lábamban. A Vasaxal használata után nincs ilyen problémám. A fájdalom elmúlik, még megerőltetés után is, nincs probléma."
       },
 
       {
-        "src": "img/review_neoveris_11.png",
+        "src": "img/review_vasaxal_11.png",
         "name": "Almássy Teodóra",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5652,13 +5652,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrégiben szereztem tudomást a Neoveris gélről. Rengeteg pozitív értékelés van. Azonnal éreztem az eredményt, a nehézkesség eltűnt, az erek nem olyan duzzadtak. Elégedett vagyok!"
+        "text": "Nemrégiben szereztem tudomást a Vasaxal gélről. Rengeteg pozitív értékelés van. Azonnal éreztem az eredményt, a nehézkesség eltűnt, az erek nem olyan duzzadtak. Elégedett vagyok!"
       },
 
       {
-        "src": "img/review_neoveris_12.png",
+        "src": "img/review_vasaxal_12.png",
         "name": "Váradi Zsanett",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5682,13 +5682,13 @@
             "type": "empty"
           }
         ],
-        "text": "Régóta vannak vénaproblémáim, örököltem őket. Borzasztóan féltem a műtéttől, de a Neoveris segített megelőzni. A vénák kevésbé láthatóak, nincs fájdalom, nincsenek görcsök."
+        "text": "Régóta vannak vénaproblémáim, örököltem őket. Borzasztóan féltem a műtéttől, de a Vasaxal segített megelőzni. A vénák kevésbé láthatóak, nincs fájdalom, nincsenek görcsök."
       },
 
       {
-        "src": "img/review_neoveris_13.png",
+        "src": "img/review_vasaxal_13.png",
         "name": "Újhelyi Marianna",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5716,9 +5716,9 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
+        "src": "img/review_vasaxal_14.png",
         "name": "Kormos Ramóna",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5742,13 +5742,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Neoveris a legjobb dolog, amit valaha kipróbáltam, már csalódtam a gélekben és krémekben, de a Neoveris után rájöttem, hogy egy jó termék segíthet a vénatágulásban!"
+        "text": "A Vasaxal a legjobb dolog, amit valaha kipróbáltam, már csalódtam a gélekben és krémekben, de a Vasaxal után rájöttem, hogy egy jó termék segíthet a vénatágulásban!"
       },
 
       {
-        "src": "img/review_neoveris_15.png",
+        "src": "img/review_vasaxal_15.png",
         "name": "Hegedűs Ernő",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;VASAXAL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5772,7 +5772,7 @@
             "type": "empty"
           }
         ],
-        "text": "A Neoverist a feleségem használja, akinek fiatal kora óta vénaproblémái vannak. Elégedett az eredménnyel. Az elmúlt hat hónapban nem panaszkodott az egészségére, és a vénák szinte láthatatlanok a lábán."
+        "text": "A Vasaxalt a feleségem használja, akinek fiatal kora óta vénaproblémái vannak. Elégedett az eredménnyel. Az elmúlt hat hónapban nem panaszkodott az egészségére, és a vénák szinte láthatatlanok a lábán."
       }
     ],
     "reviews_ottomax": [

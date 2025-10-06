@@ -655,11 +655,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,8 +684,8 @@
       ],
       "text": "234 ocen",
       "desc": "Gel z naravnimi izvlečki za boj proti manifestacijam krčnih žil.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -1418,13 +1418,13 @@
       "niche": "Smer: Spoji"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1814,8 +1814,8 @@
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Za zdravje",
     "review_count": "234 ocen",
     "niche": "Krčne žile",
@@ -2013,8 +2013,8 @@
       "salePrice": "26",
       "newPrice": "75"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "25",
       "newPrice": "73"
     },
@@ -5254,13 +5254,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Margaeri Pitrell",
-        "text": "Pred kratkim sem naročila Neoveris gel. Po nanosu je prijeten hladilni učinek. Že po nekaj dneh se je pojavilo zlahka, bil je začetni učinek.",
+        "text": "Pred kratkim sem naročila Vasaxal gel. Po nanosu je prijeten hladilni učinek. Že po nekaj dneh se je pojavilo zlahka, bil je začetni učinek.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5285,8 +5285,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lusia Armandes",
         "text": "Učinkovit gel, ki lajša težo in utrujenost nog. Utripajoča bolečina in bolečina pri hoji sta izginili in ga uporabljam še naprej.",
@@ -5314,8 +5314,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ariadna Fante",
         "text": "Oteklina in teža v nogah sta izginila, krči so me prenehali motiti, žile so postale manj opazne. Priporočam!",
@@ -5343,8 +5343,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lejla Fergaros",
         "text": "Odličen in učinkovit izdelek, hitra dostava, prijazni svetovalci. Hvala vam!",
@@ -5372,11 +5372,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Filat Barbeson",
-        "text": "Mami sem kupil Neoveris, zelo je zadovoljna. Pravi, da je postalo veliko lažje, noge manj otekajo in ne bolijo!",
+        "text": "Mami sem kupil Vasaxal, zelo je zadovoljna. Pravi, da je postalo veliko lažje, noge manj otekajo in ne bolijo!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5401,8 +5401,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Veronika Vajts",
         "text": "Pajkaste vene na nogah so postale skoraj nevidne, lajša bolečine in preprečuje otekanje. Zelo pomaga!",
@@ -5430,8 +5430,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Viktorija Laskes",
         "text": "Prijetna in lahka konsistenca, zeliščne sestavine, dostopna cena. In kar je najpomembneje - učinek je!",
@@ -5459,8 +5459,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tomas Laurson",
         "text": "Preprečeval vnetje žil in hitro lajšal bolečine. Krči ponoči so izginili. Tudi po napornem dnevu ni teže ali otekline.",
@@ -5488,11 +5488,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gloria Lubreks",
-        "text": "Neoveris je mojim nogam vrnil lahkotnost. Vene so se prenehale vnetiti, pajkaste vene so izginile. Zelo prijeten učinek po nanosu.",
+        "text": "Vasaxal je mojim nogam vrnil lahkotnost. Vene so se prenehale vnetiti, pajkaste vene so izginile. Zelo prijeten učinek po nanosu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5517,11 +5517,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kristofer Gelbes",
-        "text": "Aktivno se ukvarjam s športom, kar povzroča modrice in bolečine v nogah. Po uporabi zdravila Neoveris te težave ni več. Bolečina mine, tudi po vadbi ni težav.",
+        "text": "Aktivno se ukvarjam s športom, kar povzroča modrice in bolečine v nogah. Po uporabi zdravila Vasaxal te težave ni več. Bolečina mine, tudi po vadbi ni težav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5546,11 +5546,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Frederika Alvarez",
-        "text": "Pred kratkim sem izvedela za Neoveris gel. Obstaja veliko pozitivnih ocen. Takoj sem začutila rezultat, teža je izginila, žile niso bile tako otekle. zadovoljna!",
+        "text": "Pred kratkim sem izvedela za Vasaxal gel. Obstaja veliko pozitivnih ocen. Takoj sem začutila rezultat, teža je izginila, žile niso bile tako otekle. zadovoljna!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5575,11 +5575,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Žannet Vivales",
-        "text": "Že dolgo imam težave z žilami, podedovala sem jih. Operacije sem se zelo bala, vendar je Neoveris pomagal preprečiti. Žile so postale manj opazne, teža in bolečina sta izginili, krči so izginili.",
+        "text": "Že dolgo imam težave z žilami, podedovala sem jih. Operacije sem se zelo bala, vendar je Vasaxal pomagal preprečiti. Žile so postale manj opazne, teža in bolečina sta izginili, krči so izginili.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5604,8 +5604,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ursula Nebelson",
         "text": "Dober rezultat! Takoj sem začutila prijetno olajšanje. Noč sem prespala brez krčev in bolečin. Še naprej ga bom uporabljala.",
@@ -5633,11 +5633,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ramona Karmeles",
-        "text": "Neoveris je najboljši, kar sem jih kdaj poskusil. Razočarana sem bila že nad geli in kremami, po Neoverisu pa sem spoznala, da dober izdelek lahko pomaga v boju proti krčnim žilam!",
+        "text": "Vasaxal je najboljši, kar sem jih kdaj poskusil. Razočarana sem bila že nad geli in kremami, po Vasaxalu pa sem spoznala, da dober izdelek lahko pomaga v boju proti krčnim žilam!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5662,11 +5662,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ernest Volres",
-        "text": "Neoveris uporablja moja žena, ki ima že od mladosti težave z žilami. Zadovoljen sem z rezultatom. V zadnjih šestih mesecih se nisem pritoževala nad svojim zdravjem, žile na nogah so skoraj nevidne.",
+        "text": "Vasaxal uporablja moja žena, ki ima že od mladosti težave z žilami. Zadovoljen sem z rezultatom. V zadnjih šestih mesecih se nisem pritoževala nad svojim zdravjem, žile na nogah so skoraj nevidne.",
         "stars": [
           {
             "src": "img/svg/star.svg",

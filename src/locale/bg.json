@@ -658,11 +658,11 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -687,8 +687,8 @@
       ],
       "text": "234 отзива",
       "desc": "Гел с натурални екстракти, насочени към борба с проявите на разширени вени.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "ПОДРОБНО"
     },
@@ -1424,13 +1424,13 @@
       "niche": "Посока: Стави"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1821,8 +1821,8 @@
     "suitability": "2 години",
     "keep": "Съхранявайте на сухо място, недостъпно за деца, при температура не по-висока от +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "За здравето",
     "review_count": "234 отзива",
     "niche": "Варикоза",
@@ -2021,8 +2021,8 @@
       "salePrice": "43",
       "newPrice": "121"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "42",
       "newPrice": "123"
     },
@@ -5329,13 +5329,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Маргарита Панчева",
-        "text": "Съвсем наскоро поръчах гел Neoveris. Има приятен охлаждащ ефект след нанасяне. След няколко дни усетих облекчение, има пръв ефект.",
+        "text": "Съвсем наскоро поръчах гел Vasaxal. Има приятен охлаждащ ефект след нанасяне. След няколко дни усетих облекчение, има пръв ефект.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5361,8 +5361,8 @@
       },
 
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Станислава Бояджиева",
         "text": "Ефективен гел, който премахва тежестта и умората от краката. Премина пулсиращата болка и болката при ходене, продължавам да го използвам.",
@@ -5391,8 +5391,8 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Ариана Фердешлиева",
         "text": "Подпухналостта и тежестта в краката изчезнаха, спазмите престанаха да се притесняват, а вените станаха по-малко забележими. Препоръчвам!",
@@ -5421,8 +5421,8 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Юлиана Тодорова",
         "text": "Отлично и ефективно средство, бърза доставка, приятни консултанти. Благодаря!",
@@ -5451,11 +5451,11 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Владимир Барбаров",
-        "text": "Купих Neoveris за майка, тя е много доволна. Казва, че й станало много по-лесно, краката се подуват по-малко и не болят!",
+        "text": "Купих Vasaxal за майка, тя е много доволна. Казва, че й станало много по-лесно, краката се подуват по-малко и не болят!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5481,8 +5481,8 @@
       },
 
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Вероника Харалампиева",
         "text": "Съдовите мрежи на краката са станали почти невидими, премахва болката и предотвратяват подуването. Много добре помага!",
@@ -5511,8 +5511,8 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Виктория Лефтерова",
         "text": "Приятна и лека консистенция, растителни компоненти в състава, достъпна цена. И най-важното – има ефект!",
@@ -5541,8 +5541,8 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Теодор Иванов",
         "text": "Предотвратява възпалението на вените и бързо премахва болката. Няма повече спазми през нощта. Дори след тежък ден няма тежест и подуване.",
@@ -5571,11 +5571,11 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Глория Дачева",
-        "text": "Neoveris върна лекотата в краката. Вените спряха да се възпаляват, съдовите мрежи изчезнаха. Много приятен ефект след нанасяне.",
+        "text": "Vasaxal върна лекотата в краката. Вените спряха да се възпаляват, съдовите мрежи изчезнаха. Много приятен ефект след нанасяне.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5601,11 +5601,11 @@
       },
 
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Кристиян Драгнев",
-        "text": "Активно се занимавам със спорт, поради което на краката се появяват синини и болка. След използване на Neoveris няма такъв проблем. Болката преминава, дори след натоварване няма проблеми.",
+        "text": "Активно се занимавам със спорт, поради което на краката се появяват синини и болка. След използване на Vasaxal няма такъв проблем. Болката преминава, дори след натоварване няма проблеми.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5631,11 +5631,11 @@
       },
 
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Атанаска Гочева",
-        "text": "За гела Neoveris научих наскоро. Прочетох много положителни отзиви. Веднага усетих резултата, тежестта изчезна, вените не бяха толкова подути. Много съм доволна!",
+        "text": "За гела Vasaxal научих наскоро. Прочетох много положителни отзиви. Веднага усетих резултата, тежестта изчезна, вените не бяха толкова подути. Много съм доволна!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5661,11 +5661,11 @@
       },
 
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Жанет Влайкова",
-        "text": "Отдавна имам проблеми с вените, наследени. Страхувах се от операцията много, обаче Neoveris помогнаха да я предотвратя. Вените станаха по-малко забележими, тежестта и болката изчезнаха, спазмите преминаха.",
+        "text": "Отдавна имам проблеми с вените, наследени. Страхувах се от операцията много, обаче Vasaxal помогнаха да я предотвратя. Вените станаха по-малко забележими, тежестта и болката изчезнаха, спазмите преминаха.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5691,8 +5691,8 @@
       },
 
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Надежда Узунова",
         "text": "Добър резултат! Веднага почувствах приятно облекчение. Цял нощ спах без спазми и болка. Ще продължа да го използвам.",
@@ -5721,11 +5721,11 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Божидара Никовска",
-        "text": "Neoveris е най-добрия, който съм опитвала. Вече бях разочарована от геловете и кремовете и след Neoveris разбрах, че е добро средство и може да помогне в борбата срещу разширяването на вените!",
+        "text": "Vasaxal е най-добрия, който съм опитвала. Вече бях разочарована от геловете и кремовете и след Vasaxal разбрах, че е добро средство и може да помогне в борбата срещу разширяването на вените!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5751,11 +5751,11 @@
       },
 
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Еди Керменджиев",
-        "text": "Съпругата използва Neoveris, тя има проблеми с вените от младостта си. Доволна е от резултата. През последните шест месеца не се оплаква от здравето си, а вените почти не се виждат на краката.",
+        "text": "Съпругата използва Vasaxal, тя има проблеми с вените от младостта си. Доволна е от резултата. През последните шест месеца не се оплаква от здравето си, а вените почти не се виждат на краката.",
         "stars": [
           {
             "src": "img/svg/star.svg",

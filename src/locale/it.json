@@ -656,11 +656,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -685,8 +685,8 @@
       ],
       "text": "234 recensioni",
       "desc": "Gel con effetto rinfrescante per combattere le manifestazioni delle vene varicose.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "IN DETTAGLIO"
     },
@@ -1421,13 +1421,13 @@
       "niche": "Campo: Articolazioni"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1817,8 +1817,8 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Per la salute",
     "review_count": "234 recensioni",
     "niche": "Varici",
@@ -2018,8 +2018,8 @@
       "salePrice": "27",
       "newPrice": "71"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "26",
       "newPrice": "75"
     },
@@ -5311,11 +5311,11 @@
         "text": "La migliore crema per problemi dermatologici. Ho apprezzato l'efficacia nel combattere i funghi e i papillomi. Grazie a Keramin, la mia pelle è completamente sana!"
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
+        "src": "img/review_vasaxal_1.png",
         "name": "Margherita Pitrelli",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5339,13 +5339,13 @@
             "type": "empty"
           }
         ],
-        "text": "Solo di recente ho ordinato il gel Neoveris. C'è un piacevole effetto di raffreddamento dopo l'applicazione. Dopo alcuni giorni è apparsa una legerezza, un effetto iniziale c'è."
+        "text": "Solo di recente ho ordinato il gel Vasaxal. C'è un piacevole effetto di raffreddamento dopo l'applicazione. Dopo alcuni giorni è apparsa una legerezza, un effetto iniziale c'è."
       },
 
       {
-        "src": "img/review_neoveris_2.png",
+        "src": "img/review_vasaxal_2.png",
         "name": "Luciana Armarolo",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5373,9 +5373,9 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
+        "src": "img/review_vasaxal_3.png",
         "name": "Arianna Fante",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5403,9 +5403,9 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
+        "src": "img/review_vasaxal_4.png",
         "name": "Leila Fergaro",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5433,9 +5433,9 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
+        "src": "img/review_vasaxal_5.png",
         "name": "Filippo Barberini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5459,13 +5459,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comprato Neoveris per la mamma, lei è molto felice. Dice che tutto è diventato molto più facile, le gambe si gonfiano di meno e non fanno male!"
+        "text": "Comprato Vasaxal per la mamma, lei è molto felice. Dice che tutto è diventato molto più facile, le gambe si gonfiano di meno e non fanno male!"
       },
 
       {
-        "src": "img/review_neoveris_6.png",
+        "src": "img/review_vasaxal_6.png",
         "name": "Veronica Bianchi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5493,9 +5493,9 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
+        "src": "img/review_vasaxal_7.png",
         "name": "Vittoria Monti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5523,9 +5523,9 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
+        "src": "img/review_vasaxal_8.png",
         "name": "Tommaso Bellantuono",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5553,9 +5553,9 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
+        "src": "img/review_vasaxal_9.png",
         "name": "Gloria Lubrano",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5579,13 +5579,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris ha riportato leggerezza alle gambe. Le vene hanno smesso di infiammarsi, le reti vascolari sono scomparse. Effetto molto piacevole dopo l'applicazione."
+        "text": "Vasaxal ha riportato leggerezza alle gambe. Le vene hanno smesso di infiammarsi, le reti vascolari sono scomparse. Effetto molto piacevole dopo l'applicazione."
       },
 
       {
-        "src": "img/review_neoveris_10.png",
+        "src": "img/review_vasaxal_10.png",
         "name": "Paolo Arrigo",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5609,13 +5609,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sono attivamente impegnata nello sport a causa del quale appaiono lividi e dolore alle gambe. Non c'è questo problema dopo aver usato Neoveris. Il dolore scompare, anche dopo lo sforzo non ci sono problemi."
+        "text": "Sono attivamente impegnata nello sport a causa del quale appaiono lividi e dolore alle gambe. Non c'è questo problema dopo aver usato Vasaxal. Il dolore scompare, anche dopo lo sforzo non ci sono problemi."
       },
 
       {
-        "src": "img/review_neoveris_11.png",
+        "src": "img/review_vasaxal_11.png",
         "name": "Federica Boggiano",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5639,13 +5639,13 @@
             "type": "empty"
           }
         ],
-        "text": "Il gel Neoveris ho scoperto di recente. Molte recensioni positive. Ho subito sentito il risultato, la pesantezza è sparita, le vene non sono così gonfie. Felice!"
+        "text": "Il gel Vasaxal ho scoperto di recente. Molte recensioni positive. Ho subito sentito il risultato, la pesantezza è sparita, le vene non sono così gonfie. Felice!"
       },
 
       {
-        "src": "img/review_neoveris_12.png",
+        "src": "img/review_vasaxal_12.png",
         "name": "Janna Vivaldi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5669,13 +5669,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho avuto problemi con le vene per molto tempo, l'ho ereditate. Avevo paura della chirurgia terribile, ma Neoveris ha aiutato a prevenirlo. Le vene sono diventate meno evidenti, la pesantezza e il dolore sono spariti, i crampi sono passati."
+        "text": "Ho avuto problemi con le vene per molto tempo, l'ho ereditate. Avevo paura della chirurgia terribile, ma Vasaxal ha aiutato a prevenirlo. Le vene sono diventate meno evidenti, la pesantezza e il dolore sono spariti, i crampi sono passati."
       },
 
       {
-        "src": "img/review_neoveris_13.png",
+        "src": "img/review_vasaxal_13.png",
         "name": "Ursula Danieli",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5703,9 +5703,9 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
+        "src": "img/review_vasaxal_14.png",
         "name": "Ramona Carmellucci",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5729,13 +5729,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris è il migliore di tutto ciò che ha provato. Già sono delusa da gel e creme, ma dopo Neoveris mi sono resa conto che un buon rimedio può aiutare a combattere la comparsa delle reti venose!"
+        "text": "Vasaxal è il migliore di tutto ciò che ha provato. Già sono delusa da gel e creme, ma dopo Vasaxal mi sono resa conto che un buon rimedio può aiutare a combattere la comparsa delle reti venose!"
       },
 
       {
-        "src": "img/review_neoveris_15.png",
+        "src": "img/review_vasaxal_15.png",
         "name": "Ernesto Volo",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;VASAXAL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5759,7 +5759,7 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris usa la moglie, ha problemi con le vene fin dalla giovane età. Il risultato è soddisfacente. Negli ultimi sei mesi non si è lamentata della salute e le vene sono quasi invisibili sulle gambe."
+        "text": "Vasaxal usa la moglie, ha problemi con le vene fin dalla giovane età. Il risultato è soddisfacente. Negli ultimi sei mesi non si è lamentata della salute e le vene sono quasi invisibili sulle gambe."
       }
     ],
     "reviews_ottomax": [

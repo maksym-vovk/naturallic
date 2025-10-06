@@ -658,11 +658,11 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -687,8 +687,8 @@
       ],
       "text": "234 atsauksmes",
       "desc": "Gels ar dabīgiem ekstraktiem, kurš domāts varikozes izpausmju novēršanai.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -1424,13 +1424,13 @@
       "niche": "Virziens: Locītavas"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1821,8 +1821,8 @@
     "suitability": "2 gadi",
     "keep": "Glabāt sausā, bērniem nepieejamā vietā, pie temperatūras ne augstāk par +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Veselībai",
     "review_count": "234 atsauksmes",
     "niche": "Varikoze",
@@ -2015,8 +2015,8 @@
       "salePrice": "26",
       "newPrice": "69"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "24",
       "newPrice": "77"
     },
@@ -5323,13 +5323,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Margarita Pitrella",
-        "text": "Tikai nesen pasūtīju gelu Neoveris. Pēc uzsmērēšanas ir patīkams atvēsinošs efekts. Jau pēc dažām dienām palika vieglāk, ir sākotnējs efekts.",
+        "text": "Tikai nesen pasūtīju gelu Vasaxal. Pēc uzsmērēšanas ir patīkams atvēsinošs efekts. Jau pēc dažām dienām palika vieglāk, ir sākotnējs efekts.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5355,8 +5355,8 @@
       },
 
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Lusija Armandesa",
         "text": "Efektīvs gels, kas noņem kāju smagumu un nogurumu. Pārgāja pulsējošas sāpes un sāpes staigājot, turpinu lietot.",
@@ -5385,8 +5385,8 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Ariadne Fantē",
         "text": "Pārgāja kāju tūska un smaguma sajūta, pārstāja traucēt krampji un vēnas kļuva mazāk manāmas. Iesaku!",
@@ -5415,8 +5415,8 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Leila Fergarosa",
         "text": "Lielisks un efektīvs līdzeklis, ātra piegāde, patīkami konsultanti. Paldies!",
@@ -5445,11 +5445,11 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Filats Barbesons",
-        "text": "Nopirku Neoveris mammai, viņa ir ļoti apmierināta. Saka, ka ir palicis daudz vieglāk, kājas mazāk pietūkst un nesāp!",
+        "text": "Nopirku Vasaxal mammai, viņa ir ļoti apmierināta. Saka, ka ir palicis daudz vieglāk, kājas mazāk pietūkst un nesāp!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5475,8 +5475,8 @@
       },
 
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Veronika Vaita",
         "text": "Asinsvadu tīklojums uz kājām ir kļuvis gandrīz nemanāms, noņem sāpes un novērš tūsku. Palīdz labi!",
@@ -5505,8 +5505,8 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Viktorija Laskesa",
         "text": "Patīkama un viegla konsistence, sastāvā augu komponenti, pieejama cena. Un pats galvenais - ir efektīvs!",
@@ -5535,8 +5535,8 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Tomass Loursons",
         "text": "Novērsa vēnu iekaisumu un ātri noņēma sāpes. Naktīs vairs nav krampju. Pat pēc smagas dienas nav smaguma sajūtas un pietūkuma.",
@@ -5565,11 +5565,11 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Glorija Lubreksa",
-        "text": "Neoveris man atgrieza kāju vieglumu. Pārstāja iekaist vēnas, izgaisa asinsvadu tīklojums. Pēc uzsmērēšanas ir ļoti patīkams efekts.",
+        "text": "Vasaxal man atgrieza kāju vieglumu. Pārstāja iekaist vēnas, izgaisa asinsvadu tīklojums. Pēc uzsmērēšanas ir ļoti patīkams efekts.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5595,11 +5595,11 @@
       },
 
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Kristofers Gebels",
-        "text": "Aktīvi nodarbojos ar sportu, tādēļ parādās zilumi un sāpes. Pēc Neoveris lietošanas šādu problēmu nav. Sāpes pāriet, pat pēc slodzes, nav problēmu.",
+        "text": "Aktīvi nodarbojos ar sportu, tādēļ parādās zilumi un sāpes. Pēc Vasaxal lietošanas šādu problēmu nav. Sāpes pāriet, pat pēc slodzes, nav problēmu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5625,11 +5625,11 @@
       },
 
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Frederika Alvaresa",
-        "text": "Nesen uzzināju par gelu Neoveris. Ļoti daudz pozitīvu atsauksmju. Rezultātu sajutu uzreiz, pārgāja smagums, vēnas vairs nav tik piepūtušās. Esmu apmierināta!",
+        "text": "Nesen uzzināju par gelu Vasaxal. Ļoti daudz pozitīvu atsauksmju. Rezultātu sajutu uzreiz, pārgāja smagums, vēnas vairs nav tik piepūtušās. Esmu apmierināta!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5655,11 +5655,11 @@
       },
 
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Žanete Vivalesa",
-        "text": "Man sen jau ir problēmas ar vēnām, saņēmu mantojumā. Es ļoti baidījos no operācijas, un Neoveris palīdzēja to novērst. Vēnas ir kļuvušas mazāk pamanāmas, ir izzudusi smaguma sajūta un sāpes, pārgājuši krampji.",
+        "text": "Man sen jau ir problēmas ar vēnām, saņēmu mantojumā. Es ļoti baidījos no operācijas, un Vasaxal palīdzēja to novērst. Vēnas ir kļuvušas mazāk pamanāmas, ir izzudusi smaguma sajūta un sāpes, pārgājuši krampji.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5685,8 +5685,8 @@
       },
 
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Ursula Nebelsone",
         "text": "Labs rezultāts! Uzreiz sajutu patīkamu atvieglojumu. Nakti nogulēju bez krampjiem un sāpēm. Turpināšu lietot.",
@@ -5715,11 +5715,11 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Raimoda Karmelesa",
-        "text": "Neoveris — tas ir labākais, ko esmu izmēģinājusi. Es jau biju vīlusies gelos un krēmos, bet pēc Neoveris es sapratu, ka labs līdzeklis var palīdzēt cīņā ar vēnu paplašinājumiem!",
+        "text": "Vasaxal — tas ir labākais, ko esmu izmēģinājusi. Es jau biju vīlusies gelos un krēmos, bet pēc Vasaxal es sapratu, ka labs līdzeklis var palīdzēt cīņā ar vēnu paplašinājumiem!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5745,11 +5745,11 @@
       },
 
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
         "rating_text": "Doskonała jakość!",
         "name": "Ernests Volress",
-        "text": "Sieva lieto Neoveris, viņai kopš jaunības ir problēmas ar vēnām. Ar rezultātu ir apmierināta. Pēdējā pusgad laikā nav sūdzējusies par veselību un uz kājām vēnas gandrīz nav redzamas.",
+        "text": "Sieva lieto Vasaxal, viņai kopš jaunības ir problēmas ar vēnām. Ar rezultātu ir apmierināta. Pēdējā pusgad laikā nav sūdzējusies par veselību un uz kājām vēnas gandrīz nav redzamas.",
         "stars": [
           {
             "src": "img/svg/star.svg",

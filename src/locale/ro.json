@@ -656,11 +656,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -685,8 +685,8 @@
       ],
       "text": "234 recenzii",
       "desc": "Gel cu extracte naturale care vizează combaterea manifestărilor venelor varicoase.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -1423,13 +1423,13 @@
       "niche": "Direcție: Articulații"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1819,8 +1819,8 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Pentru sănătate",
     "review_count": "234 recenzii",
     "niche": "Varice",
@@ -2018,8 +2018,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -5327,11 +5327,11 @@
         "text": "Cea mai bună cremă pentru probleme dermatologice. Am evaluat eficacitatea atât în lupta împotriva ciupercilor, cât și a papiloamelor. Datorită Keramin, pielea mea este complet sănătoasă!"
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
+        "src": "img/review_vasaxal_1.png",
         "name": "Margareta Diaconu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5355,13 +5355,13 @@
             "type": "empty"
           }
         ],
-        "text": "Tocmai am comandat recent gelul Neoveris. Are un efect plăcut de răcire după aplicare. Deja după câteva zile, a apărut o ușurință, există un efect inițial."
+        "text": "Tocmai am comandat recent gelul Vasaxal. Are un efect plăcut de răcire după aplicare. Deja după câteva zile, a apărut o ușurință, există un efect inițial."
       },
 
       {
-        "src": "img/review_neoveris_2.png",
+        "src": "img/review_vasaxal_2.png",
         "name": "Lucia Armă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5389,9 +5389,9 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
+        "src": "img/review_vasaxal_3.png",
         "name": "Arina Ioniță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5419,9 +5419,9 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
+        "src": "img/review_vasaxal_4.png",
         "name": "Liliana Dinescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5449,9 +5449,9 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
+        "src": "img/review_vasaxal_5.png",
         "name": "Florin Dabija",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5475,13 +5475,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am cumpărat Neoveris pentru mama mea, este foarte fericită. Spune că i-a devenit mult mai ușor, picioarele se umflă mai puțin și o nu o dor!"
+        "text": "Am cumpărat Vasaxal pentru mama mea, este foarte fericită. Spune că i-a devenit mult mai ușor, picioarele se umflă mai puțin și o nu o dor!"
       },
 
       {
-        "src": "img/review_neoveris_6.png",
+        "src": "img/review_vasaxal_6.png",
         "name": "Veronica Barbu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5509,9 +5509,9 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
+        "src": "img/review_vasaxal_7.png",
         "name": "Victoria Crețu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5539,9 +5539,9 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
+        "src": "img/review_vasaxal_8.png",
         "name": "Teodor Arghezi",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5569,9 +5569,9 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
+        "src": "img/review_vasaxal_9.png",
         "name": "Gloria Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5595,13 +5595,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris a redat ușurință picioarelor. Venele au încetat să se mai inflameze, rețelele vasculare au disparut. Un efect foarte plăcut după aplicare."
+        "text": "Vasaxal a redat ușurință picioarelor. Venele au încetat să se mai inflameze, rețelele vasculare au disparut. Un efect foarte plăcut după aplicare."
       },
 
       {
-        "src": "img/review_neoveris_10.png",
+        "src": "img/review_vasaxal_10.png",
         "name": "Cristian Maramureșu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5625,13 +5625,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sunt implicat activ în sport, care provoacă vânătăi și dureri pe picioare. Astfel de probleme după utilizarea Neoveris nu există. Durerea dispare, chiar și după încărcături fără probleme."
+        "text": "Sunt implicat activ în sport, care provoacă vânătăi și dureri pe picioare. Astfel de probleme după utilizarea Vasaxal nu există. Durerea dispare, chiar și după încărcături fără probleme."
       },
 
       {
-        "src": "img/review_neoveris_11.png",
+        "src": "img/review_vasaxal_11.png",
         "name": "Adelina Șonda",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5655,13 +5655,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am aflat recent despre gelul Neoveris. Sunt foarte multe recenzii pozitive. Am simțit imediat rezultatul, greutatea a dispărut, venele nu mai sunt atât de umflate. Mulțumesc!"
+        "text": "Am aflat recent despre gelul Vasaxal. Sunt foarte multe recenzii pozitive. Am simțit imediat rezultatul, greutatea a dispărut, venele nu mai sunt atât de umflate. Mulțumesc!"
       },
 
       {
-        "src": "img/review_neoveris_12.png",
+        "src": "img/review_vasaxal_12.png",
         "name": "Raluca Ortenu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5685,13 +5685,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am probleme cu venele mele de mult timp, le-am moștenit. Mi-a fost frică de operație teribil, dar Neoveris m-a ajutat la prevenirea acesteia. Venele au devenit mai puțin vizibile, greutatea și durerea au dispărut, convulsiile au trecut."
+        "text": "Am probleme cu venele mele de mult timp, le-am moștenit. Mi-a fost frică de operație teribil, dar Vasaxal m-a ajutat la prevenirea acesteia. Venele au devenit mai puțin vizibile, greutatea și durerea au dispărut, convulsiile au trecut."
       },
 
       {
-        "src": "img/review_neoveris_13.png",
+        "src": "img/review_vasaxal_13.png",
         "name": "Ursula Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5719,9 +5719,9 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
+        "src": "img/review_vasaxal_14.png",
         "name": "Paulina Munteanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5745,13 +5745,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris este cel mai bun din tot ceea ce am încercat. Am fost deja dezamăgit de geluri și creme, iar după Neoveris mi-am dat seama că un remediu bun poate ajuta în lupta împotriva extinderii venelor!"
+        "text": "Vasaxal este cel mai bun din tot ceea ce am încercat. Am fost deja dezamăgit de geluri și creme, iar după Vasaxal mi-am dat seama că un remediu bun poate ajuta în lupta împotriva extinderii venelor!"
       },
 
       {
-        "src": "img/review_neoveris_15.png",
+        "src": "img/review_vasaxal_15.png",
         "name": "Aurel Popa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5775,7 +5775,7 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris este folosit de soția mea, are probleme cu venele încă din tinerețe. Sunt mulțumit de rezultat. Nu s-a plâns de sănătate în ultimele șase luni, iar venele sunt aproape invizibile pe picioarele ei."
+        "text": "Vasaxal este folosit de soția mea, are probleme cu venele încă din tinerețe. Sunt mulțumit de rezultat. Nu s-a plâns de sănătate în ultimele șase luni, iar venele sunt aproape invizibile pe picioarele ei."
       }
     ],
     "reviews_ottomax": [

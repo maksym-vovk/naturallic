@@ -655,11 +655,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,8 +684,8 @@
       ],
       "text": "234 recenzí",
       "desc": "Gel s přírodními výtažky zaměřený na boj proti příznakům křečových žil.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -1421,13 +1421,13 @@
       "niche": "Směr: Klouby"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1817,8 +1817,8 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Pro zdraví",
     "review_count": "234 recenzí",
     "niche": "Křečové žíly",
@@ -2016,8 +2016,8 @@
       "salePrice": "520",
       "newPrice": "3065"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "505",
       "newPrice": "1874"
     },
@@ -5324,11 +5324,11 @@
         "text": "Nejlepší krém na dermatologické problémy. Cítila jsem účinnost v boji proti houbám a papilomům. Díky Keraminu je moje kůže zcela zdravá!"
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
+        "src": "img/review_vasaxal_1.png",
         "name": "Jana Trojanová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5352,13 +5352,13 @@
             "type": "empty"
           }
         ],
-        "text": "Teprve nedávno jsem si objednala gel Neoveris.Po aplikaci je příjemný chladící efekt.Po několika dnech se objevila lehkost, existuje počáteční účinek."
+        "text": "Teprve nedávno jsem si objednala gel Vasaxal.Po aplikaci je příjemný chladící efekt.Po několika dnech se objevila lehkost, existuje počáteční účinek."
       },
 
       {
-        "src": "img/review_neoveris_2.png",
+        "src": "img/review_vasaxal_2.png",
         "name": "Zdenka Klimentová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5386,9 +5386,9 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
+        "src": "img/review_vasaxal_3.png",
         "name": "Natalie Beránková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5416,9 +5416,9 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
+        "src": "img/review_vasaxal_4.png",
         "name": "Lenka Krestýnová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5446,9 +5446,9 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
+        "src": "img/review_vasaxal_5.png",
         "name": "Tomáš Dvořák",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5472,13 +5472,13 @@
             "type": "empty"
           }
         ],
-        "text": "Koupil jsem Neoveris pro maminku, je velmi spokojená.Říká, že se jí ulevilo, nohy jsou méně oteklé a nebolí!"
+        "text": "Koupil jsem Vasaxal pro maminku, je velmi spokojená.Říká, že se jí ulevilo, nohy jsou méně oteklé a nebolí!"
       },
 
       {
-        "src": "img/review_neoveris_6.png",
+        "src": "img/review_vasaxal_6.png",
         "name": "Jitka Koloušková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5506,9 +5506,9 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
+        "src": "img/review_vasaxal_7.png",
         "name": "Jiřina Lakomá",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5536,9 +5536,9 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
+        "src": "img/review_vasaxal_8.png",
         "name": "Josef Ďuran",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5566,9 +5566,9 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
+        "src": "img/review_vasaxal_9.png",
         "name": "Kateřina Opluštilová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5592,13 +5592,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris vrátil lehkost do nohou.Žíly se přestaly zanícovat, zmizely cévní sítě.Velmi příjemný efekt po aplikaci."
+        "text": "Vasaxal vrátil lehkost do nohou.Žíly se přestaly zanícovat, zmizely cévní sítě.Velmi příjemný efekt po aplikaci."
       },
 
       {
-        "src": "img/review_neoveris_10.png",
+        "src": "img/review_vasaxal_10.png",
         "name": "Martin Sova",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5622,13 +5622,13 @@
             "type": "empty"
           }
         ],
-        "text": "Aktivně se věnuji sportu, kvůli kterému se na nohou objevují modřiny a bolest.Po použití přípravku Neoveris neexistuje žádný takový problém.Bolest pomine, ani po zátěži není problém."
+        "text": "Aktivně se věnuji sportu, kvůli kterému se na nohou objevují modřiny a bolest.Po použití přípravku Vasaxal neexistuje žádný takový problém.Bolest pomine, ani po zátěži není problém."
       },
 
       {
-        "src": "img/review_neoveris_11.png",
+        "src": "img/review_vasaxal_11.png",
         "name": "Andrea Šnapková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5652,13 +5652,13 @@
             "type": "empty"
           }
         ],
-        "text": "O gelu Neoveris jsem se dozvěděl nedávno.Hodně pozitivních ohlasů.Okamžitě jsem cítil výsledek, tíha odešla, žíly nejsou tak nafouknuté.Jsem spokojená!"
+        "text": "O gelu Vasaxal jsem se dozvěděl nedávno.Hodně pozitivních ohlasů.Okamžitě jsem cítil výsledek, tíha odešla, žíly nejsou tak nafouknuté.Jsem spokojená!"
       },
 
       {
-        "src": "img/review_neoveris_12.png",
+        "src": "img/review_vasaxal_12.png",
         "name": "Soňa Janková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5682,13 +5682,13 @@
             "type": "empty"
           }
         ],
-        "text": "Dlouho jsem měla problémy s žilami, zdědila jsem je.Bála jsem se operace, ale Neoveris tomu pomohl zabránit.Žíly se staly méně nápadné, závažnost a bolest zmizely, křeče prošly."
+        "text": "Dlouho jsem měla problémy s žilami, zdědila jsem je.Bála jsem se operace, ale Vasaxal tomu pomohl zabránit.Žíly se staly méně nápadné, závažnost a bolest zmizely, křeče prošly."
       },
 
       {
-        "src": "img/review_neoveris_13.png",
+        "src": "img/review_vasaxal_13.png",
         "name": "Danuše Hrdličková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5716,9 +5716,9 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
+        "src": "img/review_vasaxal_14.png",
         "name": "Marie Jelínková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5742,13 +5742,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris je to nejlepší, co jsem kdy zkoušela.Už jsem byla zklamáná v gelech a krémách a po Neoveris jsem si uvědomila, že dobrý prostředek může pomoci v boji proti rozšíření žil!"
+        "text": "Vasaxal je to nejlepší, co jsem kdy zkoušela.Už jsem byla zklamáná v gelech a krémách a po Vasaxal jsem si uvědomila, že dobrý prostředek může pomoci v boji proti rozšíření žil!"
       },
 
       {
-        "src": "img/review_neoveris_15.png",
+        "src": "img/review_vasaxal_15.png",
         "name": "Daniel Svozil",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5772,7 +5772,7 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris používá manželka, od mládí má problémy s žilami.S výsledkem je spokojená.Poslední půlrok si na zdraví nestěžovala a žíly na nohou téměř nejsou vidět."
+        "text": "Vasaxal používá manželka, od mládí má problémy s žilami.S výsledkem je spokojená.Poslední půlrok si na zdraví nestěžovala a žíly na nohou téměř nejsou vidět."
       }
     ],
     "reviews_ottomax": [
