@@ -694,11 +694,11 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 atsauksmes",
       "desc": "Krēms ar baktericīdu iedarbību, kurš domātā sēnītes izpausmju novēršanai.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "SĪKĀK"
     },
@@ -1458,13 +1458,13 @@
       "niche": "Virziens: Varikoze"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1836,8 +1836,8 @@
     "suitability": "2 gadi",
     "keep": "Uzglabāt temperatūrā no 0°C līdz 25°C, prom no tiešiem saules stariem un mitruma."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Veselībai",
     "review_count": "301 atsauksmes",
     "niche": "Sēnīte",
@@ -2020,8 +2020,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "82",
       "newPrice": "26"
     },
@@ -4872,13 +4872,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Henriete Loparesa",
-        "text": "Gadiem es cīnījos ar kāju sēnīti. Visiem līdzekļiem piemita tikai īslaicīgs efekts. Keramin man palīdzēja uz visiem laikiem aizmirst par šo problēmu. Tagad kājas un nagi ir veseli! Lieliski!",
+        "text": "Gadiem es cīnījos ar kāju sēnīti. Visiem līdzekļiem piemita tikai īslaicīgs efekts. Demyxil man palīdzēja uz visiem laikiem aizmirst par šo problēmu. Tagad kājas un nagi ir veseli! Lieliski!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4904,11 +4904,11 @@
       },
 
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Laura Valdosa",
-        "text": "Sen atklāju, ka visa kakla āda ir papilomās. Nolēmu izmēģināt krēmu Keramin. Palīdzēja. Diezgan efektīvs līdzeklis. Ātri atbrīvojos no papilomām, āda kļuva veselīga un mitrināta!",
+        "text": "Sen atklāju, ka visa kakla āda ir papilomās. Nolēmu izmēģināt krēmu Demyxil. Palīdzēja. Diezgan efektīvs līdzeklis. Ātri atbrīvojos no papilomām, āda kļuva veselīga un mitrināta!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4934,11 +4934,11 @@
       },
 
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Faina Dousone",
-        "text": "Atklāju uz elkoņiem plankumus, ļoti niezēja un lobījās. Pazīstams speciālists ieteica Keramin. Lielisks līdzeklis! Atvieglojums iestājās no pirmajām dienām, bet pēc lietošanas kursa problēma pilnīgi izzuda.",
+        "text": "Atklāju uz elkoņiem plankumus, ļoti niezēja un lobījās. Pazīstams speciālists ieteica Demyxil. Lielisks līdzeklis! Atvieglojums iestājās no pirmajām dienām, bet pēc lietošanas kursa problēma pilnīgi izzuda.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4964,11 +4964,11 @@
       },
 
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Bjanka Vilborna",
-        "text": "Man ir pozitīva krēma Keramin lietošanas pieredze. Lielisks un efektīvs produkts, kura sastāvā ir eļļas! Mīkstina ādu un palīdz cīnīties ar sēnīti.",
+        "text": "Man ir pozitīva krēma Demyxil lietošanas pieredze. Lielisks un efektīvs produkts, kura sastāvā ir eļļas! Mīkstina ādu un palīdz cīnīties ar sēnīti.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4994,8 +4994,8 @@
       },
 
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Kevins Reinoss",
         "text": "Labi palīdz pret dermatoloģiskām problēmām. Sievai palīdzēja atbrīvoties no papilomām, man - no psoriāzes. Blakusefektus neatklājām!",
@@ -5024,8 +5024,8 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Luīze Maiklsone",
         "text": "Pēc dažām lietošanas nedēļām, no sēnītes nepalika ne pēdu. Viss pārgāja. Izzuda plaisas, nieze gandrīz pilnīgi pārgāja. Diezgan efektīvi maskē nepatīkamo smaku!",
@@ -5054,11 +5054,11 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Orvela Spensere",
-        "text": "Hormonālo traucējumu dēļ sākās problēmas ar ādu. Sausums, plaisas, nieze, it īpašu uz ceļiem, galvas un elkoņiem. Palīdzēja tikai Keramin. Āda pilnīgi atjaunojās, bet nepatīkamie simptomi izzuda ar pirmajām lietošanas dienām!",
+        "text": "Hormonālo traucējumu dēļ sākās problēmas ar ādu. Sausums, plaisas, nieze, it īpašu uz ceļiem, galvas un elkoņiem. Palīdzēja tikai Demyxil. Āda pilnīgi atjaunojās, bet nepatīkamie simptomi izzuda ar pirmajām lietošanas dienām!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5084,8 +5084,8 @@
       },
 
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Roberts TReidess",
         "text": "Labs pretiekaisuma līdzeklis. Pēc uzsmērēšanas neizrausa nepatīkamas sajūtas. Darbojas!",
@@ -5114,8 +5114,8 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Bobijs Servaross",
         "text": "Paldies par kvalitatīvo un efektīvo krēmu, ātro piegādi un konsultāciju. Griezīšos pie jums vēl!",
@@ -5144,8 +5144,8 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Taira Maltonesa",
         "text": "Palīdz ātri attīrīt ādu no papilomām, nepaliek rētas. Pēc lietošanas kursa, izauguma pārstāja veidoties uz kakla, pleciem un padusēs.",
@@ -5174,8 +5174,8 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Vera Ralfasa",
         "text": "Lielisks pretsēnīšu krēms! Ar pirmajām dienam novērš niezi un nepatīkamo smaku, ar laiku āda pilnīgi atjauninās un atjaunojas. Iesaku!",
@@ -5204,8 +5204,8 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Patrīcija Peladonsa",
         "text": "Efekts patīkami pārsteidza! Ar katru dienu plankumi kļuva aizvien mazāki, sadzija plaisas. Es ļoti apmierināta ar rezultātu!",
@@ -5234,8 +5234,8 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Lorena Pufosa",
         "text": "Nezinu neko efektīvāku pret nagu sēnīti. Likvidē nagu plātnes atslāņojumu, bojātais nags noaug, jaunais aug pilnīgi vesels. Palīdzēja viena kursa laikā!",
@@ -5264,8 +5264,8 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Dorians Terels",
         "text": "Iedarbīgs līdzeklis ar dabīgu sastāvu. Redzamas un jūtamas izmaiņas ar pirmajām lietošanas dienām. Pēdējā gada laikā nebija neviena psoriāzes recidīva.",
@@ -5294,11 +5294,11 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "name": "Karīna Poulsone",
-        "text": "Labākais krēms pret dermatoloģiskām problēmām. Novērtēju efektivitāti gan cīņā pret sēnītēm, gan papilomām. Pateicoties Keramin mana āda ir pilnīgi vesela!",
+        "text": "Labākais krēms pret dermatoloģiskām problēmām. Novērtēju efektivitāti gan cīņā pret sēnītēm, gan papilomām. Pateicoties Demyxil mana āda ir pilnīgi vesela!",
         "stars": [
           {
             "src": "img/svg/star.svg",

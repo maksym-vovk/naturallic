@@ -692,11 +692,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -721,8 +721,8 @@
       ],
       "text": "301 recensioni",
       "desc": "Crema ad azione battericida per combattere le manifestazioni del fungo.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "IN DETTAGLIO"
     },
@@ -1455,13 +1455,13 @@
       "niche": "Campo: Varici"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1832,8 +1832,8 @@
     "suitability": "2 anni",
     "keep": "conservare a temperatura tra 0°C e 25°C, lontano dalla luce solare diretta e dall'umidità."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Per la salute",
     "review_count": "301 recensioni",
     "niche": "Fungo",
@@ -2023,8 +2023,8 @@
       "salePrice": "26",
       "newPrice": "75"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "28",
       "newPrice": "106"
     },
@@ -4874,11 +4874,11 @@
         "text": "Fa effetto fin dai primi giorni di assunzione. Passiamo più tempo con mia moglie. È felice e contenta. Mi sento di nuovo giovane e capace di tante cose!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Simona Caretta",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -4902,12 +4902,12 @@
             "type": "empty"
           }
         ],
-        "text": "Ho lottato con il fungo del piede per anni. Tutti i prodotti hanno avuto solo un effetto temporaneo. Keramin ha aiutato a dimenticare questo problema per sempre. Ora la pelle e le unghie sono sane! Fantastico!"
+        "text": "Ho lottato con il fungo del piede per anni. Tutti i prodotti hanno avuto solo un effetto temporaneo. Demyxil ha aiutato a dimenticare questo problema per sempre. Ora la pelle e le unghie sono sane! Fantastico!"
       },
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Loredana Baldo",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -4931,12 +4931,12 @@
             "type": "empty"
           }
         ],
-        "text": "Recentemente ha scoperto che tutta la pelle del collo è nei papillomi. Ho deciso di provare la crema Keramin. Aiutato. Un prodotto abbastanza efficace. Sbarazzata rapidamente dei papillomi, la pelle è diventata sana e idratata!"
+        "text": "Recentemente ha scoperto che tutta la pelle del collo è nei papillomi. Ho deciso di provare la crema Demyxil. Aiutato. Un prodotto abbastanza efficace. Sbarazzata rapidamente dei papillomi, la pelle è diventata sana e idratata!"
       },
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Fiametta Stinchi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -4960,12 +4960,12 @@
             "type": "empty"
           }
         ],
-        "text": "Ho trovato macchie sui gomiti, molto pruriginose e squamose. Un esperto che conosco mi ha raccomandato Keramin. Il rimedio è meraviglioso! Ho sentito sollievo dai primi giorni, e dopo il corso, il problema è completamente scomparso."
+        "text": "Ho trovato macchie sui gomiti, molto pruriginose e squamose. Un esperto che conosco mi ha raccomandato Demyxil. Il rimedio è meraviglioso! Ho sentito sollievo dai primi giorni, e dopo il corso, il problema è completamente scomparso."
       },
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Bianca Villalba",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -4989,12 +4989,12 @@
             "type": "empty"
           }
         ],
-        "text": "Ho un'esperienza positiva con la crema Keramin. Un prodotto eccellente ed efficace con oli nella composizione! Ammorbidisce la pelle e aiuta a combattere i funghi."
+        "text": "Ho un'esperienza positiva con la crema Demyxil. Un prodotto eccellente ed efficace con oli nella composizione! Ammorbidisce la pelle e aiuta a combattere i funghi."
       },
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Filippo Giuliani",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5021,9 +5021,9 @@
         "text": "Aiuta bene contro i problemi dermatologici. Mia moglie è riuscita a sbarazzarsi dei papillomi e io della psoriasi. Nessun effetto collaterale trovato!"
       },
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Luisa Michelin",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5050,9 +5050,9 @@
         "text": "Dopo alcune settimane di utilizzo, del fungo non c'era traccia. È passato tutto. Le crepe scomparvero, il prurito scomparve quasi immediatamente. Maschera l'odore sgradevole abbastanza bene!"
       },
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Annunziata Casamonte",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5076,12 +5076,12 @@
             "type": "empty"
           }
         ],
-        "text": "A causa di malfunzionamenti ormonali, sono iniziati i problemi della pelle. Secchezza, screpolature, prurito, soprattutto sulle ginocchia, sulla testa e sui gomiti. Solo Keramin ha aiutato. La pelle è completamente rinnovata e i sintomi fastidiosi sono scomparsi dai primi giorni!"
+        "text": "A causa di malfunzionamenti ormonali, sono iniziati i problemi della pelle. Secchezza, screpolature, prurito, soprattutto sulle ginocchia, sulla testa e sui gomiti. Solo Demyxil ha aiutato. La pelle è completamente rinnovata e i sintomi fastidiosi sono scomparsi dai primi giorni!"
       },
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Roberto Trincia",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5108,9 +5108,9 @@
         "text": "Un buon antinfiammatorio. Non provoca sensazioni spiacevoli dopo l'applicazione. Funziona!"
       },
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Antonino Fedele",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5137,9 +5137,9 @@
         "text": "Grazie per la crema efficace di alta qualità, la consegna rapida e la consultazione. Mi rivolgerò ancora!"
       },
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Tatiana Maldini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5166,9 +5166,9 @@
         "text": "Aiuta a pulire la pelle dai papillomi rapidamente, non ci sono cicatrici. Dopo un corso di utilizzo, i polipi hanno smesso di formarsi sul collo, sulle spalle e sulle ascelle."
       },
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Vera Raffaele",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5195,9 +5195,9 @@
         "text": "Ottima crema antifungina! Fin dai primi giorni elimina il prurito e l'odore sgradevole, nel tempo la pelle si è completamente rinnovata e ripristinata. Lo consiglio!"
       },
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Patrizia Pela",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5224,9 +5224,9 @@
         "text": "L'effetto è impressionante! Ogni giorno le macchie diventavano più piccole, le crepe guarivano. Sono molto soddisfatta dal risultato!"
       },
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Lorena Paffotti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5253,9 +5253,9 @@
         "text": "Non so nulla di più efficace contro il fungo delle unghie. Combatte la stratificazione della piastra, l'unghia danneggiata ricresce completamente sana. Ha aiutato solo in un corso!"
       },
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Domenico Terzi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5282,9 +5282,9 @@
         "text": "Un rimedio efficace con una composizione naturale. Cambiamenti visibili e tangibili dai primi giorni di utilizzo. Nell'ultimo anno, nessuna recidiva di psoriasi."
       },
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Carina Pulcini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEMYXIL",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -5308,7 +5308,7 @@
             "type": "empty"
           }
         ],
-        "text": "La migliore crema per problemi dermatologici. Ho apprezzato l'efficacia nel combattere i funghi e i papillomi. Grazie a Keramin, la mia pelle è completamente sana!"
+        "text": "La migliore crema per problemi dermatologici. Ho apprezzato l'efficacia nel combattere i funghi e i papillomi. Grazie a Demyxil, la mia pelle è completamente sana!"
       }
     ],
     "reviews_vasaxal": [

@@ -692,11 +692,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -721,8 +721,8 @@
       ],
       "text": "301 recenzii",
       "desc": "O cremă cu acțiune bactericidă care vizează combaterea manifestărilor ciupercii.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -1457,13 +1457,13 @@
       "niche": "Direcție: Varice"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1834,8 +1834,8 @@
     "suitability": "2 de ani",
     "keep": "păstrați la o temperatură cuprinsă între 0 și 25 și 25, departe de lumina directă a soarelui și umiditate."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Pentru sănătate",
     "review_count": "301 recenzii",
     "niche": "Ciupercă",
@@ -2023,8 +2023,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -4876,11 +4876,11 @@
         "text": "Efect este din primele zile de aplicare. Am început să facem sex mai des cu soția. Ea este fericită, satisfăcută. Mă simt din nou tânăr și capabil de multe!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Ninuța Martin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4904,13 +4904,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mă lupt cu ciuperca pe picioare de ani de zile. Toate remediile au avut doar un efect temporar. Keramin a ajutat să uite de această problemă pentru totdeauna. Acum, atât pielea, cât și unghiile sunt sănătoase! Excelent!"
+        "text": "Mă lupt cu ciuperca pe picioare de ani de zile. Toate remediile au avut doar un efect temporar. Demyxil a ajutat să uite de această problemă pentru totdeauna. Acum, atât pielea, cât și unghiile sunt sănătoase! Excelent!"
       },
 
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Anișoara Parpalac",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4934,13 +4934,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am descoperit recent că toată pielea de pe gât este acoperită cu papiloame. Am decis să încerc crema Keramin. A ajutat. Un instrument destul de eficient. A scăpat rapid de papilomi, pielea a devenit sănătoasă și hidratată!"
+        "text": "Am descoperit recent că toată pielea de pe gât este acoperită cu papiloame. Am decis să încerc crema Demyxil. A ajutat. Un instrument destul de eficient. A scăpat rapid de papilomi, pielea a devenit sănătoasă și hidratată!"
       },
 
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Feofania Flutur",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4964,13 +4964,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am găsit pete pe coate, era mâncărime și descuamare. Un specialist familiar a recomandat Keramin. Remediul este minunat! Relief din primele zile, iar după curs problema a dispărut complet."
+        "text": "Am găsit pete pe coate, era mâncărime și descuamare. Un specialist familiar a recomandat Demyxil. Remediul este minunat! Relief din primele zile, iar după curs problema a dispărut complet."
       },
 
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Beatrice Ruleanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4994,13 +4994,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am o experiență pozitivă de a folosi crema Keramin. Un produs excelent și eficient cu uleiuri în compoziție! Înmoaie pielea și ajută la lupta împotriva ciupercilor."
+        "text": "Am o experiență pozitivă de a folosi crema Demyxil. Un produs excelent și eficient cu uleiuri în compoziție! Înmoaie pielea și ajută la lupta împotriva ciupercilor."
       },
 
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Catalin Sandu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5028,9 +5028,9 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Lucia Aurescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5058,9 +5058,9 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Olesia Pelin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5084,13 +5084,13 @@
             "type": "empty"
           }
         ],
-        "text": "Din cauza eșecurilor hormonale, s-au început probleme cu pielie. Uscăciune, fisuri, mâncărime, în special pe genunchi, cap și coate. Numai Keramin a ajutat. Pielea a fost complet reînnoită, iar simptomele neplăcute au dispărut din primele zile!"
+        "text": "Din cauza eșecurilor hormonale, s-au început probleme cu pielie. Uscăciune, fisuri, mâncărime, în special pe genunchi, cap și coate. Numai Demyxil a ajutat. Pielea a fost complet reînnoită, iar simptomele neplăcute au dispărut din primele zile!"
       },
 
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Radu Otilia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5118,9 +5118,9 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Vasile Dumbră",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5148,9 +5148,9 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Teodora Trombă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5178,9 +5178,9 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Viorela Teșco",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5208,9 +5208,9 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Alina Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5238,9 +5238,9 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Loreta Bătrin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5268,9 +5268,9 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Ghiță Matei",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5298,9 +5298,9 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Carmelia Dragoș",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5324,7 +5324,7 @@
             "type": "empty"
           }
         ],
-        "text": "Cea mai bună cremă pentru probleme dermatologice. Am evaluat eficacitatea atât în lupta împotriva ciupercilor, cât și a papiloamelor. Datorită Keramin, pielea mea este complet sănătoasă!"
+        "text": "Cea mai bună cremă pentru probleme dermatologice. Am evaluat eficacitatea atât în lupta împotriva ciupercilor, cât și a papiloamelor. Datorită Demyxil, pielea mea este complet sănătoasă!"
       }
     ],
     "reviews_vasaxal": [

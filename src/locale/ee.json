@@ -694,11 +694,11 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 kommentaari",
       "desc": "Bakteritsiidse toimega kreem aitab võidelda seenhaiguse sümptomitega.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -1458,13 +1458,13 @@
       "niche": "Sihtrühm: Varikoos"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1836,8 +1836,8 @@
     "suitability": "2 aastat",
     "keep": "Hoida temperatuuril 0°С kuni 25°С, kuivas ja pimedas kohas."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Tervisele",
     "review_count": "301 kommentaari",
     "niche": "Seenhaigus",
@@ -2020,8 +2020,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -4872,13 +4872,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Henrietta Loparez",
-        "text": "Olin küüneseenega aastaid hädas. Kõik preparaadid, mida kasutasin, aitasid ainult teatud ajaks. Tänu Keraminile olen nüüd saanud selle probleemi unustada. Minu küüned ja nahk on nüüd terved! Suurepärane!",
+        "text": "Olin küüneseenega aastaid hädas. Kõik preparaadid, mida kasutasin, aitasid ainult teatud ajaks. Tänu Demyxilile olen nüüd saanud selle probleemi unustada. Minu küüned ja nahk on nüüd terved! Suurepärane!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4904,11 +4904,11 @@
       },
 
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Laura Valdoz",
-        "text": "Hiljuti märkasin, et kaelale olid tekkinud papilloomid. Otsustasin proovida Keramini kreemi. See aitas. Ja see on üsna efektiivne preparaat. Sain papilloomidest kiiresti lahti ja nahk on nüüd terve ja niisutatud!",
+        "text": "Hiljuti märkasin, et kaelale olid tekkinud papilloomid. Otsustasin proovida Demyxili kreemi. See aitas. Ja see on üsna efektiivne preparaat. Sain papilloomidest kiiresti lahti ja nahk on nüüd terve ja niisutatud!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4934,11 +4934,11 @@
       },
 
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Faina Dawson",
-        "text": "Märkasin küünarnukkidel plekke, mis hakkasin maha kooruma ja sügelema. Tuttav arst soovitas Keramini. See on suurepärane toode! Juba esimeste päevadega läks paremaks ja pärast kuuri olen probleemist täiesti lahti saanud.",
+        "text": "Märkasin küünarnukkidel plekke, mis hakkasin maha kooruma ja sügelema. Tuttav arst soovitas Demyxili. See on suurepärane toode! Juba esimeste päevadega läks paremaks ja pärast kuuri olen probleemist täiesti lahti saanud.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4964,11 +4964,11 @@
       },
 
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Bianca Wilborn",
-        "text": "Mul on Keramini kasutamisega positiivne kogemus. See on väga hea ja tõhus toode, mis sisaldab looduslikke õlisid! Pehmendab nahka ja aitab saada seenest lahti.",
+        "text": "Mul on Demyxili kasutamisega positiivne kogemus. See on väga hea ja tõhus toode, mis sisaldab looduslikke õlisid! Pehmendab nahka ja aitab saada seenest lahti.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4994,8 +4994,8 @@
       },
 
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Kevin Raynoz",
         "text": "Aitab hästi nahaprobleemide puhul. Naine sai selle abil papilloomist lahti, mina aga psoriaasist. Kõrvalmõjusid meil ei tekkinud!",
@@ -5024,8 +5024,8 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Luiza Michaelson",
         "text": "Pärast mõne nädalast tarvitamist sain seenest täielikult lahti. Kõik on nüüd korras. Ei ole enam lõhesid ja sügelus läks põhimõtteliselt kohe üle. Üsna efektiivselt peidab ka ebameeldiva lõhna!",
@@ -5054,11 +5054,11 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Oruella Spencer",
-        "text": "Hormoonide kõikumise tõttu tekkisid nahaprobleemid. Eriti põlvedel, peanahal ja küünarnukkidel muutus nahk kuivaks, tekkisid lõhed ja sügelus. Aitas ainult Keramin. Nahk uuenes täielikult ja mõne päevaga kadusid ebameeldivad sümptomid!",
+        "text": "Hormoonide kõikumise tõttu tekkisid nahaprobleemid. Eriti põlvedel, peanahal ja küünarnukkidel muutus nahk kuivaks, tekkisid lõhed ja sügelus. Aitas ainult Demyxil. Nahk uuenes täielikult ja mõne päevaga kadusid ebameeldivad sümptomid!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5084,8 +5084,8 @@
       },
 
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Robert Trades",
         "text": "See on hea põletikuvastane vahend. Pärast nahale kandmist ei teki ebameeldivat tunnet. See toimib!",
@@ -5114,8 +5114,8 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Bobbi Celvaros",
         "text": "Suut tänu kvaliteetse ja toimiva kreemi, kiire kättetoimetamise ja konsultatsiooni eest! Tellin veel!",
@@ -5144,8 +5144,8 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Tyra Maltonez",
         "text": "Aitab kiiresti vabaneda nahapapilloomidest. Arme ei jää. Pärast kuuri ei ole enam tekkinud kaelale, õlgadele ega kaenlaaukudesse näsasid.",
@@ -5174,8 +5174,8 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Vera Ralfos",
         "text": "See on suurepärane seenevastane kreem! Kohe esimeste päevadega kaob sügelus ja ebameeldiv lõhn. Mõne aja pärast nahk taastub ja uueneb täielikult. Soovitan!",
@@ -5204,8 +5204,8 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Patricia Peladnos",
         "text": "Tulemus avaldas muljet! Iga päevaga muutusid plekid vähem nähtavaks ja lõhed paranesid. Olen tulemusega väga rahul!",
@@ -5234,8 +5234,8 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Lorena Buffois",
         "text": "See on minu teada kõige efektiivsem küüneseene vahend. Küüned ei lõhene enam, kahjustatud küüs paraneb ja kasvab täiesti uus terve küüs. Sain abi juba ühest kuurist!",
@@ -5264,8 +5264,8 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Dorian Terrell",
         "text": "Tõhus vahend loodusliku koostisega. Kohe pärast esimesi kasutamisi oli näha muutusi paremuse suunas. Viimase aasta jooksul ei ole psoriaas tagasi tulnud.",
@@ -5294,11 +5294,11 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;DEMYXIL",
         "rating_text": "Suurepärane toode!",
         "name": "Karina Paulson",
-        "text": "See on kõige parem kreem nahaprobleemide korral. Aitas hästi nii seene kui papilloomide puhul. Tänu Keraminile on mu nahk jälle täiesti terve!",
+        "text": "See on kõige parem kreem nahaprobleemide korral. Aitas hästi nii seene kui papilloomide puhul. Tänu Demyxilile on mu nahk jälle täiesti terve!",
         "stars": [
           {
             "src": "img/svg/star.svg",

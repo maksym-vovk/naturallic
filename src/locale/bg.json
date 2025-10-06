@@ -694,11 +694,11 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 отзива",
       "desc": "Крем с бактерицидно действие, насочен към борба с проявите на гъбички.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "ПОДРОБНО"
     },
@@ -1458,13 +1458,13 @@
       "niche": "Посока: Варикоза"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1836,8 +1836,8 @@
     "suitability": "2 години",
     "keep": "Да се съхранява при температури от 0°C до 25°C, далеч от пряка слънчева светлина и влага."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "За здравето",
     "review_count": "301 отзива",
     "niche": "Гъбички",
@@ -2026,8 +2026,8 @@
       "salePrice": "42",
       "newPrice": "123"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "45",
       "newPrice": "164"
     },
@@ -4878,13 +4878,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Хенриета Ганчева",
-        "text": "От години се боря с гъбичките по краката. Всички средства имаха само временен ефект. Keramin ми помогна да забравя за този проблем завинаги. Сега са здрави и кожата и ноктите! Страхотно!",
+        "text": "От години се боря с гъбичките по краката. Всички средства имаха само временен ефект. Demyxil ми помогна да забравя за този проблем завинаги. Сега са здрави и кожата и ноктите! Страхотно!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4910,11 +4910,11 @@
       },
 
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Лора Иванова",
-        "text": "Наскоро открих, че цялата кожа на шията е в папиломи. Реших да опитам крема Keramin. Помогна ми. Доста ефективно средство. Бързо се отървах от папиломите, кожата стана здрава и овлажнена!",
+        "text": "Наскоро открих, че цялата кожа на шията е в папиломи. Реших да опитам крема Demyxil. Помогна ми. Доста ефективно средство. Бързо се отървах от папиломите, кожата стана здрава и овлажнена!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4940,11 +4940,11 @@
       },
 
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Василка Тонева",
-        "text": "Намерих петна по лактите, много ме сърбяха и се лющиха. Познат специалист ми препоръча Keramin. Средството е прекрасно! Облекчение от първите дни и след курса проблемът напълно изчезна.",
+        "text": "Намерих петна по лактите, много ме сърбяха и се лющиха. Познат специалист ми препоръча Demyxil. Средството е прекрасно! Облекчение от първите дни и след курса проблемът напълно изчезна.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4970,11 +4970,11 @@
       },
 
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Боряна Регалова",
-        "text": "Имам положителен опит с използването на крем Keramin. Отличен и ефективен продукт с масла в състава! Омекотява кожата и помага в борбата с гъбичките.",
+        "text": "Имам положителен опит с използването на крем Demyxil. Отличен и ефективен продукт с масла в състава! Омекотява кожата и помага в борбата с гъбичките.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5000,8 +5000,8 @@
       },
 
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Николай Петров",
         "text": "Добре помага при дерматологични проблеми. Жена ми успя да се отърве от папиломите, а аз от псориазис. Не съм открил странични ефекти!",
@@ -5030,8 +5030,8 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Марина Делирадева",
         "text": "За няколко седмици употреба от гъбичките и следа не остана. Всичко изчезна. Пукнатините изчезнаха, сърбежът изчезна почти веднага. Доста ефективно маскира неприятната миризма!",
@@ -5060,11 +5060,11 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Коцка Койчева",
-        "text": "Поради хормонални смущения започнаха кожни проблеми. Сухота, пукнатини, сърбеж, особено на коленете, главата и лактите. Само Keramin ми помогна. Кожата е напълно обновена и неприятните симптоми са изчезнали от първите дни!",
+        "text": "Поради хормонални смущения започнаха кожни проблеми. Сухота, пукнатини, сърбеж, особено на коленете, главата и лактите. Само Demyxil ми помогна. Кожата е напълно обновена и неприятните симптоми са изчезнали от първите дни!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5090,8 +5090,8 @@
       },
 
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Николай Манчев",
         "text": "Добро противовъзпалително средство. Не предизвиква неприятни усещания след нанасяне. Работи!",
@@ -5120,8 +5120,8 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Александър Марков",
         "text": "Благодарим ви за висококачествения и ефективен крем, бързата доставка и консултация. Ще поръчвам отново!",
@@ -5150,8 +5150,8 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Тонка Тонева",
         "text": "Помага за бързо почистване на кожата от папиломи, не остават белези. След курс на употреба израстъците спряха да се образуват по шията, раменете и подмишниците.",
@@ -5180,8 +5180,8 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Венета Карташова",
         "text": "Страхотен противогъбичен крем! От първите дни елиминира сърбежа и неприятната миризма, с течение на времето кожата напълно се обновява и възстановява. Препоръчвам!",
@@ -5210,8 +5210,8 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Петранка Лекарова",
         "text": "Ефектът приятно ме изненада! Всеки ден петната стават по-малки, пукнатините заздравяват. Много съм доволен от резултата!",
@@ -5240,8 +5240,8 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Ана Мандаджиева",
         "text": "Не знам нищо по-ефективно против гъбички по ноктите. Премахва разслояването на плочата, повреденият нокът зараства и расте напълно здрав. Помогна само за 1 курс!",
@@ -5270,8 +5270,8 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Димо Дебелянов",
         "text": "Ефективно средство с естествен състав. Видими и осезаеми промени от първите дни на употреба. През последната година няма рецидив на псориазис.",
@@ -5300,11 +5300,11 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Карина Узунова",
-        "text": "Най-добрият крем за дерматологичен проблем. Оцених ефективността в борбата срещу гъбичките и папиломите. Благодарение на Keramin кожата ми е напълно здрава!",
+        "text": "Най-добрият крем за дерматологичен проблем. Оцених ефективността в борбата срещу гъбичките и папиломите. Благодарение на Demyxil кожата ми е напълно здрава!",
         "stars": [
           {
             "src": "img/svg/star.svg",

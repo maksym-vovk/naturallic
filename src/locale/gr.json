@@ -691,11 +691,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 κριτικές",
       "desc": "Κρέμα με βακτηριοκτόνο δράση για την καταπολέμηση των συμπτωμάτων της μυκητίασης.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -1452,13 +1452,13 @@
       "niche": "Κατεύθυνση: Κιρσοί"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1829,8 +1829,8 @@
     "suitability": "2 έτη",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Για την υγεία",
     "review_count": "301 κριτικές",
     "niche": "Μύκητας",
@@ -2018,8 +2018,8 @@
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -4817,13 +4817,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ενριέττα Λοπαρέ",
-        "text": "Χρόνια πάλευα με μύκητες στα πόδια. Όλα τα μέσα είχαν μόνο προσωρινό αποτέλεσμα. Το Keramin με βοήθησε να το ξεχάσω για πάντα. Τώρα έχω υγιές δέρμα και νύχια!",
+        "text": "Χρόνια πάλευα με μύκητες στα πόδια. Όλα τα μέσα είχαν μόνο προσωρινό αποτέλεσμα. Το Demyxil με βοήθησε να το ξεχάσω για πάντα. Τώρα έχω υγιές δέρμα και νύχια!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4848,11 +4848,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λάουρα Βάλδος",
-        "text": "Πρόσφατα ανακάλυψα θηλώματα στο λαιμό. Αποφάσισα να δοκιμάσω την κρέμα Keramin. Βοήθησε! Γρήγορη δράση, δέρμα υγιές και ενυδατωμένο.",
+        "text": "Πρόσφατα ανακάλυψα θηλώματα στο λαιμό. Αποφάσισα να δοκιμάσω την κρέμα Demyxil. Βοήθησε! Γρήγορη δράση, δέρμα υγιές και ενυδατωμένο.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4877,11 +4877,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φαίνα Ντόουσον",
-        "text": "Είχα κηλίδες στους αγκώνες, με φαγούρα και ξηρότητα. Ειδικός μου πρότεινε το Keramin. Υπέροχο προϊόν! Ανακούφιση από τις πρώτες μέρες, μετά την αγωγή το πρόβλημα εξαφανίστηκε.",
+        "text": "Είχα κηλίδες στους αγκώνες, με φαγούρα και ξηρότητα. Ειδικός μου πρότεινε το Demyxil. Υπέροχο προϊόν! Ανακούφιση από τις πρώτες μέρες, μετά την αγωγή το πρόβλημα εξαφανίστηκε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4906,11 +4906,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπιάνκα Ουίλμπορν",
-        "text": "Έχω θετική εμπειρία με το Keramin. Εξαιρετικό προϊόν με έλαια στη σύνθεση! Μαλακώνει το δέρμα, βοηθά στη μάχη με τους μύκητες.",
+        "text": "Έχω θετική εμπειρία με το Demyxil. Εξαιρετικό προϊόν με έλαια στη σύνθεση! Μαλακώνει το δέρμα, βοηθά στη μάχη με τους μύκητες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4935,8 +4935,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κέβιν Ρέινος",
         "text": "Βοηθάει καλά σε δερματολογικά προβλήματα. Η γυναίκα απαλλάχθηκε από θηλώματα, εγώ από ψωρίαση. Χωρίς παρενέργειες!",
@@ -4964,8 +4964,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουίζα Μάικλσον",
         "text": "Μετά από λίγες εβδομάδες χρήσης, δεν υπήρχε πια ίχνος από μύκητες. Οι ρωγμές εξαφανίστηκαν, ο κνησμός έφυγε σχεδόν αμέσως.",
@@ -4993,11 +4993,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορνέλλα Σπένσερ",
-        "text": "Από ορμονικές διαταραχές είχα προβλήματα με το δέρμα: ξηρότητα, ρωγμές, κνησμό. Μόνο το Keramin βοήθησε. Το δέρμα ανανεώθηκε πλήρως!",
+        "text": "Από ορμονικές διαταραχές είχα προβλήματα με το δέρμα: ξηρότητα, ρωγμές, κνησμό. Μόνο το Demyxil βοήθησε. Το δέρμα ανανεώθηκε πλήρως!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5022,8 +5022,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Τρέιντες",
         "text": "Καλό αντιφλεγμονώδες προϊόν. Δεν προκαλεί δυσφορία μετά την εφαρμογή. Δουλεύει!",
@@ -5051,8 +5051,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπόμπι Σέλβαρος",
         "text": "Ευχαριστώ για την ποιοτική κρέμα, την παράδοση και τη συμβουλή. Θα παραγγείλω ξανά!",
@@ -5080,8 +5080,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ταΐρα Μάλτονες",
         "text": "Καθαρίζει γρήγορα το δέρμα από θηλώματα, χωρίς ουλές. Μετά την αγωγή δεν ξαναεμφανίστηκαν.",
@@ -5109,8 +5109,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βέρα Ράλφος",
         "text": "Εξαιρετική αντιμυκητιακή κρέμα! Από τις πρώτες μέρες εξαφανίζει τον κνησμό και τη δυσοσμία. Το δέρμα ανανεώθηκε πλήρως.",
@@ -5138,8 +5138,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πατρίτσια Πελάδος",
         "text": "Το αποτέλεσμα με εντυπωσίασε! Κάθε μέρα οι κηλίδες μειώνονταν, οι ρωγμές επουλώνονταν.",
@@ -5167,8 +5167,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λορένα Πούφοις",
         "text": "Δεν ξέρω τίποτα πιο αποτελεσματικό για μύκητες νυχιών. Ο κατεστραμμένος νύχιος αποκαταστάθηκε, μεγάλωσε υγιής.",
@@ -5196,8 +5196,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δοριανός Τερρέλ",
         "text": "Αποτελεσματικό προϊόν με φυσική σύνθεση. Ορατές αλλαγές από τις πρώτες μέρες. Έναν χρόνο χωρίς υποτροπές ψωρίασης.",
@@ -5225,8 +5225,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Καρίνα Πάουλσον",
         "text": "Η καλύτερη κρέμα για δερματολογικά προβλήματα. Βοηθά και σε μύκητες και σε θηλώματα. Το δέρμα μου τώρα είναι εντελώς υγιές!",

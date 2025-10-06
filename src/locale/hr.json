@@ -691,11 +691,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 recenzija",
       "desc": "Krema s baktericidnim djelovanjem usmjerena na borbu protiv manifestacija gljivica.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "DETALJNIJE"
     },
@@ -1452,13 +1452,13 @@
       "niche": "Smjer: Proširene vene"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1829,8 +1829,8 @@
     "suitability": "2 godine",
     "keep": "čuvati na suhom i tamnom mjestu, na temperaturi od 0°С do 25°С."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Za zdravlje",
     "review_count": "301 recenzija",
     "niche": "Gljivice",
@@ -2018,8 +2018,8 @@
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -4817,13 +4817,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Marija Perić",
-        "text": "Godinama sam se borila s gljivicama na nogama. Sva sredstva imala su samo privremeni učinak. Keramin je pomogao zauvijek zaboraviti na ovaj problem. Sada zdrava i koža i nokti! Odlično!",
+        "text": "Godinama sam se borila s gljivicama na nogama. Sva sredstva imala su samo privremeni učinak. Demyxil je pomogao zauvijek zaboraviti na ovaj problem. Sada zdrava i koža i nokti! Odlično!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4848,11 +4848,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lara Gulin",
-        "text": "Nedavno sam otkrila da je sva koža na vratu u papilomima. Odlučila sam probati kremu Keramin. Pomoglo je. Prilično učinkovit proizvod. Brzo sam se riješila papiloma, koža je postala zdrava i hidratizirana!",
+        "text": "Nedavno sam otkrila da je sva koža na vratu u papilomima. Odlučila sam probati kremu Demyxil. Pomoglo je. Prilično učinkovit proizvod. Brzo sam se riješila papiloma, koža je postala zdrava i hidratizirana!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4877,11 +4877,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Josipa Matić",
-        "text": "Na laktovima sam otkrila mrlje koje su me jako svrbile i ljuštile su se. Poznati stručnjak preporučio je Keramin. Prekrasno sredstvo! Olakšanje od prvih dana, a nakon kure problem je potpuno nestao.",
+        "text": "Na laktovima sam otkrila mrlje koje su me jako svrbile i ljuštile su se. Poznati stručnjak preporučio je Demyxil. Prekrasno sredstvo! Olakšanje od prvih dana, a nakon kure problem je potpuno nestao.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4906,11 +4906,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Branka Dragojević",
-        "text": "Imam pozitivno iskustvo s korištenjem kreme Keramin. Izvrstan i učinkovit proizvod s uljima u sastavu! Omekšava kožu i pomaže u borbi protiv gljivica.",
+        "text": "Imam pozitivno iskustvo s korištenjem kreme Demyxil. Izvrstan i učinkovit proizvod s uljima u sastavu! Omekšava kožu i pomaže u borbi protiv gljivica.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4935,8 +4935,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Krešimir Vukman",
         "text": "Dobro pomaže kod dermatoloških problema. Supruga se uspjela riješiti papiloma, a ja psorijaze. Nije izazvao nikakve nuspojave.",
@@ -4964,8 +4964,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Snježana Dojčinović",
         "text": "Za nekoliko tjedana primjene od gljivica nije ostao trag. Sve je nestalo. Pukotine su nestale, svrbež je gotovo odmah nestao. Prilično učinkovito maskira loš miris!",
@@ -4993,11 +4993,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucija Britvec",
-        "text": "Zbog hormonalnih poremećaja počeli su problemi s kožom. Suhoća, pukotine, svrbež, posebno na koljenima, glavi i laktovima. Pomogao je samo Keramin. Koža je potpuno obnovljena, a neugodni simptomi nestali su od prvih dana!",
+        "text": "Zbog hormonalnih poremećaja počeli su problemi s kožom. Suhoća, pukotine, svrbež, posebno na koljenima, glavi i laktovima. Pomogao je samo Demyxil. Koža je potpuno obnovljena, a neugodni simptomi nestali su od prvih dana!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5022,8 +5022,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Josip Vlahović",
         "text": "Dobro protuupalno sredstvo. Ne uzrokuje neugodne osjećaje nakon primjene. Djeluje!",
@@ -5051,8 +5051,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Milan Hamin",
         "text": "Hvala vam na kvalitetnoj i učinkovitoj kremi, brzoj isporuci i savjetovanju. Naručivat ću opet!",
@@ -5080,8 +5080,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Karla Božiković",
         "text": "Pomaže u brzom čišćenju kože od papiloma, nema ožiljaka. Nakon kure upotrebe, izrasline su se prestale stvarati na vratu, ramenima i pazuhu.",
@@ -5109,8 +5109,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Nada Kovačević",
         "text": "Izvrsna krema protiv gljivica! Od prvih dana otklanja svrbež i neugodan miris, s vremenom se koža potpuno obnavlja. Preporučujem!",
@@ -5138,8 +5138,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Božica Matijević",
         "text": "Ugodno sam impresionirana učinkom! Svakim danom mrlje su postajale sve manje, pukotine su zacjeljivale. Vrlo sam zadovoljna rezultatom!",
@@ -5167,8 +5167,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lorena Bengez",
         "text": "Ne znam ništa učinkovitije od gljivica na noktima. Uklanja raslojavanje ploče, oštećeni nokat zacjeljuje i izrasta potpuno zdrav. Pomoglo je samo za jednu kuru",
@@ -5196,8 +5196,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ivo Tripović",
         "text": "Učinkovito sredstvo s prirodnim sastavom. Vidljive i opipljive promjene od prvih dana uporabe. U posljednjih godinu dana nije bilo recidiva psorijaze.",
@@ -5225,11 +5225,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucija Vaupotić",
-        "text": "Najbolja krema za dermatološke probleme. Procijenila sam učinkovitost u borbi protiv gljivica i papiloma. Zahvaljujući sredstvu Keramin, moja koža je potpuno zdrava!",
+        "text": "Najbolja krema za dermatološke probleme. Procijenila sam učinkovitost u borbi protiv gljivica i papiloma. Zahvaljujući sredstvu Demyxil, moja koža je potpuno zdrava!",
         "stars": [
           {
             "src": "img/svg/star.svg",

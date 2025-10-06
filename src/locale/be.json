@@ -691,11 +691,11 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 avis",
       "desc": "Crème à action bactéricide destinée à combattre les manifestations des champignons",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "En savoir plus"
     },
@@ -1452,13 +1452,13 @@
       "niche": "Catégorie: Varices"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1829,8 +1829,8 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Pour la santé",
     "review_count": "301 avis",
     "niche": "Mycose",
@@ -2017,8 +2017,8 @@
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -4816,13 +4816,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Henriette De Vriendt",
-        "text": "Pendant des années, j'ai lutté contre les champignons aux pieds. Tous les remèdes n'avaient qu'un effet temporaire. Keramin m'a aidée à oublier définitivement ce problème. Maintenant, ma peau et mes ongles sont en bonne santé! Super!",
+        "text": "Pendant des années, j'ai lutté contre les champignons aux pieds. Tous les remèdes n'avaient qu'un effet temporaire. Demyxil m'a aidée à oublier définitivement ce problème. Maintenant, ma peau et mes ongles sont en bonne santé! Super!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4847,11 +4847,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Laura Van Damme",
-        "text": "J'ai récemment découvert que toute la peau de mon cou était couverte de papillomes. J'ai décidé d'essayer la crème Keramin. Ça m'a aidée. C'est un remède assez efficace. Je me suis rapidement débarrassée des papillomes, ma peau est devenue saine et hydratée!",
+        "text": "J'ai récemment découvert que toute la peau de mon cou était couverte de papillomes. J'ai décidé d'essayer la crème Demyxil. Ça m'a aidée. C'est un remède assez efficace. Je me suis rapidement débarrassée des papillomes, ma peau est devenue saine et hydratée!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4876,11 +4876,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Faina De Coster",
-        "text": "J'ai découvert des taches sur mes coudes, elles me démangeaient beaucoup et pelaient. Un spécialiste de ma connaissance m'a recommandé Keramin. C'est un excellent remède! J'ai ressenti un soulagement dès les premiers jours, et après le cours, le problème a complètement disparu.",
+        "text": "J'ai découvert des taches sur mes coudes, elles me démangeaient beaucoup et pelaient. Un spécialiste de ma connaissance m'a recommandé Demyxil. C'est un excellent remède! J'ai ressenti un soulagement dès les premiers jours, et après le cours, le problème a complètement disparu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4905,11 +4905,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Bianca Van Lerberghe",
-        "text": "J'ai une expérience positive avec la crème Keramin. C'est un produit excellent et efficace à base d'huiles! Il adoucit la peau et aide à lutter contre les mycoses.",
+        "text": "J'ai une expérience positive avec la crème Demyxil. C'est un produit excellent et efficace à base d'huiles! Il adoucit la peau et aide à lutter contre les mycoses.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4934,8 +4934,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Kevin De Clercq",
         "text": "Il est très efficace contre les problèmes dermatologiques. Ma femme a pu se débarrasser de ses papillomes et moi de mon psoriasis. Nous n'avons constaté aucun effet secondaire!",
@@ -4963,8 +4963,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Louise Vanneste",
         "text": "Après quelques semaines d'utilisation, il ne restait plus aucune trace de champignons. Tout a disparu. Les fissures ont disparu, les démangeaisons ont presque immédiatement disparu. Masque assez efficacement les odeurs désagréables!",
@@ -4992,11 +4992,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Oriella De Hoon",
-        "text": "Des problèmes de peau sont apparus en raison de troubles hormonaux. Sécheresse, fissures, démangeaisons, en particulier au niveau des genoux, de la tête et des coudes. Seul Keramin m'a aidé. Ma peau s'est complètement régénérée et les symptômes désagréables ont disparu dès les premiers jours!",
+        "text": "Des problèmes de peau sont apparus en raison de troubles hormonaux. Sécheresse, fissures, démangeaisons, en particulier au niveau des genoux, de la tête et des coudes. Seul Demyxil m'a aidé. Ma peau s'est complètement régénérée et les symptômes désagréables ont disparu dès les premiers jours!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5021,8 +5021,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Robert Van Aelst",
         "text": "C'est un bon anti-inflammatoire. Il ne provoque pas de sensations désagréables après application. Ça marche!",
@@ -5050,8 +5050,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Bobby De Vos",
         "text": "Merci pour cette crème de qualité et efficace, la livraison rapide et les conseils. Je reviendrai!",
@@ -5079,8 +5079,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Tine Van Eyck",
         "text": "Aide à nettoyer rapidement la peau des papillomes, ne laisse pas de cicatrices. Après le cours d'utilisation, les excroissances ont cessé de se former sur le cou, les épaules et les aisselles.",
@@ -5108,8 +5108,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Vera De Loor",
         "text": "Excellente crème antifongique! Dès les premiers jours, elle élimine les démangeaisons et les odeurs désagréables. Avec le temps, la peau s'est complètement régénérée et restaurée. Je recommande!",
@@ -5137,8 +5137,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Patricia De Muer",
         "text": "L'effet m'a agréablement impressionnée! Chaque jour, les taches diminuaient et les fissures cicatrisaient. Je suis très satisfaite du résultat!",
@@ -5166,8 +5166,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Lorena Van Ranst",
         "text": "Je ne connais rien de plus efficace contre les mycoses des ongles. Élimine la délamination de la plaque, l'ongle endommagé se reconstitue et repousse en parfaite santé. Un seul cours a suffi!",
@@ -5195,8 +5195,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Dorian De Ryck",
         "text": "Un remède efficace à base d'ingrédients naturels. Des changements visibles et tangibles dès les premiers jours d'utilisation. Au cours de l'année dernière, je n'ai eu aucune récidive de psoriasis.",
@@ -5224,11 +5224,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Karine De Saedeleer",
-        "text": "La meilleure crème pour les problèmes dermatologiques. J'ai apprécié son efficacité dans la lutte contre les champignons et les papillomes. Grâce à Keramin, ma peau est en parfaite santé!",
+        "text": "La meilleure crème pour les problèmes dermatologiques. J'ai apprécié son efficacité dans la lutte contre les champignons et les papillomes. Grâce à Demyxil, ma peau est en parfaite santé!",
         "stars": [
           {
             "src": "img/svg/star.svg",

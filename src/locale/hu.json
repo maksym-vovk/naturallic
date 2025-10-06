@@ -691,11 +691,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 hozzászólás",
       "desc": "Baktériumölő hatású krém a gomba ellen.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "RÉSZLETEK"
     },
@@ -1455,13 +1455,13 @@
       "niche": "Irányzat: Visszerek"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1833,8 +1833,8 @@
     "suitability": "2 év",
     "keep": "0°C és 25°C közötti hőmérsékleten, közvetlen napfénytől és nedvességtől védve tárolja."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Az egészségért",
     "review_count": "301 hozzászólás",
     "niche": "Gomba",
@@ -2022,8 +2022,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -4873,11 +4873,11 @@
         "text": "A hatás már a használat első napjaitól kezdve megvolt. A feleségemmel gyakrabban bújunk össze. Boldog, elégedett. Újra fiatalnak érzem magam és erősnek!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Laskó Henrietta",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4901,13 +4901,13 @@
             "type": "empty"
           }
         ],
-        "text": "Évekig küzdöttem a lábgombával. Minden készítménynek csak átmeneti hatása volt. A Keramin segített elfelejteni ezt a problémát örökre. Most már egészséges a bőröm és a körmeim!"
+        "text": "Évekig küzdöttem a lábgombával. Minden készítménynek csak átmeneti hatása volt. A Demyxil segített elfelejteni ezt a problémát örökre. Most már egészséges a bőröm és a körmeim!"
       },
 
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Orlik Laura",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4931,13 +4931,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nemrég fedeztem fel, hogy a nyakamon az egész bőröm papillómákkal borított. Úgy döntöttem, hogy kipróbálom a Keramin krémet. Működött. Elég hatásos. A papillómáktól gyorsan megszabadultam, a bőröm pedig egészségesnek és hidratáltnak érzem!"
+        "text": "Nemrég fedeztem fel, hogy a nyakamon az egész bőröm papillómákkal borított. Úgy döntöttem, hogy kipróbálom a Demyxil krémet. Működött. Elég hatásos. A papillómáktól gyorsan megszabadultam, a bőröm pedig egészségesnek és hidratáltnak érzem!"
       },
 
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Fábik Orsolya",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4961,13 +4961,13 @@
             "type": "empty"
           }
         ],
-        "text": "A könyökömön találtam olyan foltokat, amelyek nagyon viszketnek és hámlanak. Egy szakember ajánlotta a Keramint. Nagyszerű volt! Az első naptól kezdve enyhülést tapasztaltam, és egy kúra után a probléma teljesen megszűnt."
+        "text": "A könyökömön találtam olyan foltokat, amelyek nagyon viszketnek és hámlanak. Egy szakember ajánlotta a Demyxilt. Nagyszerű volt! Az első naptól kezdve enyhülést tapasztaltam, és egy kúra után a probléma teljesen megszűnt."
       },
 
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Jacsó Bianka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -4991,13 +4991,13 @@
             "type": "empty"
           }
         ],
-        "text": "A Keramin krémmel pozitív tapasztalataim vannak. Kiváló és hatékony termék olajokkal! Puhítja a bőrt és segít a gomba elleni küzdelemben."
+        "text": "A Demyxil krémmel pozitív tapasztalataim vannak. Kiváló és hatékony termék olajokkal! Puhítja a bőrt és segít a gomba elleni küzdelemben."
       },
 
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Vértes Krisztián",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5025,9 +5025,9 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Lacza Réka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5055,9 +5055,9 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Pilsák Adél",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5081,13 +5081,13 @@
             "type": "empty"
           }
         ],
-        "text": "A hormonális egyensúlyhiány bőrproblémákat okozott. Szárazság, repedések, viszketés, különösen a térdemen, a fejemen és a könyökömön. A Keramin volt az egyetlen dolog, ami segített. A bőröm teljesen megújult és a kellemetlen tünetek már az első nap eltűntek!"
+        "text": "A hormonális egyensúlyhiány bőrproblémákat okozott. Szárazság, repedések, viszketés, különösen a térdemen, a fejemen és a könyökömön. A Demyxil volt az egyetlen dolog, ami segített. A bőröm teljesen megújult és a kellemetlen tünetek már az első nap eltűntek!"
       },
 
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Tihanyi Róbert",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5115,9 +5115,9 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Szarvas Balázs",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5145,9 +5145,9 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Matolcsi Klára",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5175,9 +5175,9 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Pásti Boglárka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5205,9 +5205,9 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Ambrus Zsófia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5235,9 +5235,9 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Polay Kincső",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5265,9 +5265,9 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Terek Gyöngyi",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5295,9 +5295,9 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Pap Karolina",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;DEMYXIL",
         "rating_text": "Kiváló minőség!",
         "stars": [
           {
@@ -5321,7 +5321,7 @@
             "type": "empty"
           }
         ],
-        "text": "A legjobb krém bőrgyógyászati problémákra. Nagyon hatásosnak találtam a gomba és a papillomák ellen is. A Keraminnak köszönhetően a bőröm teljesen egészséges!"
+        "text": "A legjobb krém bőrgyógyászati problémákra. Nagyon hatásosnak találtam a gomba és a papillomák ellen is. A Demyxilnak köszönhetően a bőröm teljesen egészséges!"
       }
     ],
     "reviews_vasaxal": [

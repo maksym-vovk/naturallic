@@ -691,11 +691,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 recenzí",
       "desc": "Krém s baktericidním účinkem zaměřený na boj proti projevům plísní.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "DETALNĚJI"
     },
@@ -1455,13 +1455,13 @@
       "niche": "Směr: Křečové žíly"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1832,8 +1832,8 @@
     "suitability": "2 roky",
     "keep": "Skladujte při teplotě od 0 °C do 25 °C, mimo dosah přímého slunečního záření a vlhkosti."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Pro zdraví",
     "review_count": "301 recenzí",
     "niche": "Fungus",
@@ -2021,8 +2021,8 @@
       "salePrice": "505",
       "newPrice": "1874"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "525",
       "newPrice": "2654"
     },
@@ -4873,11 +4873,11 @@
         "text": "Účinek je od prvních dnů aplikace. S manželkou jsme začali častěji mít sex. Je šťastná, spokojená. Cítím se opět mladý a schopný mnoha věcí!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Ana Krejčí",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4901,13 +4901,13 @@
             "type": "empty"
           }
         ],
-        "text": "Roky jsem bojovala s houbou na nohou. Všechny prostředky měly pouze dočasný účinek. Keramin mi pomohl navždy zapomenout na tento problém. Nyní mám zdravou pokožku a nehty! Super!"
+        "text": "Roky jsem bojovala s houbou na nohou. Všechny prostředky měly pouze dočasný účinek. Demyxil mi pomohl navždy zapomenout na tento problém. Nyní mám zdravou pokožku a nehty! Super!"
       },
 
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Zdenka Nosková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4931,13 +4931,13 @@
             "type": "empty"
           }
         ],
-        "text": "Nedávno jsem zjistila, že celý krk je v papilomech. Rozhodla jsem se vyzkoušet krém Keramin. Pomohlo mi to! Docela účinný prostředek. Rychle jsem se zbavila papilomů, kůže se stala zdravou a hydratovanou!"
+        "text": "Nedávno jsem zjistila, že celý krk je v papilomech. Rozhodla jsem se vyzkoušet krém Demyxil. Pomohlo mi to! Docela účinný prostředek. Rychle jsem se zbavila papilomů, kůže se stala zdravou a hydratovanou!"
       },
 
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Hana Široká",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4961,13 +4961,13 @@
             "type": "empty"
           }
         ],
-        "text": "Našla jsem skvrny na loktech, velmi svědivé a šupinaté. Známý odborník mi doporučil Keramin. Prostředek je skvělý! Úleva od prvních dnů a po kurzu je problém úplně pryč."
+        "text": "Našla jsem skvrny na loktech, velmi svědivé a šupinaté. Známý odborník mi doporučil Demyxil. Prostředek je skvělý! Úleva od prvních dnů a po kurzu je problém úplně pryč."
       },
 
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Anna Kulová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -4991,13 +4991,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mám pozitivní zkušenosti s používáním krému Keramin. Vynikající a efektivní produkt s oleji ve složení! Zjemňuje pokožku a pomáhá v boji proti houbám."
+        "text": "Mám pozitivní zkušenosti s používáním krému Demyxil. Vynikající a efektivní produkt s oleji ve složení! Zjemňuje pokožku a pomáhá v boji proti houbám."
       },
 
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Jiří Piska",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5025,9 +5025,9 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Miloslava Neuschlová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5055,9 +5055,9 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Kateřina Vernerová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5081,13 +5081,13 @@
             "type": "empty"
           }
         ],
-        "text": "Kvůli hormonálním poruchám začaly problémy s kůží. Suchost, praskliny, svědění, zejména na kolenou, hlavě a loktech. Pomohl mi jen Keramin. Kůže se zcela obnovila a nepříjemné příznaky zmizely od prvních dnů!"
+        "text": "Kvůli hormonálním poruchám začaly problémy s kůží. Suchost, praskliny, svědění, zejména na kolenou, hlavě a loktech. Pomohl mi jen Demyxil. Kůže se zcela obnovila a nepříjemné příznaky zmizely od prvních dnů!"
       },
 
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Radim Vyoral",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5115,9 +5115,9 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Lubomír Bartůšek",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5145,9 +5145,9 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Milada Baldová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5175,9 +5175,9 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Květoslava Vranová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5205,9 +5205,9 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Radmila Řeháčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5235,9 +5235,9 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Petra Slezáčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5265,9 +5265,9 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Vladislav Jarolím",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5295,9 +5295,9 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Anna Kroupová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -5321,7 +5321,7 @@
             "type": "empty"
           }
         ],
-        "text": "Nejlepší krém na dermatologické problémy. Cítila jsem účinnost v boji proti houbám a papilomům. Díky Keraminu je moje kůže zcela zdravá!"
+        "text": "Nejlepší krém na dermatologické problémy. Cítila jsem účinnost v boji proti houbám a papilomům. Díky Demyxilu je moje kůže zcela zdravá!"
       }
     ],
     "reviews_vasaxal": [

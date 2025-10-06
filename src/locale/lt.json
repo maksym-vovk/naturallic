@@ -694,11 +694,11 @@
     },
     {
       "label": "Top prekė",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 atsiliepimai",
       "desc": "Kremas, turintis baktericidinį poveikį, skirtas kovoti su grybelio apraiškomis.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "DAUGIAU"
     },
@@ -1458,13 +1458,13 @@
       "niche": "Kryptis: Venų varikozė"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1836,8 +1836,8 @@
     "suitability": "2 metai",
     "keep": "Laikyti nuo 0°C iki 25°C temperatūroje, apsaugotoje nuo tiesioginių saulės spindulių ir drėgmės."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Sveikatos palaikymui",
     "review_count": "301 atsiliepimai",
     "niche": "Grybelis",
@@ -2020,8 +2020,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -4872,13 +4872,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Henrieta Mažeikienė",
-        "text": "Metų metus kovojau su grybeliu ant kojų. Visos priemonės turėjo tik laikiną efektą. Keramin padėjo visam laikui pamiršti šią problemą. Dabar sveiki ir oda, ir nagai! Puiku!",
+        "text": "Metų metus kovojau su grybeliu ant kojų. Visos priemonės turėjo tik laikiną efektą. Demyxil padėjo visam laikui pamiršti šią problemą. Dabar sveiki ir oda, ir nagai! Puiku!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4904,11 +4904,11 @@
       },
 
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Laura Danilevičienė",
-        "text": "Neseniai pastebėjau, kad per visą kaklą išplito papilomos. Nusprendžiau išbandyti Keramin kremą. Padėjo. Tikrai efektyvi priemonė. Papilomos gan greitai dingo, oda tapo sveika ir nebesausa!",
+        "text": "Neseniai pastebėjau, kad per visą kaklą išplito papilomos. Nusprendžiau išbandyti Demyxil kremą. Padėjo. Tikrai efektyvi priemonė. Papilomos gan greitai dingo, oda tapo sveika ir nebesausa!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4934,11 +4934,11 @@
       },
 
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Domantė Ališauskienė",
-        "text": "Pastebėjau dėmes ant alkūnių, labai niežtėjo ir pleiskanojo. Pažįstamas specialistas rekomendavo Keramin. Puiki priemonė! Palengvėjimą pajutau nuo pirmųjų dienų, o po viso kurso problema visiškai išnyko.",
+        "text": "Pastebėjau dėmes ant alkūnių, labai niežtėjo ir pleiskanojo. Pažįstamas specialistas rekomendavo Demyxil. Puiki priemonė! Palengvėjimą pajutau nuo pirmųjų dienų, o po viso kurso problema visiškai išnyko.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4964,11 +4964,11 @@
       },
 
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Bronė Miltakienė",
-        "text": "Turiu teigiamos patirties naudojant Keramin kremą. Puikus ir efektyvus produktas su aliejais sudėtyje! Minkština odą ir padeda kovoti su grybeliu.",
+        "text": "Turiu teigiamos patirties naudojant Demyxil kremą. Puikus ir efektyvus produktas su aliejais sudėtyje! Minkština odą ir padeda kovoti su grybeliu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4994,8 +4994,8 @@
       },
 
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Klaidas Ragauskas",
         "text": "Gerai padeda nuo dermatologinių problemų. Žmona atsikratė papilomų, o aš - psoriazės. Šalutinių poveikių nepastebėjome!",
@@ -5024,8 +5024,8 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Lilija Cibulskaitė",
         "text": "Per kelias savaites naudojimo nuo grybelio nebeliko nė pėdsako. Viskas praėjo. Pagijo įtrūkimai, niežulys išnyko beveik iškart. Gana efektyviai kovoja su nemaloniu kvapu!",
@@ -5054,11 +5054,11 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Odeta Steponaitienė",
-        "text": "Dėl hormonų sutrikimų prasidėjo problemos su oda. Sausumas, įtrūkimai, niežulys, ypač ant kelių, galvos ir alkūnių. Padėjo tik Keramin. Oda visiškai atsinaujino, o nemalonūs simptomai išnyko nuo pirmųjų dienų!",
+        "text": "Dėl hormonų sutrikimų prasidėjo problemos su oda. Sausumas, įtrūkimai, niežulys, ypač ant kelių, galvos ir alkūnių. Padėjo tik Demyxil. Oda visiškai atsinaujino, o nemalonūs simptomai išnyko nuo pirmųjų dienų!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5084,8 +5084,8 @@
       },
 
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Robertas Vanagas",
         "text": "Gera priešuždegiminė priemonė. Po naudojimo nesukelia nemalonių pojūčių. Veikia!",
@@ -5114,8 +5114,8 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Balys Steponaitis",
         "text": "Ačiū už kokybišką ir efektyvų kremą, greitą pristatymą ir konsultaciją. Būtinai kreipsiuosi dar!",
@@ -5144,8 +5144,8 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Daiva Makariūnienė",
         "text": "Padeda greitai išvalyti odą nuo papilomų, nelieka randų. Po kurso ant kaklo, pečių ir pažastyse nustojo formuotis nauji dariniai.",
@@ -5174,8 +5174,8 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Vaida Ramoškytė",
         "text": "Puikus priešgrybelinis kremas! Nuo pirmųjų dienų pašalina niežulį ir nemalonų kvapą, laikui bėgant oda visiškai atsinaujina ir atsistato. Rekomenduoju!",
@@ -5204,8 +5204,8 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Patricija Povilaitienė",
         "text": "Efektas maloniai nustebino! Su kiekviena diena dėmės mažėjo, gijo įtrūkimai. Labai patenkinta rezultatu!",
@@ -5234,8 +5234,8 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Loreta Pudokaitė",
         "text": "Nieko veiksmingesnio nuo nagų grybelio nežinau. Pašalina nagų plokštelės susisluoksniavimą, pažeistas nagas atauga visiškai sveikas. Padėjo po vieno kurso!",
@@ -5264,8 +5264,8 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Daumantas Tamošiūnas",
         "text": "Veiksminga natūralios sudėties priemonė. Akivaizdūs ir jaučiami pokyčiai nuo pirmųjų naudojimo dienų. Per paskutinius metus - nė vieno psoriazės atkryčio.",
@@ -5294,11 +5294,11 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;DEMYXIL",
         "rating_text": "Puiki kokybė!",
         "name": "Jovita Poltorakienė",
-        "text": "Geriausias kremas nuo dermatologinių problemų. Įvertinau efektyvumą tiek kovojant su grybeliu, tiek su papilomomis. Dėka Keramin mano oda visiškai sveika!",
+        "text": "Geriausias kremas nuo dermatologinių problemų. Įvertinau efektyvumą tiek kovojant su grybeliu, tiek su papilomomis. Dėka Demyxil mano oda visiškai sveika!",
         "stars": [
           {
             "src": "img/svg/star.svg",

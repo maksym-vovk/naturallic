@@ -694,11 +694,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 opinii",
       "desc": "Krem o działaniu bakteriobójczym mający na celu zwalczanie objawów grzybicy.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "Szczegóły"
     },
@@ -1458,13 +1458,13 @@
       "niche": "Zastosowanie: Żylaki"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1836,8 +1836,8 @@
     "suitability": "2 lata",
     "keep": "przechowywać w temperaturze od 0°C do 25°C, z dala od bezpośredniego światła słonecznego i wilgoci."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Dla zdrowia",
     "review_count": "301 opinii",
     "niche": "Grzybica",
@@ -2025,8 +2025,8 @@
       "salePrice": "92",
       "newPrice": "270"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "95",
       "newPrice": "354"
     },
@@ -4877,11 +4877,11 @@
         "text": "Efekt jest od pierwszych dni stosowania. Częściej z żoną się zbliżamy. Ona szczęśliwa, zadowolona. Czuję się znowu młody i zdolny do wielu rzeczy!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Halina Nowak",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4905,13 +4905,13 @@
             "type": "empty"
           }
         ],
-        "text": "Przez lata walczyłam z grzybicą stóp. Wszystkie środki miały tylko tymczasowy efekt. Keramin pomógł mi na zawsze zapomnieć o tym problemie. Teraz mam zdrową skórę i paznokcie! Doskonale!"
+        "text": "Przez lata walczyłam z grzybicą stóp. Wszystkie środki miały tylko tymczasowy efekt. Demyxil pomógł mi na zawsze zapomnieć o tym problemie. Teraz mam zdrową skórę i paznokcie! Doskonale!"
       },
 
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Laura Walczak",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4935,13 +4935,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ostatnio odkryłam, że cała szyja jest w brodawkach. Postanowiłam wypróbować krem Keramin. Pomógł. Dość skuteczny środek. Szybko pozbawiłam się brodawek, skóra stała się zdrowa i nawilżona!"
+        "text": "Ostatnio odkryłam, że cała szyja jest w brodawkach. Postanowiłam wypróbować krem Demyxil. Pomógł. Dość skuteczny środek. Szybko pozbawiłam się brodawek, skóra stała się zdrowa i nawilżona!"
       },
 
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Matylda Krajewska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4965,13 +4965,13 @@
             "type": "empty"
           }
         ],
-        "text": "Odkryłam plamy na łokciach, bardzo swędzące i łuszczące się. Znajomy specjalista polecił Keramin. Świetny środek! Ulga już od pierwszych dni, a po kuracji problem całkowicie zniknął."
+        "text": "Odkryłam plamy na łokciach, bardzo swędzące i łuszczące się. Znajomy specjalista polecił Demyxil. Świetny środek! Ulga już od pierwszych dni, a po kuracji problem całkowicie zniknął."
       },
 
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Katarzyna Wilk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -4995,13 +4995,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mam pozytywne doświadczenia z używaniem kremu Keramin. Doskonały i skuteczny produkt z olejkami w składzie! Zmiękcza skórę i pomaga w walce z grzybicą."
+        "text": "Mam pozytywne doświadczenia z używaniem kremu Demyxil. Doskonały i skuteczny produkt z olejkami w składzie! Zmiękcza skórę i pomaga w walce z grzybicą."
       },
 
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Ryszard Jabłoński",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5029,9 +5029,9 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Julia Chmielewska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5059,9 +5059,9 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Emilia Kołodziej",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5085,13 +5085,13 @@
             "type": "empty"
           }
         ],
-        "text": "Z powodu zaburzeń hormonalnych zaczęły się problemy ze skórą. Suchość, pęknięcia, swędzenie, szczególnie na kolanach, głowie i łokciach. Pomógł tylko Keramin. Skóra całkowicie odnowiła się, a nieprzyjemne objawy zniknęły od pierwszych dni!"
+        "text": "Z powodu zaburzeń hormonalnych zaczęły się problemy ze skórą. Suchość, pęknięcia, swędzenie, szczególnie na kolanach, głowie i łokciach. Pomógł tylko Demyxil. Skóra całkowicie odnowiła się, a nieprzyjemne objawy zniknęły od pierwszych dni!"
       },
 
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Robert Kucharski",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5119,9 +5119,9 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Borys Mazur",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5149,9 +5149,9 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Tamara Malinowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5179,9 +5179,9 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Hanna Olszewska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5209,9 +5209,9 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Patrycja Laskowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5239,9 +5239,9 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Lucyna Dudek",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5269,9 +5269,9 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Tadeusz Włodarczyk",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5299,9 +5299,9 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Karina Pawłowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;DEMYXIL",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -5325,7 +5325,7 @@
             "type": "empty"
           }
         ],
-        "text": "Najlepszy krem na problemy dermatologiczne. Doceniłam jego skuteczność zarówno w walce z grzybicą, jak i brodawkami. Dzięki Keramin moja skóra jest całkowicie zdrowa!"
+        "text": "Najlepszy krem na problemy dermatologiczne. Doceniłam jego skuteczność zarówno w walce z grzybicą, jak i brodawkami. Dzięki Demyxil moja skóra jest całkowicie zdrowa!"
       }
     ],
     "reviews_vasaxal": [
