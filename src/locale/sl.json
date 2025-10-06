@@ -582,11 +582,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 ocen",
       "desc": "Kompleksen rastlinski pripravek za povečanje potence, vzdržljivosti in plodnosti moških v kateri koli starosti.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -655,11 +655,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,18 +684,18 @@
       ],
       "text": "234 ocen",
       "desc": "Gel z naravnimi izvlečki za boj proti manifestacijam krčnih žil.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 ocen",
       "desc": "Krema z baktericidnim delovanjem, namenjena boju proti manifestacijam glive.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "Podrobnejši podatki"
     },
@@ -799,12 +799,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -829,8 +829,8 @@
       ],
       "text": "267 ocen",
       "desc": "Rastlinski izdelek krepi stene krvnih žil in preprečuje razvoj hemoroidov.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "Podrobnejši podatki"
     }
@@ -1350,13 +1350,13 @@
       "niche": "Smer: Spoji"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1418,13 +1418,13 @@
       "niche": "Smer: Spoji"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1452,13 +1452,13 @@
       "niche": "Smer: Krčne žile"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1554,13 +1554,13 @@
       "niche": "Smer: Vizija"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1784,15 +1784,15 @@
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Za zdravje",
     "review_count": "311 ocen",
     "niche": "Moč",
-    "form_factor": "plastični kozarec / 20 kapsul",
+    "form_factor": "kapsule v pretisnem omotu, 10 kos",
     "short_description": "Kompleksen rastlinski pripravek za povečanje potence, vzdržljivosti in plodnosti moških v kateri koli starosti.",
     "description": "kapsule s kompleksom naravnih izvlečkov in cinka. Formula je razvita ob upoštevanju preprečevanja vseh težav genitourinarnega sistema, s katerimi se lahko sooči vsak moški, vključno s težavami z libidom. Delovanje izdelka je namenjeno obnavljanju manjkajočih snovi v telesu, ki jih je težko dobiti s hrano in ki vplivajo na: izboljšanje krvnega obtoka; vplivajo na erekcijo; povečati proizvodnjo testosterona; povečati vzdržljivost telesa; vplivajo na zdravje genitourinarnega sistema in prostate.",
-    "compound": "Izvleček plodov žagaste palme (Serenoa repens 5:1); Izvleček korenine koprive (Urtica dioica, 1% Beta-Sitosterol); Izvleček korenine Maca (Lepidium meyenii 10:1); Cink (cinkov citrat).",
+    "compound": "Ekstrakt korenine mace (Lepidium meyenii 4:1) – 60 mg, ekstrakt brusnice (Vaccinium macrocarpon, 35 % proantocianidini) – 53 mg, ekstrakt plodu saw palmetta (Serenoa repens 5:1) – 50 mg, ekstrakt korenine koprive (Urtica dioica, 1 % beta-sitosterol) – 40 mg, cink (cinkov citrat trihidrat) – 5 mg.",
     "usage": "1 kapsula 1-2 krat na dan med obroki ali po njih.",
     "contraindications": "Posamezna nestrpnost do katere koli sestavine, starost otrok (do 18 let). Pred jemanjem je priporočljivo, da se posvetujete z zdravnikom. To ni zdravilo. Ne prekoračite priporočenega dnevnega odmerka. Izogibajte se otrokom. To prehransko dopolnilo ne sme nadomestiti raznolike prehrane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1814,30 +1814,30 @@
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Za zdravje",
     "review_count": "234 ocen",
     "niche": "Krčne žile",
     "form_factor": "gel v tubi, 30 ml",
     "short_description": "Gel z naravnimi izvlečki za boj proti manifestacijam krčnih žil.",
     "description": "Kompleks rastlinskih sestavin za normalizacijo stanja telesa, regulacijo presnove in aktivacijo procesov obnavljanja kože.",
-    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
+    "compound": "Aqua, glicerin, propilen glikol, alkohol denat., izvleček divjega kostanja, izvleček Centella Asiatica, izvleček korenine Ruscus Aculeatus, izvleček celične kulture Symphytum Officinale, izvleček cvetov kamilice, niacinamid, kofein, sečnina, arginin, amonijev acryloyldimethyltaurate/VP kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrij EDTA.",
     "usage": "nanesite z lahkimi masažnimi gibi 3-5 minut 2-krat na dan. Pred nanosom opravite test tolerance na koži.",
     "contraindications": "posamezna nestrpnost komponent. Izogibajte se stiku z očmi. Ne uporabljajte za otroke, mlajše od treh let, in neposredno za odprte rane.",
     "manufacturer": "Dalmatika (Bolgarija)",
     "suitability": "2 leti",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Za zdravje",
     "review_count": "301 ocen",
     "niche": "Glivice",
-    "form_factor": "kartonska škatla, tehnična navodila, 30 ml tuba",
+    "form_factor": "krema, 30 ml",
     "short_description": "Krema z baktericidnim delovanjem, namenjena boju proti manifestacijam glive.",
     "description": "Vsebuje bioaktivne sestavine s široko paleto dermatoloških in kozmetičnih lastnosti. Spodbuja normalno mikrofloro in ima pomirjujoč učinek na kožo. Ima keratolitični učinek in odstranjuje odmrle plasti kože. Ima učinek vlaženja in mehčanja kože. Spodbuja in spodbuja obnovo epidermalnih celic. Zasnovan za podporo normalnemu stanju kože.",
-    "compound": "Aqua, glicerin, cetearil alkohol, tekoči parafin, PEG-100 stearat, gliceril stearat, kaprilni/kaprični triglicerid, izvleček cvetov Chamomila Recutita, maslo Butyrospermum Parkii, niacinamid, cinkov oksid, izvleček propolisa, olje Cocos Nucifera, žveplo, Alcloxa, Sali ciklična kislina, izvleček lubja Salix Alba, izvleček lubja/listov betule albe, lesno olje Juniperus Oxycedrus, polisorbat 80, olje listov Melaleuca Alternifolia, olje Mentha Piperita, ksantan gumi, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, BHT, dinatrijev EDTА, linalo ol, limonen.",
+    "compound": "Aqua, glicerin, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, izvleček cvetov kamilice, maslo butyrospermum parkii, niacinamid, cink oksid, ekstrakt propolisa, kokosovo olje, žveplo, alcloxa, salicilna kislina, izvleček lubja/belim listov breze, eterično olje brina, polisorbate 80, eterično olje listov melaleuca alternifolia, eterično olje poprove mete, ksantanska guma, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, bht, dinatrij edta, linalool, limonen.",
     "usage": "nanesite na dobro očiščeno in suho kožo prizadetega območja telesa z lahkimi masažnimi gibi od spodaj navzgor. Pred uporabo se prepričajte, da naredite test za toleranco sestavin izdelka s kožo. <span class=\"color: red\">Pozor:</span> Izogibajte se stiku z očmi.",
     "contraindications": "Ne uporabljajte za otroke, mlajše od 3 let, nosečnice in doječe ženske. Ne nanašajte na odprte rane.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -1874,15 +1874,15 @@
     "suitability": "2 leti",
     "keep": "Shranjujte na suhem mestu, izven dosega otrok, pri temperaturi, ki ni višja od +25°C."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 ocen",
     "niche": "Hemoroidy",
-    "form_factor": "gel v tubi",
+    "form_factor": "gel v tubi, 30 ml",
     "short_description": "Rastlinski izdelek krepi stene krvnih žil in preprečuje razvoj hemoroidov.",
     "description": "Gel z lahkim hladilnim učinkom, ki izdelku omogoča lajšanje bolečin in zmanjšanje vnetja. Vsebuje široko paleto biološko aktivnih sestavin: izvlečke Centella Asiatica, kostanja, kamilice, igle, gabeza, trokserutina, kofeina, alantoina, B3, hialuronske kisline.",
-    "compound": "Aqua, glicerin, propilenglikol, denat alkohola, izvleček Aesculus Hippocastanum, izvleček Centella Asiatica, izvleček korenine Ruscus aculeatus, izvleček kulture kalusa Symphytum officinale, izvleček cvetov Chamomilla Recutita, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev akriloildimetiltaurat/VP Kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrijev EDTA.",
+    "compound": "Aqua, glicerin, propilen glikol, alkohol denat., izvleček divjega kostanja, izvleček centella asiatica, izvleček korenine ruscus aculeatus, izvleček celične kulture symphytum officinale, izvleček cvetov kamilice, niacinamid, trokserutin, kofein, sečnina, arginin, amonijev acryloyldimethyltaurate/vp kopolimer, salicilna kislina, mentol, alantoin, natrijev hialuronat, fenoksietanol, etilheksilglicerin, dinatrij edta.",
     "usage": "nanesite z lahkimi masažnimi gibi 3-5 minut 2-krat na dan. Pred uporabo opravite test združljivosti s kožo. Priporočljivo je uporabljati 1-2 krat na dan.",
     "contraindications": "Individualna nestrpnost do katere koli sestavine. Samo za odrasle, prepovedane mlajše od 18 let. Hraniti izven dosega otrok.",
     "manufacturer": "Dalmatika (Bolgarija)",
@@ -2003,8 +2003,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "24",
       "newPrice": "139"
     },
@@ -2013,13 +2013,13 @@
       "salePrice": "26",
       "newPrice": "75"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -2033,8 +2033,8 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
     }
@@ -4380,10 +4380,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lui Mizeres",
         "text": "Dober izdelek, učinkovit. Učinek je, ne povzroča stranskih učinkov. Po tečaju je pomagal popolnoma odpraviti težavo.",
@@ -4411,11 +4411,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Osteon",
-        "text": "Pri odhodu na stranišče so bile težave, Feronex jih je pomagal odpraviti. Bolečina je izginila, erekcija je postala boljša in daljša. Ni zasvojenosti ali stranskih učinkov.",
+        "text": "Pri odhodu na stranišče so bile težave, Urosaf jih je pomagal odpraviti. Bolečina je izginila, erekcija je postala boljša in daljša. Ni zasvojenosti ali stranskih učinkov.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4440,11 +4440,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Herman Štrocci",
-        "text": "Lani sem vzel Feronex. Od takrat vse deluje odlično, \"prijatelj\" je vedno pripravljen! Brez težav ali napak!",
+        "text": "Lani sem vzel Urosaf. Od takrat vse deluje odlično, \"prijatelj\" je vedno pripravljen! Brez težav ali napak!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4469,8 +4469,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Štella Švajcer",
         "text": "Naročila sem ga za moža, ko so se pojavile težave. Pomagal! Moj mož je končno postal tak, kot se ga spominjam v mladosti. Aktiven, samozavesten in strasten!",
@@ -4498,8 +4498,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lukijan Ross",
         "text": "Deluje skoraj takoj in ima kumulativni učinek. Po tečaju ni bilo več težav z erekcijo.",
@@ -4527,8 +4527,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Panfil Ormando",
         "text": "Učinek je, lahko ga kombiniram z alkoholom, stranskih učinkov nisem našel. Uporabljal sem ga kot alternativo poživilom in po tečaju jih ni bilo več potrebno.",
@@ -4556,11 +4556,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Katarija Lauson",
-        "text": "Moj mož ima 56 let, \"moškim\" težavam se je pri teh letih težko izogniti. Hvala Feronexu, ki mu je pomagal, da se je spopadel z njimi in se spet počutil mladega in zdravega!",
+        "text": "Moj mož ima 56 let, \"moškim\" težavam se je pri teh letih težko izogniti. Hvala Urosafu, ki mu je pomagal, da se je spopadel z njimi in se spet počutil mladega in zdravega!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4585,11 +4585,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ričard Pikard",
-        "text": "S starostjo je potenca začela slabeti in želja je začela bledeti. Odločil sem se poskusiti Feronex. Učinek je bil impresiven! Če jemljete zdravilo enkrat na šest mesecev, morda ne boste imeli težav z moškim delom.",
+        "text": "S starostjo je potenca začela slabeti in želja je začela bledeti. Odločil sem se poskusiti Urosaf. Učinek je bil impresiven! Če jemljete zdravilo enkrat na šest mesecev, morda ne boste imeli težav z moškim delom.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4614,11 +4614,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Klaus Rollings",
-        "text": "Za razliko od običajnih in znanih poživil Feronex ne povzroča glavobola. Učinek je vsak dan boljši, se pravi, po tečaju vam ni treba ničesar jemati, vedno ste pripravljeni!",
+        "text": "Za razliko od običajnih in znanih poživil Urosaf ne povzroča glavobola. Učinek je vsak dan boljši, se pravi, po tečaju vam ni treba ničesar jemati, vedno ste pripravljeni!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4643,11 +4643,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Amelija Rossetti",
-        "text": "Moj mož je začel imeti težave zaradi stresa v službi. Prijatelj specialist je priporočil Feronex. Izdelek je pomagal! Intimnost se je nadaljevala, dlje, pogosteje in bolje!",
+        "text": "Moj mož je začel imeti težave zaradi stresa v službi. Prijatelj specialist je priporočil Urosaf. Izdelek je pomagal! Intimnost se je nadaljevala, dlje, pogosteje in bolje!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4672,11 +4672,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Venera Saverjen",
-        "text": "Moj mož že dolgo jemlje poživitvene tablete. Stranski učinki so bili razdražljivost in glavobol. Vztrajala je pri zamenjavi s Feronexom. Minilo je šest mesecev, tečaj se je končal in moj mož ne potrebuje več \"pomoči\" pred seksom!",
+        "text": "Moj mož že dolgo jemlje poživitvene tablete. Stranski učinki so bili razdražljivost in glavobol. Vztrajala je pri zamenjavi s Urosafom. Minilo je šest mesecev, tečaj se je končal in moj mož ne potrebuje več \"pomoči\" pred seksom!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4701,11 +4701,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Čarlz Parker",
-        "text": "Feronex sem naročil iz radovednosti. Toda učinek je bil impresiven! Plus hitra dostava in izdelek je bil dobro zapakiran.",
+        "text": "Urosaf sem naročil iz radovednosti. Toda učinek je bil impresiven! Plus hitra dostava in izdelek je bil dobro zapakiran.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4730,8 +4730,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Christopher Rinaldo",
         "text": "Učinkovit in varen izdelek za zdravje moških. Tudi po ugodni ceni! Stranskih učinkov nisem našel.",
@@ -4759,8 +4759,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Edmund Sivers",
         "text": "Dobra pomoč pri težavah z erekcijo, ki nastanejo iz različnih razlogov. Rezultat 100%! Po tečaju sem pozabil na težave.",
@@ -4788,8 +4788,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;UROSAF",
         "rating_text": "Odlična kvaliteta!",
         "name": "Eduardo Ferran",
         "text": "Učinek je viden od prvih dni uporabe. Z ženo sva začela pogosteje preživljati čas sama. Je srečna, zadovoljna. Spet se počutim mlado in sposobno veliko!",
@@ -4817,13 +4817,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Henrietta Lopares",
-        "text": "Več let sem se boril z glivicami na stopalih. Vsa zdravila so imela le začasen učinek. Keramin mi je pomagal za vedno pozabiti na to težavo. Zdaj zdrava koža in nohti! Super!",
+        "text": "Več let sem se boril z glivicami na stopalih. Vsa zdravila so imela le začasen učinek. Demyxil mi je pomagal za vedno pozabiti na to težavo. Zdaj zdrava koža in nohti! Super!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4848,11 +4848,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Laura Valdos",
-        "text": "Pred kratkim sem ugotovil, da je vsa koža na mojem vratu prekrita s papilomi. Odločila sem se preizkusiti kremo Keramin. Pomagalo je. Precej učinkovito zdravilo. Hitro sem se znebila papiloma, moja koža je postala zdrava in navlažena!",
+        "text": "Pred kratkim sem ugotovil, da je vsa koža na mojem vratu prekrita s papilomi. Odločila sem se preizkusiti kremo Demyxil. Pomagalo je. Precej učinkovito zdravilo. Hitro sem se znebila papiloma, moja koža je postala zdrava in navlažena!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4877,11 +4877,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Faina Dauson",
-        "text": "Na komolcih sem odkrila lise, ki so me zelo srbele in se luščile. Prijatelj specialist mi je priporočil Keramin. Izdelek je čudovit! Od prvih dni je bilo olajšanje, po tečaju pa je težava popolnoma izginila.",
+        "text": "Na komolcih sem odkrila lise, ki so me zelo srbele in se luščile. Prijatelj specialist mi je priporočil Demyxil. Izdelek je čudovit! Od prvih dni je bilo olajšanje, po tečaju pa je težava popolnoma izginila.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4906,11 +4906,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Bjanka Uilborn",
-        "text": "Z uporabo kreme Keramin imam pozitivne izkušnje. Odličen in učinkovit izdelek z olji! Mehča kožo in pomaga v boju proti glivicam.",
+        "text": "Z uporabo kreme Demyxil imam pozitivne izkušnje. Odličen in učinkovit izdelek z olji! Mehča kožo in pomaga v boju proti glivicam.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4935,8 +4935,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kevin Rejnos",
         "text": "Dobro pomaga pri dermatoloških težavah. Moja žena se je uspela znebiti papiloma, jaz pa luskavice. Stranskih učinkov niso našli!",
@@ -4964,8 +4964,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Luiza Majklson",
         "text": "Po nekaj tednih uporabe glivicam ni ostalo niti sledi. Težave so izginile. Razpoke so izginile, srbenje je izginilo skoraj takoj. Zelo učinkovito prikrije neprijetne vonjave!",
@@ -4993,11 +4993,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Oruella Spencer",
-        "text": "Zaradi hormonskega neravnovesja so se začele težave s kožo. Suhost, razpoke, srbenje, zlasti na kolenih, glavi in ​​komolcih. Pomagal je samo Keramin. Koža je bila popolnoma obnovljena, neprijetni simptomi pa so izginili že v prvih dneh!",
+        "text": "Zaradi hormonskega neravnovesja so se začele težave s kožo. Suhost, razpoke, srbenje, zlasti na kolenih, glavi in ​​komolcih. Pomagal je samo Demyxil. Koža je bila popolnoma obnovljena, neprijetni simptomi pa so izginili že v prvih dneh!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5022,8 +5022,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Robert Trejdes",
         "text": "Dobro protivnetno sredstvo. Po nanosu ne povzroča neugodja. deluje!",
@@ -5051,8 +5051,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Bobbi Selvaroš",
         "text": "Hvala za kvalitetno in učinkovito kremo, hitro dostavo in svetovanje. Vas bom še kontaktiral!",
@@ -5080,8 +5080,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Taira Maltones",
         "text": "Pomaga hitro očistiti kožo papiloma, ne pušča brazgotin. Po poteku uporabe so se izrastki na vratu, ramenih in pazduhah prenehali tvoriti.",
@@ -5109,8 +5109,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Vera Ralfos",
         "text": "Odlična krema proti glivicam! Od prvih dni odpravlja srbečico in neprijeten vonj, sčasoma se koža popolnoma obnovi in ​​obnovi. Priporočam!",
@@ -5138,8 +5138,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Patricija Peladnos",
         "text": "Učinek je bil prijetno impresiven! Vsak dan so se lise manjšale in razpoke zacelile. Zelo sem zadovoljen z rezultatom!",
@@ -5167,8 +5167,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lorena Puffois",
         "text": "Ne poznam nič bolj učinkovitega proti glivicam na nohtih. Odstrani razslojevanje plošče, poškodovani noht se zaceli in zraste popolnoma zdrav. Pomagalo je v samo enem tečaju!",
@@ -5196,8 +5196,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Dorian Terrel",
         "text": "Učinkovit izdelek z naravnimi sestavinami. Vidne in otipljive spremembe že v prvih dneh uporabe. V zadnjem letu ni bilo niti ene ponovitve luskavice.",
@@ -5225,11 +5225,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Karina Poulson",
-        "text": "Najboljša krema za dermatološke težave. Ocenila je učinkovitost v boju proti glivicam in papilomom. Zahvaljujoč Keraminu je moja koža popolnoma zdrava!",
+        "text": "Najboljša krema za dermatološke težave. Ocenila je učinkovitost v boju proti glivicam in papilomom. Zahvaljujoč Demyxilu je moja koža popolnoma zdrava!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5254,13 +5254,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Margaeri Pitrell",
-        "text": "Pred kratkim sem naročila Neoveris gel. Po nanosu je prijeten hladilni učinek. Že po nekaj dneh se je pojavilo zlahka, bil je začetni učinek.",
+        "text": "Pred kratkim sem naročila Vasaxal gel. Po nanosu je prijeten hladilni učinek. Že po nekaj dneh se je pojavilo zlahka, bil je začetni učinek.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5285,8 +5285,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lusia Armandes",
         "text": "Učinkovit gel, ki lajša težo in utrujenost nog. Utripajoča bolečina in bolečina pri hoji sta izginili in ga uporabljam še naprej.",
@@ -5314,8 +5314,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ariadna Fante",
         "text": "Oteklina in teža v nogah sta izginila, krči so me prenehali motiti, žile so postale manj opazne. Priporočam!",
@@ -5343,8 +5343,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lejla Fergaros",
         "text": "Odličen in učinkovit izdelek, hitra dostava, prijazni svetovalci. Hvala vam!",
@@ -5372,11 +5372,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Filat Barbeson",
-        "text": "Mami sem kupil Neoveris, zelo je zadovoljna. Pravi, da je postalo veliko lažje, noge manj otekajo in ne bolijo!",
+        "text": "Mami sem kupil Vasaxal, zelo je zadovoljna. Pravi, da je postalo veliko lažje, noge manj otekajo in ne bolijo!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5401,8 +5401,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Veronika Vajts",
         "text": "Pajkaste vene na nogah so postale skoraj nevidne, lajša bolečine in preprečuje otekanje. Zelo pomaga!",
@@ -5430,8 +5430,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Viktorija Laskes",
         "text": "Prijetna in lahka konsistenca, zeliščne sestavine, dostopna cena. In kar je najpomembneje - učinek je!",
@@ -5459,8 +5459,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Tomas Laurson",
         "text": "Preprečeval vnetje žil in hitro lajšal bolečine. Krči ponoči so izginili. Tudi po napornem dnevu ni teže ali otekline.",
@@ -5488,11 +5488,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Gloria Lubreks",
-        "text": "Neoveris je mojim nogam vrnil lahkotnost. Vene so se prenehale vnetiti, pajkaste vene so izginile. Zelo prijeten učinek po nanosu.",
+        "text": "Vasaxal je mojim nogam vrnil lahkotnost. Vene so se prenehale vnetiti, pajkaste vene so izginile. Zelo prijeten učinek po nanosu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5517,11 +5517,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Kristofer Gelbes",
-        "text": "Aktivno se ukvarjam s športom, kar povzroča modrice in bolečine v nogah. Po uporabi zdravila Neoveris te težave ni več. Bolečina mine, tudi po vadbi ni težav.",
+        "text": "Aktivno se ukvarjam s športom, kar povzroča modrice in bolečine v nogah. Po uporabi zdravila Vasaxal te težave ni več. Bolečina mine, tudi po vadbi ni težav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5546,11 +5546,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Frederika Alvarez",
-        "text": "Pred kratkim sem izvedela za Neoveris gel. Obstaja veliko pozitivnih ocen. Takoj sem začutila rezultat, teža je izginila, žile niso bile tako otekle. zadovoljna!",
+        "text": "Pred kratkim sem izvedela za Vasaxal gel. Obstaja veliko pozitivnih ocen. Takoj sem začutila rezultat, teža je izginila, žile niso bile tako otekle. zadovoljna!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5575,11 +5575,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Žannet Vivales",
-        "text": "Že dolgo imam težave z žilami, podedovala sem jih. Operacije sem se zelo bala, vendar je Neoveris pomagal preprečiti. Žile so postale manj opazne, teža in bolečina sta izginili, krči so izginili.",
+        "text": "Že dolgo imam težave z žilami, podedovala sem jih. Operacije sem se zelo bala, vendar je Vasaxal pomagal preprečiti. Žile so postale manj opazne, teža in bolečina sta izginili, krči so izginili.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5604,8 +5604,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ursula Nebelson",
         "text": "Dober rezultat! Takoj sem začutila prijetno olajšanje. Noč sem prespala brez krčev in bolečin. Še naprej ga bom uporabljala.",
@@ -5633,11 +5633,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ramona Karmeles",
-        "text": "Neoveris je najboljši, kar sem jih kdaj poskusil. Razočarana sem bila že nad geli in kremami, po Neoverisu pa sem spoznala, da dober izdelek lahko pomaga v boju proti krčnim žilam!",
+        "text": "Vasaxal je najboljši, kar sem jih kdaj poskusil. Razočarana sem bila že nad geli in kremami, po Vasaxalu pa sem spoznala, da dober izdelek lahko pomaga v boju proti krčnim žilam!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5662,11 +5662,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;VASAXAL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ernest Volres",
-        "text": "Neoveris uporablja moja žena, ki ima že od mladosti težave z žilami. Zadovoljen sem z rezultatom. V zadnjih šestih mesecih se nisem pritoževala nad svojim zdravjem, žile na nogah so skoraj nevidne.",
+        "text": "Vasaxal uporablja moja žena, ki ima že od mladosti težave z žilami. Zadovoljen sem z rezultatom. V zadnjih šestih mesecih se nisem pritoževala nad svojim zdravjem, žile na nogah so skoraj nevidne.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9771,13 +9771,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_1.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ivana Janežič",
-        "text": "Rectin je odličen gel. Po enem tednu so vsi simptomi hemoroidov izginili. Nobena sveča se ne more primerjati z njim. Priporočil mi jih je moj strokovnjak, ki mu zelo zaupam.",
+        "text": "Vasos Duo je odličen gel. Po enem tednu so vsi simptomi hemoroidov izginili. Nobena sveča se ne more primerjati z njim. Priporočil mi jih je moj strokovnjak, ki mu zelo zaupam.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9802,11 +9802,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_2.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Ivanka Knez",
-        "text": "S to nočno moro sem živel 5 let. Sprva je vse blago, samo srbenje in nelagodje. Nato so se pojavila poslabšanja, pojavile so se modrice in hude bolečine. Mazala sem se s kremami in dajala svečke, pa nič ni pomagalo. Zahvaljujoč Rectinu je vse izginilo v enem mesecu.",
+        "text": "S to nočno moro sem živel 5 let. Sprva je vse blago, samo srbenje in nelagodje. Nato so se pojavila poslabšanja, pojavile so se modrice in hude bolečine. Mazala sem se s kremami in dajala svečke, pa nič ni pomagalo. Zahvaljujoč Vasos Duou je vse izginilo v enem mesecu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9831,11 +9831,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_3.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Novak",
-        "text": "Skoraj eno leto sem imela težave s hemoroidi. Poskušala sem mazila in svečke in celo ljudska zdravila. Mislil sem, da bom tako živela vse življenje. Toda 2 tedna po začetku uporabe Rectina je vse izginilo! Zelo sem zadovoljena.",
+        "text": "Skoraj eno leto sem imela težave s hemoroidi. Poskušala sem mazila in svečke in celo ljudska zdravila. Mislil sem, da bom tako živela vse življenje. Toda 2 tedna po začetku uporabe Vasos Duoa je vse izginilo! Zelo sem zadovoljena.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9860,11 +9860,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_4.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Tomšič",
-        "text": "Po jemanju antibiotikov so se mi pojavili hemoroidi. Bilo je 2 vozlišča. Strokovnjak je predpisal supozitorije, najprej je bilo lažje, potem pa se je bolečina vrnila, zelo boleče je bilo iti na stranišče. Prebrala sem veliko dobrih ocen o Rectinu. Odločil sem se, da ga kupim. Tečaj sem zaključila in ni več nobenih težav. Odličen gel!",
+        "text": "Po jemanju antibiotikov so se mi pojavili hemoroidi. Bilo je 2 vozlišča. Strokovnjak je predpisal supozitorije, najprej je bilo lažje, potem pa se je bolečina vrnila, zelo boleče je bilo iti na stranišče. Prebrala sem veliko dobrih ocen o Vasos Duou. Odločil sem se, da ga kupim. Tečaj sem zaključila in ni več nobenih težav. Odličen gel!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9889,11 +9889,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Martin Medved",
-        "text": "Rectin krepi stene krvnih žil in lajša bolečine. Pred uporabo sem se posvetovala s strokovnjakinjo, poznano žensko, ki je odobrila. Noben priljubljen kemični izdelek ne more pomagati tako kot ta rastlinski gel.",
+        "text": "Vasos Duo krepi stene krvnih žil in lajša bolečine. Pred uporabo sem se posvetovala s strokovnjakinjo, poznano žensko, ki je odobrila. Noben priljubljen kemični izdelek ne more pomagati tako kot ta rastlinski gel.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9918,11 +9918,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Boštjan Furlan",
-        "text": "Strokovnjak je na meni našel 2 ogromni buli in mi priporočil tečaj zdravila Rectin. Učinek se je pojavil v 3 dneh po začetku uporabe. Gel z rahlim hladilnim učinkom lajša bolečine, srbenje in nelagodje.",
+        "text": "Strokovnjak je na meni našel 2 ogromni buli in mi priporočil tečaj zdravila Vasos Duo. Učinek se je pojavil v 3 dneh po začetku uporabe. Gel z rahlim hladilnim učinkom lajša bolečine, srbenje in nelagodje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9947,11 +9947,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_7.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Barbara Zupan",
-        "text": "Imel sem napredovale hemoroide in sem bil tik pred operacijo. Toda sestra mi je svetovala, naj poskusim Rectin. Uporabljala sem ga 1,5 meseca - vnetje in buli so izginili, bolečina in draženje sta izginila.",
+        "text": "Imel sem napredovale hemoroide in sem bil tik pred operacijo. Toda sestra mi je svetovala, naj poskusim Vasos Duo. Uporabljala sem ga 1,5 meseca - vnetje in buli so izginili, bolečina in draženje sta izginila.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9976,11 +9976,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_8.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Sabina Oblak",
-        "text": "Po porodu so se pojavili hemoroidi. Rectin sem uporabljala en mesec in ta čas je bil dovolj, da sem popolnoma odpravila težavo. Vozlišča so se začela raztapljati, blato se je normaliziralo, bolečina je izginila, nelagodja ni bilo. Zato ga iskreno priporočam.",
+        "text": "Po porodu so se pojavili hemoroidi. Vasos Duo sem uporabljala en mesec in ta čas je bil dovolj, da sem popolnoma odpravila težavo. Vozlišča so se začela raztapljati, blato se je normaliziralo, bolečina je izginila, nelagodja ni bilo. Zato ga iskreno priporočam.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10005,11 +10005,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_9.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Janja Tomažič",
-        "text": "Rectin je zelo dober izdelek, res deluje in pomaga. Imela sem hudo zaprtje in razvili so se hemoroidi. Rectin mi je priporočila prijateljica, zelo sem ji hvaležna za to. Vse je izginilo!",
+        "text": "Vasos Duo je zelo dober izdelek, res deluje in pomaga. Imela sem hudo zaprtje in razvili so se hemoroidi. Vasos Duo mi je priporočila prijateljica, zelo sem ji hvaležna za to. Vse je izginilo!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10034,11 +10034,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Janez Klemenčič",
-        "text": "Gel je udoben za uporabo. Veliko boljši od svečk in maščobnih mazil. Učinek je odličen - Rectin lajša vnetja in bolečine, krepi stene krvnih žil, odpravlja vse simptome hemoroidov. Priporočam vsakomur s to težavo.",
+        "text": "Gel je udoben za uporabo. Veliko boljši od svečk in maščobnih mazil. Učinek je odličen - Vasos Duo lajša vnetja in bolečine, krepi stene krvnih žil, odpravlja vse simptome hemoroidov. Priporočam vsakomur s to težavo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10063,11 +10063,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_11.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Urška Erjavec",
-        "text": "Imel sem hemoroide 2. stopnje. Strokovnjak je predpisal svečke in mazilo za 10 dni, zjutraj in zvečer. Ni pomagalo. Potem je začel vztrajati pri operaciji. Še dobro, da sem pravočasno našla Rectin gel. Zaključila sem tečaj in pozabila na težavo kot slabe sanje.",
+        "text": "Imel sem hemoroide 2. stopnje. Strokovnjak je predpisal svečke in mazilo za 10 dni, zjutraj in zvečer. Ni pomagalo. Potem je začel vztrajati pri operaciji. Še dobro, da sem pravočasno našla Vasos Duo gel. Zaključila sem tečaj in pozabila na težavo kot slabe sanje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10092,11 +10092,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_12.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Antonija Jerman",
-        "text": "Težave so se mi začele pojavljati po drugem porodu. Prebrala sem toliko informacij na internetu, se poskušala rešiti na različne načine, a je bilo vse zaman. Samo Rectin je pomagal! En paket imam še na zalogi za vsak slučaj.",
+        "text": "Težave so se mi začele pojavljati po drugem porodu. Prebrala sem toliko informacij na internetu, se poskušala rešiti na različne načine, a je bilo vse zaman. Samo Vasos Duo je pomagal! En paket imam še na zalogi za vsak slučaj.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10121,11 +10121,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Jaka Perko",
-        "text": "Dolgo časa sem iskal izdelek na osnovi troxerutina. Deluje protivnetno in dekongestivno, najučinkovitejša učinkovina doslej. Našel sem Rectin, uporabljal sem ga 2 tedna, hemoroidov ni bilo več.",
+        "text": "Dolgo časa sem iskal izdelek na osnovi troxerutina. Deluje protivnetno in dekongestivno, najučinkovitejša učinkovina doslej. Našel sem Vasos Duo, uporabljal sem ga 2 tedna, hemoroidov ni bilo več.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10150,11 +10150,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_14.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Majda Marolt",
-        "text": "Pojavilo se je hudo nelagodje, strokovnjak je odkril vozliček. Bila sem prestrašena! Rekel mi je, naj jem več vlaknin, da preprečim zaprtje. Predpisal sem mazilo. In doma mi je mama povedala, da se je znebila hemoroidov s pomočjo Rectin gela. Opravila sem tečaj, simptomi so izginili v nekaj dneh. Ob ponovnem pregledu je strokovnjak rekel, da ni več problema.",
+        "text": "Pojavilo se je hudo nelagodje, strokovnjak je odkril vozliček. Bila sem prestrašena! Rekel mi je, naj jem več vlaknin, da preprečim zaprtje. Predpisal sem mazilo. In doma mi je mama povedala, da se je znebila hemoroidov s pomočjo Vasos Duo gela. Opravila sem tečaj, simptomi so izginili v nekaj dneh. Ob ponovnem pregledu je strokovnjak rekel, da ni več problema.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10179,11 +10179,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_15.png",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Petrič",
-        "text": "Simptomi hemoroidov so res boleči, ne gre le za nekakšno srbenje, ampak za res neznosno bolečino! Po mojem mnenju Rectin gel nima konkurence, vsekakor je najboljši, kar je bilo izumljeno do sedaj.",
+        "text": "Simptomi hemoroidov so res boleči, ne gre le za nekakšno srbenje, ampak za res neznosno bolečino! Po mojem mnenju Vasos Duo gel nima konkurence, vsekakor je najboljši, kar je bilo izumljeno do sedaj.",
         "stars": [
           {
             "src": "img/svg/star.svg",

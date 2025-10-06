@@ -582,11 +582,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 κριτικές",
       "desc": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -655,11 +655,11 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,18 +684,18 @@
       ],
       "text": "234 κριτικές",
       "desc": "Τζελ με φυσικά εκχυλίσματα που στοχεύει στην καταπολέμηση των εκδηλώσεων των κιρσών.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 κριτικές",
       "desc": "Κρέμα με βακτηριοκτόνο δράση για την καταπολέμηση των συμπτωμάτων της μυκητίασης.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     },
@@ -799,12 +799,12 @@
     },
     {
       "label": "Χιτ",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -829,8 +829,8 @@
       ],
       "text": "267 κριτικές",
       "desc": "Το προϊόν, με φυτική βάση, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη αιμορροΐδων.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "αναλυτικότερες πληροφορίες"
     }
@@ -1350,13 +1350,13 @@
       "niche": "Κατεύθυνση: Αρθρώσεις"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1418,13 +1418,13 @@
       "niche": "Κατεύθυνση: αρθρώσεις"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1452,13 +1452,13 @@
       "niche": "Κατεύθυνση: Κιρσοί"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1554,13 +1554,13 @@
       "niche": "Κατεύθυνση: όραση"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1784,15 +1784,15 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Για την υγεία",
     "review_count": "311 κριτικές",
     "niche": "δύναμη",
-    "form_factor": "πλαστικό δοχείο / 20 κάψουλες",
+    "form_factor": "κάψουλες σε κυψέλη, 10 τεμ",
     "short_description": "Προϊόν για άνδρες, που στοχεύει στην ομαλοποίηση των λειτουργιών του αναπαραγωγικού και ουροποιογεννητικού συστήματος.",
     "description": "κάψουλες με σύμπλεγμα φυσικών εκχυλισμάτων και ψευδάργυρο. Η φόρμουλα έχει σχεδιαστεί με γνώμονα την πρόληψη όλων των προβλημάτων του ουροποιητικού συστήματος που μπορεί να αντιμετωπίσει οποιοσδήποτε άνδρας, συμπεριλαμβανομένων των προβλημάτων με το λίμπιντο. Η δράση του προϊόντος στοχεύει στην αναπλήρωση των ουσιών που λείπουν από τον οργανισμό, οι οποίες είναι δύσκολο να ληφθούν με την τροφή και οι οποίες επηρεάζουν: τη βελτίωση της κυκλοφορίας του αίματος, την στύση, την αύξηση της παραγωγής τεστοστερόνης, αύξηση της αντοχής του οργανισμού, την υγεία του ουροποιητικού συστήματος και του προστάτη.",
-    "compound": "<span class=\"attention\">Εκχύλισμα καρπού Saw palmetto (Serenoa repens 5:1), εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1% β-σιτοστερόλη), εκχύλισμα ρίζας Maca (Lepidium meyenii 10:1), ψευδάργυρος (κιτρικός ψευδάργυρος)</span>.",
+    "compound": "Εκχύλισμα ρίζας μάκα (Lepidium meyenii 4:1) – 60 mg, εκχύλισμα κράνμπερι (Vaccinium macrocarpon, 35 % προανθοκυανιδίνες) – 53 mg, εκχύλισμα καρπού φοίνικα saw palmetto (Serenoa repens 5:1) – 50 mg, εκχύλισμα ρίζας τσουκνίδας (Urtica dioica, 1 % β-σιτοστερόλη) – 40 mg, ψευδάργυρος (κιτρικό ψευδάργυρο τριένυδρο) – 5 mg.",
     "usage": "1 κάψουλα 1-2 φορές την ημέρα κατά τη διάρκεια ή μετά το γεύμα.",
     "contraindications": "ατομική δυσανεξία στα συστατικά. Δεν προορίζεται για παιδιά, έγκυες και θηλάζουσες γυναίκες.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1814,30 +1814,30 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Για την υγεία",
     "review_count": "234 κριτικές",
     "niche": "Κιρσοί",
     "form_factor": "γέλη σε σωληνάριο, 30 ml",
     "short_description": "Γέλη με φυσικά εκχυλίσματα για την καταπολέμηση των εκδηλώσεων των κιρσών.",
     "description": "σύμπλεγμα φυτικών συστατικών για την ομαλοποίηση της κατάστασης του οργανισμού, τη ρύθμιση του μεταβολισμού και την ενεργοποίηση της διαδικασίας απώλειας βάρους. Φυτικό σύμπλεγμα: ενεργοποιεί τη διαδικασία κατανάλωσης των αποθεμάτων λίπους του οργανισμού, συμβάλλει στην απώλεια βάρους, υποστηρίζει τον φυσιολογικό μεταβολισμό.",
-    "compound": "<span class=\"attention\">Aqua, Glycerin, Propylene Glycol, Alcohol Denat., Aesculus Hippocastanum Extract, Centella Asiatica Extract, Ruscus Aculeatus Root Extract, εκχύλισμα καλλιέργειας Symphytum Officinale Callus, εκχύλισμα λουλουδιού Chamomilla Recutita, νιασιναμίδη, τροξερουτίνη, καφεΐνη, ουρία, αργινίνη, ακρυλοδιμεθυλταουρικό άλας αμμωνίου/συνπολυμερές VP, σαλικυλικό οξύ, μενθόλη, αλλαντοΐνη, υαλουρονικό νάτριο, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, δισόξινο EDTA</span>.",
+    "compound": "Aqua, γλυκερίνη, προπυλενογλυκόλη, αλκοόλη denat., εκχύλισμα αγριοκαστανιάς, εκχύλισμα Centella Asiatica, εκχύλισμα ρίζας Ruscus Aculeatus, εκχύλισμα κυτταροκαλλιέργειας Symphytum Officinale, εκχύλισμα άνθους χαμομηλιού, νιασιναμίδη, καφεΐνη, ουρία, αργινίνη, συμπολυμερές αμμωνίου acryloyldimethyltaurate/VP, σαλικυλικό οξύ, μενθόλη, αλλαντοΐνη, υαλουρονικό νάτριο, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, δινάτριο EDTA.",
     "usage": "Απλώστε με ελαφριές κινήσεις μασάζ για 3-5 λεπτά 2 φορές την ημέρα. Πριν από την εφαρμογή, κάντε ένα τεστ ανεκτικότητας στο δέρμα σας.",
     "contraindications": "για ατομική δυσανεξία στα συστατικά. Αποφύγετε την επαφή με τα μάτια. Μην το χρησιμοποιείτε σε παιδιά κάτω των τριών ετών και απευθείας σε ανοιχτές πληγές.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
     "suitability": "2 έτη",
     "keep": "Shranjujte pri temperaturi od 0°C do 25°C, zaščiteno pred direktno sončno svetlobo in vlago."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Για την υγεία",
     "review_count": "301 κριτικές",
     "niche": "Μύκητας",
-    "form_factor": "χαρτοκιβώτιο, τεχνικές οδηγίες, σωληνάριο 30 ml",
+    "form_factor": "κρέμα, 30 ml",
     "short_description": "Κρέμα με βακτηριοκτόνο δράση για την καταπολέμηση των εκδηλώσεων του μύκητα.",
     "description": "Περιέχει βιοδραστικά συστατικά με ευρύ φάσμα δερματολογικών και καλλυντικών ιδιοτήτων. Προάγει τη φυσιολογική μικροχλωρίδα και έχει καταπραϋντική δράση στο δέρμα. Έχει κερατολυτική δράση και απομακρύνει τα νεκρά κύτταρα του δέρματος. Έχει ενυδατική και μαλακτική δράση στο δέρμα. Προάγει και διεγείρει την ανανέωση των κυττάρων του επιδερμίδα. Προορίζεται για τη διατήρηση της φυσιολογικής κατάστασης του δέρματος.",
-    "compound": "<span class=\"attention\">Aqua,Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, PEG-100 Stearate, Glyceryl Stearate, Caprylic/Capric Triglyceride, Chamomila Recutita Flower Extract, Butyrospermum Parkii Butter, Niacinamide, Zinc Оxide, Propolis extract, Cocos Nucifera Oil, Sulfur, Аlcloxa, Salicylic Acid, Salix Alba Bark Extract, εκχύλισμα φλοιού/φύλλων Betula Alba, έλαιο ξύλου Juniperus Oxycedrus, Polysorbate 80, έλαιο φύλλων Melaleuca Alternifolia, έλαιο Mentha Piperita, Xanthan Gum,  4-Terpineol, Piroctone Olamine, Phenoxyethanol, Ethylhexylglycerin, BHT, Disodium EDTА, Linalool, Limonene</span>.",
+    "compound": "Aqua, γλυκερίνη, cetearyl alcohol, παραφινικό υγρό, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, εκχύλισμα άνθους χαμομηλιού, βούτυρο butyrospermum parkii, νιασιναμίδη, οξείδιο ψευδαργύρου, εκχύλισμα πρόπολης, λάδι καρύδας, θείο, alcloxa, σαλικυλικό οξύ, εκχύλισμα φλοιού/φύλλων λευκής σημύδας, αιθέριο έλαιο ξύλου γιουνίπερου, πολυσορβικό 80, αιθέριο έλαιο φύλλων melaleuca alternifolia, αιθέριο έλαιο μέντας, ξανθανική γόμμα, 4-terpineol, piroctone olamine, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, bht, δινάτριο edta, λιναλόλη, λιμονένιο.",
     "usage": "Εφαρμόστε σε καλά καθαρισμένο και στεγνό δέρμα της πληγείσας περιοχής του σώματος με ελαφρές κινήσεις μασάζ από κάτω προς τα πάνω. Πριν από τη χρήση, είναι απαραίτητο να κάνετε ένα τεστ ανεκτικότητας των συστατικών του φαρμάκου από το δέρμα. <span class=\"color: red\">Προσοχή:</span> αποφύγετε την επαφή με τα μάτια.",
     "contraindications": "Μην το εφαρμόζετε σε παιδιά κάτω των 3 ετών, έγκυες και θηλάζουσες γυναίκες. Μην το εφαρμόζετε  σε ανοιχτές πληγές.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -1874,15 +1874,15 @@
     "suitability": "2 έτη",
     "keep": "Φυλάξτε το σε ξηρό μέρος, απρόσιτο για τα παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Υγεία",
     "review_count": "333 κριτικές",
     "niche": "αιμορροΐδες",
-    "form_factor": "γέλη σε σωληνάριο",
+    "form_factor": "γέλη σε σωληνάριο, 30 ml",
     "short_description": "Το προϊόν, με φυτική βάση, ενισχύει τα τοιχώματα των αγγείων και προλαμβάνει την ανάπτυξη αιμορροΐδων.",
     "description": "Γέλη με ελαφρύ δροσιστικό αποτέλεσμα, που επιτρέπει στο προϊόν να ανακουφίζει τον πόνο και να μειώνει τη φλεγμονή. Περιέχει ένα ευρύ φάσμα βιολογικά ενεργών συστατικών: εκχυλίσματα ασιατικής τσεντέλας, καστανιάς, χαμομηλιού, αγκαθιάς, σπαθόχορτου, τροξερουτίνης, καφεΐνης, αλλαντοΐνης, Β3, υαλουρονικού οξέος.",
-    "compound": "<span class=\"attention\">Νερό, γλυκερίνη, προπυλενογλυκόλη, αλκοόλη Denat., εκχύλισμα Aesculus Hippocastanum, εκχύλισμα Centella Asiatica, εκχύλισμα ρίζας Ruscus Aculeatus, εκχύλισμα καλλιέργειας Symphytum Officinale Callus, εκχύλισμα λουλουδιού Chamomilla Recutita, Νιασιναμίδη, Τροξερουτίνη, Καφεΐνη, Ουρία, Αργινίνη, Αμμώνιο ακρυλοδιμεθυλταουρικό/VP συμπολυμερές, Σαλικυλικό οξύ, Μενθόλη, Αλλαντοΐνη, Υαλουρονικό νάτριο, Φαινοξυαιθανόλη, Αιθυλεξυλογλυκερίνη, Δισόδιο EDTА</span>.",
+    "compound": "Aqua, γλυκερίνη, προπυλενογλυκόλη, αλκοόλη denat., εκχύλισμα αγριοκαστανιάς, εκχύλισμα centella asiatica, εκχύλισμα ρίζας ruscus aculeatus, εκχύλισμα κυτταροκαλλιέργειας symphytum officinale, εκχύλισμα άνθους χαμομηλιού, νιασιναμίδη, τροξερουτίνη, καφεΐνη, ουρία, αργινίνη, συμπολυμερές αμμωνίου acryloyldimethyltaurate/vp, σαλικυλικό οξύ, μενθόλη, αλλαντοΐνη, υαλουρονικό νάτριο, φαινοξυαιθανόλη, αιθυλεξυλογλυκερίνη, δινάτριο edta.",
     "usage": "Εφαρμόστε με ελαφριές κινήσεις μασάζ για 3-5 λεπτά 2 φορές την ημέρα. Πριν από τη χρήση, πραγματοποιήστε τεστ συμβατότητας με το δέρμα σας. Συνιστάται η χρήση 1-2 φορές την ημέρα.",
     "contraindications": "Ατομική δυσανεξία σε οποιοδήποτε από τα συστατικά. Μόνο για ενήλικες, απαγορεύεται σε άτομα κάτω των 18 ετών. Φυλάξτε το σε μέρος απρόσιτο για παιδιά.",
     "manufacturer": "Dalmatika (Βουλγαρία)",
@@ -2003,8 +2003,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "24",
       "newPrice": "139"
     },
@@ -2013,13 +2013,13 @@
       "salePrice": "26",
       "newPrice": "75"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -2033,8 +2033,8 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
     }
@@ -4380,10 +4380,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουί Μιζέρες",
         "text": "Ένα καλό και αποτελεσματικό προϊόν. Υπάρχει αποτέλεσμα, δεν προκαλεί παρενέργειες. Μετά την αγωγή βοήθησε να εξαφανιστεί πλήρως το πρόβλημα.",
@@ -4411,11 +4411,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Όστεον",
-        "text": "Είχα προβλήματα στην ούρηση, το Feronex τα εξαφάνισε. Ο πόνος έφυγε, η στύση έγινε καλύτερη και διαρκεί περισσότερο. Χωρίς εθισμό και παρενέργειες.",
+        "text": "Είχα προβλήματα στην ούρηση, το Urosaf τα εξαφάνισε. Ο πόνος έφυγε, η στύση έγινε καλύτερη και διαρκεί περισσότερο. Χωρίς εθισμό και παρενέργειες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4440,11 +4440,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γερμανός Στροτσί",
-        "text": "Πήρα το Feronex πέρσι. Από τότε όλα λειτουργούν τέλεια, ο \"φίλος\" είναι πάντα έτοιμος! Χωρίς προβλήματα και αποτυχίες!",
+        "text": "Πήρα το Urosaf πέρσι. Από τότε όλα λειτουργούν τέλεια, ο \"φίλος\" είναι πάντα έτοιμος! Χωρίς προβλήματα και αποτυχίες!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4469,8 +4469,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέλλα Σβάιτσερ",
         "text": "Παρήγγειλα για τον άντρα μου όταν άρχισαν προβλήματα. Βοήθησε! Έγινε ξανά δραστήριος, γεμάτος αυτοπεποίθηση και πάθος!",
@@ -4498,8 +4498,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκιανός Ρος",
         "text": "Δρα σχεδόν αμέσως, με σωρευτικό αποτέλεσμα. Μετά την αγωγή δεν υπήρχαν πια προβλήματα στύσης.",
@@ -4527,8 +4527,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πανφίλος Ορμάνδο",
         "text": "Υπάρχει αποτέλεσμα, μπορείς να το συνδυάσεις με αλκοόλ, δεν προκαλεί παρενέργειες. Το χρησιμοποίησα ως εναλλακτική στα διεγερτικά και μετά την αγωγή δεν τα χρειάζομαι πια.",
@@ -4556,11 +4556,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Καταρία Λόουσον",
-        "text": "Ο άντρας μου είναι 56, δύσκολο να αποφύγεις τα «ανδρικά» προβλήματα σε αυτήν την ηλικία. Ευχαριστώ το Feronex που τον βοήθησε να τα ξεπεράσει και να νιώσει ξανά νέος και υγιής!",
+        "text": "Ο άντρας μου είναι 56, δύσκολο να αποφύγεις τα «ανδρικά» προβλήματα σε αυτήν την ηλικία. Ευχαριστώ το Urosaf που τον βοήθησε να τα ξεπεράσει και να νιώσει ξανά νέος και υγιής!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4585,11 +4585,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ρίχαρντ Πικάρντ",
-        "text": "Με την ηλικία η ισχύς άρχισε να μειώνεται, η επιθυμία να σβήνει. Αποφάσισα να δοκιμάσω το Feronex. Το αποτέλεσμα εντυπωσίασε! Αν το παίρνεις κάθε εξάμηνο, μπορεί να μη γνωρίσεις καθόλου προβλήματα.",
+        "text": "Με την ηλικία η ισχύς άρχισε να μειώνεται, η επιθυμία να σβήνει. Αποφάσισα να δοκιμάσω το Urosaf. Το αποτέλεσμα εντυπωσίασε! Αν το παίρνεις κάθε εξάμηνο, μπορεί να μη γνωρίσεις καθόλου προβλήματα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4614,11 +4614,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κλάους Ρόλινγκς",
-        "text": "Σε αντίθεση με τα γνωστά διεγερτικά, το Feronex δεν προκαλεί πονοκέφαλο. Το αποτέλεσμα γίνεται καλύτερο κάθε μέρα, μετά την αγωγή δεν χρειάζεται τίποτα άλλο!",
+        "text": "Σε αντίθεση με τα γνωστά διεγερτικά, το Urosaf δεν προκαλεί πονοκέφαλο. Το αποτέλεσμα γίνεται καλύτερο κάθε μέρα, μετά την αγωγή δεν χρειάζεται τίποτα άλλο!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4643,11 +4643,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αμέλια Ροσέτι",
-        "text": "Ο άντρας μου είχε προβλήματα λόγω στρες στη δουλειά. Ένας ειδικός μας συνέστησε το Feronex. Βοήθησε! Η οικειότητα επέστρεψε, πιο συχνά, πιο δυνατά και καλύτερα!",
+        "text": "Ο άντρας μου είχε προβλήματα λόγω στρες στη δουλειά. Ένας ειδικός μας συνέστησε το Urosaf. Βοήθησε! Η οικειότητα επέστρεψε, πιο συχνά, πιο δυνατά και καλύτερα!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4672,11 +4672,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βενέρα Σαβεριέν",
-        "text": "Ο άντρας μου έπαιρνε διεγερτικά χάπια, αλλά είχε νεύρα και πονοκεφάλους. Επέμεινα να τα αντικαταστήσει με το Feronex. Έξι μήνες πέρασαν, δεν χρειάζεται πλέον \"βοήθεια\" πριν το σεξ!",
+        "text": "Ο άντρας μου έπαιρνε διεγερτικά χάπια, αλλά είχε νεύρα και πονοκεφάλους. Επέμεινα να τα αντικαταστήσει με το Urosaf. Έξι μήνες πέρασαν, δεν χρειάζεται πλέον \"βοήθεια\" πριν το σεξ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4701,11 +4701,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Τσαρλς Πάρκερ",
-        "text": "Παρήγγειλα το Feronex από περιέργεια. Αλλά το αποτέλεσμα με εντυπωσίασε! Επίσης, η γρήγορη παράδοση και η καλή συσκευασία ήταν μπόνους.",
+        "text": "Παρήγγειλα το Urosaf από περιέργεια. Αλλά το αποτέλεσμα με εντυπωσίασε! Επίσης, η γρήγορη παράδοση και η καλή συσκευασία ήταν μπόνους.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4730,8 +4730,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χριστόφορος Ρινάλντο",
         "text": "Αποτελεσματικό και ασφαλές προϊόν για την ανδρική υγεία. Και σε προσιτή τιμή! Δεν βρήκα παρενέργειες.",
@@ -4759,8 +4759,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "άριστη ποιότητα!",
         "name": "Έντμουντ Σίβερς",
         "text": "Καλή βοήθεια για προβλήματα στύσης από διάφορες αιτίες. Αποτέλεσμα 100%! Μετά την αγωγή ξέχασα τα προβλήματα.",
@@ -4788,8 +4788,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;UROSAF",
         "rating_text": "Εδουάρδος Φεράν",
         "name": "Eduardo Ferran",
         "text": "Υπάρχει αποτέλεσμα από τις πρώτες μέρες. Με τη γυναίκα είμαστε πιο συχνά μαζί. Είναι χαρούμενη. Νιώθω ξανά νέος και ικανός για πολλά!",
@@ -4817,13 +4817,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ενριέττα Λοπαρέ",
-        "text": "Χρόνια πάλευα με μύκητες στα πόδια. Όλα τα μέσα είχαν μόνο προσωρινό αποτέλεσμα. Το Keramin με βοήθησε να το ξεχάσω για πάντα. Τώρα έχω υγιές δέρμα και νύχια!",
+        "text": "Χρόνια πάλευα με μύκητες στα πόδια. Όλα τα μέσα είχαν μόνο προσωρινό αποτέλεσμα. Το Demyxil με βοήθησε να το ξεχάσω για πάντα. Τώρα έχω υγιές δέρμα και νύχια!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4848,11 +4848,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λάουρα Βάλδος",
-        "text": "Πρόσφατα ανακάλυψα θηλώματα στο λαιμό. Αποφάσισα να δοκιμάσω την κρέμα Keramin. Βοήθησε! Γρήγορη δράση, δέρμα υγιές και ενυδατωμένο.",
+        "text": "Πρόσφατα ανακάλυψα θηλώματα στο λαιμό. Αποφάσισα να δοκιμάσω την κρέμα Demyxil. Βοήθησε! Γρήγορη δράση, δέρμα υγιές και ενυδατωμένο.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4877,11 +4877,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φαίνα Ντόουσον",
-        "text": "Είχα κηλίδες στους αγκώνες, με φαγούρα και ξηρότητα. Ειδικός μου πρότεινε το Keramin. Υπέροχο προϊόν! Ανακούφιση από τις πρώτες μέρες, μετά την αγωγή το πρόβλημα εξαφανίστηκε.",
+        "text": "Είχα κηλίδες στους αγκώνες, με φαγούρα και ξηρότητα. Ειδικός μου πρότεινε το Demyxil. Υπέροχο προϊόν! Ανακούφιση από τις πρώτες μέρες, μετά την αγωγή το πρόβλημα εξαφανίστηκε.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4906,11 +4906,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπιάνκα Ουίλμπορν",
-        "text": "Έχω θετική εμπειρία με το Keramin. Εξαιρετικό προϊόν με έλαια στη σύνθεση! Μαλακώνει το δέρμα, βοηθά στη μάχη με τους μύκητες.",
+        "text": "Έχω θετική εμπειρία με το Demyxil. Εξαιρετικό προϊόν με έλαια στη σύνθεση! Μαλακώνει το δέρμα, βοηθά στη μάχη με τους μύκητες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4935,8 +4935,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Κέβιν Ρέινος",
         "text": "Βοηθάει καλά σε δερματολογικά προβλήματα. Η γυναίκα απαλλάχθηκε από θηλώματα, εγώ από ψωρίαση. Χωρίς παρενέργειες!",
@@ -4964,8 +4964,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουίζα Μάικλσον",
         "text": "Μετά από λίγες εβδομάδες χρήσης, δεν υπήρχε πια ίχνος από μύκητες. Οι ρωγμές εξαφανίστηκαν, ο κνησμός έφυγε σχεδόν αμέσως.",
@@ -4993,11 +4993,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ορνέλλα Σπένσερ",
-        "text": "Από ορμονικές διαταραχές είχα προβλήματα με το δέρμα: ξηρότητα, ρωγμές, κνησμό. Μόνο το Keramin βοήθησε. Το δέρμα ανανεώθηκε πλήρως!",
+        "text": "Από ορμονικές διαταραχές είχα προβλήματα με το δέρμα: ξηρότητα, ρωγμές, κνησμό. Μόνο το Demyxil βοήθησε. Το δέρμα ανανεώθηκε πλήρως!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5022,8 +5022,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ροβέρτος Τρέιντες",
         "text": "Καλό αντιφλεγμονώδες προϊόν. Δεν προκαλεί δυσφορία μετά την εφαρμογή. Δουλεύει!",
@@ -5051,8 +5051,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μπόμπι Σέλβαρος",
         "text": "Ευχαριστώ για την ποιοτική κρέμα, την παράδοση και τη συμβουλή. Θα παραγγείλω ξανά!",
@@ -5080,8 +5080,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ταΐρα Μάλτονες",
         "text": "Καθαρίζει γρήγορα το δέρμα από θηλώματα, χωρίς ουλές. Μετά την αγωγή δεν ξαναεμφανίστηκαν.",
@@ -5109,8 +5109,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βέρα Ράλφος",
         "text": "Εξαιρετική αντιμυκητιακή κρέμα! Από τις πρώτες μέρες εξαφανίζει τον κνησμό και τη δυσοσμία. Το δέρμα ανανεώθηκε πλήρως.",
@@ -5138,8 +5138,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πατρίτσια Πελάδος",
         "text": "Το αποτέλεσμα με εντυπωσίασε! Κάθε μέρα οι κηλίδες μειώνονταν, οι ρωγμές επουλώνονταν.",
@@ -5167,8 +5167,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λορένα Πούφοις",
         "text": "Δεν ξέρω τίποτα πιο αποτελεσματικό για μύκητες νυχιών. Ο κατεστραμμένος νύχιος αποκαταστάθηκε, μεγάλωσε υγιής.",
@@ -5196,8 +5196,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δοριανός Τερρέλ",
         "text": "Αποτελεσματικό προϊόν με φυσική σύνθεση. Ορατές αλλαγές από τις πρώτες μέρες. Έναν χρόνο χωρίς υποτροπές ψωρίασης.",
@@ -5225,8 +5225,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;DEMYXIL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Καρίνα Πάουλσον",
         "text": "Η καλύτερη κρέμα για δερματολογικά προβλήματα. Βοηθά και σε μύκητες και σε θηλώματα. Το δέρμα μου τώρα είναι εντελώς υγιές!",
@@ -5254,13 +5254,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαργαρίτα Πιτρέλ",
-        "text": "Πρόσφατα παρήγγειλα το τζελ Neoveris. Έχει ευχάριστο δροσερό εφέ μετά την εφαρμογή. Σε λίγες μέρες ένιωσα ελαφρότητα — αρχικό αποτέλεσμα υπάρχει.",
+        "text": "Πρόσφατα παρήγγειλα το τζελ Vasaxal. Έχει ευχάριστο δροσερό εφέ μετά την εφαρμογή. Σε λίγες μέρες ένιωσα ελαφρότητα — αρχικό αποτέλεσμα υπάρχει.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5285,8 +5285,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουσία Αρμάντες",
         "text": "Αποτελεσματικό τζελ που αφαιρεί το βάρος και την κόπωση από τα πόδια. Πέρασε ο παλμικός πόνος και ο πόνος στο περπάτημα· συνεχίζω τη χρήση.",
@@ -5314,8 +5314,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αριάδνη Φάντε",
         "text": "Εξαφανίστηκαν το πρήξιμο και η βαριά αίσθηση στα πόδια, σταμάτησαν οι κράμπες και οι φλέβες είναι λιγότερο ορατές. Το συνιστώ!",
@@ -5343,8 +5343,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λέιλα Φεργκάρος",
         "text": "Εξαιρετικό και αποτελεσματικό προϊόν, γρήγορη παράδοση, ευγενικοί σύμβουλοι. Ευχαριστώ!",
@@ -5372,11 +5372,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φίλιπ Μπαρμπεσόν",
-        "text": "Αγόρασα το Neoveris για τη μητέρα μου — είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο ελαφριά, τα πόδια πρήζονται λιγότερο και δεν πονούν.",
+        "text": "Αγόρασα το Vasaxal για τη μητέρα μου — είναι πολύ ευχαριστημένη. Λέει ότι νιώθει πολύ πιο ελαφριά, τα πόδια πρήζονται λιγότερο και δεν πονούν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5401,8 +5401,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βερονίκη Βάιτς",
         "text": "Τα αγγειώδη «διχτάκια» στα πόδια έγιναν σχεδόν αόρατα, αφαιρεί τον πόνο και προλαμβάνει το οίδημα. Βοηθάει καλά!",
@@ -5430,8 +5430,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βικτώρια Λάσκες",
         "text": "Ευχάριστη, ελαφριά υφή, φυτικά συστατικά και προσιτή τιμή. Και το σημαντικότερο — έχει αποτέλεσμα!",
@@ -5459,8 +5459,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Θωμάς Λόρσον",
         "text": "Πρόλαβε τη φλεβίτιδα και αφαίρεσε γρήγορα τον πόνο. Εξαφανίστηκαν οι νυχτερινές κράμπες. Ακόμη και μετά από δύσκολη μέρα δεν νιώθω βάρος ή οίδημα.",
@@ -5488,11 +5488,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκλόρια Λούμπρεξ",
-        "text": "Το Neoveris μου επέστρεψε την ελαφρότητα στα πόδια. Οι φλέβες έπαψαν να φλεγμαίνουν, τα αγγειακά «αστεράκια» χάθηκαν. Πολύ ευχάριστο εφέ μετά την εφαρμογή.",
+        "text": "Το Vasaxal μου επέστρεψε την ελαφρότητα στα πόδια. Οι φλέβες έπαψαν να φλεγμαίνουν, τα αγγειακά «αστεράκια» χάθηκαν. Πολύ ευχάριστο εφέ μετά την εφαρμογή.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5517,11 +5517,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Χριστόφορος Γκέλμπες",
-        "text": "Αθλούμαι έντονα και εμφανίζονταν μώλωπες και πόνος στα πόδια. Με το Neoveris δεν υπάρχει πια αυτό το πρόβλημα — ο πόνος περνάει, ακόμη και μετά την προπόνηση όλα καλά.",
+        "text": "Αθλούμαι έντονα και εμφανίζονταν μώλωπες και πόνος στα πόδια. Με το Vasaxal δεν υπάρχει πια αυτό το πρόβλημα — ο πόνος περνάει, ακόμη και μετά την προπόνηση όλα καλά.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5546,11 +5546,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Φεντερίκα Άλβαρες",
-        "text": "Έμαθα πρόσφατα για το Neoveris. Πολλές θετικές κριτικές. Αμέσως ένιωσα αποτέλεσμα: έφυγε το βάρος, οι φλέβες δεν είναι τόσο διογκωμένες. Είμαι ικανοποιημένη!",
+        "text": "Έμαθα πρόσφατα για το Vasaxal. Πολλές θετικές κριτικές. Αμέσως ένιωσα αποτέλεσμα: έφυγε το βάρος, οι φλέβες δεν είναι τόσο διογκωμένες. Είμαι ικανοποιημένη!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5575,11 +5575,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζανέτ Βιβάλες",
-        "text": "Χρόνια πρόβλημα με φλέβες, κληρονομικό. Φοβόμουν πολύ την επέμβαση, αλλά το Neoveris βοήθησε να την αποφύγω. Οι φλέβες λιγότερο ορατές, έφυγαν βάρος, πόνος και κράμπες.",
+        "text": "Χρόνια πρόβλημα με φλέβες, κληρονομικό. Φοβόμουν πολύ την επέμβαση, αλλά το Vasaxal βοήθησε να την αποφύγω. Οι φλέβες λιγότερο ορατές, έφυγαν βάρος, πόνος και κράμπες.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5604,8 +5604,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ούρσουλα Νέμπελσον",
         "text": "Πολύ καλό αποτέλεσμα! Αμέσως ένιωσα ευχάριστη ανακούφιση. Κοιμήθηκα όλη τη νύχτα χωρίς κράμπες και πόνο. Θα συνεχίσω.",
@@ -5633,11 +5633,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ραμόνα Κάρμελες",
-        "text": "Το Neoveris είναι το καλύτερο που έχω δοκιμάσει. Είχα απογοητευτεί από τζελ/κρέμες, αλλά με το Neoveris κατάλαβα ότι ένα καλό προϊόν μπορεί να βοηθήσει στις κιρσούς!",
+        "text": "Το Vasaxal είναι το καλύτερο που έχω δοκιμάσει. Είχα απογοητευτεί από τζελ/κρέμες, αλλά με το Vasaxal κατάλαβα ότι ένα καλό προϊόν μπορεί να βοηθήσει στις κιρσούς!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5662,11 +5662,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;VASAXAL",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ερνέστ Βόλρες",
-        "text": "Το Neoveris το χρησιμοποιεί η σύζυγός μου — έχει πρόβλημα με φλέβες από νεαρή ηλικία. Είναι ικανοποιημένη: εδώ και έξι μήνες δεν παραπονιέται και οι φλέβες σχεδόν δεν φαίνονται.",
+        "text": "Το Vasaxal το χρησιμοποιεί η σύζυγός μου — έχει πρόβλημα με φλέβες από νεαρή ηλικία. Είναι ικανοποιημένη: εδώ και έξι μήνες δεν παραπονιέται και οι φλέβες σχεδόν δεν φαίνονται.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9771,13 +9771,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_1.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δήμητρα Ιωάννου",
-        "text": "Το Rectin είναι εξαιρετικό τζελ. Μέσα σε μία εβδομάδα όλα τα συμπτώματα των αιμορροΐδων εξαφανίστηκαν. Καμία υπόθετο δεν μπορεί να συγκριθεί με αυτό. Ο ειδικός μου το συνέστησε και τον εμπιστεύομαι πολύ.",
+        "text": "Το Vasos Duo είναι εξαιρετικό τζελ. Μέσα σε μία εβδομάδα όλα τα συμπτώματα των αιμορροΐδων εξαφανίστηκαν. Καμία υπόθετο δεν μπορεί να συγκριθεί με αυτό. Ο ειδικός μου το συνέστησε και τον εμπιστεύομαι πολύ.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9802,11 +9802,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_2.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γεωργία Κομιώτη",
-        "text": "Ζούσα με αυτόν τον εφιάλτη 5 χρόνια. Στην αρχή ήταν απλά φαγούρα και δυσφορία. Μετά ήρθαν οι εξάρσεις, μώλωπες, έντονος πόνος. Άλειφα κρέμες, έβαζα υπόθετα — τίποτα δεν βοήθησε. Χάρη στο Rectin, μέσα σε έναν μήνα όλα πέρασαν.",
+        "text": "Ζούσα με αυτόν τον εφιάλτη 5 χρόνια. Στην αρχή ήταν απλά φαγούρα και δυσφορία. Μετά ήρθαν οι εξάρσεις, μώλωπες, έντονος πόνος. Άλειφα κρέμες, έβαζα υπόθετα — τίποτα δεν βοήθησε. Χάρη στο Vasos Duo, μέσα σε έναν μήνα όλα πέρασαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9831,11 +9831,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_3.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Βαρβάρα Παναγιώτου",
-        "text": "Είχα πρόβλημα με αιμορροΐδες σχεδόν έναν χρόνο. Δοκίμασα αλοιφές, υπόθετα και ακόμη και γιατροσόφια. Νόμιζα ότι θα ζούσα έτσι για πάντα. Αλλά δύο εβδομάδες μετά την έναρξη χρήσης του Rectin, όλα εξαφανίστηκαν! Είμαι πολύ ευχαριστημένη.",
+        "text": "Είχα πρόβλημα με αιμορροΐδες σχεδόν έναν χρόνο. Δοκίμασα αλοιφές, υπόθετα και ακόμη και γιατροσόφια. Νόμιζα ότι θα ζούσα έτσι για πάντα. Αλλά δύο εβδομάδες μετά την έναρξη χρήσης του Vasos Duo, όλα εξαφανίστηκαν! Είμαι πολύ ευχαριστημένη.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9860,11 +9860,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_4.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Αλεξάνδρα Μαρίνου",
-        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά από μια θεραπεία με αντιβιοτικά. Υπήρχαν δύο κόμβοι. Ο ειδικός μου έγραψε υπόθετα· στην αρχή ένιωσα ανακούφιση, αλλά μετά ο πόνος επέστρεψε και η τουαλέτα έγινε μαρτύριο. Διάβασα πολλές καλές κριτικές για το Rectin και αποφάσισα να το δοκιμάσω. Μετά τον κύκλο θεραπείας απαλλάχθηκα εντελώς από το πρόβλημα. Εξαιρετικό τζελ!",
+        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά από μια θεραπεία με αντιβιοτικά. Υπήρχαν δύο κόμβοι. Ο ειδικός μου έγραψε υπόθετα· στην αρχή ένιωσα ανακούφιση, αλλά μετά ο πόνος επέστρεψε και η τουαλέτα έγινε μαρτύριο. Διάβασα πολλές καλές κριτικές για το Vasos Duo και αποφάσισα να το δοκιμάσω. Μετά τον κύκλο θεραπείας απαλλάχθηκα εντελώς από το πρόβλημα. Εξαιρετικό τζελ!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9889,11 +9889,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_5.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γιώργος Γεωργίου",
-        "text": "Το Rectin ενισχύει τα τοιχώματα των αγγείων και ανακουφίζει τον πόνο. Πριν το χρησιμοποιήσω, συμβουλεύτηκα μια γνωστή ειδικό, που το ενέκρινε. Κανένα δημοφιλές χημικό σκεύασμα δεν μπορεί να βοηθήσει τόσο, όσο αυτό το φυτικό τζελ.",
+        "text": "Το Vasos Duo ενισχύει τα τοιχώματα των αγγείων και ανακουφίζει τον πόνο. Πριν το χρησιμοποιήσω, συμβουλεύτηκα μια γνωστή ειδικό, που το ενέκρινε. Κανένα δημοφιλές χημικό σκεύασμα δεν μπορεί να βοηθήσει τόσο, όσο αυτό το φυτικό τζελ.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9918,11 +9918,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_6.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Λουκάς Πετρίδης",
-        "text": "Ο ειδικός βρήκε δύο τεράριες διογκώσεις σε μένα και συνέστησε θεραπεία με Rectin. Το αποτέλεσμα ήρθε τρεις μέρες μετά την έναρξη χρήσης. Το τζελ έχει ελαφριά δροσιστική δράση, ανακουφίζει από τον πόνο, τη φαγούρα και τη δυσφορία.",
+        "text": "Ο ειδικός βρήκε δύο τεράριες διογκώσεις σε μένα και συνέστησε θεραπεία με Vasos Duo. Το αποτέλεσμα ήρθε τρεις μέρες μετά την έναρξη χρήσης. Το τζελ έχει ελαφριά δροσιστική δράση, ανακουφίζει από τον πόνο, τη φαγούρα και τη δυσφορία.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9947,11 +9947,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_7.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Στέλλα Μάνου",
-        "text": "Είχα προχωρημένες αιμορροΐδες και ετοιμάζονταν να μου κάνουν χειρουργείο. Όμως η αδελφή μου μού πρότεινε να δοκιμάσω το Rectin. Το χρησιμοποίησα ενάμιση μήνα — η φλεγμονή και οι διογκώσεις εξαφανίστηκαν, ο πόνος και ο ερεθισμός πέρασαν.",
+        "text": "Είχα προχωρημένες αιμορροΐδες και ετοιμάζονταν να μου κάνουν χειρουργείο. Όμως η αδελφή μου μού πρότεινε να δοκιμάσω το Vasos Duo. Το χρησιμοποίησα ενάμιση μήνα — η φλεγμονή και οι διογκώσεις εξαφανίστηκαν, ο πόνος και ο ερεθισμός πέρασαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9976,11 +9976,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_8.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ελεονώρα Δημητρίου",
-        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά τον τοκετό. Χρησιμοποίησα το Rectin για έναν μήνα και αυτό ήταν αρκετό για να απαλλαγώ πλήρως από το πρόβλημα. Οι κόμβοι άρχισαν να υποχωρούν, οι κενώσεις ομαλοποιήθηκαν, ο πόνος εξαφανίστηκε, καμία δυσφορία πια. Το συνιστώ από καρδιάς!",
+        "text": "Οι αιμορροΐδες εμφανίστηκαν μετά τον τοκετό. Χρησιμοποίησα το Vasos Duo για έναν μήνα και αυτό ήταν αρκετό για να απαλλαγώ πλήρως από το πρόβλημα. Οι κόμβοι άρχισαν να υποχωρούν, οι κενώσεις ομαλοποιήθηκαν, ο πόνος εξαφανίστηκε, καμία δυσφορία πια. Το συνιστώ από καρδιάς!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10005,11 +10005,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_9.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Μαρία Μήτρου",
-        "text": "Το Rectin είναι πολύ καλό προϊόν, πραγματικά λειτουργεί και βοηθάει. Είχα έντονη δυσκοιλιότητα και ανέπτυξα αιμορροΐδες. Μια φίλη μου το πρότεινε και είμαι πολύ ευγνώμων. Όλα πέρασαν!",
+        "text": "Το Vasos Duo είναι πολύ καλό προϊόν, πραγματικά λειτουργεί και βοηθάει. Είχα έντονη δυσκοιλιότητα και ανέπτυξα αιμορροΐδες. Μια φίλη μου το πρότεινε και είμαι πολύ ευγνώμων. Όλα πέρασαν!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10034,11 +10034,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_10.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Δήμος Δανιηλίδης",
-        "text": "Η χρήση του τζελ είναι πολύ βολική. Πολύ καλύτερο από υπόθετα και λιπαρές αλοιφές. Το αποτέλεσμα εξαιρετικό — το Rectin μειώνει τη φλεγμονή και τον πόνο, ενισχύει τα αγγεία και εξαφανίζει όλα τα συμπτώματα των αιμορροΐδων. Το συνιστώ σε όλους που έχουν αυτό το πρόβλημα.",
+        "text": "Η χρήση του τζελ είναι πολύ βολική. Πολύ καλύτερο από υπόθετα και λιπαρές αλοιφές. Το αποτέλεσμα εξαιρετικό — το Vasos Duo μειώνει τη φλεγμονή και τον πόνο, ενισχύει τα αγγεία και εξαφανίζει όλα τα συμπτώματα των αιμορροΐδων. Το συνιστώ σε όλους που έχουν αυτό το πρόβλημα.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10063,11 +10063,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_11.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Γκλόρια Δριάνοβα",
-        "text": "Είχα αιμορροΐδες 2ου βαθμού. Ο ειδικός μού συνέστησε υπόθετα και αλοιφή, 10 ημέρες πρωί και βράδυ. Αυτό βοήθησε, αλλά μετά επέμενε σε χειρουργείο. Ευτυχώς βρήκα εγκαίρως το τζελ Rectin. Έκανα τον κύκλο θεραπείας και ξέχασα το πρόβλημα σαν έναν τρομερό εφιάλτη.",
+        "text": "Είχα αιμορροΐδες 2ου βαθμού. Ο ειδικός μού συνέστησε υπόθετα και αλοιφή, 10 ημέρες πρωί και βράδυ. Αυτό βοήθησε, αλλά μετά επέμενε σε χειρουργείο. Ευτυχώς βρήκα εγκαίρως το τζελ Vasos Duo. Έκανα τον κύκλο θεραπείας και ξέχασα το πρόβλημα σαν έναν τρομερό εφιάλτη.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10092,11 +10092,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_12.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Πρεσλάβα Πέεβα",
-        "text": "Αυτό το πρόβλημα εμφανίστηκε σε μένα μετά τη δεύτερη γέννα. Διάβασα πολλές πληροφορίες στο διαδίκτυο, δοκίμασα διάφορα μέσα, αλλά όλα ήταν άχρηστα. Μόνο το Rectin με βοήθησε. Μου έμεινε μάλιστα και μια συσκευασία «για παν ενδεχόμενο».",
+        "text": "Αυτό το πρόβλημα εμφανίστηκε σε μένα μετά τη δεύτερη γέννα. Διάβασα πολλές πληροφορίες στο διαδίκτυο, δοκίμασα διάφορα μέσα, αλλά όλα ήταν άχρηστα. Μόνο το Vasos Duo με βοήθησε. Μου έμεινε μάλιστα και μια συσκευασία «για παν ενδεχόμενο».",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10121,11 +10121,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_13.png",
+        "desc": "<span class=\"review__mark\">izrazil</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ηλίας Καραϊβάνης",
-        "text": "Έψαχνα καιρό για ένα σκεύασμα με βάση την τροξερουτίνη. Έχει αντιφλεγμονώδη και αντιαποιδηματική δράση — η πιο αποτελεσματική δραστική ουσία μέχρι σήμερα. Βρήκα το Rectin, το χρησιμοποίησα 2 εβδομάδες και οι αιμορροΐδες εξαφανίστηκαν.",
+        "text": "Έψαχνα καιρό για ένα σκεύασμα με βάση την τροξερουτίνη. Έχει αντιφλεγμονώδη και αντιαποιδηματική δράση — η πιο αποτελεσματική δραστική ουσία μέχρι σήμερα. Βρήκα το Vasos Duo, το χρησιμοποίησα 2 εβδομάδες και οι αιμορροΐδες εξαφανίστηκαν.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10150,11 +10150,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_14.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Νεφέλη Αράβου",
-        "text": "Εμφανίστηκε έντονη δυσφορία, ο ειδικός βρήκε κόμβο. Έπαθα σοκ! Μου είπε να τρώω περισσότερες φυτικές ίνες, να αποφεύγω τη δυσκοιλιότητα και μου έγραψε αλοιφή. Στο σπίτι η μητέρα μου μού είπε ότι απαλλάχθηκε από αιμορροΐδες με το τζελ Rectin. Έκανα τον κύκλο και τα συμπτώματα εξαφανίστηκαν μέσα σε λίγες μέρες. Στον επανέλεγχο ο ειδικός είπε ότι το πρόβλημα δεν υπάρχει πια.",
+        "text": "Εμφανίστηκε έντονη δυσφορία, ο ειδικός βρήκε κόμβο. Έπαθα σοκ! Μου είπε να τρώω περισσότερες φυτικές ίνες, να αποφεύγω τη δυσκοιλιότητα και μου έγραψε αλοιφή. Στο σπίτι η μητέρα μου μού είπε ότι απαλλάχθηκε από αιμορροΐδες με το τζελ Vasos Duo. Έκανα τον κύκλο και τα συμπτώματα εξαφανίστηκαν μέσα σε λίγες μέρες. Στον επανέλεγχο ο ειδικός είπε ότι το πρόβλημα δεν υπάρχει πια.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10179,11 +10179,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_15.png",
+        "desc": "<span class=\"review__mark\">εξέφρασε</span> τη γνώμη της για&nbsp;Vasos Duo",
         "rating_text": "άριστη ποιότητα!",
         "name": "Ζωή Βοδουρά",
-        "text": "Τα συμπτώματα των αιμορροΐδων είναι πραγματικά βασανιστικά — δεν είναι απλά μια φαγούρα, αλλά ένας αληθινά ανυπόφορος πόνος! Κατά τη γνώμη μου, το τζελ Rectin δεν έχει ανταγωνιστές — είναι σίγουρα το καλύτερο που έχει δημιουργηθεί μέχρι σήμερα.",
+        "text": "Τα συμπτώματα των αιμορροΐδων είναι πραγματικά βασανιστικά — δεν είναι απλά μια φαγούρα, αλλά ένας αληθινά ανυπόφορος πόνος! Κατά τη γνώμη μου, το τζελ Vasos Duo δεν έχει ανταγωνιστές — είναι σίγουρα το καλύτερο που έχει δημιουργηθεί μέχρι σήμερα.",
         "stars": [
           {
             "src": "img/svg/star.svg",

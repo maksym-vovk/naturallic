@@ -582,11 +582,11 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -611,8 +611,8 @@
       ],
       "text": "311 avis",
       "desc": "Produit pour hommes, destiné à normaliser les fonctions du système reproducteur et urogénital",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "En savoir plus"
     },
@@ -655,11 +655,11 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -684,18 +684,18 @@
       ],
       "text": "234 avis",
       "desc": "Gel à base d’extraits naturels conçu pour lutter contre les manifestations des varices",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "En savoir plus"
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -720,8 +720,8 @@
       ],
       "text": "301 avis",
       "desc": "Crème à action bactéricide destinée à combattre les manifestations des champignons",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "En savoir plus"
     },
@@ -799,12 +799,12 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -829,8 +829,8 @@
       ],
       "text": "267 avis",
       "desc": "Produit à base de plantes, renforce les parois des vaisseaux et prévient le développement des hémorroïdes",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "En savoir plus"
     }
@@ -1350,13 +1350,13 @@
       "niche": "Catégorie: Articulations"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1418,13 +1418,13 @@
       "niche": "Catégorie: Articulations"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1452,13 +1452,13 @@
       "niche": "Catégorie: Varices"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1554,13 +1554,13 @@
       "niche": "Catégorie: Vision"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1784,15 +1784,15 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Pour la santé",
     "review_count": "311 avis",
     "niche": "Puissance",
-    "form_factor": "flacon plastique / 20 gélules",
+    "form_factor": "capsules in blister, 10 st",
     "short_description": "Produit pour hommes visant à normaliser les fonctions du système reproducteur et urinaire",
     "description": "Gélules à base d’extraits naturels et de zinc. Formule conçue pour prévenir divers troubles urogénitaux et soutenir la libido. L’action vise à compenser les substances essentielles difficiles à obtenir par l’alimentation et qui influencent : la circulation sanguine, l’érection, la production de testostérone, l’endurance et la santé de la prostate",
-    "compound": "Extrait de palmier nain (Serenoa repens 5:1), extrait de racine d’ortie (Urtica dioica, 1% bêta-sitostérol), extrait de racine de maca (Lepidium meyenii 10:1), zinc (citrate de zinc)",
+    "compound": "Extrait de racine de maca (Lepidium meyenii 4:1) – 60 mg, extrait de canneberge (Vaccinium macrocarpon, 35 % proanthocyanidines) – 53 mg, extrait de fruit de palmier nain (Serenoa repens 5:1) – 50 mg, extrait de racine d’ortie (Urtica dioica, 1 % bêta-sitostérol) – 40 mg, zinc (citrate de zinc trihydraté) – 5 mg.",
     "usage": "1 gélule 1-2 fois par jour, pendant ou après les repas",
     "contraindications": "intolérance individuelle aux composants. Non destiné aux enfants, femmes enceintes ou allaitantes.",
     "manufacturer": "Dalmatika (Bulgarie)",
@@ -1814,30 +1814,30 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Pour la santé",
     "review_count": "234 avis",
     "niche": "Varices",
     "form_factor": "gel en tube, 30 ml",
     "short_description": "Gel à base d’extraits naturels conçu pour lutter contre les manifestations des varices",
     "description": "Complexe de composants végétaux visant à normaliser l’état de l’organisme, réguler le métabolisme et activer le processus de perte de poids. Le complexe végétal : stimule l’utilisation des réserves de graisses, favorise l’amincissement, soutient un métabolisme normal",
-    "compound": "Aqua, Glycérine, Propylène Glycol, Alcool Dénaturé, Extrait d'Aesculus Hippocastanum, Extrait de Centella Asiatica, Extrait de racine de Ruscus Aculeatus, Extrait de Culture de Callus de Symphytum Officinale, Extrait de Fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère d'Ammonium Acryloyldiméthyltaurate/VP, Acide Salicylique, Menthol, Allantoïne, Hyaluronate de Sodium, Phénoxyéthanol, Éthylhexylglycérine, Disodium EDTА,",
+    "compound": "Aqua, glycérine, propylène glycol, alcool dénat., extrait de marron d’Inde, extrait de Centella Asiatica, extrait de racine de Ruscus Aculeatus, extrait de culture cellulaire de Symphytum Officinale, extrait de fleur de camomille, niacinamide, caféine, urée, arginine, copolymère d’ammonium acryloyldimethyltaurate/VP, acide salicylique, menthol, allantoïne, hyaluronate de sodium, phénoxyéthanol, éthylhexylglycérine, disodium EDTA.",
     "usage": "Appliquer par de légers massages pendant 3-5 minutes, 2 fois par jour. Faire un test de tolérance cutanée avant application",
     "contraindications": "Intolérance individuelle aux composants. Éviter le contact avec les yeux. Ne pas utiliser chez les enfants de moins de 3 ans ni sur des plaies ouvertes.",
     "manufacturer": "Dalmatika (Bulgarie)",
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Pour la santé",
     "review_count": "301 avis",
     "niche": "Mycose",
-    "form_factor": "boîte en carton, notice, tube 30 ml",
+    "form_factor": "crème, 30 ml",
     "short_description": "Crème à action bactéricide destinée à lutter contre les manifestations de mycoses",
     "description": "Contient des composants bioactifs aux larges propriétés dermatologiques et cosmétiques. Favorise une flore cutanée normale et procure un effet apaisant. Possède une action kératolytique, élimine les couches cornées de la peau. Hydrate et adoucit la peau, stimule le renouvellement cellulaire de l’épiderme. Conçu pour maintenir la peau en bon état",
-    "compound": "Aqua, Glycerin, Alcool Cetearyl, Paraffinum Liquidum, Stéarate PEG-100, Stéarate de Glycéryle, Triglycéride Caprylique/Caprique, Extrait de Fleur de Chamomila Recutita, Beurre de Butyrospermum Parkii, Niacinamide, Oxyde de Zinc, Extrait de Propolis, Huile de Cocos Nucifera, Soufre, Аlcloxa, Acide Salicylique, Extrait d'Écorce de Salix Alba, Extrait d'Écorce/Feuille de Betula Alba, Huile de Bois de Juniperus Oxycedrus, Polysorbate 80, Huile de Feuille de Melaleuca Alternifolia, Huile de Mentha Piperita, Gomme Xanthane,  4-Terpinéol, Piroctone Olamine, Phénoxyéthanol, Éthylhexylglycérine, BHT, Disodium EDTА, Linalool, Limonène",
+    "compound": "Aqua, glycérine, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, extrait de fleur de camomille, beurre de butyrospermum parkii, niacinamide, oxyde de zinc, extrait de propolis, huile de noix de coco, soufre, alcloxa, acide salicylique, extrait d’écorce/feuilles de bouleau blanc, huile de bois de genévrier, polysorbate 80, huile de feuilles de melaleuca alternifolia, huile de menthe poivrée, gomme xanthane, 4-terpineol, piroctone olamine, phénoxyéthanol, éthylhexylglycérine, bht, disodium edta, linalool, limonène.",
     "usage": "Appliquer sur une peau propre et sèche de la zone affectée par de légers mouvements de bas en haut. Faire impérativement un test de tolérance cutanée avant utilisation. <span class=\"color:red\">Attention :</span> éviter le contact avec les yeux",
     "contraindications": "Ne pas appliquer chez les enfants de moins de 3 ans, les femmes enceintes ou allaitantes. Ne pas appliquer sur des plaies ouvertes.",
     "manufacturer": "Dalmatika (Bulgarie)",
@@ -1874,15 +1874,15 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Pour la santé",
     "review_count": "333 avis",
     "niche": "Hémorroïdes",
-    "form_factor": "gel en tube",
+    "form_factor": "gel en tube, 30 ml",
     "short_description": "Produit à base de plantes, renforce les parois des vaisseaux et prévient le développement des hémorroïdes",
     "description": "Gel à léger effet rafraîchissant, qui aide à soulager la douleur et réduire l’inflammation. Contient un large spectre de composants bioactifs : extraits de centella asiatica, marron d’Inde, camomille, petit houx, consoude, troxérutine, caféine, allantoïne, vitamine B3, acide hyaluronique",
-    "compound": "Aqua, Glycérine, Propylène Glycol, Alcool Dénaturé, Extrait d'Aesculus Hippocastanum, Extrait de Centella Asiatica, Extrait de Racine de Ruscus Aculeatus, Extrait de Culture de Callus de Symphytum Officinale, Extrait de Fleur de Chamomilla Recutita, Niacinamide, Troxérutine, Caféine, Urée, Arginine, Copolymère d'Ammonium Acryloyldiméthyltaurate/VP, Acide Salicylique, Menthol, Allantoïne, Hyaluronate de Sodium, Phénoxyéthanol, Éthylhexylglycérine, Disodium EDTА",
+    "compound": "Aqua, glycérine, propylène glycol, alcool dénat., extrait de marron d’inde, extrait de centella asiatica, extrait de racine de ruscus aculeatus, extrait de culture cellulaire de symphytum officinale, extrait de fleur de camomille, niacinamide, troxérutine, caféine, urée, arginine, copolymère d’ammonium acryloyldimethyltaurate/vp, acide salicylique, menthol, allantoïne, hyaluronate de sodium, phénoxyéthanol, éthylhexylglycérine, disodium edta.",
     "usage": "Appliquer par de légers massages pendant 3-5 minutes, 2 fois par jour. Faire un test de tolérance cutanée avant utilisation. Utiliser 1 à 2 fois par jour",
     "contraindications": "intolérance individuelle à tout ingrédient. Réservé aux adultes, interdit aux moins de 18 ans. Tenir hors de portée des enfants",
     "manufacturer": "Dalmatika (Bulgarie)",
@@ -2002,8 +2002,8 @@
       "salePrice": "24",
       "newPrice": "77"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "24",
       "newPrice": "139"
     },
@@ -2012,13 +2012,13 @@
       "salePrice": "26",
       "newPrice": "75"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "25",
       "newPrice": "73"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "26",
       "newPrice": "82"
     },
@@ -2032,8 +2032,8 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
     }
@@ -4379,10 +4379,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Louis De Keyser",
         "text": "C'est un bon produit, efficace. Il est efficace et ne provoque pas d'effets secondaires. Après le cours, il a permis d'éliminer complètement le problème.",
@@ -4410,11 +4410,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Robert Van Impe",
-        "text": "J'avais des problèmes pour aller aux toilettes, Feronex m'a aidé à les éliminer. La douleur a disparu, l'érection est devenue meilleure et plus longue. Il n'y a pas d'accoutumance ni d'effets secondaires.",
+        "text": "J'avais des problèmes pour aller aux toilettes, Urosaf m'a aidé à les éliminer. La douleur a disparu, l'érection est devenue meilleure et plus longue. Il n'y a pas d'accoutumance ni d'effets secondaires.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4439,11 +4439,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Herman Vanhout",
-        "text": "J'ai pris Feronex l'année dernière. Depuis, tout fonctionne parfaitement, mon «ami» est toujours prêt! Sans problèmes ni ratés!",
+        "text": "J'ai pris Urosaf l'année dernière. Depuis, tout fonctionne parfaitement, mon «ami» est toujours prêt! Sans problèmes ni ratés!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4468,8 +4468,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Stella De Muer",
         "text": "Je l'ai commandé pour mon mari quand les problèmes sont apparus. Ça a aidé! Mon mari est enfin redevenu tel que je me souviens de lui dans sa jeunesse. Actif, sûr de lui et passionné!",
@@ -4497,8 +4497,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Lucien Claes",
         "text": "Il agit presque immédiatement, tout en ayant un effet cumulatif. Après le traitement, il n'y a plus eu de problèmes d'érection.",
@@ -4526,8 +4526,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Panfil Van Laer",
         "text": "L'effet est là, on peut le combiner avec de l'alcool, je n'ai pas constaté d'effets secondaires. Je l'ai utilisé comme alternative aux stimulants, et après le cours, ceux-ci ne sont plus nécessaires.",
@@ -4555,11 +4555,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Kataria Vandenbroucke",
-        "text": "Mon mari a 56 ans, il est difficile d'éviter les problèmes «masculins» à cet âge. Merci à Feronex qui l'a aidé à les surmonter et à se sentir à nouveau jeune et en bonne santé!",
+        "text": "Mon mari a 56 ans, il est difficile d'éviter les problèmes «masculins» à cet âge. Merci à Urosaf qui l'a aidé à les surmonter et à se sentir à nouveau jeune et en bonne santé!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4584,11 +4584,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Richard Fontaine",
-        "text": "Avec l'âge, ma puissance a commencé à faiblir et mon désir à s'éteindre. J'ai décidé d'essayer Feronex. L'effet m'a impressionné! Si on suit un cours tous les six mois, on peut éviter les problèmes masculins.",
+        "text": "Avec l'âge, ma puissance a commencé à faiblir et mon désir à s'éteindre. J'ai décidé d'essayer Urosaf. L'effet m'a impressionné! Si on suit un cours tous les six mois, on peut éviter les problèmes masculins.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4613,11 +4613,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Klaus De Backer",
-        "text": "Contrairement aux stimulants courants et bien connus, Feronex ne provoque pas de maux de tête. L'effet s'améliore de jour en jour, c'est-à-dire qu'après la cure, vous n'avez plus besoin de prendre quoi que ce soit, vous êtes toujours prêt!",
+        "text": "Contrairement aux stimulants courants et bien connus, Urosaf ne provoque pas de maux de tête. L'effet s'améliore de jour en jour, c'est-à-dire qu'après la cure, vous n'avez plus besoin de prendre quoi que ce soit, vous êtes toujours prêt!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4642,11 +4642,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Amélie De Schrijver",
-        "text": "Mon mari a commencé à avoir des problèmes liés au stress au travail. Un spécialiste de notre connaissance lui a recommandé Feronex. Le produit a aidé! Nos relations intimes ont repris, elles sont plus longues, plus fréquentes et meilleures!",
+        "text": "Mon mari a commencé à avoir des problèmes liés au stress au travail. Un spécialiste de notre connaissance lui a recommandé Urosaf. Le produit a aidé! Nos relations intimes ont repris, elles sont plus longues, plus fréquentes et meilleures!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4671,11 +4671,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Venera Vermeulen",
-        "text": "Mon mari prenait depuis longtemps des comprimés stimulants. Les effets secondaires étaient l'irritabilité et les maux de tête. J'ai insisté pour qu'il passe à Feronex. Six mois ont passé, le cours est terminé, et mon mari n'a plus besoin d'« aide » avant les rapports sexuels!",
+        "text": "Mon mari prenait depuis longtemps des comprimés stimulants. Les effets secondaires étaient l'irritabilité et les maux de tête. J'ai insisté pour qu'il passe à Urosaf. Six mois ont passé, le cours est terminé, et mon mari n'a plus besoin d'« aide » avant les rapports sexuels!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4700,11 +4700,11 @@
         ]
       },
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Charles Van Loock",
-        "text": "J'ai commandé Feronex par curiosité. Mais l'effet m'a impressionné ! En plus, la livraison a été rapide et le produit était bien emballé.",
+        "text": "J'ai commandé Urosaf par curiosité. Mais l'effet m'a impressionné ! En plus, la livraison a été rapide et le produit était bien emballé.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4729,8 +4729,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Christophe De Ryck",
         "text": "Un produit efficace et sûr pour la santé masculine. Et à un prix abordable ! Je n'ai constaté aucun effet secondaire.",
@@ -4758,8 +4758,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Edmund Vanderveken",
         "text": "Une aide précieuse en cas de problèmes d'érection dus à diverses causes. Résultat à 100 %! Après le cours, j'ai oublié mes problèmes.",
@@ -4787,8 +4787,8 @@
         ]
       },
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;UROSAF",
         "rating_text": "Excellente qualité!",
         "name": "Eduardo De Muynck",
         "text": "L'effet est visible dès les premiers jours d'utilisation. Ma femme et moi avons commencé à nous isoler plus souvent. Elle est heureuse, satisfaite. Je me sens à nouveau jeune et capable de beaucoup de choses!",
@@ -4816,13 +4816,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Henriette De Vriendt",
-        "text": "Pendant des années, j'ai lutté contre les champignons aux pieds. Tous les remèdes n'avaient qu'un effet temporaire. Keramin m'a aidée à oublier définitivement ce problème. Maintenant, ma peau et mes ongles sont en bonne santé! Super!",
+        "text": "Pendant des années, j'ai lutté contre les champignons aux pieds. Tous les remèdes n'avaient qu'un effet temporaire. Demyxil m'a aidée à oublier définitivement ce problème. Maintenant, ma peau et mes ongles sont en bonne santé! Super!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4847,11 +4847,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Laura Van Damme",
-        "text": "J'ai récemment découvert que toute la peau de mon cou était couverte de papillomes. J'ai décidé d'essayer la crème Keramin. Ça m'a aidée. C'est un remède assez efficace. Je me suis rapidement débarrassée des papillomes, ma peau est devenue saine et hydratée!",
+        "text": "J'ai récemment découvert que toute la peau de mon cou était couverte de papillomes. J'ai décidé d'essayer la crème Demyxil. Ça m'a aidée. C'est un remède assez efficace. Je me suis rapidement débarrassée des papillomes, ma peau est devenue saine et hydratée!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4876,11 +4876,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Faina De Coster",
-        "text": "J'ai découvert des taches sur mes coudes, elles me démangeaient beaucoup et pelaient. Un spécialiste de ma connaissance m'a recommandé Keramin. C'est un excellent remède! J'ai ressenti un soulagement dès les premiers jours, et après le cours, le problème a complètement disparu.",
+        "text": "J'ai découvert des taches sur mes coudes, elles me démangeaient beaucoup et pelaient. Un spécialiste de ma connaissance m'a recommandé Demyxil. C'est un excellent remède! J'ai ressenti un soulagement dès les premiers jours, et après le cours, le problème a complètement disparu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4905,11 +4905,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Bianca Van Lerberghe",
-        "text": "J'ai une expérience positive avec la crème Keramin. C'est un produit excellent et efficace à base d'huiles! Il adoucit la peau et aide à lutter contre les mycoses.",
+        "text": "J'ai une expérience positive avec la crème Demyxil. C'est un produit excellent et efficace à base d'huiles! Il adoucit la peau et aide à lutter contre les mycoses.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4934,8 +4934,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Kevin De Clercq",
         "text": "Il est très efficace contre les problèmes dermatologiques. Ma femme a pu se débarrasser de ses papillomes et moi de mon psoriasis. Nous n'avons constaté aucun effet secondaire!",
@@ -4963,8 +4963,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Louise Vanneste",
         "text": "Après quelques semaines d'utilisation, il ne restait plus aucune trace de champignons. Tout a disparu. Les fissures ont disparu, les démangeaisons ont presque immédiatement disparu. Masque assez efficacement les odeurs désagréables!",
@@ -4992,11 +4992,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Oriella De Hoon",
-        "text": "Des problèmes de peau sont apparus en raison de troubles hormonaux. Sécheresse, fissures, démangeaisons, en particulier au niveau des genoux, de la tête et des coudes. Seul Keramin m'a aidé. Ma peau s'est complètement régénérée et les symptômes désagréables ont disparu dès les premiers jours!",
+        "text": "Des problèmes de peau sont apparus en raison de troubles hormonaux. Sécheresse, fissures, démangeaisons, en particulier au niveau des genoux, de la tête et des coudes. Seul Demyxil m'a aidé. Ma peau s'est complètement régénérée et les symptômes désagréables ont disparu dès les premiers jours!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5021,8 +5021,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Robert Van Aelst",
         "text": "C'est un bon anti-inflammatoire. Il ne provoque pas de sensations désagréables après application. Ça marche!",
@@ -5050,8 +5050,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Bobby De Vos",
         "text": "Merci pour cette crème de qualité et efficace, la livraison rapide et les conseils. Je reviendrai!",
@@ -5079,8 +5079,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Tine Van Eyck",
         "text": "Aide à nettoyer rapidement la peau des papillomes, ne laisse pas de cicatrices. Après le cours d'utilisation, les excroissances ont cessé de se former sur le cou, les épaules et les aisselles.",
@@ -5108,8 +5108,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Vera De Loor",
         "text": "Excellente crème antifongique! Dès les premiers jours, elle élimine les démangeaisons et les odeurs désagréables. Avec le temps, la peau s'est complètement régénérée et restaurée. Je recommande!",
@@ -5137,8 +5137,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Patricia De Muer",
         "text": "L'effet m'a agréablement impressionnée! Chaque jour, les taches diminuaient et les fissures cicatrisaient. Je suis très satisfaite du résultat!",
@@ -5166,8 +5166,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Lorena Van Ranst",
         "text": "Je ne connais rien de plus efficace contre les mycoses des ongles. Élimine la délamination de la plaque, l'ongle endommagé se reconstitue et repousse en parfaite santé. Un seul cours a suffi!",
@@ -5195,8 +5195,8 @@
         ]
       },
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Dorian De Ryck",
         "text": "Un remède efficace à base d'ingrédients naturels. Des changements visibles et tangibles dès les premiers jours d'utilisation. Au cours de l'année dernière, je n'ai eu aucune récidive de psoriasis.",
@@ -5224,11 +5224,11 @@
         ]
       },
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEMYXIL",
         "rating_text": "Excellente qualité!",
         "name": "Karine De Saedeleer",
-        "text": "La meilleure crème pour les problèmes dermatologiques. J'ai apprécié son efficacité dans la lutte contre les champignons et les papillomes. Grâce à Keramin, ma peau est en parfaite santé!",
+        "text": "La meilleure crème pour les problèmes dermatologiques. J'ai apprécié son efficacité dans la lutte contre les champignons et les papillomes. Grâce à Demyxil, ma peau est en parfaite santé!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5253,13 +5253,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Margarite De Bie",
-        "text": "Je viens de commander le gel Neoveris. Il a un effet rafraîchissant agréable après application. Après quelques jours, j'ai déjà remarqué un effet initial.",
+        "text": "Je viens de commander le gel Vasaxal. Il a un effet rafraîchissant agréable après application. Après quelques jours, j'ai déjà remarqué un effet initial.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5284,8 +5284,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Lucie Van Hecke",
         "text": "C'est un gel efficace qui soulage la lourdeur et la fatigue des jambes. La douleur lancinante et la douleur lors de la marche ont disparu, je continue à l'utiliser.",
@@ -5313,8 +5313,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Ariadne De Munck",
         "text": "Le gonflement et la lourdeur dans les jambes ont disparu, les crampes ont cessé de me gêner et les veines sont moins visibles. Je recommande!",
@@ -5342,8 +5342,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Laila Van Ransbeeck",
         "text": "Excellent produit efficace, livraison rapide, conseillers agréables. Merci!",
@@ -5371,11 +5371,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Philippe De Greef",
-        "text": "J'ai acheté Neoveris pour ma mère, elle en est très satisfaite. Elle dit que c'est beaucoup plus facile, ses jambes sont moins enflées et ne lui font plus mal!",
+        "text": "J'ai acheté Vasaxal pour ma mère, elle en est très satisfaite. Elle dit que c'est beaucoup plus facile, ses jambes sont moins enflées et ne lui font plus mal!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5400,8 +5400,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Véronique Vannoppen",
         "text": "Les varicosités sur les jambes sont devenues presque invisibles, cela soulage la douleur et prévient l'enflure. Ça aide vraiment!",
@@ -5429,8 +5429,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Victoria De Winter",
         "text": "Texture agréable et légère, composants végétaux, prix abordable. Et surtout, il est efficace!",
@@ -5458,8 +5458,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Thomas Van Calster",
         "text": "Il a prévenu l'inflammation des veines et rapidement éliminé la douleur. Les crampes nocturnes ont disparu. Même après une journée difficile, je ne ressens ni lourdeur ni gonflement.",
@@ -5487,11 +5487,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Gloria De Vosse",
-        "text": "Neoveris a redonné de la légèreté à mes jambes. Les veines ont cessé de s'enflammer, les varicosités ont disparu. Effet très agréable après application.",
+        "text": "Vasaxal a redonné de la légèreté à mes jambes. Les veines ont cessé de s'enflammer, les varicosités ont disparu. Effet très agréable après application.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5516,11 +5516,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Christophe Van Houtem",
-        "text": "Je fais beaucoup de sport, ce qui provoque des ecchymoses et des douleurs aux jambes. Après avoir utilisé Neoveris, ce problème a disparu. La douleur s'estompe, même après l'effort, je n'ai plus de problèmes.",
+        "text": "Je fais beaucoup de sport, ce qui provoque des ecchymoses et des douleurs aux jambes. Après avoir utilisé Vasaxal, ce problème a disparu. La douleur s'estompe, même après l'effort, je n'ai plus de problèmes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5545,11 +5545,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Frédérique De Roover",
-        "text": "J'ai découvert le gel Neoveris récemment. Il y a beaucoup d'avis positifs. J'ai immédiatement ressenti les résultats, la lourdeur a disparu, les veines sont moins gonflées. Je suis satisfaite!",
+        "text": "J'ai découvert le gel Vasaxal récemment. Il y a beaucoup d'avis positifs. J'ai immédiatement ressenti les résultats, la lourdeur a disparu, les veines sont moins gonflées. Je suis satisfaite!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5574,11 +5574,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Jeannette Van Kerckhoven",
-        "text": "J'ai depuis longtemps des problèmes de veines, c'est héréditaire. J'avais très peur de l'opération, mais Neoveris m'a aidée à l'éviter. Les veines sont moins visibles, la sensation de lourdeur et la douleur ont disparu, les crampes ont cessé.",
+        "text": "J'ai depuis longtemps des problèmes de veines, c'est héréditaire. J'avais très peur de l'opération, mais Vasaxal m'a aidée à l'éviter. Les veines sont moins visibles, la sensation de lourdeur et la douleur ont disparu, les crampes ont cessé.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5603,8 +5603,8 @@
         ]
       },
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Ursula De Meester",
         "text": "Bon résultat! J'ai immédiatement ressenti un soulagement agréable. J'ai dormi toute la nuit sans crampes ni douleur. Je vais continuer à l'utiliser.",
@@ -5632,11 +5632,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Ramona Van Zeebroeck",
-        "text": "Neoveris est le meilleur produit que j'ai essayé. J'étais déjà déçue par les gels et les crèmes, mais après Neoveris, j'ai compris qu'un bon produit pouvait aider à lutter contre la dilatation des veines!",
+        "text": "Vasaxal est le meilleur produit que j'ai essayé. J'étais déjà déçue par les gels et les crèmes, mais après Vasaxal, j'ai compris qu'un bon produit pouvait aider à lutter contre la dilatation des veines!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5661,11 +5661,11 @@
         ]
       },
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;VASAXAL",
         "rating_text": "Excellente qualité!",
         "name": "Ernest De Wulf",
-        "text": "Ma femme utilise Neoveris, elle a des problèmes de veines depuis sa jeunesse. Elle est satisfaite du résultat. Depuis six mois, elle ne se plaint plus de sa santé et les veines sont presque invisibles sur ses jambes.",
+        "text": "Ma femme utilise Vasaxal, elle a des problèmes de veines depuis sa jeunesse. Elle est satisfaite du résultat. Depuis six mois, elle ne se plaint plus de sa santé et les veines sont presque invisibles sur ses jambes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9770,13 +9770,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Delphine Janssens",
-        "text": "Rectin est un gel excellent. En une semaine, tous les symptômes d’hémorroïdes ont disparu. Aucune suppositoire ne peut se comparer. Mon spécialiste me l’a conseillé, et j’ai une grande confiance en lui.",
+        "text": "Vasos Duo est un gel excellent. En une semaine, tous les symptômes d’hémorroïdes ont disparu. Aucune suppositoire ne peut se comparer. Mon spécialiste me l’a conseillé, et j’ai une grande confiance en lui.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9801,11 +9801,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Germaine Lemaire",
-        "text": "J’ai vécu avec ce cauchemar pendant 5 ans. Au début, c’était léger: juste des démangeaisons, un inconfort. Puis sont venus les crises, les ecchymoses, une douleur intense. J’ai essayé des crèmes et des suppositoires, rien n’a aidé. Grâce à Rectin, en un mois, tout avait disparu.",
+        "text": "J’ai vécu avec ce cauchemar pendant 5 ans. Au début, c’était léger: juste des démangeaisons, un inconfort. Puis sont venus les crises, les ecchymoses, une douleur intense. J’ai essayé des crèmes et des suppositoires, rien n’a aidé. Grâce à Vasos Duo, en un mois, tout avait disparu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9830,11 +9830,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Béatrice Martin",
-        "text": "J’avais des problèmes d’hémorroïdes depuis presque un an. J’ai essayé des pommades, des suppositoires et même des remèdes traditionnels. Je pensais que je vivrais ainsi toute ma vie. Mais deux semaines après le début de Rectin, tout avait disparu ! Je suis très satisfaite.",
+        "text": "J’avais des problèmes d’hémorroïdes depuis presque un an. J’ai essayé des pommades, des suppositoires et même des remèdes traditionnels. Je pensais que je vivrais ainsi toute ma vie. Mais deux semaines après le début de Vasos Duo, tout avait disparu ! Je suis très satisfaite.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9859,11 +9859,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Alexandra Lambert",
-        "text": "Les hémorroïdes sont apparus après un cours d’antibiotiques. J’avais deux nodules. Le spécialiste m’a prescrit des suppositoires : au début ça allait mieux, puis la douleur est revenue, aller aux toilettes était devenu insupportable. J’ai lu beaucoup de bons avis sur Rectin et j’ai décidé d’essayer. Après le cours, j’ai complètement éliminé le problème. Un gel merveilleux!",
+        "text": "Les hémorroïdes sont apparus après un cours d’antibiotiques. J’avais deux nodules. Le spécialiste m’a prescrit des suppositoires : au début ça allait mieux, puis la douleur est revenue, aller aux toilettes était devenu insupportable. J’ai lu beaucoup de bons avis sur Vasos Duo et j’ai décidé d’essayer. Après le cours, j’ai complètement éliminé le problème. Un gel merveilleux!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9888,11 +9888,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Georges Dupuis",
-        "text": "Rectin renforce les parois des vaisseaux sanguins et soulage la douleur. Avant de l’utiliser, j’ai consulté une spécialiste, une amie, qui l’a approuvé. Aucun médicament chimique populaire ne peut aider autant que ce gel à base de plantes.",
+        "text": "Vasos Duo renforce les parois des vaisseaux sanguins et soulage la douleur. Avant de l’utiliser, j’ai consulté une spécialiste, une amie, qui l’a approuvé. Aucun médicament chimique populaire ne peut aider autant que ce gel à base de plantes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9917,11 +9917,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Lucien Petit",
-        "text": "Le spécialiste a découvert deux énormes nodules chez moi et m’a prescrit un cours de Rectin. L’effet est apparu trois jours après le début de l’application. Le gel a un léger effet rafraîchissant, il soulage la douleur, les démangeaisons et l’inconfort.",
+        "text": "Le spécialiste a découvert deux énormes nodules chez moi et m’a prescrit un cours de Vasos Duo. L’effet est apparu trois jours après le début de l’application. Le gel a un léger effet rafraîchissant, il soulage la douleur, les démangeaisons et l’inconfort.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9946,11 +9946,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Stéphanie Morel",
-        "text": "J’avais un stade avancé d’hémorroïdes, une opération était prévue. Mais ma sœur m’a conseillé d’essayer Rectin. Je l’ai utilisé pendant un mois et demi: l’inflammation et les nodules ont disparu, la douleur et l’irritation se sont envolées.",
+        "text": "J’avais un stade avancé d’hémorroïdes, une opération était prévue. Mais ma sœur m’a conseillé d’essayer Vasos Duo. Je l’ai utilisé pendant un mois et demi: l’inflammation et les nodules ont disparu, la douleur et l’irritation se sont envolées.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9975,11 +9975,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Éléonore Michiels",
-        "text": "Les hémorroïdes sont apparus après l’accouchement. J’ai utilisé Rectin pendant un mois, ce temps a suffi pour me débarrasser complètement du problème. Les nodules ont commencé à disparaître, mes selles se sont normalisées, la douleur a disparu, je n'ai plus aucune sensation désagréable. Je le recommande de tout cœur!",
+        "text": "Les hémorroïdes sont apparus après l’accouchement. J’ai utilisé Vasos Duo pendant un mois, ce temps a suffi pour me débarrasser complètement du problème. Les nodules ont commencé à disparaître, mes selles se sont normalisées, la douleur a disparu, je n'ai plus aucune sensation désagréable. Je le recommande de tout cœur!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10004,11 +10004,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Marie De Clercq",
-        "text": "Rectin est un très bon produit, il fonctionne vraiment et aide. J’avais une constipation sévère et des hémorroïdes se sont développés. Une amie me l’a conseillé, je lui suis très reconnaissante. Tout est passé!",
+        "text": "Vasos Duo est un très bon produit, il fonctionne vraiment et aide. J’avais une constipation sévère et des hémorroïdes se sont développés. Une amie me l’a conseillé, je lui suis très reconnaissante. Tout est passé!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10033,11 +10033,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Dimitri Lefebvre",
-        "text": "L’utilisation du gel est très pratique. Bien mieux que les suppositoires et les pommades grasses. L’effet est excellent : Rectin soulage l’inflammation et la douleur, renforce les parois des vaisseaux et élimine tous les symptômes d’hémorroïdes. Je le recommande à tous ceux qui ont ce problème.",
+        "text": "L’utilisation du gel est très pratique. Bien mieux que les suppositoires et les pommades grasses. L’effet est excellent : Vasos Duo soulage l’inflammation et la douleur, renforce les parois des vaisseaux et élimine tous les symptômes d’hémorroïdes. Je le recommande à tous ceux qui ont ce problème.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10062,11 +10062,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Gloria Huybrechts",
-        "text": "J’avais des hémorroïdes de grade 2. Le spécialiste prescrivait des suppositoires et une pommade, à prendre matin et soir pendant 10 jours. Cela m’a aidée, mais ensuite il a insisté pour une opération. Heureusement, j’ai trouvé le gel Rectin à temps. Après le course, j’ai oublié ce problème comme un mauvais souvenir.",
+        "text": "J’avais des hémorroïdes de grade 2. Le spécialiste prescrivait des suppositoires et une pommade, à prendre matin et soir pendant 10 jours. Cela m’a aidée, mais ensuite il a insisté pour une opération. Heureusement, j’ai trouvé le gel Vasos Duo à temps. Après le course, j’ai oublié ce problème comme un mauvais souvenir.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10091,11 +10091,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Priscilla Van Damme",
-        "text": "Ce problème est apparu après mon deuxième accouchement. J’ai lu beaucoup d’informations sur Internet, j’ai essayé divers remèdes, mais tout était inutile. Seul Rectin m’a aidée. J’ai même gardé une boîte de réserve «au cas où».",
+        "text": "Ce problème est apparu après mon deuxième accouchement. J’ai lu beaucoup d’informations sur Internet, j’ai essayé divers remèdes, mais tout était inutile. Seul Vasos Duo m’a aidée. J’ai même gardé une boîte de réserve «au cas où».",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10120,11 +10120,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Julien Caradec",
-        "text": "Je cherchais depuis longtemps un produit à base de troxérutine. Il a une action anti-inflammatoire et anti-œdème, c’est l’ingrédient actif le plus efficace à ce jour. J’ai trouvé Rectin, je l’ai utilisé pendant 2 semaines, et je n’ai plus d’hémorroïdes.",
+        "text": "Je cherchais depuis longtemps un produit à base de troxérutine. Il a une action anti-inflammatoire et anti-œdème, c’est l’ingrédient actif le plus efficace à ce jour. J’ai trouvé Vasos Duo, je l’ai utilisé pendant 2 semaines, et je n’ai plus d’hémorroïdes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10149,11 +10149,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Nathalie Artois",
-        "text": "Un fort inconfort est apparu, le spécialiste a découvert un nodule. J’étais sous le choc ! Il m’a conseillé de manger plus de fibres, d’éviter la constipation et a prescrit une pommade. À la maison, ma mère m’a dit qu’elle s’était débarrassée des hémorroïdes grâce au gel Rectin. J’ai suivi le cours et les symptômes ont disparu en quelques jours. Lors du contrôle suivant, le spécialiste a confirmé que le problème n’existait plus.",
+        "text": "Un fort inconfort est apparu, le spécialiste a découvert un nodule. J’étais sous le choc ! Il m’a conseillé de manger plus de fibres, d’éviter la constipation et a prescrit une pommade. À la maison, ma mère m’a dit qu’elle s’était débarrassée des hémorroïdes grâce au gel Vasos Duo. J’ai suivi le cours et les symptômes ont disparu en quelques jours. Lors du contrôle suivant, le spécialiste a confirmé que le problème n’existait plus.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10178,11 +10178,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Geneviève Bodard",
-        "text": "Les symptômes des hémorroïdes sont vraiment insupportables, ce n’est pas seulement des démangeaisons, mais une douleur véritablement intolérable! À mon avis, le gel Rectin n’a pas de concurrents, c’est sans aucun doute le meilleur produit inventé jusqu’à présent.",
+        "text": "Les symptômes des hémorroïdes sont vraiment insupportables, ce n’est pas seulement des démangeaisons, mais une douleur véritablement intolérable! À mon avis, le gel Vasos Duo n’a pas de concurrents, c’est sans aucun doute le meilleur produit inventé jusqu’à présent.",
         "stars": [
           {
             "src": "img/svg/star.svg",

@@ -583,11 +583,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -612,8 +612,8 @@
       ],
       "text": "311 recenzii",
       "desc": "Un remediu complex pe bază de plante pentru creșterea potenței, rezistenței și fertilității bărbaților la orice vârstă.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -656,11 +656,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -685,18 +685,18 @@
       ],
       "text": "234 recenzii",
       "desc": "Gel cu extracte naturale care vizează combaterea manifestărilor venelor varicoase.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -721,8 +721,8 @@
       ],
       "text": "301 recenzii",
       "desc": "O cremă cu acțiune bactericidă care vizează combaterea manifestărilor ciupercii.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "MAI DETALIAT"
     },
@@ -801,12 +801,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -831,8 +831,8 @@
       ],
       "text": "267 recenzí",
       "desc": "Description.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "MAI DETALIAT"
     }
@@ -1355,13 +1355,13 @@
       "niche": "Direcție: Articulații"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1423,13 +1423,13 @@
       "niche": "Direcție: Articulații"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1457,13 +1457,13 @@
       "niche": "Direcție: Varice"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1559,13 +1559,13 @@
       "niche": "Direcție: Niche"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1789,15 +1789,15 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "Pentru sănătate",
     "review_count": "311 recenzii",
     "niche": "Potență",
-    "form_factor": "capsule într-un borcan, 20 buc.",
+    "form_factor": "capsule în blister, 10 buc",
     "short_description": "Un remediu complex pe bază de plante pentru creșterea potenței, rezistenței și fertilității bărbaților la orice vârstă.",
     "description": "Capsule cu un complex de extracte naturale și zinc. Acțiunea remediului vizează completarea substanțelor lipsă în organism, care sunt dificil de obținut cu alimente și care afectează: îmbunătățirea circulației sângelui; influențează asupra erecției; crește producția testosteronului; crește rezistența organismului; afectează sănătatea sistemului genito-urinar și a prostatei.",
-    "compound": "Extract de fructe Saw Palmetto (Serenoa repens 5:1), extract de rădăcină de urzică (Urtica dioica, 1% Beta-Sitosterol), extract de fructe de Tribulus terrestris, 40% saponine, extract de rădăcină de Maca (Lepidium meyenii 10:1), zinc (citrat de zinc) Excipienți: umplutură: celuloză microcristală, stearat de magneziu, agent antiaglomerant: dioxid de siliciu. Compoziția învelișului capsulei: gelatină.",
+    "compound": "Extract de rădăcină de maca (Lepidium meyenii 4:1) – 60 mg, extract de merișor (Vaccinium macrocarpon, 35 % proantocianidine) – 53 mg, extract din fructe de palmier pitic (Serenoa repens 5:1) – 50 mg, extract de rădăcină de urzică (Urtica dioica, 1 % beta-sitosterol) – 40 mg, zinc (citrat de zinc trihidrat) – 5 mg.",
     "usage": "1 capsulă de 1-2 ori pe zi în timpul sau după mese.",
     "contraindications": "Intoleranță individuală la componente. Nu este destinat copiilor, femeilor însărcinate și care alăptează.",
     "manufacturer": "Dalmatika (Bulgaria)",
@@ -1819,30 +1819,30 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "Pentru sănătate",
     "review_count": "234 recenzii",
     "niche": "Varice",
     "form_factor": "gel într-un tub, 30 ml.",
     "short_description": "Gel cu extracte naturale care vizează combaterea manifestărilor venelor varicoase.",
     "description": "Un remediu pentru varice care ameliorează în siguranță simptomele și previne dezvoltarea varicelor, datorită acțiunii dovedite a componentelor selectate de profesioniști.",
-    "compound": "Aqua, Glicerina, Propilen Glicol, Alcool Denat, Extract de Aesculus Hippocastanum, Extract de Centella Asiatica, Extract de rădăcină de Ruscus Aculeatus, Extract de cultură de calus Symphytum Officinale, Extract de floare de Chamomilla Recutita, Niacinamidă, Troxerutin, Cofeină, Uree, Amonietil Copuraloil/Amonim Copolimer Arginina/VP, acid salicilic, mentol, alantoină, hialuronat de sodiu, fenoxietanol, etilhexilglicerină, EDTА disodic.",
+    "compound": "Aqua, glicerină, propilenglicol, alcool denaturat, extract de castan sălbatic, extract de Centella Asiatica, extract de rădăcină de Ruscus Aculeatus, extract de cultură de calus Symphytum Officinale, extract de floare de mușețel, niacinamidă, cofeină, uree, arginină, copolimer de amoniu acryloyldimethyltaurate/VP, acid salicilic, mentol, alantoină, hialuronat de sodiu, fenoxietanol, etilhexilglicerină, disodiu EDTA.",
     "usage": "Aplicați cu mișcări ușoare de masaj timp de 3-5 minute de 2 ori pe zi. Înainte de aplicare, efectuați un test de toleranță pe piele.",
     "contraindications": "Intoleranță individuală la componente. Evitați contactul cu ochii. Nu se aplică copiilor sub trei ani și direct la răni deschise.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 de ani",
     "keep": "păstrați la o temperatură cuprinsă între 0 și 25 și 25, departe de lumina directă a soarelui și umiditate."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "Pentru sănătate",
     "review_count": "301 recenzii",
     "niche": "Ciupercă",
-    "form_factor": "cremă într-un tub, 30 ml.",
+    "form_factor": "cremă, 30 ml",
     "short_description": "O cremă cu acțiune bactericidă care vizează combaterea manifestărilor ciupercii.",
     "description": "Promovează microflora normală și are un efect calmant asupra pielii. Ea are un efect keratolitic și îndepărtează straturile moarte ale pielii. Are efect de hidratare și înmuiere a pielii. Contribuie și stimulează reînnoirea celulelor epidermice.",
-    "compound": "Apă, Glicerină, Alcool Cetearilic, Paraffinum Liquidum, Stearat PEG-100, Stearat de Gliceril, Trigliceride caprilice/Capric, Extract de floare de musețe recutita, unt de Butyrospermum Parkii, Niacinamidă, Oxid de zinc, Extract de propolis, Ulei de cocos Nucicloxacid, Ulei de salicicloxa,, Extract de scoarță de salcie albă, Extract de scoarță/frunze de Betula Alba, Ulei de lemn de Juniperus Oxycedrus, polisorbat 80, Ulei de frunze de Melaleuca Alternifolia, Ulei de mentha piperita, Gumă xantană, 4-terpineol, Piroctonă olamină, Fenoxietanol, Etilhexilglicerină, EDTА disodic, Linalol, Limonen.",
+    "compound": "Aqua, glicerină, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, extract de floare de mușețel, unt de butyrospermum parkii, niacinamidă, oxid de zinc, extract de propolis, ulei de cocos, sulf, alcloxa, acid salicilic, extract de scoarță de salcie albă, extract de scoarță/frunze de mesteacăn alb, ulei de lemn de ienupăr, polisorbate 80, ulei de frunze de melaleuca alternifolia, ulei de mentă piperită, gumă xantan, 4-terpineol, pirocton olamin, fenoxietanol, etilhexilglicerină, bht, disodiu edta, linalool, limonen.",
     "usage": "Aplicați pe pielea bine curățată și uscată a zonei afectate a corpului cu mișcări ușoare de masaj de jos în sus. Înainte de utilizare, asigurați-vă că faceți un test pentru toleranța componentelor produsului de către piele.",
     "contraindications": "Evitați contactul cu ochii. Nu aplicați copiilor sub 3 ani, femeilor însărcinate și care alăptează. Nu se aplică la răni deschise.",
     "manufacturer": "Dalmatika (Bulgaria)",
@@ -1879,15 +1879,15 @@
     "suitability": "suitability",
     "keep": "keep."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Category",
     "review_count": "333 recenzí",
     "niche": "Niche",
-    "form_factor": "form_factor",
+    "form_factor": "gel într-un tub, 30 ml.",
     "short_description": "short_description.",
     "description": "description.",
-    "compound": "compound.",
+    "compound": "Aqua, glicerină, propilenglicol, alcool denaturat, extract de castan sălbatic, extract de centella asiatica, extract de rădăcină de ruscus aculeatus, extract de cultură de calus symphytum officinale, extract de floare de mușețel, niacinamidă, troxerutin, cofeină, uree, arginină, copolimer de amoniu acryloyldimethyltaurate/vp, acid salicilic, mentol, alantoină, hialuronat de sodiu, fenoxietanol, etilhexilglicerină, disodiu edta.",
     "usage": "usage.",
     "contraindications": "contraindications.",
     "manufacturer": "manufacturer",
@@ -2008,8 +2008,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -2018,13 +2018,13 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "800",
       "newPrice": "111111"
     },
@@ -2038,8 +2038,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "800",
       "newPrice": "111111"
     }
@@ -4425,11 +4425,11 @@
         "text": "M-a ajutat să scap de ciupercă în câteva săptămâni! Starea pielii s-a îmbunătățit, unghiile cresc sănătoase și puternice. Aveți grijă atunci când alegeți un maestru de manichiură, este mai bine să aveți Desalix în stoc!"
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
+        "src": "img/review_urosaf_1.png",
         "name": "Lucian Druță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4457,9 +4457,9 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
+        "src": "img/review_urosaf_2.png",
         "name": "Robert Osteon",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4483,13 +4483,13 @@
             "type": "empty"
           }
         ],
-        "text": "Au existat probleme atunci când merg la toaletă, Feronex a ajutat la eliminarea. Durerea a dispărut, erecția a devenit mai bună și mai lungă. Nu provoacă dependență și efecte secundare."
+        "text": "Au existat probleme atunci când merg la toaletă, Urosaf a ajutat la eliminarea. Durerea a dispărut, erecția a devenit mai bună și mai lungă. Nu provoacă dependență și efecte secundare."
       },
 
       {
-        "src": "img/review_feronex_3.png",
+        "src": "img/review_urosaf_3.png",
         "name": "Gheorghe Stan",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4513,13 +4513,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am luat Feronex anul trecut. De atunci totul funcționează bine, \"prietenul\" este întotdeauna gata! Fără probleme și eșecuri!"
+        "text": "Am luat Urosaf anul trecut. De atunci totul funcționează bine, \"prietenul\" este întotdeauna gata! Fără probleme și eșecuri!"
       },
 
       {
-        "src": "img/review_feronex_4.png",
+        "src": "img/review_urosaf_4.png",
         "name": "Stela Cioban",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4547,9 +4547,9 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
+        "src": "img/review_urosaf_5.png",
         "name": "Lucrețiu Roșu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4577,9 +4577,9 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
+        "src": "img/review_urosaf_6.png",
         "name": "Panfil Opacu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4607,9 +4607,9 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
+        "src": "img/review_urosaf_7.png",
         "name": "Catalina Neamțu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4633,13 +4633,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu are 56 de ani, este greu să eviți problemele \"masculine\" la această vârstă. Vă mulțumim pentru Feronex, care l-a ajutat să facă față și să se simtă din nou tânăr și sănătos!"
+        "text": "Soțul meu are 56 de ani, este greu să eviți problemele \"masculine\" la această vârstă. Vă mulțumim pentru Urosaf, care l-a ajutat să facă față și să se simtă din nou tânăr și sănătos!"
       },
 
       {
-        "src": "img/review_feronex_8.png",
+        "src": "img/review_urosaf_8.png",
         "name": "Petru Movilă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4663,13 +4663,13 @@
             "type": "empty"
           }
         ],
-        "text": "Odată cu vârsta, potența a început să slăbească și dorința de a dispărea. Am decis să încerc Feronex. Efectul m-a impresionat! Dacă beți la fiecare șase luni cu cursuri, este posibil să nu întâmpinați probleme cu partea masculină."
+        "text": "Odată cu vârsta, potența a început să slăbească și dorința de a dispărea. Am decis să încerc Urosaf. Efectul m-a impresionat! Dacă beți la fiecare șase luni cu cursuri, este posibil să nu întâmpinați probleme cu partea masculină."
       },
 
       {
-        "src": "img/review_feronex_9.png",
+        "src": "img/review_urosaf_9.png",
         "name": "Emil Sandu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4693,13 +4693,13 @@
             "type": "empty"
           }
         ],
-        "text": "Spre deosebire de stimulentele răspândite și bine cunoscute, de la Feronex nu există dureri de cap. Efectul se îmbunătățește în fiecare zi, adică după curs puteți să nu mai lua nimic, sunteți întotdeauna gata!"
+        "text": "Spre deosebire de stimulentele răspândite și bine cunoscute, de la Urosaf nu există dureri de cap. Efectul se îmbunătățește în fiecare zi, adică după curs puteți să nu mai lua nimic, sunteți întotdeauna gata!"
       },
 
       {
-        "src": "img/review_feronex_10.png",
+        "src": "img/review_urosaf_10.png",
         "name": "Amelia Sava",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4723,13 +4723,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a început să aibă probleme din cauza stresului la locul de muncă. Un specialist familiar i-a recomandat Feronex. Remediul i-a ajutat! Intimitatea s-a întors, mai mult, mai des și mai bine!"
+        "text": "Soțul meu a început să aibă probleme din cauza stresului la locul de muncă. Un specialist familiar i-a recomandat Urosaf. Remediul i-a ajutat! Intimitatea s-a întors, mai mult, mai des și mai bine!"
       },
 
       {
-        "src": "img/review_feronex_11.png",
+        "src": "img/review_urosaf_11.png",
         "name": "Venera Petcu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4753,13 +4753,13 @@
             "type": "empty"
           }
         ],
-        "text": "Soțul meu a luat pastile stimulante de mult timp. Efectul secundar erau iritabilitatea și durerea de cap. Am insistat să-l înlocuiască cu Feronex. Au trecut șase luni, cursul s-a încheiat, iar soțul acum nu are nevoie de \"ajutor\" înainte de sex!"
+        "text": "Soțul meu a luat pastile stimulante de mult timp. Efectul secundar erau iritabilitatea și durerea de cap. Am insistat să-l înlocuiască cu Urosaf. Au trecut șase luni, cursul s-a încheiat, iar soțul acum nu are nevoie de \"ajutor\" înainte de sex!"
       },
 
       {
-        "src": "img/review_feronex_12.png",
+        "src": "img/review_urosaf_12.png",
         "name": "Ciprian Cioară",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4783,13 +4783,13 @@
             "type": "empty"
           }
         ],
-        "text": "Feronex am comandat de dragul interesului. Dar efectul a fost impresionant! Plus livrare rapidă și produsul a fost bine ambalat."
+        "text": "Urosaf am comandat de dragul interesului. Dar efectul a fost impresionant! Plus livrare rapidă și produsul a fost bine ambalat."
       },
 
       {
-        "src": "img/review_feronex_13.png",
+        "src": "img/review_urosaf_13.png",
         "name": "Cristian Călugăreanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4817,9 +4817,9 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
+        "src": "img/review_urosaf_14.png",
         "name": "Eduard Adamache",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4847,9 +4847,9 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
+        "src": "img/review_urosaf_15.png",
         "name": "Dan Panfil",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;FERONEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;UROSAF",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4876,11 +4876,11 @@
         "text": "Efect este din primele zile de aplicare. Am început să facem sex mai des cu soția. Ea este fericită, satisfăcută. Mă simt din nou tânăr și capabil de multe!"
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
+        "src": "img/review_demyxil_1.png",
         "name": "Ninuța Martin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4904,13 +4904,13 @@
             "type": "empty"
           }
         ],
-        "text": "Mă lupt cu ciuperca pe picioare de ani de zile. Toate remediile au avut doar un efect temporar. Keramin a ajutat să uite de această problemă pentru totdeauna. Acum, atât pielea, cât și unghiile sunt sănătoase! Excelent!"
+        "text": "Mă lupt cu ciuperca pe picioare de ani de zile. Toate remediile au avut doar un efect temporar. Demyxil a ajutat să uite de această problemă pentru totdeauna. Acum, atât pielea, cât și unghiile sunt sănătoase! Excelent!"
       },
 
       {
-        "src": "img/review_keramin_2.png",
+        "src": "img/review_demyxil_2.png",
         "name": "Anișoara Parpalac",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4934,13 +4934,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am descoperit recent că toată pielea de pe gât este acoperită cu papiloame. Am decis să încerc crema Keramin. A ajutat. Un instrument destul de eficient. A scăpat rapid de papilomi, pielea a devenit sănătoasă și hidratată!"
+        "text": "Am descoperit recent că toată pielea de pe gât este acoperită cu papiloame. Am decis să încerc crema Demyxil. A ajutat. Un instrument destul de eficient. A scăpat rapid de papilomi, pielea a devenit sănătoasă și hidratată!"
       },
 
       {
-        "src": "img/review_keramin_3.png",
+        "src": "img/review_demyxil_3.png",
         "name": "Feofania Flutur",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4964,13 +4964,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am găsit pete pe coate, era mâncărime și descuamare. Un specialist familiar a recomandat Keramin. Remediul este minunat! Relief din primele zile, iar după curs problema a dispărut complet."
+        "text": "Am găsit pete pe coate, era mâncărime și descuamare. Un specialist familiar a recomandat Demyxil. Remediul este minunat! Relief din primele zile, iar după curs problema a dispărut complet."
       },
 
       {
-        "src": "img/review_keramin_4.png",
+        "src": "img/review_demyxil_4.png",
         "name": "Beatrice Ruleanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -4994,13 +4994,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am o experiență pozitivă de a folosi crema Keramin. Un produs excelent și eficient cu uleiuri în compoziție! Înmoaie pielea și ajută la lupta împotriva ciupercilor."
+        "text": "Am o experiență pozitivă de a folosi crema Demyxil. Un produs excelent și eficient cu uleiuri în compoziție! Înmoaie pielea și ajută la lupta împotriva ciupercilor."
       },
 
       {
-        "src": "img/review_keramin_5.png",
+        "src": "img/review_demyxil_5.png",
         "name": "Catalin Sandu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5028,9 +5028,9 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
+        "src": "img/review_demyxil_6.png",
         "name": "Lucia Aurescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5058,9 +5058,9 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
+        "src": "img/review_demyxil_7.png",
         "name": "Olesia Pelin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5084,13 +5084,13 @@
             "type": "empty"
           }
         ],
-        "text": "Din cauza eșecurilor hormonale, s-au început probleme cu pielie. Uscăciune, fisuri, mâncărime, în special pe genunchi, cap și coate. Numai Keramin a ajutat. Pielea a fost complet reînnoită, iar simptomele neplăcute au dispărut din primele zile!"
+        "text": "Din cauza eșecurilor hormonale, s-au început probleme cu pielie. Uscăciune, fisuri, mâncărime, în special pe genunchi, cap și coate. Numai Demyxil a ajutat. Pielea a fost complet reînnoită, iar simptomele neplăcute au dispărut din primele zile!"
       },
 
       {
-        "src": "img/review_keramin_8.png",
+        "src": "img/review_demyxil_8.png",
         "name": "Radu Otilia",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5118,9 +5118,9 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
+        "src": "img/review_demyxil_9.png",
         "name": "Vasile Dumbră",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5148,9 +5148,9 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
+        "src": "img/review_demyxil_10.png",
         "name": "Teodora Trombă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5178,9 +5178,9 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
+        "src": "img/review_demyxil_11.png",
         "name": "Viorela Teșco",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5208,9 +5208,9 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
+        "src": "img/review_demyxil_12.png",
         "name": "Alina Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5238,9 +5238,9 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
+        "src": "img/review_demyxil_13.png",
         "name": "Loreta Bătrin",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5268,9 +5268,9 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
+        "src": "img/review_demyxil_14.png",
         "name": "Ghiță Matei",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5298,9 +5298,9 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
+        "src": "img/review_demyxil_15.png",
         "name": "Carmelia Dragoș",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;KERAMIN",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;DEMYXIL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5324,14 +5324,14 @@
             "type": "empty"
           }
         ],
-        "text": "Cea mai bună cremă pentru probleme dermatologice. Am evaluat eficacitatea atât în lupta împotriva ciupercilor, cât și a papiloamelor. Datorită Keramin, pielea mea este complet sănătoasă!"
+        "text": "Cea mai bună cremă pentru probleme dermatologice. Am evaluat eficacitatea atât în lupta împotriva ciupercilor, cât și a papiloamelor. Datorită Demyxil, pielea mea este complet sănătoasă!"
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
+        "src": "img/review_vasaxal_1.png",
         "name": "Margareta Diaconu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5355,13 +5355,13 @@
             "type": "empty"
           }
         ],
-        "text": "Tocmai am comandat recent gelul Neoveris. Are un efect plăcut de răcire după aplicare. Deja după câteva zile, a apărut o ușurință, există un efect inițial."
+        "text": "Tocmai am comandat recent gelul Vasaxal. Are un efect plăcut de răcire după aplicare. Deja după câteva zile, a apărut o ușurință, există un efect inițial."
       },
 
       {
-        "src": "img/review_neoveris_2.png",
+        "src": "img/review_vasaxal_2.png",
         "name": "Lucia Armă",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5389,9 +5389,9 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
+        "src": "img/review_vasaxal_3.png",
         "name": "Arina Ioniță",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5419,9 +5419,9 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
+        "src": "img/review_vasaxal_4.png",
         "name": "Liliana Dinescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5449,9 +5449,9 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
+        "src": "img/review_vasaxal_5.png",
         "name": "Florin Dabija",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5475,13 +5475,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am cumpărat Neoveris pentru mama mea, este foarte fericită. Spune că i-a devenit mult mai ușor, picioarele se umflă mai puțin și o nu o dor!"
+        "text": "Am cumpărat Vasaxal pentru mama mea, este foarte fericită. Spune că i-a devenit mult mai ușor, picioarele se umflă mai puțin și o nu o dor!"
       },
 
       {
-        "src": "img/review_neoveris_6.png",
+        "src": "img/review_vasaxal_6.png",
         "name": "Veronica Barbu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5509,9 +5509,9 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
+        "src": "img/review_vasaxal_7.png",
         "name": "Victoria Crețu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5539,9 +5539,9 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
+        "src": "img/review_vasaxal_8.png",
         "name": "Teodor Arghezi",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5569,9 +5569,9 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
+        "src": "img/review_vasaxal_9.png",
         "name": "Gloria Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5595,13 +5595,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris a redat ușurință picioarelor. Venele au încetat să se mai inflameze, rețelele vasculare au disparut. Un efect foarte plăcut după aplicare."
+        "text": "Vasaxal a redat ușurință picioarelor. Venele au încetat să se mai inflameze, rețelele vasculare au disparut. Un efect foarte plăcut după aplicare."
       },
 
       {
-        "src": "img/review_neoveris_10.png",
+        "src": "img/review_vasaxal_10.png",
         "name": "Cristian Maramureșu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5625,13 +5625,13 @@
             "type": "empty"
           }
         ],
-        "text": "Sunt implicat activ în sport, care provoacă vânătăi și dureri pe picioare. Astfel de probleme după utilizarea Neoveris nu există. Durerea dispare, chiar și după încărcături fără probleme."
+        "text": "Sunt implicat activ în sport, care provoacă vânătăi și dureri pe picioare. Astfel de probleme după utilizarea Vasaxal nu există. Durerea dispare, chiar și după încărcături fără probleme."
       },
 
       {
-        "src": "img/review_neoveris_11.png",
+        "src": "img/review_vasaxal_11.png",
         "name": "Adelina Șonda",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5655,13 +5655,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am aflat recent despre gelul Neoveris. Sunt foarte multe recenzii pozitive. Am simțit imediat rezultatul, greutatea a dispărut, venele nu mai sunt atât de umflate. Mulțumesc!"
+        "text": "Am aflat recent despre gelul Vasaxal. Sunt foarte multe recenzii pozitive. Am simțit imediat rezultatul, greutatea a dispărut, venele nu mai sunt atât de umflate. Mulțumesc!"
       },
 
       {
-        "src": "img/review_neoveris_12.png",
+        "src": "img/review_vasaxal_12.png",
         "name": "Raluca Ortenu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5685,13 +5685,13 @@
             "type": "empty"
           }
         ],
-        "text": "Am probleme cu venele mele de mult timp, le-am moștenit. Mi-a fost frică de operație teribil, dar Neoveris m-a ajutat la prevenirea acesteia. Venele au devenit mai puțin vizibile, greutatea și durerea au dispărut, convulsiile au trecut."
+        "text": "Am probleme cu venele mele de mult timp, le-am moștenit. Mi-a fost frică de operație teribil, dar Vasaxal m-a ajutat la prevenirea acesteia. Venele au devenit mai puțin vizibile, greutatea și durerea au dispărut, convulsiile au trecut."
       },
 
       {
-        "src": "img/review_neoveris_13.png",
+        "src": "img/review_vasaxal_13.png",
         "name": "Ursula Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5719,9 +5719,9 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
+        "src": "img/review_vasaxal_14.png",
         "name": "Paulina Munteanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5745,13 +5745,13 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris este cel mai bun din tot ceea ce am încercat. Am fost deja dezamăgit de geluri și creme, iar după Neoveris mi-am dat seama că un remediu bun poate ajuta în lupta împotriva extinderii venelor!"
+        "text": "Vasaxal este cel mai bun din tot ceea ce am încercat. Am fost deja dezamăgit de geluri și creme, iar după Vasaxal mi-am dat seama că un remediu bun poate ajuta în lupta împotriva extinderii venelor!"
       },
 
       {
-        "src": "img/review_neoveris_15.png",
+        "src": "img/review_vasaxal_15.png",
         "name": "Aurel Popa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;NEOVERIS",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;VASAXAL",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -5775,7 +5775,7 @@
             "type": "empty"
           }
         ],
-        "text": "Neoveris este folosit de soția mea, are probleme cu venele încă din tinerețe. Sunt mulțumit de rezultat. Nu s-a plâns de sănătate în ultimele șase luni, iar venele sunt aproape invizibile pe picioarele ei."
+        "text": "Vasaxal este folosit de soția mea, are probleme cu venele încă din tinerețe. Sunt mulțumit de rezultat. Nu s-a plâns de sănătate în ultimele șase luni, iar venele sunt aproape invizibile pe picioarele ei."
       }
     ],
     "reviews_ausen": [
@@ -10120,11 +10120,11 @@
         "text": "Comment text - Ophtalax"
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_1.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10148,13 +10148,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_2.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10178,13 +10178,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_3.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10208,13 +10208,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_4.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10238,13 +10238,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_5.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10268,13 +10268,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_6.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10298,13 +10298,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_7.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10328,13 +10328,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_8.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10358,13 +10358,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_9.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10388,13 +10388,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_10.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10418,13 +10418,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_11.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10448,13 +10448,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_12.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10478,13 +10478,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_13.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10508,13 +10508,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_14.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10538,13 +10538,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos_duo_15.png",
+        "name": "Name - vasos_duo",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos_duo",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10568,7 +10568,7 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos_duo"
       }
     ]
   }

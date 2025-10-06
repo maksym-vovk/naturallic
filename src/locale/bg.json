@@ -585,11 +585,11 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -614,8 +614,8 @@
       ],
       "text": "311 отзива",
       "desc": "Комплексен билков продукт за подобряване на потентността, издръжливостта и плодовитостта при мъжете на всяка възраст.",
-      "link": "feronex.html",
-      "tag": "feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
       "category": "health",
       "btn": "ПОДРОБНО"
     },
@@ -658,11 +658,11 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -687,18 +687,18 @@
       ],
       "text": "234 отзива",
       "desc": "Гел с натурални екстракти, насочени към борба с проявите на разширени вени.",
-      "link": "neoveris.html",
-      "tag": "neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
       "category": "health",
       "btn": "ПОДРОБНО"
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -723,8 +723,8 @@
       ],
       "text": "301 отзива",
       "desc": "Крем с бактерицидно действие, насочен към борба с проявите на гъбички.",
-      "link": "keramin.html",
-      "tag": "keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
       "category": "health",
       "btn": "ПОДРОБНО"
     },
@@ -802,12 +802,12 @@
     },
     {
       "label": "Хит",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -832,8 +832,8 @@
       ],
       "text": "267 отзива",
       "desc": "Продуктът на растителна основа укрепва стените на кръвоносните съдове и предотвратява развитието на хемороиди.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
       "category": "health",
       "btn": "ПОДРОБНО"
     }
@@ -1356,13 +1356,13 @@
       "niche": "Посока: Стави"
     },
     {
-      "link": "feronex.html",
-      "tag": "feronex",
-      "srcPhoto": "img/feronex.png",
-      "srcPhotoWebp": "img/feronex.webp",
-      "mobSrcPhoto": "img/feronex-mob.png",
-      "mobSrcPhotoWebp": "img/feronex-mob.webp",
-      "name": "Feronex",
+      "link": "urosaf.html",
+      "tag": "urosaf",
+      "srcPhoto": "img/urosaf.png",
+      "srcPhotoWebp": "img/urosaf.webp",
+      "mobSrcPhoto": "img/urosaf-mob.png",
+      "mobSrcPhotoWebp": "img/urosaf-mob.webp",
+      "name": "Urosaf",
       "narrow": true,
       "stars": [
         {
@@ -1424,13 +1424,13 @@
       "niche": "Посока: Стави"
     },
     {
-      "link": "neoveris.html",
-      "tag": "neoveris",
-      "srcPhoto": "img/neoveris.png",
-      "srcPhotoWebp": "img/neoveris.webp",
-      "mobSrcPhoto": "img/neoveris-mob.png",
-      "mobSrcPhotoWebp": "img/neoveris-mob.webp",
-      "name": "Neoveris",
+      "link": "vasaxal.html",
+      "tag": "vasaxal",
+      "srcPhoto": "img/vasaxal.png",
+      "srcPhotoWebp": "img/vasaxal.webp",
+      "mobSrcPhoto": "img/vasaxal-mob.png",
+      "mobSrcPhotoWebp": "img/vasaxal-mob.webp",
+      "name": "Vasaxal",
       "narrow": true,
       "stars": [
         {
@@ -1458,13 +1458,13 @@
       "niche": "Посока: Варикоза"
     },
     {
-      "link": "keramin.html",
-      "tag": "keramin",
-      "srcPhoto": "img/keramin.png",
-      "srcPhotoWebp": "img/keramin.webp",
-      "mobSrcPhoto": "img/keramin-mob.png",
-      "mobSrcPhotoWebp": "img/keramin-mob.webp",
-      "name": "Keramin",
+      "link": "demyxil.html",
+      "tag": "demyxil",
+      "srcPhoto": "img/demyxil.png",
+      "srcPhotoWebp": "img/demyxil.webp",
+      "mobSrcPhoto": "img/demyxil-mob.png",
+      "mobSrcPhotoWebp": "img/demyxil-mob.webp",
+      "name": "Demyxil",
       "narrow": true,
       "stars": [
         {
@@ -1560,13 +1560,13 @@
       "niche": "Посока: Зрение"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos_duo.html",
+      "tag": "vasos_duo",
+      "srcPhoto": "img/vasos_duo.png",
+      "srcPhotoWebp": "img/vasos_duo.webp",
+      "mobSrcPhoto": "img/vasos_duo-mob.png",
+      "mobSrcPhotoWebp": "img/vasos_duo-mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1791,15 +1791,15 @@
     "suitability": "2 години",
     "keep": "Съхранявайте на сухо място, недостъпно за деца, при температура не по-висока от +25°С."
   },
-  "feronex": {
-    "title": "Feronex",
+  "urosaf": {
+    "title": "Urosaf",
     "category": "За здравето",
     "review_count": "311 отзива",
     "niche": "Потентност",
-    "form_factor": "пластмасово бурканче / 20 капсули",
+    "form_factor": "капсули в блистер, 10 бр",
     "short_description": "Комплексен билков продукт за подобряване на потентността, издръжливостта и плодовитостта при мъжете на всяка възраст.",
     "description": "капсули с комплекс от естествени екстракти и цинк. Това е комплекс от естествени екстракти за предотвратяване на проблеми с пикочно-половата система, които всеки човек може да срещне, включително проблеми с либидото. Действието на агента е насочено към попълване на липсващите вещества в организма, които е трудно да се получат с храна и които влияят върху: подобряване на кръвообращението; влияят на ерекцията; увеличават производството на тестостерон; повишават издръжливостта на организма; влияят върху здравето на пикочно-половата система и простатата.",
-    "compound": "Екстракт от плодове на палмето (Serenoa repens 5:1); Екстракт от корен на коприва (Urtica dioica, 1% бета-ситостерол); Екстракт от корен на мака (Lepidium meyenii 10:1); Цинк (цинков цитрат).",
+    "compound": "Екстракт от корен мака (Lepidium meyenii 4:1) – 60 mg, екстракт от червена боровинка (Vaccinium macrocarpon, 35 % проантоцианидини) – 53 mg, екстракт от плод на палма сабал (Serenoa repens 5:1) – 50 mg, екстракт от корен на коприва (Urtica dioica, 1 % бета-ситостерол) – 40 mg, цинк (цитрат на цинка трихидрат) – 5 mg.",
     "usage": "1 капсула 1-2 пъти на ден по време или след хранене.",
     "contraindications": "Индивидуална непоносимост към някоя от съставките, детска възраст (под 18 години). Преди прием се препоръчва да се консултирате с лекар. Това не е лекарство. Не превишавайте препоръчителната дневна доза. Да се съхранява далеч от деца. Тази хранителна добавка не трябва да се използва като заместител на разнообразното хранене.",
     "manufacturer": "Dalmatika (България)",
@@ -1821,30 +1821,30 @@
     "suitability": "2 години",
     "keep": "Съхранявайте на сухо място, недостъпно за деца, при температура не по-висока от +25°С."
   },
-  "neoveris": {
-    "title": "Neoveris",
+  "vasaxal": {
+    "title": "Vasaxal",
     "category": "За здравето",
     "review_count": "234 отзива",
     "niche": "Варикоза",
     "form_factor": "гел в туба, 30 ml",
     "short_description": "Гел с натурални екстракти, насочени към борба с проявите на разширени вени.",
     "description": "Комплекс от билкови компоненти за нормализиране на състоянието на организма, регулиране на метаболизма и активиране на процесите на регенерация на кожата.",
-    "compound": "Вода, Глицерин, Пропилен гликол, Алкохол денат, Екстракт от Обикновен конски кестен, Екстракт от азиатска центела, Екстракт от корен на Бодлив залист, Екстракт от калусна култура на Черен оман, Екстракт от цветовете на фармацевтична лайка, Ниацинамид, Троксерутин, Кофеин, Урея, Аргинин, Амониев акрилотилдиметилтаурат /VP съполимер, Салицилова киселина, Ментол, Алантоин, Натриев хиалуронат, Феноксиетанол, Етилхексилглицерин, Динатриев едетат.",
+    "compound": "Aqua, глицерин, пропиленгликол, алкохол денат., екстракт от конски кестен, екстракт от Centella Asiatica, екстракт от корен на Ruscus Aculeatus, екстракт от култура на Symphytum Officinale, екстракт от цвят лайка, ниацинамид, кофеин, урея, аргинин, амониев acryloyldimethyltaurate/VP кополимер, салицилова киселина, ментол, алантоин, натриев хиалуронат, феноксиетанол, етилхексилглицерин, динатриев EDTA.",
     "usage": "да се нанася с леки масажни движения 3-5 минути 2 пъти на ден. Преди нанасяне направете тест за поносимост върху кожата си.",
     "contraindications": "индивидуална непоносимост към компонентите. Избягвайте контакт с очите. Да не се използва за деца под три години и директно върху отворени рани.",
     "manufacturer": "Dalmatika (България)",
     "suitability": "2 години",
     "keep": "Да се съхранява при температури от 0°C до 25°C, далеч от пряка слънчева светлина и влага."
   },
-  "keramin": {
-    "title": "Keramin",
+  "demyxil": {
+    "title": "Demyxil",
     "category": "За здравето",
     "review_count": "301 отзива",
     "niche": "Гъбички",
-    "form_factor": "картонена кутия, техническа инструкция, туба 30 ml",
+    "form_factor": "крем, 30 мл",
     "short_description": "Крем с бактерицидно действие, насочен към борба с проявите на гъбички.",
     "description": "Съдържа биоактивни компоненти с широк спектър от дерматологични и козметични свойства. Насърчава нормалната микрофлора и има успокояващ ефект върху кожата. Има кератолитичен ефект и премахва кератинизираните слоеве на кожата. Има ефект на овлажняване и омекотяване на кожата. Насърчава и стимулира обновяването на епидермалните клетки. Проектиран да поддържа нормалното състояние на кожата.",
-    "compound": "Вода, Глицерин, Цетеарилов алкохол, Течен парафин, PEG-100 стеарат, Глицерилов стеарат, Каприлов/Капринов триглицерид, Екстракт от цветя на фармацевтична лайка, Мало от ший, Ниацинамид, Цинков оксид, Екстракт от прополис, Масло от Кокосова палма, Сяра, Алантоин, Салицилова киселина, Екстракт от кората на Бяла върба, Екстракт от кората/листата на Бяла бреза, Дървесно масло от Червена хвойна,Полисорбат 80, Масло от листа на Чаено дърво, Масло от лютива мента, Гума ксантан, 4-Терпинеол, Пироктон оламин, Феноксиетанол, Етилхексилглицерин, BHT, Динатриев едетат, Линалол, Лимонен.",
+    "compound": "Aqua, глицерин, cetearyl alcohol, парафинум ликвидум, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, екстракт от цветове на лайка, масло от бутироспермум паркии, ниацинамид, цинков оксид, екстракт от прополис, кокосово масло, сяра, alcloxa, салицилова киселина, екстракт от кора на бяла върба, екстракт от кора/листа на бяла бреза, етерично масло от хвойна, полисорбат 80, етерично масло от листа на мелалеука алтернифолия, етерично масло от мента, ксантанова гума, 4-terpineol, пироктон оламин, феноксиетанол, етилхексилглицерин, bht, динатриев edta, линалоол, лимонен.",
     "usage": "нанесете върху добре почистена и суха кожа на засегнатата област на тялото с леки масажиращи движения отдолу нагоре. Преди употреба е задължително да се направи тест за поносимостта на компонентите на лекарството към кожата. <span class=\"color: red\">Внимание:</span> избягвайте контакт с очите.",
     "contraindications": "Да не се прилага от деца под 3 години, бременни и кърмещи жени. Не прилагайте върху отворени рани.",
     "manufacturer": "Dalmatika (България)",
@@ -1881,15 +1881,15 @@
     "suitability": "2 години",
     "keep": "Съхранявайте на сухо място, недостъпно за деца, при температура не по-висока от +25°С."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos_duo": {
+    "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 отзива",
     "niche": "Хемороиди",
-    "form_factor": "гел в туба",
+    "form_factor": "гел в туба, 30 ml",
     "short_description": "Продуктът на растителна основа укрепва стените на кръвоносните съдове и предотвратява развитието на хемороиди.",
     "description": "Гел с лек охлаждащ ефект, който позволява на продукта да облекчи болката и да намали възпалението. Съдържа широка гама от биологично активни компоненти: екстракти от азиатска центела, кестен, лайка, залист, оман, троксерутин, кофеин, алантоин, В3, хиалуронова киселина.",
-    "compound": "Вода, Глицерин, Пропилен гликол, Алкохол денат, Екстракт от Обикновен конски кестен, Екстракт от азиатска центела, Екстракт от корен на Бодлив залист, Екстракт от калусна култура на Черен оман, Екстракт от цветовете на фармацевтична лайка, Ниацинамид, Троксерутин, Кофеин, Урея, Аргинин, Амониев акрилотилдиметилтаурат /VP съполимер, Салицилова киселина, Ментол, Алантоин, Натриев хиалуронат, Феноксиетанол, Етилхексилглицерин, Динатриев едетат.",
+    "compound": "Aqua, глицерин, пропиленгликол, алкохол денат., екстракт от конски кестен, екстракт от centella asiatica, екстракт от корен на ruscus aculeatus, екстракт от култура на symphytum officinale, екстракт от цвят лайка, ниацинамид, троxerutin, кофеин, урея, аргинин, амониев acryloyldimethyltaurate/vp кополимер, салицилова киселина, ментол, алантоин, натриев хиалуронат, феноксиетанол, етилхексилглицерин, динатриев edta.",
     "usage": "да се нанася с леки масажни движения 3-5 минути 2 пъти на ден. Направете тест за съвместимост с кожата си преди употреба. Препоръчва се да се прилага 2-3 пъти на ден.",
     "contraindications": "Индивидуална непоносимост към някоя от съставките. Само за възрастни, забранено до 18-годишна възраст. Съхранявайте на място, недостъпно за деца.",
     "manufacturer": "Dalmatika (България)",
@@ -2011,8 +2011,8 @@
       "salePrice": "44",
       "newPrice": "140"
     },
-    "feronex": {
-      "productName": "Feronex",
+    "urosaf": {
+      "productName": "Urosaf",
       "salePrice": "43",
       "newPrice": "250"
     },
@@ -2021,13 +2021,13 @@
       "salePrice": "43",
       "newPrice": "121"
     },
-    "neoveris": {
-      "productName": "Neoveris",
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "42",
       "newPrice": "123"
     },
-    "keramin": {
-      "productName": "Keramin",
+    "demyxil": {
+      "productName": "Demyxil",
       "salePrice": "45",
       "newPrice": "164"
     },
@@ -2041,8 +2041,8 @@
       "salePrice": "45",
       "newPrice": "205"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "42",
       "newPrice": "130"
     }
@@ -4427,10 +4427,10 @@
         ]
       }
     ],
-    "reviews_feronex": [
+    "reviews_urosaf": [
       {
-        "src": "img/review_feronex_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Момчил Манолов",
         "text": "Добро средство, наистина. Има ефект, не предизвиква странични свойства. След курса помогна за пълното отстраняване на проблема.",
@@ -4459,11 +4459,11 @@
       },
 
       {
-        "src": "img/review_feronex_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Огнян Огнянов",
-        "text": "Имах проблеми при ходене до тоалетната, Feronex ми помогна да ги елиминирам. Болката изчезна, ерекцията стана по-добра и по-дълга. Без пристрастяване и странични ефекти.",
+        "text": "Имах проблеми при ходене до тоалетната, Urosaf ми помогна да ги елиминирам. Болката изчезна, ерекцията стана по-добра и по-дълга. Без пристрастяване и странични ефекти.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4489,11 +4489,11 @@
       },
 
       {
-        "src": "img/review_feronex_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Християн Рангелов",
-        "text": "Миналата година вземах Feronex. Оттогава всичко работи чудесно, „приятелят“ винаги е готов! Без проблеми и прекъсване!",
+        "text": "Миналата година вземах Urosaf. Оттогава всичко работи чудесно, „приятелят“ винаги е готов! Без проблеми и прекъсване!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4519,8 +4519,8 @@
       },
 
       {
-        "src": "img/review_feronex_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Стела Димитрова",
         "text": "Поръчах за съпруга си, когато се появиха проблеми. Помогна му! Съпругът най-накрая стана такъв, какъвто го помня в младостта си. Активен, уверен и страстен!",
@@ -4549,8 +4549,8 @@
       },
 
       {
-        "src": "img/review_feronex_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Илиян Панчев",
         "text": "Действа почти веднага, като има кумулативен ефект. След курса повече нямах проблеми с ерекцията.",
@@ -4579,8 +4579,8 @@
       },
 
       {
-        "src": "img/review_feronex_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Петър Горанов",
         "text": "Ефектът е налице, може да се комбинира с алкохол, не са открити странични свойства. Използва се като алтернатива на стимулантите и след курса няма нужда от тях.",
@@ -4609,11 +4609,11 @@
       },
 
       {
-        "src": "img/review_feronex_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Калина Димитрова",
-        "text": "Съпругът мие е на 56,трудно е да се избегнат „мъжките“ проблеми на тази възраст. Благодаря за Feronex, който му помогна да се справи с тях и отново да се почувства млад и здрав!",
+        "text": "Съпругът мие е на 56,трудно е да се избегнат „мъжките“ проблеми на тази възраст. Благодаря за Urosaf, който му помогна да се справи с тях и отново да се почувства млад и здрав!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4639,11 +4639,11 @@
       },
 
       {
-        "src": "img/review_feronex_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Ангел Николов",
-        "text": "С възрастта потентността започва да отслабва и желанието избледнява. Реших да опитам Feronex. Ефектът ме впечатли! Ако пиете курсове на всеки шест месеца, не можете да срещнете проблеми в мъжката част.",
+        "text": "С възрастта потентността започва да отслабва и желанието избледнява. Реших да опитам Urosaf. Ефектът ме впечатли! Ако пиете курсове на всеки шест месеца, не можете да срещнете проблеми в мъжката част.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4669,11 +4669,11 @@
       },
 
       {
-        "src": "img/review_feronex_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Николай Станчев",
-        "text": "За разлика от често срещаните и добре познати стимуланти, главата не боли от Feronex. Ефектът е по-добър с всеки ден, тоест след курса можете да не вземате нищо, винаги сте готови!",
+        "text": "За разлика от често срещаните и добре познати стимуланти, главата не боли от Urosaf. Ефектът е по-добър с всеки ден, тоест след курса можете да не вземате нищо, винаги сте готови!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4699,11 +4699,11 @@
       },
 
       {
-        "src": "img/review_feronex_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Ангелина Трайкова",
-        "text": "Съпругът ми започна да има проблеми на фона на стреса на работа. Познат специалист препоръча Feronex. Средството помогна. Интимността се възобнови, по-дълго, по-често и по-добре!",
+        "text": "Съпругът ми започна да има проблеми на фона на стреса на работа. Познат специалист препоръча Urosaf. Средството помогна. Интимността се възобнови, по-дълго, по-често и по-добре!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4729,11 +4729,11 @@
       },
 
       {
-        "src": "img/review_feronex_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Венера Попова",
-        "text": "Съпругът отдавна приема стимулиращи хапчета. Страничният ефект беше раздразнителност и главоболие. Настоях да се замени с Feronex. Минаха шест месеца, курсът приключи и съпругът вече не се нуждае от „помощ“ преди секс!",
+        "text": "Съпругът отдавна приема стимулиращи хапчета. Страничният ефект беше раздразнителност и главоболие. Настоях да се замени с Urosaf. Минаха шест месеца, курсът приключи и съпругът вече не се нуждае от „помощ“ преди секс!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4759,11 +4759,11 @@
       },
 
       {
-        "src": "img/review_feronex_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Стефан Нестороски",
-        "text": "Поръчах Feronex от интерес. Но ефектът ме впечатли! Плюс бърза доставка и средството беше добре опаковано.",
+        "text": "Поръчах Urosaf от интерес. Но ефектът ме впечатли! Плюс бърза доставка и средството беше добре опаковано.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4789,8 +4789,8 @@
       },
 
       {
-        "src": "img/review_feronex_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Християн Груев",
         "text": "Ефективно и безопасно средство за здравето на мъжете. Още и на такава достъпна цена! Не съм открил странични ефекти.",
@@ -4819,8 +4819,8 @@
       },
 
       {
-        "src": "img/review_feronex_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Еди Негалов",
         "text": "Добра помощ при проблеми с ерекцията, възникнали по различни причини. Резултатът е 100%! След курса забравих за проблемите.",
@@ -4849,8 +4849,8 @@
       },
 
       {
-        "src": "img/review_feronex_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FERONEX",
+        "src": "img/review_urosaf_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;UROSAF",
         "rating_text": "Отлично качество!",
         "name": "Емо Фердешлиев",
         "text": "Ефектът се появява от първите дни на употреба. Със съпругата започнахме все по-чести да се усамотяваме. Тя е щастлива, доволна. Отново се чувствам млад и способен на много неща!",
@@ -4878,13 +4878,13 @@
         ]
       }
     ],
-    "reviews_keramin": [
+    "reviews_demyxil": [
       {
-        "src": "img/review_keramin_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Хенриета Ганчева",
-        "text": "От години се боря с гъбичките по краката. Всички средства имаха само временен ефект. Keramin ми помогна да забравя за този проблем завинаги. Сега са здрави и кожата и ноктите! Страхотно!",
+        "text": "От години се боря с гъбичките по краката. Всички средства имаха само временен ефект. Demyxil ми помогна да забравя за този проблем завинаги. Сега са здрави и кожата и ноктите! Страхотно!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4910,11 +4910,11 @@
       },
 
       {
-        "src": "img/review_keramin_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Лора Иванова",
-        "text": "Наскоро открих, че цялата кожа на шията е в папиломи. Реших да опитам крема Keramin. Помогна ми. Доста ефективно средство. Бързо се отървах от папиломите, кожата стана здрава и овлажнена!",
+        "text": "Наскоро открих, че цялата кожа на шията е в папиломи. Реших да опитам крема Demyxil. Помогна ми. Доста ефективно средство. Бързо се отървах от папиломите, кожата стана здрава и овлажнена!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4940,11 +4940,11 @@
       },
 
       {
-        "src": "img/review_keramin_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Василка Тонева",
-        "text": "Намерих петна по лактите, много ме сърбяха и се лющиха. Познат специалист ми препоръча Keramin. Средството е прекрасно! Облекчение от първите дни и след курса проблемът напълно изчезна.",
+        "text": "Намерих петна по лактите, много ме сърбяха и се лющиха. Познат специалист ми препоръча Demyxil. Средството е прекрасно! Облекчение от първите дни и след курса проблемът напълно изчезна.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4970,11 +4970,11 @@
       },
 
       {
-        "src": "img/review_keramin_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Боряна Регалова",
-        "text": "Имам положителен опит с използването на крем Keramin. Отличен и ефективен продукт с масла в състава! Омекотява кожата и помага в борбата с гъбичките.",
+        "text": "Имам положителен опит с използването на крем Demyxil. Отличен и ефективен продукт с масла в състава! Омекотява кожата и помага в борбата с гъбичките.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5000,8 +5000,8 @@
       },
 
       {
-        "src": "img/review_keramin_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Николай Петров",
         "text": "Добре помага при дерматологични проблеми. Жена ми успя да се отърве от папиломите, а аз от псориазис. Не съм открил странични ефекти!",
@@ -5030,8 +5030,8 @@
       },
 
       {
-        "src": "img/review_keramin_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Марина Делирадева",
         "text": "За няколко седмици употреба от гъбичките и следа не остана. Всичко изчезна. Пукнатините изчезнаха, сърбежът изчезна почти веднага. Доста ефективно маскира неприятната миризма!",
@@ -5060,11 +5060,11 @@
       },
 
       {
-        "src": "img/review_keramin_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Коцка Койчева",
-        "text": "Поради хормонални смущения започнаха кожни проблеми. Сухота, пукнатини, сърбеж, особено на коленете, главата и лактите. Само Keramin ми помогна. Кожата е напълно обновена и неприятните симптоми са изчезнали от първите дни!",
+        "text": "Поради хормонални смущения започнаха кожни проблеми. Сухота, пукнатини, сърбеж, особено на коленете, главата и лактите. Само Demyxil ми помогна. Кожата е напълно обновена и неприятните симптоми са изчезнали от първите дни!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5090,8 +5090,8 @@
       },
 
       {
-        "src": "img/review_keramin_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Николай Манчев",
         "text": "Добро противовъзпалително средство. Не предизвиква неприятни усещания след нанасяне. Работи!",
@@ -5120,8 +5120,8 @@
       },
 
       {
-        "src": "img/review_keramin_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Александър Марков",
         "text": "Благодарим ви за висококачествения и ефективен крем, бързата доставка и консултация. Ще поръчвам отново!",
@@ -5150,8 +5150,8 @@
       },
 
       {
-        "src": "img/review_keramin_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Тонка Тонева",
         "text": "Помага за бързо почистване на кожата от папиломи, не остават белези. След курс на употреба израстъците спряха да се образуват по шията, раменете и подмишниците.",
@@ -5180,8 +5180,8 @@
       },
 
       {
-        "src": "img/review_keramin_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Венета Карташова",
         "text": "Страхотен противогъбичен крем! От първите дни елиминира сърбежа и неприятната миризма, с течение на времето кожата напълно се обновява и възстановява. Препоръчвам!",
@@ -5210,8 +5210,8 @@
       },
 
       {
-        "src": "img/review_keramin_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Петранка Лекарова",
         "text": "Ефектът приятно ме изненада! Всеки ден петната стават по-малки, пукнатините заздравяват. Много съм доволен от резултата!",
@@ -5240,8 +5240,8 @@
       },
 
       {
-        "src": "img/review_keramin_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Ана Мандаджиева",
         "text": "Не знам нищо по-ефективно против гъбички по ноктите. Премахва разслояването на плочата, повреденият нокът зараства и расте напълно здрав. Помогна само за 1 курс!",
@@ -5270,8 +5270,8 @@
       },
 
       {
-        "src": "img/review_keramin_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Димо Дебелянов",
         "text": "Ефективно средство с естествен състав. Видими и осезаеми промени от първите дни на употреба. През последната година няма рецидив на псориазис.",
@@ -5300,11 +5300,11 @@
       },
 
       {
-        "src": "img/review_keramin_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;KERAMIN",
+        "src": "img/review_demyxil_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;DEMYXIL",
         "rating_text": "Отлично качество!",
         "name": "Карина Узунова",
-        "text": "Най-добрият крем за дерматологичен проблем. Оцених ефективността в борбата срещу гъбичките и папиломите. Благодарение на Keramin кожата ми е напълно здрава!",
+        "text": "Най-добрият крем за дерматологичен проблем. Оцених ефективността в борбата срещу гъбичките и папиломите. Благодарение на Demyxil кожата ми е напълно здрава!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5329,13 +5329,13 @@
         ]
       }
     ],
-    "reviews_neoveris": [
+    "reviews_vasaxal": [
       {
-        "src": "img/review_neoveris_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Маргарита Панчева",
-        "text": "Съвсем наскоро поръчах гел Neoveris. Има приятен охлаждащ ефект след нанасяне. След няколко дни усетих облекчение, има пръв ефект.",
+        "text": "Съвсем наскоро поръчах гел Vasaxal. Има приятен охлаждащ ефект след нанасяне. След няколко дни усетих облекчение, има пръв ефект.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5361,8 +5361,8 @@
       },
 
       {
-        "src": "img/review_neoveris_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Станислава Бояджиева",
         "text": "Ефективен гел, който премахва тежестта и умората от краката. Премина пулсиращата болка и болката при ходене, продължавам да го използвам.",
@@ -5391,8 +5391,8 @@
       },
 
       {
-        "src": "img/review_neoveris_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Ариана Фердешлиева",
         "text": "Подпухналостта и тежестта в краката изчезнаха, спазмите престанаха да се притесняват, а вените станаха по-малко забележими. Препоръчвам!",
@@ -5421,8 +5421,8 @@
       },
 
       {
-        "src": "img/review_neoveris_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Юлиана Тодорова",
         "text": "Отлично и ефективно средство, бърза доставка, приятни консултанти. Благодаря!",
@@ -5451,11 +5451,11 @@
       },
 
       {
-        "src": "img/review_neoveris_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Владимир Барбаров",
-        "text": "Купих Neoveris за майка, тя е много доволна. Казва, че й станало много по-лесно, краката се подуват по-малко и не болят!",
+        "text": "Купих Vasaxal за майка, тя е много доволна. Казва, че й станало много по-лесно, краката се подуват по-малко и не болят!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5481,8 +5481,8 @@
       },
 
       {
-        "src": "img/review_neoveris_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Вероника Харалампиева",
         "text": "Съдовите мрежи на краката са станали почти невидими, премахва болката и предотвратяват подуването. Много добре помага!",
@@ -5511,8 +5511,8 @@
       },
 
       {
-        "src": "img/review_neoveris_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Виктория Лефтерова",
         "text": "Приятна и лека консистенция, растителни компоненти в състава, достъпна цена. И най-важното – има ефект!",
@@ -5541,8 +5541,8 @@
       },
 
       {
-        "src": "img/review_neoveris_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Теодор Иванов",
         "text": "Предотвратява възпалението на вените и бързо премахва болката. Няма повече спазми през нощта. Дори след тежък ден няма тежест и подуване.",
@@ -5571,11 +5571,11 @@
       },
 
       {
-        "src": "img/review_neoveris_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Глория Дачева",
-        "text": "Neoveris върна лекотата в краката. Вените спряха да се възпаляват, съдовите мрежи изчезнаха. Много приятен ефект след нанасяне.",
+        "text": "Vasaxal върна лекотата в краката. Вените спряха да се възпаляват, съдовите мрежи изчезнаха. Много приятен ефект след нанасяне.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5601,11 +5601,11 @@
       },
 
       {
-        "src": "img/review_neoveris_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Кристиян Драгнев",
-        "text": "Активно се занимавам със спорт, поради което на краката се появяват синини и болка. След използване на Neoveris няма такъв проблем. Болката преминава, дори след натоварване няма проблеми.",
+        "text": "Активно се занимавам със спорт, поради което на краката се появяват синини и болка. След използване на Vasaxal няма такъв проблем. Болката преминава, дори след натоварване няма проблеми.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5631,11 +5631,11 @@
       },
 
       {
-        "src": "img/review_neoveris_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Атанаска Гочева",
-        "text": "За гела Neoveris научих наскоро. Прочетох много положителни отзиви. Веднага усетих резултата, тежестта изчезна, вените не бяха толкова подути. Много съм доволна!",
+        "text": "За гела Vasaxal научих наскоро. Прочетох много положителни отзиви. Веднага усетих резултата, тежестта изчезна, вените не бяха толкова подути. Много съм доволна!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5661,11 +5661,11 @@
       },
 
       {
-        "src": "img/review_neoveris_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Жанет Влайкова",
-        "text": "Отдавна имам проблеми с вените, наследени. Страхувах се от операцията много, обаче Neoveris помогнаха да я предотвратя. Вените станаха по-малко забележими, тежестта и болката изчезнаха, спазмите преминаха.",
+        "text": "Отдавна имам проблеми с вените, наследени. Страхувах се от операцията много, обаче Vasaxal помогнаха да я предотвратя. Вените станаха по-малко забележими, тежестта и болката изчезнаха, спазмите преминаха.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5691,8 +5691,8 @@
       },
 
       {
-        "src": "img/review_neoveris_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Надежда Узунова",
         "text": "Добър резултат! Веднага почувствах приятно облекчение. Цял нощ спах без спазми и болка. Ще продължа да го използвам.",
@@ -5721,11 +5721,11 @@
       },
 
       {
-        "src": "img/review_neoveris_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Божидара Никовска",
-        "text": "Neoveris е най-добрия, който съм опитвала. Вече бях разочарована от геловете и кремовете и след Neoveris разбрах, че е добро средство и може да помогне в борбата срещу разширяването на вените!",
+        "text": "Vasaxal е най-добрия, който съм опитвала. Вече бях разочарована от геловете и кремовете и след Vasaxal разбрах, че е добро средство и може да помогне в борбата срещу разширяването на вените!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5751,11 +5751,11 @@
       },
 
       {
-        "src": "img/review_neoveris_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;NEOVERIS",
+        "src": "img/review_vasaxal_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;VASAXAL",
         "rating_text": "Отлично качество!",
         "name": "Еди Керменджиев",
-        "text": "Съпругата използва Neoveris, тя има проблеми с вените от младостта си. Доволна е от резултата. През последните шест месеца не се оплаква от здравето си, а вените почти не се виждат на краката.",
+        "text": "Съпругата използва Vasaxal, тя има проблеми с вените от младостта си. Доволна е от резултата. През последните шест месеца не се оплаква от здравето си, а вените почти не се виждат на краката.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9970,13 +9970,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos_duo": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Диляна Иванова",
-        "text": "Rectin - страхотен гел. След седмица всички симптоми на хемороиди изчезнаха. Никакви свещи не могат да се сравнят с него. Моят експерт го посъветва и аз му се доверявам много.",
+        "text": "Vasos Duo - страхотен гел. След седмица всички симптоми на хемороиди изчезнаха. Никакви свещи не могат да се сравнят с него. Моят експерт го посъветва и аз му се доверявам много.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10002,11 +10002,11 @@
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Гергана Комитска",
-        "text": "Живях с този кошмар 5 години. Отначало всичко е в лека форма просто сърбеж, дискомфорт. После обостряния, имаше синини, силна болка. Мазах с кремове, слагах свещи, нищо не помогна. Благодарение на Rectin за месец всичко мина.",
+        "text": "Живях с този кошмар 5 години. Отначало всичко е в лека форма просто сърбеж, дискомфорт. После обостряния, имаше синини, силна болка. Мазах с кремове, слагах свещи, нищо не помогна. Благодарение на Vasos Duo за месец всичко мина.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10032,11 +10032,11 @@
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Боряна Панайотова",
-        "text": "Имам проблеми с хемороиди от почти година. Опитах мехлеми и свещи и дори народни средства. Мислех, че ще живея така цял живот. Но 2 седмици след началото на употребата на Rectin всичко е изчезнало! Много съм доволна.",
+        "text": "Имам проблеми с хемороиди от почти година. Опитах мехлеми и свещи и дори народни средства. Мислех, че ще живея така цял живот. Но 2 седмици след началото на употребата на Vasos Duo всичко е изчезнало! Много съм доволна.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10062,11 +10062,11 @@
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Алескандра Маринова",
-        "text": "Имам хемороиди след курс на антибиотик. Имаше 2 възела. Експертът назначи свещи, в началото беше по-лесно, но след това болката се върна, беше много болезнено да ходя до тоалетната. Четох много добри отзиви за Rectin. Реших да го купя. Преминах курса и нямам повече проблеми. Прекрасен гел!",
+        "text": "Имам хемороиди след курс на антибиотик. Имаше 2 възела. Експертът назначи свещи, в началото беше по-лесно, но след това болката се върна, беше много болезнено да ходя до тоалетната. Четох много добри отзиви за Vasos Duo. Реших да го купя. Преминах курса и нямам повече проблеми. Прекрасен гел!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10092,11 +10092,11 @@
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Георги Георгиев",
-        "text": "Rectin укрепва стените на кръвоносните съдове и облекчава болката. Преди прилагането се консултирах с експерт, позната жена, тя го одобри. Никакви популярни химикали не могат да помогнат толкова, колкото този гел на растителна основа.",
+        "text": "Vasos Duo укрепва стените на кръвоносните съдове и облекчава болката. Преди прилагането се консултирах с експерт, позната жена, тя го одобри. Никакви популярни химикали не могат да помогнат толкова, колкото този гел на растителна основа.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10122,11 +10122,11 @@
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Людмил Петков",
-        "text": "Експертът намери 2 огромни подутини при мен и препоръча курс Rectin. Ефектът настъпва 3 дни след началото на приложението. Гел с лек охлаждащ ефект, облекчава болката, сърбежа и дискомфорта.",
+        "text": "Експертът намери 2 огромни подутини при мен и препоръча курс Vasos Duo. Ефектът настъпва 3 дни след началото на приложението. Гел с лек охлаждащ ефект, облекчава болката, сърбежа и дискомфорта.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10152,11 +10152,11 @@
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Станка Манчева",
-        "text": "Имах напреднал стадий на хемороиди, щяха да ми правят операция. Но сестра ми ме посъветва да пробвам Rectin. Използвах го 1,5 месеца - възпалението и подутините изчезнаха, болката и дразненето преминаха.",
+        "text": "Имах напреднал стадий на хемороиди, щяха да ми правят операция. Но сестра ми ме посъветва да пробвам Vasos Duo. Използвах го 1,5 месеца - възпалението и подутините изчезнаха, болката и дразненето преминаха.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10182,11 +10182,11 @@
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Елеонора Димитрова",
-        "text": "Хемороидите се появиха след раждането. Използвах Rectin един месец и това време се оказа достатъчно, за да премахна напълно проблема. Възлите започнаха да се разтварят, изпражненията се нормализираха, болката изчезна, няма неприятни усещания. Затова го препоръчвам от все сърце.",
+        "text": "Хемороидите се появиха след раждането. Използвах Vasos Duo един месец и това време се оказа достатъчно, за да премахна напълно проблема. Възлите започнаха да се разтварят, изпражненията се нормализираха, болката изчезна, няма неприятни усещания. Затова го препоръчвам от все сърце.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10212,11 +10212,11 @@
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Мария Митева",
-        "text": "Rectin - много добро средство, наистина работи и помага. Имах тежък запек и развих хемороиди. Една приятелка ме посъветва, много съм й благодарна за това. Всичко мина!",
+        "text": "Vasos Duo - много добро средство, наистина работи и помага. Имах тежък запек и развих хемороиди. Една приятелка ме посъветва, много съм й благодарна за това. Всичко мина!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10242,11 +10242,11 @@
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Димо Данилов",
-        "text": "Използването на гела е много удобно. Много по-добре от свещи и мазни мехлеми. Ефектът е отличен - Rectin облекчава възпалението и болката, укрепва стените на кръвоносните съдове, премахва всички симптоми на хемороиди. Препоръчвам на всички с този проблем.",
+        "text": "Използването на гела е много удобно. Много по-добре от свещи и мазни мехлеми. Ефектът е отличен - Vasos Duo облекчава възпалението и болката, укрепва стените на кръвоносните съдове, премахва всички симптоми на хемороиди. Препоръчвам на всички с този проблем.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10272,11 +10272,11 @@
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Глория Дрянова",
-        "text": "Имах хемороиди от 2 степен. Експертът предписваше свещи и мехлем, 10 дни сутрин и вечер. Помогна ми. Тогава той започна да настоява за операция. Добре е, че намерих гела Rectin навреме. Преминах курса и забравих за проблема като ужасен сън.",
+        "text": "Имах хемороиди от 2 степен. Експертът предписваше свещи и мехлем, 10 дни сутрин и вечер. Помогна ми. Тогава той започна да настоява за операция. Добре е, че намерих гела Vasos Duo навреме. Преминах курса и забравих за проблема като ужасен сън.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10302,11 +10302,11 @@
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Преслава Пеева",
-        "text": "Имах този проблем след второто раждане. Четях толкова много информация в интернет, спасявах се с различни средства, но всичко беше безполезно. Само Rectin ми помогна. Все още имам една опаковка за всеки случай.",
+        "text": "Имах този проблем след второто раждане. Четях толкова много информация в интернет, спасявах се с различни средства, но всичко беше безполезно. Само Vasos Duo ми помогна. Все още имам една опаковка за всеки случай.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10332,11 +10332,11 @@
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Илиян Караиванов",
-        "text": "Отдавна търся средство на базата на троксерутин. Той има противовъзпалително и противооточно действие – най-ефективната активна съставка до момента. Намерих Rectin, използвах 2 седмици, и повече нямам хемороиди.",
+        "text": "Отдавна търся средство на базата на троксерутин. Той има противовъзпалително и противооточно действие – най-ефективната активна съставка до момента. Намерих Vasos Duo, използвах 2 седмици, и повече нямам хемороиди.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10362,11 +10362,11 @@
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_14.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Невена Арабова",
-        "text": "Появи се силен дискомфорт, експертът откри възел. Бях във шок! Каза да ям повече фибри, да нямам запек. Предписа ми мехлем. А вкъщи майка ми ми каза, че се е отървала от хемороиди с помощта на гела Rectin. Преминах курса, симптомите изчезнаха след няколко дни. При повторния преглед експертът каза, че проблемът вече не е налице.",
+        "text": "Появи се силен дискомфорт, експертът откри възел. Бях във шок! Каза да ям повече фибри, да нямам запек. Предписа ми мехлем. А вкъщи майка ми ми каза, че се е отървала от хемороиди с помощта на гела Vasos Duo. Преминах курса, симптомите изчезнаха след няколко дни. При повторния преглед експертът каза, че проблемът вече не е налице.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10392,11 +10392,11 @@
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;RECTIN",
+        "src": "img/review_vasos_duo_15.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;Vasos Duo",
         "rating_text": "Отлично качество!",
         "name": "Живка Бодурова",
-        "text": "Симптомите на хемороидите са наистина болезнени, това не е просто някакъв сърбеж, а наистина непоносима болка! Според мен гелът Rectin няма конкуренти, това определено е най-доброто, което е измислено досега.",
+        "text": "Симптомите на хемороидите са наистина болезнени, това не е просто някакъв сърбеж, а наистина непоносима болка! Според мен гелът Vasos Duo няма конкуренти, това определено е най-доброто, което е измислено досега.",
         "stars": [
           {
             "src": "img/svg/star.svg",
