@@ -802,12 +802,12 @@
     },
     {
       "label": "Hits",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -832,8 +832,8 @@
       ],
       "text": "267 atsauksmes",
       "desc": "Produkts uz augu bāzes, stiprina asinsvadu sieniņas un novērš hemoroīdu attīstību.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "SĪKĀK"
     }
@@ -1560,13 +1560,13 @@
       "niche": "Virziens: Redze"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1881,8 +1881,8 @@
     "suitability": "2 gadi",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 atsauksmes",
     "niche": "Hemoroīdi",
@@ -2035,8 +2035,8 @@
       "salePrice": "26",
       "newPrice": "109"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "24",
       "newPrice": "88"
     }
@@ -9964,13 +9964,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _1.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Aija Mežavilka",
-        "text": "Rectin - ir lielisks gels. Jau pēc nedēļas man pārgāji visi hemoroīdu simptomi. Nevar ne salīdzināt ar visādām svecītēm. Man to ieteica mans eksperts, un es viņam ļoti uzticos.",
+        "text": "Vasos Duo - ir lielisks gels. Jau pēc nedēļas man pārgāji visi hemoroīdu simptomi. Nevar ne salīdzināt ar visādām svecītēm. Man to ieteica mans eksperts, un es viņam ļoti uzticos.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9996,11 +9996,11 @@
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _2.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Zane Ķiršteina",
-        "text": "Ar šīm šausmām es dzīvoju 5 gadus. Vispirms viss bija vieglā formā, vienkārši nieze, diskomforts. Tad sākas paasinājumi, parādījās asiņošanas, stipras sāpes. Smērēju krēmus, liku svecītes, nekas nepalīdzēja. Pateicoties Rectin mēneša laikā viss pārgāja.",
+        "text": "Ar šīm šausmām es dzīvoju 5 gadus. Vispirms viss bija vieglā formā, vienkārši nieze, diskomforts. Tad sākas paasinājumi, parādījās asiņošanas, stipras sāpes. Smērēju krēmus, liku svecītes, nekas nepalīdzēja. Pateicoties Vasos Duo mēneša laikā viss pārgāja.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10026,11 +10026,11 @@
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _3.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Inese Gailīte",
-        "text": "Man ir problēmas ar hemoroīdiem gandrīz gadu, izmēģināju ziedes un svecītes un pat tautas līdzekļus. Domāju, ka nāksies tā dzīvot visu mūžu. Tomēr pēc 2 nedēļām Rectin lietošanas, viss pārgāja! Esmu ļoti apmierināta.",
+        "text": "Man ir problēmas ar hemoroīdiem gandrīz gadu, izmēģināju ziedes un svecītes un pat tautas līdzekļus. Domāju, ka nāksies tā dzīvot visu mūžu. Tomēr pēc 2 nedēļām Vasos Duo lietošanas, viss pārgāja! Esmu ļoti apmierināta.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10056,11 +10056,11 @@
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _4.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Evija Vērdiņa",
-        "text": "Hemoroīdi man parādījās pēc antibiotiku kursa. Bija 2 mezgli. Eksperts nozīmēja sveces, no sākuma palika vieglāk, bet pēc tam sāpes atgriezās, uz tualeti iet bija ļoti sāpīgi. Par Rectin es lasīju daudz labu atsauksmju. Nolēmu nopirkt. Izlietoju kursu un problēmas vairs nav. Lielisks gels!",
+        "text": "Hemoroīdi man parādījās pēc antibiotiku kursa. Bija 2 mezgli. Eksperts nozīmēja sveces, no sākuma palika vieglāk, bet pēc tam sāpes atgriezās, uz tualeti iet bija ļoti sāpīgi. Par Vasos Duo es lasīju daudz labu atsauksmju. Nolēmu nopirkt. Izlietoju kursu un problēmas vairs nav. Lielisks gels!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10086,11 +10086,11 @@
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _5.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Raimonds Liepiņš",
-        "text": "Rectin nostiprina asinsvadu sieniņas un noņem sāpes. Pirms lietošanas konsultējos ar ekspertu, pazīstamu sievieti, viņa atzina par labu. Nekādi populāri ķīmiski līdzekļi nespēja tā palīdzēt, kā šis gels uz augu bāzes.",
+        "text": "Vasos Duo nostiprina asinsvadu sieniņas un noņem sāpes. Pirms lietošanas konsultējos ar ekspertu, pazīstamu sievieti, viņa atzina par labu. Nekādi populāri ķīmiski līdzekļi nespēja tā palīdzēt, kā šis gels uz augu bāzes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10116,11 +10116,11 @@
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _6.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Edgars Pētersons",
-        "text": "Eksperts man atklājas 2 milzīgus bumbuļus un ieteica iziet Rectin kursu. Efekts iestājās jau 3 dienas pēc lietošanas uzsākšanas. Gels ar vieglu atvēsinošu efektu, noņem sāpes, niezi un diskomfortu.",
+        "text": "Eksperts man atklājas 2 milzīgus bumbuļus un ieteica iziet Vasos Duo kursu. Efekts iestājās jau 3 dienas pēc lietošanas uzsākšanas. Gels ar vieglu atvēsinošu efektu, noņem sāpes, niezi un diskomfortu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10146,11 +10146,11 @@
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _7.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Antra Strazdiņa",
-        "text": "Man bija ielaista hemoroīdu stadija, gatavojās veikt operāciju. Bet māsa ieteica izmēģināt Rectin. To lietoju tikai 1,5 mēnešus - pārgāja iekaisums un bumbuļi, izzuda sāpes un iekaisums.",
+        "text": "Man bija ielaista hemoroīdu stadija, gatavojās veikt operāciju. Bet māsa ieteica izmēģināt Vasos Duo. To lietoju tikai 1,5 mēnešus - pārgāja iekaisums un bumbuļi, izzuda sāpes un iekaisums.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10176,11 +10176,11 @@
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _8.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Vita Čepule",
-        "text": "Pēc dzemdībām parādījās hemoroīdi. Mēnesi lietoju Rectin un šis laiks bija pietiekams problēmas novēršanai. Mezgli sāka uzsūkties, normalizējās defekācija, pārgāja sāpes, nekādu nepatīkamu sajūtu. Tā, ka - iesaku no visas sirds.",
+        "text": "Pēc dzemdībām parādījās hemoroīdi. Mēnesi lietoju Vasos Duo un šis laiks bija pietiekams problēmas novēršanai. Mezgli sāka uzsūkties, normalizējās defekācija, pārgāja sāpes, nekādu nepatīkamu sajūtu. Tā, ka - iesaku no visas sirds.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10206,11 +10206,11 @@
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _9.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Sieviete",
-        "text": "Rectin - ir ļoti labs līdzeklis, tiešam darbojas un palīdz. Man bija stipri aizcietējumi un attīstījās hemoroīdi. Rectin man ieteica draudzene, par ko es esmu viņai ļoti pateicīga. Viss pārgāja!",
+        "text": "Vasos Duo - ir ļoti labs līdzeklis, tiešam darbojas un palīdz. Man bija stipri aizcietējumi un attīstījās hemoroīdi. Vasos Duo man ieteica draudzene, par ko es esmu viņai ļoti pateicīga. Viss pārgāja!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10236,11 +10236,11 @@
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _10.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Valters Jansons",
-        "text": "Gelu lietot ir ērti. Daudz labāk par svecītēm un treknām ziedēm. Efekts ir lielisks - Rectin noņem iekaisumu un sāpes, nostiprina asinsvadu sieniņas, novērš visus hemoroīdu simptomus. Iesaku visiem, kuriem ir šī problēma.",
+        "text": "Gelu lietot ir ērti. Daudz labāk par svecītēm un treknām ziedēm. Efekts ir lielisks - Vasos Duo noņem iekaisumu un sāpes, nostiprina asinsvadu sieniņas, novērš visus hemoroīdu simptomus. Iesaku visiem, kuriem ir šī problēma.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10266,11 +10266,11 @@
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _11.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Solvita Akmentiņa",
-        "text": "Man bija 2 stadijas hemoroīdi. Eksperts izrakstīja svecītes un ziedi, 10 dienas - no rīta un vakarā. Nepalīdzēja. Tad viņš sāka uzstāt uz operāciju. Labi, ka es laikā atradu Rectin. Izlietoju kursu un aizmirsu par problēmu, kā par ļaunu murgu.",
+        "text": "Man bija 2 stadijas hemoroīdi. Eksperts izrakstīja svecītes un ziedi, 10 dienas - no rīta un vakarā. Nepalīdzēja. Tad viņš sāka uzstāt uz operāciju. Labi, ka es laikā atradu Vasos Duo. Izlietoju kursu un aizmirsu par problēmu, kā par ļaunu murgu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10296,11 +10296,11 @@
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _12.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Madara Grēviņa",
-        "text": "Man šī problēma parādījās pēc otrajām dzemdībām. Internetā es izlasīju lielu daudzumu informācijas, glābos ar dažādiem līdzekļiem, bet viss bija bezjēdzīgi. Palīdzēja tikai Rectin! Līdz pat šim laikam glabāju vienu paciņu visādam gadījumam.",
+        "text": "Man šī problēma parādījās pēc otrajām dzemdībām. Internetā es izlasīju lielu daudzumu informācijas, glābos ar dažādiem līdzekļiem, bet viss bija bezjēdzīgi. Palīdzēja tikai Vasos Duo! Līdz pat šim laikam glabāju vienu paciņu visādam gadījumam.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10326,11 +10326,11 @@
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _13.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Ivars Lācis",
-        "text": "Sen jau meklēju līdzekli uz trokserutīna bāzes. Tam piemīt pretiekaisuma un prettūskas efekts, pašlaik pats efektīvākais iedarbīgais līdzeklis. Atradu Rectin, lietoju 2 nedēļas, hemoroīdu vairs nav.",
+        "text": "Sen jau meklēju līdzekli uz trokserutīna bāzes. Tam piemīt pretiekaisuma un prettūskas efekts, pašlaik pats efektīvākais iedarbīgais līdzeklis. Atradu Vasos Duo, lietoju 2 nedēļas, hemoroīdu vairs nav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10356,11 +10356,11 @@
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _14.png",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Liena Balode",
-        "text": "Parādījās stiprs diskomforts, eksperts atklāja mezgliņu. Es biju šausmās! Ieteica ēst vairāk šķiedrvielu, lai nebūtu aizcietējumu. Izrakstīja smēri. Bet mājās mamma man pateica, ka atbrīvoties no hemoroīdiem var ar Rectin palīdzību. Es izlietoju kursu, simptomi izzuda jau pēc pāris dienām. Atkārtotas apskates laikā eksperts teica, ka problēmas vairs nav.",
+        "text": "Parādījās stiprs diskomforts, eksperts atklāja mezgliņu. Es biju šausmās! Ieteica ēst vairāk šķiedrvielu, lai nebūtu aizcietējumu. Izrakstīja smēri. Bet mājās mamma man pateica, ka atbrīvoties no hemoroīdiem var ar Vasos Duo palīdzību. Es izlietoju kursu, simptomi izzuda jau pēc pāris dienām. Atkārtotas apskates laikā eksperts teica, ka problēmas vairs nav.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10386,11 +10386,11 @@
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _15.png",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "name": "Brigita Zariņa",
-        "text": "Hemoroīdu simptomi ir patiesi mokoši, tā nav vienkārši kaut kāda nieze, bet reāli nepanesamas sāpes! Manuprāt gelam Rectin nav konkurentu, tas noteikti ir pats labākais, kas līdz šim ir izdomāts.",
+        "text": "Hemoroīdu simptomi ir patiesi mokoši, tā nav vienkārši kaut kāda nieze, bet reāli nepanesamas sāpes! Manuprāt gelam Vasos Duo nav konkurentu, tas noteikti ir pats labākais, kas līdz šim ir izdomāts.",
         "stars": [
           {
             "src": "img/svg/star.svg",

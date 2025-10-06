@@ -801,12 +801,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -831,8 +831,8 @@
       ],
       "text": "267 recenzí",
       "desc": "Produkt na rostlinné bázi, posiluje cévy a prevence vzniku hemoroidů.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "DETALNĚJI"
     }
@@ -1557,13 +1557,13 @@
       "niche": "Směr: Zrak"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1877,8 +1877,8 @@
     "suitability": "2 roky",
     "keep": "Uchovávejte v suchu, mimo dosah dětí, při teplotě nepřesahující +25 °C."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Pro zdraví",
     "review_count": "333 recenzí",
     "niche": "Hemoroidy",
@@ -2036,8 +2036,8 @@
       "salePrice": "515",
       "newPrice": "1765"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "519",
       "newPrice": "1983"
     }
@@ -9965,11 +9965,11 @@
         "text": "Ophtalax mi pomohl odstranit napětí v očích a slzení kvůli dlouhé práci u počítače. Nyní trávím stejně času před monitorem, ale s očima je vše skvělé."
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
+        "src": "img/review_vasos-duo _1.png",
         "name": "Jana Nováková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -9993,13 +9993,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin je vynikající gel. Po týdnu všechny příznaky hemoroidů zmizely. Žádné čípky se s ním nedají srovnat. Doporučil mi je můj expert a já mu velmi důvěřuji"
+        "text": "Vasos Duo je vynikající gel. Po týdnu všechny příznaky hemoroidů zmizely. Žádné čípky se s ním nedají srovnat. Doporučil mi je můj expert a já mu velmi důvěřuji"
       },
 
       {
-        "src": "img/review_rectin_2.png",
+        "src": "img/review_vasos-duo _2.png",
         "name": "Eva Pospíšilová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10023,13 +10023,13 @@
             "type": "empty"
           }
         ],
-        "text": "S takovou noční můrou jsem žila 5 let. Nejdříve to bylo v mírné formě, jen svědění a nepohodlí. Pak přišla zhoršení, objevily se modřiny, silná bolest. Aplikovala jsem krémy, používala čípky, nic nepomohlo. Díky Rectinu se mi během měsíce všechno zlepšilo."
+        "text": "S takovou noční můrou jsem žila 5 let. Nejdříve to bylo v mírné formě, jen svědění a nepohodlí. Pak přišla zhoršení, objevily se modřiny, silná bolest. Aplikovala jsem krémy, používala čípky, nic nepomohlo. Díky Vasos Duou se mi během měsíce všechno zlepšilo."
       },
 
       {
-        "src": "img/review_rectin_3.png",
+        "src": "img/review_vasos-duo _3.png",
         "name": "Lucie Křížová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10053,13 +10053,13 @@
             "type": "empty"
           }
         ],
-        "text": "Měla jsem problémy s hemoroidy téměř rok. Zkoušela jsem masti, čípky i lidové prostředky. Myslela jsem, že tak budu žít celý život. Ale po dvou týdnech používání Rectinu všechno zmizelo! Jsem velmi spokojená."
+        "text": "Měla jsem problémy s hemoroidy téměř rok. Zkoušela jsem masti, čípky i lidové prostředky. Myslela jsem, že tak budu žít celý život. Ale po dvou týdnech používání Vasos Duou všechno zmizelo! Jsem velmi spokojená."
       },
 
       {
-        "src": "img/review_rectin_4.png",
+        "src": "img/review_vasos-duo _4.png",
         "name": "Marie Horáková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10083,13 +10083,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hemoroidy se u mě objevily po kurzu antibiotik. Byly dva uzly. Expert předepsal čípky, zpočátku to bylo lepší, ale pak se bolest vrátila, bylo velmi bolestivé chodit na záchod. O Rectinu jsem četla mnoho dobrých recenzí. Rozhodla jsem se ho koupit. Prošla jsem kurz a problémy zmizely. Skvělý gel!"
+        "text": "Hemoroidy se u mě objevily po kurzu antibiotik. Byly dva uzly. Expert předepsal čípky, zpočátku to bylo lepší, ale pak se bolest vrátila, bylo velmi bolestivé chodit na záchod. O Vasos Duou jsem četla mnoho dobrých recenzí. Rozhodla jsem se ho koupit. Prošla jsem kurz a problémy zmizely. Skvělý gel!"
       },
 
       {
-        "src": "img/review_rectin_5.png",
+        "src": "img/review_vasos-duo _5.png",
         "name": "Ladislav Vrzal",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10113,13 +10113,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin posiluje stěny cév a zmírňuje bolest. Před použitím jsem se poradil s expertem, známou ženou, a ona jej schválila. Žádné populární chemické prostředky nemohou pomoci tak, jako tento gel na rostlinné bázi."
+        "text": "Vasos Duo posiluje stěny cév a zmírňuje bolest. Před použitím jsem se poradil s expertem, známou ženou, a ona jej schválila. Žádné populární chemické prostředky nemohou pomoci tak, jako tento gel na rostlinné bázi."
       },
 
       {
-        "src": "img/review_rectin_6.png",
+        "src": "img/review_vasos-duo _6.png",
         "name": "Josef Novák",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10143,13 +10143,13 @@
             "type": "empty"
           }
         ],
-        "text": "Expert u mě našel dvě obrovské hrudky a doporučil mi absolvovat kurz Rectinu. Efekt nastal již po 3 dnech od začátku používání. Gel má lehký chladivý účinek, zmírňuje bolest, svědění a nepohodlí."
+        "text": "Expert u mě našel dvě obrovské hrudky a doporučil mi absolvovat kurz Vasos Duou. Efekt nastal již po 3 dnech od začátku používání. Gel má lehký chladivý účinek, zmírňuje bolest, svědění a nepohodlí."
       },
 
       {
-        "src": "img/review_rectin_7.png",
+        "src": "img/review_vasos-duo _7.png",
         "name": "Helena Vondráčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10173,13 +10173,13 @@
             "type": "empty"
           }
         ],
-        "text": "Měla jsem pokročilé stádium hemoroidů, říkali mi, že musím na operaci. Ale sestra mi doporučila vyzkoušet Rectin. Používala jsem ho 1,5 měsíce - zánět a hrudky zmizely, bolest a podráždění odešlo."
+        "text": "Měla jsem pokročilé stádium hemoroidů, říkali mi, že musím na operaci. Ale sestra mi doporučila vyzkoušet Vasos Duo. Používala jsem ho 1,5 měsíce - zánět a hrudky zmizely, bolest a podráždění odešlo."
       },
 
       {
-        "src": "img/review_rectin_8.png",
+        "src": "img/review_vasos-duo _8.png",
         "name": "Kristýna Dvořáková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10203,13 +10203,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hemoroidy se u mě objevily po porodu. Rectin jsem používala měsíc a toto období bylo dostatečné k úplnému vyřešení problému. Uzly zmizely, resorbovaly se, stolice se normalizovala, bolest odezněla, žádné nepříjemné pocity. Takže z celého srdce doporučuji."
+        "text": "Hemoroidy se u mě objevily po porodu. Vasos Duo jsem používala měsíc a toto období bylo dostatečné k úplnému vyřešení problému. Uzly zmizely, resorbovaly se, stolice se normalizovala, bolest odezněla, žádné nepříjemné pocity. Takže z celého srdce doporučuji."
       },
 
       {
-        "src": "img/review_rectin_9.png",
+        "src": "img/review_vasos-duo _9.png",
         "name": "Jana Nováková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10233,13 +10233,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin je velmi dobrý prostředek, opravdu funguje a pomáhá. Měla jsem silnou zácpu a vyvinul se u mě hemoroid. Rectin mi doporučila kamarádka, jsem jí za to velmi vděčná. Všechno zmízelo!"
+        "text": "Vasos Duo je velmi dobrý prostředek, opravdu funguje a pomáhá. Měla jsem silnou zácpu a vyvinul se u mě hemoroid. Vasos Duo mi doporučila kamarádka, jsem jí za to velmi vděčná. Všechno zmízelo!"
       },
 
       {
-        "src": "img/review_rectin_10.png",
+        "src": "img/review_vasos-duo _10.png",
         "name": "Petr Svoboda",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10263,13 +10263,13 @@
             "type": "empty"
           }
         ],
-        "text": "Používání gelu je pohodlné. Mnohem lepší než čípky a masti. Efekt je vynikající - Rectin zmírňuje zánět a bolest, posiluje stěny cév, odstraňuje všechny příznaky hemoroidů. Doporučuji všem s tímto problémem."
+        "text": "Používání gelu je pohodlné. Mnohem lepší než čípky a masti. Efekt je vynikající - Vasos Duo zmírňuje zánět a bolest, posiluje stěny cév, odstraňuje všechny příznaky hemoroidů. Doporučuji všem s tímto problémem."
       },
 
       {
-        "src": "img/review_rectin_11.png",
+        "src": "img/review_vasos-duo _11.png",
         "name": "Hana Lavičková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10293,13 +10293,13 @@
             "type": "empty"
           }
         ],
-        "text": "Měla jsem hemoroidy druhého stupně. Expert předepisoval čípky a mast, 10 dní ráno a večer. Nepomohlo to. Pak začal naléhat na operaci. Dobře, že jsem včas našla gel Rectin. Absolvovala jsem kurz a zapomněla na problém jako na špatný sen."
+        "text": "Měla jsem hemoroidy druhého stupně. Expert předepisoval čípky a mast, 10 dní ráno a večer. Nepomohlo to. Pak začal naléhat na operaci. Dobře, že jsem včas našla gel Vasos Duo. Absolvovala jsem kurz a zapomněla na problém jako na špatný sen."
       },
 
       {
-        "src": "img/review_rectin_12.png",
+        "src": "img/review_vasos-duo _12.png",
         "name": "Marie Horáková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10323,13 +10323,13 @@
             "type": "empty"
           }
         ],
-        "text": "Tento problém se u mě objevil po druhém porodu. Tolik informací jsem přečetla na internetu, zkoušela různé prostředky, ale všechno bylo marné. Pomohl pouze Rectin! Stále mám doma jedno balení pro jistotu."
+        "text": "Tento problém se u mě objevil po druhém porodu. Tolik informací jsem přečetla na internetu, zkoušela různé prostředky, ale všechno bylo marné. Pomohl pouze Vasos Duo! Stále mám doma jedno balení pro jistotu."
       },
 
       {
-        "src": "img/review_rectin_13.png",
+        "src": "img/review_vasos-duo _13.png",
         "name": "Josef Novák",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10353,13 +10353,13 @@
             "type": "empty"
           }
         ],
-        "text": "Dlouho jsem hledal prostředek na základě troxerutinu. Má protizánětlivé a protiotokové účinky, je to nejefektivnější účinná látka dnešní doby. Našel jsem Rectin, používal jsem ho 2 týdny, hemoroidy zmizely."
+        "text": "Dlouho jsem hledal prostředek na základě troxerutinu. Má protizánětlivé a protiotokové účinky, je to nejefektivnější účinná látka dnešní doby. Našel jsem Vasos Duo, používal jsem ho 2 týdny, hemoroidy zmizely."
       },
 
       {
-        "src": "img/review_rectin_14.png",
+        "src": "img/review_vasos-duo _14.png",
         "name": "Helena Vondráčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10383,13 +10383,13 @@
             "type": "empty"
           }
         ],
-        "text": "Objevilo se silný nepohodlí, expert odhalil uzlík. Byla jsem vyděšená! Řekl, že mám jíst více vlákniny, aby nedošlo k zácpě. Předepsal mi mast. A doma mi maminka řekla, že se zbavila hemoroidů díky gelu Rectin. Absolvovala jsem kurz, symptomy zmizely během pár dnů. Při dalším vyšetření expert řekl, že problém už není."
+        "text": "Objevilo se silný nepohodlí, expert odhalil uzlík. Byla jsem vyděšená! Řekl, že mám jíst více vlákniny, aby nedošlo k zácpě. Předepsal mi mast. A doma mi maminka řekla, že se zbavila hemoroidů díky gelu Vasos Duo. Absolvovala jsem kurz, symptomy zmizely během pár dnů. Při dalším vyšetření expert řekl, že problém už není."
       },
 
       {
-        "src": "img/review_rectin_15.png",
+        "src": "img/review_vasos-duo _15.png",
         "name": "Kristýna Dvořáková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -10413,7 +10413,7 @@
             "type": "empty"
           }
         ],
-        "text": "Symptomy hemoroidů jsou opravdu mučivé, nejde jen o nějaké svědění, ale o skutečně nesnesitelnou bolest! Podle mého názoru nemá gel Rectin konkurenci, je to zatím určitě nejlepší, co vymysleli."
+        "text": "Symptomy hemoroidů jsou opravdu mučivé, nejde jen o nějaké svědění, ale o skutečně nesnesitelnou bolest! Podle mého názoru nemá gel Vasos Duo konkurenci, je to zatím určitě nejlepší, co vymysleli."
       }
     ]
   }

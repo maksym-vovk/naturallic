@@ -801,12 +801,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -831,8 +831,8 @@
       ],
       "text": "267 recensioni",
       "desc": "Il prodotto, a base vegetale, rafforza le pareti dei vasi sanguigni e previene lo sviluppo di emorroidi.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "IN DETTAGLIO"
     }
@@ -1557,13 +1557,13 @@
       "niche": "Campo: Vista"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1877,8 +1877,8 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Salute",
     "review_count": "333 recensioni",
     "niche": "Emorroide",
@@ -2038,8 +2038,8 @@
       "salePrice": "28",
       "newPrice": "123"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
     }
@@ -10103,11 +10103,11 @@
         "text": "Ophtalax mi ha aiutato ad eliminare la tensione agli occhi e la lacrimazione, causati dal mio lungo lavoro al computer. Adesso passo lo stesso tempo davanti al monitor, ma i miei occhi stanno bene."
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
+        "src": "img/review_vasos-duo _1.png",
         "name": "Sara Poggi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10131,13 +10131,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin è un ottimo gel. Dopo una settimana, tutti i sintomi delle emorroidi sono scomparsi. Nessuna supposta può paragonarsi ad esso. Mi è stato consigliato dal mio specialista e mi fido molto di lui."
+        "text": "Vasos Duo è un ottimo gel. Dopo una settimana, tutti i sintomi delle emorroidi sono scomparsi. Nessuna supposta può paragonarsi ad esso. Mi è stato consigliato dal mio specialista e mi fido molto di lui."
       },
 
       {
-        "src": "img/review_rectin_2.png",
+        "src": "img/review_vasos-duo _2.png",
         "name": "Eleonora Romanelli",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10161,13 +10161,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho vissuto con questo incubo per 5 anni. All'inizio è tutto lieve, solo prurito e fastidio. Poi sono arrivate le esacerbazioni, sono comparsi lividi, forte dolore. Spalmavo le creme, facevo le supposte, niente ha aiutato. Grazie a Rectin in un mese, tutto è andato via."
+        "text": "Ho vissuto con questo incubo per 5 anni. All'inizio è tutto lieve, solo prurito e fastidio. Poi sono arrivate le esacerbazioni, sono comparsi lividi, forte dolore. Spalmavo le creme, facevo le supposte, niente ha aiutato. Grazie a Vasos Duo in un mese, tutto è andato via."
       },
 
       {
-        "src": "img/review_rectin_3.png",
+        "src": "img/review_vasos-duo _3.png",
         "name": "Emma Aloise",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10191,13 +10191,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho avuto problemi con le emorroidi per quasi un anno. Ho provato unguenti e supposte e persino rimedi popolari. Pensavo che avrei vissuto così per tutta la vita. Ma 2 settimane dopo aver iniziato a usare Rectin, tutto è andato via! Sono molto contenta."
+        "text": "Ho avuto problemi con le emorroidi per quasi un anno. Ho provato unguenti e supposte e persino rimedi popolari. Pensavo che avrei vissuto così per tutta la vita. Ma 2 settimane dopo aver iniziato a usare Vasos Duo, tutto è andato via! Sono molto contenta."
       },
 
       {
-        "src": "img/review_rectin_4.png",
+        "src": "img/review_vasos-duo _4.png",
         "name": "Nunzia Catarella",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10221,13 +10221,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho avuto emorroidi dopo un ciclo di antibiotici. Avevo 2 nodi. L'esperto ha prescritto delle supposte, all'inizio è stato meglio, ma poi il dolore è tornato, era molto doloroso andare in bagno. Ho letto delle buone recensioni su Rectin. Ho deciso di comprarlo. Ho completato il corso e il problema non c'è più. Ottimo gel!"
+        "text": "Ho avuto emorroidi dopo un ciclo di antibiotici. Avevo 2 nodi. L'esperto ha prescritto delle supposte, all'inizio è stato meglio, ma poi il dolore è tornato, era molto doloroso andare in bagno. Ho letto delle buone recensioni su Vasos Duo. Ho deciso di comprarlo. Ho completato il corso e il problema non c'è più. Ottimo gel!"
       },
 
       {
-        "src": "img/review_rectin_5.png",
+        "src": "img/review_vasos-duo _5.png",
         "name": "Paolo Proietti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10251,13 +10251,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin rafforza le pareti dei vasi sanguigni e allevia il dolore. Prima dell'applicazione ho consultato un esperto, una signora che conosco, ha approvato. Nessun prodotto chimico oggi famoso può aiutare come questo gel a base vegetale."
+        "text": "Vasos Duo rafforza le pareti dei vasi sanguigni e allevia il dolore. Prima dell'applicazione ho consultato un esperto, una signora che conosco, ha approvato. Nessun prodotto chimico oggi famoso può aiutare come questo gel a base vegetale."
       },
 
       {
-        "src": "img/review_rectin_6.png",
+        "src": "img/review_vasos-duo _6.png",
         "name": "Lorenzo Marinelli",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10281,13 +10281,13 @@
             "type": "empty"
           }
         ],
-        "text": "Lo specialista mi ha trovato 2 grossi noduli e mi ha consigliato di seguire un corso di Rectin. L'effetto si è verificato già 3 giorni dopo l'inizio dell'applicazione. Gel con un leggero effetto di raffreddamento, allevia il dolore, il prurito e il disagio."
+        "text": "Lo specialista mi ha trovato 2 grossi noduli e mi ha consigliato di seguire un corso di Vasos Duo. L'effetto si è verificato già 3 giorni dopo l'inizio dell'applicazione. Gel con un leggero effetto di raffreddamento, allevia il dolore, il prurito e il disagio."
       },
 
       {
-        "src": "img/review_rectin_7.png",
+        "src": "img/review_vasos-duo _7.png",
         "name": "Luciana Vanzetti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10311,13 +10311,13 @@
             "type": "empty"
           }
         ],
-        "text": "Avevo una fase avanzata di emorroidi, stavo per fare un intervento chirurgico. Ma mia sorella mi ha consigliato di provare Rectin. L'ho usato per 1,5 mesi: l'infiammazione e le protuberanze sono scomparse, il dolore e l'irritazione sono scomparsi."
+        "text": "Avevo una fase avanzata di emorroidi, stavo per fare un intervento chirurgico. Ma mia sorella mi ha consigliato di provare Vasos Duo. L'ho usato per 1,5 mesi: l'infiammazione e le protuberanze sono scomparse, il dolore e l'irritazione sono scomparsi."
       },
 
       {
-        "src": "img/review_rectin_8.png",
+        "src": "img/review_vasos-duo _8.png",
         "name": "Gina Gana",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10341,13 +10341,13 @@
             "type": "empty"
           }
         ],
-        "text": "Le emorroidi sono apparse dopo il parto. Ho usato Rectin per un mese e questo tempo è stato sufficiente per eliminare completamente il problema. I nodi hanno cominciato a dissolversi, le feci sono tornate alla normalità, il dolore è scomparso, nessun disagio. Quindi lo consiglio vivamente."
+        "text": "Le emorroidi sono apparse dopo il parto. Ho usato Vasos Duo per un mese e questo tempo è stato sufficiente per eliminare completamente il problema. I nodi hanno cominciato a dissolversi, le feci sono tornate alla normalità, il dolore è scomparso, nessun disagio. Quindi lo consiglio vivamente."
       },
 
       {
-        "src": "img/review_rectin_9.png",
+        "src": "img/review_vasos-duo _9.png",
         "name": "Simona Marconi",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10371,13 +10371,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin è un ottimo rimedio, funziona davvero e aiuta. Ho avuto una grave stitichezza e ho sviluppato emorroidi. Rectin mi è stato consigliato da un'amica e le sono molto grato per questo. È andato via tutto!"
+        "text": "Vasos Duo è un ottimo rimedio, funziona davvero e aiuta. Ho avuto una grave stitichezza e ho sviluppato emorroidi. Vasos Duo mi è stato consigliato da un'amica e le sono molto grato per questo. È andato via tutto!"
       },
 
       {
-        "src": "img/review_rectin_10.png",
+        "src": "img/review_vasos-duo _10.png",
         "name": "Ludovico Cacciola",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10401,13 +10401,13 @@
             "type": "empty"
           }
         ],
-        "text": "Il gel è comodo da usare. Molto meglio di supposte e unguenti grassi. L'effetto è eccellente: Rectin allevia l'infiammazione e il dolore, rafforza le pareti dei vasi sanguigni, elimina tutti i sintomi delle emorroidi. Lo consiglio a tutti con questo problema."
+        "text": "Il gel è comodo da usare. Molto meglio di supposte e unguenti grassi. L'effetto è eccellente: Vasos Duo allevia l'infiammazione e il dolore, rafforza le pareti dei vasi sanguigni, elimina tutti i sintomi delle emorroidi. Lo consiglio a tutti con questo problema."
       },
 
       {
-        "src": "img/review_rectin_11.png",
+        "src": "img/review_vasos-duo _11.png",
         "name": "Irene Monti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10431,13 +10431,13 @@
             "type": "empty"
           }
         ],
-        "text": "Avevo le emorroidi al secondo stadio. L'esperto prescrisse supposte e pomate per 10 giorni, mattina e sera. Non ha aiutato. Poi ha iniziato a insistere per un intervento chirurgico. Per fortuna ho trovato il gel Rectin in tempo. Ho fatto il corso e ho dimenticato il problema come un sogno terribile."
+        "text": "Avevo le emorroidi al secondo stadio. L'esperto prescrisse supposte e pomate per 10 giorni, mattina e sera. Non ha aiutato. Poi ha iniziato a insistere per un intervento chirurgico. Per fortuna ho trovato il gel Vasos Duo in tempo. Ho fatto il corso e ho dimenticato il problema come un sogno terribile."
       },
 
       {
-        "src": "img/review_rectin_12.png",
+        "src": "img/review_vasos-duo _12.png",
         "name": "Illaria Mastrojanni",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10461,13 +10461,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho avuto questo problema dopo il secondo parto. Ho letto tante informazioni su Internet, ho provato a salvarmi in vari modi, ma tutto è stato inutile. Solo Rectin ha aiutato! Ho ancora una confezione di riserva per ogni evenienza."
+        "text": "Ho avuto questo problema dopo il secondo parto. Ho letto tante informazioni su Internet, ho provato a salvarmi in vari modi, ma tutto è stato inutile. Solo Vasos Duo ha aiutato! Ho ancora una confezione di riserva per ogni evenienza."
       },
 
       {
-        "src": "img/review_rectin_13.png",
+        "src": "img/review_vasos-duo _13.png",
         "name": "Alessio Pirla",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10491,13 +10491,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho cercato a lungo un rimedio a base di troxerutina. Ha un effetto antinfiammatorio e decongestionante, il principio attivo più efficace ad oggi. Ho trovato Rectin, l'ho usato per 2 settimane, niente più emorroidi."
+        "text": "Ho cercato a lungo un rimedio a base di troxerutina. Ha un effetto antinfiammatorio e decongestionante, il principio attivo più efficace ad oggi. Ho trovato Vasos Duo, l'ho usato per 2 settimane, niente più emorroidi."
       },
 
       {
-        "src": "img/review_rectin_14.png",
+        "src": "img/review_vasos-duo _14.png",
         "name": "Mariann Del Core",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10521,13 +10521,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ho avuto un forte disagio, l'esperto ha scoperto un nodulo. Ero terrorizzata! Ha detto di mangiare più fibre per evitare la stitichezza. Mi ha prescritto un unguento. E a casa, mia madre mi ha detto che si è sbarazzata delle emorroidi con l'aiuto del gel Rectin. Ho seguito il corso, i sintomi sono scomparsi dopo un paio di giorni. Al riesame, lo specialista ha affermato che il problema non era più presente."
+        "text": "Ho avuto un forte disagio, l'esperto ha scoperto un nodulo. Ero terrorizzata! Ha detto di mangiare più fibre per evitare la stitichezza. Mi ha prescritto un unguento. E a casa, mia madre mi ha detto che si è sbarazzata delle emorroidi con l'aiuto del gel Vasos Duo. Ho seguito il corso, i sintomi sono scomparsi dopo un paio di giorni. Al riesame, lo specialista ha affermato che il problema non era più presente."
       },
 
       {
-        "src": "img/review_rectin_15.png",
+        "src": "img/review_vasos-duo _15.png",
         "name": "Elena Simoncelli",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;Vasos Duo",
         "rating_text": "Ottima qualità!",
         "stars": [
           {
@@ -10551,7 +10551,7 @@
             "type": "empty"
           }
         ],
-        "text": "I sintomi delle emorroidi sono davvero dolorosi, non è solo un prurito, ma un dolore davvero insopportabile! Secondo me Rectin gel non ha concorrenti, è sicuramente il meglio che è stato inventato finora."
+        "text": "I sintomi delle emorroidi sono davvero dolorosi, non è solo un prurito, ma un dolore davvero insopportabile! Secondo me Vasos Duo gel non ha concorrenti, è sicuramente il meglio che è stato inventato finora."
       }
     ]
   }

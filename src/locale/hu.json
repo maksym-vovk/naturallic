@@ -800,12 +800,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -830,8 +830,8 @@
       ],
       "text": "267 hozzászólás",
       "desc": "Description.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "RÉSZLETEK"
     }
@@ -1557,13 +1557,13 @@
       "niche": "Irányzat: Niche"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1878,8 +1878,8 @@
     "suitability": "suitability",
     "keep": "keep."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Category",
     "review_count": "333 hozzászólás",
     "niche": "Niche",
@@ -2037,8 +2037,8 @@
       "salePrice": "800",
       "newPrice": "111111"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "800",
       "newPrice": "111111"
     }
@@ -10116,11 +10116,11 @@
         "text": "Comment text - Ophtalax"
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _1.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10144,13 +10144,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _2.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10174,13 +10174,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _3.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10204,13 +10204,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _4.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10234,13 +10234,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _5.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10264,13 +10264,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _6.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10294,13 +10294,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _7.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10324,13 +10324,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _8.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10354,13 +10354,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _9.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10384,13 +10384,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _10.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10414,13 +10414,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _11.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10444,13 +10444,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _12.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10474,13 +10474,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _13.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10504,13 +10504,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _14.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказалa</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10534,13 +10534,13 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "name": "Name - rectin",
-        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;rectin",
+        "src": "img/review_vasos-duo _15.png",
+        "name": "Name - vasos-duo ",
+        "desc": "<span class=\"review__mark\">высказал</span> свое мнение про&nbsp;vasos-duo ",
         "rating_text": "Отличное качество!",
         "stars": [
           {
@@ -10564,7 +10564,7 @@
             "type": "empty"
           }
         ],
-        "text": "Comment text - rectin"
+        "text": "Comment text - vasos-duo "
       }
     ]
   }

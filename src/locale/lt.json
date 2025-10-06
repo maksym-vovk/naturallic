@@ -802,12 +802,12 @@
     },
     {
       "label": "Top prekė",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -832,8 +832,8 @@
       ],
       "text": "267 atsiliepimai",
       "desc": "Augalinis produktas stiprina kraujagyslių sieneles ir neleidžia vystytis hemorojui.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "DAUGIAU"
     }
@@ -1560,13 +1560,13 @@
       "niche": "Kryptis: Regėjimas"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1881,8 +1881,8 @@
     "suitability": "2 metai",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 atsiliepimai",
     "niche": "Hemorojus",
@@ -2035,8 +2035,8 @@
       "salePrice": "26",
       "newPrice": "109"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "24",
       "newPrice": "88"
     }
@@ -9964,13 +9964,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Jolanta Kazlauskienė",
-        "text": "Rectin - puikus gelis. Per savaitę visi hemorojaus simptomai praėjo. Jokių žvakučių su juo nepalyginsi. Man jį patarė mano pažįstamas ekspertas, o aš juo labai pasitikiu.",
+        "text": "Vasos Duo - puikus gelis. Per savaitę visi hemorojaus simptomai praėjo. Jokių žvakučių su juo nepalyginsi. Man jį patarė mano pažįstamas ekspertas, o aš juo labai pasitikiu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9996,11 +9996,11 @@
       },
 
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Rūta Gediminskienė",
-        "text": "Su šiuo košmaru gyvenau 5 metus. Iš pradžių viskas buvo lengva forma - tiesiog niežėjimas, diskomfortas. Paskui būklė paūmėjo, atsirado mėlynės, stiprus skausmas. Tepiausi kremais, bandžiau žvakutes, bet niekas nepadėjo. Kai pradėjau naudoti Rectin, per mėnesį viskas praėjo.",
+        "text": "Su šiuo košmaru gyvenau 5 metus. Iš pradžių viskas buvo lengva forma - tiesiog niežėjimas, diskomfortas. Paskui būklė paūmėjo, atsirado mėlynės, stiprus skausmas. Tepiausi kremais, bandžiau žvakutes, bet niekas nepadėjo. Kai pradėjau naudoti Vasos Duo, per mėnesį viskas praėjo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10026,11 +10026,11 @@
       },
 
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Eglė Kavaliauskaitė",
-        "text": "Turėjau problemų su hemorojumi beveik metus. Bandydavau tepalus ir žvakutes, net liaudiškas priemones. Jau maniau, kad su tuo teks gyventi visą likusį gyvenimą. Bet kai pradėjau naudoti Rectin, po 2 savaičių viskas susitvarkė! Labai patenkinta.",
+        "text": "Turėjau problemų su hemorojumi beveik metus. Bandydavau tepalus ir žvakutes, net liaudiškas priemones. Jau maniau, kad su tuo teks gyventi visą likusį gyvenimą. Bet kai pradėjau naudoti Vasos Duo, po 2 savaičių viskas susitvarkė! Labai patenkinta.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10056,11 +10056,11 @@
       },
 
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Ingrida Šimkutė",
-        "text": "Hemorojus atsirado po antibiotikų kurso. Buvo 2 mazgai. Specialistas paskyrė žvakutes, iš pradžių buvo lengviau, bet vėliau skausmas grįžo, tuštinantis labai skaudėjo. Apie Rectin skaičiau daug gerų atsiliepimų. Nusprendžiau nusipirkti. Baigiau kursą ir problemų daugiau nebėra. Nuostabus gelis!",
+        "text": "Hemorojus atsirado po antibiotikų kurso. Buvo 2 mazgai. Specialistas paskyrė žvakutes, iš pradžių buvo lengviau, bet vėliau skausmas grįžo, tuštinantis labai skaudėjo. Apie Vasos Duo skaičiau daug gerų atsiliepimų. Nusprendžiau nusipirkti. Baigiau kursą ir problemų daugiau nebėra. Nuostabus gelis!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10086,11 +10086,11 @@
       },
 
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Jonas Petrauskas",
-        "text": "Rectin stiprina kraujagyslių sieneles ir malšina skausmą. Prieš pradedant naudotis pasitariau su pažįstama moterimi, specialiste tuo klausimu, ji patvirtino. Jokie populiarūs chemijos preparatai negali taip padėti, kaip šis gelis augaliniu pagrindu.",
+        "text": "Vasos Duo stiprina kraujagyslių sieneles ir malšina skausmą. Prieš pradedant naudotis pasitariau su pažįstama moterimi, specialiste tuo klausimu, ji patvirtino. Jokie populiarūs chemijos preparatai negali taip padėti, kaip šis gelis augaliniu pagrindu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10116,11 +10116,11 @@
       },
 
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _6.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Marius Žukauskas",
-        "text": "Man rado du didžiulius guzus ir rekomendavo išbandyti Rectin kursą. Efektas pasirodė jau po trijų dienų. Gelis su lengvu vėsinamuoju efektu, malšina skausmą, niežulį ir diskomfortą.",
+        "text": "Man rado du didžiulius guzus ir rekomendavo išbandyti Vasos Duo kursą. Efektas pasirodė jau po trijų dienų. Gelis su lengvu vėsinamuoju efektu, malšina skausmą, niežulį ir diskomfortą.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10146,11 +10146,11 @@
       },
 
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Lina Navickaitė",
-        "text": "Man buvo pažengusi hemorojaus stadija, ruošiausi operacijai. Bet sesuo patarė pabandyti Rectin. Aš jį naudojau pusantro mėnesio - uždegimas ir guzeliai sumažėjo, praėjo skausmas ir dirginimas.",
+        "text": "Man buvo pažengusi hemorojaus stadija, ruošiausi operacijai. Bet sesuo patarė pabandyti Vasos Duo. Aš jį naudojau pusantro mėnesio - uždegimas ir guzeliai sumažėjo, praėjo skausmas ir dirginimas.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10176,11 +10176,11 @@
       },
 
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Agnė Kavaliauskaitė",
-        "text": "Hemorojus atsirado po gimdymo. Naudojau Rectin mėnesį ir to laiko pakako, kad problemą visiškai būtų išspręsta. Mazgai pradėjo susitraukinėti, susitvarkė tuštinimasis, skausmas praeina, jokių nepatogumų. Todėl nuoširdžiai rekomenduoju.",
+        "text": "Hemorojus atsirado po gimdymo. Naudojau Vasos Duo mėnesį ir to laiko pakako, kad problemą visiškai būtų išspręsta. Mazgai pradėjo susitraukinėti, susitvarkė tuštinimasis, skausmas praeina, jokių nepatogumų. Todėl nuoširdžiai rekomenduoju.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10206,11 +10206,11 @@
       },
 
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _9.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Ieva Jonaitienė",
-        "text": "Rectin - labai gera priemonė, tikrai veikia ir padeda. Man dažnai būdavo stiprus vidurių užkietėjimas ir dėl to išsivystė hemorojus. Rectin man patarė draugė, aš už tai jai labai dėkinga. Viskas praėjo!",
+        "text": "Vasos Duo - labai gera priemonė, tikrai veikia ir padeda. Man dažnai būdavo stiprus vidurių užkietėjimas ir dėl to išsivystė hemorojus. Vasos Duo man patarė draugė, aš už tai jai labai dėkinga. Viskas praėjo!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10236,11 +10236,11 @@
       },
 
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Tomas Petrauskas",
-        "text": "Šį gelį patogu naudoti. Kur kas geresnis už žvakutes ir visokius riebius tepalus. Efektas puikus - Rectin malšina uždegimą ir skausmą, stiprina kraujagyslių sieneles, pašalina visus hemorojaus simptomus. Rekomenduoju visiems, kam ši problema aktuali.",
+        "text": "Šį gelį patogu naudoti. Kur kas geresnis už žvakutes ir visokius riebius tepalus. Efektas puikus - Vasos Duo malšina uždegimą ir skausmą, stiprina kraujagyslių sieneles, pašalina visus hemorojaus simptomus. Rekomenduoju visiems, kam ši problema aktuali.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10266,11 +10266,11 @@
       },
 
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Rasa Kazlauskienė",
-        "text": "Turėjau antros stadijos hemorojų. Man išrašė žvakutes ir tepalą, 10 dienų ryte ir vakare. Nepadėjo. Paskui patarė operuotis. Gerai, kad laiku radau Rectin. Pabaigiau kursą ir pamiršau šią problemą kaip susapnuotą košmarą.",
+        "text": "Turėjau antros stadijos hemorojų. Man išrašė žvakutes ir tepalą, 10 dienų ryte ir vakare. Nepadėjo. Paskui patarė operuotis. Gerai, kad laiku radau Vasos Duo. Pabaigiau kursą ir pamiršau šią problemą kaip susapnuotą košmarą.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10296,11 +10296,11 @@
       },
 
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Gintarė Šimkutė",
-        "text": "Man hemorojus atsirado po antrojo gimdymo. Perskaičiau kalnus informacijos internete, griebiausi įvairių priemonių, bet viskas buvo veltui. Padėjo tik Rectin! Vis dar turiu vieną pakuotę atsargai.",
+        "text": "Man hemorojus atsirado po antrojo gimdymo. Perskaičiau kalnus informacijos internete, griebiausi įvairių priemonių, bet viskas buvo veltui. Padėjo tik Vasos Duo! Vis dar turiu vieną pakuotę atsargai.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10326,11 +10326,11 @@
       },
 
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Marius Žukauskas",
-        "text": "Ilgai ieškojau priemonės su trokserutinu. Jis mažina uždegimą ir patinimą, šiuo metu tai efektyviausia veiklioji medžiaga. Radau Rectin, vartojau 2 savaites, hemorojus dingo.",
+        "text": "Ilgai ieškojau priemonės su trokserutinu. Jis mažina uždegimą ir patinimą, šiuo metu tai efektyviausia veiklioji medžiaga. Radau Vasos Duo, vartojau 2 savaites, hemorojus dingo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10356,11 +10356,11 @@
       },
 
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _14.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Lina Navickaitė",
-        "text": "Atsirado stiprus diskomfortas, specialistai aptiko mazgelių. Buvau išsigandusi! Liepė valgyti daugiau skaidulinio maisto, kad neužkietėtų viduriai. Išrašė kažkokį tepalą. Bet kai grįžau namo, mama pasakė man, kad jai pačiai atsikratyti hemorojaus padėjo Rectin gelis. Aš tepiausi visą kursą, simptomai pranyko per kelias dienas. Per pakartotinę apžiūrą pasakė, kad problemų nebėra.",
+        "text": "Atsirado stiprus diskomfortas, specialistai aptiko mazgelių. Buvau išsigandusi! Liepė valgyti daugiau skaidulinio maisto, kad neužkietėtų viduriai. Išrašė kažkokį tepalą. Bet kai grįžau namo, mama pasakė man, kad jai pačiai atsikratyti hemorojaus padėjo Vasos Duo gelis. Aš tepiausi visą kursą, simptomai pranyko per kelias dienas. Per pakartotinę apžiūrą pasakė, kad problemų nebėra.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10386,11 +10386,11 @@
       },
 
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _15.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;Vasos Duo",
         "rating_text": "Puiki kokybė!",
         "name": "Agnė Kavaliauskaitė",
-        "text": "Hemorojaus simptomai - tikra kančia, tai ne tik paprastas niežėjimas, bet kartais ir nepakeliamas skausmas! Mano nuomone, Rectin geliui konkurentų nėra, tai tikrai geriausias preparatas iš visų, kas sugalvota.",
+        "text": "Hemorojaus simptomai - tikra kančia, tai ne tik paprastas niežėjimas, bet kartais ir nepakeliamas skausmas! Mano nuomone, Vasos Duo geliui konkurentų nėra, tai tikrai geriausias preparatas iš visų, kas sugalvota.",
         "stars": [
           {
             "src": "img/svg/star.svg",

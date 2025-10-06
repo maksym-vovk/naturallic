@@ -799,12 +799,12 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -829,8 +829,8 @@
       ],
       "text": "267 avis",
       "desc": "Produit à base de plantes, renforce les parois des vaisseaux et prévient le développement des hémorroïdes",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "En savoir plus"
     }
@@ -1554,13 +1554,13 @@
       "niche": "Catégorie: Vision"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1874,8 +1874,8 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Pour la santé",
     "review_count": "333 avis",
     "niche": "Hémorroïdes",
@@ -2032,8 +2032,8 @@
       "salePrice": "26",
       "newPrice": "119"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
       "newPrice": "80"
     }
@@ -9770,13 +9770,13 @@
         ]
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Delphine Janssens",
-        "text": "Rectin est un gel excellent. En une semaine, tous les symptômes d’hémorroïdes ont disparu. Aucune suppositoire ne peut se comparer. Mon spécialiste me l’a conseillé, et j’ai une grande confiance en lui.",
+        "text": "Vasos Duo est un gel excellent. En une semaine, tous les symptômes d’hémorroïdes ont disparu. Aucune suppositoire ne peut se comparer. Mon spécialiste me l’a conseillé, et j’ai une grande confiance en lui.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9801,11 +9801,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Germaine Lemaire",
-        "text": "J’ai vécu avec ce cauchemar pendant 5 ans. Au début, c’était léger: juste des démangeaisons, un inconfort. Puis sont venus les crises, les ecchymoses, une douleur intense. J’ai essayé des crèmes et des suppositoires, rien n’a aidé. Grâce à Rectin, en un mois, tout avait disparu.",
+        "text": "J’ai vécu avec ce cauchemar pendant 5 ans. Au début, c’était léger: juste des démangeaisons, un inconfort. Puis sont venus les crises, les ecchymoses, une douleur intense. J’ai essayé des crèmes et des suppositoires, rien n’a aidé. Grâce à Vasos Duo, en un mois, tout avait disparu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9830,11 +9830,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Béatrice Martin",
-        "text": "J’avais des problèmes d’hémorroïdes depuis presque un an. J’ai essayé des pommades, des suppositoires et même des remèdes traditionnels. Je pensais que je vivrais ainsi toute ma vie. Mais deux semaines après le début de Rectin, tout avait disparu ! Je suis très satisfaite.",
+        "text": "J’avais des problèmes d’hémorroïdes depuis presque un an. J’ai essayé des pommades, des suppositoires et même des remèdes traditionnels. Je pensais que je vivrais ainsi toute ma vie. Mais deux semaines après le début de Vasos Duo, tout avait disparu ! Je suis très satisfaite.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9859,11 +9859,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Alexandra Lambert",
-        "text": "Les hémorroïdes sont apparus après un cours d’antibiotiques. J’avais deux nodules. Le spécialiste m’a prescrit des suppositoires : au début ça allait mieux, puis la douleur est revenue, aller aux toilettes était devenu insupportable. J’ai lu beaucoup de bons avis sur Rectin et j’ai décidé d’essayer. Après le cours, j’ai complètement éliminé le problème. Un gel merveilleux!",
+        "text": "Les hémorroïdes sont apparus après un cours d’antibiotiques. J’avais deux nodules. Le spécialiste m’a prescrit des suppositoires : au début ça allait mieux, puis la douleur est revenue, aller aux toilettes était devenu insupportable. J’ai lu beaucoup de bons avis sur Vasos Duo et j’ai décidé d’essayer. Après le cours, j’ai complètement éliminé le problème. Un gel merveilleux!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9888,11 +9888,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Georges Dupuis",
-        "text": "Rectin renforce les parois des vaisseaux sanguins et soulage la douleur. Avant de l’utiliser, j’ai consulté une spécialiste, une amie, qui l’a approuvé. Aucun médicament chimique populaire ne peut aider autant que ce gel à base de plantes.",
+        "text": "Vasos Duo renforce les parois des vaisseaux sanguins et soulage la douleur. Avant de l’utiliser, j’ai consulté une spécialiste, une amie, qui l’a approuvé. Aucun médicament chimique populaire ne peut aider autant que ce gel à base de plantes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9917,11 +9917,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Lucien Petit",
-        "text": "Le spécialiste a découvert deux énormes nodules chez moi et m’a prescrit un cours de Rectin. L’effet est apparu trois jours après le début de l’application. Le gel a un léger effet rafraîchissant, il soulage la douleur, les démangeaisons et l’inconfort.",
+        "text": "Le spécialiste a découvert deux énormes nodules chez moi et m’a prescrit un cours de Vasos Duo. L’effet est apparu trois jours après le début de l’application. Le gel a un léger effet rafraîchissant, il soulage la douleur, les démangeaisons et l’inconfort.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9946,11 +9946,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Stéphanie Morel",
-        "text": "J’avais un stade avancé d’hémorroïdes, une opération était prévue. Mais ma sœur m’a conseillé d’essayer Rectin. Je l’ai utilisé pendant un mois et demi: l’inflammation et les nodules ont disparu, la douleur et l’irritation se sont envolées.",
+        "text": "J’avais un stade avancé d’hémorroïdes, une opération était prévue. Mais ma sœur m’a conseillé d’essayer Vasos Duo. Je l’ai utilisé pendant un mois et demi: l’inflammation et les nodules ont disparu, la douleur et l’irritation se sont envolées.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9975,11 +9975,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Éléonore Michiels",
-        "text": "Les hémorroïdes sont apparus après l’accouchement. J’ai utilisé Rectin pendant un mois, ce temps a suffi pour me débarrasser complètement du problème. Les nodules ont commencé à disparaître, mes selles se sont normalisées, la douleur a disparu, je n'ai plus aucune sensation désagréable. Je le recommande de tout cœur!",
+        "text": "Les hémorroïdes sont apparus après l’accouchement. J’ai utilisé Vasos Duo pendant un mois, ce temps a suffi pour me débarrasser complètement du problème. Les nodules ont commencé à disparaître, mes selles se sont normalisées, la douleur a disparu, je n'ai plus aucune sensation désagréable. Je le recommande de tout cœur!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10004,11 +10004,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Marie De Clercq",
-        "text": "Rectin est un très bon produit, il fonctionne vraiment et aide. J’avais une constipation sévère et des hémorroïdes se sont développés. Une amie me l’a conseillé, je lui suis très reconnaissante. Tout est passé!",
+        "text": "Vasos Duo est un très bon produit, il fonctionne vraiment et aide. J’avais une constipation sévère et des hémorroïdes se sont développés. Une amie me l’a conseillé, je lui suis très reconnaissante. Tout est passé!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10033,11 +10033,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Dimitri Lefebvre",
-        "text": "L’utilisation du gel est très pratique. Bien mieux que les suppositoires et les pommades grasses. L’effet est excellent : Rectin soulage l’inflammation et la douleur, renforce les parois des vaisseaux et élimine tous les symptômes d’hémorroïdes. Je le recommande à tous ceux qui ont ce problème.",
+        "text": "L’utilisation du gel est très pratique. Bien mieux que les suppositoires et les pommades grasses. L’effet est excellent : Vasos Duo soulage l’inflammation et la douleur, renforce les parois des vaisseaux et élimine tous les symptômes d’hémorroïdes. Je le recommande à tous ceux qui ont ce problème.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10062,11 +10062,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Gloria Huybrechts",
-        "text": "J’avais des hémorroïdes de grade 2. Le spécialiste prescrivait des suppositoires et une pommade, à prendre matin et soir pendant 10 jours. Cela m’a aidée, mais ensuite il a insisté pour une opération. Heureusement, j’ai trouvé le gel Rectin à temps. Après le course, j’ai oublié ce problème comme un mauvais souvenir.",
+        "text": "J’avais des hémorroïdes de grade 2. Le spécialiste prescrivait des suppositoires et une pommade, à prendre matin et soir pendant 10 jours. Cela m’a aidée, mais ensuite il a insisté pour une opération. Heureusement, j’ai trouvé le gel Vasos Duo à temps. Après le course, j’ai oublié ce problème comme un mauvais souvenir.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10091,11 +10091,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Priscilla Van Damme",
-        "text": "Ce problème est apparu après mon deuxième accouchement. J’ai lu beaucoup d’informations sur Internet, j’ai essayé divers remèdes, mais tout était inutile. Seul Rectin m’a aidée. J’ai même gardé une boîte de réserve «au cas où».",
+        "text": "Ce problème est apparu après mon deuxième accouchement. J’ai lu beaucoup d’informations sur Internet, j’ai essayé divers remèdes, mais tout était inutile. Seul Vasos Duo m’a aidée. J’ai même gardé une boîte de réserve «au cas où».",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10120,11 +10120,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Julien Caradec",
-        "text": "Je cherchais depuis longtemps un produit à base de troxérutine. Il a une action anti-inflammatoire et anti-œdème, c’est l’ingrédient actif le plus efficace à ce jour. J’ai trouvé Rectin, je l’ai utilisé pendant 2 semaines, et je n’ai plus d’hémorroïdes.",
+        "text": "Je cherchais depuis longtemps un produit à base de troxérutine. Il a une action anti-inflammatoire et anti-œdème, c’est l’ingrédient actif le plus efficace à ce jour. J’ai trouvé Vasos Duo, je l’ai utilisé pendant 2 semaines, et je n’ai plus d’hémorroïdes.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10149,11 +10149,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Nathalie Artois",
-        "text": "Un fort inconfort est apparu, le spécialiste a découvert un nodule. J’étais sous le choc ! Il m’a conseillé de manger plus de fibres, d’éviter la constipation et a prescrit une pommade. À la maison, ma mère m’a dit qu’elle s’était débarrassée des hémorroïdes grâce au gel Rectin. J’ai suivi le cours et les symptômes ont disparu en quelques jours. Lors du contrôle suivant, le spécialiste a confirmé que le problème n’existait plus.",
+        "text": "Un fort inconfort est apparu, le spécialiste a découvert un nodule. J’étais sous le choc ! Il m’a conseillé de manger plus de fibres, d’éviter la constipation et a prescrit une pommade. À la maison, ma mère m’a dit qu’elle s’était débarrassée des hémorroïdes grâce au gel Vasos Duo. J’ai suivi le cours et les symptômes ont disparu en quelques jours. Lors du contrôle suivant, le spécialiste a confirmé que le problème n’existait plus.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10178,11 +10178,11 @@
         ]
       },
       {
-        "src": "img/review_rectin_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;RECTIN",
+        "src": "img/review_vasos-duo _15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;Vasos Duo",
         "rating_text": "Excellente qualité!",
         "name": "Geneviève Bodard",
-        "text": "Les symptômes des hémorroïdes sont vraiment insupportables, ce n’est pas seulement des démangeaisons, mais une douleur véritablement intolérable! À mon avis, le gel Rectin n’a pas de concurrents, c’est sans aucun doute le meilleur produit inventé jusqu’à présent.",
+        "text": "Les symptômes des hémorroïdes sont vraiment insupportables, ce n’est pas seulement des démangeaisons, mais une douleur véritablement intolérable! À mon avis, le gel Vasos Duo n’a pas de concurrents, c’est sans aucun doute le meilleur produit inventé jusqu’à présent.",
         "stars": [
           {
             "src": "img/svg/star.svg",

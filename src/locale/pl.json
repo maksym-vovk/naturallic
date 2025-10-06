@@ -802,12 +802,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
       "modifier": "img-space--right-low",
-      "name": "Rectin",
+      "name": "Vasos Duo",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -832,8 +832,8 @@
       ],
       "text": "267 opinii",
       "desc": "Produkt na bazie roślinnej wzmacnia ściany naczyń krwionośnych i zapobiega rozwojowi hemoroidów.",
-      "link": "rectin.html",
-      "tag": "rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
       "category": "health",
       "btn": "Szczegóły"
     }
@@ -1560,13 +1560,13 @@
       "niche": "Zastosowanie: Wzrok"
     },
     {
-      "link": "rectin.html",
-      "tag": "rectin",
-      "srcPhoto": "img/rectin.png",
-      "srcPhotoWebp": "img/rectin.webp",
-      "mobSrcPhoto": "img/rectin-mob.png",
-      "mobSrcPhotoWebp": "img/rectin-mob.webp",
-      "name": "Rectin",
+      "link": "vasos-duo .html",
+      "tag": "vasos-duo ",
+      "srcPhoto": "img/vasos-duo .png",
+      "srcPhotoWebp": "img/vasos-duo .webp",
+      "mobSrcPhoto": "img/vasos-duo -mob.png",
+      "mobSrcPhotoWebp": "img/vasos-duo -mob.webp",
+      "name": "Vasos Duo",
       "narrow": true,
       "stars": [
         {
@@ -1881,8 +1881,8 @@
     "suitability": "2 lata",
     "keep": "Przechowywać w ciemnym, suchym miejscu, niedostępnym dla dzieci, w temperaturze wyżej 25°С."
   },
-  "rectin": {
-    "title": "Rectin",
+  "vasos-duo ": {
+    "title": "Vasos Duo",
     "category": "Zdrowie",
     "review_count": "333 opinii",
     "niche": "Hemoroidy",
@@ -2040,8 +2040,8 @@
       "salePrice": "94",
       "newPrice": "450"
     },
-    "rectin": {
-      "productName": "Rectin",
+    "vasos-duo ": {
+      "productName": "Vasos Duo",
       "salePrice": "91",
       "newPrice": "287"
     }
@@ -9969,11 +9969,11 @@
         "text": "Ophtalax pomógł mi wyeliminować napięcie w oczach i łzawienie z powodu długiej pracy przy komputerze. Teraz spędzam tyle samo czasu przed monitorem, ale z oczami jest wszystko w porządku."
       }
     ],
-    "reviews_rectin": [
+    "reviews_vasos-duo ": [
       {
-        "src": "img/review_rectin_1.png",
+        "src": "img/review_vasos-duo _1.png",
         "name": "Aniela Wilk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -9997,13 +9997,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin to świetny żel. Po tygodniu wszystkie objawy hemoroidów minęły. Żadne czopki nie mogą się z nim równać. Zalecił mi go mój ekspert, a ja mu bardzo ufam."
+        "text": "Vasos Duo to świetny żel. Po tygodniu wszystkie objawy hemoroidów minęły. Żadne czopki nie mogą się z nim równać. Zalecił mi go mój ekspert, a ja mu bardzo ufam."
       },
 
       {
-        "src": "img/review_rectin_2.png",
+        "src": "img/review_vasos-duo _2.png",
         "name": "Olga Kubiak",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10027,13 +10027,13 @@
             "type": "empty"
           }
         ],
-        "text": "Żyłam z tym koszmarem przez 5 lat. Na początku wszystko było w lekkiej formie, tylko swędzenie, dyskomfort. Potem zaczęły się nasilać, pojawiły się krwiaki, silny ból. Smarowałam kremami, używałam czopków, nic nie pomagało. Dzięki Rectin w ciągu miesiąca wszystko minęło."
+        "text": "Żyłam z tym koszmarem przez 5 lat. Na początku wszystko było w lekkiej formie, tylko swędzenie, dyskomfort. Potem zaczęły się nasilać, pojawiły się krwiaki, silny ból. Smarowałam kremami, używałam czopków, nic nie pomagało. Dzięki Vasos Duo w ciągu miesiąca wszystko minęło."
       },
 
       {
-        "src": "img/review_rectin_3.png",
+        "src": "img/review_vasos-duo _3.png",
         "name": "Katarzyna Zakrzewska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10057,13 +10057,13 @@
             "type": "empty"
           }
         ],
-        "text": "Miałam problemy z hemoroidami prawie rok. Próbowałam maści, czopków, a nawet domowych środków. Myślałam, że tak będę żyć całe życie. Ale po 2 tygodniach od rozpoczęcia stosowania Rectin wszystko minęło! Jestem bardzo zadowolona."
+        "text": "Miałam problemy z hemoroidami prawie rok. Próbowałam maści, czopków, a nawet domowych środków. Myślałam, że tak będę żyć całe życie. Ale po 2 tygodniach od rozpoczęcia stosowania Vasos Duo wszystko minęło! Jestem bardzo zadowolona."
       },
 
       {
-        "src": "img/review_rectin_4.png",
+        "src": "img/review_vasos-duo _4.png",
         "name": "Paulina Stępień",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10087,13 +10087,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hemoroidy pojawiły się u mnie po kuracji antybiotykowej. Miałam 2 guzki. Ekspert przepisał czopki, na początku było lepiej, ale potem ból powrócił, chodzenie do toalety było bardzo bolesne. Przeczytałam wiele dobrych opinii o Rectin. Postanowiłam kupić. Przeszłam kurację i problemów już nie ma. Świetny żel!"
+        "text": "Hemoroidy pojawiły się u mnie po kuracji antybiotykowej. Miałam 2 guzki. Ekspert przepisał czopki, na początku było lepiej, ale potem ból powrócił, chodzenie do toalety było bardzo bolesne. Przeczytałam wiele dobrych opinii o Vasos Duo. Postanowiłam kupić. Przeszłam kurację i problemów już nie ma. Świetny żel!"
       },
 
       {
-        "src": "img/review_rectin_5.png",
+        "src": "img/review_vasos-duo _5.png",
         "name": "Jędrzej Szczepański",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10117,13 +10117,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin wzmacnia ściany naczyń i łagodzi ból. Przed użyciem konsultowałem się z ekspertem, znajomą kobietą, która właśnie poleciła mi ten środek. Żadne popularne chemiczne środki nie są tak pomocne, jak ten żel na bazie roślin."
+        "text": "Vasos Duo wzmacnia ściany naczyń i łagodzi ból. Przed użyciem konsultowałem się z ekspertem, znajomą kobietą, która właśnie poleciła mi ten środek. Żadne popularne chemiczne środki nie są tak pomocne, jak ten żel na bazie roślin."
       },
 
       {
-        "src": "img/review_rectin_6.png",
+        "src": "img/review_vasos-duo _6.png",
         "name": "Aleks Górski",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10147,13 +10147,13 @@
             "type": "empty"
           }
         ],
-        "text": "Ekspert znalazł u mnie 2 ogromne guzki i polecił mi kurację Rectin. Efekt pojawił się już po 3 dniach stosowania. Żel ma lekki chłodzący efekt, łagodzi ból, swędzenie i dyskomfort."
+        "text": "Ekspert znalazł u mnie 2 ogromne guzki i polecił mi kurację Vasos Duo. Efekt pojawił się już po 3 dniach stosowania. Żel ma lekki chłodzący efekt, łagodzi ból, swędzenie i dyskomfort."
       },
 
       {
-        "src": "img/review_rectin_7.png",
+        "src": "img/review_vasos-duo _7.png",
         "name": "Roksana Jakubowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10177,13 +10177,13 @@
             "type": "empty"
           }
         ],
-        "text": "Miałam zaawansowane stadium hemoroidów, planowali zrobić operację. Ale siostra poradziła mi wypróbować Rectin. Stosowałam go przez 1,5 miesiąca - zniknęło zapalenie i guzki, ból i podrażnienie minęły."
+        "text": "Miałam zaawansowane stadium hemoroidów, planowali zrobić operację. Ale siostra poradziła mi wypróbować Vasos Duo. Stosowałam go przez 1,5 miesiąca - zniknęło zapalenie i guzki, ból i podrażnienie minęły."
       },
 
       {
-        "src": "img/review_rectin_8.png",
+        "src": "img/review_vasos-duo _8.png",
         "name": "Julianna Mróz",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10207,13 +10207,13 @@
             "type": "empty"
           }
         ],
-        "text": "Hemoroidy pojawiły się u mnie po porodzie. Stosowałam Rectin przez miesiąc i to wystarczyło, aby całkowicie rozwiązać problem. Guzki zaczęły się wchłaniać, normalizował się stolec, ból ustąpił, żadnych nieprzyjemnych doznań. Tak więc z całego serca polecam."
+        "text": "Hemoroidy pojawiły się u mnie po porodzie. Stosowałam Vasos Duo przez miesiąc i to wystarczyło, aby całkowicie rozwiązać problem. Guzki zaczęły się wchłaniać, normalizował się stolec, ból ustąpił, żadnych nieprzyjemnych doznań. Tak więc z całego serca polecam."
       },
 
       {
-        "src": "img/review_rectin_9.png",
+        "src": "img/review_vasos-duo _9.png",
         "name": "Angelika Mazur",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10237,13 +10237,13 @@
             "type": "empty"
           }
         ],
-        "text": "Rectin to bardzo dobry środek, naprawdę działa i pomaga. Miałam silne zaparcia i rozwinęły się hemoroidy. Rectin poleciła mi przyjaciółka, bardzo jej za to dziękuję. Wszystko minęło!"
+        "text": "Vasos Duo to bardzo dobry środek, naprawdę działa i pomaga. Miałam silne zaparcia i rozwinęły się hemoroidy. Vasos Duo poleciła mi przyjaciółka, bardzo jej za to dziękuję. Wszystko minęło!"
       },
 
       {
-        "src": "img/review_rectin_10.png",
+        "src": "img/review_vasos-duo _10.png",
         "name": "Dawid Wysocki",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10267,13 +10267,13 @@
             "type": "empty"
           }
         ],
-        "text": "Stosowanie żelu jest komfortowe. O wiele lepsze niż czopki i tłuste maści. Efekt jest doskonały - Rectin łagodzi zapalenie i ból, wzmacnia ściany naczyń, eliminuje wszystkie objawy hemoroidów. Polecam wszystkim osobom cierpiącym na ten problem."
+        "text": "Stosowanie żelu jest komfortowe. O wiele lepsze niż czopki i tłuste maści. Efekt jest doskonały - Vasos Duo łagodzi zapalenie i ból, wzmacnia ściany naczyń, eliminuje wszystkie objawy hemoroidów. Polecam wszystkim osobom cierpiącym na ten problem."
       },
 
       {
-        "src": "img/review_rectin_11.png",
+        "src": "img/review_vasos-duo _11.png",
         "name": "Justyna Krawczyk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10297,13 +10297,13 @@
             "type": "empty"
           }
         ],
-        "text": "Miałam hemoroidy 2 stopnia. Ekspert przepisywał czopki i maść, stosowałam je przez 10 dni rano i wieczorem. Nie pomogło. Potem zaczął nalegać na operację. Dobrze, że na czas znalazłam żel Rectin. Przeszłam kurację i zapomniałam o problemie jak o złym śnie."
+        "text": "Miałam hemoroidy 2 stopnia. Ekspert przepisywał czopki i maść, stosowałam je przez 10 dni rano i wieczorem. Nie pomogło. Potem zaczął nalegać na operację. Dobrze, że na czas znalazłam żel Vasos Duo. Przeszłam kurację i zapomniałam o problemie jak o złym śnie."
       },
 
       {
-        "src": "img/review_rectin_12.png",
+        "src": "img/review_vasos-duo _12.png",
         "name": "Kaja Adamczyk",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10327,13 +10327,13 @@
             "type": "empty"
           }
         ],
-        "text": "Problem pojawił się po drugim porodzie. Przeczytałam tyle informacji w internecie, próbowałam różnych środków, ale wszystko było na próżno. Tylko Rectin pomógł! Mam jeszcze jedno opakowanie na wszelki wypadek."
+        "text": "Problem pojawił się po drugim porodzie. Przeczytałam tyle informacji w internecie, próbowałam różnych środków, ale wszystko było na próżno. Tylko Vasos Duo pomógł! Mam jeszcze jedno opakowanie na wszelki wypadek."
       },
 
       {
-        "src": "img/review_rectin_13.png",
+        "src": "img/review_vasos-duo _13.png",
         "name": "Stanisław Wiśniewski",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10357,13 +10357,13 @@
             "type": "empty"
           }
         ],
-        "text": "Długo szukałem środka na bazie trokserutyny. Ma działanie przeciwzapalne i przeciwobrzękowe, jest najskuteczniejszym składnikiem aktywnym na dzień dzisiejszy. Znalazłem Rectin, stosowałem przez 2 tygodnie, i nie mam już hemoroidów."
+        "text": "Długo szukałem środka na bazie trokserutyny. Ma działanie przeciwzapalne i przeciwobrzękowe, jest najskuteczniejszym składnikiem aktywnym na dzień dzisiejszy. Znalazłem Vasos Duo, stosowałem przez 2 tygodnie, i nie mam już hemoroidów."
       },
 
       {
-        "src": "img/review_rectin_14.png",
+        "src": "img/review_vasos-duo _14.png",
         "name": "Maja Kozłowska",
-        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10387,13 +10387,13 @@
             "type": "empty"
           }
         ],
-        "text": "Pojawił się silny dyskomfort, ekspert wykrył guzek. Byłam przerażona! Zalecił jedzenie więcej błonnika, aby uniknąć zaparć. Przepisał maść. Ale w domu mama powiedziała mi, że pozbyła się hemoroidów dzięki żelowi Rectin. Przeszłam kurację, objawy zniknęły już po kilku dniach. Na ponownym badaniu ekspert stwierdził, że problemu już nie ma."
+        "text": "Pojawił się silny dyskomfort, ekspert wykrył guzek. Byłam przerażona! Zalecił jedzenie więcej błonnika, aby uniknąć zaparć. Przepisał maść. Ale w domu mama powiedziała mi, że pozbyła się hemoroidów dzięki żelowi Vasos Duo. Przeszłam kurację, objawy zniknęły już po kilku dniach. Na ponownym badaniu ekspert stwierdził, że problemu już nie ma."
       },
 
       {
-        "src": "img/review_rectin_15.png",
+        "src": "img/review_vasos-duo _15.png",
         "name": "Matylda Głowacka",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;RECTIN",
+        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
         "rating_text": "Doskonała jakość!",
         "stars": [
           {
@@ -10417,7 +10417,7 @@
             "type": "empty"
           }
         ],
-        "text": "Objawy hemoroidów są naprawdę męczące, to nie jest tylko swędzenie, ale naprawdę nieznośny ból! Moim zdaniem żel Rectin nie ma konkurencji, jest to zdecydowanie najlepsze rozwiązanie, jakie do tej pory wymyślono."
+        "text": "Objawy hemoroidów są naprawdę męczące, to nie jest tylko swędzenie, ale naprawdę nieznośny ból! Moim zdaniem żel Vasos Duo nie ma konkurencji, jest to zdecydowanie najlepsze rozwiązanie, jakie do tej pory wymyślono."
       }
     ]
   }
