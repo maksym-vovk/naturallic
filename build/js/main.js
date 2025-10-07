@@ -465,6 +465,7 @@ var productsInfo = {
       newPrice: "111111"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Potență',
