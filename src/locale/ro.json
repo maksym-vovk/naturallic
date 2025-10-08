@@ -1864,36 +1864,39 @@
     "suitability": "2 de ani",
     "keep": "depozitați într-un loc uscat, mai departe de copii, la o temperatură care să nu depășească +25°С."
   },
+
   "ophtalax": {
     "title": "Ophtalax",
-    "category": "Category",
-    "review_count": "333 recenzí",
-    "niche": "Niche",
-    "form_factor": "form_factor",
-    "short_description": "short_description.",
-    "description": "description.",
-    "compound": "compound.",
-    "usage": "usage.",
-    "contraindications": "contraindications.",
-    "manufacturer": "manufacturer",
-    "suitability": "suitability",
-    "keep": "keep."
+    "category": "Sănătate",
+    "review_count": "333 recenzii",
+    "niche": "Vedere",
+    "form_factor": "capsule în blister, 10 buc.",
+    "short_description": "Produs pentru ochi care oprește deteriorarea vederii legată de vârstă.",
+    "description": "Formulă echilibrată concepută pentru a susține sănătatea vederii. Produsul conține vitamine și microelemente cu proprietăți antioxidante, substanțe nutritive esențiale pentru funcționarea sistemului de protecție a ochilor împotriva daunelor oxidative și care opresc deteriorarea vederii legată de vârstă.",
+    "compound": "Extract de rădăcină de urzică, gelatină (învelișul capsulei), celuloză microcristalină (agent de umplere), extract de rădăcină de valeriană, citrat de zinc trihidrat, stearat de magneziu (agent de umplere), dioxid de siliciu (agent antiadeziv), vitamina B6, vitamina B2, vitamina B1, vitamina B12.",
+    "usage": "Adulților: 2 capsule pe zi înainte de masă. Durata administrării: 2 luni. Dacă este necesar, cursul se poate repeta. DOZA ZILNICĂ RECOMANDATĂ: 2 capsule.",
+    "contraindications": "Intoleranță individuală la oricare dintre ingredientele produsului. Doar pentru adulți, contraindicat sub 18 ani. A se păstra în loc inaccesibil copiilor.",
+    "manufacturer": "Dalmatika (Bulgaria)",
+    "suitability": "2 ani",
+    "keep": "A se păstra într-un loc uscat, la temperatură până la +25 °C, inaccesibil copiilor."
   },
+
   "vasos_duo": {
     "title": "Vasos Duo",
-    "category": "Category",
-    "review_count": "333 recenzí",
-    "niche": "Niche",
-    "form_factor": "gel într-un tub, 30 ml.",
-    "short_description": "short_description.",
-    "description": "description.",
-    "compound": "Aqua, glicerină, propilenglicol, alcool denaturat, extract de castan sălbatic, extract de centella asiatica, extract de rădăcină de ruscus aculeatus, extract de cultură de calus symphytum officinale, extract de floare de mușețel, niacinamidă, troxerutin, cofeină, uree, arginină, copolimer de amoniu acryloyldimethyltaurate/vp, acid salicilic, mentol, alantoină, hialuronat de sodiu, fenoxietanol, etilhexilglicerină, disodiu edta.",
-    "usage": "usage.",
-    "contraindications": "contraindications.",
-    "manufacturer": "manufacturer",
-    "suitability": "suitability",
-    "keep": "keep."
+    "category": "Sănătate",
+    "review_count": "333 recenzii",
+    "niche": "Hemoroizi",
+    "form_factor": "gel în tub, 30 ml",
+    "short_description": "Produs pe bază de plante, întărește pereții vaselor de sânge și previne dezvoltarea hemoroizilor.",
+    "description": "Gel cu efect ușor de răcire, care ajută la ameliorarea durerii și reducerea inflamației. Conține o gamă largă de componente biologic active: extract de centella asiatică, castan, mușețel, dafin, tătăneasă, troxerutină, cofeină, alantoină, vitamina B3, acid hialuronic.",
+    "compound": "Aqua, glicerină, propilenglicol, alcool denaturat, extract de castan sălbatic, extract de centella asiatica, extract de rădăcină de ruscus aculeatus, extract de cultură de symphytum officinale, extract de floare de mușețel, niacinamidă, troxerutină, cofeină, uree, arginină, polimer acriloil dimetil taurát/VP de ammoniu copolimer, acid salicilic, mentol, alantoină, hialuronat de sodiu, fenoxietanol, etilhexil glicerină, EDTA disodic.",
+    "usage": "Se aplică prin mișcări ușoare de masaj timp de 3–5 minute de 2 ori pe zi. Se recomandă test de compatibilitate cutanată înainte de utilizare. În general, se aplică 2–3 ori pe zi.",
+    "contraindications": "Intoleranță individuală la vreun ingredient. Doar pentru adulți, contraindicat sub 18 ani. A se păstra în loc inaccesibil copiilor.",
+    "manufacturer": "Dalmatika (Bulgaria)",
+    "suitability": "2 ani",
+    "keep": "A se păstra într-un loc uscat, la temperatură până la +25 °C, inaccesibil copiilor."
   },
+
 
   "catalog": {
     "catalog_title": "Catalog",
