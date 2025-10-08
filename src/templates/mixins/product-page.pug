@@ -18,6 +18,16 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
             'Steplex',
             'Urosaf'
         ]
+        // Third image is capsule's size
+        var prodWithThirdImgMod = [
+            'Visoptic DUO Day',
+            'Visoptic DUO Night',
+            'Ausen',
+            'Exurol',
+            'Vermixin',
+            'Viarex',
+            'Urosaf'
+        ]
         var PRODUCT_CATEGORY = PRODUCT_OBJ.category
         var PRODUCT_IMAGE_SRC = PRODUCT_OBJ.srcPhoto.split('.')[0]
         var PRODUCT_STARS = PRODUCT_OBJ.stars
@@ -71,7 +81,11 @@ mixin productPage(PRODUCT_NAME, PRODUCT_CARD, CURRENT_PRODUCT, RECOMMENDATIONS, 
                         .slider-prod__for-item
                             picture
                                 source(srcset=PRODUCT_IMAGE_SRC + '_2.webp' type='image/webp')
-                                img(src=PRODUCT_IMAGE_SRC + "_2.png", alt=PRODUCT_NAME)
+
+                                if prodWithThirdImgMod.includes(PRODUCT_NAME)
+                                    img(class='img-size--md' src=PRODUCT_IMAGE_SRC + "_2.png", alt=PRODUCT_NAME)
+                                else
+                                    img(src=PRODUCT_IMAGE_SRC + "_2.png", alt=PRODUCT_NAME)
                 .product-item__info
                     h2.product-item__name!=CURRENT_PRODUCT.title
                     .product-item__rating
