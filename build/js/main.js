@@ -465,6 +465,7 @@ var productsInfo = {
       newPrice: "111111"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Potență',
@@ -520,7 +521,6 @@ var productsInfo = {
       newPrice: "111111"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402523',
       niche: 'Hemoroizi',
@@ -655,6 +655,7 @@ var productsInfo = {
       newPrice: "111111"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Potencia',
@@ -710,7 +711,6 @@ var productsInfo = {
       newPrice: "111111"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Aranyér',
@@ -845,6 +845,7 @@ var productsInfo = {
       newPrice: "79"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Potenza',
@@ -900,7 +901,6 @@ var productsInfo = {
       newPrice: "123"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082471',
       niche: 'Emorroide',
@@ -1035,6 +1035,7 @@ var productsInfo = {
       newPrice: "1465"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Potence',
@@ -1090,7 +1091,6 @@ var productsInfo = {
       newPrice: "1765"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Hemoroidy',
@@ -1225,6 +1225,7 @@ var productsInfo = {
       newPrice: "140"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Потентност',
@@ -1280,7 +1281,6 @@ var productsInfo = {
       newPrice: "205"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082459',
       niche: 'Хемороиди',
@@ -1415,6 +1415,7 @@ var productsInfo = {
     //     newPrice: "111111",
     // },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Potents',
@@ -1470,7 +1471,6 @@ var productsInfo = {
       newPrice: "109"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Hemorroidid',
@@ -1605,6 +1605,7 @@ var productsInfo = {
       newPrice: "77"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Potencija',
@@ -1660,7 +1661,6 @@ var productsInfo = {
       newPrice: "119"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082465',
       niche: 'Hemoroidi',
@@ -1795,6 +1795,7 @@ var productsInfo = {
     //     newPrice: "111111",
     // },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Potencja',
@@ -1850,7 +1851,6 @@ var productsInfo = {
       newPrice: "109"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082458',
       niche: 'Hemorojus',
@@ -1985,6 +1985,7 @@ var productsInfo = {
     //     newPrice: "111111",
     // },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Potence',
@@ -2040,7 +2041,6 @@ var productsInfo = {
       newPrice: "109"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082461',
       niche: 'Hemoroīdi',
@@ -2175,6 +2175,7 @@ var productsInfo = {
       newPrice: "79"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Potência',
@@ -2230,7 +2231,6 @@ var productsInfo = {
       newPrice: "123"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082463',
       niche: 'Hemorróidas',
@@ -2365,6 +2365,7 @@ var productsInfo = {
       newPrice: "296"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Potencja',
@@ -2420,7 +2421,6 @@ var productsInfo = {
       newPrice: "450"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082462',
       niche: 'Hemoroidy',
@@ -2555,6 +2555,7 @@ var productsInfo = {
       newPrice: "77"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Moč',
@@ -2610,7 +2611,6 @@ var productsInfo = {
       newPrice: "119"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Hemoroidy',
@@ -2745,6 +2745,7 @@ var productsInfo = {
       newPrice: "77"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Potencia',
@@ -2800,7 +2801,6 @@ var productsInfo = {
       newPrice: "119"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Hemoroidy',
@@ -2935,6 +2935,7 @@ var productsInfo = {
       newPrice: "77"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Puissance',
@@ -2990,7 +2991,6 @@ var productsInfo = {
       newPrice: "119"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'Hémorroïdes',
@@ -3125,6 +3125,7 @@ var productsInfo = {
       newPrice: "77"
     },
     urosaf: {
+      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'δύναμη',
@@ -3180,7 +3181,6 @@ var productsInfo = {
       newPrice: "119"
     },
     vasos_duo: {
-      modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1082464',
       niche: 'αιμορροΐδες',
