@@ -1332,7 +1332,7 @@ export const productsInfo = {
     lt: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Lieknėjimas',
             country: 'Lithuania',
             productName: 'GUAVITAL+',
@@ -1341,7 +1341,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Venų varikozė',
             country: 'Lithuania',
             productName: 'Trovazin',
@@ -1350,7 +1350,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Grybelis',
             country: 'Lithuania',
             productName: 'Desalix',
@@ -1359,7 +1359,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Parazitai',
             country: 'Lithuania',
             productName: 'Paraxan',
@@ -1369,7 +1369,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Prostatitas',
             country: 'Lithuania',
             productName: 'Exurol',
@@ -1379,7 +1379,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Visoptic DUO Night',
@@ -1389,7 +1389,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Visoptic DUO Day',
@@ -1398,7 +1398,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Atjauninimas',
             country: 'Lithuania',
             productName: 'Beauty Age Skin',
@@ -1407,7 +1407,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Atjauninimas',
             country: 'Lithuania',
             productName: 'Beauty Age Skin Peeling',
@@ -1417,7 +1417,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Klausa',
             country: 'Lithuania',
             productName: 'Ausen',
@@ -1427,7 +1427,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Parazitai',
             country: 'Lithuania',
             productName: 'Vermixin',
@@ -1437,7 +1437,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Potencja',
             country: 'Lithuania',
             productName: 'Viarex',
@@ -1446,7 +1446,7 @@ export const productsInfo = {
         },
         // depanten: {
         //     company: 'everad',
-        //     campaign_id: '1082458',
+        //     campaign_id: '1433128',
         //     niche: 'Sąnariai',
         //     country: 'Lithuania',
         //     productName: 'Depanten',
@@ -1456,7 +1456,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Potencja',
             country: 'Lithuania',
             productName: 'Urosaf',
@@ -1466,7 +1466,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Sąnariai',
             country: 'Lithuania',
             productName: 'Steplex',
@@ -1475,7 +1475,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Venų varikozė',
             country: 'Lithuania',
             productName: 'Vasaxal',
@@ -1484,7 +1484,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Grybelis',
             country: 'Lithuania',
             productName: 'Demyxil',
@@ -1493,7 +1493,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Lieknėjimas',
             country: 'Lithuania',
             productName: 'Delislim',
@@ -1502,7 +1502,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Ophtalax',
@@ -1511,7 +1511,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082458',
+            campaign_id: '1433128',
             niche: 'Hemorojus',
             country: 'Lithuania',
             productName: 'Vasos Duo',
