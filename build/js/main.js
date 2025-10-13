@@ -1673,7 +1673,7 @@ const productsInfo = {
   lt: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Lieknėjimas',
       country: 'Lithuania',
       productName: 'GUAVITAL+',
@@ -1682,7 +1682,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Venų varikozė',
       country: 'Lithuania',
       productName: 'Trovazin',
@@ -1691,7 +1691,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Grybelis',
       country: 'Lithuania',
       productName: 'Desalix',
@@ -1700,7 +1700,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Parazitai',
       country: 'Lithuania',
       productName: 'Paraxan',
@@ -1710,7 +1710,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Prostatitas',
       country: 'Lithuania',
       productName: 'Exurol',
@@ -1720,7 +1720,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Regėjimas',
       country: 'Lithuania',
       productName: 'Visoptic DUO Night',
@@ -1730,7 +1730,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Regėjimas',
       country: 'Lithuania',
       productName: 'Visoptic DUO Day',
@@ -1739,7 +1739,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Atjauninimas',
       country: 'Lithuania',
       productName: 'Beauty Age Skin',
@@ -1748,7 +1748,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Atjauninimas',
       country: 'Lithuania',
       productName: 'Beauty Age Skin Peeling',
@@ -1758,7 +1758,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Klausa',
       country: 'Lithuania',
       productName: 'Ausen',
@@ -1768,7 +1768,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Parazitai',
       country: 'Lithuania',
       productName: 'Vermixin',
@@ -1778,7 +1778,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Potencja',
       country: 'Lithuania',
       productName: 'Viarex',
@@ -1787,7 +1787,7 @@ const productsInfo = {
     },
     // depanten: {
     //     company: 'everad',
-    //     campaign_id: '1082458',
+    //     campaign_id: '1433128',
     //     niche: 'Sąnariai',
     //     country: 'Lithuania',
     //     productName: 'Depanten',
@@ -1797,7 +1797,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Potencja',
       country: 'Lithuania',
       productName: 'Urosaf',
@@ -1807,7 +1807,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Sąnariai',
       country: 'Lithuania',
       productName: 'Steplex',
@@ -1816,7 +1816,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Venų varikozė',
       country: 'Lithuania',
       productName: 'Vasaxal',
@@ -1825,7 +1825,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Grybelis',
       country: 'Lithuania',
       productName: 'Demyxil',
@@ -1834,7 +1834,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Lieknėjimas',
       country: 'Lithuania',
       productName: 'Delislim',
@@ -1843,7 +1843,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Regėjimas',
       country: 'Lithuania',
       productName: 'Ophtalax',
@@ -1852,7 +1852,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082458',
+      campaign_id: '1433128',
       niche: 'Hemorojus',
       country: 'Lithuania',
       productName: 'Vasos Duo',
