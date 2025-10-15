@@ -837,9 +837,9 @@
   ],
   "footer": {
     "footer_menu_item1": "Katalog",
-    "footer_menu_item2": "O nas",
-    "footer_menu_item3": "Opinie",
-    "footer_menu_item4": "Kontakt",
+    "footer_menu_item2": "O nama",
+    "footer_menu_item3": "Recenzije",
+    "footer_menu_item4": "Kontakti",
     "footer_terms": "Regulamin",
     "footer_privacy": "Polityla Poufności",
     "footer_cookies": "Polityka plików cookie",
@@ -939,7 +939,7 @@
         }
       ],
       "text": "355 recenzija",
-      "niche": "Smjer: Mršavljenje"
+      "niche": "Kategorija: Mršavljenje"
     },
     {
       "link": "trovazin.html",
@@ -973,7 +973,7 @@
         }
       ],
       "text": "305 recenzija",
-      "niche": "Smjer: Proširene vene"
+      "niche": "Kategorija: Proširene vene"
     },
     {
       "link": "desalix.html",
@@ -1007,7 +1007,7 @@
         }
       ],
       "text": "288 recenzija",
-      "niche": "Smjer: Gljivice"
+      "niche": "Kategorija: Gljivice"
     },
     {
       "link": "paraxan.html",
@@ -1041,7 +1041,7 @@
         }
       ],
       "text": "276 recenzija",
-      "niche": "Smjer: Paraziti"
+      "niche": "Kategorija: Paraziti"
     },
     {
       "link": "exurol.html",
@@ -1075,7 +1075,7 @@
         }
       ],
       "text": "322 recenzija",
-      "niche": "Smjer: Prostatitis"
+      "niche": "Kategorija: Prostatitis"
     },
     {
       "link": "visoptic-duo-night.html",
@@ -1109,7 +1109,7 @@
         }
       ],
       "text": "341 recenzija",
-      "niche": "Smjer: Vid"
+      "niche": "Kategorija: Vid"
     },
     {
       "link": "visoptic-duo-day.html",
@@ -1143,7 +1143,7 @@
         }
       ],
       "text": "212 recenzija",
-      "niche": "Smjer: Vid"
+      "niche": "Kategorija: Vid"
     },
     {
       "link": "beauty-age-skin.html",
@@ -1177,7 +1177,7 @@
         }
       ],
       "text": "455 recenzija",
-      "niche": "Smjer: Pomlađivanje"
+      "niche": "Kategorija: Pomlađivanje"
     },
     {
       "link": "beauty-age-skin-peeling.html",
@@ -1211,7 +1211,7 @@
         }
       ],
       "text": "288 recenzija",
-      "niche": "Smjer: Pomlađivanje"
+      "niche": "Kategorija: Pomlađivanje"
     },
     {
       "link": "ausen.html",
@@ -1245,7 +1245,7 @@
         }
       ],
       "text": "341 recenzija",
-      "niche": "Smjer: Sluh"
+      "niche": "Kategorija: Sluh"
     },
     {
       "link": "vermixin.html",
@@ -1279,7 +1279,7 @@
         }
       ],
       "text": "315 recenzija",
-      "niche": "Smjer: Paraziti"
+      "niche": "Kategorija: Paraziti"
     },
     {
       "link": "viarex.html",
@@ -1313,7 +1313,7 @@
         }
       ],
       "text": "297 recenzija",
-      "niche": "Smjer: Potencija"
+      "niche": "Kategorija: Potencija"
     },
     {
       "link": "depanten.html",
@@ -1347,7 +1347,7 @@
         }
       ],
       "text": "323 recenzija",
-      "niche": "Smjer: Zglobovi"
+      "niche": "Kategorija: Zglobovi"
     },
     {
       "link": "urosaf.html",
@@ -1381,7 +1381,7 @@
         }
       ],
       "text": "311 recenzija",
-      "niche": "Smjer: Potencija"
+      "niche": "Kategorija: Potencija"
     },
     {
       "link": "steplex.html",
@@ -1415,7 +1415,7 @@
         }
       ],
       "text": "287 recenzija",
-      "niche": "Smjer: Zglobovi"
+      "niche": "Kategorija: Zglobovi"
     },
     {
       "link": "vasaxal.html",
@@ -1449,7 +1449,7 @@
         }
       ],
       "text": "234 recenzija",
-      "niche": "Smjer: Proširene vene"
+      "niche": "Kategorija: Proširene vene"
     },
     {
       "link": "demyxil.html",
@@ -1483,7 +1483,7 @@
         }
       ],
       "text": "301 recenzija",
-      "niche": "Smjer: Gljivice"
+      "niche": "Kategorija: Gljivice"
     },
     {
       "link": "delislim.html",
@@ -1517,7 +1517,7 @@
         }
       ],
       "text": "333 recenzija",
-      "niche": "Smjer: Mršavljenje"
+      "niche": "Kategorija: Mršavljenje"
     },
     {
       "link": "ophtalax.html",
@@ -1551,7 +1551,7 @@
         }
       ],
       "text": "221 recenzija",
-      "niche": "Smjer: Vid"
+      "niche": "Kategorija: Vid"
     },
     {
       "link": "vasos_duo.html",
@@ -1585,7 +1585,7 @@
         }
       ],
       "text": "267 recenzija",
-      "niche": "Smjer: Hemoroidi"
+      "niche": "Kategorija: Hemoroidi"
     }
   ],
 
@@ -1596,7 +1596,7 @@
     "niche": "Mršavljenje",
     "form_factor": "Kapsule za mršavljenje",
     "short_description": "Prirodni kompleks za aktiviranje metaboličkih procesa i mršavljenja.",
-    "description": "Kprašak za mršavljenje, prirodni sastav uključuje sastojke kao što su: ekstrakt voća guave, ekstrakt zelenog čaja i ekstrakt gorke naranče. Ove komponente imaju snažan složeni učinak, omogućujući vam da se riješite viška kilograma na duže vrijeme.",
+    "description": "Proizvod za mršavljenje, prirodni sastav uključuje sastojke kao što su: ekstrakt voća guave, ekstrakt zelenog čaja i ekstrakt gorke naranče. Ove komponente imaju snažan složeni učinak, omogućujući vam da se riješite viška kilograma na duže vrijeme.",
     "compound": "Ekstrakt Guave voća, ekstrakt zelenog čaja (5% kofein), ekstrakt gorke naranče (6% sinefrin), maltodekstrin, konzervans: limunska kiselina.",
     "usage": "1 kapsula za odrasle 2 puta dnevno 30 minuta prije obroka. Trajanje prijema je 1 mjesec, ako je potrebno, kura se može ponoviti.",
     "contraindications": "Nemojte davati ovo sredstvo djeci, adolescentima mlađima od 18 godina i trudnicama.",
@@ -1656,7 +1656,7 @@
     "niche": "Prostatitis",
     "form_factor": "blister, 10 kapsula",
     "short_description": "Sredstvo za muškarce usmjereno na normalizaciju funkcija genitourinarnoga sustava.",
-    "description": "kompleks prirodnih ekstrakata za prevenciju problema genitourinarnog sustava s kojima se može susresti bilo koji muškarac. Djelovanje biljnih ekstrakata ima za cilj: uklanjanje boli i upale; utječe na zdravlje prostate; olakšava mokrenje; poboljšava cirkulacija krvi.",
+    "description": "kompleks prirodnih ekstrakata za prevenciju problema genitourinarnog sustava s kojima se može susresti bilo koji muškarac. Djelovanje biljnih ekstrakata ima za cilj: uklanjanje bola i upale; utječe na zdravlje prostate; olakšava mokrenje; poboljšava cirkulacija krvi.",
     "compound": "Ekstrakt korijena mace (Lepidium meyenii 4:1) - 60 mg, Ekstrakt brusnice (Vaccinium macrocarpon, 35% proantocijanidini) - 53 mg, Ekstrakt plodova Saw Palmetto (Serenoa repens 5:1) - 50 mg, Ekstrakt korijena koprive (Urtica dioica, 1% beta-sitosterol) - 40 mg, Cink (cinkov citrat trihidrat) - 5 mg.",
     "usage": "odrasli bi trebali uzimati 1 kapsulu 1-2 puta dnevno tijekom obroka ili bez. Trajanje jedne kure je 45 dana. Ako je potrebno, kura se može ponoviti. Preporučena dnevna doza - 2 kapsule.",
     "contraindications": "individualna netolerancija na bilo koji od sastojaka, dječja dob (do 18 godina). Prije uzimanja preporučuje se konzultirati sa svojim stručnjakom. To nije lijek. Nemojte prekoračiti preporučenu dnevnu dozu. Čuvati izvan dohvata djece. Ovaj dodatak prehrani ne bi trebao zamijeniti raznoliku prehranu.",
@@ -1761,7 +1761,7 @@
     "niche": "Potencija",
     "form_factor": "blister, kapsule 10 kom",
     "short_description": "Sredstvo za muškarce usmjereno na normalizaciju reproduktivne  funkcije.",
-    "description": "kompleks biljnih komponenti koji pojačava seksualnu želju i poboljšava seksualnu funkciju kod muškaraca, normalizira funkcionalno stanje genitourinarnog sustava s erektilnom disfunkcijom (za povećanje libida i potencije), poboljšava kvalitetu sperme, a također povećava mentalnu i fizičku izvedbu i sposobnosti prilagodbe u muškarci. Djelovanje sredstva Viarex je zbog \u200B\u200B funkcionalnih svojstava aktivnih sastojaka i usmjereno je na \u200B\u200B rješavanje problema sa seksualnom funkcijom, libidom, spermatogenezom, pamćenjem i energijom kod muškaraca.",
+    "description": "kompleks biljnih komponenti koji pojačava seksualnu želju i poboljšava seksualnu funkciju kod muškaraca, normalizira funkcionalno stanje genitourinarnog sustava s erektilnom disfunkcijom (za povećanje libida i potencije), poboljšava kvalitetu sperme, a također povećava mentalnu i fizičku izvedbu i sposobnosti prilagodbe u muškarci. Sredstvo Viarex blagotvorno djeluje na muški hormonalni sustav, sprječava bolesti prostate, poboljšava erektilnu funkciju i kvalitetu sperme.",
     "compound": "Ekstrakt korijena mace (Lepidium meyenii 4:1) - 60 mg, Ekstrakt brusnice (Vaccinium macrocarpon, 35% proantocijanidini) - 53 mg, Ekstrakt plodova Saw Palmetto (Serenoa repens 5:1) - 50 mg, Ekstrakt korijena koprive (Urtica dioica, 1% beta-sitosterol) - 40 mg, Cink (Cink citrat trihidrat) - 5 mg.",
     "usage": "1 kapsula 1-2 puta dnevno uz obrok. Trajanje jedne kure je 45 dana. Ako je potrebno, kura se može ponoviti. Preporučena dnevna doza - 2 kapsule.",
     "contraindications": "Individualna netolerancija na bilo koji od sastojaka, dječja dob (do 18 godina). Prije uzimanja preporučuje se konzultirati sa svojim stručnjakom. To nije lijek. Nemojte prekoračiti preporučenu dnevnu dozu. Čuvati izvan dohvata djece. Ovaj dodatak prehrani ne bi trebao zamijeniti raznoliku prehranu.",
@@ -1836,7 +1836,7 @@
     "niche": "Gljivice",
     "form_factor": "krema, 30 ml",
     "short_description": "Krema s baktericidnim djelovanjem usmjerena na borbu protiv manifestacija gljivica.",
-    "description": "Sadrži bioaktivne komponente sa širokim rasponom dermatoloških i kozmetičkih svojstava. Promiče normalnu mikrofloru i ima umirujući učinak na kožu. Djeluje keratolitički i uklanja mrtve slojeve kože. Ima učinak vlaženja i omekšavanja kože. Promiče i stimulira obnovu epidermalnih stanica. Namijenjen za održavanje normalnog stanja kože.",
+    "description": "Sadrži bioaktivne komponente sa širokim spektrom dermatoloških i kozmetičkih svojstava. Promiče normalnu mikrofloru i ima umirujući učinak na kožu. Djeluje keratolitički i uklanja mrtve slojeve kože. Ima učinak vlaženja i omekšavanja kože. Promiče i stimulira obnovu epidermalnih stanica. Namijenjen za održavanje normalnog stanja kože.",
     "compound": "Aqua, glicerin, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, ekstrakt cvijeta kamilice, maslac butyrospermum parkii, niacinamid, cink oksid, ekstrakt propolisa, kokosovo ulje, sumpor, alcloxa, salicilna kiselina, ekstrakt kore bijele vrbe, ekstrakt kore/lišća bijele breze, eterično ulje drva kleke, polisorbate 80, eterično ulje listova melaleuca alternifolia, eterično ulje paprene metvice, ksantanska guma, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, bht, dinatrij edta, linalool, limonen.",
     "usage": "nanositi na dobro očišćenu i suhu kožu zahvaćenog područja tijela laganim masažnim pokretima odozdo prema gore. Prije uporabe, svakako napravite test tolerancije kože na komponente sredstva. <span class=\"color: red\"> Pažnja: izbjegavajte kontakt s očima.",
     "contraindications": "Ne primjenjivati na djecu mlađu od 3 godine, trudnice i dojilje. Ne nanositi na otvorene rane.",
@@ -1847,11 +1847,11 @@
   "delislim": {
     "title": "Delislim",
     "category": "Za zdravlje",
-    "review_count": "333 recenzija",
+    "review_count": "333 recenzije",
     "niche": "Mršavljenje",
     "form_factor": "kapsule, 20 kom",
     "short_description": "Kapsule s biljnim ekstraktima za aktiviranje metaboličkih procesa i mršavljenje.",
-    "description": "Kapsule za mršavljenje, sadrži prirodne sastojke: ekstrakt voća guave, ekstrakt zelenog čaja i ekstrakt gorke naranče, koji imaju snažan složeni učinak, omogućujući vam da se dugoročno riješite suvišnih kilograma.",
+    "description": "Kapsule za mršavljenje, sadrže prirodne sastojke: ekstrakt voća guave, ekstrakt zelenog čaja i ekstrakt gorke naranče, koji imaju snažan složeni učinak, omogućujući vam da se dugoročno riješite suvišnih kilograma.",
     "compound": "Ekstrakt Guave voća, ekstrakt zelenog čaja (5% kofein), ekstrakt gorke naranče (6% sinefrin), maltodekstrin, konzervans: limunska kiselina.",
     "usage": "1 kapsula za odrasle 2 puta dnevno 30 minuta prije obroka. Trajanje prijema je 1 mjesec, ako je potrebno, kura se može ponoviti.",
     "contraindications": "kontraindicirano za djecu i trudnice.",
@@ -1861,12 +1861,12 @@
   },
   "ophtalax": {
     "title": "Ophtalax",
-    "category": "Zdrowie",
-    "review_count": "333 recenzija",
+    "category": "Zdravlje",
+    "review_count": "333 recenzije",
     "niche": "Vid",
     "form_factor": "kapsule u blisteru od 10 kom.",
     "short_description": "Proizvod za oči koji zaustavlja oštećenje vida povezano s dobi.",
-    "description": "uravnotežena formula, namijenjena za očuvanje zdravlja vida. Proizvod sadrži vitamine i mikroelemente s antioksidativnim svojstvima, esencijalnim hranjivim tvarima za funkcioniranje sustava zaštite očiju od oksidativnih oštećenja i koji zaustavlja oštećenje vida povezano s dobi.",
+    "description": "uravnotežena formula, namijenjena za očuvanje zdravlja vida. Proizvod sadrži vitamine i mikroelemente s antioksidativnim svojstvima, esencijalnim hranjivim tvarima za funkcioniranje sustava zaštite očiju od oksidativnih oštećenja i pomažu zaustaviti oštećenje vida povezano s dobi.",
     "compound": "Ekstrakt korijena koprive, želatina (ljuska kapsule), mikrokristalna celuloza (punilo), ekstrakt korijena valerijane, cink citrat trihidrat, magnezijev stearat (punilo), silicijev dioksid (sredstvo protiv zgrudnjavanja), vitamin B6, vitamin B2, vitamin B1, vitamin B12.",
     "usage": "odraslim 2 kapsule dnevno prije obroka. Trajanje prijema je 2 mjeseca. <br> Ako je potrebno, kura se može ponoviti. PREPORUČENA DNEVNA DOZA: 2 kapsule.",
     "contraindications": "Individualna netolerancija na bilo koji od sastojaka. Samo za odrasle, zabranjeno do 18 godina. Čuvati izvan dohvata djece.",
@@ -1876,12 +1876,12 @@
   },
   "vasos_duo": {
     "title": "Vasos Duo",
-    "category": "Zdrowie",
-    "review_count": "333 recenzija",
+    "category": "Zdravlje",
+    "review_count": "333 recenzije",
     "niche": "Hemoroidi",
     "form_factor": "gel u tubi, 30 ml",
     "short_description": "Proizvod na biljnoj bazi jača zidove krvnih žila i sprječava razvoj hemoroida.",
-    "description": "Gel s laganim učinkom hlađenja, što omogućuje proizvodu ublažavanje boli i smanjenje upale. Sadrži širok raspon biološki aktivnih sastojaka: ekstrakti Centella asiatica, kestena, kamilice, iglice, gaveza, trokserutina, kofeina, alantoina, B3, hijaluronske kiseline.",
+    "description": "Gel s laganim učinkom hlađenja, što omogućuje proizvodu ublažavanje bola i smanjenje upale. Sadrži širok spektar biološki aktivnih sastojaka: ekstrakti Centella asiatica, kestena, kamilice, iglice, gaveza, trokserutina, kofeina, alantoina, B3, hijaluronske kiseline.",
     "compound": "Aqua, glicerin, propilen glikol, alkohol denat., ekstrakt divljeg kestena, ekstrakt centella asiatica, ekstrakt korijena ruscus aculeatus, ekstrakt kulture stanica symphytum officinale, ekstrakt cvijeta kamilice, niacinamid, troxerutin, kofein, urea, arginin, amonijev acryloyldimethyltaurate/vp kopolimer, salicilna kiselina, mentol, alantoin, natrijev hijaluronat, fenoksietanol, etilheksilglicerin, dinatrij edta.",
     "usage": "nanositi laganim masažnim pokretima 3-5 minuta 2 puta dnevno. Prije upotrebe napravite test kompatibilnosti s kožom. Preporučuje se primjena 1 do 2 puta dnevno.",
     "contraindications": "Individualna netolerancija na bilo koji od sastojaka. Samo za odrasle, zabranjeno do 18 godina. Čuvati izvan dohvata djece.",
@@ -2112,7 +2112,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
         "name": "Esma Nigić",
-        "text": "Beauty Age Skin — Najbolja krema! Za moju osjetljivu kožu vrlo je teško pronaći dobro sredstvo, ali ovo je uspjelo. Šest mjeseci koristim i uživam u učinku svaki dan!",
+        "text": "Beauty Age Skin — najbolja krema! Za moju osjetljivu kožu vrlo je teško pronaći dobro sredstvo, ali ovo je uspjelo. Šest mjeseci koristim i uživam u učinku svaki dan!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -2169,7 +2169,7 @@
         "src": "img/review_beauty-age-skin_5.png",
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Odlična kvaliteta!",
-        "name": "Šimun Grgić",
+        "name": "Sandra Grgić",
         "text": "Izvrsno za suhu kožu. Hidratizira i njeguje! Izglađuju bore i zatežu konturu lica. Svaki dan se gledam u ogledalu i ne mogu se zasititi rezultata.",
         "stars": [
           {
@@ -2375,7 +2375,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Antea Tomić",
-        "text": "Dugo sam tražio takavo sredstvo, kao što je Beauty Age Skin Peeling. 3 u 1: i za pranje, i maska, i piling. Troši se štedljivo, a učinkovito čisti. Osjećaj nakon upotrebe su ugodni!",
+        "text": "Dugo sam tražila takvo sredstvo, kao što je Beauty Age Skin Peeling. 3 u 1: i gel, i maska, i pilig. Troši se štedljivo, a učinkovito čisti. Osjećaj je nakon upotrebe ugodan!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -2433,7 +2433,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Odlična kvaliteta!",
         "name": "Petra Lasić",
-        "text": "Beauty Age Skin Peeling je moj izbor jre odgovara mojoj osjetljivoj i suhoj koži. Koristim ga već duže vrijeme i vrlo sam zadovoljna. Vrlo nježno, ali učinkovito sredstvo.",
+        "text": "Beauty Age Skin Peeling je moj izbor jer odgovara mojoj osjetljivoj i suhoj koži. Koristim ga već duže vrijeme i vrlo sam zadovoljna. Vrlo nježno, ali učinkovito sredstvo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -6163,7 +6163,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;PARAXAN",
         "rating_text": "Odlična kvaliteta!",
         "name": "Maja Šimatović",
-        "text": "Dugo sam tražio učinkovito sredstvo protiv parazita. Postojao je samo jedan kriterij — sigurnost. Iz tog razloga sam odabrala Paraxan. Izvrsno sredstvo ako ne želite otrovati tijelo.",
+        "text": "Dugo sam tražila učinkovito sredstvo protiv parazita. Postojao je samo jedan kriterij — sigurnost. Iz tog razloga sam odabrala Paraxan. Izvrsno sredstvo ako ne želite otrovati tijelo.",
         "stars": [
           {
             "src": "img/svg/star.svg",
