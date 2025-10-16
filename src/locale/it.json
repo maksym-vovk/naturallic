@@ -97,8 +97,8 @@
   },
   "aboutpageform": {
     "aboutpageform_title": "Modulo di contatto",
-    "aboutpageform_cta": "Lascia una richiesta e ti richiameremo",
-    "aboutpageform_callback": "Se vorresti essere richiamato, lascia il tuo numero di telefono e ti contatteremo!",
+    "aboutpageform_cta": "Lascia una richiesta e ti richiamiamo",
+    "aboutpageform_callback": "Se vuoi essere richiamato, lascia il tuo numero di telefono e ti contatteremo!",
     "aboutpageform_field_name": "Nome",
     "aboutpageform_field_phone": "Telefono",
     "aboutpageform_field_email": "E-mail",
@@ -173,7 +173,7 @@
         }
       ],
       "text": "305 recensioni",
-      "desc": "Gel con effetto rinfrescante per combattere le manifestazioni delle vene varicose.",
+      "desc": "Gel con effetto rinfrescante per le manifestazioni delle vene varicose.",
       "link": "trovazin.html",
       "tag": "trovazin",
       "category": "health",
@@ -209,7 +209,7 @@
         }
       ],
       "text": "288 recensioni",
-      "desc": "Olio naturale ad azione battericida per combattere le manifestazioni del fungo.",
+      "desc": "Olio naturale ad azione battericida per le manifestazioni funghine.",
       "link": "desalix.html",
       "tag": "desalix",
       "category": "health",
@@ -245,7 +245,7 @@
         }
       ],
       "text": "276 recensioni",
-      "desc": "Capsule per la sicura pulizia del corpo dai parassiti e il ripristino delle funzioni del sistema digestivo.",
+      "desc": "Capsule per la pulizia sicura dell’organismo dai parassiti e il ripristino delle funzioni del sistema digestivo.",
       "link": "paraxan.html",
       "tag": "paraxan",
       "category": "health",
@@ -282,7 +282,7 @@
         }
       ],
       "text": "322 recensioni",
-      "desc": "Un rimedio per gli uomini mirato alla normalizzazione delle funzioni del sistema genito-urinario.",
+      "desc": "Prodotto per l'uomo, mirato alla normalizzazione delle funzioni del sistema genito-urinario.",
       "link": "exurol.html",
       "tag": "exurol",
       "category": "health",
@@ -539,7 +539,7 @@
         }
       ],
       "text": "297 recensioni",
-      "desc": "Un prodotto per uomo mirato a normalizzare la funzione riproduttiva.",
+      "desc": "Prodotto per l'uomo mirato a normalizzare la funzione riproduttiva.",
       "link": "viarex.html",
       "tag": "viarex",
       "category": "health",
@@ -612,7 +612,7 @@
         }
       ],
       "text": "311 recensioni",
-      "desc": "Un complesso a base di erbe per migliorare la potenza, la resistenza e la fertilità degli uomini di qualsiasi età.",
+      "desc": "Complesso di erbe per migliorare la potenza, la resistenza e la fertilità negli uomini di qualsiasi età.",
       "link": "urosaf.html",
       "tag": "urosaf",
       "category": "health",
@@ -649,7 +649,7 @@
         }
       ],
       "text": "287 recensioni",
-      "desc": "La formula naturale con collagene colpisce tutti i tipi di dolore e infiammazione.",
+      "desc": "Formula naturale con collagene per tutti i tipi di dolore e infiammazione.",
       "link": "steplex.html",
       "tag": "steplex",
       "category": "health",
@@ -685,7 +685,7 @@
         }
       ],
       "text": "234 recensioni",
-      "desc": "Gel con effetto rinfrescante per combattere le manifestazioni delle vene varicose.",
+      "desc": "Gel con effetto rinfrescante per le manifestazioni delle vene varicose.",
       "link": "vasaxal.html",
       "tag": "vasaxal",
       "category": "health",
@@ -721,7 +721,7 @@
         }
       ],
       "text": "301 recensioni",
-      "desc": "Crema ad azione battericida per combattere le manifestazioni del fungo.",
+      "desc": "Crema ad azione battericida per le manifestazioni del fungo.",
       "link": "demyxil.html",
       "tag": "demyxil",
       "category": "health",
@@ -757,7 +757,7 @@
         }
       ],
       "text": "333 recensioni",
-      "desc": "Capsule con estratti vegetali per attivare i processi metabolici e ridurre il peso.",
+      "desc": "Capsule con estratti vegetali per attivare i processi metabolici e favorire la perdita di peso.",
       "link": "delislim.html",
       "tag": "delislim",
       "category": "beauty",
@@ -794,7 +794,7 @@
         }
       ],
       "text": "221 recensioni",
-      "desc": "Un prodotto per gli occhi che ferma i disturbi della vista legati all'età.",
+      "desc": " Prodotto pergli occhi che ferma i disturbi della vista legati all'età.",
       "link": "ophtalax.html",
       "tag": "ophtalax",
       "category": "health",
@@ -830,7 +830,7 @@
         }
       ],
       "text": "267 recensioni",
-      "desc": "Il prodotto, a base vegetale, rafforza le pareti dei vasi sanguigni e previene lo sviluppo di emorroidi.",
+      "desc": "Prodotto a base vegetale, che rafforza le pareti dei vasi sanguigni e previene lo sviluppo di emorroidi.",
       "link": "vasos_duo.html",
       "tag": "vasos_duo",
       "category": "health",
@@ -853,9 +853,9 @@
   },
   "contacts": {
     "contacts_title": "Contatti",
-    "contacts_form_title": "Lascia una richiesta e ti richiameremo",
+    "contacts_form_title": "Lascia una richiesta e ti richiamiamo",
     "contacts_form_title1": "Puoi lasciare una richiesta sul sito, oppure contattarci tramite il modulo di feedback. È anche possibile inviare le tue domande tramite e-mail a:",
-    "contacts_form_description": "Se vorresti essere richiamato, lascia il tuo numero di telefono e ti contatteremo!",
+    "contacts_form_description": "Se vuoi essere richiamato, lascia il tuo numero di telefono e ti contatteremo!",
     "contacts_field_name": "Nome",
     "contacts_field_phone": "Telefono",
     "contacts_field_email": "E-mail",
@@ -895,7 +895,7 @@
   "product_card": {
     "product_card_bread_main": "Principale",
     "product_card_bread_catalog": "Catalogo",
-    "product_niche": "<span>Campo: </span>",
+    "product_niche": "<span>Area interessata: </span>",
     "product_form_factor": "<span>Modalità di rilascio:&nbsp;</span>",
     "product_description": "Descrizione",
     "product_btn": "Ordinare",
@@ -905,7 +905,7 @@
     "product_additional": "Ulteriori informazioni",
     "product_manufacturer": "<span>Produttore: </span>",
     "product_suitability": "<span>Data di scadenza: </span>",
-    "product_keep": "<span>Condizioni di conservazione: </span>",
+    "product_keep": "<span>Modo di conservazione: </span>",
     "product_reviews": "Recensioni",
     "product_recommendations": "Con questo prodotto acquistano"
   },
@@ -942,7 +942,7 @@
         }
       ],
       "text": "355 recensioni",
-      "niche": "Campo: Dimagrimento"
+      "niche": "Area interessata: Dimagrimento"
     },
     {
       "link": "trovazin.html",
@@ -976,7 +976,7 @@
         }
       ],
       "text": "305 recensioni",
-      "niche": "Campo: Varici"
+      "niche": "Area interessata: Varici"
     },
     {
       "link": "desalix.html",
@@ -1010,7 +1010,7 @@
         }
       ],
       "text": "288 recensioni",
-      "niche": "Campo: Fungo"
+      "niche": "Area interessata: Fungo"
     },
     {
       "link": "paraxan.html",
@@ -1044,7 +1044,7 @@
         }
       ],
       "text": "276 recensioni",
-      "niche": "Campo: Parassiti"
+      "niche": "Area interessata: Parassiti"
     },
     {
       "link": "exurol.html",
@@ -1078,7 +1078,7 @@
         }
       ],
       "text": "322 recensioni",
-      "niche": "Campo: Prostatite"
+      "niche": "Area interessata: Prostatite"
     },
     {
       "link": "visoptic-duo-night.html",
@@ -1112,7 +1112,7 @@
         }
       ],
       "text": "341 recensioni",
-      "niche": "Campo: Vista"
+      "niche": "Area interessata: Vista"
     },
     {
       "link": "visoptic-duo-day.html",
@@ -1146,7 +1146,7 @@
         }
       ],
       "text": "212 recensioni",
-      "niche": "Campo: Vista"
+      "niche": "Area interessata: Vista"
     },
     {
       "link": "beauty-age-skin.html",
@@ -1180,7 +1180,7 @@
         }
       ],
       "text": "455 recensioni",
-      "niche": "Campo: Ringiovanimento"
+      "niche": "Area interessata: Ringiovanimento"
     },
     {
       "link": "beauty-age-skin-peeling.html",
@@ -1214,7 +1214,7 @@
         }
       ],
       "text": "288 recensioni",
-      "niche": "Campo: Ringiovanimento"
+      "niche": "Area interessata: Ringiovanimento"
     },
     {
       "link": "ausen.html",
@@ -1248,7 +1248,7 @@
         }
       ],
       "text": "341 recensioni",
-      "niche": "Campo: Udito"
+      "niche": "Area interessata: Udito"
     },
     {
       "link": "vermixin.html",
@@ -1282,7 +1282,7 @@
         }
       ],
       "text": "315 recensioni",
-      "niche": "Campo: Parassiti"
+      "niche": "Area interessata: Parassiti"
     },
     {
       "link": "viarex.html",
@@ -1316,7 +1316,7 @@
         }
       ],
       "text": "297 recensioni",
-      "niche": "Campo: Potenza"
+      "niche": "Area interessata: Potenza"
     },
     {
       "link": "depanten.html",
@@ -1350,7 +1350,7 @@
         }
       ],
       "text": "323 recensioni",
-      "niche": "Campo: Articolazioni"
+      "niche": "Area interessata: Articolazioni"
     },
     {
       "link": "urosaf.html",
@@ -1384,7 +1384,7 @@
         }
       ],
       "text": "311 recensioni",
-      "niche": "Campo: Potenza"
+      "niche": "Area interessata: Potenza"
     },
     {
       "link": "steplex.html",
@@ -1418,7 +1418,7 @@
         }
       ],
       "text": "287 recensioni",
-      "niche": "Campo: Articolazioni"
+      "niche": "Area interessata: Articolazioni"
     },
     {
       "link": "vasaxal.html",
@@ -1452,7 +1452,7 @@
         }
       ],
       "text": "234 recensioni",
-      "niche": "Campo: Varici"
+      "niche": "Area interessata: Varici"
     },
     {
       "link": "demyxil.html",
@@ -1486,7 +1486,7 @@
         }
       ],
       "text": "301 recensioni",
-      "niche": "Campo: Fungo"
+      "niche": "Area interessata: Fungo"
     },
     {
       "link": "delislim.html",
@@ -1520,7 +1520,7 @@
         }
       ],
       "text": "333 recensioni",
-      "niche": "Campo: Dimagrimento"
+      "niche": "Area interessata: Dimagrimento"
     },
     {
       "link": "ophtalax.html",
@@ -1554,7 +1554,7 @@
         }
       ],
       "text": "221 recensioni",
-      "niche": "Campo: Vista"
+      "niche": "Area interessata: Vista"
     },
     {
       "link": "vasos_duo.html",
@@ -1588,7 +1588,7 @@
         }
       ],
       "text": "267 recensioni",
-      "niche": "Campo: Emorroide"
+      "niche": "Area interessata: Emorroide"
     }
   ],
 
@@ -1599,10 +1599,10 @@
     "niche": "Dimagrimento",
     "form_factor": "Capsule per la perdita di peso",
     "short_description": "Complesso naturale per attivare i processi metabolici e dimagrire.",
-    "description": "Capsule per la perdita di peso, la composizione naturale comprende ingredienti come estratto di guava, estratto di tè verde ed estratto di arancia amara. Questi componenti hanno un effetto potente e complesso, che ti consente di sbarazzarti dei chili in più per lungo tempo.",
+    "description": "Capsule per dimagrimento. La composizione naturale comprende ingredienti come estratto di guava, estratto di tè verde ed estratto di arancia amara. Questi componenti hanno un effetto potente e complesso, consentendoti di perdere chili di troppo per molto tempo.",
     "compound": "Estratto di frutto di guava, estratto di tè verde (5% caffeina), estratto di arancia amara (6% sinefrina), maltodestrina, conservante: acido citrico.",
-    "usage": "Per adulti 1 capsula 2 volte al giorno 30 minuti prima dei pasti. La durata del trattamento è di 1 mese, se necessario il corso può essere ripetuto.",
-    "contraindications": "Controindicato ai minori di 18 anni e alle donne in gravidanza.",
+    "usage": "Adulti 1 capsula 2 volte al giorno 30 minuti prima dei pasti. La durata del trattamento è di 1 mese, se necessario il corso può essere ripetuto.",
+    "contraindications": "Vietato ai minori di 18 anni e alle donne in gravidanza.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1613,11 +1613,11 @@
     "review_count": "305 recensioni",
     "niche": "Varici",
     "form_factor": "gel in un tubo, 30 ml.",
-    "short_description": "Gel con effetto rinfrescante per combattere le manifestazioni delle vene varicose.",
+    "short_description": "Gel con effetto per combattere le manifestazioni delle vene varicose.",
     "description": "il gel, a base vegetale, che raffredda delicatamente e allevia la pesantezza delle gambe, rafforza le pareti dei vasi sanguigni e previene lo sviluppo di vene varicose.",
     "compound": "Acqua, Glicerina, Propilenglicole, Alcol Denat., Estratto di Ippocastano (Aesculus hippocastanum), Estratto di Centella Asiatica, Estratto di radice di Ruscus Aculeatus, Estratto di callo di Symphytum Officinale, Estratto di fiori di Chamomilla Recutita, Niacinamide, Troxerutina, Caffeina, Urea, Arginina, Copolimero Ammonium Acryloyldimethyltaurate/VP, Acido Salicilico, Mentolo, Allantoina, Ialuronato di Sodio, Fenossietanolo, Etilesilglicerina, Disodium EDTA.",
-    "usage": "applicare con leggeri movimenti massagianti 3-5 minuti 2 volte al giorno. Prima di applicare fai un test di tolleranza sulla pelle.",
-    "contraindications": "evitare il contatto con gli occhi. Non applicare usare per bambini di età inferiore ai tre anni o direttamente su ferite aperte.",
+    "usage": "applicare con leggeri movimenti massagianti per 3-5 minuti 2 volte al giorno. Prima di applicare fare un test di sensibilità cutanea.",
+    "contraindications": "evitare il contatto con gli occhi. Non usare su bambini di età inferiore a tre anni, non applicare direttamente su ferite aperte.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": " conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1628,10 +1628,10 @@
     "review_count": "288 recensioni",
     "niche": "Fungo",
     "form_factor": "olio in flacone, 30 ml.",
-    "short_description": "Olio naturale ad azione battericida per combattere le manifestazioni del fungo.",
+    "short_description": "Olio naturale ad azione battericida per le manifestazioni funghine.",
     "description": "Un complesso a base di 4 oli (tea tree, cannella, menta, citronella) ha un effetto antinfiammatorio generale, antisettico, tonico, nutriente e idratante sulla pelle. Penetra in profondità e agisce a lungo nel sito di localizzazione del fungo.",
     "compound": "Acqua, Glicerina, Olio di Mandorle Dolci, Paraffinum Liquidum, Poliaccrilato di Sodio, Copolimero Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate, Polisorbato 80, PEG-40 Olio di Ricino Idrogenato, Bisabololo, Acido Salicilico, Olio di Tea Tree, Gluconolattone, Canfora, Polidecene Idrogenato, Acetato di Tocoferolo, Estratto di Chiodi di Garofano, Estratto di Semi di Ippocastano, Estratto di Meliloto, Estratto di Calendula, Estratto di Equiseto, Estratto di Foglie di Rosmarino, Estratto di Fiori di Camomilla, Estratto di Bardana, Fenossietanolo, Ialuronato di Sodio, Olio di Menta Piperita, Trideceth-6, BHT, Disodium EDTA, Etilesilglicerina, Gluconato di Calcio, Acido Citrico, Benzoato di Sodio, Sorbato di Potassio, gamma-Terpinen, alpha-Terpinen, Terpineolo, Pinene, Terpinolene, Limonene, Mentolo.",
-    "usage": "applicare sulla pelle ben pulita e asciutta (sulla zona interessata) 2 volte al giorno. Prima dell'uso fai un test di compatibilità con la tua pelle.",
+    "usage": "applicare sulla pelle ben pulita e asciutta (sulla zona interessata) 2 volte al giorno. Prima dell'uso fare un test di sensibilità cutanea.",
     "contraindications": "intolleranza individuale ai componenti.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
@@ -1643,8 +1643,8 @@
     "review_count": "276 recensioni",
     "niche": "Parassiti",
     "form_factor": "capsule in barattolo, 20 pz.",
-    "short_description": "Capsule per la sicura pulizia del corpo dai parassiti e il ripristino delle funzioni del sistema digestivo.",
-    "description": "Una formula a doppia azione appositamente sviluppata, mira ad aumentare immunità, disintossicazione complessa, eliminazione dei parassiti, pulizia del fegato e intestino, funzione digestiva.",
+    "short_description": "Capsule per la pulizia sicura dell’organismo dai parassiti e il ripristino delle funzioni del sistema digestivo.",
+    "description": "Una formula a doppia azione appositamente sviluppata, studiata per rafforzare il sistema immunitario, disintossicare in modo completo, eliminare i parassiti, purificare il fegato e l'intestino e migliorare la funzione digestiva.",
     "compound": "Acido ascorbico, Gelatina (involucro della capsula), Estratto di Echinacea Purpurea, Cellulosa microcristallina (riempitivo), Estratto di rosa canina, Citrato di zinco, Magnesio stearato (riempitivo), Biossido di silicio (antiagglomerante), Selenito di sodio.",
     "usage": "Adulti, 1 capsula 2 volte al giorno. La durata del corso è di 1 mese, se necessario, il corso può essere ripetuto.",
     "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti. Solo per adulti, vietato ai minori di 18 anni.",
@@ -1658,10 +1658,10 @@
     "review_count": "322 recensioni",
     "niche": "Prostatite",
     "form_factor": "blister, 10 capsule",
-    "short_description": "Un rimedio per gli uomini mirato alla normalizzazione delle funzioni del sistema genito-urinario.",
-    "description": "Un complesso di estratti naturali per la prevenzione dei problemi del sistema genito-urinario in uomini. L'azione degli estratti vegetali mira a: eliminare il dolore e l'infiammazione; influisce sulla salute della prostata; facilita la minzione; migliora la circolazione sanguigna.",
+    "short_description": "Prodotto per l'uomo, mirato alla normalizzazione delle funzioni del sistema genito-urinario.",
+    "description": "Un complesso di estratti naturali per la prevenzione dei problemi del sistema genito-urinario in uomini. L'azione degli estratti vegetali mira a: eliminare il dolore e l'infiammazione; contribuisce alla salute della prostata; facilita la minzione; migliora la circolazione sanguigna.",
     "compound": "Estratto di radice di maca (Lepidium meyenii 4:1) - 60 mg, Estratto di mirtillo rosso (Vaccinium macrocarpon, 35% proantocianidine) - 53 mg, Estratto di frutto di Serenoa repens (Saw Palmetto 5:1) - 50 mg, Estratto di radice di ortica (Urtica dioica, 1% beta-sitosterolo) - 40 mg, Zinco (citrato di zinco triidrato) - 5 mg.",
-    "usage": "Adulti, 1 capsula 1-2 volte al giorno con o senza cibo. La durata del corso è di 45 giorni. Se necessario, il corso può essere ripetuto.\n La dose giornaliera raccomandata è di 2 capsule.",
+    "usage": "Adulti, 1 capsula 1-2 volte al giorno con o senza cibi. La durata del corso è di 45 giorni. Se necessario, il corso può essere ripetuto.\n La dose giornaliera raccomandata è di 2 capsule.",
     "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti (minori a 18 anni). Prima dell'assunzione si consiglia di consultare un medico. Non è un farmaco. Non superare la dose giornaliera raccomandata.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
@@ -1702,11 +1702,11 @@
     "category": "Per la Bellezza",
     "review_count": "455 recensioni",
     "niche": "Ringiovanimento",
-    "form_factor": "crema-siero, 30 ml.",
-    "short_description": "Crema-siero viso rigenerante 2 in 1 per tutti i tipi di pelle.",
-    "description": "Crema-siero con effetto anti-invecchiamento, contiene acido ialuronico e componenti rigeneranti per mantenere la pelle idratata per 12 ore.",
+    "form_factor": "siero viso, 30 ml.",
+    "short_description": "siero viso viso rigenerante 2 in 1 per tutti i tipi di pelle.",
+    "description": "siero viso con effetto anti-invecchiamento, contiene acido ialuronico e componenti rigeneranti per mantenere la pelle idratata per 12 ore.",
     "compound": "Acqua, filtrato di secrezione di lumaca, glicerina, caprylate/caprate di coco, triglyceride caprylic/capric, alcool cetearyl, citrate glyceryl stearate, olio di frutta olea europaea, burro di butirospermo parkii, olio di cocos nucifera, olio di semi di vitis vinifera, olio di argania spinosa, olio di nocciola, olio di prunus amygdalus dulcis, niacinamide, collagene idrolizzato, estratto di coltura di symphytum officinale callus, estratto di fiori di camomila recutita, acrilati/c10-30 alchil acrilato crosspolimero, sodio ialuronato, sodio idrossido, tocoferil acetato, pantenolo, ascorby, fenossietanolo, etilesilglicerina, profumo, glicole butilenico, carbomer polisorbato 20, palmitoyl tripeptide-1, palmitoyl tetrapeptide-7, sodum lactate, disodium edta, sodum benzoate, sodio benzoate, citric acid, potassium sorbate, bht.",
-    "usage": "distribuire la crema-siero con movimenti leggeri lungo le linee di massaggio, lasciare fino a completo assorbimento. Applicare mattina e sera sulla pelle pulita.",
+    "usage": "distribuire lo siero con movimenti leggeri lungo le linee di massaggio, lasciare fino a completo assorbimento. Applicare mattina e sera sulla pelle pulita.",
     "contraindications": "Intolleranza individuale ai componenti. Evitare il contatto con gli occhi.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
@@ -1719,10 +1719,10 @@
     "niche": "Ringiovanimento",
     "form_factor": "gel in un tubo, 30 ml.",
     "short_description": "Maschera peeling detergente per tutti i tipi di pelle.",
-    "description": "Maschera peeling detergente 3 in 1 con acido lattico ed estratti naturali, che può essere utilizzata per il lavaggio quotidiano e la pulizia profonda delle particelle cheratinizzate, massimizza l'idratazione e attiva i processi di rigenerazione della pelle.",
+    "description": "Maschera peeling detergente 3 in 1 con acido lattico ed estratti naturali, che può essere utilizzata per il lavaggio quotidiano e la profonda pulizia delle particelle cheratinizzate; massimizza l'idratazione e attiva i processi di rigenerazione della pelle.",
     "compound": "Acqua, Coco-Glucoside, Cocamidopropil Betaina, Glicerina, GLICERIL OLEATO, ACIDO POLILATTICO, ESTRATTO DI FOGLIE DI RUBUS IDAEUS, ESTRATTO DI FRUTTA DI EUTERPE OLERACEA, Estratto di Citrus Aurantium Dulcis, Estratto di Ananas Sativus, Olio di scorza di agrumi, Gomma di xantano, Fenossietanolo, CARBOMER, Etilesilglicerina, ASCORBYL TETRAISOPALMITATO, Sodio Idrossido, Sodio Cloruro, Sodio Benzoato, Acido Citrico, Potassio Sorbato, Limonene.",
     "usage": "COME GEL. \n Mattina e sera, distribuire una piccola quantità sulla pelle umida lungo le linee di massaggio e risciacquare.\n COME PEELING. \n Applicare una piccola quantità sulla pelle umida con movimenti massaganti per 1 minuto, quindi risciacquare con acqua. La procedura deve essere eseguita non più di 2 volte a settimana!\n COME MASCHERA.\n Applicare uno strato sottile sulla pelle, subito dopo un breve massaggio leggero, lasciare per 5 minuti, dopo di che risciacquare con acqua. La procedura deve essere eseguita non più di 2 volte a settimana!.",
-    "contraindications": "intolleranza individuale ai componenti. Evitare il contatto con gli occhi. Non applicare usare per bambini di età inferiore ai tre anni o direttamente su ferite aperte.",
+    "contraindications": "intolleranza individuale ai componenti. Evitare il contatto con gli occhi. Non applicare sui bambini di età inferiore a tre anni nonché direttamente sulle ferite aperte.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni ",
     "keep": "conservare a temperatura tra 0°C e 25°C, lontano dalla luce solare diretta e dall'umidità."
@@ -1736,7 +1736,7 @@
     "short_description": "Complesso per migliorare le funzioni uditive con una formula equilibrata di vitamine e minerali.",
     "description": "un complesso di componenti naturali, la cui azione è volta ad eliminare l'acufene e rallentare la perdita dell'udito.",
     "compound": "Acido L-ascorbico, Gelatina, Vitamina C (Acido L-ascorbico), Cellulosa microcristallina, Acetil L-carnitina HCl, Estratto di foglie di Ginkgo biloba, Ossido di Magnesio, Nicotinamide, Zinco, Stearato di Magnesio, Diossido di Silicio.",
-    "usage": "Adulti, 1 capsula al giorno durante o dopo i pasti. La durata del corso è di 2 mesi. A \n Non superare la dose giornaliera raccomandata.",
+    "usage": "Adulti, 1 capsula al giorno durante o dopo i pasti. La durata del corso è di 2 mesi. Non superare la dose giornaliera raccomandata.",
     "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti. Solo per adulti, vietato ai minori di 18 anni.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
@@ -1763,11 +1763,11 @@
     "review_count": "297 recensioni",
     "niche": "Potenza",
     "form_factor": "capsule in blister, 10 pz.",
-    "short_description": "Un prodotto per uomo mirato a normalizzare la funzione riproduttiva.",
-    "description": "Un complesso di componenti vegetali che aumenta il desiderio sessuale e migliora la funzione sessuale negli uomini, normalizza la funzione del sistema genito-urinario durante la disfunzione erettile (per aumentare la libido e la potenza), migliora la qualità dello sperma e aumenta anche le prestazioni mentali e fisiche, e le capacità di adattamento negli uomini.",
+    "short_description": "Prodotto per uomo mirato a normalizzare la funzione riproduttiva.",
+    "description": "Complesso di componenti vegetali che aumenta il desiderio sessuale e migliora la funzione sessuale negli uomini, normalizza la funzione dell'apparato genitourinario in caso di disfunzione erettile (aumenta la libido e la potenza), migliora la qualità dello sperma e potenzia le prestazioni mentali e fisiche, nonché l'adattabilità negli uomini.",
     "compound": "Estratto di radice di Maca (Lepidium meyenii 4:1) - 60 mg, Estratto di frutti di Mirtillo rosso (Vaccinium macrocarpon, 35% proantocianidine) - 53 mg, Estratto di frutti di Saw Palmetto (Serenoa repens 5:1) - 50 mg, Estratto di radice di Ortica (Urtica dioica, 1% beta-sitosterolo) - 40 mg, Zinco (Citrato di Zinco Triidrato) - 5 mg.",
     "usage": "1 capsula 1-2 volte al giorno durante i pasti. La durata del corso è di 45 giorni. Se necessario, il corso può essere ripetuto.\n La dose giornaliera raccomandata è di 2 capsule.",
-    "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti (minori a 18 anni). \n Prima dell'assunzione si consiglia di consultare un medico. Non è un farmaco. Non superare la dose giornaliera raccomandata. Tenere lontano dalla portata dei bambini. Questo integratore alimentare non sostituisce una dieta variata.",
+    "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti (vietato ai minori di 18 anni). Si consiglia di consultare un medico prima dell'assunzione. Non è un farmaco. Non superare la dose giornaliera raccomandata. Tenere lontano dalla portata dei bambini. Questo integratore alimentare non sostituisce una dieta variata.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1779,10 +1779,10 @@
     "niche": "Articolazioni",
     "form_factor": "gel in flacone, 25 ml.",
     "short_description": "Gel con estratti naturali per eliminare diversi tipi di dolori articolari e muscolari.",
-    "description": "Formula in gel per applicazione topica sulle aree di dolore. Ammorbidisce e idrata la pelle, stimolando i processi metabolici dell'epidermide con un effetto rinfrescante.",
+    "description": "Formula in gel per applicazione topica sulle aree interessate. Ammorbidisce e idrata la pelle, stimolando i processi metabolici dell'epidermide con un effetto rinfrescante.",
     "compound": "Aqua, Alcohol Denat, Glicole propilenico, Estratto di fiori di Chamomilla Recutita, Estratto di Arnica Montana, Niacinamide, Glucosamina solfato, Estratto di radice di Harpagophytum Procumbens, Estratto di radice di Symphytum Officinale, Collagene idrolizzato, PEG-40, Olio di ricino idrogenato, Мentol, Olio di menta piperita, Sodio condroitina solfato, olio di foglie di eucalipto globulo, canfora, olio di foglie di Eugenia Caroyphyllus, olio di foglie di Cinnamomum Cassia, olio di foglie di melaleuca Alternifolia, copolimero di ammonio Acryloyldimethyltaurate /VP, pantenolo, gomma di xantano, fenossietanolo, etilesilglicerina, ialuronato di sodio, allantoina, disodio EDTА, linalolo, Limonene, Еugenol.",
-    "usage": "applicare una piccola quantità di prodotto con movimenti circolari fino a completo assorbimento 2-3 volte al giorno. Prima dell'uso fai un test di compatibilità con la tua pelle.",
-    "contraindications": "Solo per uso locale. Evitare il contatto con gli occhi e le mucose. In caso di contatto, sciacquare accuratamente con acqua! Non utilizzare su bambini di età inferiore ai tre anni, donne in gravidanza o allattamento, o direttamente su ferite aperte.",
+    "usage": "applicare una piccola quantità del prodotto con movimenti circolari fino a completo assorbimento 2-3 volte al giorno. Prima di applicare fare un test di sensibilità cutanea.",
+    "contraindications": "Solo per uso locale. Evitare il contatto con gli occhi e le mucose. In caso di contatto, sciacquare accuratamente con acqua! Non utilizzare su bambini di età inferiore ai tre anni, donne in gravidanza né in allattamento, o direttamente su ferite aperte.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1793,11 +1793,11 @@
     "review_count": "311 recensioni",
     "niche": "Potenza",
     "form_factor": "capsule in blister, 10 pz",
-    "short_description": "Un complesso a base di erbe per migliorare la potenza, la resistenza e la fertilità degli uomini di qualsiasi età.",
-    "description": "Capsule con un complesso di estratti naturali e zinco. L'azione del prodotto mira a reintegrare le sostanze mancanti al corpo, che sono difficili da ottenere con il cibo e che contribuiscono a: la circolazione sanguigna; l'erezione; la produzione di testosterone; la resistenza del corpo; la salute del sistema genito-urinario e della prostata.",
+    "short_description": "Complesso di erbe per migliorare la potenza, la resistenza e la fertilità negli uomini di qualsiasi età.",
+    "description": "Capsule con un complesso di estratti naturali e zinco. L'azione del prodotto è mirata a reintegrare le sostanze carenti nell'organismo, difficili da ottenere con l'alimentazione, contribuendo cosi al miglioramento di: circolazione sanguigna, erezioni, produzione di testosterone, resistenza, nonché della salute dell'apparato genitourinario e della prostata.",
     "compound": "Estratto di radice di maca (Lepidium meyenii 4:1) – 60 mg, estratto di mirtillo rosso (Vaccinium macrocarpon, 35 % proantocianidine) – 53 mg, estratto di frutto di saw palmetto (Serenoa repens 5:1) – 50 mg, estratto di radice di ortica (Urtica dioica, 1 % beta-sitosterolo) – 40 mg, zinco (citrato di zinco trihidratato) – 5 mg.",
     "usage": "1 capsula 1-2 volte al giorno durante o dopo i pasti.",
-    "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti, non utilizzare sotto i 18 anni. Si consiglia di consultare un medico prima dell'uso. Questo non è un farmaco. Non superare la dose giornaliera raccomandata. Tenere lontano dalla portata dei bambini. Questo integratore alimentare non deve sostituire una dieta variata.",
+    "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti, vietato ai minori di 18 anni. Si consiglia di consultare un medico prima dell'uso. Non è un farmaco. Non superare la dose giornaliera raccomandata. Tenere lontano dalla portata dei bambini. Questo integratore alimentare non deve sostituire una dieta variata.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1808,11 +1808,11 @@
     "review_count": "287 recensioni",
     "niche": "Articolazioni",
     "form_factor": "gel in flacone, 25 ml.",
-    "short_description": "Il gel contiene una ricca gamma di ingredienti biologicamente attivi che stimolano i processi metabolici nell'epidermide, agiscono su tutti i tipi di dolore e infiammazione, e hanno un effetto rinfrescante.",
+    "short_description": "Gel con una ricca gamma di ingredienti biologicamente attivi che stimolano i processi metabolici nell'epidermide, agiscono su tutti i tipi di dolore e infiammazione, e donano un effetto rinfrescante.",
     "description": "La formula naturale stimola la circolazione sanguigna e aiuta a normalizzare la mobilità articolare.",
     "compound": "Aqua, Alcohol Denat, Glicole propilenico, Estratto di fiori di Chamomilla Recutita, Estratto di Arnica Montana, Niacinamide, Glucosamina solfato, Estratto di radice di Harpagophytum Procumbens, Estratto di radice di Symphytum Officinale, Collagene idrolizzato, PEG-40, Olio di ricino idrogenato, Мentol, Olio di menta piperita, Sodio condroitina solfato, olio di foglie di eucalipto globulo, canfora, olio di foglie di Eugenia Caroyphyllus, olio di foglie di Cinnamomum Cassia, olio di foglie di melaleuca Alternifolia, copolimero di ammonio Acryloyldimethyltaurate /VP, pantenolo, gomma di xantano, fenossietanolo, etilesilglicerina, ialuronato di sodio, allantoina, disodio EDTА, linalolo, Limonene, Еugenol.",
-    "usage": "Applicare una piccola quantità di prodotto con movimenti circolari fino a completo assorbimento 2-3 volte al giorno. Prima dell'uso fai un test di compatibilità con la tua pelle.",
-    "contraindications": "Solo per uso locale. Evitare il contatto con gli occhi e le mucose. In caso di contatto, sciacquare accuratamente con acqua! Non utilizzare su bambini di età inferiore ai tre anni, donne in gravidanza o allattamento, o direttamente su ferite aperte.",
+    "usage": "Applicare una piccola quantità di prodotto con movimenti circolari fino a completo assorbimento 2-3 volte al giorno. Prima di applicare fare un test di sensibilità cutanea.",
+    "contraindications": "Solo per uso locale. Evitare il contatto con gli occhi e le mucose. In caso di contatto, sciacquare accuratamente con acqua! Non utilizzare su bambini di età inferiore ai tre anni, donne in gravidanza o in allattamento, nonché direttamente sulle ferite aperte.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1823,11 +1823,11 @@
     "review_count": "234 recensioni",
     "niche": "Varici",
     "form_factor": "gel in un tubo, 30 ml.",
-    "short_description": "Gel con effetto rinfrescante per combattere le manifestazioni delle vene varicose.",
-    "description": "Un complesso di componenti vegetali per normalizzare le condizioni dell’organismo, regolare il metabolismo e attivare i processi di ripristino della pelle.",
+    "short_description": "Gel con effetto rinfrescante per le manifestazioni delle vene varicose.",
+    "description": "Complesso di componenti vegetali per normalizzare le condizioni dell’organismo, regolare il metabolismo e attivare i processi di ripristino della pelle.",
     "compound": "Aqua, glicerina, glicole propilenico, alcool denat., estratto di ippocastano, estratto di Centella Asiatica, estratto di radice di Ruscus Aculeatus, estratto di callo di Symphytum Officinale, estratto di fiori di camomilla, niacinamide, caffeina, urea, arginina, copolimero di ammonio acryloyldimethyltaurate/VP, acido salicilico, mentolo, allantoina, ialuronato di sodio, fenossietanolo, etilesilglicerina, disodio EDTA.",
-    "usage": "applicare con leggeri movimenti massagianti 3-5 minuti 2 volte al giorno. Prima di applicare fai un test di tolleranza sulla pelle.",
-    "contraindications": "intolleranza individuale ai componenti. Evitare il contatto con gli occhi. Non applicare usare per bambini di età inferiore ai tre anni o direttamente su ferite aperte.",
+    "usage": "applicare con leggeri movimenti massagianti 3-5 minuti 2 volte al giorno. Prima di applicare fare un test di sensibilità cutanea.",
+    "contraindications": "intolleranza individuale ai componenti. Evitare il contatto con gli occhi. Non applicare sui bambini di età inferiore a tre anni nonché direttamente sulle ferite aperte.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare a temperatura tra 0°C e 25°C, lontano dalla luce solare diretta e dall'umidità."
@@ -1838,11 +1838,11 @@
     "review_count": "301 recensioni",
     "niche": "Fungo",
     "form_factor": "crema, 30 ml",
-    "short_description": "Crema ad azione battericida per combattere le manifestazioni del fungo.",
-    "description": "Aiuta a mantenere la microflora, ha un effetto calmante sulla pelle. Ha un effetto cheratolitico, rimuove gli strati cheratinizzati della pelle. Ha l'effetto idratante, ammorbisce la pelle. Aiuta a mantenere e stimola il rinnovamento cellulare dell'epidermide.",
+    "short_description": "Crema ad azione battericida per le manifestazioni del fungo.",
+    "description": "Aiuta a mantenere la microflora, ha un effetto calmante sulla pelle. Ha anche un effetto cheratolitico, rimuovendo gli strati cheratinizzati della pelle. L’effetto idratante aiuta ad ammorbire la pelle. Aiuta a mantenere e stimolare il rinnovamento cellulare dell'epidermide.",
     "compound": "Aqua, glicerina, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, estratto di fiori di camomilla, burro di butyrospermum parkii, niacinamide, ossido di zinco, estratto di propoli, olio di cocco, zolfo, alcloxa, acido salicilico, estratto di corteccia di salice bianco, estratto di corteccia/foglie di betulla bianca, olio di legno di ginepro, polisorbato 80, olio di foglie di melaleuca alternifolia, olio di menta piperita, gomma xantana, 4-terpineolo, piroctone olamine, fenossietanolo, etilesilglicerina, bht, disodio edta, linalolo, limonene.",
-    "usage": "applicare sulla pelle ben pulita e asciutta della zona interessata del corpo con un leggero movimento massaggiante dal basso verso l'alto. Prima dell'uso, è necessario eseguire un test per la tollerabilità dei componenti del prodotto con la pelle.",
-    "contraindications": "evitare il contatto con gli occhi. Non applicare a bambini di età inferiore ai 3 anni, donne in gravidanza e in allattamento. Non applicare su ferite aperte.",
+    "usage": "applicare sulla pelle ben pulita e asciutta della zona interessata del corpo con un leggero movimento massaggiante dal basso verso l'alto. Prima dell'uso, è necessario eseguire un test di sensibilità cutanea.",
+    "contraindications": "Evitare il contatto con gli occhi. Non usare su bambini di età inferiore a 3 anni donne in gravidanza o in allattamento. Non applicare sulle ferite aperte.Ulteriori informazioni\n",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1853,11 +1853,11 @@
     "review_count": "333 recensioni",
     "niche": "Dimagrimento",
     "form_factor": "barattolo, 20 capsule",
-    "short_description": "Capsule con estratti vegetali per attivare i processi metabolici e ridurre il peso.",
-    "description": "Capsule dimagranti con componenti naturali: estratto di frutta di guava, estratto di tè verde ed estratto di arancia amara, che hanno un potente effetto complesso, che ti permettono di sbarazzarsi di chili in più per un lungo termine.",
+    "short_description": "Capsule con estratti vegetali per attivare i processi metabolici e favorire la perdita di peso.",
+    "description": "Capsule dimagranti con componenti naturali: estratto di frutta di guava, estratto di tè verde ed estratto di arancia amara, con un potente effetto complesso, che ti permette di sbarazzarsi di chili in più per un lungo termine.",
     "compound": "Maltodestrine (filler), acido citrico (correttore di acidità), limone (aroma), estratto di guava, estratto di arancia amara, estratto di tè verde.",
     "usage": "Adulti, 1 capsula 2 volte al giorno 30 minuti prima dei pasti. La durata del corso è di 1 mese, se necessario, il corso può essere ripetuto.",
-    "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti. Solo per adulti, vietato ai minori di 18 anni. Non adatto a donne in gravidanza e in allattamento. Tenere fuori dalla portata dei bambini.",
+    "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti. Solo per adulti, vietato ai minori di 18 anni. Non adatto a donne in gravidanza o in allattamento. Tenere fuori dalla portata dei bambini.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1868,7 +1868,7 @@
     "review_count": "333 recensioni",
     "niche": "Vista",
     "form_factor": "Capsule in blister da 10 pz.",
-    "short_description": "Un prodotto per gli occhi che ferma i disturbi della vista legati all'età.",
+    "short_description": "Prodotto per gli occhi che ferma i disturbi della vista legati all'età.",
     "description": "Formula bilanciata, progettata per mantenere la salute della vista. Il prodotto contiene vitamine e oligoelementi con proprietà antiossidanti, i principali nutrienti per il funzionamento del sistema di protezione degli occhi contro i danni ossidativi e che arresta i disturbi della vista legati all'età.",
     "compound": "Estratto di radice di ortica, gelatina (involucro della capsula), cellulosa microcristallina (riempitivo), estratto di radice di valeriana, citrato di zinco triidrato, stearato di magnesio (riempitivo), biossido di silicio (agente antiagglomerante), vitamina B6, vitamina B2, vitamina B1, vitamina B12.",
     "usage": "Adulti 2 capsule al giorno prima dei pasti. La durata dell'assunzione è di 2 mesi. <br> Se necessario, il corso può essere ripetuto. DOSE GIORNALIERA CONSIGLIATA: 2 capsule.",
@@ -1883,10 +1883,10 @@
     "review_count": "333 recensioni",
     "niche": "Emorroide",
     "form_factor": "gel in un tubo, 30 ml.",
-    "short_description": "Il prodotto, a base vegetale, rafforza le pareti dei vasi sanguigni e previene lo sviluppo di emorroidi.",
+    "short_description": "Prodotto a base vegetale, che rafforza le pareti dei vasi sanguigni e previene lo sviluppo di emorroidi.",
     "description": "Gel con un leggero effetto di raffreddamento, che consente al prodotto di alleviare il dolore e ridurre l'infiammazione. Contiene una vasta gamma di componenti biologicamente attivi: estratti di Centella asiatica, castagno, camomilla, ago, consolida maggiore, troxerutina, caffeina, allantoina, B3, acido ialuronico.",
     "compound": "Aqua, glicerina, glicole propilenico, alcool denat., estratto di ippocastano, estratto di centella asiatica, estratto di radice di ruscus aculeatus, estratto di callo di symphytum officinale, estratto di fiori di camomilla, niacinamide, troxerutina, caffeina, urea, arginina, copolimero di ammonio acryloyldimethyltaurate/vp, acido salicilico, mentolo, allantoina, ialuronato di sodio, fenossietanolo, etilesilglicerina, disodio edta.",
-    "usage": "applicare con leggeri movimenti di massaggio per 3-5 minuti 2 volte al giorno. Eseguire un test di compatibilità con la pelle prima dell'uso. Si consiglia di applicare 1-2 volte al giorno.",
+    "usage": "applicare con leggeri movimenti di massaggio per 3-5 minuti 2 volte al giorno. Eseguire un test di sensibilità cutanea prima dell’uso. Si consiglia di applicare 1-2 volte al giorno.",
     "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti. Solo per adulti, vietato ai minori sotto i 18 anni. Tenere fuori dalla portata dei bambini.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
@@ -2081,7 +2081,7 @@
             "type": "empty"
           }
         ],
-        "text": "Crema-siero con mucina di lumaca - un ottimo rimedio! Leviga le rughe al 100%! Rimuove la pigmentazione, la pelle è nutrita e idratata!"
+        "text": "Siero viso con mucina di lumaca - un ottimo rimedio! Leviga le rughe al 100%! Rimuove la pigmentazione, la pelle è nutrita e idratata!"
       },
       {
         "src": "img/review_beauty-age-skin_2.png",
@@ -2110,7 +2110,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ho preso Beauty Age Skin per provare. Sono rimasta contentissima di questo prodotto! La pelle è diventata molto migliore, di colore sano, senza gonfiore e infiammazioni. Fantastico!"
+        "text": "Ho preso Beauty Age Skin per provare. Sono rimasta contentissima di questo prodotto!  La pelle è migliorata molto, di colore sano, senza gonfiore e infiammazioni. Fantastico!"
       },
       {
         "src": "img/review_beauty-age-skin_3.png",
@@ -2139,7 +2139,7 @@
             "type": "empty"
           }
         ],
-        "text": "Beauty Age Skin è la crema migliore! È molto difficile trovare un rimedio adatto per la mia pelle sensibile, ma questo mi sta benissimo. Lo uso ormai da sei mesi e l'effetto mi piace ogni giorno sempre di più!"
+        "text": "Beauty Age Skin è lo siero viso migliore! È molto difficile trovare un rimedio adatto per la mia pelle sensibile, ma questo mi sta benissimo. Lo uso ormai da sei mesi e l'effetto mi piace ogni giorno sempre di più!"
       },
       {
         "src": "img/review_beauty-age-skin_4.png",
@@ -2665,7 +2665,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ha scelto Delislim per la sua ottima composizione. Sono rimasta molto soddisfatta del rimedio. I chili in più sono andati via, sono stata in grado di far fronte all'eterna sensazione di fame. Lo consiglio!"
+        "text": "Ha scelto Delislim per la sua ottima composizione. Sono rimasta molto soddisfatta del rimedio. I chili in più sono andati via, sono riuscita a far fronte all'eterna sensazione di fame. Lo consiglio!"
       },
       {
         "src": "img/review_delislim_2.png",
@@ -2694,7 +2694,7 @@
             "type": "empty"
           }
         ],
-        "text": "In precedenza, diffidavo dei prodotti dimagranti, ma Delislim mi piace molto. Agisce delicatamente ma efficacemente. Mi ha aiutato a ridurre il peso senza effetti collaterali."
+        "text": "In precedenza, diffidavo dei prodotti dimagranti, ma Delislim mi piace molto. Agisce delicatamente ma efficacemente. Mi ha aiutato a perdere peso senza effetti collaterali."
       },
       {
         "src": "img/review_delislim_3.png",
@@ -3102,7 +3102,7 @@
             "type": "empty"
           }
         ],
-        "text": "3 anni fa sono stato diagnosticato, ho provato diversi mezzi e schemi di recupero. Solo Exurol è stato in grado di aiutarmi. L'ordinato su internet con consegna tramite corriere."
+        "text": "Sono stato diagnosticato 3 anni fa, ho provato diversi mezzi e modi di recupero. Solo Exurol è stato in grado di aiutarmi. L'ordinato su internet con consegna tramite corriere."
       },
       {
         "src": "img/review_exurol_2.png",
@@ -3161,7 +3161,7 @@
             "type": "empty"
           }
         ],
-        "text": "L'ho ordinato per mio marito. Dice che il risultato c'è. La notte dorme meglio, il sesso è tornato nelle nostre vite. Continua il ciclo."
+        "text": "L'ho ordinato per mio marito. Dice che il risultato c'è. La notte dorme meglio, il sesso è tornato nella nostra vita. Continua il ciclo."
       },
 
       {
@@ -3611,7 +3611,7 @@
             "type": "empty"
           }
         ],
-        "text": "Agisce rapidamente, dopo la prima applicazione ti senti già meglio. Miglioravo ogni giorno. Sono soddisfatto del prodotto e pure il prezzo è ottimo!"
+        "text": "Agisce rapidamente, dopo la prima applicazione ti senti già meglio. Miglioro ogni giorno. Sono soddisfatto del prodotto e pure il prezzo è ottimo!"
       },
 
       {
@@ -4001,7 +4001,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ho provato le gocce Desalix l'anno scorso. Il problema è scomparso e da allora non è più apparso. La pelle e le unghie dei piedi sono sane, nulla mi disturba."
+        "text": "Ho provato l’olio Desalix l'anno scorso. Il problema è scomparso e da allora non si è più ripresentato. La pelle e le unghie dei piedi sono sane, nulla mi disturba."
       },
 
       {
@@ -4451,7 +4451,7 @@
             "type": "empty"
           }
         ],
-        "text": "Un buon rimedio, efficace. C'è un effetto e non provoca proprietà collaterali. Dopo il corso di trattamento il problema è stato risolto completamente."
+        "text": "Un buon rimedio, efficace. L'effetto c'è e non provoca effetti collaterali. Dopo il corso di trattamento il problema è stato risolto completamente."
       },
 
       {
@@ -4902,7 +4902,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ho lottato con il fungo del piede per anni. Tutti i prodotti hanno avuto solo un effetto temporaneo. Demyxil ha aiutato a dimenticare questo problema per sempre. Ora la pelle e le unghie sono sane! Fantastico!"
+        "text": "Ho lottato con il fungo del piede per anni. Tutti i prodotti hanno avuto solo un effetto temporaneo. Demyxil mi ha aiutato a dimenticare questo problema per sempre. Ora la mia pelle e le mie unghie sono sane! Fantastico!"
       },
       {
         "src": "img/review_demyxil_2.png",
@@ -4931,7 +4931,7 @@
             "type": "empty"
           }
         ],
-        "text": "Recentemente ha scoperto che tutta la pelle del collo è nei papillomi. Ho deciso di provare la crema Demyxil. Aiutato. Un prodotto abbastanza efficace. Sbarazzata rapidamente dei papillomi, la pelle è diventata sana e idratata!"
+        "text": " Di recente ho scoperto che tutta la pelle del mio collo è ricoperta di papillomi. Ho deciso di provare la crema Demyxil. Ha aiutato. Un prodotto abbastanza efficace. Mi sono sbarazzata rapidamente dei papillomi, la pelle è diventata sana e idratata!"
       },
       {
         "src": "img/review_demyxil_3.png",
@@ -5339,7 +5339,7 @@
             "type": "empty"
           }
         ],
-        "text": "Solo di recente ho ordinato il gel Vasaxal. C'è un piacevole effetto di raffreddamento dopo l'applicazione. Dopo alcuni giorni è apparsa una legerezza, un effetto iniziale c'è."
+        "text": "Ho ordinato il gel Vasaxal solo di recente. C'è un piacevole effetto di raffreddamento dopo l'applicazione. Dopo alcuni giorni è apparsa una leggerezza, un effetto iniziale c'è."
       },
 
       {
@@ -5369,7 +5369,7 @@
             "type": "empty"
           }
         ],
-        "text": "Un gel efficace che allevia la pesantezza e l'affaticamento dei piedi.Il dolore pulsante e il dolore di quando si cammina sono passati, continuo a usarelo."
+        "text": "Un gel efficace che allevia la pesantezza e l'affaticamento dei piedi.Il dolore pulsante o di quando si cammina sono passati, continuo a usarlo."
       },
 
       {
@@ -5790,7 +5790,7 @@
             "type": "empty"
           }
         ],
-        "text": "Quando sono iniziati i problemi di udito, ho cercato un rimedio a lungo. Mi hanno consigliato Ausen. L'effetto è sicuramente lì! Ho smesso di chiedere due volte. E costa poco!"
+        "text": "Quando ho iniziato ad avere problemi di udito, ho cercato a lungo un rimedio. L'effetto c'è sicuramente. Mi hanno consigliato Ausen. Ho smesso di chiedere più volte. E costa poco!"
       },
 
       {
@@ -5850,7 +5850,7 @@
             "type": "empty"
           }
         ],
-        "text": "Aiuta bene contro il dolore e l'acufene. Aiuta ad eliminare il tintinnio. Tra i vantaggi: efficacia, composizione naturale, prezzo accessibile."
+        "text": "Aiuta bene per il dolore e l'acufene. Aiuta anche ad eliminare il tintinnio. Tra i vantaggi: efficacia, composizione naturale, prezzo accessibile."
       },
 
       {
@@ -6241,7 +6241,7 @@
             "type": "empty"
           }
         ],
-        "text": "Un prodotto economico, sicuro ed efficace contro i parassiti. Lo prendevo quando ho scoperto questo \"problema\". Ha aiuto! Ora lo assumo regolarmente come misura preventiva 2 volte l'anno."
+        "text": "Un prodotto economico, sicuro ed efficace contro i parassiti. Lo prendevo quando ho scoperto questo \"problema\". Ha aiuto! Ora lo prendo regolarmente come misura preventiva 2 volte l'anno."
       },
 
       {
@@ -6301,7 +6301,7 @@
             "type": "empty"
           }
         ],
-        "text": "Paraxan l'ho scelto per la sua composizione. Ho 3 gatti, quindi ho bisogno di tale prevenzione due volte l'anno. E Paraxan è lo strumento ideale per questi scopi."
+        "text": "Ho scelto Paraxan per la sua composizione. Ho 3 gatti, quindi ho bisogno di tale prevenzione due volte l'anno. E Paraxan è lo strumento ideale per questi scopi."
       },
 
       {
@@ -6692,7 +6692,7 @@
             "type": "empty"
           }
         ],
-        "text": "Allevia il dolore e l'infiammazione molto rapidamente. C'era un problema con l'articolazione del ginocchio, avevo difficoltà a stare in piedi. Dopo l'uso di Steplex è diventato tutto più facile. Per mesi non ricordo nemmeno il problema!"
+        "text": "Allevia il dolore e l'infiammazione molto rapidamente. Avevo un problema all'articolazione del ginocchio; avevo difficoltà a stare in piedi. Dopo aver usato Steplex, tutto è diventato più facile. Per mesi non mi sono nemmeno ricordato del problema!"
       },
 
       {
@@ -8333,7 +8333,7 @@
             "type": "empty"
           }
         ],
-        "text": "Trovazin ha rimosso pesantezza e gonfiore dalle gambe già nei primi giorni. Mi sento molto meglio. Un aiuto efficace per le persone che soffrono di vene varicose."
+        "text": "Trovazin ha tolto pesantezza e gonfiore dalle gambe già nei primi giorni. Mi sento molto meglio. Un aiuto efficace per le persone che soffrono di vene varicose."
       },
 
       {
@@ -8363,7 +8363,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ho provato Trovazin la scorsa settimana. Buon gel, dalla prima applicazione ho sentito sollievo. Continuerò ad usare."
+        "text": "Ho provato Trovazin la scorsa settimana. Ottimo gel, dalla prima applicazione ho sentito sollievo. Continuerò ad usarlo."
       },
 
       {
@@ -8393,7 +8393,7 @@
             "type": "empty"
           }
         ],
-        "text": "Un ottimo gel Trovazin con un piacevole effetto di raffreddamento. Si assorbe rapidamente e dona sollievo! Soddisfatta al 100%!"
+        "text": "Trovazin e’ un ottimo gel con un piacevole effetto rinfrescante. Si assorbe rapidamente e dona sollievo! Soddisfatta al 100%!"
       },
 
       {
@@ -8783,7 +8783,7 @@
             "type": "empty"
           }
         ],
-        "text": "Mi ha aiutato a risolvere i miei \"problemi maschili\". Non lo racconto in dettaglio, ma l'erezione è tornata con una nuova forza. Dura abbastanza!"
+        "text": "Mi ha aiutato a risolvere i miei \"problemi maschili\". Non lo racconto in dettaglio, ma l'erezione è tornata con una nuova forza. Abbastanza dura!"
       },
 
       {
@@ -8813,7 +8813,7 @@
             "type": "empty"
           }
         ],
-        "text": "Funziona come dovrebbe. Negli ultimi mesi, nessun errore. Nessuna dipendenza e nessun effetto collaterale."
+        "text": "Funziona come dovrebbe. Negli ultimi mesi, nessun fallimento. Nessuna dipendenza o effetti collaterali."
       },
 
       {
@@ -8843,7 +8843,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ho ordinato per mio marito quando abbiamo avuto problemi a letto. Le cose sono migliorate molto, lo facciamo più spesso e più a lungo. Il mio marito può ancora sorprendermi!"
+        "text": "L’ho ordinato per mio marito quando abbiamo avuto problemi a letto. Le cose sono migliorate molto, lo facciamo più spesso e più a lungo. Il mio marito può ancora sorprendermi!"
       },
 
       {
@@ -9263,7 +9263,7 @@
             "type": "empty"
           }
         ],
-        "text": "Guavital + ha aiutato a sbarazzarsi della costante sensazione di fame. Grazie a questo prodotto ho imparato a controllare l'appetito. Fin ora ho perso 7 kg, continuo a seguire il ciclo."
+        "text": "Guavital+ mi ha aiutato a sbarazzarsi della costante sensazione di fame. Grazie a questo prodotto ho imparato a controllare l'appetito. Fin ora ho perso 7 kg, continuo a seguire il ciclo."
       },
 
       {
@@ -10161,7 +10161,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ho vissuto con questo incubo per 5 anni. All'inizio è tutto lieve, solo prurito e fastidio. Poi sono arrivate le esacerbazioni, sono comparsi lividi, forte dolore. Spalmavo le creme, facevo le supposte, niente ha aiutato. Grazie a Vasos Duo in un mese, tutto è andato via."
+        "text": "Ho vissuto con questo incubo per 5 anni. All'inizio è tutto lieve, solo prurito e fastidio. Poi sono arrivate le esacerbazioni, sono comparsi lividi, forte dolore. Spalmavo le creme, facevo le supposte, niente ha aiutato. Grazie a Vasos Duo, in un mese, tutto è andato via."
       },
 
       {
