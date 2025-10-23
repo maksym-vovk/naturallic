@@ -1902,7 +1902,7 @@ export const productsInfo = {
     pl: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Odchudzanie',
             country: 'Poland',
             productName: 'GUAVITAL+',
@@ -1911,7 +1911,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Żylaki',
             country: 'Poland',
             productName: 'Trovazin',
@@ -1920,7 +1920,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Grzybica',
             country: 'Poland',
             productName: 'Desalix',
@@ -1929,7 +1929,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Pasożyty',
             country: 'Poland',
             productName: 'Paraxan',
@@ -1939,7 +1939,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Zapalenie gruczołu krokowego',
             country: 'Poland',
             productName: 'Exurol',
@@ -1949,7 +1949,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'wzrok',
             country: 'Poland',
             productName: 'Visoptic DUO Night',
@@ -1959,7 +1959,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Wzrok',
             country: 'Poland',
             productName: 'Visoptic DUO Day',
@@ -1968,7 +1968,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Odmłodzenie',
             country: 'Poland',
             productName: 'Beauty Age Skin',
@@ -1977,7 +1977,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Odmłodzenie',
             country: 'Poland',
             productName: 'Beauty Age Skin Peeling',
@@ -1987,7 +1987,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Słuch',
             country: 'Poland',
             productName: 'Ausen',
@@ -1997,7 +1997,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Pasożyty',
             country: 'Poland',
             productName: 'Vermixin',
@@ -2007,7 +2007,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Potencja',
             country: 'Poland',
             productName: 'Viarex',
@@ -2016,7 +2016,7 @@ export const productsInfo = {
         },
         depanten: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Stawy',
             country: 'Poland',
             productName: 'Depanten',
@@ -2026,7 +2026,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Potencja',
             country: 'Poland',
             productName: 'Urosaf',
@@ -2036,7 +2036,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Stawy',
             country: 'Poland',
             productName: 'Steplex',
@@ -2045,7 +2045,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Żylaki',
             country: 'Poland',
             productName: 'Vasaxal',
@@ -2054,7 +2054,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Grzybica',
             country: 'Poland',
             productName: 'Demyxil',
@@ -2063,7 +2063,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Odchudzanie',
             country: 'Poland',
             productName: 'Delislim',
@@ -2072,7 +2072,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Wzrok',
             country: 'Poland',
             productName: 'Ophtalax',
@@ -2081,7 +2081,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082462',
+            campaign_id: '1441333',
             niche: 'Hemoroidy',
             country: 'Poland',
             productName: 'Vasos Duo',
