@@ -6,8 +6,8 @@ export const productsInfo = {
             niche: 'Perte de poids',
             country: 'Belgium',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '24',
+            newPrice: '90'
         },
         trovazin: {
             company: 'everad',
@@ -15,8 +15,8 @@ export const productsInfo = {
             niche: 'Varices',
             country: 'Belgium',
             productName: 'Trovazin',
-            salePrice: "24",
-            newPrice: "82",
+            salePrice: '30',
+            newPrice: '113'
         },
         desalix: {
             company: 'everad',
@@ -24,8 +24,8 @@ export const productsInfo = {
             niche: 'Mycose',
             country: 'Belgium',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '27',
+            newPrice: '133'
         },
         paraxan: {
             company: 'everad',
@@ -33,8 +33,8 @@ export const productsInfo = {
             niche: 'Parasites',
             country: 'Belgium',
             productName: 'Paraxan',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '29',
+            newPrice: '126'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -43,8 +43,8 @@ export const productsInfo = {
             niche: 'Prostatite',
             country: 'Belgium',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '25',
+            newPrice: '113'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -53,8 +53,8 @@ export const productsInfo = {
             niche: 'Vision',
             country: 'Belgium',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '90'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -63,8 +63,8 @@ export const productsInfo = {
             niche: 'Vision',
             country: 'Belgium',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '28',
+            newPrice: '130'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -72,8 +72,8 @@ export const productsInfo = {
             niche: 'Rajeunissement',
             country: 'Belgium',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '30',
+            newPrice: '119'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -81,8 +81,8 @@ export const productsInfo = {
             niche: 'Rajeunissement',
             country: 'Belgium',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "24",
-            newPrice: "135",
+            salePrice: '24',
+            newPrice: '93'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -91,8 +91,8 @@ export const productsInfo = {
             niche: 'Ouïe',
             country: 'Belgium',
             productName: 'Ausen',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '27',
+            newPrice: '116'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -101,8 +101,8 @@ export const productsInfo = {
             niche: 'Parasites',
             country: 'Belgium',
             productName: 'Vermixin',
-            salePrice: "24",
-            newPrice: "88",
+            salePrice: '29',
+            newPrice: '141'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -111,8 +111,8 @@ export const productsInfo = {
             niche: 'Puissance',
             country: 'Belgium',
             productName: 'Viarex',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '76'
         },
         depanten: {
             company: 'everad',
@@ -120,8 +120,8 @@ export const productsInfo = {
             niche: 'Articulations',
             country: 'Belgium',
             productName: 'Depanten',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '26',
+            newPrice: '95'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -130,8 +130,8 @@ export const productsInfo = {
             niche: 'Puissance',
             country: 'Belgium',
             productName: 'Urosaf',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '28',
+            newPrice: '130'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -140,8 +140,8 @@ export const productsInfo = {
             niche: 'Articulations',
             country: 'Belgium',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '30',
+            newPrice: '127'
         },
         vasaxal: {
             company: 'everad',
@@ -149,8 +149,8 @@ export const productsInfo = {
             niche: 'Varices',
             country: 'Belgium',
             productName: 'Vasaxal',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '27',
+            newPrice: '100'
         },
         demyxil: {
             company: 'everad',
@@ -158,8 +158,8 @@ export const productsInfo = {
             niche: 'Mycose',
             country: 'Belgium',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '24',
+            newPrice: '104'
         },
         delislim: {
             company: 'everad',
@@ -167,8 +167,8 @@ export const productsInfo = {
             niche: 'Perte de poids',
             country: 'Belgium',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '109'
         },
         ophtalax: {
             company: 'everad',
@@ -176,8 +176,8 @@ export const productsInfo = {
             niche: 'Vision',
             country: 'Belgium',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "119",
+            salePrice: '29',
+            newPrice: '130'
         },
         vasos_duo: {
             company: 'everad',
@@ -185,9 +185,9 @@ export const productsInfo = {
             niche: 'Hémorroïdes',
             country: 'Belgium',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
+            salePrice: '25',
+            newPrice: '84'
+        }
     },
     bg: {
         guavital: {
@@ -196,8 +196,8 @@ export const productsInfo = {
             niche: 'Отслабване',
             country: 'Bulgaria',
             productName: 'GUAVITAL+',
-            salePrice: "43",
-            newPrice: "190",
+            salePrice: '43',
+            newPrice: '190'
         },
         trovazin: {
             company: 'everad',
@@ -205,8 +205,8 @@ export const productsInfo = {
             niche: 'Варикоза',
             country: 'Bulgaria',
             productName: 'Trovazin',
-            salePrice: "43",
-            newPrice: "149",
+            salePrice: '43',
+            newPrice: '149'
         },
         desalix: {
             company: 'everad',
@@ -214,8 +214,8 @@ export const productsInfo = {
             niche: 'Гъбички',
             country: 'Bulgaria',
             productName: 'Desalix',
-            salePrice: "44",
-            newPrice: "159",
+            salePrice: '44',
+            newPrice: '159'
         },
         paraxan: {
             company: 'everad',
@@ -223,8 +223,8 @@ export const productsInfo = {
             niche: 'Паразити',
             country: 'Bulgaria',
             productName: 'Paraxan',
-            salePrice: "45",
-            newPrice: "137",
+            salePrice: '45',
+            newPrice: '137'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -233,8 +233,8 @@ export const productsInfo = {
             niche: 'Простатит',
             country: 'Bulgaria',
             productName: 'Exurol',
-            salePrice: "45",
-            newPrice: "179",
+            salePrice: '45',
+            newPrice: '179'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -243,8 +243,8 @@ export const productsInfo = {
             niche: 'Зрение',
             country: 'Bulgaria',
             productName: 'Visoptic DUO Night',
-            salePrice: "44",
-            newPrice: "186",
+            salePrice: '44',
+            newPrice: '186'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -253,8 +253,8 @@ export const productsInfo = {
             niche: 'Зрение',
             country: 'Bulgaria',
             productName: 'Visoptic DUO Day',
-            salePrice: "44",
-            newPrice: "157",
+            salePrice: '44',
+            newPrice: '157'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -262,8 +262,8 @@ export const productsInfo = {
             niche: 'Подмладяване',
             country: 'Bulgaria',
             productName: 'Beauty Age Skin',
-            salePrice: "45",
-            newPrice: "280",
+            salePrice: '45',
+            newPrice: '280'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -271,8 +271,8 @@ export const productsInfo = {
             niche: 'Подмладяване',
             country: 'Bulgaria',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "43",
-            newPrice: "239",
+            salePrice: '43',
+            newPrice: '239'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -281,8 +281,8 @@ export const productsInfo = {
             niche: 'Слух',
             country: 'Bulgaria',
             productName: 'Ausen',
-            salePrice: "42",
-            newPrice: "217",
+            salePrice: '42',
+            newPrice: '217'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -291,8 +291,8 @@ export const productsInfo = {
             niche: 'Паразити',
             country: 'Bulgaria',
             productName: 'Vermixin',
-            salePrice: "43",
-            newPrice: "161",
+            salePrice: '43',
+            newPrice: '161'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -301,8 +301,8 @@ export const productsInfo = {
             niche: 'Потентност',
             country: 'Bulgaria',
             productName: 'Viarex',
-            salePrice: "44",
-            newPrice: "220",
+            salePrice: '44',
+            newPrice: '220'
         },
         depanten: {
             company: 'everad',
@@ -310,8 +310,8 @@ export const productsInfo = {
             niche: 'Стави',
             country: 'Bulgaria',
             productName: 'Depanten',
-            salePrice: "44",
-            newPrice: "140",
+            salePrice: '44',
+            newPrice: '140'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -320,8 +320,8 @@ export const productsInfo = {
             niche: 'Потентност',
             country: 'Bulgaria',
             productName: 'Urosaf',
-            salePrice: "43",
-            newPrice: "250",
+            salePrice: '43',
+            newPrice: '250'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -330,8 +330,8 @@ export const productsInfo = {
             niche: 'Стави',
             country: 'Bulgaria',
             productName: 'Steplex',
-            salePrice: "43",
-            newPrice: "121",
+            salePrice: '43',
+            newPrice: '121'
         },
         vasaxal: {
             company: 'everad',
@@ -339,8 +339,8 @@ export const productsInfo = {
             niche: 'Варикоза',
             country: 'Bulgaria',
             productName: 'Vasaxal',
-            salePrice: "42",
-            newPrice: "123",
+            salePrice: '42',
+            newPrice: '123'
         },
         demyxil: {
             company: 'everad',
@@ -348,8 +348,8 @@ export const productsInfo = {
             niche: 'Гъбички',
             country: 'Bulgaria',
             productName: 'Demyxil',
-            salePrice: "45",
-            newPrice: "164",
+            salePrice: '45',
+            newPrice: '164'
         },
         delislim: {
             company: 'everad',
@@ -357,8 +357,8 @@ export const productsInfo = {
             niche: 'Отслабване',
             country: 'Bulgaria',
             productName: 'Delislim',
-            salePrice: "45",
-            newPrice: "150",
+            salePrice: '45',
+            newPrice: '150'
         },
         ophtalax: {
             company: 'everad',
@@ -366,8 +366,8 @@ export const productsInfo = {
             niche: 'Зрение',
             country: 'Bulgaria',
             productName: 'Ophtalax',
-            salePrice: "45",
-            newPrice: "205",
+            salePrice: '45',
+            newPrice: '205'
         },
         vasos_duo: {
             company: 'everad',
@@ -375,9 +375,9 @@ export const productsInfo = {
             niche: 'Хемороиди',
             country: 'Bulgaria',
             productName: 'Vasos Duo',
-            salePrice: "42",
-            newPrice: "130",
-        },
+            salePrice: '42',
+            newPrice: '130'
+        }
     },
     cz: {
         guavital: {
@@ -386,8 +386,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Czech',
             productName: 'GUAVITAL+',
-            salePrice: "508",
-            newPrice: "1690",
+            salePrice: '508',
+            newPrice: '1690'
         },
         trovazin: {
             company: 'everad',
@@ -395,8 +395,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Czech',
             productName: 'Trovazin',
-            salePrice: "511",
-            newPrice: "2034",
+            salePrice: '511',
+            newPrice: '2034'
         },
         desalix: {
             company: 'everad',
@@ -404,8 +404,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Czech',
             productName: 'Desalix',
-            salePrice: "502",
-            newPrice: "1505",
+            salePrice: '502',
+            newPrice: '1505'
         },
         paraxan: {
             company: 'everad',
@@ -413,8 +413,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Czech',
             productName: 'Paraxan',
-            salePrice: "506",
-            newPrice: "1786",
+            salePrice: '506',
+            newPrice: '1786'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -423,8 +423,8 @@ export const productsInfo = {
             niche: 'Zánět prostaty',
             country: 'Czech',
             productName: 'Exurol',
-            salePrice: "507",
-            newPrice: "2190",
+            salePrice: '507',
+            newPrice: '2190'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -433,8 +433,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Visoptic DUO Night',
-            salePrice: "517",
-            newPrice: "1529",
+            salePrice: '517',
+            newPrice: '1529'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -443,8 +443,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Visoptic DUO Day',
-            salePrice: "521",
-            newPrice: "2385",
+            salePrice: '521',
+            newPrice: '2385'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -452,8 +452,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Czech',
             productName: 'Beauty Age Skin',
-            salePrice: "523",
-            newPrice: "2736",
+            salePrice: '523',
+            newPrice: '2736'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -461,8 +461,8 @@ export const productsInfo = {
             niche: 'Omlazování',
             country: 'Czech',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "524",
-            newPrice: "3199",
+            salePrice: '524',
+            newPrice: '3199'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -471,8 +471,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Czech',
             productName: 'Ausen',
-            salePrice: "518",
-            newPrice: "2455",
+            salePrice: '518',
+            newPrice: '2455'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -481,8 +481,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Czech',
             productName: 'Vermixin',
-            salePrice: "509",
-            newPrice: "1644",
+            salePrice: '509',
+            newPrice: '1644'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -491,8 +491,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Czech',
             productName: 'Viarex',
-            salePrice: "516",
-            newPrice: "2694",
+            salePrice: '516',
+            newPrice: '2694'
         },
         depanten: {
             company: 'everad',
@@ -500,8 +500,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Czech',
             productName: 'Depanten',
-            salePrice: "514",
-            newPrice: "1465",
+            salePrice: '514',
+            newPrice: '1465'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -510,8 +510,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Czech',
             productName: 'Urosaf',
-            salePrice: "522",
-            newPrice: "3550",
+            salePrice: '522',
+            newPrice: '3550'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -520,8 +520,8 @@ export const productsInfo = {
             niche: 'Klouby',
             country: 'Czech',
             productName: 'Steplex',
-            salePrice: "520",
-            newPrice: "3065",
+            salePrice: '520',
+            newPrice: '3065'
         },
         vasaxal: {
             company: 'everad',
@@ -529,8 +529,8 @@ export const productsInfo = {
             niche: 'Křečové žíly',
             country: 'Czech',
             productName: 'Vasaxal',
-            salePrice: "505",
-            newPrice: "1874",
+            salePrice: '505',
+            newPrice: '1874'
         },
         demyxil: {
             company: 'everad',
@@ -538,8 +538,8 @@ export const productsInfo = {
             niche: 'Fungus',
             country: 'Czech',
             productName: 'Demyxil',
-            salePrice: "525",
-            newPrice: "2654",
+            salePrice: '525',
+            newPrice: '2654'
         },
         delislim: {
             company: 'everad',
@@ -547,8 +547,8 @@ export const productsInfo = {
             niche: 'Hubnutí',
             country: 'Czech',
             productName: 'Delislim',
-            salePrice: "510",
-            newPrice: "2165",
+            salePrice: '510',
+            newPrice: '2165'
         },
         ophtalax: {
             company: 'everad',
@@ -556,8 +556,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Ophtalax',
-            salePrice: "515",
-            newPrice: "1765",
+            salePrice: '515',
+            newPrice: '1765'
         },
         vasos_duo: {
             company: 'everad',
@@ -565,9 +565,9 @@ export const productsInfo = {
             niche: 'Hemoroidy',
             country: 'Czech',
             productName: 'Vasos Duo',
-            salePrice: "519",
-            newPrice: "1983",
-        },
+            salePrice: '519',
+            newPrice: '1983'
+        }
     },
     ee: {
         guavital: {
@@ -576,8 +576,8 @@ export const productsInfo = {
             niche: 'Kaalulangetus',
             country: 'Estonia',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '112'
         },
         trovazin: {
             company: 'everad',
@@ -585,8 +585,8 @@ export const productsInfo = {
             niche: 'Varikoos',
             country: 'Estonia',
             productName: 'Trovazin',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '73'
         },
         desalix: {
             company: 'everad',
@@ -594,8 +594,8 @@ export const productsInfo = {
             niche: 'Seenhaigus',
             country: 'Estonia',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "96",
+            salePrice: '25',
+            newPrice: '96'
         },
         paraxan: {
             company: 'everad',
@@ -603,8 +603,8 @@ export const productsInfo = {
             niche: 'Parasiidid',
             country: 'Estonia',
             productName: 'Paraxan',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '89'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -613,8 +613,8 @@ export const productsInfo = {
             niche: 'Prostatiit',
             country: 'Estonia',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "80",
+            salePrice: '26',
+            newPrice: '80'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -623,8 +623,8 @@ export const productsInfo = {
             niche: 'Nägemine',
             country: 'Estonia',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -633,8 +633,8 @@ export const productsInfo = {
             niche: 'Nägemine',
             country: 'Estonia',
             productName: 'Visoptic DUO Day',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '139'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -642,8 +642,8 @@ export const productsInfo = {
             niche: 'Noorenemine',
             country: 'Estonia',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '136'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -651,8 +651,8 @@ export const productsInfo = {
             niche: 'Noorenemine',
             country: 'Estonia',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '165'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -661,8 +661,8 @@ export const productsInfo = {
             niche: 'Kuulmine',
             country: 'Estonia',
             productName: 'Ausen',
-            salePrice: "25",
-            newPrice: "119",
+            salePrice: '25',
+            newPrice: '119'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -671,8 +671,8 @@ export const productsInfo = {
             niche: 'Parasiidid',
             country: 'Estonia',
             productName: 'Vermixin',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '79'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -681,18 +681,9 @@ export const productsInfo = {
             niche: 'Potents',
             country: 'Estonia',
             productName: 'Viarex',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '102'
         },
-        // depanten: {
-        //     company: 'everad',
-        //     campaign_id: '1082460',
-        //     niche: 'Liigesed',
-        //     country: 'Estonia',
-        //     productName: 'Depanten',
-        //     salePrice: "800",
-        //     newPrice: "111111",
-        // },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -700,8 +691,8 @@ export const productsInfo = {
             niche: 'Potents',
             country: 'Estonia',
             productName: 'Urosaf',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '125'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -710,8 +701,8 @@ export const productsInfo = {
             niche: 'Liigesed',
             country: 'Estonia',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "69",
+            salePrice: '26',
+            newPrice: '69'
         },
         vasaxal: {
             company: 'everad',
@@ -719,8 +710,8 @@ export const productsInfo = {
             niche: 'Varikoos',
             country: 'Estonia',
             productName: 'Vasaxal',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '77'
         },
         demyxil: {
             company: 'everad',
@@ -728,8 +719,8 @@ export const productsInfo = {
             niche: 'Seenhaigus',
             country: 'Estonia',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         delislim: {
             company: 'everad',
@@ -737,8 +728,8 @@ export const productsInfo = {
             niche: 'Kaalulangetus',
             country: 'Estonia',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         ophtalax: {
             company: 'everad',
@@ -746,8 +737,8 @@ export const productsInfo = {
             niche: 'Nägemine',
             country: 'Estonia',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         vasos_duo: {
             company: 'everad',
@@ -755,9 +746,9 @@ export const productsInfo = {
             niche: 'Hemorroidid',
             country: 'Estonia',
             productName: 'Vasos Duo',
-            salePrice: "24",
-            newPrice: "88",
-        },
+            salePrice: '24',
+            newPrice: '88'
+        }
     },
     gr: {
         guavital: {
@@ -766,8 +757,8 @@ export const productsInfo = {
             niche: 'απώλεια βάρους',
             country: 'Greece',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '123'
         },
         trovazin: {
             company: 'everad',
@@ -775,8 +766,8 @@ export const productsInfo = {
             niche: 'Κιρσοί',
             country: 'Greece',
             productName: 'Trovazin',
-            salePrice: "24",
-            newPrice: "82",
+            salePrice: '24',
+            newPrice: '107'
         },
         desalix: {
             company: 'everad',
@@ -784,8 +775,8 @@ export const productsInfo = {
             niche: 'Μύκητας',
             country: 'Greece',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '94'
         },
         paraxan: {
             company: 'everad',
@@ -793,8 +784,8 @@ export const productsInfo = {
             niche: 'Παράσιτα',
             country: 'Greece',
             productName: 'Paraxan',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '135'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -803,8 +794,8 @@ export const productsInfo = {
             niche: 'Προστατίτιδα',
             country: 'Greece',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '128'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -813,8 +804,8 @@ export const productsInfo = {
             niche: 'Όραση',
             country: 'Greece',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -823,8 +814,8 @@ export const productsInfo = {
             niche: 'Όραση',
             country: 'Greece',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '118'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -832,8 +823,8 @@ export const productsInfo = {
             niche: 'Αναζωογόνηση',
             country: 'Greece',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '105'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -841,8 +832,8 @@ export const productsInfo = {
             niche: 'Αναζωογόνηση',
             country: 'Greece',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "24",
-            newPrice: "135",
+            salePrice: '24',
+            newPrice: '117'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -851,8 +842,8 @@ export const productsInfo = {
             niche: 'Ακοή',
             country: 'Greece',
             productName: 'Ausen',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '130'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -861,8 +852,8 @@ export const productsInfo = {
             niche: 'Παράσιτα',
             country: 'Greece',
             productName: 'Vermixin',
-            salePrice: "24",
-            newPrice: "88",
+            salePrice: '24',
+            newPrice: '102'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -871,8 +862,8 @@ export const productsInfo = {
             niche: 'Δύναμη',
             country: 'Greece',
             productName: 'Viarex',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '113'
         },
         depanten: {
             company: 'everad',
@@ -880,8 +871,8 @@ export const productsInfo = {
             niche: 'Αρθρώσεις',
             country: 'Greece',
             productName: 'Depanten',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '120'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -890,8 +881,8 @@ export const productsInfo = {
             niche: 'δύναμη',
             country: 'Greece',
             productName: 'Urosaf',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '92'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -900,8 +891,8 @@ export const productsInfo = {
             niche: 'αρθρώσεις',
             country: 'Greece',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '125'
         },
         vasaxal: {
             company: 'everad',
@@ -909,8 +900,8 @@ export const productsInfo = {
             niche: 'Κιρσοί',
             country: 'Greece',
             productName: 'Vasaxal',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '110'
         },
         demyxil: {
             company: 'everad',
@@ -918,8 +909,8 @@ export const productsInfo = {
             niche: 'Μύκητας',
             country: 'Greece',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '99'
         },
         delislim: {
             company: 'everad',
@@ -927,8 +918,8 @@ export const productsInfo = {
             niche: 'απώλεια βάρους',
             country: 'Greece',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '121'
         },
         ophtalax: {
             company: 'everad',
@@ -936,8 +927,8 @@ export const productsInfo = {
             niche: 'όραση',
             country: 'Greece',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "119",
+            salePrice: '26',
+            newPrice: '115'
         },
         vasos_duo: {
             company: 'everad',
@@ -945,9 +936,9 @@ export const productsInfo = {
             niche: 'αιμορροΐδες',
             country: 'Greece',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
+            salePrice: '26',
+            newPrice: '104'
+        }
     },
     hr: {
         guavital: {
@@ -956,8 +947,8 @@ export const productsInfo = {
             niche: 'Mršavljenje',
             country: 'Croatia',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '112'
         },
         trovazin: {
             company: 'everad',
@@ -965,8 +956,8 @@ export const productsInfo = {
             niche: 'Proširene vene',
             country: 'Croatia',
             productName: 'Trovazin',
-            salePrice: "24",
-            newPrice: "82",
+            salePrice: '24',
+            newPrice: '82'
         },
         desalix: {
             company: 'everad',
@@ -974,8 +965,8 @@ export const productsInfo = {
             niche: 'Gljivice',
             country: 'Croatia',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '89'
         },
         paraxan: {
             company: 'everad',
@@ -983,8 +974,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Croatia',
             productName: 'Paraxan',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '79'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -993,8 +984,8 @@ export const productsInfo = {
             niche: 'Prostatitis',
             country: 'Croatia',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '102'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -1003,8 +994,8 @@ export const productsInfo = {
             niche: 'Vid',
             country: 'Croatia',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -1013,8 +1004,8 @@ export const productsInfo = {
             niche: 'Vid',
             country: 'Croatia',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1022,8 +1013,8 @@ export const productsInfo = {
             niche: 'Pomlađivanje',
             country: 'Croatia',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '165'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -1031,8 +1022,8 @@ export const productsInfo = {
             niche: 'Pomlađivanje',
             country: 'Croatia',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "24",
-            newPrice: "135",
+            salePrice: '24',
+            newPrice: '135'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -1041,8 +1032,8 @@ export const productsInfo = {
             niche: 'Sluh',
             country: 'Croatia',
             productName: 'Ausen',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '136'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -1051,8 +1042,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Croatia',
             productName: 'Vermixin',
-            salePrice: "24",
-            newPrice: "88",
+            salePrice: '24',
+            newPrice: '88'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -1061,8 +1052,8 @@ export const productsInfo = {
             niche: 'Potencija',
             country: 'Croatia',
             productName: 'Viarex',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '125'
         },
         depanten: {
             company: 'everad',
@@ -1070,8 +1061,8 @@ export const productsInfo = {
             niche: 'Zglobovi',
             country: 'Croatia',
             productName: 'Depanten',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '77'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -1080,8 +1071,8 @@ export const productsInfo = {
             niche: 'Potencija',
             country: 'Croatia',
             productName: 'Urosaf',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '139'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -1090,8 +1081,8 @@ export const productsInfo = {
             niche: 'Zglobovi',
             country: 'Croatia',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '75'
         },
         vasaxal: {
             company: 'everad',
@@ -1099,8 +1090,8 @@ export const productsInfo = {
             niche: 'Proširene vene',
             country: 'Croatia',
             productName: 'Vasaxal',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '73'
         },
         demyxil: {
             company: 'everad',
@@ -1108,8 +1099,8 @@ export const productsInfo = {
             niche: 'Gljivice',
             country: 'Croatia',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         delislim: {
             company: 'everad',
@@ -1117,8 +1108,8 @@ export const productsInfo = {
             niche: 'Mršavljenje',
             country: 'Croatia',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         ophtalax: {
             company: 'everad',
@@ -1126,8 +1117,8 @@ export const productsInfo = {
             niche: 'Vid',
             country: 'Croatia',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "119",
+            salePrice: '26',
+            newPrice: '119'
         },
         vasos_duo: {
             company: 'everad',
@@ -1135,9 +1126,9 @@ export const productsInfo = {
             niche: 'Hemoroidi',
             country: 'Croatia',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
+            salePrice: '26',
+            newPrice: '80'
+        }
     },
     hu: {
         guavital: {
@@ -1146,8 +1137,8 @@ export const productsInfo = {
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'GUAVITAL+',
-            salePrice: "508",
-            newPrice: "1690",
+            salePrice: '9647',
+            newPrice: '34253'
         },
         trovazin: {
             company: 'everad',
@@ -1155,8 +1146,8 @@ export const productsInfo = {
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Trovazin',
-            salePrice: "511",
-            newPrice: "2034",
+            salePrice: '10568',
+            newPrice: '34222'
         },
         desalix: {
             company: 'everad',
@@ -1164,8 +1155,8 @@ export const productsInfo = {
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Desalix',
-            salePrice: "502",
-            newPrice: "1505",
+            salePrice: '11336',
+            newPrice: '56040'
         },
         paraxan: {
             company: 'everad',
@@ -1173,8 +1164,8 @@ export const productsInfo = {
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Paraxan',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '9920',
+            newPrice: '40896'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -1183,8 +1174,8 @@ export const productsInfo = {
             niche: 'Prosztatagyulladás',
             country: 'Hungary',
             productName: 'Exurol',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10452',
+            newPrice: '34143'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -1193,8 +1184,8 @@ export const productsInfo = {
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Night',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10894',
+            newPrice: '53050'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -1203,8 +1194,8 @@ export const productsInfo = {
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Day',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10183',
+            newPrice: '45210'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1212,8 +1203,8 @@ export const productsInfo = {
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '11612',
+            newPrice: '50591'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -1221,8 +1212,8 @@ export const productsInfo = {
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '9478',
+            newPrice: '33225'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -1231,8 +1222,8 @@ export const productsInfo = {
             niche: 'Hallás',
             country: 'Hungary',
             productName: 'Ausen',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '11125',
+            newPrice: '44807'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -1241,8 +1232,8 @@ export const productsInfo = {
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Vermixin',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '9751',
+            newPrice: '29323'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -1251,8 +1242,8 @@ export const productsInfo = {
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Viarex',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10637',
+            newPrice: '47523'
         },
         depanten: {
             company: 'everad',
@@ -1260,8 +1251,8 @@ export const productsInfo = {
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Depanten',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '11489',
+            newPrice: '38385'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -1270,8 +1261,8 @@ export const productsInfo = {
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Urosaf',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10271',
+            newPrice: '37144'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -1280,8 +1271,8 @@ export const productsInfo = {
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Steplex',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10956',
+            newPrice: '45470'
         },
         vasaxal: {
             company: 'everad',
@@ -1289,8 +1280,8 @@ export const productsInfo = {
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Vasaxal',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '10094',
+            newPrice: '38540'
         },
         demyxil: {
             company: 'everad',
@@ -1298,8 +1289,8 @@ export const productsInfo = {
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Demyxil',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '11702',
+            newPrice: '39889'
         },
         delislim: {
             company: 'everad',
@@ -1307,8 +1298,8 @@ export const productsInfo = {
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'Delislim',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '9583',
+            newPrice: '47394'
         },
         ophtalax: {
             company: 'everad',
@@ -1316,8 +1307,8 @@ export const productsInfo = {
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Ophtalax',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '11247',
+            newPrice: '46226'
         },
         vasos_duo: {
             company: 'everad',
@@ -1325,9 +1316,9 @@ export const productsInfo = {
             niche: 'Aranyér',
             country: 'Hungary',
             productName: 'Vasos Duo',
-            salePrice: "800",
-            newPrice: "111111",
-        },
+            salePrice: '10328',
+            newPrice: '40685'
+        }
     },
     it: {
         guavital: {
@@ -1336,8 +1327,8 @@ export const productsInfo = {
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'GUAVITAL+',
-            salePrice: "28",
-            newPrice: "120",
+            salePrice: '28',
+            newPrice: '120'
         },
         trovazin: {
             company: 'everad',
@@ -1345,8 +1336,8 @@ export const productsInfo = {
             niche: 'Varici',
             country: 'Italy',
             productName: 'Trovazin',
-            salePrice: "29",
-            newPrice: "99",
+            salePrice: '29',
+            newPrice: '99'
         },
         desalix: {
             company: 'everad',
@@ -1354,8 +1345,8 @@ export const productsInfo = {
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Desalix',
-            salePrice: "26",
-            newPrice: "94",
+            salePrice: '26',
+            newPrice: '94'
         },
         paraxan: {
             company: 'everad',
@@ -1363,8 +1354,8 @@ export const productsInfo = {
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Paraxan',
-            salePrice: "28",
-            newPrice: "86",
+            salePrice: '28',
+            newPrice: '86'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -1373,8 +1364,8 @@ export const productsInfo = {
             niche: 'Prostatite',
             country: 'Italy',
             productName: 'Exurol',
-            salePrice: "29",
-            newPrice: "118",
+            salePrice: '29',
+            newPrice: '118'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -1383,8 +1374,8 @@ export const productsInfo = {
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Night',
-            salePrice: "29",
-            newPrice: "119",
+            salePrice: '29',
+            newPrice: '119'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -1393,8 +1384,8 @@ export const productsInfo = {
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1402,8 +1393,8 @@ export const productsInfo = {
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin',
-            salePrice: "28",
-            newPrice: "170",
+            salePrice: '28',
+            newPrice: '170'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -1411,8 +1402,8 @@ export const productsInfo = {
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "30",
-            newPrice: "168",
+            salePrice: '30',
+            newPrice: '168'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -1421,8 +1412,8 @@ export const productsInfo = {
             niche: 'Udito',
             country: 'Italy',
             productName: 'Ausen',
-            salePrice: "27",
-            newPrice: "140",
+            salePrice: '27',
+            newPrice: '140'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -1431,8 +1422,8 @@ export const productsInfo = {
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Vermixin',
-            salePrice: "30",
-            newPrice: "112",
+            salePrice: '30',
+            newPrice: '112'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -1441,8 +1432,8 @@ export const productsInfo = {
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Viarex',
-            salePrice: "30",
-            newPrice: "149",
+            salePrice: '30',
+            newPrice: '149'
         },
         depanten: {
             company: 'everad',
@@ -1450,8 +1441,8 @@ export const productsInfo = {
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Depanten',
-            salePrice: "27",
-            newPrice: "79",
+            salePrice: '27',
+            newPrice: '79'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -1460,8 +1451,8 @@ export const productsInfo = {
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Urosaf',
-            salePrice: "27",
-            newPrice: "156",
+            salePrice: '27',
+            newPrice: '156'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -1470,8 +1461,8 @@ export const productsInfo = {
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Steplex',
-            salePrice: "27",
-            newPrice: "71",
+            salePrice: '27',
+            newPrice: '71'
         },
         vasaxal: {
             company: 'everad',
@@ -1479,8 +1470,8 @@ export const productsInfo = {
             niche: 'Varici',
             country: 'Italy',
             productName: 'Vasaxal',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '75'
         },
         demyxil: {
             company: 'everad',
@@ -1488,8 +1479,8 @@ export const productsInfo = {
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Demyxil',
-            salePrice: "28",
-            newPrice: "106",
+            salePrice: '28',
+            newPrice: '106'
         },
         delislim: {
             company: 'everad',
@@ -1497,8 +1488,8 @@ export const productsInfo = {
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'Delislim',
-            salePrice: "30",
-            newPrice: "100",
+            salePrice: '30',
+            newPrice: '100'
         },
         ophtalax: {
             company: 'everad',
@@ -1506,8 +1497,8 @@ export const productsInfo = {
             niche: 'Vista',
             country: 'Italy',
             productName: 'Ophtalax',
-            salePrice: "28",
-            newPrice: "123",
+            salePrice: '28',
+            newPrice: '123'
         },
         vasos_duo: {
             company: 'everad',
@@ -1515,9 +1506,9 @@ export const productsInfo = {
             niche: 'Emorroide',
             country: 'Italy',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
+            salePrice: '26',
+            newPrice: '80'
+        }
     },
     lt: {
         guavital: {
@@ -1526,8 +1517,8 @@ export const productsInfo = {
             niche: 'Lieknėjimas',
             country: 'Lithuania',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '112'
         },
         trovazin: {
             company: 'everad',
@@ -1535,8 +1526,8 @@ export const productsInfo = {
             niche: 'Venų varikozė',
             country: 'Lithuania',
             productName: 'Trovazin',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '73'
         },
         desalix: {
             company: 'everad',
@@ -1544,8 +1535,8 @@ export const productsInfo = {
             niche: 'Grybelis',
             country: 'Lithuania',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "96",
+            salePrice: '25',
+            newPrice: '96'
         },
         paraxan: {
             company: 'everad',
@@ -1553,8 +1544,8 @@ export const productsInfo = {
             niche: 'Parazitai',
             country: 'Lithuania',
             productName: 'Paraxan',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '89'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -1563,8 +1554,8 @@ export const productsInfo = {
             niche: 'Prostatitas',
             country: 'Lithuania',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "80",
+            salePrice: '26',
+            newPrice: '80'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -1573,8 +1564,8 @@ export const productsInfo = {
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -1583,8 +1574,8 @@ export const productsInfo = {
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Visoptic DUO Day',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '139'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1592,8 +1583,8 @@ export const productsInfo = {
             niche: 'Atjauninimas',
             country: 'Lithuania',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '136'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -1601,8 +1592,8 @@ export const productsInfo = {
             niche: 'Atjauninimas',
             country: 'Lithuania',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '165'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -1611,8 +1602,8 @@ export const productsInfo = {
             niche: 'Klausa',
             country: 'Lithuania',
             productName: 'Ausen',
-            salePrice: "25",
-            newPrice: "119",
+            salePrice: '25',
+            newPrice: '119'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -1621,8 +1612,8 @@ export const productsInfo = {
             niche: 'Parazitai',
             country: 'Lithuania',
             productName: 'Vermixin',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '79'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -1631,18 +1622,9 @@ export const productsInfo = {
             niche: 'Potencja',
             country: 'Lithuania',
             productName: 'Viarex',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '102'
         },
-        // depanten: {
-        //     company: 'everad',
-        //     campaign_id: '1433128',
-        //     niche: 'Sąnariai',
-        //     country: 'Lithuania',
-        //     productName: 'Depanten',
-        //     salePrice: "800",
-        //     newPrice: "111111",
-        // },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -1650,8 +1632,8 @@ export const productsInfo = {
             niche: 'Potencja',
             country: 'Lithuania',
             productName: 'Urosaf',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '125'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -1660,8 +1642,8 @@ export const productsInfo = {
             niche: 'Sąnariai',
             country: 'Lithuania',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "69",
+            salePrice: '26',
+            newPrice: '69'
         },
         vasaxal: {
             company: 'everad',
@@ -1669,8 +1651,8 @@ export const productsInfo = {
             niche: 'Venų varikozė',
             country: 'Lithuania',
             productName: 'Vasaxal',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '77'
         },
         demyxil: {
             company: 'everad',
@@ -1678,8 +1660,8 @@ export const productsInfo = {
             niche: 'Grybelis',
             country: 'Lithuania',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         delislim: {
             company: 'everad',
@@ -1687,8 +1669,8 @@ export const productsInfo = {
             niche: 'Lieknėjimas',
             country: 'Lithuania',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         ophtalax: {
             company: 'everad',
@@ -1696,8 +1678,8 @@ export const productsInfo = {
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         vasos_duo: {
             company: 'everad',
@@ -1705,9 +1687,9 @@ export const productsInfo = {
             niche: 'Hemorojus',
             country: 'Lithuania',
             productName: 'Vasos Duo',
-            salePrice: "24",
-            newPrice: "88",
-        },
+            salePrice: '24',
+            newPrice: '88'
+        }
     },
     lv: {
         guavital: {
@@ -1716,8 +1698,8 @@ export const productsInfo = {
             niche: 'Tievēšana',
             country: 'Latvia',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '112'
         },
         trovazin: {
             company: 'everad',
@@ -1725,8 +1707,8 @@ export const productsInfo = {
             niche: 'Varikoze',
             country: 'Latvia',
             productName: 'Trovazin',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '73'
         },
         desalix: {
             company: 'everad',
@@ -1734,8 +1716,8 @@ export const productsInfo = {
             niche: 'Sēnīte',
             country: 'Latvia',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "96",
+            salePrice: '25',
+            newPrice: '96'
         },
         paraxan: {
             company: 'everad',
@@ -1743,8 +1725,8 @@ export const productsInfo = {
             niche: 'Parazīti',
             country: 'Latvia',
             productName: 'Paraxan',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '89'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -1753,8 +1735,8 @@ export const productsInfo = {
             niche: 'Prostatīts',
             country: 'Latvia',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "80",
+            salePrice: '26',
+            newPrice: '80'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -1763,8 +1745,8 @@ export const productsInfo = {
             niche: 'Redze',
             country: 'Latvia',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -1773,8 +1755,8 @@ export const productsInfo = {
             niche: 'Redze',
             country: 'Latvia',
             productName: 'Visoptic DUO Day',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '139'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1782,8 +1764,8 @@ export const productsInfo = {
             niche: 'Ādas atjaunošana',
             country: 'Latvia',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '136'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -1791,8 +1773,8 @@ export const productsInfo = {
             niche: 'Ādas atjaunošana',
             country: 'Latvia',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '165'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -1801,8 +1783,8 @@ export const productsInfo = {
             niche: 'Dzirde',
             country: 'Latvia',
             productName: 'Ausen',
-            salePrice: "25",
-            newPrice: "119",
+            salePrice: '25',
+            newPrice: '119'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -1811,8 +1793,8 @@ export const productsInfo = {
             niche: 'Parazīti',
             country: 'Latvia',
             productName: 'Vermixin',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '79'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -1821,18 +1803,9 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Latvia',
             productName: 'Viarex',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '102'
         },
-        // depanten: {
-        //     company: 'everad',
-        //     campaign_id: '1082461',
-        //     niche: 'Locītavas',
-        //     country: 'Latvia',
-        //     productName: 'Depanten',
-        //     salePrice: "800",
-        //     newPrice: "111111",
-        // },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -1840,8 +1813,8 @@ export const productsInfo = {
             niche: 'Potence',
             country: 'Latvia',
             productName: 'Urosaf',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '125'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -1850,8 +1823,8 @@ export const productsInfo = {
             niche: 'Locītavas',
             country: 'Latvia',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "69",
+            salePrice: '26',
+            newPrice: '69'
         },
         vasaxal: {
             company: 'everad',
@@ -1859,8 +1832,8 @@ export const productsInfo = {
             niche: 'Varikoze',
             country: 'Latvia',
             productName: 'Vasaxal',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '77'
         },
         demyxil: {
             company: 'everad',
@@ -1868,8 +1841,8 @@ export const productsInfo = {
             niche: 'Sēnīte',
             country: 'Latvia',
             productName: 'Demyxil',
-            salePrice: "82",
-            newPrice: "26",
+            salePrice: '82',
+            newPrice: '26'
         },
         delislim: {
             company: 'everad',
@@ -1877,8 +1850,8 @@ export const productsInfo = {
             niche: 'Tievēšana',
             country: 'Latvia',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         ophtalax: {
             company: 'everad',
@@ -1886,8 +1859,8 @@ export const productsInfo = {
             niche: 'Redze',
             country: 'Latvia',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         vasos_duo: {
             company: 'everad',
@@ -1895,9 +1868,9 @@ export const productsInfo = {
             niche: 'Hemoroīdi',
             country: 'Latvia',
             productName: 'Vasos Duo',
-            salePrice: "24",
-            newPrice: "88",
-        },
+            salePrice: '24',
+            newPrice: '88'
+        }
     },
     pl: {
         guavital: {
@@ -1906,8 +1879,8 @@ export const productsInfo = {
             niche: 'Odchudzanie',
             country: 'Poland',
             productName: 'GUAVITAL+',
-            salePrice: "94",
-            newPrice: "416",
+            salePrice: '94',
+            newPrice: '416'
         },
         trovazin: {
             company: 'everad',
@@ -1915,8 +1888,8 @@ export const productsInfo = {
             niche: 'Żylaki',
             country: 'Poland',
             productName: 'Trovazin',
-            salePrice: "93",
-            newPrice: "323",
+            salePrice: '93',
+            newPrice: '323'
         },
         desalix: {
             company: 'everad',
@@ -1924,8 +1897,8 @@ export const productsInfo = {
             niche: 'Grzybica',
             country: 'Poland',
             productName: 'Desalix',
-            salePrice: "93",
-            newPrice: "333",
+            salePrice: '93',
+            newPrice: '333'
         },
         paraxan: {
             company: 'everad',
@@ -1933,8 +1906,8 @@ export const productsInfo = {
             niche: 'Pasożyty',
             country: 'Poland',
             productName: 'Paraxan',
-            salePrice: "90",
-            newPrice: "269",
+            salePrice: '90',
+            newPrice: '269'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -1943,8 +1916,8 @@ export const productsInfo = {
             niche: 'Zapalenie gruczołu krokowego',
             country: 'Poland',
             productName: 'Exurol',
-            salePrice: "95",
-            newPrice: "377",
+            salePrice: '95',
+            newPrice: '377'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -1953,8 +1926,8 @@ export const productsInfo = {
             niche: 'wzrok',
             country: 'Poland',
             productName: 'Visoptic DUO Night',
-            salePrice: "93",
-            newPrice: "381",
+            salePrice: '93',
+            newPrice: '381'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -1963,8 +1936,8 @@ export const productsInfo = {
             niche: 'Wzrok',
             country: 'Poland',
             productName: 'Visoptic DUO Day',
-            salePrice: "91",
-            newPrice: "341",
+            salePrice: '91',
+            newPrice: '341'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -1972,8 +1945,8 @@ export const productsInfo = {
             niche: 'Odmłodzenie',
             country: 'Poland',
             productName: 'Beauty Age Skin',
-            salePrice: "94",
-            newPrice: "579",
+            salePrice: '94',
+            newPrice: '579'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -1981,8 +1954,8 @@ export const productsInfo = {
             niche: 'Odmłodzenie',
             country: 'Poland',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "95",
-            newPrice: "523",
+            salePrice: '95',
+            newPrice: '523'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -1991,8 +1964,8 @@ export const productsInfo = {
             niche: 'Słuch',
             country: 'Poland',
             productName: 'Ausen',
-            salePrice: "90",
-            newPrice: "476",
+            salePrice: '90',
+            newPrice: '476'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -2001,8 +1974,8 @@ export const productsInfo = {
             niche: 'Pasożyty',
             country: 'Poland',
             productName: 'Vermixin',
-            salePrice: "95",
-            newPrice: "352",
+            salePrice: '95',
+            newPrice: '352'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -2011,8 +1984,8 @@ export const productsInfo = {
             niche: 'Potencja',
             country: 'Poland',
             productName: 'Viarex',
-            salePrice: "94",
-            newPrice: "466",
+            salePrice: '94',
+            newPrice: '466'
         },
         depanten: {
             company: 'everad',
@@ -2020,8 +1993,8 @@ export const productsInfo = {
             niche: 'Stawy',
             country: 'Poland',
             productName: 'Depanten',
-            salePrice: "91",
-            newPrice: "296",
+            salePrice: '91',
+            newPrice: '296'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -2030,8 +2003,8 @@ export const productsInfo = {
             niche: 'Potencja',
             country: 'Poland',
             productName: 'Urosaf',
-            salePrice: "95",
-            newPrice: "554",
+            salePrice: '95',
+            newPrice: '554'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -2040,8 +2013,8 @@ export const productsInfo = {
             niche: 'Stawy',
             country: 'Poland',
             productName: 'Steplex',
-            salePrice: "91",
-            newPrice: "255",
+            salePrice: '91',
+            newPrice: '255'
         },
         vasaxal: {
             company: 'everad',
@@ -2049,8 +2022,8 @@ export const productsInfo = {
             niche: 'Żylaki',
             country: 'Poland',
             productName: 'Vasaxal',
-            salePrice: "92",
-            newPrice: "270",
+            salePrice: '92',
+            newPrice: '270'
         },
         demyxil: {
             company: 'everad',
@@ -2058,8 +2031,8 @@ export const productsInfo = {
             niche: 'Grzybica',
             country: 'Poland',
             productName: 'Demyxil',
-            salePrice: "95",
-            newPrice: "354",
+            salePrice: '95',
+            newPrice: '354'
         },
         delislim: {
             company: 'everad',
@@ -2067,8 +2040,8 @@ export const productsInfo = {
             niche: 'Odchudzanie',
             country: 'Poland',
             productName: 'Delislim',
-            salePrice: "94",
-            newPrice: "320",
+            salePrice: '94',
+            newPrice: '320'
         },
         ophtalax: {
             company: 'everad',
@@ -2076,8 +2049,8 @@ export const productsInfo = {
             niche: 'Wzrok',
             country: 'Poland',
             productName: 'Ophtalax',
-            salePrice: "94",
-            newPrice: "450",
+            salePrice: '94',
+            newPrice: '450'
         },
         vasos_duo: {
             company: 'everad',
@@ -2085,9 +2058,9 @@ export const productsInfo = {
             niche: 'Hemoroidy',
             country: 'Poland',
             productName: 'Vasos Duo',
-            salePrice: "91",
-            newPrice: "287",
-        },
+            salePrice: '91',
+            newPrice: '287'
+        }
     },
     pt: {
         guavital: {
@@ -2096,8 +2069,8 @@ export const productsInfo = {
             niche: 'Perda de peso',
             country: 'Portugal',
             productName: 'GUAVITAL+',
-            salePrice: "28",
-            newPrice: "120",
+            salePrice: '28',
+            newPrice: '120'
         },
         trovazin: {
             company: 'everad',
@@ -2105,8 +2078,8 @@ export const productsInfo = {
             niche: 'Varizes',
             country: 'Portugal',
             productName: 'Trovazin',
-            salePrice: "29",
-            newPrice: "99",
+            salePrice: '29',
+            newPrice: '99'
         },
         desalix: {
             company: 'everad',
@@ -2114,8 +2087,8 @@ export const productsInfo = {
             niche: 'Fungo',
             country: 'Portugal',
             productName: 'Desalix',
-            salePrice: "26",
-            newPrice: "94",
+            salePrice: '26',
+            newPrice: '94'
         },
         paraxan: {
             company: 'everad',
@@ -2123,8 +2096,8 @@ export const productsInfo = {
             niche: 'Parasitas',
             country: 'Portugal',
             productName: 'Paraxan',
-            salePrice: "28",
-            newPrice: "86",
+            salePrice: '28',
+            newPrice: '86'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -2133,8 +2106,8 @@ export const productsInfo = {
             niche: 'Prostatite',
             country: 'Portugal',
             productName: 'Exurol',
-            salePrice: "29",
-            newPrice: "118",
+            salePrice: '29',
+            newPrice: '118'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -2143,8 +2116,8 @@ export const productsInfo = {
             niche: 'Visão',
             country: 'Portugal',
             productName: 'Visoptic DUO Night',
-            salePrice: "29",
-            newPrice: "119",
+            salePrice: '29',
+            newPrice: '119'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -2153,8 +2126,8 @@ export const productsInfo = {
             niche: 'Visão',
             country: 'Portugal',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -2162,8 +2135,8 @@ export const productsInfo = {
             niche: 'Rejuvenescimento',
             country: 'Portugal',
             productName: 'Beauty Age Skin',
-            salePrice: "28",
-            newPrice: "170",
+            salePrice: '28',
+            newPrice: '170'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -2171,8 +2144,8 @@ export const productsInfo = {
             niche: 'Rejuvenescimento',
             country: 'Portugal',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "30",
-            newPrice: "168",
+            salePrice: '30',
+            newPrice: '168'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -2181,8 +2154,8 @@ export const productsInfo = {
             niche: 'Audição',
             country: 'Portugal',
             productName: 'Ausen',
-            salePrice: "27",
-            newPrice: "140",
+            salePrice: '27',
+            newPrice: '140'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -2191,8 +2164,8 @@ export const productsInfo = {
             niche: 'Parasitas',
             country: 'Portugal',
             productName: 'Vermixin',
-            salePrice: "30",
-            newPrice: "112",
+            salePrice: '30',
+            newPrice: '112'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -2201,8 +2174,8 @@ export const productsInfo = {
             niche: 'Potência',
             country: 'Portugal',
             productName: 'Viarex',
-            salePrice: "30",
-            newPrice: "149",
+            salePrice: '30',
+            newPrice: '149'
         },
         depanten: {
             company: 'everad',
@@ -2210,8 +2183,8 @@ export const productsInfo = {
             niche: 'Articulações',
             country: 'Portugal',
             productName: 'Depanten',
-            salePrice: "27",
-            newPrice: "79",
+            salePrice: '27',
+            newPrice: '79'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -2220,8 +2193,8 @@ export const productsInfo = {
             niche: 'Potência',
             country: 'Portugal',
             productName: 'Urosaf',
-            salePrice: "27",
-            newPrice: "156",
+            salePrice: '27',
+            newPrice: '156'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -2230,8 +2203,8 @@ export const productsInfo = {
             niche: 'Articulações',
             country: 'Portugal',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '75'
         },
         vasaxal: {
             company: 'everad',
@@ -2239,8 +2212,8 @@ export const productsInfo = {
             niche: 'Varizes',
             country: 'Portugal',
             productName: 'Vasaxal',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '75'
         },
         demyxil: {
             company: 'everad',
@@ -2248,8 +2221,8 @@ export const productsInfo = {
             niche: 'Fungo',
             country: 'Portugal',
             productName: 'Demyxil',
-            salePrice: "106",
-            newPrice: "30",
+            salePrice: '106',
+            newPrice: '30'
         },
         delislim: {
             company: 'everad',
@@ -2257,8 +2230,8 @@ export const productsInfo = {
             niche: 'Perda de peso',
             country: 'Portugal',
             productName: 'Delislim',
-            salePrice: "30",
-            newPrice: "100",
+            salePrice: '30',
+            newPrice: '100'
         },
         ophtalax: {
             company: 'everad',
@@ -2266,8 +2239,8 @@ export const productsInfo = {
             niche: 'Visão',
             country: 'Portugal',
             productName: 'Ophtalax',
-            salePrice: "27",
-            newPrice: "123",
+            salePrice: '27',
+            newPrice: '123'
         },
         vasos_duo: {
             company: 'everad',
@@ -2275,9 +2248,9 @@ export const productsInfo = {
             niche: 'Hemorróidas',
             country: 'Portugal',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
+            salePrice: '26',
+            newPrice: '80'
+        }
     },
     ro: {
         guavital: {
@@ -2286,8 +2259,8 @@ export const productsInfo = {
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'GUAVITAL+',
-            salePrice: "508",
-            newPrice: "1690",
+            salePrice: '145',
+            newPrice: '630'
         },
         trovazin: {
             company: 'everad',
@@ -2295,8 +2268,8 @@ export const productsInfo = {
             niche: 'Varice',
             country: 'Romania',
             productName: 'Trovazin',
-            salePrice: "511",
-            newPrice: "2034",
+            salePrice: '136',
+            newPrice: '476'
         },
         desalix: {
             company: 'everad',
@@ -2304,8 +2277,8 @@ export const productsInfo = {
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Desalix',
-            salePrice: "502",
-            newPrice: "1505",
+            salePrice: '140',
+            newPrice: '564'
         },
         paraxan: {
             company: 'everad',
@@ -2313,8 +2286,8 @@ export const productsInfo = {
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Paraxan',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '148',
+            newPrice: '568'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -2323,8 +2296,8 @@ export const productsInfo = {
             niche: 'Prostatita',
             country: 'Romania',
             productName: 'Exurol',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '134',
+            newPrice: '523'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -2333,8 +2306,8 @@ export const productsInfo = {
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Night',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '142',
+            newPrice: '691'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -2343,8 +2316,8 @@ export const productsInfo = {
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Day',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '151',
+            newPrice: '545'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -2352,8 +2325,8 @@ export const productsInfo = {
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '138',
+            newPrice: '445'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -2361,8 +2334,8 @@ export const productsInfo = {
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '147',
+            newPrice: '705'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -2371,8 +2344,8 @@ export const productsInfo = {
             niche: 'Auz',
             country: 'Romania',
             productName: 'Ausen',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '135',
+            newPrice: '443'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -2381,8 +2354,8 @@ export const productsInfo = {
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Vermixin',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '143',
+            newPrice: '706'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -2391,8 +2364,8 @@ export const productsInfo = {
             niche: 'Potență',
             country: 'Romania',
             productName: 'Viarex',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '150',
+            newPrice: '609'
         },
         depanten: {
             company: 'everad',
@@ -2400,8 +2373,8 @@ export const productsInfo = {
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Depanten',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '132',
+            newPrice: '619'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -2410,8 +2383,8 @@ export const productsInfo = {
             niche: 'Potență',
             country: 'Romania',
             productName: 'Urosaf',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '139',
+            newPrice: '489'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -2420,8 +2393,8 @@ export const productsInfo = {
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Steplex',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '146',
+            newPrice: '494'
         },
         vasaxal: {
             company: 'everad',
@@ -2429,8 +2402,8 @@ export const productsInfo = {
             niche: 'Varice',
             country: 'Romania',
             productName: 'Vasaxal',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '137',
+            newPrice: '442'
         },
         demyxil: {
             company: 'everad',
@@ -2438,8 +2411,8 @@ export const productsInfo = {
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Demyxil',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '152',
+            newPrice: '570'
         },
         delislim: {
             company: 'everad',
@@ -2447,8 +2420,8 @@ export const productsInfo = {
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'Delislim',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '141',
+            newPrice: '620'
         },
         ophtalax: {
             company: 'everad',
@@ -2456,8 +2429,8 @@ export const productsInfo = {
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Ophtalax',
-            salePrice: "800",
-            newPrice: "111111",
+            salePrice: '133',
+            newPrice: '498'
         },
         vasos_duo: {
             company: 'everad',
@@ -2465,9 +2438,9 @@ export const productsInfo = {
             niche: 'Hemoroizi',
             country: 'Romania',
             productName: 'Vasos Duo',
-            salePrice: "800",
-            newPrice: "111111",
-        },
+            salePrice: '149',
+            newPrice: '558'
+        }
     },
     sk: {
         guavital: {
@@ -2476,8 +2449,8 @@ export const productsInfo = {
             niche: 'Сhudnutie',
             country: 'Slovakia',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '112'
         },
         trovazin: {
             company: 'everad',
@@ -2485,8 +2458,8 @@ export const productsInfo = {
             niche: 'Kŕčové žily',
             country: 'Slovakia',
             productName: 'Trovazin',
-            salePrice: "24",
-            newPrice: "82",
+            salePrice: '24',
+            newPrice: '82'
         },
         desalix: {
             company: 'everad',
@@ -2494,8 +2467,8 @@ export const productsInfo = {
             niche: 'Pleseň',
             country: 'Slovakia',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '89'
         },
         paraxan: {
             company: 'everad',
@@ -2503,8 +2476,8 @@ export const productsInfo = {
             niche: 'Pleseň',
             country: 'Slovakia',
             productName: 'Paraxan',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '79'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -2513,8 +2486,8 @@ export const productsInfo = {
             niche: 'Prostatitída',
             country: 'Slovakia',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '102'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -2523,8 +2496,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Slovakia',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -2533,8 +2506,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Slovakia',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -2542,8 +2515,8 @@ export const productsInfo = {
             niche: 'Omladenie',
             country: 'Slovakia',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '165'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -2551,8 +2524,8 @@ export const productsInfo = {
             niche: 'Omladenie',
             country: 'Slovakia',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "24",
-            newPrice: "135",
+            salePrice: '24',
+            newPrice: '135'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -2561,8 +2534,8 @@ export const productsInfo = {
             niche: 'Sluch',
             country: 'Slovakia',
             productName: 'Ausen',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '136'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -2571,8 +2544,8 @@ export const productsInfo = {
             niche: 'Parazity',
             country: 'Slovakia',
             productName: 'Vermixin',
-            salePrice: "24",
-            newPrice: "88",
+            salePrice: '24',
+            newPrice: '88'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -2581,8 +2554,8 @@ export const productsInfo = {
             niche: 'Potencia',
             country: 'Slovakia',
             productName: 'Viarex',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '125'
         },
         depanten: {
             company: 'everad',
@@ -2590,8 +2563,8 @@ export const productsInfo = {
             niche: 'Kĺby',
             country: 'Slovakia',
             productName: 'Depanten',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '77'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -2600,8 +2573,8 @@ export const productsInfo = {
             niche: 'Potencia',
             country: 'Slovakia',
             productName: 'Urosaf',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '139'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -2610,8 +2583,8 @@ export const productsInfo = {
             niche: 'Kĺby',
             country: 'Slovakia',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '75'
         },
         vasaxal: {
             company: 'everad',
@@ -2619,8 +2592,8 @@ export const productsInfo = {
             niche: 'Kŕčové žily',
             country: 'Slovakia',
             productName: 'Vasaxal',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '73'
         },
         demyxil: {
             company: 'everad',
@@ -2628,8 +2601,8 @@ export const productsInfo = {
             niche: 'Pleseň (mykóza)',
             country: 'Slovakia',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         delislim: {
             company: 'everad',
@@ -2637,8 +2610,8 @@ export const productsInfo = {
             niche: 'Chudnutie',
             country: 'Slovakia',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         ophtalax: {
             company: 'everad',
@@ -2646,8 +2619,8 @@ export const productsInfo = {
             niche: 'Zrak',
             country: 'Slovakia',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "119",
+            salePrice: '26',
+            newPrice: '119'
         },
         vasos_duo: {
             company: 'everad',
@@ -2655,9 +2628,9 @@ export const productsInfo = {
             niche: 'Hemoroidy',
             country: 'Slovakia',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
+            salePrice: '26',
+            newPrice: '80'
+        }
     },
     sl: {
         guavital: {
@@ -2666,8 +2639,8 @@ export const productsInfo = {
             niche: 'Izguba teže',
             country: 'Slovenia',
             productName: 'GUAVITAL+',
-            salePrice: "26",
-            newPrice: "112",
+            salePrice: '26',
+            newPrice: '112'
         },
         trovazin: {
             company: 'everad',
@@ -2675,8 +2648,8 @@ export const productsInfo = {
             niche: 'Krčne žile',
             country: 'Slovenia',
             productName: 'Trovazin',
-            salePrice: "24",
-            newPrice: "82",
+            salePrice: '24',
+            newPrice: '82'
         },
         desalix: {
             company: 'everad',
@@ -2684,8 +2657,8 @@ export const productsInfo = {
             niche: 'Glivice',
             country: 'Slovenia',
             productName: 'Desalix',
-            salePrice: "25",
-            newPrice: "89",
+            salePrice: '25',
+            newPrice: '89'
         },
         paraxan: {
             company: 'everad',
@@ -2693,8 +2666,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Slovenia',
             productName: 'Paraxan',
-            salePrice: "26",
-            newPrice: "79",
+            salePrice: '26',
+            newPrice: '79'
         },
         exurol: {
             modifier: 'img-space--right',
@@ -2703,8 +2676,8 @@ export const productsInfo = {
             niche: 'Prostatitis',
             country: 'Slovenia',
             productName: 'Exurol',
-            salePrice: "26",
-            newPrice: "102",
+            salePrice: '26',
+            newPrice: '102'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -2713,8 +2686,8 @@ export const productsInfo = {
             niche: 'Vizija',
             country: 'Slovenia',
             productName: 'Visoptic DUO Night',
-            salePrice: "26",
-            newPrice: "109",
+            salePrice: '26',
+            newPrice: '109'
         },
         visoptic_duo_day: {
             modifier: 'img-space--right',
@@ -2723,8 +2696,8 @@ export const productsInfo = {
             niche: 'Vizija',
             country: 'Slovenia',
             productName: 'Visoptic DUO Day',
-            salePrice: "26",
-            newPrice: "97",
+            salePrice: '26',
+            newPrice: '97'
         },
         beauty_age_skin: {
             company: 'everad',
@@ -2732,8 +2705,8 @@ export const productsInfo = {
             niche: 'Pomlajevanje',
             country: 'Slovenia',
             productName: 'Beauty Age Skin',
-            salePrice: "26",
-            newPrice: "165",
+            salePrice: '26',
+            newPrice: '165'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -2741,8 +2714,8 @@ export const productsInfo = {
             niche: 'Pomlajevanje',
             country: 'Slovenia',
             productName: 'Beauty Age Skin Peeling',
-            salePrice: "24",
-            newPrice: "135",
+            salePrice: '24',
+            newPrice: '135'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -2751,8 +2724,8 @@ export const productsInfo = {
             niche: 'Zaslišanje',
             country: 'Slovenia',
             productName: 'Ausen',
-            salePrice: "26",
-            newPrice: "136",
+            salePrice: '26',
+            newPrice: '136'
         },
         vermixin: {
             modifier: 'img-space--right',
@@ -2761,8 +2734,8 @@ export const productsInfo = {
             niche: 'Paraziti',
             country: 'Slovenia',
             productName: 'Vermixin',
-            salePrice: "24",
-            newPrice: "88",
+            salePrice: '24',
+            newPrice: '88'
         },
         viarex: {
             modifier: 'img-space--right',
@@ -2771,8 +2744,8 @@ export const productsInfo = {
             niche: 'Moč',
             country: 'Slovenia',
             productName: 'Viarex',
-            salePrice: "25",
-            newPrice: "125",
+            salePrice: '25',
+            newPrice: '125'
         },
         depanten: {
             company: 'everad',
@@ -2780,8 +2753,8 @@ export const productsInfo = {
             niche: 'Spoji',
             country: 'Slovenia',
             productName: 'Depanten',
-            salePrice: "24",
-            newPrice: "77",
+            salePrice: '24',
+            newPrice: '77'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -2790,8 +2763,8 @@ export const productsInfo = {
             niche: 'Moč',
             country: 'Slovenia',
             productName: 'Urosaf',
-            salePrice: "24",
-            newPrice: "139",
+            salePrice: '24',
+            newPrice: '139'
         },
         steplex: {
             modifier: 'img-space--left',
@@ -2800,8 +2773,8 @@ export const productsInfo = {
             niche: 'Spoji',
             country: 'Slovenia',
             productName: 'Steplex',
-            salePrice: "26",
-            newPrice: "75",
+            salePrice: '26',
+            newPrice: '75'
         },
         vasaxal: {
             company: 'everad',
@@ -2809,8 +2782,8 @@ export const productsInfo = {
             niche: 'Krčne žile',
             country: 'Slovenia',
             productName: 'Vasaxal',
-            salePrice: "25",
-            newPrice: "73",
+            salePrice: '25',
+            newPrice: '73'
         },
         demyxil: {
             company: 'everad',
@@ -2818,8 +2791,8 @@ export const productsInfo = {
             niche: 'Glivice',
             country: 'Slovenia',
             productName: 'Demyxil',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         delislim: {
             company: 'everad',
@@ -2827,8 +2800,8 @@ export const productsInfo = {
             niche: 'Izguba teže',
             country: 'Slovenia',
             productName: 'Delislim',
-            salePrice: "26",
-            newPrice: "82",
+            salePrice: '26',
+            newPrice: '82'
         },
         ophtalax: {
             company: 'everad',
@@ -2836,8 +2809,8 @@ export const productsInfo = {
             niche: 'Vizija',
             country: 'Slovenia',
             productName: 'Ophtalax',
-            salePrice: "26",
-            newPrice: "119",
+            salePrice: '26',
+            newPrice: '119'
         },
         vasos_duo: {
             company: 'everad',
@@ -2845,10 +2818,8 @@ export const productsInfo = {
             niche: 'Hemoroidy',
             country: 'Slovenia',
             productName: 'Vasos Duo',
-            salePrice: "26",
-            newPrice: "80",
-        },
-    },
-
-}
-
+            salePrice: '26',
+            newPrice: '80'
+        }
+    }
+};
