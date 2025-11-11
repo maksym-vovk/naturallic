@@ -864,7 +864,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Kolik je",
+    "contacts_captcha_input": "Odpověď",
+    "contacts_captcha_error": "Špatná odpověď, zkuste to prosím znovu."
   },
   "terms": {
     "terms_title": "Podmínky služby",

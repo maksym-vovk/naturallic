@@ -868,7 +868,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Cât este",
+    "contacts_captcha_input": "Răspuns",
+    "contacts_captcha_error": "Răspuns greșit, te rugăm să încerci din nou."
   },
   "terms": {
     "terms_title": "Termenii serviciului",

@@ -1,15 +1,20 @@
 - var CALLBACKPOPUP = LANG.callbackpopup;
+- var CONTACTS = LANG.contacts;
 
 .popup.js-popup#popup
-	.popup__wrap
-		.popup__close.js-close
-			i.fico.fico-cross
-		.popup__content
-			.popup__form
-				p.popup__title!=CALLBACKPOPUP.callbackpopup_title
-				form.form-popup.js-order-form(action="ajax.php", method="post")
-					.form-popup__inputs
-						input.form-popup__input(type="text" name="name" placeholder=CALLBACKPOPUP.callbackpopup_field_name required)
-						input.form-popup__input(type="phone" name="phone" placeholder=CALLBACKPOPUP.callbackpopup_field_phone required)
-						input.form-popup__input(type="text" name="comment" placeholder=CALLBACKPOPUP.callbackpopup_field_message required)
-					button.form-popup__btn.button.button--gold!=CALLBACKPOPUP.callbackpopup_btn
+    .popup__wrap
+        .popup__close.js-close
+            i.fico.fico-cross
+        .popup__content
+            .popup__form
+                p.popup__title!=CALLBACKPOPUP.callbackpopup_title
+                form.form-popup.js-order-form(action="ajax.php", method="post")
+                    .form-popup__inputs
+                        input.form-popup__input(type="text" name="name" placeholder=CALLBACKPOPUP.callbackpopup_field_name required)
+                        input.form-popup__input(type="phone" name="phone" placeholder=CALLBACKPOPUP.callbackpopup_field_phone required)
+                        input.form-popup__input(type="text" name="comment" placeholder=CALLBACKPOPUP.callbackpopup_field_message required)
+                    .captcha-wrapper(data-captcha-wrapper)
+                        span.captcha-question(data-captcha-question data-captcha-question-text=CONTACTS.contacts_captcha_text)
+                        input.contacts-form__input.captcha-input(data-captcha-input type="text" name="captcha_answer" placeholder=CONTACTS.contacts_captcha_input autocomplete="off")
+                        span.captcha-error(data-captcha-error)!=CONTACTS.contacts_captcha_error
+                    button.form-popup__btn.button.button--gold!=CALLBACKPOPUP.callbackpopup_btn
