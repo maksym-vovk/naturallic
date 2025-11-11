@@ -861,7 +861,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Колькі будзе",
+    "contacts_captcha_input": "Адказ",
+    "contacts_captcha_error": "Няправільны адказ, калі ласка, паспрабуйце яшчэ раз."
   },
   "terms": {
     "terms_title": "Conditions d’utilisation",

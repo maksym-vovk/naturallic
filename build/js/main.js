@@ -339,7 +339,7 @@ module.exports = fix;
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "productsInfo", function() { return productsInfo; });
-const productsInfo = {
+var productsInfo = {
   be: {
     guavital: {
       company: 'everad',
@@ -3178,8 +3178,8 @@ const productsInfo = {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DOC", function() { return DOC; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "WIN", function() { return WIN; });
-const DOC = $(document);
-const WIN = $(window);
+var DOC = $(document);
+var WIN = $(window);
 
 /***/ }),
 
@@ -3197,11 +3197,13 @@ function debounce(func, wait, immediate) {
   var timeout;
   return function () {
     var context = this,
-      args = arguments;
-    var later = function () {
+        args = arguments;
+
+    var later = function later() {
       timeout = null;
       if (!immediate) func.apply(context, args);
     };
+
     var callNow = immediate && !timeout;
     clearTimeout(timeout);
     timeout = setTimeout(later, wait);
@@ -3222,57 +3224,66 @@ function debounce(func, wait, immediate) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _helpers__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helpers */ "./src/js/global/helpers.js");
 /* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./constants */ "./src/js/global/constants.js");
-function ownKeys(e, r) { var t = Object.keys(e); if (Object.getOwnPropertySymbols) { var o = Object.getOwnPropertySymbols(e); r && (o = o.filter(function (r) { return Object.getOwnPropertyDescriptor(e, r).enumerable; })), t.push.apply(t, o); } return t; }
-function _objectSpread(e) { for (var r = 1; r < arguments.length; r++) { var t = null != arguments[r] ? arguments[r] : {}; r % 2 ? ownKeys(Object(t), !0).forEach(function (r) { _defineProperty(e, r, t[r]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(t)) : ownKeys(Object(t)).forEach(function (r) { Object.defineProperty(e, r, Object.getOwnPropertyDescriptor(t, r)); }); } return e; }
-function _defineProperty(e, r, t) { return (r = _toPropertyKey(r)) in e ? Object.defineProperty(e, r, { value: t, enumerable: !0, configurable: !0, writable: !0 }) : e[r] = t, e; }
-function _toPropertyKey(t) { var i = _toPrimitive(t, "string"); return "symbol" == typeof i ? i : i + ""; }
-function _toPrimitive(t, r) { if ("object" != typeof t || !t) return t; var e = t[Symbol.toPrimitive]; if (void 0 !== e) { var i = e.call(t, r || "default"); if ("object" != typeof i) return i; throw new TypeError("@@toPrimitive must return a primitive value."); } return ("string" === r ? String : Number)(t); }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) { symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); } keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
 
-const layout = function () {
-  "use strict";
 
-  //#region Private methods
-  let L = {
+
+var layout = function () {
+  "use strict"; //#region Private methods
+
+  var L = {
     WIN_WIDTH: 0
   };
-  let SETTINGS = {
+  var SETTINGS = {
     afterResize: false,
     onInit: false
   };
+
   function getLayout() {
-    const WIN_WIDTH = _constants__WEBPACK_IMPORTED_MODULE_1__["WIN"].width();
+    var WIN_WIDTH = _constants__WEBPACK_IMPORTED_MODULE_1__["WIN"].width();
     return {
-      WIN_WIDTH
+      WIN_WIDTH: WIN_WIDTH
     };
   }
+
   ;
+
   function resizeHandler() {
     _constants__WEBPACK_IMPORTED_MODULE_1__["WIN"].resize(Object(_helpers__WEBPACK_IMPORTED_MODULE_0__["debounce"])(function () {
       L = getLayout();
+
       if (SETTINGS.afterResize) {
         SETTINGS.afterResize(L);
       }
     }, 100));
   }
-  ;
-  //#endregion
+
+  ; //#endregion
 
   return {
     //#region Public methods
-    layoutHandler: function (settings) {
+    layoutHandler: function layoutHandler(settings) {
       if (settings) {
         SETTINGS = _objectSpread(_objectSpread({}, SETTINGS), settings);
       }
+
       L = getLayout();
+
       if (SETTINGS.onInit) {
         SETTINGS.onInit(L);
       }
+
       resizeHandler();
-    }
-    //#endregion
+    } //#endregion
+
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (layout);
 
 /***/ }),
@@ -3290,6 +3301,7 @@ const layout = function () {
   var isOn = false;
   var scrollbarSize;
   var scrollTop;
+
   function getScrollbarSize() {
     if (typeof scrollbarSize !== "undefined") return scrollbarSize;
     var doc = document.documentElement;
@@ -3300,23 +3312,28 @@ const layout = function () {
     doc.removeChild(dummyScroller);
     return scrollbarSize;
   }
+
   function hasScrollbar() {
     return document.documentElement.scrollHeight > window.innerHeight;
   }
+
   function on(options) {
     if (typeof document === "undefined" || isOn) return;
     var doc = document.documentElement;
     scrollTop = window.pageYOffset;
+
     if (hasScrollbar()) {
       doc.style.width = "calc(100% - " + getScrollbarSize() + "px)";
     } else {
       doc.style.width = "100%";
     }
+
     doc.style.position = "fixed";
     doc.style.top = -scrollTop + "px";
     doc.style.overflow = "hidden";
     isOn = true;
   }
+
   function off() {
     if (typeof document === "undefined" || !isOn) return;
     var doc = document.documentElement;
@@ -3327,18 +3344,22 @@ const layout = function () {
     window.scroll(0, scrollTop);
     isOn = false;
   }
+
   function toggle() {
     if (isOn) {
       off();
       return;
     }
+
     on();
   }
+
   var noScroll = {
     on: on,
     off: off,
     toggle: toggle
   };
+
   if ( true && typeof module.exports !== "undefined") {
     module.exports = noScroll;
   } else {
@@ -3379,10 +3400,12 @@ __webpack_require__.r(__webpack_exports__);
 $(function () {
   var year = new Date().getFullYear();
   var placeY = document.getElementsByClassName("year");
-  for (let i = 0; i < placeY.length; i++) {
+
+  for (var i = 0; i < placeY.length; i++) {
     var elemY = placeY[i];
     elemY.innerHTML = year;
   }
+
   _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].init();
   _modules_Controls__WEBPACK_IMPORTED_MODULE_2__["default"].init();
   _modules_Popup__WEBPACK_IMPORTED_MODULE_3__["default"].init();
@@ -3391,16 +3414,18 @@ $(function () {
   _modules_Contacts__WEBPACK_IMPORTED_MODULE_7__["default"].init();
   object_fit_images__WEBPACK_IMPORTED_MODULE_0___default()();
   _global_layout__WEBPACK_IMPORTED_MODULE_6__["default"].layoutHandler({
-    onInit: layout => {
+    onInit: function onInit(layout) {
       _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductSlider();
+
       if (layout.WIN_WIDTH >= 768) {
         _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductsSlider();
       } else if (layout.WIN_WIDTH <= 767) {
         _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].destroyProductsSlider();
       }
     },
-    afterResize: layout => {
+    afterResize: function afterResize(layout) {
       _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductSlider();
+
       if (layout.WIN_WIDTH >= 768) {
         _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductsSlider();
       } else if (layout.WIN_WIDTH <= 767) {
@@ -3421,142 +3446,463 @@ $(function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-const Contacts = function () {
-  return {
-    submitContacts: function () {
-      $(".js-order-form").on("submit", function (event) {
-        event.stopPropagation();
-        event.preventDefault();
-        let form = this,
-          submit = $(".submit", form),
-          data = new FormData();
-        const name = document.querySelector('[name="name"]');
-        const phone = document.querySelector('[name="phone"]');
-        const text = document.querySelector('[name="comment"]');
-        const email = document.querySelector('[name="email"]');
-        data.append("name", $('[name="name"]', form).val());
-        data.append("phone", $('[name="phone"]', form).val());
-        text ? data.append("text", $('[name="comment"]', form).val()) : false;
-        email ? data.append("email", $('[name="email"]', form).val()) : false;
-        data.append("company", 'Naturallic');
-        function getContactsValidStats() {
-          function isNameValid(name) {
-            return name.value.trim().length >= 5;
-          }
-          function isPhoneValid(phone) {
-            return phone.value.trim().length >= 8;
-          }
-          function isCommentValid(text) {
-            return text ? text.value.trim().length >= 1 : true;
-          }
-          function isEmailValid(email) {
-            return email ? /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g.test(email.value.trim()) : true;
-          }
-          return {
-            name: isNameValid(name),
-            phone: isPhoneValid(phone),
-            text: isCommentValid(text),
-            email: isEmailValid(email)
-          };
+var Contacts = function () {
+  function getUserCityCountryFromIp() {
+    return fetch('https://api.ipify.org?format=json', {
+      headers: {
+        Accept: 'application/json'
+      }
+    }).then(function (res) {
+      if (!res.ok) throw new Error('Failed to fetch IP: ' + res.status);
+      return res.json();
+    }).then(function (ipData) {
+      return fetch('https://ipapi.co/' + ipData.ip + '/json/', {
+        headers: {
+          Accept: 'application/json'
         }
-        function removeInputErrors() {
-          name ? name.classList.remove('valid-err') : false;
-          phone ? phone.classList.remove('valid-err') : false;
-          text ? text.classList.remove('valid-err') : false;
-          email ? email.classList.remove('valid-err') : false;
-        }
-        function sendContactsMessage() {
-          $.ajax({
-            url: "/ajax.php",
-            type: "POST",
-            data: data,
-            cache: false,
-            dataType: "json",
-            processData: false,
-            contentType: false,
-            xhr: function () {
-              let myXhr = $.ajaxSettings.xhr();
-              if (myXhr.upload) {
-                myXhr.upload.addEventListener("progress", function (e) {
-                  if (e.lengthComputable) {
-                    let percentage = e.loaded / e.total * 100;
-                    percentage = percentage.toFixed(0);
-                    $(".submit", form).html(percentage + "%");
-                  }
-                }, false);
-              }
-              return myXhr;
-            },
-            error: function (jqXHR, textStatus) {
-              $("input, textarea, button", form).removeAttr("disabled");
-              // Тут выводим ошибку
-            },
-            complete: function () {
-              // Тут можем что-то делать ПОСЛЕ успешной отправки формы
-              $(".js-content-form").hide();
-              $(".popup__title--main").hide();
-              $(".js-success-form").show();
-            }
-          });
-        }
-        const fieldsStats = getContactsValidStats();
-        const isFormValid = Object.values(fieldsStats).every(field => field === true);
-        if (isFormValid) {
-          $(".submit", form).val("Отправка...");
-          $("input, textarea, button", form).attr("disabled", "");
-          removeInputErrors();
-          sendContactsMessage();
+      });
+    }).then(function (geoRes) {
+      if (!geoRes.ok) throw new Error('Failed to geolocate IP: ' + geoRes.status);
+      return geoRes.json();
+    }).then(function (geoData) {
+      return {
+        city: geoData.city || '',
+        country: geoData.country_name || ''
+      };
+    }).catch(function () {
+      return {
+        city: '',
+        country: ''
+      };
+    });
+  }
+
+  function setupCaptcha(form) {
+    var wrapper = form.querySelector('[data-captcha-wrapper]');
+    var questionEl = wrapper ? wrapper.querySelector('[data-captcha-question]') : null;
+    var inputEl = wrapper ? wrapper.querySelector('[data-captcha-input]') : null;
+    var errorEl = wrapper ? wrapper.querySelector('[data-captcha-error]') : null;
+
+    if (!wrapper || !questionEl || !inputEl) {
+      return {
+        validate: function validate() {
+          return true;
+        },
+        reset: function reset() {}
+      };
+    }
+
+    function regenerate() {
+      var a = Math.floor(Math.random() * 10) + 1;
+      var b = Math.floor(Math.random() * 10) + 1;
+      wrapper.dataset.captchaAnswer = String(a + b);
+      questionEl.textContent = questionEl.dataset.captchaQuestionText + ' ' + a + ' + ' + b + '?';
+      inputEl.value = '';
+      inputEl.classList.remove('valid-err');
+      if (errorEl) errorEl.style.display = 'none';
+    }
+
+    regenerate();
+    return {
+      validate: function validate() {
+        var expected = Number(wrapper.dataset.captchaAnswer || NaN);
+        var answer = Number(inputEl.value);
+        var isValid = answer === expected;
+
+        if (!isValid) {
+          inputEl.classList.add('valid-err');
+          if (errorEl) errorEl.style.display = 'block';
         } else {
-          removeInputErrors();
-          name && !fieldsStats.name ? name.classList.add('valid-err') : false;
-          phone && !fieldsStats.phone ? phone.classList.add('valid-err') : false;
-          text && !fieldsStats.text ? text.classList.add('valid-err') : false;
-          email && !fieldsStats.email ? email.classList.add('valid-err') : false;
+          inputEl.classList.remove('valid-err');
+          if (errorEl) errorEl.style.display = 'none';
         }
-        return false;
+
+        return isValid;
+      },
+      reset: regenerate
+    };
+  }
+
+  function getContactsValidStats(form, captcha) {
+    var name = form.querySelector('[name="name"]');
+    var phone = form.querySelector('[name="phone"]');
+    var text = form.querySelector('[name="comment"]');
+    var email = form.querySelector('[name="email"]');
+
+    function isNameValid(el) {
+      return el ? el.value.trim().length >= 5 : false;
+    }
+
+    function isPhoneValid(el) {
+      return el ? el.value.trim().length >= 8 : false;
+    }
+
+    function isCommentValid(el) {
+      return el ? el.value.trim().length >= 1 : true;
+    }
+
+    function isEmailValid(el) {
+      return el ? /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/g.test(el.value.trim()) : true;
+    }
+
+    return {
+      name: isNameValid(name),
+      phone: isPhoneValid(phone),
+      text: isCommentValid(text),
+      email: isEmailValid(email),
+      captcha: captcha.validate()
+    };
+  }
+
+  function removeInputErrors(form) {
+    var inputs = form.querySelectorAll('.valid-err');
+    inputs.forEach(function (input) {
+      input.classList.remove('valid-err');
+    });
+  }
+
+  function markInvalidFields(form, stats) {
+    var name = form.querySelector('[name="name"]');
+    var phone = form.querySelector('[name="phone"]');
+    var text = form.querySelector('[name="comment"]');
+    var email = form.querySelector('[name="email"]');
+    var captchaInput = form.querySelector('[data-captcha-input]');
+    if (name && !stats.name) name.classList.add('valid-err');
+    if (phone && !stats.phone) phone.classList.add('valid-err');
+    if (text && !stats.text) text.classList.add('valid-err');
+    if (email && !stats.email) email.classList.add('valid-err');
+    if (captchaInput && !stats.captcha) captchaInput.classList.add('valid-err');
+  }
+
+  return {
+    submitContacts: function submitContacts() {
+      $('.js-order-form').each(function () {
+        var form = this;
+        var captcha = setupCaptcha(form);
+        $(form).on('submit', function (event) {
+          event.stopPropagation();
+          event.preventDefault();
+          var submitBtn = $('.submit, button[type="submit"]', form).first();
+          var data = new FormData(form);
+          data.delete('captcha_answer');
+          data.append('company', 'Naturallic');
+          var fieldsStats = getContactsValidStats(form, captcha);
+          var isFormValid = Object.values(fieldsStats).every(function (field) {
+            return field === true;
+          });
+
+          if (isFormValid) {
+            submitBtn.length ? submitBtn.val && submitBtn.val('Отправка...') : null;
+            $('input, textarea, button', form).attr('disabled', '');
+            removeInputErrors(form);
+            getUserCityCountryFromIp().then(function (location) {
+              data.append('city', location.city);
+              data.append('country', location.country);
+            }).catch(function () {
+              data.append('city', '');
+              data.append('country', '');
+            }).finally(function () {
+              $.ajax({
+                url: form.getAttribute('action') || '/ajax.php',
+                type: form.getAttribute('method') || 'POST',
+                data: data,
+                cache: false,
+                dataType: 'json',
+                processData: false,
+                contentType: false,
+                xhr: function xhr() {
+                  var myXhr = $.ajaxSettings.xhr();
+
+                  if (myXhr.upload) {
+                    myXhr.upload.addEventListener('progress', function (e) {
+                      if (e.lengthComputable) {
+                        var percentage = e.loaded / e.total * 100;
+                        percentage = percentage.toFixed(0);
+                        submitBtn.length ? submitBtn.html(percentage + '%') : null;
+                      }
+                    }, false);
+                  }
+
+                  return myXhr;
+                },
+                error: function error() {
+                  $('input, textarea, button', form).removeAttr('disabled');
+                },
+                complete: function complete() {
+                  captcha.reset();
+                  $('.js-content-form').hide();
+                  $('.popup__title--main').hide();
+                  $('.js-success-form').show();
+                }
+              });
+            });
+          } else {
+            removeInputErrors(form);
+            markInvalidFields(form, fieldsStats);
+          }
+
+          return false;
+        });
       });
     },
-    init: function () {
+    init: function init() {
       Contacts.submitContacts();
     }
   };
 }();
-/* harmony default export */ __webpack_exports__["default"] = (Contacts);
 
-// const Contacts = (function () {
-//   "use strict";
-//   const form = $(".js-order-form");
-
-//   return {
-//     submitForm: function () {
-//       form.submit(function (e) {
-//         e.preventDefault();
-//         $.ajax({
-//           url: "../submit.php",
-//           type: "POST",
-//           contentType: false,
-//           processData: false,
-//           data: new FormData(this),
-//           success: function success(data) {
-//             $(".js-content-form").hide();
-//             $(".popup__title--main").hide();
-//             $(".js-success-form").show();
-
-//             console.log("success");
-//           },
-//           error: function () {
-//             console.log("error");
-//           },
-//         });
-//       });
-//     },
-//     init: function () {
-//       Contacts.submitForm();
-//     },
-//   };
+/* harmony default export */ __webpack_exports__["default"] = (Contacts); // const Contacts = (function () {
+//     function getUserCityCountryFromIp() {
+//         return fetch('https://api.ipify.org?format=json', {
+//             headers: {Accept: 'application/json'}
+//         })
+//             .then(function (res) {
+//                 if (!res.ok) throw new Error('Failed to fetch IP: ' + res.status);
+//                 return res.json();
+//             })
+//             .then(function (ipData) {
+//                 return fetch('https://ipapi.co/' + ipData.ip + '/json/', {
+//                     headers: {Accept: 'application/json'}
+//                 });
+//             })
+//             .then(function (geoRes) {
+//                 if (!geoRes.ok) throw new Error('Failed to geolocate IP: ' + geoRes.status);
+//                 return geoRes.json();
+//             })
+//             .then(function (geoData) {
+//                 return {
+//                     city: geoData.city || '',
+//                     country: geoData.country_name || ''
+//                 };
+//             })
+//             .catch(function () {
+//                 return {city: '', country: ''};
+//             });
+//     }
+//
+//     function setupCaptcha(form) {
+//         var wrapper = form.querySelector('[data-captcha-wrapper]');
+//         var questionEl = wrapper ? wrapper.querySelector('[data-captcha-question]') : null;
+//         var inputEl = wrapper ? wrapper.querySelector('[data-captcha-input]') : null;
+//         var errorEl = wrapper ? wrapper.querySelector('[data-captcha-error]') : null;
+//
+//         if (!wrapper || !questionEl || !inputEl) {
+//             return {
+//                 validate: function () { return true; },
+//                 reset: function () {}
+//             };
+//         }
+//
+//         function regenerate() {
+//             var a = Math.floor(Math.random() * 10) + 1;
+//             var b = Math.floor(Math.random() * 10) + 1;
+//
+//             wrapper.dataset.captchaAnswer = String(a + b);
+//             questionEl.textContent = 'Скільки буде ' + a + ' + ' + b + '?';
+//             inputEl.value = '';
+//             inputEl.classList.remove('valid-err');
+//             if (errorEl) errorEl.style.display = 'none';
+//         }
+//
+//         regenerate();
+//
+//         return {
+//             validate: function () {
+//                 var expected = Number(wrapper.dataset.captchaAnswer || NaN);
+//                 var answer = Number(inputEl.value);
+//                 var isValid = answer === expected;
+//
+//                 if (!isValid) {
+//                     inputEl.classList.add('valid-err');
+//                     if (errorEl) errorEl.style.display = 'block';
+//                 } else {
+//                     inputEl.classList.remove('valid-err');
+//                     if (errorEl) errorEl.style.display = 'none';
+//                 }
+//                 return isValid;
+//             },
+//             reset: regenerate
+//         };
+//     }
+//
+//     return {
+//         submitContacts: function () {
+//             const captcha = setupCaptcha();
+//
+//             $(".js-order-form").on("submit", function (event) {
+//                 event.stopPropagation();
+//                 event.preventDefault();
+//
+//                 let form = this,
+//                     submit = $(".submit", form),
+//                     data = new FormData();
+//
+//                 const name = document.querySelector('[name="name"]')
+//                 const phone = document.querySelector('[name="phone"]')
+//                 const text = document.querySelector('[name="comment"]')
+//                 const email = document.querySelector('[name="email"]')
+//
+//
+//                 data.append("name", $('[name="name"]', form).val());
+//                 data.append("phone", $('[name="phone"]', form).val());
+//                 text ? data.append("text", $('[name="comment"]', form).val()) : false
+//                 email ? data.append("email", $('[name="email"]', form).val()) : false
+//                 data.append("company", 'Naturallic');
+//
+//                 function getContactsValidStats() {
+//                     function isNameValid(name) {
+//                         return name.value.trim().length >= 5
+//                     }
+//
+//                     function isPhoneValid(phone) {
+//                         return phone.value.trim().length >= 8
+//                     }
+//
+//                     function isCommentValid(text) {
+//                         return text ? text.value.trim().length >= 1 : true
+//                     }
+//
+//                     function isEmailValid(email) {
+//                         return email ? /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g.test(email.value.trim()) : true
+//                     }
+//
+//                     function isCaptchaValid() {
+//                         return captcha.validate();
+//                     }
+//
+//                     return {
+//                         name: isNameValid(name),
+//                         phone: isPhoneValid(phone),
+//                         text: isCommentValid(text),
+//                         email: isEmailValid(email),
+//                         captcha: isCaptchaValid()
+//                     }
+//                 }
+//
+//                 function removeInputErrors() {
+//                     name ? name.classList.remove('valid-err') : false
+//                     phone ? phone.classList.remove('valid-err') : false
+//                     text ? text.classList.remove('valid-err') : false
+//                     email ? email.classList.remove('valid-err') : false
+//                 }
+//
+//                 function sendContactsMessage() {
+//                     $.ajax({
+//                         url: "/ajax.php",
+//                         type: "POST",
+//                         data: data,
+//                         cache: false,
+//                         dataType: "json",
+//                         processData: false,
+//                         contentType: false,
+//                         xhr: function () {
+//                             let myXhr = $.ajaxSettings.xhr();
+//
+//                             if (myXhr.upload) {
+//                                 myXhr.upload.addEventListener(
+//                                     "progress",
+//                                     function (e) {
+//                                         if (e.lengthComputable) {
+//                                             let percentage = (e.loaded / e.total) * 100;
+//                                             percentage = percentage.toFixed(0);
+//                                             $(".submit", form).html(percentage + "%");
+//                                         }
+//                                     },
+//                                     false
+//                                 );
+//                             }
+//
+//                             return myXhr;
+//                         },
+//                         error: function (jqXHR, textStatus) {
+//                             $("input, textarea, button", form).removeAttr("disabled");
+//                             // Тут выводим ошибку
+//                         },
+//                         complete: function () {
+//                             // Тут можем что-то делать ПОСЛЕ успешной отправки формы
+//                             $(".js-content-form").hide();
+//                             $(".popup__title--main").hide();
+//                             $(".js-success-form").show();
+//                         },
+//                     });
+//                 }
+//
+//                 const fieldsStats = getContactsValidStats()
+//                 const isFormValid = Object.values(fieldsStats).every(field => field === true)
+//
+//                 if (isFormValid) {
+//                     $(".submit", form).val("Отправка...");
+//                     $("input, textarea, button", form).attr("disabled", "");
+//                     removeInputErrors()
+//                     captcha.reset();
+//                     // sendContactsMessage()
+//                     getUserCityCountryFromIp()
+//                         .then(function (location) {
+//                             data.append('city', location.city);
+//                             data.append('country', location.country);
+//                         })
+//                         .catch(function () {
+//                             data.append('city', '');
+//                             data.append('country', '');
+//                         })
+//                         .finally(sendContactsMessage);
+//                 } else {
+//                     removeInputErrors()
+//                     name && !fieldsStats.name ? name.classList.add('valid-err') : false
+//                     phone && !fieldsStats.phone ? phone.classList.add('valid-err') : false
+//                     text && !fieldsStats.text ? text.classList.add('valid-err') : false
+//                     email && !fieldsStats.email ? email.classList.add('valid-err') : false
+//
+//                     if (!fieldsStats.captcha) {
+//                         document.querySelector('.captcha-input').classList.add('valid-err');
+//                     }
+//                 }
+//                 return false;
+//             });
+//         },
+//         init: function () {
+//             Contacts.submitContacts()
+//         },
+//     };
 // })();
-
+//
 // export default Contacts;
+//
+//
+// // const Contacts = (function () {
+// //   "use strict";
+// //   const form = $(".js-order-form");
+//
+// //   return {
+// //     submitForm: function () {
+// //       form.submit(function (e) {
+// //         e.preventDefault();
+// //         $.ajax({
+// //           url: "../submit.php",
+// //           type: "POST",
+// //           contentType: false,
+// //           processData: false,
+// //           data: new FormData(this),
+// //           success: function success(data) {
+// //             $(".js-content-form").hide();
+// //             $(".popup__title--main").hide();
+// //             $(".js-success-form").show();
+//
+// //             console.log("success");
+// //           },
+// //           error: function () {
+// //             console.log("error");
+// //           },
+// //         });
+// //       });
+// //     },
+// //     init: function () {
+// //       Contacts.submitForm();
+// //     },
+// //   };
+// // })();
+//
+// // export default Contacts;
 
 /***/ }),
 
@@ -3571,23 +3917,37 @@ const Contacts = function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../global/noScroll */ "./src/js/global/noScroll.js");
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_global_noScroll__WEBPACK_IMPORTED_MODULE_0__);
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
-const Controls = function () {
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+
+
+var Controls = function () {
   "use strict";
 
-  const btnAccordeon = $(".js-btn-accordeon");
-  const contentAccordeon = $(".js-info-accordeon");
-  const tabs = $(".js-tab");
-  const spanProductsAll = $(".js-product-all");
-  const spanProductsShow = $(".js-product-show");
-  const productsList = $(".js-list-prod");
-  const countCatalog = $(".js-catalog-count");
-  const product = $(".js-product");
-  const btnCatalog = $(".js-btn-catalog");
-  const reviews = $(".js-review");
-  const spanReviewsAll = $(".js-reviews-all");
-  const spanReviewsShow = $(".js-reviews-show");
-  const btnReviews = $(".js-btn-reviews");
+  var btnAccordeon = $(".js-btn-accordeon");
+  var contentAccordeon = $(".js-info-accordeon");
+  var tabs = $(".js-tab");
+  var spanProductsAll = $(".js-product-all");
+  var spanProductsShow = $(".js-product-show");
+  var productsList = $(".js-list-prod");
+  var countCatalog = $(".js-catalog-count");
+  var product = $(".js-product");
+  var btnCatalog = $(".js-btn-catalog");
+  var reviews = $(".js-review");
+  var spanReviewsAll = $(".js-reviews-all");
+  var spanReviewsShow = $(".js-reviews-show");
+  var btnReviews = $(".js-btn-reviews");
+
   function hideBtn(countProductsShow, countProductsAll) {
     if (countProductsShow == countProductsAll) {
       btnCatalog.hide();
@@ -3595,79 +3955,97 @@ const Controls = function () {
       btnCatalog.show();
     }
   }
+
   function getParameterByName(name) {
-    let url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
+    var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-      results = regex.exec(url);
+        results = regex.exec(url);
     if (!results) return null;
     if (!results[2]) return "";
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
+
   function showListProduct(idActiveBlock) {
-    const activeList = $(".js-list-prod[data-target=\"".concat(idActiveBlock, "\"]"));
+    var activeList = $(".js-list-prod[data-target=\"".concat(idActiveBlock, "\"]"));
     productsList.removeClass("active");
     activeList.addClass("active");
   }
+
   return {
-    openFaqContent: function () {
+    openFaqContent: function openFaqContent() {
       btnAccordeon.on("click", function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const parent = _this.parents(".js-accordeon");
+
+        var _this = $(this);
+
+        var parent = _this.parents(".js-accordeon");
+
         if (!_this.hasClass("active")) {
           parent.find(contentAccordeon).slideUp(700);
           parent.find(btnAccordeon).removeClass("active");
         }
+
         _this.toggleClass("active");
+
         _this.next(contentAccordeon).slideToggle();
       });
     },
-    highlightingActiveTab: function () {
+    highlightingActiveTab: function highlightingActiveTab() {
       var paramdId = getParameterByName("id");
+
       if (paramdId) {
-        const target = $("#".concat(paramdId));
+        var target = $("#".concat(paramdId));
         tabs.removeClass("active");
         target.addClass("active");
         showListProduct(paramdId);
       }
     },
-    showListProducts: function () {
+    showListProducts: function showListProducts() {
       tabs.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const idActiveBlock = _this.prop("id");
+
+        var _this = $(this);
+
+        var idActiveBlock = _this.prop("id");
+
         tabs.removeClass("active");
+
         _this.addClass("active");
+
         showListProduct(idActiveBlock);
         Controls.calculateProducts();
       });
     },
-    showCatalog: function () {
+    showCatalog: function showCatalog() {
       btnCatalog.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const parent = _this.parent(productsList);
-        const hiddenProducts = $('.js-product.hidden');
-        hiddenProducts.removeClass('hidden').addClass('active');
-        // const hideCatalog = parent.find(".js-catalog-hide");
+
+        var _this = $(this);
+
+        var parent = _this.parent(productsList);
+
+        var hiddenProducts = $('.js-product.hidden');
+        hiddenProducts.removeClass('hidden').addClass('active'); // const hideCatalog = parent.find(".js-catalog-hide");
         // hideCatalog.addClass("show");
+
         Controls.calculateProducts();
+
         _this.hide();
       });
     },
-    calculateProducts: function () {
+    calculateProducts: function calculateProducts() {
       //родитель блока
-      const parent = countCatalog.parent(".js-list-prod.active");
-      //количество всех товаров
-      const countProductsAll = parent.find(product).length;
-      //количество показаных товаров
-      const countProductsShow = parent.find('.js-product.active').length;
-      // .find(".js-catalog-show")
+      var parent = countCatalog.parent(".js-list-prod.active"); //количество всех товаров
+
+      var countProductsAll = parent.find(product).length; //количество показаных товаров
+
+      var countProductsShow = parent.find('.js-product.active').length; // .find(".js-catalog-show")
       // .find(product).length;
 
       hideBtn(countProductsShow, countProductsAll);
-      const hideCatalog = parent.find(".js-catalog-hide");
+      var hideCatalog = parent.find(".js-catalog-hide");
+
       if (hideCatalog.hasClass("show")) {
         parent.find(spanProductsShow).html(countProductsAll);
         parent.find(btnCatalog).hide();
@@ -3676,7 +4054,7 @@ const Controls = function () {
         parent.find(spanProductsAll).html(countProductsAll);
       }
     },
-    calculateReviews: function () {
+    calculateReviews: function calculateReviews() {
       //Показано отзывов
       // const countReviewsShow = $(".js-reviews-show-list").find(reviews).length;
       if ($(".js-reviews-show-list").hasClass("show")) {
@@ -3687,40 +4065,47 @@ const Controls = function () {
         spanReviewsAll.html(reviews.length);
       }
     },
-    showReviews: function () {
+    showReviews: function showReviews() {
       btnReviews.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
+
+        var _this = $(this);
+
         $(".js-reviews-show-list").addClass("show");
         Controls.calculateReviews();
+
         _this.hide();
       });
     },
-    setLanguage: function () {
-      const DEFAULT_LANG = 'cz';
-      const langModal = document.querySelector(".language");
-      const languageSelect = document.querySelector(".select");
-      const languagesArr = [...languageSelect.querySelectorAll(".select__option")].map(option => option.dataset.lang);
-      const defaultSelectOption = document.querySelector('.select__option--default');
-      const currentLang = window.location.pathname.substring(1, 3);
-      const isLangInURL = languagesArr.includes(currentLang);
-      const savedLanguage = localStorage.getItem("localization");
-      const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
+    setLanguage: function setLanguage() {
+      var DEFAULT_LANG = 'cz';
+      var langModal = document.querySelector(".language");
+      var languageSelect = document.querySelector(".select");
+
+      var languagesArr = _toConsumableArray(languageSelect.querySelectorAll(".select__option")).map(function (option) {
+        return option.dataset.lang;
+      });
+
+      var defaultSelectOption = document.querySelector('.select__option--default');
+      var currentLang = window.location.pathname.substring(1, 3);
+      var isLangInURL = languagesArr.includes(currentLang);
+      var savedLanguage = localStorage.getItem("localization");
+      var isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
+
       if (savedLanguage && !isSavedDefault && !isLangInURL) {
         location.href = "".concat(window.location.origin, "/").concat(savedLanguage).concat(window.location.pathname).concat(window.location.search);
-      }
-
-      // if (savedLanguage && isSavedDefault) {
+      } // if (savedLanguage && isSavedDefault) {
       //     location.href = `${window.location.origin}${window.location.pathname}${window.location.search}`;
       // }
 
-      defaultSelectOption.addEventListener('click', event => {
+
+      defaultSelectOption.addEventListener('click', function (event) {
         event.preventDefault();
         langModal.classList.add("language--hidden");
         localStorage.setItem("localization", DEFAULT_LANG);
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
       });
-      langModal.addEventListener("click", event => {
+      langModal.addEventListener("click", function (event) {
         if (savedLanguage) {
           event.target.classList.contains("language") ? langModal.classList.add("language--hidden") : false;
         }
@@ -3729,47 +4114,52 @@ const Controls = function () {
         if (!isLangInURL && !isSavedDefault) {
           langModal.classList.remove("language--hidden");
         }
+
         if (isLangInURL) {
           localStorage.setItem("localization", currentLang);
         }
+
         if (!langModal.classList.contains('language--hidden')) {
           _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
         }
       });
     },
-    showHeaderLang: function () {
-      const DEFAULT_LANG = 'cz';
-      const langSelect = document.querySelectorAll(".lang-select");
-      const currentLangBlock = document.querySelectorAll(".lang-select__current");
-      const langOptions = document.querySelectorAll(".lang-select__option");
-      const langOptionDefault = document.querySelector('.lang-select__option--default');
-      const languageSelect = document.querySelector(".select");
-      const currentLang = window.location.pathname.substring(1, 3);
-      const languagesArr = [...languageSelect.querySelectorAll(".select__option")].map(option => option.dataset.lang);
-      const savedLanguage = localStorage.getItem("localization");
-      const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
-      langOptionDefault.addEventListener('click', event => {
+    showHeaderLang: function showHeaderLang() {
+      var DEFAULT_LANG = 'cz';
+      var langSelect = document.querySelectorAll(".lang-select");
+      var currentLangBlock = document.querySelectorAll(".lang-select__current");
+      var langOptions = document.querySelectorAll(".lang-select__option");
+      var langOptionDefault = document.querySelector('.lang-select__option--default');
+      var languageSelect = document.querySelector(".select");
+      var currentLang = window.location.pathname.substring(1, 3);
+
+      var languagesArr = _toConsumableArray(languageSelect.querySelectorAll(".select__option")).map(function (option) {
+        return option.dataset.lang;
+      });
+
+      var savedLanguage = localStorage.getItem("localization");
+      var isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
+      langOptionDefault.addEventListener('click', function (event) {
         localStorage.setItem("localization", DEFAULT_LANG);
         langOptionDefault.classList.add('lang-select__option--active');
       });
-      langOptions.forEach(option => {
-        option.addEventListener('click', () => {
+      langOptions.forEach(function (option) {
+        option.addEventListener('click', function () {
           localStorage.setItem("localization", option.dataset.lang);
         });
         option.dataset.lang === currentLang ? option.classList.add("lang-select__option--active") : false;
         option.dataset.lang === DEFAULT_LANG && isSavedDefault ? option.classList.add("lang-select__option--active") : false;
         option.dataset.lang === DEFAULT_LANG && !savedLanguage ? option.classList.add("lang-select__option--active") : false;
       });
-      const createCurrentFlagElement = innerElement => {
-        const flagImage = document.createElement("img");
+
+      var createCurrentFlagElement = function createCurrentFlagElement(innerElement) {
+        var flagImage = document.createElement("img");
         flagImage.className = "lang-select__flag lang-select__flag--current";
         flagImage.setAttribute("src", "../img/language-".concat(savedLanguage || DEFAULT_LANG, ".png"));
         flagImage.setAttribute("alt", savedLanguage || DEFAULT_LANG);
         flagImage.setAttribute('width', '20');
         flagImage.setAttribute('height', '14');
-        innerElement.append(flagImage);
-
-        // if (languagesArr.includes(currentLang) || isSavedDefault) {
+        innerElement.append(flagImage); // if (languagesArr.includes(currentLang) || isSavedDefault) {
         //
         // } else {
         //     const langText = document.createElement("span");
@@ -3778,150 +4168,196 @@ const Controls = function () {
         //     innerElement.append(langText);
         // }
       };
-      currentLangBlock.forEach(block => createCurrentFlagElement(block));
-      document.addEventListener("click", event => {
-        const {
-          target
-        } = event;
+
+      currentLangBlock.forEach(function (block) {
+        return createCurrentFlagElement(block);
+      });
+      document.addEventListener("click", function (event) {
+        var target = event.target;
+
         if (target.closest(".lang-select")) {
-          langSelect.forEach(select => select.classList.toggle("lang-select--active"));
+          langSelect.forEach(function (select) {
+            return select.classList.toggle("lang-select--active");
+          });
         } else {
-          langSelect.forEach(select => select.classList.remove("lang-select--active"));
+          langSelect.forEach(function (select) {
+            return select.classList.remove("lang-select--active");
+          });
         }
       });
-      const setCorrectURL = () => {
-        const search = window.location.search;
-        const pathArr = window.location.pathname.split('/');
-        const currentPage = pathArr[pathArr.length - 1];
-        const isOrderPage = currentPage === 'order.html';
-        const isSuccessPage = currentPage === 'success.html';
+
+      var setCorrectURL = function setCorrectURL() {
+        var search = window.location.search;
+        var pathArr = window.location.pathname.split('/');
+        var currentPage = pathArr[pathArr.length - 1];
+        var isOrderPage = currentPage === 'order.html';
+        var isSuccessPage = currentPage === 'success.html';
         search ? localStorage.setItem('searchParams', search) : false;
         !isOrderPage && !isSuccessPage ? localStorage.removeItem('searchParams') : false;
-        const savedSearchParams = localStorage.getItem('searchParams');
+        var savedSearchParams = localStorage.getItem('searchParams');
+
         if (savedSearchParams && !search) {
           window.location.href = window.location.href + savedSearchParams;
         }
       };
+
       setCorrectURL();
     },
-    setProductCardHeight: function () {
-      const categoryTabs = document.querySelectorAll(".js-tab");
-      const catalogMoreBtn = document.querySelectorAll(".js-btn-catalog");
-      let productCards = document.querySelectorAll(".product");
-      const setProductHeight = currentProds => {
-        let productCards = document.querySelectorAll(".product");
-        const productDetails = document.querySelectorAll(".product__btn");
+    setProductCardHeight: function setProductCardHeight() {
+      var categoryTabs = document.querySelectorAll(".js-tab");
+      var catalogMoreBtn = document.querySelectorAll(".js-btn-catalog");
+      var productCards = document.querySelectorAll(".product");
+
+      var setProductHeight = function setProductHeight(currentProds) {
+        var productCards = document.querySelectorAll(".product");
+        var productDetails = document.querySelectorAll(".product__btn");
+
         if (productCards.length && productDetails.length) {
-          const productDetailsBtnHeight = [...productDetails].filter(btn => {
+          var productDetailsBtnHeight = _toConsumableArray(productDetails).filter(function (btn) {
             return btn.clientHeight > 0;
           })[0].clientHeight + 15;
-          const cardsHeightArray = [...productCards].map(card => card.clientHeight);
-          const maxCardHeight = Math.max(...cardsHeightArray);
-          productCards.forEach((card, index) => {
-            // console.log(productDetailsBtnHeight, 'btn');
 
+          var cardsHeightArray = _toConsumableArray(productCards).map(function (card) {
+            return card.clientHeight;
+          });
+
+          var maxCardHeight = Math.max.apply(Math, _toConsumableArray(cardsHeightArray));
+          productCards.forEach(function (card, index) {
+            // console.log(productDetailsBtnHeight, 'btn');
             // console.log(maxCardHeight, 'max');
-            const newCardHeight = "".concat(maxCardHeight - productDetailsBtnHeight, "px");
+            var newCardHeight = "".concat(maxCardHeight - productDetailsBtnHeight, "px");
             card.style.height = newCardHeight;
-            card.addEventListener("mouseover", _ref => {
-              let {
-                target
-              } = _ref;
+            card.addEventListener("mouseover", function (_ref) {
+              var target = _ref.target;
               handleCardMouseOver(target, cardsHeightArray, index);
             }, false);
-            card.addEventListener("mouseout", _ref2 => {
-              let {
-                target
-              } = _ref2;
+            card.addEventListener("mouseout", function (_ref2) {
+              var target = _ref2.target;
               handleCardMouseOut(target, newCardHeight);
             }, false);
           });
         }
       };
-      const setNameAndDescHeight = () => {
-        const winWidth = window.innerWidth;
-        const prodNames = document.querySelectorAll('.product__name');
-        const prodTexts = document.querySelectorAll('.product__desc');
-        if (winWidth > 639) {
-          prodNames.forEach(name => name.style.minHeight = 'auto');
-          prodTexts.forEach(text => text.style.minHeight = "auto");
-          const prodNamesHeight = [...prodNames].map(name => name.clientHeight);
-          const prodTextsHeight = [...prodTexts].map(text => text.clientHeight);
-          const maxNameHeight = Math.max(...prodNamesHeight);
-          const maxTextHeight = Math.max(...prodTextsHeight);
-          // console.log(maxNameHeight);
 
-          prodNames.forEach(name => name.style.minHeight = maxNameHeight + 'px');
-          prodTexts.forEach(text => text.style.minHeight = maxTextHeight + 'px');
+      var setNameAndDescHeight = function setNameAndDescHeight() {
+        var winWidth = window.innerWidth;
+        var prodNames = document.querySelectorAll('.product__name');
+        var prodTexts = document.querySelectorAll('.product__desc');
+
+        if (winWidth > 639) {
+          prodNames.forEach(function (name) {
+            return name.style.minHeight = 'auto';
+          });
+          prodTexts.forEach(function (text) {
+            return text.style.minHeight = "auto";
+          });
+
+          var prodNamesHeight = _toConsumableArray(prodNames).map(function (name) {
+            return name.clientHeight;
+          });
+
+          var prodTextsHeight = _toConsumableArray(prodTexts).map(function (text) {
+            return text.clientHeight;
+          });
+
+          var maxNameHeight = Math.max.apply(Math, _toConsumableArray(prodNamesHeight));
+          var maxTextHeight = Math.max.apply(Math, _toConsumableArray(prodTextsHeight)); // console.log(maxNameHeight);
+
+          prodNames.forEach(function (name) {
+            return name.style.minHeight = maxNameHeight + 'px';
+          });
+          prodTexts.forEach(function (text) {
+            return text.style.minHeight = maxTextHeight + 'px';
+          });
         } else {
-          prodTexts.forEach(text => text.style.minHeight = "auto");
-          prodNames.forEach(name => name.style.minHeight = 'auto');
+          prodTexts.forEach(function (text) {
+            return text.style.minHeight = "auto";
+          });
+          prodNames.forEach(function (name) {
+            return name.style.minHeight = 'auto';
+          });
         }
       };
-      const updateProductCards = () => productCards = document.querySelectorAll(".product");
-      const handleCardMouseOver = (target, cardsHeightArray, index) => {
+
+      var updateProductCards = function updateProductCards() {
+        return productCards = document.querySelectorAll(".product");
+      };
+
+      var handleCardMouseOver = function handleCardMouseOver(target, cardsHeightArray, index) {
         // console.log(cardsHeightArray);
         // const initialCardHeight = Math.max(...cardsHeightArray);
-        const initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max(...cardsHeightArray);
-        const card = target.closest(".product");
+        var initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max.apply(Math, _toConsumableArray(cardsHeightArray));
+        var card = target.closest(".product");
         card.style.height = "".concat(initialCardHeight, "px");
         card.classList.add("product--hovered");
       };
-      const handleCardMouseOut = (target, newCardHeight) => {
-        const card = target.closest(".product");
+
+      var handleCardMouseOut = function handleCardMouseOut(target, newCardHeight) {
+        var card = target.closest(".product");
         card.style.height = newCardHeight;
         card.classList.remove("product--hovered");
       };
-      const resetCardsHeight = () => {
-        const prodTexts = document.querySelectorAll('.product__desc');
-        productCards.forEach(card => card.style.height = "auto");
-        prodTexts.forEach(text => text.style.minHeight = "auto");
+
+      var resetCardsHeight = function resetCardsHeight() {
+        var prodTexts = document.querySelectorAll('.product__desc');
+        productCards.forEach(function (card) {
+          return card.style.height = "auto";
+        });
+        prodTexts.forEach(function (text) {
+          return text.style.minHeight = "auto";
+        });
       };
-      let isCalculate = false;
-      document.addEventListener("DOMContentLoaded", () => {
+
+      var isCalculate = false;
+      document.addEventListener("DOMContentLoaded", function () {
         resetCardsHeight();
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         setNameAndDescHeight();
+
         if (winWidth > 479) {
           setProductHeight();
         }
+
         isCalculate = !isCalculate;
       });
-      window.addEventListener("resize", () => {
+      window.addEventListener("resize", function () {
         resetCardsHeight();
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         setNameAndDescHeight();
+
         if (winWidth > 479) {
           setProductHeight();
         }
       });
-      catalogMoreBtn.forEach(btn => {
-        btn.addEventListener("click", () => {
+      catalogMoreBtn.forEach(function (btn) {
+        btn.addEventListener("click", function () {
           resetCardsHeight();
           updateProductCards();
           setNameAndDescHeight();
           setProductHeight();
         });
       });
-      categoryTabs.forEach(tab => {
-        tab.addEventListener("click", () => {
+      categoryTabs.forEach(function (tab) {
+        tab.addEventListener("click", function () {
           resetCardsHeight();
           updateProductCards();
           setNameAndDescHeight();
           setProductHeight();
         });
       });
+
       if (!isCalculate) {
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         resetCardsHeight();
         setNameAndDescHeight();
+
         if (winWidth > 479) {
           setProductHeight();
         }
       }
     },
-    setLoader: function () {
-      const loader = document.querySelector(".loader");
+    setLoader: function setLoader() {
+      var loader = document.querySelector(".loader");
       window.addEventListener("load", function () {
         setTimeout(function () {
           loader.classList.add("loader--hidden");
@@ -3931,11 +4367,13 @@ const Controls = function () {
         loader.classList.add("loader--hidden");
       }, 2500);
     },
-    webpChecker: function () {
-      const WebP = new Image();
+    webpChecker: function webpChecker() {
+      var WebP = new Image();
       WebP.src = "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA";
+
       WebP.onload = WebP.onerror = function () {
-        const isWebp = WebP.height === 2;
+        var isWebp = WebP.height === 2;
+
         if (!isWebp) {
           document.querySelector("body").classList.remove("webp");
         } else {
@@ -3943,7 +4381,7 @@ const Controls = function () {
         }
       };
     },
-    init: function () {
+    init: function init() {
       Controls.openFaqContent();
       Controls.highlightingActiveTab();
       Controls.showListProducts();
@@ -3959,6 +4397,7 @@ const Controls = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Controls);
 
 /***/ }),
@@ -3977,28 +4416,32 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _global_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../global/constants */ "./src/js/global/constants.js");
 
 
-const Menu = function () {
+
+var Menu = function () {
   "use strict";
 
-  const burgerMenu = $(".js-burger");
-  const linkToTarget = $(".js-scroll");
-  const overlay = $(".js-overlay");
-  const fixedMenu = $(".js-fixed-menu");
-  const menuHeight = fixedMenu.height();
-  const scrollHeight = menuHeight;
+  var burgerMenu = $(".js-burger");
+  var linkToTarget = $(".js-scroll");
+  var overlay = $(".js-overlay");
+  var fixedMenu = $(".js-fixed-menu");
+  var menuHeight = fixedMenu.height();
+  var scrollHeight = menuHeight;
+
   function scroll(target) {
-    const top = target.offset().top;
+    var top = target.offset().top;
     $("html, body").animate({
       scrollTop: top - 15
     }, 800);
   }
+
   return {
-    showFixedMenu: function () {
+    showFixedMenu: function showFixedMenu() {
       _global_constants__WEBPACK_IMPORTED_MODULE_1__["DOC"].scroll(function () {
-        const scrollTop = _global_constants__WEBPACK_IMPORTED_MODULE_1__["DOC"].scrollTop();
-        let percent = 0;
-        let shadow = "none";
-        let bg = "none";
+        var scrollTop = _global_constants__WEBPACK_IMPORTED_MODULE_1__["DOC"].scrollTop();
+        var percent = 0;
+        var shadow = "none";
+        var bg = "none";
+
         if (scrollTop < scrollHeight) {
           percent = (scrollTop / scrollHeight).toFixed(2);
           fixedMenu.removeClass("menu--fixed");
@@ -4008,48 +4451,57 @@ const Menu = function () {
           bg = "white";
           fixedMenu.addClass("menu--fixed");
         }
+
         fixedMenu.css({
           boxShadow: shadow,
           background: bg
         });
       });
     },
-    showMobileMenu: function () {
+    showMobileMenu: function showMobileMenu() {
       burgerMenu.click(function (e) {
         e.preventDefault();
-        const target = $($(this).data("target"));
+        var target = $($(this).data("target"));
         target.toggleClass("menu-mobile--active");
         burgerMenu.toggleClass("burger--active");
         overlay.toggleClass("active");
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.toggle();
       });
     },
-    scrollToTarget: function () {
+    scrollToTarget: function scrollToTarget() {
       linkToTarget.click(function (e) {
         e.preventDefault();
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
-        const _this = $(this);
-        const href = _this.attr("href");
-        const target = $(href);
+
+        var _this = $(this);
+
+        var href = _this.attr("href");
+
+        var target = $(href);
+
         if (_this.data("target")) {
-          const target = $(_this.data("target"));
-          scroll(target);
+          var _target = $(_this.data("target"));
+
+          scroll(_target);
         }
+
         if (target.length) {
           scroll(target);
         }
+
         $(".menu-mobile").removeClass("menu-mobile--active");
         burgerMenu.removeClass("burger--active");
         overlay.removeClass("active");
       });
     },
-    init: function () {
-      Menu.showMobileMenu();
-      // Menu.scrollToTarget();
+    init: function init() {
+      Menu.showMobileMenu(); // Menu.scrollToTarget();
+
       Menu.showFixedMenu();
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Menu);
 
 /***/ }),
@@ -4064,73 +4516,96 @@ const Menu = function () {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _data_productInfo__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../data/productInfo */ "./src/js/data/productInfo.js");
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
-const Order = function () {
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _toArray(arr) { return _arrayWithHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+
+
+var Order = function () {
   "use strict";
 
-  const buttonPromocode = $(".js-button-promocode");
-  const inputPromocode = $(".js-input-promocode");
-  const productResidue = $(".js-product-residue");
-  const inputChatbotHistory = $("input[name=\"chatbot_history\"]");
+  var buttonPromocode = $(".js-button-promocode");
+  var inputPromocode = $(".js-input-promocode");
+  var productResidue = $(".js-product-residue");
+  var inputChatbotHistory = $("input[name=\"chatbot_history\"]");
+
   function updValueChatbotHistory() {
     inputChatbotHistory.val(JSON.stringify(data));
   }
+
   function prettify(num) {
     var n = num.toString();
     return n.replace(/(\d{1,3}(?=(?:\d\d\d)+(?!\d)))/g, "$1" + " ");
   }
-  let data = [];
-  let count = 1;
+
+  var data = [];
+  var count = 1;
+
   function getParameterByName(name) {
-    let url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
+    var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-      results = regex.exec(url);
+        results = regex.exec(url);
     if (!results) return null;
     if (!results[2]) return "";
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
+
   function randomInteger(min, max) {
     var rand = min + Math.random() * (max + 1 - min);
     return Math.floor(rand);
   }
+
   return {
-    submitForm: function () {
+    submitForm: function submitForm() {
       $("#order-form").submit(function (e) {
         // e.preventDefault();
-
         $("input[name='count']").val(count);
-        const dataForm = $(this).find("input.js-data").serializeArray();
-        const [...object] = dataForm.map(function (item) {
+        var dataForm = $(this).find("input.js-data").serializeArray();
+
+        var _dataForm$map = dataForm.map(function (item) {
           return {
             answer: item.value,
             question: item.name
           };
-        });
-        data.push(...object);
+        }),
+            _dataForm$map2 = _toArray(_dataForm$map),
+            object = _dataForm$map2.slice(0);
+
+        data.push.apply(data, _toConsumableArray(object));
         updValueChatbotHistory();
       });
     },
-    createOrderForm: function () {
-      const productName = getParameterByName("id");
-      const productNameUnderscore = String(productName).split('-').join('_');
-      const prodNameWithSpaces = String(productName).split('-').join(' ');
-      const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
-      // console.log(productNameUnderscore);
+    createOrderForm: function createOrderForm() {
+      var productName = getParameterByName("id");
+      var productNameUnderscore = String(productName).split('-').join('_');
+      var prodNameWithSpaces = String(productName).split('-').join(' ');
+      var currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false; // console.log(productNameUnderscore);
 
       if (productName) {
-        const countryCode = $("input[name='country_code']");
-        countryCode.val(currentLangLower.toUpperCase());
-        // console.log(countryCode);
+        var countryCode = $("input[name='country_code']");
+        countryCode.val(currentLangLower.toUpperCase()); // console.log(countryCode);
 
-        const orderForm = document.querySelector('#order-form');
-        const productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
-        const imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier;
+        var orderForm = document.querySelector('#order-form');
+        var productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
+        var imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier; // const formData = formSetting[productData.company]
 
-        // const formData = formSetting[productData.company]
-
-        if (orderForm) {
-          // const body = document.querySelector('body')
+        if (orderForm) {// const body = document.querySelector('body')
           // const script = document.createElement('script')
           // const scriptFirst = document.createElement('script')
           //
@@ -4143,17 +4618,16 @@ const Order = function () {
           //     window.is_namephone_validated = true;
           //     window.back_button_enabled = true;
           // `
-
           // orderForm.setAttribute('action', String(formData.formAction))
           // scriptFirst.textContent = startScript
           // script.textContent = formData.formSendScript
           // body.appendChild(scriptFirst)
           // body.appendChild(script)
-        }
+        } // console.log(productName);
 
-        // console.log(productName);
-        const productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productNameUnderscore)];
-        const productNewPrice = productInfo.newPrice;
+
+        var productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productNameUnderscore)];
+        var productNewPrice = productInfo.newPrice;
         $(".js-product-name").html(prodNameWithSpaces);
         $(".js-product-photo").attr("src", "../img/".concat(productName, ".png"));
         imgModifier ? $(".order-block__product").addClass(imgModifier) : false;
@@ -4164,81 +4638,89 @@ const Order = function () {
         $("input[name='product']").val("".concat(productData.productName));
         $("input[name='niche']").val(productData.niche);
         $("input[name='country']").val(productData.country);
-        $("input[name='lang']").val(currentLangLower);
-        // window.addEventListener('load', () => $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`))
+        $("input[name='lang']").val(currentLangLower); // window.addEventListener('load', () => $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`))
       }
     },
-    choiceCountProduct: function () {
+    choiceCountProduct: function choiceCountProduct() {
       $(".js-counter-arrow-inc").click(function (e) {
         e.preventDefault();
         count += 1;
+
         if (count > 20) {
           count = 20;
         }
+
         $(".js-counter-number").html(count);
-        const valueSale = $(".js-sale-product").text();
+        var valueSale = $(".js-sale-product").text();
+
         if (Number(valueSale.replace(/\s/g, "")) > 0) {
           Order.calcSaleProduct();
         }
+
         Order.calcOrderProduct(count);
       });
       $(".js-counter-arrow-dec").click(function (e) {
         e.preventDefault();
         count -= 1;
+
         if (count <= 1) {
           count = 1;
         }
+
         $(".js-counter-number").html(count);
-        const valueSale = $(".js-sale-product").text();
+        var valueSale = $(".js-sale-product").text();
+
         if (Number(valueSale.replace(/\s/g, "")) > 0) {
           Order.calcSaleProduct();
         }
+
         Order.calcOrderProduct(count);
       });
     },
-    calcSaleProduct: function () {
-      const productName = getParameterByName("id");
-      // const productInfo = info[`${productName}`];
-      const productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
-      const productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
-      const productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
-      const saleProduct = productNewPrice - productSalePrice;
+    calcSaleProduct: function calcSaleProduct() {
+      var productName = getParameterByName("id"); // const productInfo = info[`${productName}`];
+
+      var productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
+      var productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
+      var productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
+      var saleProduct = productNewPrice - productSalePrice;
       $(".js-sale-product").html(prettify(saleProduct * count));
     },
-    calcOrderProduct: function () {
-      let count = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 1;
-      const priceProduct = Number($(".js-price-product").text().replace(/\s/g, "") * count);
-      const saleProduct = Number($(".js-sale-product").text().replace(/\s/g, ""));
-      let priceOrder = 0;
+    calcOrderProduct: function calcOrderProduct() {
+      var count = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 1;
+      var priceProduct = Number($(".js-price-product").text().replace(/\s/g, "") * count);
+      var saleProduct = Number($(".js-sale-product").text().replace(/\s/g, ""));
+      var priceOrder = 0;
+
       if (priceProduct >= saleProduct) {
         priceOrder = priceProduct - saleProduct;
       } else {
         priceOrder = saleProduct - priceProduct;
       }
-      $(".js-price-order").html(prettify(priceOrder));
 
-      //фіксуємо всю суму замовлення
+      $(".js-price-order").html(prettify(priceOrder)); //фіксуємо всю суму замовлення
+
       $("input[name='count']").val(count);
       $("input[name='total-price']").val(priceOrder);
     },
-    validatePromocode: function (promocode) {
+    validatePromocode: function validatePromocode(promocode) {
       buttonPromocode.click(function (e) {
         e.preventDefault();
-        const valueInput = inputPromocode.val().trim();
+        var valueInput = inputPromocode.val().trim();
+
         if (valueInput === promocode) {
           inputPromocode.addClass("check");
           inputPromocode.attr("readonly", true);
           buttonPromocode.attr("disabled", true);
-          const productName = getParameterByName("id");
-          // const productInfo = info[`${productName}`];
-          const productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
-          const productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
-          const productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
+          var productName = getParameterByName("id"); // const productInfo = info[`${productName}`];
 
-          //Фіксуємо, що користувач увів правильний промокод
+          var productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
+          var productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
+          var productNewPrice = Number(productInfo.newPrice.replace(/\s/g, "")); //Фіксуємо, що користувач увів правильний промокод
+
           $("input[name='discount-price']").val(productNewPrice - productSalePrice);
-          const countProduct = $(".price-item .js-counter-number").text();
-          const saleProduct = (productNewPrice - productSalePrice) * countProduct;
+          var countProduct = $(".price-item .js-counter-number").text();
+          var saleProduct = (productNewPrice - productSalePrice) * countProduct;
           $(".js-sale-product").html(prettify(saleProduct));
           Order.calcOrderProduct(countProduct);
         } else {
@@ -4246,10 +4728,12 @@ const Order = function () {
         }
       });
     },
-    checkButtonActive: function () {
+    checkButtonActive: function checkButtonActive() {
       inputPromocode.on("input", function () {
-        const _this = $(this);
-        const value = _this.val();
+        var _this = $(this);
+
+        var value = _this.val();
+
         if (value.length >= 1) {
           buttonPromocode.attr("disabled", false);
         } else {
@@ -4257,31 +4741,34 @@ const Order = function () {
         }
       });
     },
-    createSuccessPage: function () {
-      const productName = getParameterByName("id");
+    createSuccessPage: function createSuccessPage() {
+      var productName = getParameterByName("id");
+
       if (productName) {
-        const productNameUnderscore = String(productName).split('-').join('_');
-        const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
-        const productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
-        const imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier;
+        var productNameUnderscore = String(productName).split('-').join('_');
+        var currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
+        var productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
+        var imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier;
         $(".js-success-product-name").html(productName);
         $(".js-success-product-photo").attr("src", "../img/".concat(productName, ".png"));
         imgModifier ? $(".js-success-product-photo").addClass(imgModifier) : false;
       }
     },
-    showResiudePack: function () {
-      let max = 60;
-      let min = 12;
-      setInterval(() => {
-        let difference = randomInteger(1, 6);
+    showResiudePack: function showResiudePack() {
+      var max = 60;
+      var min = 12;
+      setInterval(function () {
+        var difference = randomInteger(1, 6);
         max = max - difference;
+
         if (max <= min) {
           return;
         }
+
         productResidue.html(max);
       }, 12000);
     },
-    init: function () {
+    init: function init() {
       Order.createOrderForm();
       Order.choiceCountProduct();
       Order.createSuccessPage();
@@ -4289,11 +4776,11 @@ const Order = function () {
       Order.calcOrderProduct();
       Order.validatePromocode('0JH343');
       Order.checkButtonActive();
-      Order.showResiudePack();
-      // Order.calcSaleProduct();
+      Order.showResiudePack(); // Order.calcSaleProduct();
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Order);
 
 /***/ }),
@@ -4310,16 +4797,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../global/noScroll */ "./src/js/global/noScroll.js");
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_global_noScroll__WEBPACK_IMPORTED_MODULE_0__);
 
-const Popup = function () {
+
+var Popup = function () {
   "use strict";
 
-  const popUpBlock = $(".js-popup");
-  const linkShowPopUp = $(".js-show-popup");
-  const ButtonShowFramePopUp = $(".js-show-frame-popup");
-  const framePopUpBlock = $(".js-frame-popup");
-  const overlay = $(".js-overlay");
+  var popUpBlock = $(".js-popup");
+  var linkShowPopUp = $(".js-show-popup");
+  var ButtonShowFramePopUp = $(".js-show-frame-popup");
+  var framePopUpBlock = $(".js-frame-popup");
+  var overlay = $(".js-overlay");
   return {
-    addFramePopup: function () {
+    addFramePopup: function addFramePopup() {
       if ($('.js-show-frame-popup')) {
         var link = $(".js-show-frame-popup").attr("data-src");
         var frame = document.createElement("iframe");
@@ -4328,7 +4816,7 @@ const Popup = function () {
         $('.frame-popup__content').append(frame);
       }
     },
-    initFramePopup: function () {
+    initFramePopup: function initFramePopup() {
       ButtonShowFramePopUp.click(function (e) {
         framePopUpBlock.toggleClass("active");
         overlay.addClass("active");
@@ -4337,19 +4825,23 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
       });
     },
-    closeFramePopup: function () {
+    closeFramePopup: function closeFramePopup() {
       $(".js-frame-close").click(function (e) {
         framePopUpBlock.removeClass("active");
         overlay.removeClass("active");
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
       });
     },
-    initPopUp: function () {
+    initPopUp: function initPopUp() {
       linkShowPopUp.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const target = $(_this.data("target"));
+
+        var _this = $(this);
+
+        var target = $(_this.data("target"));
+
         _this.toggleClass("active");
+
         target.toggleClass("active");
         overlay.addClass("active");
         $(".menu-mobile").removeClass("menu-mobile--active");
@@ -4357,13 +4849,12 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
       });
     },
-    closePopup: function () {
-      const popup = document.querySelector('.js-popup');
-      popup.addEventListener('click', event => {
-        const {
-          target
-        } = event;
-        const isOverlay = target.classList.contains('popup');
+    closePopup: function closePopup() {
+      var popup = document.querySelector('.js-popup');
+      popup.addEventListener('click', function (event) {
+        var target = event.target;
+        var isOverlay = target.classList.contains('popup');
+
         if (isOverlay) {
           popUpBlock.removeClass("active");
           linkShowPopUp.removeClass("active");
@@ -4379,7 +4870,7 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
       });
     },
-    init: function () {
+    init: function init() {
       Popup.addFramePopup();
       Popup.initPopUp();
       Popup.closePopup();
@@ -4388,6 +4879,7 @@ const Popup = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Popup);
 
 /***/ }),
@@ -4401,67 +4893,97 @@ const Popup = function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-const Sliders = function () {
-  const headerSlider = $(".js-slider-header");
-  const productsSlider = $(".js-slider-products");
-  const reviewsSliderWrap = $(".js-slider-reviews-wrap");
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
+
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+var Sliders = function () {
+  var headerSlider = $(".js-slider-header");
+  var productsSlider = $(".js-slider-products");
+  var reviewsSliderWrap = $(".js-slider-reviews-wrap");
   return {
-    updatePagination: function (c, m) {
+    updatePagination: function updatePagination(c, m) {
       var current = c,
-        last = m,
-        delta = 2,
-        left = current - delta,
-        right = current + delta + 1,
-        range = [],
-        rangeWithDots = [],
-        l;
-      for (let i = 1; i <= last; i++) {
+          last = m,
+          delta = 2,
+          left = current - delta,
+          right = current + delta + 1,
+          range = [],
+          rangeWithDots = [],
+          l;
+
+      for (var i = 1; i <= last; i++) {
         if (i == 1 || i == last || i >= left && i < right) {
           range.push(i);
         }
       }
-      for (let i of range) {
+
+      for (var _i = 0, _range = range; _i < _range.length; _i++) {
+        var _i2 = _range[_i];
+
         if (l) {
-          if (i - l === 2) {
+          if (_i2 - l === 2) {
             rangeWithDots.push(l + 1);
-          } else if (i - l !== 1) {
+          } else if (_i2 - l !== 1) {
             rangeWithDots.push("...");
           }
         }
-        rangeWithDots.push(i);
-        l = i;
+
+        rangeWithDots.push(_i2);
+        l = _i2;
       }
+
       return rangeWithDots;
     },
-    changeSliderDots: function (paginationArray) {
-      const dotsArray = reviewsSlider.find(".slick-dots li a");
-      for (let i = 0; i < dotsArray.length; i++) {
-        const dot = $(dotsArray[i]);
-        const li = dot.parents("li");
+    changeSliderDots: function changeSliderDots(paginationArray) {
+      var dotsArray = reviewsSlider.find(".slick-dots li a");
+
+      for (var i = 0; i < dotsArray.length; i++) {
+        var dot = $(dotsArray[i]);
+        var li = dot.parents("li");
         li.removeClass("hide");
-        const indexDot = dot.data("slide-index");
+        var indexDot = dot.data("slide-index");
+
         if (paginationArray.indexOf(indexDot) === -1) {
           li.addClass("hide");
         }
       }
     },
-    initReviewsSlider: function () {
+    initReviewsSlider: function initReviewsSlider() {
       reviewsSliderWrap.each(function (index) {
         var _this = $(this);
+
         _this.addClass("swiper-slider-review-" + index);
-        const setActualReviewHeight = isOneVisibleSlide => {
-          const reviewBlocks = document.querySelectorAll('.swiper-slider-review-' + index + ' .js-review');
+
+        var setActualReviewHeight = function setActualReviewHeight(isOneVisibleSlide) {
+          var reviewBlocks = document.querySelectorAll('.swiper-slider-review-' + index + ' .js-review');
+
           if (!isOneVisibleSlide) {
-            const maxHeight = Math.max(...[...reviewBlocks].map(review => review.offsetHeight));
-            reviewBlocks.forEach(review => review.style.minHeight = maxHeight + 'px');
+            var maxHeight = Math.max.apply(Math, _toConsumableArray(_toConsumableArray(reviewBlocks).map(function (review) {
+              return review.offsetHeight;
+            })));
+            reviewBlocks.forEach(function (review) {
+              return review.style.minHeight = maxHeight + 'px';
+            });
           } else {
-            reviewBlocks.forEach(review => review.style.minHeight = 'auto');
+            reviewBlocks.forEach(function (review) {
+              return review.style.minHeight = 'auto';
+            });
           }
         };
-        const winWidth = window.innerWidth;
+
+        var winWidth = window.innerWidth;
         winWidth <= 639 ? setActualReviewHeight(true) : setActualReviewHeight(false);
-        window.addEventListener('resize', () => {
-          const winWidth = window.innerWidth;
+        window.addEventListener('resize', function () {
+          var winWidth = window.innerWidth;
           winWidth <= 639 ? setActualReviewHeight(true) : setActualReviewHeight(false);
         });
         var swiper = new Swiper(".swiper-slider-review-" + index, {
@@ -4492,7 +5014,7 @@ const Sliders = function () {
         });
       });
     },
-    initHeaderSlider: function () {
+    initHeaderSlider: function initHeaderSlider() {
       headerSlider.on("init", function (event, slick, direction) {
         headerSlider.addClass("init");
       });
@@ -4510,7 +5032,7 @@ const Sliders = function () {
         }
       });
     },
-    initProductSlider: function () {
+    initProductSlider: function initProductSlider() {
       $(".js-slider-product-for").not(".slick-initialized").slick({
         slidesToShow: 1,
         slidesToScroll: 1,
@@ -4526,8 +5048,8 @@ const Sliders = function () {
         focusOnSelect: true
       });
     },
-    initProductsSlider: function () {
-      const prodSlider = new Swiper('.js-slider-products', {
+    initProductsSlider: function initProductsSlider() {
+      var prodSlider = new Swiper('.js-slider-products', {
         direction: "horizontal",
         slidesPerView: 1,
         scrollbar: {
@@ -4550,53 +5072,56 @@ const Sliders = function () {
           }
         }
       });
-      const isSlider = document.querySelector('.js-slider-products');
+      var isSlider = document.querySelector('.js-slider-products');
       window.addEventListener('resize', function () {
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         isSlider && winWidth <= 767 ? prodSlider.destroy() : false;
       });
     },
-    destroyProductsSlider: function () {
+    destroyProductsSlider: function destroyProductsSlider() {
       productsSlider.filter(".slick-initialized").slick("unslick");
     },
-    setHitsSize: function () {
-      const hits = document.querySelector('.hits');
-      const products = hits ? [...hits.querySelectorAll('.product')] : null;
+    setHitsSize: function setHitsSize() {
+      var hits = document.querySelector('.hits');
+      var products = hits ? _toConsumableArray(hits.querySelectorAll('.product')) : null;
+
       function setHitsHeight() {
-        const productHeights = products ? [...products].map(prod => {
-          const paddingTop = parseInt(window.getComputedStyle(prod).paddingTop);
-          const paddingBottom = parseInt(window.getComputedStyle(prod).paddingBottom);
-          const contentHeight = prod.querySelector('.product__content').clientHeight;
-          const buttonHeight = prod.querySelector('.product__btn').clientHeight;
-          const buttonMarginTop = parseInt(window.getComputedStyle(prod.querySelector('.product__btn')).marginTop);
+        var productHeights = products ? _toConsumableArray(products).map(function (prod) {
+          var paddingTop = parseInt(window.getComputedStyle(prod).paddingTop);
+          var paddingBottom = parseInt(window.getComputedStyle(prod).paddingBottom);
+          var contentHeight = prod.querySelector('.product__content').clientHeight;
+          var buttonHeight = prod.querySelector('.product__btn').clientHeight;
+          var buttonMarginTop = parseInt(window.getComputedStyle(prod.querySelector('.product__btn')).marginTop);
           return Number(paddingTop + paddingBottom + contentHeight + buttonHeight + buttonMarginTop);
         }) : null;
-        const maxHeight = productHeights ? Math.max(...productHeights) : null;
-
-        // console.log(productHeights);
+        var maxHeight = productHeights ? Math.max.apply(Math, _toConsumableArray(productHeights)) : null; // console.log(productHeights);
         // console.log(maxHeight);
 
         window.innerWidth > 767 && maxHeight ? hits.style.height = maxHeight + 'px' : hits.style.height = 'auto';
       }
+
       if (hits) {
         window.addEventListener('resize', setHitsHeight);
         setHitsHeight();
       }
     },
-    setActiveSlide: function () {
-      const prodSlider = document.querySelector('.product-item__slider');
+    setActiveSlide: function setActiveSlide() {
+      var prodSlider = document.querySelector('.product-item__slider');
+
       if (prodSlider) {
-        const navSlides = document.querySelectorAll('.slider-prod__nav-item');
+        var navSlides = document.querySelectorAll('.slider-prod__nav-item');
         navSlides[0].classList.add('active');
-        navSlides.forEach(slide => {
+        navSlides.forEach(function (slide) {
           slide.addEventListener('click', function (e) {
-            navSlides.forEach(slide => slide.classList.remove('active'));
+            navSlides.forEach(function (slide) {
+              return slide.classList.remove('active');
+            });
             slide.classList.add('active');
           });
         });
       }
     },
-    init: function () {
+    init: function init() {
       Sliders.initHeaderSlider();
       Sliders.initReviewsSlider();
       Sliders.setHitsSize();
@@ -4604,6 +5129,7 @@ const Sliders = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Sliders);
 
 /***/ }),
@@ -4615,7 +5141,7 @@ const Sliders = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/yuriipereverziev/Desktop/naturallic/src/js/main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! /Users/maksimvovk/Documents/Everad/Layout/Naturallic Project/naturallic/src/js/main.js */"./src/js/main.js");
 
 
 /***/ })

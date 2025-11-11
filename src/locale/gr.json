@@ -861,7 +861,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Πόσο κάνει 123 + 123;",
+    "contacts_captcha_input": "Απάντηση",
+    "contacts_captcha_error": "Λάθος απάντηση, δοκιμάστε ξανά."
   },
   "terms": {
     "terms_title": "Όροι χρήσης",
