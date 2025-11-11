@@ -863,7 +863,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Mennyi",
+    "contacts_captcha_input": "Válasz",
+    "contacts_captcha_error": "Hibás válasz, kérjük, próbálja újra."
   },
   "terms": {
     "terms_title": "Szolgáltatási feltételek",

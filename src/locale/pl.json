@@ -865,7 +865,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Ile to jest",
+    "contacts_captcha_input": "Odpowiedź",
+    "contacts_captcha_error": "Nieprawidłowa odpowiedź, spróbuj ponownie."
   },
 
   "terms": {

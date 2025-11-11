@@ -861,7 +861,10 @@
     "contacts_address": "",
     "contacts_email_address": "support@naturallic.com",
     "contacts_email_title": "",
-    "contacts_telephone_title": ""
+    "contacts_telephone_title": "",
+    "contacts_captcha_text": "Koľko je",
+    "contacts_captcha_input": "Odpoveď",
+    "contacts_captcha_error": "Nesprávna odpoveď, skúste to znova."
   },
   "terms": {
     "terms_title": "Podmienky používania",
