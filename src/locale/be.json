@@ -1935,109 +1935,112 @@
     "orderpageform_discount": "Remise",
     "orderpageform_total": "Montant"
   },
+
   "product_info": {
     "currency": "€",
     "guavital": {
       "productName": "GUAVITAL+",
-      "salePrice": "26",
-      "newPrice": "112"
+      "salePrice": "24",
+      "newPrice": "90"
     },
     "trovazin": {
       "productName": "Trovazin",
-      "salePrice": "24",
-      "newPrice": "82"
+      "salePrice": "30",
+      "newPrice": "113"
     },
-    "exofeet_oil": {
+    "desalix": {
       "productName": "Desalix",
       "salePrice": "25",
       "newPrice": "89"
     },
     "paraxan": {
       "productName": "Paraxan",
-      "salePrice": "26",
-      "newPrice": "79"
+      "salePrice": "29",
+      "newPrice": "126"
     },
     "exurol": {
       "productName": "Exurol",
-      "salePrice": "26",
-      "newPrice": "102"
+      "salePrice": "25",
+      "newPrice": "113"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
       "salePrice": "26",
-      "newPrice": "109"
+      "newPrice": "90"
     },
     "visoptic_duo_day": {
       "productName": "Visoptic DUO Day",
-      "salePrice": "26",
-      "newPrice": "97"
+      "salePrice": "28",
+      "newPrice": "130"
     },
     "beauty_age_skin": {
       "productName": "Beauty Age Skin",
-      "salePrice": "26",
-      "newPrice": "165"
+      "salePrice": "30",
+      "newPrice": "119"
     },
     "beauty_age_skin_peeling": {
       "productName": "Beauty Age Skin Peeling",
       "salePrice": "24",
-      "newPrice": "135"
+      "newPrice": "93"
     },
     "ausen": {
       "productName": "Ausen",
-      "salePrice": "26",
-      "newPrice": "136"
+      "salePrice": "27",
+      "newPrice": "116"
     },
     "vermixin": {
       "productName": "Vermixin",
-      "salePrice": "24",
-      "newPrice": "88"
+      "salePrice": "29",
+      "newPrice": "141"
     },
     "viarex": {
       "productName": "Viarex",
       "salePrice": "25",
-      "newPrice": "125"
+      "newPrice": "76"
     },
     "depanten": {
       "productName": "Depanten",
-      "salePrice": "24",
-      "newPrice": "77"
+      "salePrice": "26",
+      "newPrice": "95"
     },
     "urosaf": {
       "productName": "Urosaf",
-      "salePrice": "24",
-      "newPrice": "139"
+      "salePrice": "28",
+      "newPrice": "130"
     },
     "steplex": {
       "productName": "Steplex",
-      "salePrice": "26",
-      "newPrice": "75"
+      "salePrice": "30",
+      "newPrice": "127"
     },
     "vasaxal": {
       "productName": "Vasaxal",
-      "salePrice": "25",
-      "newPrice": "73"
+      "salePrice": "27",
+      "newPrice": "100"
     },
     "demyxil": {
       "productName": "Demyxil",
-      "salePrice": "26",
-      "newPrice": "82"
+      "salePrice": "24",
+      "newPrice": "104"
     },
     "delislim": {
       "productName": "Delislim",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "109"
     },
     "ophtalax": {
       "productName": "Ophtalax",
-      "salePrice": "26",
-      "newPrice": "119"
+      "salePrice": "29",
+      "newPrice": "130"
     },
     "vasos_duo": {
       "productName": "Vasos Duo",
-      "salePrice": "26",
-      "newPrice": "80"
+      "salePrice": "25",
+      "newPrice": "84"
     }
   },
+
+
   "success": {
     "success_title": "Merci pour votre commande!",
     "success_text1": "Merci d’avoir choisi notre entreprise ! <br/> Nous vous contacterons au numéro +7 (499) 703 14 76 dans quelques minutes pour préciser les détails de la commande.",

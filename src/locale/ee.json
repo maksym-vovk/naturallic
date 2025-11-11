@@ -1943,6 +1943,8 @@
     "orderpageform_discount": "Allahindlus",
     "orderpageform_total": "Summa"
   },
+
+
   "product_info": {
     "currency": "€",
     "guavital": {
@@ -1958,7 +1960,7 @@
     "desalix": {
       "productName": "Desalix",
       "salePrice": "25",
-      "newPrice": "96"
+      "newPrice": "89"
     },
     "paraxan": {
       "productName": "Paraxan",
@@ -2005,6 +2007,11 @@
       "salePrice": "26",
       "newPrice": "102"
     },
+    "depanten": {
+      "productName": "Depanten",
+      "salePrice": "24",
+      "newPrice": "77"
+    },
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "25",
@@ -2041,6 +2048,7 @@
       "newPrice": "88"
     }
   },
+
   "success": {
     "success_title": "Täname teie tellimuse eest!",
     "success_text1": "Täname, et valisite meie ettevõtte! <br/> Helistame teile telefoninumbrilt 3726989987 tagasi juba mõne minuti pärast, et täpsustada tellimuse üksikasju.",
