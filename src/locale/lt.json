@@ -1943,6 +1943,8 @@
     "orderpageform_discount": "Nuolaida",
     "orderpageform_total": "Suma"
   },
+
+
   "product_info": {
     "currency": "€",
     "guavital": {
@@ -2005,6 +2007,11 @@
       "salePrice": "26",
       "newPrice": "102"
     },
+    "depanten": {
+      "productName": "Depanten",
+      "salePrice": "24",
+      "newPrice": "77"
+    },
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "25",
@@ -2041,6 +2048,9 @@
       "newPrice": "88"
     }
   },
+
+
+
   "success": {
     "success_title": "Dėkojame už Jūsų užsakymą!",
     "success_text1": "Dėkojame, kad pasirinkote mūsų įmonę! <br/> Susisieksime su Jumis telefonu 37066102842 per kelias minutes, kad patikslintume užsakymo detales.",

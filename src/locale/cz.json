@@ -1939,6 +1939,8 @@
     "orderpageform_discount": "Sleva",
     "orderpageform_total": "Částka"
   },
+
+
   "product_info": {
     "currency": "CZK",
     "guavital": {
@@ -1953,8 +1955,8 @@
     },
     "desalix": {
       "productName": "Desalix",
-      "salePrice": "502",
-      "newPrice": "1505"
+      "salePrice": "25",
+      "newPrice": "89"
     },
     "paraxan": {
       "productName": "Paraxan",
@@ -2042,6 +2044,8 @@
       "newPrice": "1983"
     }
   },
+
+
   "success": {
     "success_title": "Děkujeme za vaši objednávku!",
     "success_text1": "Děkujeme, že jste si vybrali naši společnost! <br/> Budeme Vás kontaktovat na čísle 420790285911 během několika minut, abychom upřesnili podrobnosti objednávky.",

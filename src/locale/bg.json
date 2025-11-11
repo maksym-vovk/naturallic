@@ -1936,7 +1936,6 @@
     "orderpageform_email": "E-mail",
     "orderpageform_count": "количество",
     "orderpageform_btn": "Поръчай",
-
     "orderpageform_promo_plh": "Ваучер",
     "orderpageform_promo_btn": "Приложи",
     "orderpageform_price": "Цена",
@@ -1944,6 +1943,7 @@
     "orderpageform_discount": "Отстъпка",
     "orderpageform_total": "Сума"
   },
+
   "product_info": {
     "currency": "ЛВ",
     "guavital": {
@@ -1958,8 +1958,8 @@
     },
     "desalix": {
       "productName": "Desalix",
-      "salePrice": "44",
-      "newPrice": "159"
+      "salePrice": "25",
+      "newPrice": "89"
     },
     "paraxan": {
       "productName": "Paraxan",
@@ -2047,6 +2047,7 @@
       "newPrice": "130"
     }
   },
+
   "success": {
     "success_title": "Благодаря за Вашата поръчка!",
     "success_text1": "Благодарим ви, че избрахте нашата компания! <br/> Ще се свържем с вас на 35924372819 след няколко минути за подробности за поръчката.",

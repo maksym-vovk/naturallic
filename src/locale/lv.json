@@ -1943,6 +1943,7 @@
     "orderpageform_discount": "Atlaide",
     "orderpageform_total": "Summa"
   },
+
   "product_info": {
     "currency": "€",
     "guavital": {
@@ -2005,6 +2006,11 @@
       "salePrice": "26",
       "newPrice": "102"
     },
+    "depanten": {
+      "productName": "Depanten",
+      "salePrice": "24",
+      "newPrice": "77"
+    },
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "25",
@@ -2041,6 +2047,9 @@
       "newPrice": "88"
     }
   },
+
+
+
   "success": {
     "success_title": "Pateicamies par Jūsu pasūtījumu!",
     "success_text1": "Paldies, ka Jūs izvēlējāties mūsu uzņēmumu! <br/>Mēs sazināsimies ar Jums pa tālruni +7 (499) 703 14 76 pēc dažām minūtēm, lai precizētu pasūtījuma detaļas.",

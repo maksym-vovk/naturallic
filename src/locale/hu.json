@@ -1942,109 +1942,111 @@
     "orderpageform_discount": "Kedvezmény",
     "orderpageform_total": "Összeg"
   },
+
   "product_info": {
     "currency": "€",
     "guavital": {
       "productName": "GUAVITAL+",
-      "salePrice": "508",
-      "newPrice": "1690"
+      "salePrice": "9647",
+      "newPrice": "34253"
     },
     "trovazin": {
       "productName": "Trovazin",
-      "salePrice": "511",
-      "newPrice": "2034"
+      "salePrice": "10568",
+      "newPrice": "34222"
     },
     "desalix": {
       "productName": "Desalix",
-      "salePrice": "502",
-      "newPrice": "1505"
+      "salePrice": "11336",
+      "newPrice": "56040"
     },
     "paraxan": {
       "productName": "Paraxan",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "9920",
+      "newPrice": "40896"
     },
     "exurol": {
       "productName": "Exurol",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10452",
+      "newPrice": "34143"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10894",
+      "newPrice": "53050"
     },
     "visoptic_duo_day": {
       "productName": "Visoptic DUO Day",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10183",
+      "newPrice": "45210"
     },
     "beauty_age_skin": {
       "productName": "Beauty Age Skin",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "11612",
+      "newPrice": "50591"
     },
     "beauty_age_skin_peeling": {
       "productName": "Beauty Age Skin Peeling",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "9478",
+      "newPrice": "33225"
     },
     "ausen": {
       "productName": "Ausen",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "11125",
+      "newPrice": "44807"
     },
     "vermixin": {
       "productName": "Vermixin",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "9751",
+      "newPrice": "29323"
     },
     "viarex": {
       "productName": "Viarex",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10637",
+      "newPrice": "47523"
     },
     "depanten": {
       "productName": "Depanten",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "11489",
+      "newPrice": "38385"
     },
     "urosaf": {
       "productName": "Urosaf",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10271",
+      "newPrice": "37144"
     },
     "steplex": {
       "productName": "Steplex",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10956",
+      "newPrice": "45470"
     },
     "vasaxal": {
       "productName": "Vasaxal",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10094",
+      "newPrice": "38540"
     },
     "demyxil": {
       "productName": "Demyxil",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "11702",
+      "newPrice": "39889"
     },
     "delislim": {
       "productName": "Delislim",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "9583",
+      "newPrice": "47394"
     },
     "ophtalax": {
       "productName": "Ophtalax",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "11247",
+      "newPrice": "46226"
     },
     "vasos_duo": {
       "productName": "Vasos Duo",
-      "salePrice": "800",
-      "newPrice": "111111"
+      "salePrice": "10328",
+      "newPrice": "40685"
     }
   },
+
   "success": {
     "success_title": "Köszönjük megrendelését!",
     "success_text1": "Köszönjük, hogy minket választott! <br/> Néhány percen belül felvesszük Önnel a kapcsolatot a 3613237337 telefonszámon, hogy megerősítsük megrendelésének részleteit.",
