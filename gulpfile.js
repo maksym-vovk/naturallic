@@ -34,7 +34,22 @@ const config = {
   fico: true, // use font icons
   webpackJS: true, // build JS using webpack
   reload: true, // auto browser reload,
+  revisionInWatch: false, // FIX: long build time in watch mode
   commonLocalesRoot: false // true - .html files for all localizations in root folder, false - localizations in {{locale}}/ folder
+};
+
+const withLiveReload = (...tasks) => {
+    const pipeline = [...tasks];
+
+    if (config.revisionInWatch) {
+        pipeline.push(revAll);
+    }
+
+    if (config.reload) {
+        pipeline.push(reloadBrowser);
+    }
+
+    return series(...pipeline);
 };
 
 const path = {
@@ -98,42 +113,62 @@ const processors = [
   })
 ];
 
-function html() {
-  return src(path.src.html)
-    .pipe(
-      config.pug
-        ? pug({
-            i18n: {
-              namespace: "LANG",
-              locales: "src/locale/*", // locales: en.yml, de.json,
-              filename: config.commonLocalesRoot
-                ? "{{basename}}.{{lang}}.html"
-                : "{{{lang}}/}{{basename}}.html",
-              default: DEFAULT_LOCALE
-            },
-            data: {
-              url(LANG, baseUrl) {
-                const locale = LANG.locale || LANG;
 
+function html() {
+    return src(path.src.html).pipe(config.pug ? pug({
+        i18n: {
+            namespace: "LANG",
+            locales: "src/locale/*",
+            filename: config.commonLocalesRoot ? "{{basename}}.{{lang}}.html" : "{{{lang}}/}{{basename}}.html",
+            default: DEFAULT_LOCALE
+        }, data: {
+            url(LANG, baseUrl) {
+                const locale = LANG.locale || LANG;
                 const urlLocale = DEFAULT_LOCALE === locale ? "" : locale;
                 return nodePath.join(`/${urlLocale}/`, baseUrl);
-              }
-            },
-            pretty: true // Pug option
-          })
-        : include()
-    )
-    .on("error", function(err) {
-      console.log(err.message);
-      this.emit("end");
-    })
-    .pipe(dest(path.build.root))
-    .pipe(
-      browserSync.reload({
-        stream: true
-      })
-    );
+            }
+        }, pretty: true
+    }) : include()).on("error", function (err) {
+        console.log(err.message);
+        this.emit("end");
+    }).pipe(dest(path.build.root));
 }
+// function html() {
+//   return src(path.src.html)
+//     .pipe(
+//       config.pug
+//         ? pug({
+//             i18n: {
+//               namespace: "LANG",
+//               locales: "src/locale/*", // locales: en.yml, de.json,
+//               filename: config.commonLocalesRoot
+//                 ? "{{basename}}.{{lang}}.html"
+//                 : "{{{lang}}/}{{basename}}.html",
+//               default: DEFAULT_LOCALE
+//             },
+//             data: {
+//               url(LANG, baseUrl) {
+//                 const locale = LANG.locale || LANG;
+//
+//                 const urlLocale = DEFAULT_LOCALE === locale ? "" : locale;
+//                 return nodePath.join(`/${urlLocale}/`, baseUrl);
+//               }
+//             },
+//             pretty: true // Pug option
+//           })
+//         : include()
+//     )
+//     .on("error", function(err) {
+//       console.log(err.message);
+//       this.emit("end");
+//     })
+//     .pipe(dest(path.build.root))
+//     .pipe(
+//       browserSync.reload({
+//         stream: true
+//       })
+//     );
+// }
 function htmlDeploy() {
   return src(path.src.html)
     .pipe(
@@ -492,27 +527,47 @@ function push() {
 }
 
 function watchSource() {
-  watch(path.watch.locales, series(html, revAll, reloadBrowser));
-  watch(path.watch.html, series(html, revAll, reloadBrowser));
-  watch(path.watch.style, series(css, revAll, reloadBrowser));
-  watch(path.watch.js, series(js, revAll, reloadBrowser));
-  watch(path.watch.fonts, series(fonts, revAll, reloadBrowser));
-  watch(path.watch.copy, series(copy, revAll, reloadBrowser));
-  watch(path.watch.img, series(images, revAll, reloadBrowser));
-  watch(path.watch.svg, series(svg, revAll, reloadBrowser));
-  if (config.sprites) {
-    watch(path.watch.sprite, series(sprite, images, revAll, reloadBrowser));
-  }
-  if (config.spritesSVG) {
-    watch(
-      path.watch.spriteSVG,
-      series(spriteSVG, images, revAll, reloadBrowser)
-    );
-  }
-  if (config.fico) {
-    watch(path.watch.svgico, series(fico, revAll, reloadBrowser));
-  }
+    watch(path.watch.locales, withLiveReload(html));
+    watch(path.watch.html, withLiveReload(html));
+    watch(path.watch.style, withLiveReload(css));
+    watch(path.watch.js, withLiveReload(js));
+    watch(path.watch.fonts, withLiveReload(fonts));
+    watch(path.watch.copy, withLiveReload(copy));
+    watch(path.watch.img, withLiveReload(images));
+    watch(path.watch.svg, withLiveReload(svg));
+
+    if (config.sprites) {
+        watch(path.watch.sprite, withLiveReload(sprite, images));
+    }
+    if (config.spritesSVG) {
+        watch(path.watch.spriteSVG, withLiveReload(spriteSVG, images));
+    }
+    if (config.fico) {
+        watch(path.watch.svgico, withLiveReload(fico));
+    }
 }
+// function watchSource() {
+//   watch(path.watch.locales, series(html, revAll, reloadBrowser));
+//   watch(path.watch.html, series(html, revAll, reloadBrowser));
+//   watch(path.watch.style, series(css, revAll, reloadBrowser));
+//   watch(path.watch.js, series(js, revAll, reloadBrowser));
+//   watch(path.watch.fonts, series(fonts, revAll, reloadBrowser));
+//   watch(path.watch.copy, series(copy, revAll, reloadBrowser));
+//   watch(path.watch.img, series(images, revAll, reloadBrowser));
+//   watch(path.watch.svg, series(svg, revAll, reloadBrowser));
+//   if (config.sprites) {
+//     watch(path.watch.sprite, series(sprite, images, revAll, reloadBrowser));
+//   }
+//   if (config.spritesSVG) {
+//     watch(
+//       path.watch.spriteSVG,
+//       series(spriteSVG, images, revAll, reloadBrowser)
+//     );
+//   }
+//   if (config.fico) {
+//     watch(path.watch.svgico, series(fico, revAll, reloadBrowser));
+//   }
+// }
 function clean(done) {
   del.sync(path.build.root);
   return done();
