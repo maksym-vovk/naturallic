@@ -871,7 +871,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Cât este",
     "contacts_captcha_input": "Răspuns",
-    "contacts_captcha_error": "Răspuns greșit, te rugăm să încerci din nou."
+    "contacts_captcha_error": "Răspuns greșit, te rugăm să încerci din nou.",
+    "contacts_request_success_1": "Mulțumim!",
+    "contacts_request_success_2": "Te vom contacta în curând.",
+    "contacts_request_error_1": "Eroare",
+    "contacts_request_error_2": "Nu am putut procesa solicitarea ta. Te rugăm să încerci din nou mai târziu."
   },
   "terms": {
     "terms_title": "Termenii serviciului",

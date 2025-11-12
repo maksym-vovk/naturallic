@@ -308,17 +308,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Ще ви се обадим за да уточним подробностите</p>
+            <p class="popup__title popup__title--main">Ще ви се обадим за да уточним подробностите</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Име" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Телефон" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Съобщение" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Благодарим!<br/>Ще се свържем с вас скоро.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Колко е"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Отговор" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Грешен отговор, моля, опитайте отново.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Грешка<br/>Не успяхме да обработим заявката ви. Моля, опитайте по-късно.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Поръчайте обаждане</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Име" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Телефон" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Съобщение" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Колко е"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Отговор" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Грешен отговор, моля, опитайте отново.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Поръчайте обаждане</button>
+              </div>
             </form>
           </div>
         </div>

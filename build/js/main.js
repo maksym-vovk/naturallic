@@ -3625,14 +3625,24 @@ var Contacts = function () {
 
                   return myXhr;
                 },
-                error: function error() {
-                  $('input, textarea, button', form).removeAttr('disabled');
-                },
-                complete: function complete() {
-                  captcha.reset();
+                success: function success() {
                   $('.js-content-form').hide();
                   $('.popup__title--main').hide();
                   $('.js-success-form').show();
+                },
+                error: function error() {
+                  $('input, textarea, button', form).removeAttr('disabled');
+                  $('.js-content-form').hide();
+                  $('.popup__title--main').hide();
+                  $('.js-error-form').show();
+                  setTimeout(function () {
+                    $('.js-content-form').show();
+                    $('.popup__title--main').show();
+                    $('.js-error-form').hide();
+                  }, 3000);
+                },
+                complete: function complete() {
+                  captcha.reset();
                 }
               });
             });

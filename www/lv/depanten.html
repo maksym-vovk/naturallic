@@ -89,17 +89,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Mēs Jums piezvanīsim, lai precizētu detaļas</p>
+            <p class="popup__title popup__title--main">Mēs Jums piezvanīsim, lai precizētu detaļas</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Vārds" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Tālrunis" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Ziņojums" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Paldies!<br/>Mēs drīzumā ar jums sazināsimies.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Cik ir"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Atbilde" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Nepareiza atbilde, lūdzu, mēģiniet vēlreiz.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Kļūda<br/>Neizdevās apstrādāt jūsu pieprasījumu. Lūdzu, mēģiniet vēlāk vēlreiz.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Pieteikt zvanu</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Vārds" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Tālrunis" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Ziņojums" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Cik ir"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Atbilde" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Nepareiza atbilde, lūdzu, mēģiniet vēlreiz.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Pieteikt zvanu</button>
+              </div>
             </form>
           </div>
         </div>

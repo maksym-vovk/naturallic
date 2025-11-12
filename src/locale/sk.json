@@ -864,7 +864,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Koľko je",
     "contacts_captcha_input": "Odpoveď",
-    "contacts_captcha_error": "Nesprávna odpoveď, skúste to znova."
+    "contacts_captcha_error": "Nesprávna odpoveď, skúste to znova.",
+    "contacts_request_success_1": "Ďakujeme!",
+    "contacts_request_success_2": "Čoskoro vás budeme kontaktovať.",
+    "contacts_request_error_1": "Chyba",
+    "contacts_request_error_2": "Vašu požiadavku sa nepodarilo spracovať. Skúste to znova neskôr."
   },
   "terms": {
     "terms_title": "Podmienky používania",

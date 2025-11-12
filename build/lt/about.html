@@ -120,17 +120,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Mes su Jumis susisieksime, kad patikslintume detales</p>
+            <p class="popup__title popup__title--main">Mes su Jumis susisieksime, kad patikslintume detales</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Vardas" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Telefono numeris" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Žinutė" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Ačiū!<br/>Netrukus su jumis susisieksime.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Kiek yra"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Atsakymas" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Neteisingas atsakymas, bandykite dar kartą.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Klaida<br/>Nepavyko apdoroti jūsų užklausos. Bandykite vėliau.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Užsakyti skambutį</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Vardas" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefono numeris" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Žinutė" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Kiek yra"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Atsakymas" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Neteisingas atsakymas, bandykite dar kartą.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Užsakyti skambutį</button>
+              </div>
             </form>
           </div>
         </div>

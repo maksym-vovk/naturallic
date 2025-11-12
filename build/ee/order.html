@@ -158,17 +158,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Helistame teile üksikasjade täpsustamiseks tagasi</p>
+            <p class="popup__title popup__title--main">Helistame teile üksikasjade täpsustamiseks tagasi</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Nimi" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Telefoninumber" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Sõnum" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Aitäh!<br/>Võtame teiega peagi ühendust.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Mis on"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Vastus" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Vale vastus, palun proovige uuesti.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Viga<br/>Teie päringut ei õnnestunud töödelda. Palun proovige hiljem uuesti.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Tellige kõne</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Nimi" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefoninumber" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Sõnum" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Mis on"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Vastus" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Vale vastus, palun proovige uuesti.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Tellige kõne</button>
+              </div>
             </form>
           </div>
         </div>

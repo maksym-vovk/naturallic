@@ -158,17 +158,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Pro upřesnění podrobností vám zavoláme.</p>
+            <p class="popup__title popup__title--main">Pro upřesnění podrobností vám zavoláme.</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Jméno" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Telefonní číslo" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Zpráva" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Děkujeme!<br/>Brzy vás budeme kontaktovat.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Kolik je"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Odpověď" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Špatná odpověď, zkuste to prosím znovu.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Chyba<br/>Vaši žádost se nepodařilo zpracovat. Zkuste to prosím později.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Objednat hovor</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Jméno" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefonní číslo" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Zpráva" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Kolik je"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Odpověď" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Špatná odpověď, zkuste to prosím znovu.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Objednat hovor</button>
+              </div>
             </form>
           </div>
         </div>

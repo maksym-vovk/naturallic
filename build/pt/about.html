@@ -120,17 +120,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Ligaremos de volta para esclarecer detalhes</p>
+            <p class="popup__title popup__title--main">Ligaremos de volta para esclarecer detalhes</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Nome" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Telefone" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Mensagem" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Obrigado!<br/>Entraremos em contacto consigo em breve.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Quanto é"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Resposta" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Resposta incorreta, tente novamente.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Erro<br/>Não foi possível processar o seu pedido. Tente novamente mais tarde.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Solicite uma ligação</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Nome" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefone" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Mensagem" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Quanto é"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Resposta" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Resposta incorreta, tente novamente.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Solicite uma ligação</button>
+              </div>
             </form>
           </div>
         </div>

@@ -866,7 +866,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Mennyi",
     "contacts_captcha_input": "Válasz",
-    "contacts_captcha_error": "Hibás válasz, kérjük, próbálja újra."
+    "contacts_captcha_error": "Hibás válasz, kérjük, próbálja újra.",
+    "contacts_request_success_1": "Köszönjük!",
+    "contacts_request_success_2": "Hamarosan felvesszük Önnel a kapcsolatot.",
+    "contacts_request_error_1": "Hiba",
+    "contacts_request_error_2": "Kérését nem sikerült feldolgozni. Kérjük, próbálja meg később."
   },
   "terms": {
     "terms_title": "Szolgáltatási feltételek",
