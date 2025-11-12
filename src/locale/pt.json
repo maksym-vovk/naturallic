@@ -864,7 +864,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Quanto é",
     "contacts_captcha_input": "Resposta",
-    "contacts_captcha_error": "Resposta incorreta, tente novamente."
+    "contacts_captcha_error": "Resposta incorreta, tente novamente.",
+    "contacts_request_success_1": "Obrigado!",
+    "contacts_request_success_2": "Entraremos em contacto consigo em breve.",
+    "contacts_request_error_1": "Erro",
+    "contacts_request_error_2": "Não foi possível processar o seu pedido. Tente novamente mais tarde."
   },
   "terms": {
     "terms_title": "Termos de serviço",

@@ -10,9 +10,13 @@
                 p.popup__title.popup__title--main!=CALLBACKPOPUP.callbackpopup_title
                 form.form-popup.js-order-form(action="ajax.php", method="post")
                     .form-popup__success.js-success-form
-                        p.popup__title ¡GRACIAS!
+                        p.popup__title!=CONTACTS.contacts_request_success_1
                             br
-                            | NOS PONDREMOS EN CONTACTO CONTIGO EN BREVE.
+                            | #{CONTACTS.contacts_request_success_2}
+                    .form-popup__error.js-error-form
+                        p.popup__title!=CONTACTS.contacts_request_error_1
+                            br
+                            | #{CONTACTS.contacts_request_error_2}
                     .form-popup__wrap.js-content-form
                         .form-popup__inputs
                             input.form-popup__input(type="text" name="name" placeholder=CALLBACKPOPUP.callbackpopup_field_name required)

@@ -864,7 +864,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Πόσο κάνει 123 + 123;",
     "contacts_captcha_input": "Απάντηση",
-    "contacts_captcha_error": "Λάθος απάντηση, δοκιμάστε ξανά."
+    "contacts_captcha_error": "Λάθος απάντηση, δοκιμάστε ξανά.",
+    "contacts_request_success_1": "Ευχαριστούμε!",
+    "contacts_request_success_2": "Θα επικοινωνήσουμε μαζί σας σύντομα.",
+    "contacts_request_error_1": "Σφάλμα",
+    "contacts_request_error_2": "Δεν ήταν δυνατή η επεξεργασία του αιτήματός σας. Δοκιμάστε ξανά αργότερα."
   },
   "terms": {
     "terms_title": "Όροι χρήσης",

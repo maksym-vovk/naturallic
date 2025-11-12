@@ -864,7 +864,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Koliko je",
     "contacts_captcha_input": "Odgovor",
-    "contacts_captcha_error": "Napačen odgovor, poskusite znova."
+    "contacts_captcha_error": "Napačen odgovor, poskusite znova.",
+    "contacts_request_success_1": "Hvala!",
+    "contacts_request_success_2": "Kmalu vas bomo kontaktirali.",
+    "contacts_request_error_1": "Napaka",
+    "contacts_request_error_2": "Vaše zahteve ni bilo mogoče obdelati. Poskusite znova pozneje."
   },
   "terms": {
     "terms_title": "Pogoji storitve",

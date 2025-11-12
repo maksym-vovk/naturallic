@@ -140,17 +140,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Vă vom suna înapoi pentru&nbsp;a clarifica detaliile</p>
+            <p class="popup__title popup__title--main">Vă vom suna înapoi pentru&nbsp;a clarifica detaliile</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Numele" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Telefonul" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Mesaj" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Mulțumim!<br/>Te vom contacta în curând.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Cât este"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Răspuns" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Răspuns greșit, te rugăm să încerci din nou.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Eroare<br/>Nu am putut procesa solicitarea ta. Te rugăm să încerci din nou mai târziu.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Comandați un apel</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Numele" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefonul" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Mesaj" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Cât este"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Răspuns" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Răspuns greșit, te rugăm să încerci din nou.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Comandați un apel</button>
+              </div>
             </form>
           </div>
         </div>

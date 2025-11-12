@@ -868,7 +868,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Mis on",
     "contacts_captcha_input": "Vastus",
-    "contacts_captcha_error": "Vale vastus, palun proovige uuesti."
+    "contacts_captcha_error": "Vale vastus, palun proovige uuesti.",
+    "contacts_request_success_1": "Aitäh!",
+    "contacts_request_success_2": "Võtame teiega peagi ühendust.",
+    "contacts_request_error_1": "Viga",
+    "contacts_request_error_2": "Teie päringut ei õnnestunud töödelda. Palun proovige hiljem uuesti."
   },
 
   "terms": {

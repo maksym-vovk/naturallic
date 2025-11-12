@@ -3219,17 +3219,25 @@
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title">Visszahívjuk Önt a részletek&nbsp;pontosításáért</p>
+            <p class="popup__title popup__title--main">Visszahívjuk Önt a részletek&nbsp;pontosításáért</p>
             <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__inputs">
-                <input class="form-popup__input" type="text" name="name" placeholder="Név" required="required"/>
-                <input class="form-popup__input" type="phone" name="phone" placeholder="Telefon" required="required"/>
-                <input class="form-popup__input" type="text" name="comment" placeholder="Üzenet" required="required"/>
+              <div class="form-popup__success js-success-form">
+                <p class="popup__title">Köszönjük!<br/>Hamarosan felvesszük Önnel a kapcsolatot.</p>
               </div>
-              <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Mennyi"></span>
-                <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Válasz" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Hibás válasz, kérjük, próbálja újra.</span>
+              <div class="form-popup__error js-error-form">
+                <p class="popup__title">Hiba<br/>Kérését nem sikerült feldolgozni. Kérjük, próbálja meg később.</p>
               </div>
-              <button class="form-popup__btn button button--gold">Hívás rendelése</button>
+              <div class="form-popup__wrap js-content-form">
+                <div class="form-popup__inputs">
+                  <input class="form-popup__input" type="text" name="name" placeholder="Név" required="required"/>
+                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefon" required="required"/>
+                  <input class="form-popup__input" type="text" name="comment" placeholder="Üzenet" required="required"/>
+                </div>
+                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Mennyi"></span>
+                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Válasz" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Hibás válasz, kérjük, próbálja újra.</span>
+                </div>
+                <button class="form-popup__btn button button--gold button--loading">Hívás rendelése</button>
+              </div>
             </form>
           </div>
         </div>

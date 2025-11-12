@@ -867,7 +867,11 @@
     "contacts_telephone_title": "",
     "contacts_captcha_text": "Kolik je",
     "contacts_captcha_input": "Odpověď",
-    "contacts_captcha_error": "Špatná odpověď, zkuste to prosím znovu."
+    "contacts_captcha_error": "Špatná odpověď, zkuste to prosím znovu.",
+    "contacts_request_success_1": "Děkujeme!",
+    "contacts_request_success_2": "Brzy vás budeme kontaktovat.",
+    "contacts_request_error_1": "Chyba",
+    "contacts_request_error_2": "Vaši žádost se nepodařilo zpracovat. Zkuste to prosím později."
   },
   "terms": {
     "terms_title": "Podmínky služby",
