@@ -1947,108 +1947,107 @@
 
   "product_info": {
     "currency": "€",
-    "guavital": {
-      "productName": "GUAVITAL+",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "26",
-      "newPrice": "112"
+      "newPrice": "104"
     },
-    "trovazin": {
-      "productName": "Trovazin",
-      "salePrice": "24",
-      "newPrice": "82"
+    "ophtalax": {
+      "productName": "Ophtalax",
+      "salePrice": "26",
+      "newPrice": "115"
     },
-    "desalix": {
-      "productName": "Desalix",
+    "delislim": {
+      "productName": "Delislim",
+      "salePrice": "26",
+      "newPrice": "121"
+    },
+    "demyxil": {
+      "productName": "Demyxil",
+      "salePrice": "26",
+      "newPrice": "99"
+    },
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "25",
-      "newPrice": "89"
+      "newPrice": "110"
     },
-    "paraxan": {
-      "productName": "Paraxan",
+    "steplex": {
+      "productName": "Steplex",
       "salePrice": "26",
-      "newPrice": "79"
+      "newPrice": "125"
     },
-    "exurol": {
-      "productName": "Exurol",
-      "salePrice": "26",
+    "urosaf": {
+      "productName": "Urosaf",
+      "salePrice": "24",
+      "newPrice": "92"
+    },
+    "depanten": {
+      "productName": "Depanten",
+      "salePrice": "24",
+      "newPrice": "120"
+    },
+    "viarex": {
+      "productName": "Viarex",
+      "salePrice": "25",
+      "newPrice": "113"
+    },
+    "vermixin": {
+      "productName": "Vermixin",
+      "salePrice": "24",
       "newPrice": "102"
+    },
+    "ausen": {
+      "productName": "Ausen",
+      "salePrice": "26",
+      "newPrice": "130"
+    },
+    "beauty_age_skin_peeling": {
+      "productName": "Beauty Age Skin Peeling",
+      "salePrice": "24",
+      "newPrice": "117"
+    },
+    "beauty_age_skin": {
+      "productName": "Beauty Age Skin",
+      "salePrice": "26",
+      "newPrice": "105"
+    },
+    "visoptic_duo_day": {
+      "productName": "Visoptic DUO Day",
+      "salePrice": "26",
+      "newPrice": "118"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
       "salePrice": "26",
       "newPrice": "109"
     },
-    "visoptic_duo_day": {
-      "productName": "Visoptic DUO Day",
+    "exurol": {
+      "productName": "Exurol",
       "salePrice": "26",
-      "newPrice": "97"
+      "newPrice": "128"
     },
-    "beauty_age_skin": {
-      "productName": "Beauty Age Skin",
+    "paraxan": {
+      "productName": "Paraxan",
       "salePrice": "26",
-      "newPrice": "165"
-    },
-    "beauty_age_skin_peeling": {
-      "productName": "Beauty Age Skin Peeling",
-      "salePrice": "24",
       "newPrice": "135"
     },
-    "ausen": {
-      "productName": "Ausen",
-      "salePrice": "26",
-      "newPrice": "136"
-    },
-    "vermixin": {
-      "productName": "Vermixin",
-      "salePrice": "24",
-      "newPrice": "88"
-    },
-    "viarex": {
-      "productName": "Viarex",
+    "desalix": {
+      "productName": "Desalix",
       "salePrice": "25",
-      "newPrice": "125"
+      "newPrice": "94"
     },
-    "depanten": {
-      "productName": "Depanten",
+    "trovazin": {
+      "productName": "Trovazin",
       "salePrice": "24",
-      "newPrice": "77"
+      "newPrice": "107"
     },
-    "urosaf": {
-      "productName": "Urosaf",
-      "salePrice": "24",
-      "newPrice": "139"
-    },
-    "steplex": {
-      "productName": "Steplex",
+    "guavital": {
+      "productName": "GUAVITAL+",
       "salePrice": "26",
-      "newPrice": "75"
-    },
-    "vasaxal": {
-      "productName": "Vasaxal",
-      "salePrice": "25",
-      "newPrice": "73"
-    },
-    "demyxil": {
-      "productName": "Demyxil",
-      "salePrice": "26",
-      "newPrice": "82"
-    },
-    "delislim": {
-      "productName": "Delislim",
-      "salePrice": "26",
-      "newPrice": "82"
-    },
-    "ophtalax": {
-      "productName": "Ophtalax",
-      "salePrice": "26",
-      "newPrice": "119"
-    },
-    "vasos_duo": {
-      "productName": "Vasos Duo",
-      "salePrice": "26",
-      "newPrice": "80"
+      "newPrice": "123"
     }
   },
-
 
   "success": {
     "success_title": "Σας ευχαριστούμε για την παραγγελία σας!",

@@ -1954,107 +1954,108 @@
 
   "product_info": {
     "currency": "€",
-    "guavital": {
-      "productName": "GUAVITAL+",
-      "salePrice": "26",
-      "newPrice": "112"
-    },
-    "trovazin": {
-      "productName": "Trovazin",
-      "salePrice": "25",
-      "newPrice": "73"
-    },
-    "desalix": {
-      "productName": "Desalix",
-      "salePrice": "25",
-      "newPrice": "89"
-    },
-    "paraxan": {
-      "productName": "Paraxan",
-      "salePrice": "25",
-      "newPrice": "89"
-    },
-    "exurol": {
-      "productName": "Exurol",
-      "salePrice": "26",
-      "newPrice": "80"
-    },
-    "visoptic_duo_night": {
-      "productName": "Visoptic DUO Night",
-      "salePrice": "26",
-      "newPrice": "97"
-    },
-    "visoptic_duo_day": {
-      "productName": "Visoptic DUO Day",
+    "vasos_duo": {
+      "productName": "Vasos Duo",
       "salePrice": "24",
-      "newPrice": "139"
-    },
-    "beauty_age_skin": {
-      "productName": "Beauty Age Skin",
-      "salePrice": "26",
-      "newPrice": "136"
-    },
-    "beauty_age_skin_peeling": {
-      "productName": "Beauty Age Skin Peeling",
-      "salePrice": "26",
-      "newPrice": "165"
-    },
-    "ausen": {
-      "productName": "Ausen",
-      "salePrice": "25",
-      "newPrice": "119"
-    },
-    "vermixin": {
-      "productName": "Vermixin",
-      "salePrice": "26",
-      "newPrice": "79"
-    },
-    "viarex": {
-      "productName": "Viarex",
-      "salePrice": "26",
-      "newPrice": "102"
-    },
-    "depanten": {
-      "productName": "Depanten",
-      "salePrice": "24",
-      "newPrice": "77"
-    },
-    "urosaf": {
-      "productName": "Urosaf",
-      "salePrice": "25",
-      "newPrice": "125"
-    },
-    "steplex": {
-      "productName": "Steplex",
-      "salePrice": "26",
-      "newPrice": "69"
-    },
-    "vasaxal": {
-      "productName": "Vasaxal",
-      "salePrice": "24",
-      "newPrice": "77"
-    },
-    "demyxil": {
-      "productName": "Demyxil",
-      "salePrice": "26",
-      "newPrice": "82"
-    },
-    "delislim": {
-      "productName": "Delislim",
-      "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "88"
     },
     "ophtalax": {
       "productName": "Ophtalax",
       "salePrice": "26",
       "newPrice": "109"
     },
-    "vasos_duo": {
-      "productName": "Vasos Duo",
+    "delislim": {
+      "productName": "Delislim",
+      "salePrice": "26",
+      "newPrice": "82"
+    },
+    "demyxil": {
+      "productName": "Demyxil",
+      "salePrice": "26",
+      "newPrice": "82"
+    },
+    "vasaxal": {
+      "productName": "Vasaxal",
       "salePrice": "24",
-      "newPrice": "88"
+      "newPrice": "77"
+    },
+    "steplex": {
+      "productName": "Steplex",
+      "salePrice": "26",
+      "newPrice": "69"
+    },
+    "urosaf": {
+      "productName": "Urosaf",
+      "salePrice": "25",
+      "newPrice": "125"
+    },
+    "depanten": {
+      "productName": "Depanten",
+      "salePrice": "24",
+      "newPrice": "111"
+    },
+    "viarex": {
+      "productName": "Viarex",
+      "salePrice": "26",
+      "newPrice": "102"
+    },
+    "vermixin": {
+      "productName": "Vermixin",
+      "salePrice": "26",
+      "newPrice": "79"
+    },
+    "ausen": {
+      "productName": "Ausen",
+      "salePrice": "25",
+      "newPrice": "119"
+    },
+    "beauty_age_skin_peeling": {
+      "productName": "Beauty Age Skin Peeling",
+      "salePrice": "26",
+      "newPrice": "165"
+    },
+    "beauty_age_skin": {
+      "productName": "Beauty Age Skin",
+      "salePrice": "26",
+      "newPrice": "136"
+    },
+    "visoptic_duo_day": {
+      "productName": "Visoptic DUO Day",
+      "salePrice": "24",
+      "newPrice": "139"
+    },
+    "visoptic_duo_night": {
+      "productName": "Visoptic DUO Night",
+      "salePrice": "26",
+      "newPrice": "97"
+    },
+    "exurol": {
+      "productName": "Exurol",
+      "salePrice": "26",
+      "newPrice": "80"
+    },
+    "paraxan": {
+      "productName": "Paraxan",
+      "salePrice": "25",
+      "newPrice": "89"
+    },
+    "desalix": {
+      "productName": "Desalix",
+      "salePrice": "25",
+      "newPrice": "96"
+    },
+    "trovazin": {
+      "productName": "Trovazin",
+      "salePrice": "25",
+      "newPrice": "73"
+    },
+    "guavital": {
+      "productName": "GUAVITAL+",
+      "salePrice": "26",
+      "newPrice": "112"
     }
   },
+
 
   "success": {
     "success_title": "Täname teie tellimuse eest!",
