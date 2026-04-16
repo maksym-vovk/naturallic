@@ -5,9 +5,9 @@
     const hiddenProducts = ['visoptic_duo_night', 'visoptic_duo_day']
     HITS = HITS.filter(prod => !hiddenProducts.includes(prod.tag))
 
-    if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
-        HITS = HITS.filter(prod => prod.tag !== 'depanten')
-    }
+    //- if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
+    //-     HITS = HITS.filter(prod => prod.tag !== 'depanten')
+    //- }
 
     if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'
             || LANG.locale === 'pl' || LANG.locale === 'bg' || LANG.locale === 'it') {

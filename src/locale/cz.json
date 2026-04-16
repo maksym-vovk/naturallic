@@ -546,11 +546,11 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "Ultraxal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -573,12 +573,12 @@
           "type": "full"
         }
       ],
-      "text": "323 recenzí",
-      "desc": "Gel s přírodními výtažky pro odstranění různých typů bolesti kloubů a svalů.",
-      "link": "depanten.html",
-      "tag": "depanten",
-      "category": "health",
-      "btn": "VÍCE"
+      "text": "458 recenzí",
+      "desc": "Bylinný komplex pro udržení trávicí rovnováhy a každodenní pohodlí",
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "category": "Trávicí systém (GI)",
+      "btn": "Objednat"
     },
     {
       "label": "Hit",
@@ -1326,13 +1326,13 @@
       "niche": "Kategorie: Potence"
     },
     {
-      "link": "depanten.html",
-      "tag": "depanten",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "Ultraxal",
       "narrow": true,
       "stars": [
         {
@@ -1356,8 +1356,8 @@
           "type": "full"
         }
       ],
-      "text": "323 recenzí",
-      "niche": "Kategorie: Klouby"
+      "text": "458 recenzí",
+      "niche": "Kategorie: Trávicí systém (GI)"
     },
     {
       "link": "urosaf.html",
@@ -1779,20 +1779,20 @@
     "suitability": "2 roky",
     "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
   },
-  "depanten": {
-    "title": "Depanten",
+  "ultraxal": {
+    "title": "Ultraxal",
     "category": "Pro zdraví",
-    "review_count": "323 recenzí",
-    "niche": "Klouby",
-    "form_factor": "gel v lahvičce, 25 ml.",
-    "short_description": "Gel s přírodními výtažky pro odstranění různých typů bolesti kloubů a svalů.",
-    "description": "Gel pro lokální aplikaci proti bolesti. Zjemňuje a hydratuje pokožku, stimuluje metabolické procesy v pokožce s chladivým účinkem.",
-    "compound": "Voda, alkohol denat, Propylenglykol, extrakt z květů Chamomilla recutita, extrakt z arniky montany, niacinamid, glukosamin sulfát, extrakt z kořene Harpagophytum Procumbens, extrakt z kořene Symphytum Officinale, hydrolyzovaný kolagen, PEG-40, hydrogenovaný ricinový olej, mentol, olej z máty piperité, chondroitin sulfát sodný, Eucalyptus Globulus listový olej, kafr, Eugenia Caroyphyllus listový olej, Cinnamomum Cassia listový olej, Melaleuca Alternifolia listový olej, Ammonium AcryloyldimeThyltaurate /VP kopolymer, panthenol, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Allantoin, Disodium EDTА, Linalool, Limonene, Еugenol.",
-    "usage": "Nanášejte malé množství přípravku krouživými masážními pohyby až do úplného vstřebání 2-3krát denně. Před použitím proveďte test kožní snášenlivosti.",
-    "contraindications": "Výrobek je určen pouze k lokálnímu použití. Zabraňte kontaktu s očima a sliznicemi. V případě kontaktu důkladně opláchněte vodou! Nesmí se používat u dětí do tří let, těhotných a kojících žen a přímo na otevřené rány.",
-    "manufacturer": "Dalmatika (Bulharsko)",
-    "suitability": "2 roky",
-    "keep": "Skladujte v suchu, mimo dosah dětí, při teplotě do +25 °C."
+    "review_count": "458 recenzí",
+    "niche": "Trávicí systém (GI)",
+    "form_factor": "Kapsle, 20 kusů",
+    "short_description": "Bylinný komplex pro udržení trávicí rovnováhy a každodenní pohodlí",
+    "description": "ULTRAXAL je určen jako doplněk ke každodenní stravě pro podporu normální činnosti trávení. Díky kombinaci rostlinných extraktů a enzymů produkt podporuje přirozené procesy čištění těla a pomáhá udržovat rovnováhu střevní mikroflóry. Složení je zaměřeno na zlepšení peristaltiky a usnadnění vstřebávání živin, což umožňuje vyhnout se pocitu tíhy po jídle. Při pravidelném užívání komplex pomáhá udržovat funkční stav sliznic gastrointestinálního traktu a pomáhá snižovat nepříjemné pocity způsobené nadýmáním nebo změnou stravy.",
+    "compound": "Extrakt z kořene pampelišky, extrakt z listů artyčoku, extrakt ze semen ostropestřce mariánského (80 % silymarin), extrakt z dýňových semínek, papain 100 000 U/g, stearát hořečnatý, mikrokrystalická celulóza. Obal kapsle: želatina/HPMC.",
+    "usage": "Doporučuje se užívat 1–2 kapsle denně s jídlem. Nepřekračujte doporučenou denní dávku.",
+    "contraindications": "Individuální citlivost na složky. Uchovávejte mimo dosah dětí. U těhotných a kojících žen je před použitím doporučena konzultace s odborníkem.",
+    "manufacturer": "Millmax",
+    "suitability": "24 měsíců",
+    "keep": "Skladujte na suchém místě mimo dosah dětí při teplotě nepřesahující +25 °C."
   },
   "urosaf": {
     "title": "Urosaf",
@@ -1953,27 +1953,27 @@
     "guavital": {
       "productName": "GUAVITAL+",
       "salePrice": "508",
-      "newPrice": "1690"
+      "newPrice": "1960"
     },
     "trovazin": {
       "productName": "Trovazin",
       "salePrice": "511",
-      "newPrice": "2034"
+      "newPrice": "2334"
     },
     "desalix": {
       "productName": "Desalix",
       "salePrice": "502",
-      "newPrice": "1505"
+      "newPrice": "1733"
     },
     "paraxan": {
       "productName": "Paraxan",
       "salePrice": "506",
-      "newPrice": "1786"
+      "newPrice": "2039"
     },
     "exurol": {
       "productName": "Exurol",
       "salePrice": "507",
-      "newPrice": "2190"
+      "newPrice": "2509"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
@@ -1988,67 +1988,67 @@
     "beauty_age_skin": {
       "productName": "Beauty Age Skin",
       "salePrice": "523",
-      "newPrice": "2736"
+      "newPrice": "3068"
     },
     "beauty_age_skin_peeling": {
       "productName": "Beauty Age Skin Peeling",
       "salePrice": "524",
-      "newPrice": "3199"
+      "newPrice": "3669"
     },
     "ausen": {
       "productName": "Ausen",
       "salePrice": "518",
-      "newPrice": "2455"
+      "newPrice": "2752"
     },
     "vermixin": {
       "productName": "Vermixin",
       "salePrice": "509",
-      "newPrice": "1644"
+      "newPrice": "1868"
     },
     "viarex": {
       "productName": "Viarex",
       "salePrice": "516",
-      "newPrice": "2694"
+      "newPrice": "3032"
     },
-    "depanten": {
-      "productName": "Depanten",
+    "ultraxal": {
+      "productName": "Ultraxal",
       "salePrice": "514",
-      "newPrice": "1465"
+      "newPrice": "2623"
     },
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "522",
-      "newPrice": "3550"
+      "newPrice": "3880"
     },
     "steplex": {
       "productName": "Steplex",
       "salePrice": "520",
-      "newPrice": "3065"
+      "newPrice": "3000"
     },
     "vasaxal": {
       "productName": "Vasaxal",
       "salePrice": "505",
-      "newPrice": "1874"
+      "newPrice": "2122"
     },
     "demyxil": {
       "productName": "Demyxil",
       "salePrice": "525",
-      "newPrice": "2654"
+      "newPrice": "2925"
     },
     "delislim": {
       "productName": "Delislim",
       "salePrice": "510",
-      "newPrice": "2165"
+      "newPrice": "2392"
     },
     "ophtalax": {
       "productName": "Ophtalax",
       "salePrice": "515",
-      "newPrice": "1765"
+      "newPrice": "1966"
     },
     "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "519",
-      "newPrice": "1983"
+      "newPrice": "2227"
     }
   },
 
@@ -3533,11 +3533,11 @@
         "text": "Vyjadřuji vděčnost sobě i manželovi. Díky za tak skvělý prostředek, rychlé dodání a konzultace. Pomohlo to manželovi! Konečně je zase zdravý!"
       }
     ],
-    "reviews_depanten": [
+    "reviews_ultraxal": [
       {
-        "src": "img/review_depanten_1.png",
+        "src": "img/review_ultraxal_1.png",
         "name": "Karolína Pinkavová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3561,13 +3561,13 @@
             "type": "empty"
           }
         ],
-        "text": "Objednala jsem gel Depanten pro maminku. Gel se jí moc líbí. Rychle zmírňuje bolest kloubů, začala se více pohybovat. Jiné prostředky odmítá."
+        "text": "Dříve jsem po každém jídle měla břicho jako buben, bylo těžké dýchat... Před měsícem jsem začala užívat Ultraxal a opravdu se cítím lépe. Už nemám ten pocit, že se uvnitř všechno zastavilo. Trávení teď funguje přesně, jako hodiny."
       },
 
       {
-        "src": "img/review_depanten_2.png",
+        "src": "img/review_ultraxal_2.png",
         "name": "Maxim Šlapák",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3591,13 +3591,13 @@
             "type": "empty"
           }
         ],
-        "text": "Pomohl mi zotavit se po zranění kolena. Odstranil bolest, otok a zánět. Na bolest svalů také pomáhá dobře."
+        "text": "Užíval jsem tyto kapsle na podporu trávicího systému po silných pilulkách, jelikož jsem měl potíže se žaludkem a neustálou těžkost. Kapsle působily velmi jemně. Během týdne nepohodlí zmizelo, můžu zase normálně jíst a nemyslet na následky."
       },
 
       {
-        "src": "img/review_depanten_3.png",
+        "src": "img/review_ultraxal_3.png",
         "name": "Vlastislav Řeháček",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3621,13 +3621,13 @@
             "type": "empty"
           }
         ],
-        "text": "Účinek je rychlý, po první aplikaci už cítíte úlevu. Každým dnem se to zlepšovalo. Jsem spokojen s prostředkem a cena je vynikající!"
+        "text": "Líbilo se mi, že obsahuje artyčok a ostropestřec mariánský. Jsou to nejlepší komponenty pro játra. Beru 2 kapsle denně. Ráno mi zmizela hořkost v ústech a celkově se cítím mnohem veseleji. Dobrý evropský produkt."
       },
 
       {
-        "src": "img/review_depanten_4.png",
+        "src": "img/review_ultraxal_4.png",
         "name": "Eva Vomáčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3651,13 +3651,13 @@
             "type": "empty"
           }
         ],
-        "text": "Příjemné pocity po aplikaci, nebolí to a nepálí, jen příjemný chlad. Klouby přestaly bolet, ale stále používám."
+        "text": "Abych byla upřímná, objednávala jsem s jistou skepsí, protože teď je na internetu spousta věcí inzerovaných, ale balíček dorazil velmi rychle a samotné balení vypadá kvalitně, což mě trochu uklidnilo. Začala jsem ho užívat striktně podle návodu s jídlem a nejvíc mě překvapilo, že zmizelo neustálé pálení žáhy, které mě trápilo měsíce po jakémkoli pikantním nebo pálivém jídle. Nyní trávení funguje stabilně, nejsou žádné ostré křeče."
       },
 
       {
-        "src": "img/review_depanten_5.png",
+        "src": "img/review_ultraxal_5.png",
         "name": "Miriam Hrachová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3681,13 +3681,13 @@
             "type": "empty"
           }
         ],
-        "text": "Zánět kloubu byl odstraněn během několika dní. Vždy držím po ruce, objednávám už ne poprvé."
+        "text": "Dávám si velký pozor na to, co užívám, takže jsem si před koupí prostudovala složení Ultraxalu a přesvědčila mě hlavně přítomnost dýňových a artyčokových semínek. Jsou to nejlepší přírodní komponenty pro mírnou detoxikaci. Účinek se nedostaví okamžitě, ale čtvrtý nebo pátý den prostě začnete chápat, že v břiše vládne naprosté ticho a klid bez ohledu na to, co jste snědli k obědu."
       },
 
       {
-        "src": "img/review_depanten_6.png",
+        "src": "img/review_ultraxal_6.png",
         "name": "Nikola Komínková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3711,13 +3711,13 @@
             "type": "empty"
           }
         ],
-        "text": "Pomáhá také po sportovních zranění a od věkových problémů s klouby a kostí. Působí rychle, nezpůsobuje nepříjemné pocity."
+        "text": "V mém věku jsem už nasbíral spoustu problémů s gastrointestinálním traktem, takže vybrat doplněk stravy, který by nedráždil tak citlivou sliznici, je opravdový úkol. Tyto kapsle jsou podle mě naprosto perfektní: snadno se polykají, nezanechávají žádnou chemickou pachuť a co je nejdůležitější - po nich není ten hrozný pocit tíhy."
       },
 
       {
-        "src": "img/review_depanten_7.png",
+        "src": "img/review_ultraxal_7.png",
         "name": "Dušan Hrabánek",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3741,13 +3741,13 @@
             "type": "empty"
           }
         ],
-        "text": "Objednal jsem si Depanten před několika týdny. S prostředkem jsem byl spokojený. Doručili rychle a odpověděli na všechny otázky telefonicky. Děkuji!"
+        "text": "Dříve jsem si musel před každou velkou rodinnou hostinou kupovat enzymy v lékárně, protože jinak bych prostě kvůli bolestem a pocitu plnosti v žaludku nemohl normálně přežít svátky. Kamarádka mi poradila, abych vyzkoušel tento bylinný komplex, a opravdu se ukázalo, že je mnohem účinnější a hlavně bezpečnější. Teď, i když si dopřeji kousek masa nebo dezert navíc, moje trávení to bez problémů zvládne."
       },
 
       {
-        "src": "img/review_depanten_8.png",
+        "src": "img/review_ultraxal_8.png",
         "name": "Cecílie Veselská",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3771,13 +3771,13 @@
             "type": "empty"
           }
         ],
-        "text": "Maminka měla zánět loketního kloubu, rukou nemohla hýbat, pomohlo to! Zánět a bolest jsou pryč, po kúře vůbec přestala stěžovat si na bolesti kloubů."
+        "text": "Objednala jsem si Ultraxal jen tak na podporu svého těla a byla jsem překvapená tím, jak rychle zmírnil všechny příznaky syndromu dráždivého tračníku. Pro aktivní lidi, jako jsem já, kteří nemají čas na běžná domácí jídla, je to opravdu skvělá podpora trávení, aby cítili pohodu."
       },
 
       {
-        "src": "img/review_depanten_9.png",
+        "src": "img/review_ultraxal_9.png",
         "name": "Vladislav Pařík",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3801,13 +3801,13 @@
             "type": "empty"
           }
         ],
-        "text": "Jako bývalý sportovec mám problémy s klouby. Jen Depanten mě zachraňuje. Můžu s ním žít bez bolesti!"
+        "text": "Tento produkt jsem užíval spíše preventivně, protože mám chronické problémy se žlučníkem a lékař mi doporučil pravidelně absolvovat kúry bylinných choleretik. Chci říct, že složení je překvapivě dobře promyšlené: díky artyčoku a pampelišce začala žluč mnohem lépe odtékat a nepohodlí v pravém podžebří, které mě pravidelně obtěžovalo, úplně zmizelo."
       },
 
       {
-        "src": "img/review_depanten_10.png",
+        "src": "img/review_ultraxal_10.png",
         "name": "Marika Ficová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3831,13 +3831,13 @@
             "type": "empty"
           }
         ],
-        "text": "Pomohl mi hned! Předtím jsem zkoušel tolik prostředků a nemohl jsem se úplně zbavit bolesti. Depanten je nejúčinnější ze všeho, co jsem používala."
+        "text": "Abych byla upřímná, dlouho jsem byla skeptická ohledně utrácení peněz za doplňky stravy z internetu, protože v lékárnách se prodává spousta prostředků, ale po několika neúspěšných pokusech jsem se odvážila riskovat a koupila si tento produkt. A víte, opravdu funguje lépe než drahé inzerované pilulky."
       },
 
       {
-        "src": "img/review_depanten_11.png",
+        "src": "img/review_ultraxal_11.png",
         "name": "Žaneta Skálová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3861,13 +3861,13 @@
             "type": "empty"
           }
         ],
-        "text": "Gel je dobrý, pomohl mi opravit kloub a zbavit se bolesti kolena. Zmizely křupání a zarudnutí. Spotřebuje se šetrně."
+        "text": "Dodržuji veganskou stravu a jím hodně čerstvé zeleniny a luštěnin. Můj žaludek si proto někdy prostě nedokáže poradit s tak obrovským množstvím vlákniny, což vede k nadměrné plynatosti. Našla jsem si informace o tomto komplexu a rozhodla se ho začit užívat. Ukázalo se, že to bylo nejlepší rozhodnutí v poslední době. Teď se jídlo tráví mnohem snadněji."
       },
 
       {
-        "src": "img/review_depanten_12.png",
+        "src": "img/review_ultraxal_12.png",
         "name": "Evžénie Horynová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3891,42 +3891,12 @@
             "type": "empty"
           }
         ],
-        "text": "Depanten působí lépe než prášky proti bolesti, navíc kloub regeneruje. Nyní používám pouze tento gel, výsledek cítím!"
-      },
-
-      {
-        "src": "img/review_depanten_13.png",
-        "name": "Lýdie Havranová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
-        "rating_text": "Vynikající kvalita!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Zkontrolovala jsem to a ujistila jsem se: Depanten je nejrychlejší a nejúčinnější pomoc pro nemocné klouby. Žádný zánět, žádná bolest, žádný otok! Výborně mi to pomáhá!"
+        "text": "Kapsle užívám už asi měsíc a můžu s jistotou říct, že se mi metabolismus rozhodně zrychlil, protože už po jídle necítím tu únavu a malátnost, které mě dříve srážely z nohy na zem. Navíc se mi moc líbí, že produkt funguje komplexně a podporuje nejen žaludek, ale celý trávicí systém."
       },
       {
-        "src": "img/review_depanten_14.png",
+        "src": "img/review_ultraxal_14.png",
         "name": "Adéla Polanková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;DEPANTEN",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
         "rating_text": "Vynikající kvalita!",
         "stars": [
           {
@@ -3950,37 +3920,7 @@
             "type": "empty"
           }
         ],
-        "text": "Použivala jsem Depanten loni. Pomohl mi zbavit se bolesti a získat zpět mobilitu. Už je to tolik času a nikdy nedošlo k recidivě."
-      },
-
-      {
-        "src": "img/review_depanten_15.png",
-        "name": "Petr Houška",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;DEPANTEN",
-        "rating_text": "Vynikající kvalita!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Efektivní prostředek za přijatelnou cenu. Bolest okamžitě odstraní, zánět a otok postupně zmizí. Jsem moc spokojený! 10 z 10!"
+        "text": "Děti mi už objednaly druhé balení tohoto produktu, protože působí tak jemně a delikátně, že během užívání necítím vůbec žádné nepohodlí. Dříve jsem neustále trpěla zácpou a pocitem tíhy v žaludku, ale teď mi střeva začala fungovat správně. Už nemusím bez nutnosti pít silná projímadla, která jen poškozují mikroflóru. Ani jsem nečekala, že běžné rostlinné extrakty mohou poskytnout tak dobrý a dlouhotrvající výsledek."
       }
     ],
     "reviews_desalix": [

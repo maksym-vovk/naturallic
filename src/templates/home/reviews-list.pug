@@ -17,6 +17,7 @@ include ../data/index
         ...REVIEWS.reviews_ausen.splice(0,5),
         ...REVIEWS.reviews_paraxan.splice(0,5),
         ...REVIEWS.reviews_steplex.splice(0,5),
+        ...REVIEWS.reviews_ultraxal.splice(0,5),
         // ...REVIEWS.reviews_visoptic_duo_day.splice(0,5),
         // ...REVIEWS.reviews_visoptic_duo_night.splice(0,5),
         ...REVIEWS.reviews_trovazin.splice(0,5),
@@ -25,9 +26,9 @@ include ../data/index
         ...REVIEWS.reviews_vasos_duo.splice(0,5)
     ];
 
-    if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
-        array.push(...REVIEWS.reviews_depanten.splice(0,5))
-    };
+    //- if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
+    //-     array.push(...REVIEWS.reviews_depanten.splice(0,5))
+    //- };
 
     if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv'
         && LANG.locale !== 'pl' && LANG.locale !== 'bg' && LANG.locale !== 'it') {

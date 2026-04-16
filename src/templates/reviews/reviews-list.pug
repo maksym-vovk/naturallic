@@ -11,6 +11,7 @@ include ../data/index
         ...REVIEWS.reviews_exurol,
         ...REVIEWS.reviews_desalix,
         ...REVIEWS.reviews_urosaf,
+        ...REVIEWS.reviews_ultraxal,
         ...REVIEWS.reviews_guavital,
         ...REVIEWS.reviews_demyxil,
         ...REVIEWS.reviews_vasaxal,
@@ -25,9 +26,9 @@ include ../data/index
         ...REVIEWS.reviews_vasos_duo
     ]
 
-    if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
-        array.push(...REVIEWS.reviews_depanten)
-    };
+    //- if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
+    //-     array.push(...REVIEWS.reviews_depanten)
+    //- };
 
     if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv'
        && LANG.locale !== 'pl' && LANG.locale !== 'bg' && LANG.locale !== 'it') {

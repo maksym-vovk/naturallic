@@ -728,7 +728,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'GUAVITAL+',
       salePrice: '508',
-      newPrice: '1690'
+      newPrice: '1960'
     },
     trovazin: {
       company: 'everad',
@@ -737,7 +737,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Trovazin',
       salePrice: '511',
-      newPrice: '2034'
+      newPrice: '2334'
     },
     desalix: {
       company: 'everad',
@@ -746,7 +746,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Desalix',
       salePrice: '502',
-      newPrice: '1505'
+      newPrice: '1733'
     },
     paraxan: {
       company: 'everad',
@@ -755,7 +755,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Paraxan',
       salePrice: '506',
-      newPrice: '1786'
+      newPrice: '2039'
     },
     exurol: {
       modifier: 'img-space--right',
@@ -765,7 +765,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Exurol',
       salePrice: '507',
-      newPrice: '2190'
+      newPrice: '2509'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -794,7 +794,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Beauty Age Skin',
       salePrice: '523',
-      newPrice: '2736'
+      newPrice: '3068'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -803,7 +803,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '524',
-      newPrice: '3199'
+      newPrice: '3669'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -813,7 +813,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Ausen',
       salePrice: '518',
-      newPrice: '2455'
+      newPrice: '2752'
     },
     vermixin: {
       modifier: 'img-space--right',
@@ -823,7 +823,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Vermixin',
       salePrice: '509',
-      newPrice: '1644'
+      newPrice: '1868'
     },
     viarex: {
       modifier: 'img-space--right',
@@ -833,16 +833,16 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Viarex',
       salePrice: '516',
-      newPrice: '2694'
+      newPrice: '3032'
     },
-    depanten: {
+    ultraxal: {
       company: 'everad',
       campaign_id: '1082469',
       niche: 'Klouby',
       country: 'Czech',
-      productName: 'Depanten',
+      productName: 'Ultraxal',
       salePrice: '514',
-      newPrice: '1465'
+      newPrice: '2623'
     },
     urosaf: {
       modifier: 'img-space--right',
@@ -852,7 +852,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Urosaf',
       salePrice: '522',
-      newPrice: '3550'
+      newPrice: '3880'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -862,7 +862,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Steplex',
       salePrice: '520',
-      newPrice: '3065'
+      newPrice: '3000'
     },
     vasaxal: {
       company: 'everad',
@@ -871,7 +871,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Vasaxal',
       salePrice: '505',
-      newPrice: '1874'
+      newPrice: '2122'
     },
     demyxil: {
       company: 'everad',
@@ -880,7 +880,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Demyxil',
       salePrice: '525',
-      newPrice: '2654'
+      newPrice: '2925'
     },
     delislim: {
       company: 'everad',
@@ -889,7 +889,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Delislim',
       salePrice: '510',
-      newPrice: '2165'
+      newPrice: '2392'
     },
     ophtalax: {
       company: 'everad',
@@ -898,7 +898,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Ophtalax',
       salePrice: '515',
-      newPrice: '1765'
+      newPrice: '1966'
     },
     vasos_duo: {
       company: 'everad',
@@ -907,7 +907,7 @@ const productsInfo = {
       country: 'Czech',
       productName: 'Vasos Duo',
       salePrice: '519',
-      newPrice: '1983'
+      newPrice: '2227'
     }
   },
   ee: {
@@ -3562,7 +3562,7 @@ const Contacts = function () {
               data.append('country', '');
             }).finally(function () {
               $.ajax({
-                url: form.getAttribute('action') || '/ajax.php',
+                url: form.getAttribute('action') || 'ajax.php',
                 type: form.getAttribute('method') || 'POST',
                 data: data,
                 cache: false,
@@ -3755,7 +3755,7 @@ const Contacts = function () {
 //
 //                 function sendContactsMessage() {
 //                     $.ajax({
-//                         url: "/ajax.php",
+//                         url: "ajax.php",
 //                         type: "POST",
 //                         data: data,
 //                         cache: false,
@@ -4928,7 +4928,7 @@ const Sliders = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/yuriipereverziev/Desktop/naturallic/src/js/main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\main.js */"./src/js/main.js");
 
 
 /***/ })
