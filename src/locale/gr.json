@@ -581,6 +581,43 @@
       "btn": "αναλυτικότερες πληροφορίες"
     },
     {
+      "label": "Hit",
+      "srcPhoto": "img/remofix.png",
+      "srcPhotoWebp": "img/remofix.webp",
+      "mobSrcPhoto": "img/remofix-mob.png",
+      "mobSrcPhotoWebp": "img/remofix-mob.webp",
+      "modifier": "img-space--right",
+      "name": "Remofix",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "427 hozzászólás",
+      "desc": "Termék ízületek napi ápolására és a komfortérzet támogatására önmasszázs során.",
+      "link": "remofix.html",
+      "tag": "remofix",
+      "category": "health",
+      "btn": "RÉSZLETEK"
+    },
+    {
       "label": "Χιτ",
       "srcPhoto": "img/urosaf.png",
       "srcPhotoWebp": "img/urosaf.webp",
@@ -1357,6 +1394,40 @@
       "niche": "Κατεύθυνση: Δύναμη"
     },
     {
+      "link": "remofix.html",
+      "tag": "remofix",
+      "srcPhoto": "img/remofix.png",
+      "srcPhotoWebp": "img/remofix.webp",
+      "mobSrcPhoto": "img/remofix-mob.png",
+      "mobSrcPhotoWebp": "img/remofix-mob.webp",
+      "name": "Remofix",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "427 hozzászólás",
+      "niche": "Mozgásszervi rendszer (ízületek)"
+    },
+    {
       "link": "urosaf.html",
       "tag": "urosaf",
       "srcPhoto": "img/urosaf.png",
@@ -1791,6 +1862,21 @@
     "suitability": "2 έτη",
     "keep": "φυλάξτε το σε ξηρό μέρος, μακριά από παιδιά, σε θερμοκρασία που δεν υπερβαίνει τους +25°C."
   },
+  "remofix": {
+    "title": "Remofix",
+    "category": "Az egészségért",
+    "review_count": "427 hozzászólás",
+    "niche": "Mozgásszervi rendszer (ízületek)",
+    "form_factor": "Gél, 15 ml",
+    "short_description": "Termék ízületek napi ápolására és a komfortérzet támogatására önmasszázs során.",
+    "description": "A Remofix az ízületek – a kéz, láb, térd és nyak – funkcionális állapotának támogatására lett kifejlesztve. A növényi kivonatokon és illóolajokon alapuló gél formulája segít csökkenteni a feszültség és nehézség érzetét, amely gyakran jelentkezik hosszan tartó fizikai terhelés vagy életkorral összefüggő változások következtében. A készítmény ideális önmasszázshoz. Bedörzsöléskor az aktív összetevők hozzájárulnak a helyi mikrokeringés javításához, ami segíti a szövetek ellazulását és a természetes mozgékonyság fenntartását. A gél rendszeres használata segít az ízületek mindennapi terheléshez való alkalmazkodásában, könnyedség érzetét biztosítva. A termék lábápolás részeként is használható hallux valgus esetén jelentkező kellemetlenség és duzzanat csökkentésére.",
+    "compound": "Dimethyl sulfone (MSM), Chamomilla Recutita virágkivonat, Arnica Montana virágkivonat, Niacinamid, Boswellia Serrata kivonat, Harpagophytum Procumbens (ördögkarom) gyökérkivonat, hidrolizált kollagén, Mentha Piperita olaj, Eucalyptus Globulus levél/ág olaj, kámfor, mentol, Palmitoyl Tripeptide-38, panthenol, nátrium-hialuronát, allantoin.",
+    "usage": "Vigyen fel kis mennyiségű gélt a problémás területre és annak környékére, majd finom masszírozó mozdulatokkal dörzsölje be, amíg teljesen fel nem szívódik. A kezelést szükség szerint korlátozás nélkül ismételheti.",
+    "contraindications": "Kizárólag külső használatra. Ne alkalmazza sérült bőrön vagy nyílt sebek esetén. Egyéni érzékenység a komponensekre, gyermekkor, terhesség és szoptatás ideje alatt nem ajánlott.",
+    "manufacturer": "Millmax",
+    "suitability": "24 hónap",
+    "keep": "Száraz, gyermekektől elzárt helyen, legfeljebb +25°C-on tárolandó"
+  },
   "urosaf": {
     "title": "Urosaf",
     "category": "Για την υγεία",
@@ -1986,6 +2072,11 @@
       "productName": "Viarex",
       "salePrice": "25",
       "newPrice": "113"
+    },
+    "remofix": {
+      "productName": "Remofix",
+      "salePrice": "10637",
+      "newPrice": "38385"
     },
     "vermixin": {
       "productName": "Vermixin",
@@ -8468,6 +8559,367 @@
             "type": "empty"
           }
         ]
+      }
+    ],
+    "reviews_remofix": [
+      {
+        "src": "img/review_remofix_1.png",
+        "name": "Nagy Bence",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ezt a gélt egy túraklubos kollégám ajánlotta, és elkezdtem minden este önmasszázs közben használni, hogy csökkentsem az izmok és szalagok kellemetlen feszültségét. Az eredmény szinte azonnal érezhető – a mentol és eukaliptusz kellemes hűsítő hatását enyhe melegség váltja fel, és az ízületek mintha „felolvadnának”, sokkal mozgékonyabbá válnak."
+      },
+
+      {
+        "src": "img/review_remofix_2.png",
+        "name": "Kovács Zsófia",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Már évek óta problémám van a bütyökkel a lábamon. Korábban estére annyira bedagadt a lábam, hogy még papucsot sem tudtam felvenni, de ezzel a készítménnyel sokkal könnyebb kezelni ezt a kellemetlenséget. Vékony rétegben viszem fel és finoman bemasszírozom – gyorsan felszívódik, és szinte azonnal csökkenti a feszítő és égő érzést."
+      },
+
+      {
+        "src": "img/review_remofix_3.png",
+        "name": "Tóth Attila",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "IT-ben dolgozom, ezért a legnagyobb problémám a nyakam és a csuklóm, amelyek a nap végére teljesen bemerevednek a folyamatos monitor előtti munka miatt. A Remofix igazi felfedezés számomra – nem ragad, kellemes természetes illata van, és néhány perc masszázs után tényleg segít ellazítani ezeket a feszült területeket."
+      },
+
+      {
+        "src": "img/review_remofix_4.png",
+        "name": "Varga Gábor",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Egykori sportoló vagyok, ezért a régi bokasérüléseim minden időjárás-változásnál jelentkeznek, különösen amikor eső és magas páratartalom kezdődik. Ez az illóolajokon alapuló komplex sokat segít, mert kíméletesen hat, nem okoz irritációt, ugyanakkor a kámfornak köszönhetően mélyen átmelegíti a területet."
+      },
+
+      {
+        "src": "img/review_remofix_5.png",
+        "name": "Kiss Anikó",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ezt a gélt az édesanyámnak vettem, mert folyamatosan fájdalomra panaszkodott az ujjainál, ami miatt még az olyan egyszerű dolgok is nehézzé váltak számára, mint a varrás vagy a főzés. Azt mondja, hogy mióta rendszeresen önmasszázst végez ezzel a készítménnyel, az ujjai „engedelmesebbek” lettek, és eltűnt az a reggeli merevség, amikor szinte lehetetlen volt ökölbe szorítani a kezét. Nagyon hálás vagyok ezért az összetételért, amely kollagént és hasznos kivonatokat is tartalmaz, mert az idősebb emberek számára az ilyen kíméletes ízületi ápolás valódi megváltás."
+      },
+
+      {
+        "src": "img/review_remofix_6.png",
+        "name": " Molnár Balázs",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "A Remofix tökéletesen bevált regeneráló szerként edzések után, mert kiválóan csökkenti az izomfáradtságot, és segít az ízületeknek gyorsabban visszatérni a normál állapotba. Az állaga nagyon könnyű, kis mennyiség is elegendő, ezért ez a kis kiszerelés is sokáig elég, ha csak a problémás területeken használjuk a lazítás érdekében."
+      },
+
+      {
+        "src": "img/review_remofix_7.png",
+        "name": "Farkas Emese",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Sokáig kerestem valami természetes megoldást a könyökeimre, mert a kerti munka után úgy elkezdenek sajogni, hogy még egy csésze teát is nehéz megtartani. Fontos volt számomra, hogy ne tartalmazzon agresszív vegyi anyagokat, és ez a kamillát és boswelliát tartalmazó változat pontosan az lett, amit a mindennapi használatra kerestem. Naponta kétszer dörzsölöm be a gélt, és észrevettem, hogy az ízületek kevésbé reagálnak a terhelésre, a bőr pedig ezeken a területeken sokkal puhább és kellemesebb tapintású lett."
+      },
+
+      {
+        "src": "img/review_remofix_8.png",
+        "name": "Papp Orsolya",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ez a termék segít megőrizni az aktivitásomat: a derekamra és a vállaimra kenem, mielőtt elindulok a boltba vagy találkozom a barátnőimmel. Nagyon kíméletesen hat, nem csípi a bőrt, hanem inkább egyfajta tartás- és komfortérzetet ad, így néhány órára még a „régi fájdalmaimról” is megfeledkezem."
+      },
+
+      {
+        "src": "img/review_remofix_9.png",
+        "name": "Németh Luka",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Építkezésen dolgozom, ezért a vállaim és a kezeim nap mint nap hatalmas terhelésnek vannak kitéve, amitől az ízületeim néha szó szerint „kicsavarodnak” a fáradtságtól. Egy barátom javasolta, hogy próbáljam ki a Remofix bedörzsölését zuhanyzás után a gyulladás és a feszültség csökkentésére, és ez tényleg segít abban, hogy az izmok gyorsabban regenerálódjanak.Most már ez a gél mindig ott van nálam a munkaruháim között a táskámban, mert még nem találtam jobb módot arra, hogy egy nehéz műszak után gyorsan rendbe hozzam magam."
+      },
+
+      {
+        "src": "img/review_remofix_10.png",
+        "name": "Juhász Mónika",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ezt a komplexet a nyak–vállövi terület masszírozására használom, mert az állandó tankönyv fölé hajolás (még mesterképzésen tanulok) miatt a nyakam elképesztően elmerevedik. Tetszik, hogy a készítmény niacinamidot és panthenolt is tartalmaz, mert ezek jól hatnak a bőrre, a mentol pedig olyan frissítő érzést ad, hogy még a tanulás okozta fáradtság is kissé enyhül.Ez sokkal jobb, mint egy hagyományos masszázskrém, mert a lazító hatás jóval mélyebb és tartósabb."
+      },
+
+      {
+        "src": "img/review_remofix_11.png",
+        "name": "Mészáros Zoltán",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Nemrég focizás közben szerencsétlenül kificamítottam a lábamat, és bár nem történt semmi komoly, a duzzanat és az ízületi diszkomfort néhány napig nem hagyott nyugodni. Elkezdtem Remofixet használni, hogy segítsem a szövetek gyorsabb regenerálódását, és meglepett, milyen gyorsan elmúlt ez a kékes elszíneződés és a járás közbeni nehézség. A gél nagyon jól javítja a mikrokeringést."
+      },
+
+      {
+        "src": "img/review_remofix_12.png",
+        "name": "Fekete Tamás",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Jó termék, amely teljes mértékben azt nyújtja, amit a leírás ígér: csökkenti a feszültséget és könnyebbé teszi a mozgást minden kellemetlen érzés nélkül. A kezeimre használom, mert a műhelyben végzett munka után a finommotorika néha romlik az ujjak ízületeinek túlterhelése miatt. A gél másodpercek alatt felszívódik, az illata pedig gyorsan elillan."
       }
     ],
     "reviews_guavital": [

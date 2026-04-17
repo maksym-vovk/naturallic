@@ -1209,6 +1209,15 @@ export const productsInfo = {
             salePrice: '10637',
             newPrice: '47523'
         },
+        remofix: {
+            company: 'everad',
+            campaign_id: '1402524',
+            niche: 'Ízületek',
+            country: 'Hungary',
+            productName: 'Remofix',
+            salePrice: '10637',
+            newPrice: '38385'
+        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
