@@ -144,6 +144,42 @@
     },
     {
       "label": "Meilleure vente",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "ultraxal",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "355 avis",
+      "desc": "Complexe naturel pour activer le métabolisme et favoriser la perte de poids.",
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "category": "beauty",
+      "btn": "En savoir plus"
+    },
+    {
+      "label": "Meilleure vente",
       "srcPhoto": "img/trovazin.png",
       "srcPhotoWebp": "img/trovazin.webp",
       "mobSrcPhoto": "img/trovazin-mob.png",
@@ -546,42 +582,6 @@
     },
     {
       "label": "Meilleure vente",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        }
-      ],
-      "text": "323 avis",
-      "desc": "Gel à base d’extraits naturels pour soulager différents types de douleurs articulaires et musculaires",
-      "link": "depanten.html",
-      "tag": "depanten",
-      "category": "health",
-      "btn": "En savoir plus"
-    },
-    {
-      "label": "Meilleure vente",
       "srcPhoto": "img/urosaf.png",
       "srcPhotoWebp": "img/urosaf.webp",
       "mobSrcPhoto": "img/urosaf-mob.png",
@@ -922,6 +922,40 @@
       "mobSrcPhoto": "img/guavital-mob.png",
       "mobSrcPhotoWebp": "img/guavital-mob.webp",
       "name": "GUAVITAL+",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "355 avis",
+      "niche": "Catégorie: Perte de poids"
+    },
+    {
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/guavultraxalital-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "ultraxal",
       "narrow": true,
       "stars": [
         {
@@ -1323,40 +1357,6 @@
       "niche": "Catégorie: Puissance"
     },
     {
-      "link": "depanten.html",
-      "tag": "depanten",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
-      "narrow": true,
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        }
-      ],
-      "text": "323 avis",
-      "niche": "Catégorie: Articulations"
-    },
-    {
       "link": "urosaf.html",
       "tag": "urosaf",
       "srcPhoto": "img/urosaf.png",
@@ -1611,6 +1611,21 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
+  "ultraxal": {
+    "title": "ultraxal",
+    "category": "Pour la santé",
+    "review_count": "355 avis",
+    "niche": "Perte de poids",
+    "form_factor": "Pot 50 g (20 portions) / poudre",
+    "short_description": "Complexe naturel pour activer le métabolisme et favoriser la perte de poids.",
+    "description": "Poudre minceur dont la composition naturelle inclut : extrait de fruit de goyave, extrait de thé vert et extrait d’orange amère. Ces composants exercent une action complexe et puissante permettant de se débarrasser des kilos superflus durablement.",
+    "compound": "<span class=\"attention\">Extrait de fruit de goyave, extrait de thé vert (5 % caféine), extrait d’orange amère (6 % synéphrine), maltodextrine, conservateur : acide citrique.</span>.",
+    "usage": "Dissoudre une demi-cuillère à café dans 100–200 ml d’eau à température ambiante. Adultes : jusqu’à 2 fois par jour, 30 minutes avant le repas. Durée : 1 mois, renouvelable si nécessaire.",
+    "contraindications": "Déconseillé aux enfants de moins de 18 ans et aux femmes enceintes.",
+    "manufacturer": "Dalmatika (Bulgarie)",
+    "suitability": "2 ans",
+    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
+  },
   "trovazin": {
     "title": "Trovazin",
     "category": "Pour la santé",
@@ -1776,21 +1791,6 @@
     "suitability": "2 ans",
     "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
   },
-  "depanten": {
-    "title": "Depanten",
-    "category": "Pour la santé",
-    "review_count": "323 avis",
-    "niche": "Articulations",
-    "form_factor": "boîte en carton, flacon pompe 25 ml, gel,",
-    "short_description": "Gel à base d’extraits naturels pour soulager différents types de douleurs articulaires et musculaires,",
-    "description": "Formule gélifiée à application locale sur les zones douloureuses. Contient un large spectre d’ingrédients bioactifs : vitamines B3 et B5, allantoïne, acide hyaluronique, glucosamine, chondroïtine, collagène hydrolysé, camphre, menthol, extraits de camomille, consoude, griffe du diable, arnica, ainsi que des huiles essentielles de girofle, eucalyptus, arbre à thé, cannelle. Adoucit et hydrate la peau, stimule les processus métaboliques de l’épiderme avec effet rafraîchissant",
-    "compound": "Aqua, Alcohol Dénaturé, Propylene Glycol, Extrait de Fleur de Chamomilla Recutita, Extrait d'Arnica Montana, Niacinamide, Sulfate de Glucosamine, Extrait de Racine d'Harpagophytum Procumbens, Extrait de Racine de Symphytum Officinale, Collagène Hydrolysé, PEG-40, Huile de Ricin Hydrogénée, Menthol, Huile de Mentha Piperita, Sulfate de Chondroïtine Sodique, Huile de Feuille d'Eucalyptus Globulus, Camphre, Huile de Feuille d'Eugenia Caroyphyllus, Huile de Feuille de Cinnamomum Cassia, Huile de Feuille de Melaleuca Alternifolia, Copolymère d'Ammonium Acryloyldiméthyltaurate /VP, Panthénol, Gomme Xanthane, Phénoxyéthanol, Éthylhexylglycérine, Hyaluronate de Sodium, Allantoïne, EDTА Disodique, Linalool, Limonène, Eugénol",
-    "usage": "Appliquer une petite quantité en mouvements circulaires jusqu’à absorption complète, 2-3 fois par jour. Faire un test de compatibilité cutanée avant utilisation",
-    "contraindications": "Produit destiné uniquement à un usage externe. Éviter le contact avec les yeux et les muqueuses. En cas de contact, rincer abondamment à l’eau ! Ne pas utiliser chez les enfants de moins de 3 ans, les femmes enceintes ou allaitantes, ni sur des plaies ouvertes.",
-    "manufacturer": "Dalmatika (Bulgarie)",
-    "suitability": "2 ans",
-    "keep": "Conserver dans un endroit sec, hors de portée des enfants, à une température ne dépassant pas +25°C"
-  },
   "urosaf": {
     "title": "Urosaf",
     "category": "Pour la santé",
@@ -1950,6 +1950,11 @@
       "salePrice": "24",
       "newPrice": "90"
     },
+    "ultraxal": {
+      "productName": "ultraxal",
+      "salePrice": "24",
+      "newPrice": "90"
+    },
     "trovazin": {
       "productName": "Trovazin",
       "salePrice": "30",
@@ -2004,11 +2009,6 @@
       "productName": "Viarex",
       "salePrice": "25",
       "newPrice": "76"
-    },
-    "depanten": {
-      "productName": "Depanten",
-      "salePrice": "26",
-      "newPrice": "95"
     },
     "urosaf": {
       "productName": "Urosaf",
@@ -3491,443 +3491,6 @@
         "rating_text": "Excellente qualité!",
         "name": "Rolande Wauters",
         "text": "Je vous remercie en mon nom et au nom de mon mari. Merci pour ce merveilleux produit, la livraison rapide et les conseils. Cela a aidé mon mari! Il est enfin de nouveau en bonne santé!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      }
-    ],
-    "reviews_depanten": [
-      {
-        "src": "img/review_depanten_1.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Michaela De Witte",
-        "text": "J'ai commandé le gel Depanten pour ma mère. Elle l'apprécie beaucoup. Il soulage rapidement les douleurs articulaires, elle bouge davantage. Elle refuse d'utiliser d'autres produits.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_2.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Robin Van den Broeck",
-        "text": "Il l'a aidée à se remettre d'une blessure au genou. Il a soulagé la douleur, le gonflement et l'inflammation. Il est également efficace contre les douleurs musculaires.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_3.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Stefaan Lemaire",
-        "text": "Il agit rapidement, dès la première application, on ressent déjà un soulagement. Chaque jour, ça allait mieux. Je suis satisfait du produit et son prix est excellent!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_4.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Veronique Maertens",
-        "text": "Agréable après application, ne pique pas et ne brûle pas, juste une agréable sensation de fraîcheur. Mes articulations ne me font plus mal, mais je continue à l'utiliser.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_5.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Laila Verstraete",
-        "text": "L'inflammation de l'articulation a disparu en quelques jours. Je l'ai toujours à portée de main, ce n'est pas la première fois que je le commande.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_6.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Pénélope De Cock",
-        "text": "Il est très efficace contre les blessures sportives et les problèmes articulaires et osseux liés à l'âge. Il agit rapidement et ne provoque aucune sensation désagréable.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_7.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Lucas Van Hove",
-        "text": "J'ai commandé Depanten il y a quelques semaines. Je suis satisfait du produit. La livraison a été rapide et ils ont répondu à toutes mes questions par téléphone. Merci!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_8.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Rebecca Vandermeulen",
-        "text": "Ma mère souffrait d'une inflammation du coude et ne pouvait plus bouger sa main, Depanten l'a aidée ! L'inflammation et la douleur ont disparu, et après le cours, elle ne s'est plus plainte de douleurs articulaires.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_9.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Henri Van Acker",
-        "text": "En tant qu'ancien sportif, j'ai des problèmes articulaires. Seul Depanten me soulage. Grâce à lui, je peux vivre sans douleur!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_10.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Rachel Fontaine",
-        "text": "Il m'a aidé immédiatement ! Avant cela, j'avais essayé tellement de produits, mais aucun ne parvenait à soulager complètement la douleur. Depanten est le plus efficace de tous ceux que j'ai utilisés.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_11.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Romain Claes",
-        "text": "C'est un bon gel, il m'aide à restaurer mon articulation et à soulager la douleur dans mon genou. Le craquement et la rougeur ont disparu. Il est utilisé avec parcimonie.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_12.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Katrien Verdonck",
-        "text": "Depanten est plus efficace que les comprimés analgésiques, et en plus, il aide à restaurer l'articulation. Maintenant, je n'utilise plus que ce gel, et je sens le résultat!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_13.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Hélène De Ridder",
-        "text": "J'ai testé et je suis convaincue : Depanten est le remède le plus rapide et le plus efficace pour les articulations douloureuses. Plus d'inflammation, plus de douleur, plus de gonflement ! Ça aide vraiment!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_14.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Amanda De Smet",
-        "text": "J'ai utilisé Depanten l'année dernière. Il m'a aidé à me débarrasser de la douleur et à retrouver ma mobilité. Depuis, je n'ai jamais eu de rechute.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_15.png",
-        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;DEPANTEN",
-        "rating_text": "Excellente qualité!",
-        "name": "Harry Van den Bossche",
-        "text": "Un remède efficace à un prix abordable. Il soulage immédiatement la douleur, puis l'inflammation et le gonflement disparaissent progressivement. Je suis entièrement satisfait ! 10/10!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8907,6 +8470,443 @@
       }
     ],
     "reviews_guavital": [
+      {
+        "src": "img/review_guavital_1.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Seline De Ryck",
+        "text": "Grâce à Guavital+, j'ai perdu 12 kg! C'est mon meilleur résultat depuis des années. Ça a été simple et facile. Mon corps est devenu mince et tendu!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_2.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Tine Van Acker",
+        "text": "Guavital+ m'a aidée à me débarrasser de cette sensation constante de faim. Grâce à ce produit, j'ai appris à contrôler mon appétit. J'ai perdu 7 kg jusqu'à présent, je continue le programme.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_3.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Chloé Vanderveken",
+        "text": "Je ne sais pas comment, mais ça marche! Les kilos fondent et mon corps se raffermit. Tout se passe de manière très simple et sans stress. J'adore!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_4.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Valérie De Muer",
+        "text": "En trois mois d'entraînement et de régime, je n'ai perdu que 5 kg, mais avec Guavital+, j'en ai perdu 11! Après la fin du cours, mon poids se maintient et ne revient pas!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_5.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Jenna Vandenbroucke",
+        "text": "Impressionnant! Donne des résultats rapides sur la balance. Je n'ai constaté aucun effet secondaire. 10/10!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_6.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Platon Claes",
+        "text": "Ma femme a pris Guavital+, elle a maigri et est devenue très belle. Elle a l'air d'il y a 20 ans, mince, heureuse et très belle!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_7.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Gloria Lefebvre",
+        "text": "J'adore Guavital+. C'est le meilleur produit pour perdre du poids. Il est efficace, sans effets secondaires, et les kilos ne reviennent pas.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_8.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Déborah Maes",
+        "text": "Je n'arrive pas à suivre un régime, je craque tout le temps. Seul Guavital+ m'a aidé à me débarrasser de mes kilos en trop. Si vous avez du mal à suivre un régime, Guavital+ peut vous aider!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_9.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Louis Van Loock",
+        "text": "Ma femme et moi avons pris Guavital+. Nous avons perdu du poids et avons plus d'énergie. C'est facile et pratique à prendre. Nous sommes satisfaits!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_10.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Dominique De Schrijver",
+        "text": "Un cocktail délicieux et efficace pour l'organisme. J'ai perdu 11 kg sans stress ni problèmes! Je n'ai pas de vergetures, mon corps est tonique et je suis en pleine forme.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_11.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Lucie Van Hove",
+        "text": "À cause de problèmes endocriniens, j'ai vécu avec un excès de poids pendant les 12 dernières années. J'en avais assez d'être comme ça! J'ai choisi Guavital+ pour maigrir et le résultat est excellent! J'ai perdu 16 kg!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_12.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Bertha Van Quaethem",
+        "text": "J'ai pris Guavital+ par curiosité, mais le résultat m'a surprise ! J'ai commencé à perdre du poids dès la première semaine de prise. Je n'ai ressenti aucune gêne. C'est délicieux, facile et efficace!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_13.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Lola Vanderstappen",
+        "text": "Je connais Guavital+ depuis longtemps. J'ai moi-même maigri grâce à lui, j'ai retrouvé confiance en moi et je le recommande à tous mes proches. Tout le monde est satisfait! Sur 5 personnes, aucune n'a laissé de commentaire négatif.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_14.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Agnès De Backer",
+        "text": "J'ai lu un article scientifique sur Guavital+ et quand je l'ai trouvé, j'ai tout de suite décidé de l'essayer. Ce produit est génial! Les kilos fondent, le corps se raffermit, on a moins faim! C'est parfait!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+      {
+        "src": "img/review_guavital_15.png",
+        "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",
+        "rating_text": "Excellente qualité!",
+        "name": "Marthe Van Houtte",
+        "text": "Il réduit la sensation de faim et procure une sensation de satiété! Les problèmes de digestion, tout comme les kilos en trop, ont disparu. Je me sens légère et belle. Merci, Guavital+!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      }
+    ],
+    "reviews_ultraxal": [
       {
         "src": "img/review_guavital_1.png",
         "desc": "<span class=\"review__mark\">a exprimé</span> son avis sur&nbsp;GUAVITAL+",

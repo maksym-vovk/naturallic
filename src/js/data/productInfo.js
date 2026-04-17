@@ -114,15 +114,6 @@ export const productsInfo = {
             salePrice: '25',
             newPrice: '76'
         },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082464',
-            niche: 'Articulations',
-            country: 'Belgium',
-            productName: 'Depanten',
-            salePrice: '26',
-            newPrice: '95'
-        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -303,15 +294,6 @@ export const productsInfo = {
             productName: 'Viarex',
             salePrice: '44',
             newPrice: '220'
-        },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082459',
-            niche: 'Стави',
-            country: 'Bulgaria',
-            productName: 'Depanten',
-            salePrice: '44',
-            newPrice: '140'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -865,15 +847,6 @@ export const productsInfo = {
             salePrice: '25',
             newPrice: '113'
         },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082464',
-            niche: 'Αρθρώσεις',
-            country: 'Greece',
-            productName: 'Depanten',
-            salePrice: '24',
-            newPrice: '120'
-        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -1054,15 +1027,6 @@ export const productsInfo = {
             productName: 'Viarex',
             salePrice: '25',
             newPrice: '125'
-        },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1466538',
-            niche: 'Zglobovi',
-            country: 'Croatia',
-            productName: 'Depanten',
-            salePrice: '24',
-            newPrice: '77'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -1245,15 +1209,6 @@ export const productsInfo = {
             salePrice: '10637',
             newPrice: '47523'
         },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1402524',
-            niche: 'Ízületek',
-            country: 'Hungary',
-            productName: 'Depanten',
-            salePrice: '11489',
-            newPrice: '38385'
-        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -1434,15 +1389,6 @@ export const productsInfo = {
             productName: 'Viarex',
             salePrice: '30',
             newPrice: '149'
-        },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082471',
-            niche: 'Articolazioni',
-            country: 'Italy',
-            productName: 'Depanten',
-            salePrice: '27',
-            newPrice: '79'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -1987,15 +1933,6 @@ export const productsInfo = {
             salePrice: '94',
             newPrice: '466'
         },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1441333',
-            niche: 'Stawy',
-            country: 'Poland',
-            productName: 'Depanten',
-            salePrice: '91',
-            newPrice: '296'
-        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -2176,15 +2113,6 @@ export const productsInfo = {
             productName: 'Viarex',
             salePrice: '30',
             newPrice: '149'
-        },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082463',
-            niche: 'Articulações',
-            country: 'Portugal',
-            productName: 'Depanten',
-            salePrice: '27',
-            newPrice: '79'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -2367,15 +2295,6 @@ export const productsInfo = {
             salePrice: '150',
             newPrice: '609'
         },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1402523',
-            niche: 'Articulații',
-            country: 'Romania',
-            productName: 'Depanten',
-            salePrice: '132',
-            newPrice: '619'
-        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -2557,15 +2476,6 @@ export const productsInfo = {
             salePrice: '25',
             newPrice: '125'
         },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082464',
-            niche: 'Kĺby',
-            country: 'Slovakia',
-            productName: 'Depanten',
-            salePrice: '24',
-            newPrice: '77'
-        },
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
@@ -2746,15 +2656,6 @@ export const productsInfo = {
             productName: 'Viarex',
             salePrice: '25',
             newPrice: '125'
-        },
-        depanten: {
-            company: 'everad',
-            campaign_id: '1082464',
-            niche: 'Spoji',
-            country: 'Slovenia',
-            productName: 'Depanten',
-            salePrice: '24',
-            newPrice: '77'
         },
         urosaf: {
             modifier: 'img-space--right',

@@ -145,6 +145,42 @@
     },
     {
       "label": "Hit",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "Ultraxal",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "458 recenzí",
+      "desc": "Bylinný komplex pro udržení trávicí rovnováhy a každodenní pohodlí",
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "category": "health",
+      "btn": "Objednat"
+    },
+    {
+      "label": "Hit",
       "srcPhoto": "img/trovazin.png",
       "srcPhotoWebp": "img/trovazin.webp",
       "mobSrcPhoto": "img/trovazin-mob.png",
@@ -547,42 +583,6 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        }
-      ],
-      "text": "323 recensioni",
-      "desc": "Gel con estratti naturali per eliminare diversi tipi di dolori articolari e muscolari.",
-      "link": "depanten.html",
-      "tag": "depanten",
-      "category": "health",
-      "btn": "IN DETTAGLIO"
-    },
-    {
-      "label": "Hit",
       "srcPhoto": "img/urosaf.png",
       "srcPhotoWebp": "img/urosaf.webp",
       "mobSrcPhoto": "img/urosaf-mob.png",
@@ -950,6 +950,40 @@
       ],
       "text": "355 recensioni",
       "niche": "Area interessata: Dimagrimento"
+    },
+    {
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "Ultraxal",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "458 recenzí",
+      "niche": "Kategorie: Trávicí systém (GI)"
     },
     {
       "link": "trovazin.html",
@@ -1326,40 +1360,6 @@
       "niche": "Area interessata: Potenza"
     },
     {
-      "link": "depanten.html",
-      "tag": "depanten",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
-      "narrow": true,
-      "stars": [
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        },
-        {
-          "src": "img/svg/star.svg",
-          "type": "full"
-        }
-      ],
-      "text": "323 recensioni",
-      "niche": "Area interessata: Articolazioni"
-    },
-    {
       "link": "urosaf.html",
       "tag": "urosaf",
       "srcPhoto": "img/urosaf.png",
@@ -1614,6 +1614,21 @@
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
   },
+  "ultraxal": {
+    "title": "Ultraxal",
+    "category": "Pro zdraví",
+    "review_count": "458 recenzí",
+    "niche": "Trávicí systém (GI)",
+    "form_factor": "Kapsle, 20 kusů",
+    "short_description": "Bylinný komplex pro udržení trávicí rovnováhy a každodenní pohodlí",
+    "description": "ULTRAXAL je určen jako doplněk ke každodenní stravě pro podporu normální činnosti trávení. Díky kombinaci rostlinných extraktů a enzymů produkt podporuje přirozené procesy čištění těla a pomáhá udržovat rovnováhu střevní mikroflóry. Složení je zaměřeno na zlepšení peristaltiky a usnadnění vstřebávání živin, což umožňuje vyhnout se pocitu tíhy po jídle. Při pravidelném užívání komplex pomáhá udržovat funkční stav sliznic gastrointestinálního traktu a pomáhá snižovat nepříjemné pocity způsobené nadýmáním nebo změnou stravy.",
+    "compound": "Extrakt z kořene pampelišky, extrakt z listů artyčoku, extrakt ze semen ostropestřce mariánského (80 % silymarin), extrakt z dýňových semínek, papain 100 000 U/g, stearát hořečnatý, mikrokrystalická celulóza. Obal kapsle: želatina/HPMC.",
+    "usage": "Doporučuje se užívat 1–2 kapsle denně s jídlem. Nepřekračujte doporučenou denní dávku.",
+    "contraindications": "Individuální citlivost na složky. Uchovávejte mimo dosah dětí. U těhotných a kojících žen je před použitím doporučena konzultace s odborníkem.",
+    "manufacturer": "Millmax",
+    "suitability": "24 měsíců",
+    "keep": "Skladujte na suchém místě mimo dosah dětí při teplotě nepřesahující +25 °C."
+  },
   "trovazin": {
     "title": "Trovazin",
     "category": "Per la salute",
@@ -1775,21 +1790,6 @@
     "compound": "Estratto di radice di Maca (Lepidium meyenii 4:1) - 60 mg, Estratto di frutti di Mirtillo rosso (Vaccinium macrocarpon, 35% proantocianidine) - 53 mg, Estratto di frutti di Saw Palmetto (Serenoa repens 5:1) - 50 mg, Estratto di radice di Ortica (Urtica dioica, 1% beta-sitosterolo) - 40 mg, Zinco (Citrato di Zinco Triidrato) - 5 mg.",
     "usage": "1 capsula 1-2 volte al giorno durante i pasti. La durata del corso è di 45 giorni. Se necessario, il corso può essere ripetuto.\n La dose giornaliera raccomandata è di 2 capsule.",
     "contraindications": "Intolleranza individuale a uno qualsiasi degli ingredienti (vietato ai minori di 18 anni). Si consiglia di consultare un medico prima dell'assunzione. Non è un farmaco. Non superare la dose giornaliera raccomandata. Tenere lontano dalla portata dei bambini. Questo integratore alimentare non sostituisce una dieta variata.",
-    "manufacturer": "Dalmatika (Bulgaria)",
-    "suitability": "2 anni",
-    "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
-  },
-  "depanten": {
-    "title": "Depanten",
-    "category": "Per la salute",
-    "review_count": "323 recensioni",
-    "niche": "Articolazioni",
-    "form_factor": "gel in flacone, 25 ml.",
-    "short_description": "Gel con estratti naturali per eliminare diversi tipi di dolori articolari e muscolari.",
-    "description": "Formula in gel per applicazione topica sulle aree interessate. Ammorbidisce e idrata la pelle, stimolando i processi metabolici dell'epidermide con un effetto rinfrescante.",
-    "compound": "Aqua, Alcohol Denat, Glicole propilenico, Estratto di fiori di Chamomilla Recutita, Estratto di Arnica Montana, Niacinamide, Glucosamina solfato, Estratto di radice di Harpagophytum Procumbens, Estratto di radice di Symphytum Officinale, Collagene idrolizzato, PEG-40, Olio di ricino idrogenato, Мentol, Olio di menta piperita, Sodio condroitina solfato, olio di foglie di eucalipto globulo, canfora, olio di foglie di Eugenia Caroyphyllus, olio di foglie di Cinnamomum Cassia, olio di foglie di melaleuca Alternifolia, copolimero di ammonio Acryloyldimethyltaurate /VP, pantenolo, gomma di xantano, fenossietanolo, etilesilglicerina, ialuronato di sodio, allantoina, disodio EDTА, linalolo, Limonene, Еugenol.",
-    "usage": "applicare una piccola quantità del prodotto con movimenti circolari fino a completo assorbimento 2-3 volte al giorno. Prima di applicare fare un test di sensibilità cutanea.",
-    "contraindications": "Solo per uso locale. Evitare il contatto con gli occhi e le mucose. In caso di contatto, sciacquare accuratamente con acqua! Non utilizzare su bambini di età inferiore ai tre anni, donne in gravidanza né in allattamento, o direttamente su ferite aperte.",
     "manufacturer": "Dalmatika (Bulgaria)",
     "suitability": "2 anni",
     "keep": "conservare in un luogo asciutto, fuori dalla portata dei bambini, a una temperatura non superiore a +25°C."
@@ -1956,6 +1956,11 @@
       "salePrice": "28",
       "newPrice": "120"
     },
+    "ultraxal": {
+      "productName": "Ultraxal",
+      "salePrice": "514",
+      "newPrice": "2623"
+    },
     "trovazin": {
       "productName": "Trovazin",
       "salePrice": "29",
@@ -2010,11 +2015,6 @@
       "productName": "Viarex",
       "salePrice": "30",
       "newPrice": "149"
-    },
-    "depanten": {
-      "productName": "Depanten",
-      "salePrice": "27",
-      "newPrice": "79"
     },
     "urosaf": {
       "productName": "Urosaf",
@@ -3531,456 +3531,6 @@
           }
         ],
         "text": "Esprimo gratitudine da parte mia e di mio marito. Grazie per un rimedio così meraviglioso, consegna rapida e anche consulenza. Ha aiutato a mio marito! Finalmente è di nuovo in buona salute!"
-      }
-    ],
-    "reviews_depanten": [
-      {
-        "src": "img/review_depanten_1.png",
-        "name": "Michela Di Maio",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Ho ordinato il gel Depanten per mia madre. Le piace molto. Allevia rapidamente il dolore articolare. Ha iniziato a muoversi di più. Rifiuta altri prodotti."
-      },
-
-      {
-        "src": "img/review_depanten_2.png",
-        "name": "Roberto Albertini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Mi ha aiutato a riprendersi da un infortunio al ginocchio. Allevia il dolore, il gonfiore e l'infiammazione. Anche col dolore muscolare aiuta bene."
-      },
-
-      {
-        "src": "img/review_depanten_3.png",
-        "name": "Stefano Olivieri",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Agisce rapidamente, dopo la prima applicazione ti senti già meglio. Miglioro ogni giorno. Sono soddisfatto del prodotto e pure il prezzo è ottimo!"
-      },
-
-      {
-        "src": "img/review_depanten_4.png",
-        "name": "Milena Grasso",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Sensazioni piacevoli dopo l'applicazione, non cuoce e non brucia, solo un piacevole freddo. Le articolazioni hanno smesso di far male, ma continuo a usarlo."
-      },
-
-      {
-        "src": "img/review_depanten_5.png",
-        "name": "Lisa Petrucci",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "L'infiammazione dell'articolazione è passata in pochi giorni. Lo tengo sempre a portata di mano, non è la prima volta che ordino."
-      },
-
-      {
-        "src": "img/review_depanten_6.png",
-        "name": "Penelope Ferragni",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Aiuta bene sia con infortuni sportivi che con problemi legati all'età con articolazioni e ossa. Agisce rapidamente, non provoca sensazioni spiacevoli."
-      },
-
-      {
-        "src": "img/review_depanten_7.png",
-        "name": "Luca Bersani",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Ho ordinato Depanten poche settimane fa. Sono rimasto contento del prodotto. Hanno consegnato rapidamente e hanno anche risposto a tutte le domande per telefono. Grazie!"
-      },
-
-      {
-        "src": "img/review_depanten_8.png",
-        "name": "Robbie Cretta",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "La mamma aveva un'infiammazione dell'articolazione del gomito, non riusciva a muovere la mano, l'ha aiutato Depanten! L'infiammazione e il dolore sono scomparsi, dopo un ciclo di applicazione ha smesso di lamentarsi del dolore alle articolazioni."
-      },
-
-      {
-        "src": "img/review_depanten_9.png",
-        "name": "Enrico Camarro",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Come un ex atleta ho problemi delle articolazioni. Mi salva solo Depanten. Posso vivere con senza dolore!"
-      },
-
-      {
-        "src": "img/review_depanten_10.png",
-        "name": "Rachele Visconti",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Mi ha aiutato subito! Prima, ho provato così tanti rimedi ma non riuscivo a liberarmi del dolore completamente. Depanten è il più efficace di tutto ciò che ho usato."
-      },
-
-      {
-        "src": "img/review_depanten_11.png",
-        "name": "Ramina Montana",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Il gel è ottimo, mi aiuta a ripristinare l'articolazione e ad alleviare il dolore al ginocchio. Lo scricchiolio e il rossore sono scomparsi. Viene usato con parsimonia."
-      },
-
-      {
-        "src": "img/review_depanten_12.png",
-        "name": "Chiara Maneggio",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Depanten agisce meglio delle pillole antidolorifiche e ripristina anche l'articolazione. Ora uso solo questo gel, sento il risultato!"
-      },
-
-      {
-        "src": "img/review_depanten_13.png",
-        "name": "Elena Pastarella",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Ho controllato e sono convinto: Depanten è il più rapido ed efficace aiuto per le articolazioni doloranti. Nessuna infiammazione, nessun dolore, nessun gonfiore! Ottimo aiuto!"
-      },
-      {
-        "src": "img/review_depanten_14.png",
-        "name": "Amanda Casiglia",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Ho usato Depanten l'anno scorso. Ha aiutato a sbarazzarsi del dolore e riguadagnare la mobilità. È passato tanto tempo, non c'è mai stata una ricaduta."
-      },
-
-      {
-        "src": "img/review_depanten_15.png",
-        "name": "Ermano Lacchini",
-        "desc": "<span class=\"review__mark\">ha espresso la sua opinione</span> in merito a&nbsp;DEPANTEN",
-        "rating_text": "Ottima qualità!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ],
-        "text": "Un prodotto efficace ad un prezzo accessibile. Rimuove il dolore immediatamente, poi gradualmente scompaiano l'infiammazione e il gonfiore. Soddisfatto completamente! 10 di 10!"
       }
     ],
     "reviews_desalix": [
@@ -9660,6 +9210,396 @@
           }
         ],
         "text": "Riduce la fame e dona sazietà! I problemi digestivi insieme ai chili in più sono spariti. Mi sento leggera e bella. Grazie Guavital + !"
+      }
+    ],
+    "reviews_ultraxal": [
+      {
+        "src": "img/review_ultraxal_1.png",
+        "name": "Karolína Pinkavová",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Dříve jsem po každém jídle měla břicho jako buben, bylo těžké dýchat... Před měsícem jsem začala užívat Ultraxal a opravdu se cítím lépe. Už nemám ten pocit, že se uvnitř všechno zastavilo. Trávení teď funguje přesně, jako hodiny."
+      },
+
+      {
+        "src": "img/review_ultraxal_2.png",
+        "name": "Maxim Šlapák",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Užíval jsem tyto kapsle na podporu trávicího systému po silných pilulkách, jelikož jsem měl potíže se žaludkem a neustálou těžkost. Kapsle působily velmi jemně. Během týdne nepohodlí zmizelo, můžu zase normálně jíst a nemyslet na následky."
+      },
+
+      {
+        "src": "img/review_ultraxal_3.png",
+        "name": "Vlastislav Řeháček",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Líbilo se mi, že obsahuje artyčok a ostropestřec mariánský. Jsou to nejlepší komponenty pro játra. Beru 2 kapsle denně. Ráno mi zmizela hořkost v ústech a celkově se cítím mnohem veseleji. Dobrý evropský produkt."
+      },
+
+      {
+        "src": "img/review_ultraxal_4.png",
+        "name": "Eva Vomáčková",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Abych byla upřímná, objednávala jsem s jistou skepsí, protože teď je na internetu spousta věcí inzerovaných, ale balíček dorazil velmi rychle a samotné balení vypadá kvalitně, což mě trochu uklidnilo. Začala jsem ho užívat striktně podle návodu s jídlem a nejvíc mě překvapilo, že zmizelo neustálé pálení žáhy, které mě trápilo měsíce po jakémkoli pikantním nebo pálivém jídle. Nyní trávení funguje stabilně, nejsou žádné ostré křeče."
+      },
+
+      {
+        "src": "img/review_ultraxal_5.png",
+        "name": "Miriam Hrachová",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Dávám si velký pozor na to, co užívám, takže jsem si před koupí prostudovala složení Ultraxalu a přesvědčila mě hlavně přítomnost dýňových a artyčokových semínek. Jsou to nejlepší přírodní komponenty pro mírnou detoxikaci. Účinek se nedostaví okamžitě, ale čtvrtý nebo pátý den prostě začnete chápat, že v břiše vládne naprosté ticho a klid bez ohledu na to, co jste snědli k obědu."
+      },
+
+      {
+        "src": "img/review_ultraxal_6.png",
+        "name": "Nikola Komínková",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "V mém věku jsem už nasbíral spoustu problémů s gastrointestinálním traktem, takže vybrat doplněk stravy, který by nedráždil tak citlivou sliznici, je opravdový úkol. Tyto kapsle jsou podle mě naprosto perfektní: snadno se polykají, nezanechávají žádnou chemickou pachuť a co je nejdůležitější - po nich není ten hrozný pocit tíhy."
+      },
+
+      {
+        "src": "img/review_ultraxal_7.png",
+        "name": "Dušan Hrabánek",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Dříve jsem si musel před každou velkou rodinnou hostinou kupovat enzymy v lékárně, protože jinak bych prostě kvůli bolestem a pocitu plnosti v žaludku nemohl normálně přežít svátky. Kamarádka mi poradila, abych vyzkoušel tento bylinný komplex, a opravdu se ukázalo, že je mnohem účinnější a hlavně bezpečnější. Teď, i když si dopřeji kousek masa nebo dezert navíc, moje trávení to bez problémů zvládne."
+      },
+
+      {
+        "src": "img/review_ultraxal_8.png",
+        "name": "Cecílie Veselská",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Objednala jsem si Ultraxal jen tak na podporu svého těla a byla jsem překvapená tím, jak rychle zmírnil všechny příznaky syndromu dráždivého tračníku. Pro aktivní lidi, jako jsem já, kteří nemají čas na běžná domácí jídla, je to opravdu skvělá podpora trávení, aby cítili pohodu."
+      },
+
+      {
+        "src": "img/review_ultraxal_9.png",
+        "name": "Vladislav Pařík",
+        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Tento produkt jsem užíval spíše preventivně, protože mám chronické problémy se žlučníkem a lékař mi doporučil pravidelně absolvovat kúry bylinných choleretik. Chci říct, že složení je překvapivě dobře promyšlené: díky artyčoku a pampelišce začala žluč mnohem lépe odtékat a nepohodlí v pravém podžebří, které mě pravidelně obtěžovalo, úplně zmizelo."
+      },
+
+      {
+        "src": "img/review_ultraxal_10.png",
+        "name": "Marika Ficová",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Abych byla upřímná, dlouho jsem byla skeptická ohledně utrácení peněz za doplňky stravy z internetu, protože v lékárnách se prodává spousta prostředků, ale po několika neúspěšných pokusech jsem se odvážila riskovat a koupila si tento produkt. A víte, opravdu funguje lépe než drahé inzerované pilulky."
+      },
+
+      {
+        "src": "img/review_ultraxal_11.png",
+        "name": "Žaneta Skálová",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Dodržuji veganskou stravu a jím hodně čerstvé zeleniny a luštěnin. Můj žaludek si proto někdy prostě nedokáže poradit s tak obrovským množstvím vlákniny, což vede k nadměrné plynatosti. Našla jsem si informace o tomto komplexu a rozhodla se ho začit užívat. Ukázalo se, že to bylo nejlepší rozhodnutí v poslední době. Teď se jídlo tráví mnohem snadněji."
+      },
+
+      {
+        "src": "img/review_ultraxal_12.png",
+        "name": "Evžénie Horynová",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Kapsle užívám už asi měsíc a můžu s jistotou říct, že se mi metabolismus rozhodně zrychlil, protože už po jídle necítím tu únavu a malátnost, které mě dříve srážely z nohy na zem. Navíc se mi moc líbí, že produkt funguje komplexně a podporuje nejen žaludek, ale celý trávicí systém."
+      },
+      {
+        "src": "img/review_ultraxal_14.png",
+        "name": "Adéla Polanková",
+        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
+        "rating_text": "Vynikající kvalita!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Děti mi už objednaly druhé balení tohoto produktu, protože působí tak jemně a delikátně, že během užívání necítím vůbec žádné nepohodlí. Dříve jsem neustále trpěla zácpou a pocitem tíhy v žaludku, ale teď mi střeva začala fungovat správně. Už nemusím bez nutnosti pít silná projímadla, která jen poškozují mikroflóru. Ani jsem nečekala, že běžné rostlinné extrakty mohou poskytnout tak dobrý a dlouhotrvající výsledek."
       }
     ],
     "reviews_ophtalax": [
