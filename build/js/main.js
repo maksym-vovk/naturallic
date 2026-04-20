@@ -529,7 +529,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'GUAVITAL+',
       salePrice: '43',
-      newPrice: '190'
+      newPrice: '96'
     },
     trovazin: {
       company: 'everad',
@@ -538,7 +538,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Trovazin',
       salePrice: '43',
-      newPrice: '149'
+      newPrice: '76'
     },
     desalix: {
       company: 'everad',
@@ -547,7 +547,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Desalix',
       salePrice: '44',
-      newPrice: '159'
+      newPrice: '79'
     },
     paraxan: {
       company: 'everad',
@@ -556,7 +556,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Paraxan',
       salePrice: '45',
-      newPrice: '137'
+      newPrice: '70'
     },
     exurol: {
       modifier: 'img-space--right',
@@ -566,7 +566,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Exurol',
       salePrice: '45',
-      newPrice: '179'
+      newPrice: '92'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -595,7 +595,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Beauty Age Skin',
       salePrice: '45',
-      newPrice: '280'
+      newPrice: '129'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -604,7 +604,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '43',
-      newPrice: '239'
+      newPrice: '138'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -614,7 +614,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Ausen',
       salePrice: '42',
-      newPrice: '217'
+      newPrice: '111'
     },
     vermixin: {
       modifier: 'img-space--right',
@@ -634,7 +634,17 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Viarex',
       salePrice: '44',
-      newPrice: '220'
+      newPrice: '110'
+    },
+    femixal: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082459',
+      niche: 'Пикочната система',
+      country: 'Bulgaria',
+      productName: 'Viarex',
+      salePrice: '44',
+      newPrice: '92'
     },
     urosaf: {
       modifier: 'img-space--right',
@@ -644,7 +654,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Urosaf',
       salePrice: '43',
-      newPrice: '250'
+      newPrice: '129'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -654,7 +664,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Steplex',
       salePrice: '43',
-      newPrice: '121'
+      newPrice: '61'
     },
     vasaxal: {
       company: 'everad',
@@ -663,7 +673,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Vasaxal',
       salePrice: '42',
-      newPrice: '123'
+      newPrice: '62'
     },
     demyxil: {
       company: 'everad',
@@ -672,7 +682,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Demyxil',
       salePrice: '45',
-      newPrice: '164'
+      newPrice: '85'
     },
     delislim: {
       company: 'everad',
@@ -681,7 +691,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Delislim',
       salePrice: '45',
-      newPrice: '150'
+      newPrice: '77'
     },
     ophtalax: {
       company: 'everad',
@@ -690,7 +700,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Ophtalax',
       salePrice: '45',
-      newPrice: '205'
+      newPrice: '105'
     },
     vasos_duo: {
       company: 'everad',
@@ -699,7 +709,7 @@ const productsInfo = {
       country: 'Bulgaria',
       productName: 'Vasos Duo',
       salePrice: '42',
-      newPrice: '130'
+      newPrice: '66'
     }
   },
   cz: {

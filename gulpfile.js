@@ -45,9 +45,9 @@ const withLiveReload = (...tasks) => {
         pipeline.push(revAll);
     }
 
-    if (config.reload) {
-        pipeline.push(reloadBrowser);
-    }
+    // if (config.reload) {
+    //     pipeline.push(reloadBrowser);
+    // }
 
     return series(...pipeline);
 };

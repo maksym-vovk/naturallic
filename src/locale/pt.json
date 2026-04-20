@@ -581,6 +581,43 @@
       "btn": "MAIS DETALHES"
     },
     {
+      "label": "Хит",
+      "srcPhoto": "img/femixal.png",
+      "srcPhotoWebp": "img/femixal.webp",
+      "mobSrcPhoto": "img/femixal-mob.png",
+      "mobSrcPhotoWebp": "img/femixal-mob.webp",
+      "modifier": "img-space--right",
+      "name": "Femixal",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "382 отзива",
+      "desc": "Пикочна система",
+      "link": "femixal.html",
+      "tag": "femixal",
+      "category": "health",
+      "btn": "ПОДРОБНО"
+    },
+    {
       "label": "Hit",
       "srcPhoto": "img/ultiplex.png",
       "srcPhotoWebp": "img/ultiplex.webp",
@@ -1430,6 +1467,40 @@
       "niche": "Direção: Potência"
     },
     {
+      "link": "femixal.html",
+      "tag": "femixal",
+      "srcPhoto": "img/femixal.png",
+      "srcPhotoWebp": "img/femixal.webp",
+      "mobSrcPhoto": "img/femixal-mob.png",
+      "mobSrcPhotoWebp": "img/femixal-mob.webp",
+      "name": "Femixal",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "382 отзива",
+      "niche": "Категория: Пикочна система"
+    },
+    {
       "link": "ultiplex.html",
       "tag": "ultiplex",
       "srcPhoto": "img/ultiplex.png",
@@ -1932,6 +2003,21 @@
     "suitability": "2 anos",
     "keep": "armazenar em local seco, fora do alcance das crianças, a uma temperatura não superior a +25°."
   },
+  "femixal": {
+    "title": "Femixal",
+    "category": "За здравето",
+    "review_count": "382 отзива",
+    "niche": "Пикочна система",
+    "form_factor": "Капсули, 10 броя",
+    "short_description": "Растителен комплекс за подпомагане здравето на пикочната система и комфорта при уриниране",
+    "description": "Femixal е разработен като продукт с натурален произход за поддържане на функционалното състояние на органите на пикочната система. Формулата на базата на екстракт от червена боровинка и D-маноза подпомага укрепването на защитните бариери на пикочния мехур, което възпрепятства прикрепването на патогенни микроорганизми към неговите стени. Благодарение на съчетанието от активни компоненти продуктът подпомага естествените процеси на прочистване на пикочните пътища и помага за поддържане на тяхната хигиена. Редовната употреба допринася за общото укрепване на локалния имунитет и намаляване на дискомфорта, свързан с функционални нарушения на пикочната система. Комплексът действа меко, без да нарушава естествения баланс на организма, и е част от здравословния начин на живот.",
+    "compound": "Екстракт от плодове на червена боровинка (Vaccinium macrocarpon, 25% PAC), D-маноза, екстракт от корен на глухарче. Помощни вещества: желатин (обвивка на капсулата), микрокристална целулоза, антислепващо вещество – магнезиеви соли на мастни киселини.",
+    "usage": "Препоръчва се прием на 1–2 капсули дневно по време на хранене. Не превишавайте препоръчителната дневна доза.",
+    "contraindications": "Индивидуална чувствителност към отделни компоненти. Преди употреба по време на бременност или кърмене се консултирайте със специалист.",
+    "manufacturer": "Dalmatika (България)",
+    "suitability": "24 месеца",
+    "keep": "Да се съхранява на сухо място, недостъпно за деца, при температура не по-висока от +25°C."
+  },
   "ultiplex": {
     "title": "Ultiplex",
     "category": "Pentru sănătate",
@@ -2181,6 +2267,11 @@
       "productName": "Viarex",
       "salePrice": "30",
       "newPrice": "149"
+    },
+    "femixal": {
+      "productName": "Femixal",
+      "salePrice": "44",
+      "newPrice": "92"
     },
     "ultiplex": {
       "productName": "Ultiplex",
@@ -8651,11 +8742,402 @@
         ]
       }
     ],
+    "reviews_femixal": [
+      {
+        "src": "img/review_femixal_1.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Малгожата Новак",
+        "text": "Честно казано, вече бях забравила кога за последно можех спокойно да изляза на дълга разходка в парка, без да планирам маршрута си от една обществена тоалетна до друга. Това постоянно усещане за натиск в долната част на корема ме изтощаваше психически, но след като започнах да приемам този растителен комплекс, ситуацията най-накрая започна да се променя към по-добро.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_2.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Яна Ковачова",
+        "text": "Започнах да използвам Femixal по съвет на приятелка и въпреки че в началото не вярвах особено в резултата, още след десет дни забелязах, че сънят ми стана много по-спокоен, защото организмът спря да подава тези тревожни сигнали посред нощ. Невероятно е усещането да се събудиш сутрин бодра и да знаеш, че пикочната ти система най-накрая работи стабилно и спокойно.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_3.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Ивана Хорват",
+        "text": "Това натурално средство се оказа истинско откритие за мен, защото действа много меко, без да предизвиква никакви странични ефекти, и същевременно помага да се поддържа вътрешният комфорт дори при влажно време.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_4.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Мария Новакова",
+        "text": "Дълго търсех някакъв деликатен начин да подкрепя организма си, и този продукт идеално отговаряше на моите нужди, защото помага за укрепване на мускулите и нормализиране на ритъма на посещение на тоалетната. Сега мога спокойно да ходя на гости или в киното, без да се притеснявам за непредвидими ситуации, които преди ме поставяха в неудобно положение.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_5.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Елена Петрова",
+        "text": "Femixal има натрупващо действие — с всеки ден на прием усещах, че напрежението в областта на пикочния мехур става все по-малко, а позивите не са толкова резки и чести. Много съм доволна от резултата.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_6.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Мария Варгова",
+        "text": "Този комплекс привлече вниманието ми със своя богат и в същото време безопасен състав, без агресивна химия. Чувството на тежест в долната част на корема изчезна доста бързо, и забелязах, че общото състояние на пикочните пътища значително се подобри, изчезна вечната раздразнителност и дискомфорт.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_7.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Мария Павлова",
+        "text": "Поръчах това средство онлайн, защото в аптеките ми предлагаха само някакви стандартни продукти, които по-рано не ми помагаха особено. Доставката беше бърза и веднага започнах курса, надявайки се на поне някакъв резултат, но ефектът надмина всички очаквания — най-накрая престанах да бъда „привързана“ към тоалетната.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_8.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Анна Зупанова",
+        "text": "Преминах пълния курс и мога да кажа, че качеството на живота ми значително се повиши, защото изчезна вечната тревожност, която преди съпътстваше всяко излизане от дома ми. Това е наистина качествена подкрепа за женския организъм, която връща усещането за чистота, сухота и пълен комфорт през целия ден.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_9.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Десислава Иванова",
+        "text": "Благодарение на тези капсули отново мога да поддържам нормален воден баланс, защото организмът ми реагира много по-спокойно на течности, а позивите станаха нормални, а не спешни. Чувствам, че бъбреците и пикочният ми мехур вече работят скоординирано, което ми позволява да се чувствам много по-енергична.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_10.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Мария Вуйчич",
+        "text": "Femixal действа много меко, без да натоварва други органи, и същевременно дава устойчив резултат, който усещам всеки ден.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_11.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Зузана Полакова",
+        "text": "Този продукт ми помогна да укрепя местния имунитет и да премахна излишната чувствителност, която преди ме караше да се отказвам от активен начин на живот. Сега знам, че отделителната ми система работи стабилно и без никакви „изненади“.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_12.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Ана Марич",
+        "text": "Най-много ме впечатли в това средство колко бързо изчезна неприятното чувство на незавършеност след посещение на тоалетната, което преди беше постоянен спътник. Чувствам, че стените на пикочния ми мехур станаха по-малко раздразнени и вече не усещам постоянния фалшив натиск.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_13.png",
+        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
+        "rating_text": "Отлично качество!",
+        "name": "Радка Георгиева",
+        "text": "Това средство ми помогна да преживея много тежка зима, когато постоянно замръзвах на спирките и заради това имах големи проблеми с честото уриниране. Капсулите помогнаха на организма ми да стане по-устойчив на студ, и забелязах, че дискомфортът спря да бъде толкова остър още през първата седмица на прием.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      }
+    ],
     "reviews_ultiplex": [
       {
         "src": "img/review_ultiplex_1.png",
         "name": "Andrei Popescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8685,7 +9167,7 @@
       {
         "src": "img/review_ultiplex_2.png",
         "name": "Elena Radu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8715,7 +9197,7 @@
       {
         "src": "img/review_ultiplex_3.png",
         "name": "Ionuț Dumitru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8745,7 +9227,7 @@
       {
         "src": "img/review_ultiplex_4.png",
         "name": "Elena Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8775,7 +9257,7 @@
       {
         "src": "img/review_ultiplex_5.png",
         "name": "Marin Varga",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8805,7 +9287,7 @@
       {
         "src": "img/review_ultiplex_6.png",
         "name": "Carmelia Stoica",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8835,7 +9317,7 @@
       {
         "src": "img/review_ultiplex_7.png",
         "name": "Martin Popa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8865,7 +9347,7 @@
       {
         "src": "img/review_ultiplex_8.png",
         "name": "Mihaela Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8895,7 +9377,7 @@
       {
         "src": "img/review_ultiplex_9.png",
         "name": "Simona Florescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8925,7 +9407,7 @@
       {
         "src": "img/review_ultiplex_10.png",
         "name": "Viorel Munteanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8955,7 +9437,7 @@
       {
         "src": "img/review_ultiplex_11.png",
         "name": "Ioama Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -8985,7 +9467,7 @@
       {
         "src": "img/review_ultiplex_12.png",
         "name": "Alexandru Georgescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
@@ -9015,7 +9497,7 @@
       {
         "src": "img/review_ultiplex_13.png",
         "name": "Lucrețiu Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
         "rating_text": "Calitate excelenta!",
         "stars": [
           {
