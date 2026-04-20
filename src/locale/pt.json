@@ -582,11 +582,47 @@
     },
     {
       "label": "Hit",
+      "srcPhoto": "img/ultiplex.png",
+      "srcPhotoWebp": "img/ultiplex.webp",
+      "mobSrcPhoto": "img/ultiplex-mob.png",
+      "mobSrcPhotoWebp": "img/ultiplex-mob.webp",
+      "name": "Ultiplex",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "486 recenzii",
+      "desc": "Complex multivitaminic „12 în 1” pentru susținerea forțelor de apărare ale organismului și a echilibrului energetic.",
+      "link": "ultiplex.html",
+      "tag": "ultiplex",
+      "category": "health",
+      "btn": "Comandați"
+    },
+    {
+      "label": "Hit",
       "srcPhoto": "img/remofix.png",
       "srcPhotoWebp": "img/remofix.webp",
       "mobSrcPhoto": "img/remofix-mob.png",
       "mobSrcPhotoWebp": "img/remofix-mob.webp",
-      "modifier": "img-space--right",
+      "modifier": "img-space--left",
       "name": "Remofix",
       "stars": [
         {
@@ -1394,6 +1430,40 @@
       "niche": "Direção: Potência"
     },
     {
+      "link": "ultiplex.html",
+      "tag": "ultiplex",
+      "srcPhoto": "img/ultiplex.png",
+      "srcPhotoWebp": "img/ultiplex.webp",
+      "mobSrcPhoto": "img/ultiplex-mob.png",
+      "mobSrcPhotoWebp": "img/ultiplex-mob.webp",
+      "name": "Ultiplex",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "486 recenzii",
+      "niche": "Imunitate și întărire generală"
+    },
+    {
       "link": "remofix.html",
       "tag": "remofix",
       "srcPhoto": "img/remofix.png",
@@ -1862,6 +1932,21 @@
     "suitability": "2 anos",
     "keep": "armazenar em local seco, fora do alcance das crianças, a uma temperatura não superior a +25°."
   },
+  "ultiplex": {
+    "title": "Ultiplex",
+    "category": "Pentru sănătate",
+    "review_count": "486 recenzii",
+    "niche": "Imunitate și întărire generală",
+    "form_factor": "Capsule, 20 bucăți",
+    "short_description": "Complex multivitaminic „12 în 1” pentru susținerea forțelor de apărare ale organismului și a echilibrului energetic",
+    "description": "UltiPlex a fost conceput pentru susținerea completă a organismului și întărirea sistemului imunitar. Datorită combinației de 12 ingrediente active — vitamine, minerale și extracte din plante — complexul contribuie la creșterea rezistenței la factorii sezonieri și la iritanții externi. Produsul ajută la menținerea unui nivel ridicat de tonus vital, favorizează metabolismul energetic normal și protejează celulele împotriva stresului oxidativ. Componentele vegetale din compoziție susțin funcționarea sistemelor nervos și cardiovascular, ajutând organismul să se adapteze la eforturile fizice și emoționale.",
+    "compound": "Vitamina C (40,00 mg), vitamina B1 (0,70 mg), vitamina B2 (0,70 mg), vitamina B6 (0,70 mg), vitamina B12 (0,00125 mg), vitamina E (3,00 mg), vitamina D3 (0,005 mg), zinc (3,00 mg), crom (0,02 mg), seleniu (0,055 mg) din L-metionină de seleniu, calciu (10,00 mg), glicină (10,00 mg), extract de echinacee (10,00 mg), extract de soc (10,00 mg), extract de ghimbir (5,00 mg), extract de hibiscus (7,00 mg). Substanțe auxiliare: gelatină (învelișul capsulei), celuloză microcristalină, agent antiaglomerant: săruri de magneziu ale acizilor grași.",
+    "usage": "Adulților li se recomandă să ia câte 1–2 capsule pe zi, în timpul mesei. Nu depășiți doza zilnică recomandată.",
+    "contraindications": "Sensibilitate individuală la ingrediente; copii. Femeile însărcinate și cele care alăptează trebuie să consulte un specialist înainte de utilizare.",
+    "manufacturer": "Contract Pharma",
+    "suitability": "24 luni",
+    "keep": "A se păstra într-un loc uscat, la îndemâna copiilor, la o temperatură de maximum +25 °C."
+  },
   "remofix": {
     "title": "Remofix",
     "category": "Az egészségért",
@@ -2096,6 +2181,11 @@
       "productName": "Viarex",
       "salePrice": "30",
       "newPrice": "149"
+    },
+    "ultiplex": {
+      "productName": "Ultiplex",
+      "salePrice": "150",
+      "newPrice": "393"
     },
     "remofix": {
       "productName": "Remofix",
@@ -8559,6 +8649,397 @@
             "type": "empty"
           }
         ]
+      }
+    ],
+    "reviews_ultiplex": [
+      {
+        "src": "img/review_ultiplex_1.png",
+        "name": "Andrei Popescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "De obicei, toamna înseamnă pentru mine o rinită continuă și o senzație constantă de epuizare, dar anul acesta am decis să-mi întăresc organismul din timp și am comandat acest complex doar pentru compozița sa bogată. Mi-a plăcut foarte mult faptul că conține nu doar vitamine, ci și extracte de soc și echinacee, care ajută cu adevărat să rămâi în formă atunci când toți cei din jur încep să strănute."
+      },
+
+      {
+        "src": "img/review_ultiplex_2.png",
+        "name": "Elena Radu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Simt cum forțele de apărare ale organismului s-au întărit, pentru că, chiar și atunci când jumătate dintre colegii de la birou au intrat în concediu medical, eu mă simt plină de energie și absolut sănătoasă."
+      },
+
+      {
+        "src": "img/review_ultiplex_3.png",
+        "name": "Ionuț Dumitru",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Am început să iau acest complex multivitaminic luna trecută și, deși la început eram sceptic, după doar două săptămâni am simțit un adevărat val de energie. Probabil că vitaminele din grupa B și seleniul din compoziție și-au făcut efectul, pentru că starea de spirit a devenit mai stabilă, iar trezirea de dimineață nu mai seamănă cu o luptă pentru supraviețuire."
+      },
+
+      {
+        "src": "img/review_ultiplex_4.png",
+        "name": "Elena Ionescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Iau capsulele deja de trei săptămâni și, pe lângă faptul că nu mai obosesc atât de repede, am observat un bonus plăcut — pielea și părul arată mult mai bine, probabil datorită protecției antioxidante. Sunt foarte recunoscătoare pentru această abordare complexă, deoarece este mult mai simplu decât să iau zilnic o mulțime de pastile diferite, iar pentru stomac este mult mai confortabil."
+      },
+
+      {
+        "src": "img/review_ultiplex_5.png",
+        "name": "Marin Varga",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Am decis să încerc Ultiplex, deoarece mi-a fost recomandat ca remediu pentru întărirea generală a organismului, și nu am regretat niciun moment alegerea mea. Compoziția este pur și simplu puternică: atât vitaminele, cât și mineralele și componentele vegetale acționează împreună astfel încât simți cu adevărat cum organismul se umple de viață și de forță."
+      },
+
+      {
+        "src": "img/review_ultiplex_6.png",
+        "name": "Carmelia Stoica",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Am fost plăcut surprinsă că acest complex nu provoacă niciun disconfort, chiar dacă îl iei pe stomacul gol, deși conform instrucțiunilor trebuie luat în timpul mesei. Mă simt protejată în acest sezon al virusurilor și, cel mai important, a dispărut acea senzație eternă de „ceață” din cap, iar în locul ei au apărut claritatea și productivitatea."
+      },
+
+      {
+        "src": "img/review_ultiplex_7.png",
+        "name": "Martin Popa",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "La acest produs îmi place combinația de zinc și magneziu cu vitamina C, care este ideală pentru susținerea sistemului cardiovascular și a mușchilor în timpul efortului fizic. Îl iau în curs și observ că recuperarea se face acum mult mai repede, iar rezistența generală a crescut vizibil, așa că voi mai comanda."
+      },
+
+      {
+        "src": "img/review_ultiplex_8.png",
+        "name": "Mihaela Ionescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Alegeam mult timp între diferite variante pentru susținerea imunității, dar m-am oprit la Ultiplex pentru că este prezentă glicina în compoziție și vitaminelor din grupa B în compoziție, deoarece doream nu numai să-mi întăresc apărarea, ci și să-mi calmez puțin sistemul nervos. Știți, a funcționat — am început să reacționez mult mai calm la micile probleme cotidiene și, în același timp, nu simt nicio somnolență, ci doar o încredere liniștită și energie."
+      },
+
+      {
+        "src": "img/review_ultiplex_9.png",
+        "name": "Simona Florescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Înainte îmi era mereu frig, chiar și în încăperi, iar acum circulația sanguină pare să se fi îmbunătățit, iar starea generală de sănătate a devenit mult mai stabilă. Cred că extractul de hibiscus și ghimbir are un efect atât de benefic asupra vaselor de sânge, încât acum recomand acest complex tuturor prietenelor care doresc să se simtă pline de energie, indiferent de vremea de afară."
+      },
+
+      {
+        "src": "img/review_ultiplex_10.png",
+        "name": "Viorel Munteanu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Un produs bun la un preț rezonabil, mai ales dacă îl comparăm cu brandurile acelea atât de promovate în farmacii, unde jumătate din preț se datorează doar numelui. Aici văd o compoziție reală cu 12 ingrediente care chiar funcționează, pentru că am încetat să mai simt oboseala aceea cronică încă de la jumătatea zilei de lucru."
+      },
+
+      {
+        "src": "img/review_ultiplex_11.png",
+        "name": "Ioama Ionescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Acest complex multivitaminic mă ajută să mențin un nivel ridicat de tonus vital și simt că celulele mele sunt protejate în mod fiabil împotriva stresului oxidativ. Acest lucru este foarte important pentru păstrarea tinereții și a sănătății pe termen lung, de aceea consider acest produs o investiție în propriul meu viitor."
+      },
+
+      {
+        "src": "img/review_ultiplex_12.png",
+        "name": "Alexandru Georgescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Călătoresc des în interes de serviciu, iar schimbările de climă și de fus orar reprezintă întotdeauna o mare provocare pentru sistemul meu imunitar, de aceea am mereu la îndemână Ultiplex. Mă ajută să mă adaptez mai repede la noile condiții și mă protejează împotriva infecțiilor în avioane și în locurile publice, unde sunt mereu mulți oameni."
+      },
+
+      {
+        "src": "img/review_ultiplex_13.png",
+        "name": "Lucrețiu Mocanu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTІPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Sunt sceptic în privința suplimentelor, dar soția mea a insistat să iau acest produs după ce am înghețat rău la pescuit și era să mă îmbolnăvesc. Surprinzător, nu am făcut febră, deși de obicei după așa ceva sunt bolnav cel puțin o săptămână, așa că acum cred că aceste extracte din plante chiar funcționează. Acum luăm acest complex împreună cu soția mea"
       }
     ],
     "reviews_remofix": [

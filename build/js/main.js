@@ -1551,6 +1551,7 @@ const productsInfo = {
       newPrice: '47523'
     },
     remofix: {
+      modifier: 'img-space--left',
       company: 'everad',
       campaign_id: '1402524',
       niche: 'Ízületek',
@@ -2538,7 +2539,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'GUAVITAL+',
       salePrice: '145',
-      newPrice: '630'
+      newPrice: '400'
     },
     trovazin: {
       company: 'everad',
@@ -2547,7 +2548,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Trovazin',
       salePrice: '136',
-      newPrice: '476'
+      newPrice: '370'
     },
     desalix: {
       company: 'everad',
@@ -2556,7 +2557,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Desalix',
       salePrice: '140',
-      newPrice: '564'
+      newPrice: '383'
     },
     paraxan: {
       company: 'everad',
@@ -2565,7 +2566,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Paraxan',
       salePrice: '148',
-      newPrice: '568'
+      newPrice: '377'
     },
     exurol: {
       modifier: 'img-space--right',
@@ -2575,7 +2576,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Exurol',
       salePrice: '134',
-      newPrice: '523'
+      newPrice: '393'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -2604,7 +2605,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Beauty Age Skin',
       salePrice: '138',
-      newPrice: '445'
+      newPrice: '393'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -2613,7 +2614,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '147',
-      newPrice: '705'
+      newPrice: '410'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -2623,7 +2624,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Ausen',
       salePrice: '135',
-      newPrice: '443'
+      newPrice: '357'
     },
     vermixin: {
       modifier: 'img-space--right',
@@ -2643,7 +2644,16 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Viarex',
       salePrice: '150',
-      newPrice: '609'
+      newPrice: '390'
+    },
+    ultiplex: {
+      company: 'everad',
+      campaign_id: '1402523',
+      niche: 'Imunitate',
+      country: 'Romania',
+      productName: 'Ultiplex',
+      salePrice: '150',
+      newPrice: '393'
     },
     urosaf: {
       modifier: 'img-space--right',
@@ -2653,7 +2663,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Urosaf',
       salePrice: '139',
-      newPrice: '489'
+      newPrice: '387'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -2663,7 +2673,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Steplex',
       salePrice: '146',
-      newPrice: '494'
+      newPrice: '333'
     },
     vasaxal: {
       company: 'everad',
@@ -2672,7 +2682,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Vasaxal',
       salePrice: '137',
-      newPrice: '442'
+      newPrice: '363'
     },
     demyxil: {
       company: 'everad',
@@ -2681,7 +2691,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Demyxil',
       salePrice: '152',
-      newPrice: '570'
+      newPrice: '387'
     },
     delislim: {
       company: 'everad',
@@ -2690,7 +2700,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Delislim',
       salePrice: '141',
-      newPrice: '620'
+      newPrice: '403'
     },
     ophtalax: {
       company: 'everad',
@@ -2699,7 +2709,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Ophtalax',
       salePrice: '133',
-      newPrice: '498'
+      newPrice: '377'
     },
     vasos_duo: {
       company: 'everad',
@@ -2708,7 +2718,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Vasos Duo',
       salePrice: '149',
-      newPrice: '558'
+      newPrice: '343'
     }
   },
   sk: {
