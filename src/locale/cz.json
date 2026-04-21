@@ -909,6 +909,42 @@
       "btn": "VÍCE"
     },
     {
+      "label": "Top prekė",
+      "srcPhoto": "img/oculax.png",
+      "srcPhotoWebp": "img/oculax.webp",
+      "mobSrcPhoto": "img/oculax-mob.png",
+      "mobSrcPhotoWebp": "img/oculax-mob.webp",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "492 atsiliepimai",
+      "desc": "Kompleksas regėjimo komfortui palaikyti ir akims apsaugoti nuo nuovargio.",
+      "link": "oculax.html",
+      "tag": "oculax",
+      "category": "health",
+      "btn": "DAUGIAU"
+    },
+    {
       "label": "Populaarne",
       "srcPhoto": "img/cardiform.png",
       "srcPhotoWebp": "img/cardiform.webp",
@@ -1811,6 +1847,40 @@
       "niche": "Kategorie: Zrak"
     },
     {
+      "link": "oculax.html",
+      "tag": "oculax",
+      "srcPhoto": "img/oculax.png",
+      "srcPhotoWebp": "img/oculax.webp",
+      "mobSrcPhoto": "img/oculax-mob.png",
+      "mobSrcPhotoWebp": "img/oculax-mob.webp",
+      "name": "Oculax",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "492 atsiliepimai",
+      "niche": "Kryptis: Regėjimas"
+    },
+    {
       "link": "cardiform.html",
       "tag": "cardiform",
       "srcPhoto": "img/cardiform.png",
@@ -2210,6 +2280,21 @@
     "suitability": "2 roky",
     "keep": "Uchovávejte v suchu, mimo dosah dětí, při teplotě nepřesahující +25 °C."
   },
+  "oculax": {
+    "title": "Oculax",
+    "category": "SVEIKATOS PALAIKYMUI",
+    "review_count": "492 atsiliepimai",
+    "niche": "Regėjimas",
+    "form_factor": "Kapsulės, 20 vnt.",
+    "short_description": "Kompleksas regėjimo komfortui palaikyti ir akims apsaugoti nuo nuovargio.",
+    "description": "Oculax yra subalansuota formulė, skirta palaikyti regėjimo sistemos funkcinę būklę kasdienio streso metu. B grupės vitaminų, cinko ir seleno derinys padeda stiprinti kapiliarus ir palaiko normalų nervinių impulsų perdavimą. Produktas padeda akims greičiau prisitaikyti prie ryškios šviesos ir sumažina nuovargio jausmą ilgai naudojantis skaitmeniniais prietaisais. Dėl komponentų antioksidacinių savybių kompleksas padeda apsaugoti akių audinius nuo oksidacinių procesų ir mėlynojo spektro šviesos poveikio. Reguliarus vartojimas padeda palaikyti tinklainės sveikatą ir stabilų akispūdį, o tai yra svarbi regėjimo priežiūros dalis bet kuriame amžiuje.",
+    "compound": "Vitaminas C (L-askorbo rūgštis) 40,00 mg, vitaminas B1 (tiamino hidrochloridas) 0,55 mg, vitaminas B2 (riboflavinas) 0,70 mg, vitaminas B6 (piridoksino hidrochloridas) 0,70 mg, vitaminas B12 (kobalaminas) 0,00125 mg, vitaminas E (α-TE) 3,00 mg, vitaminas D3 (cholekalciferolis) 0,0025 mg, cinkas (cinko gliukonatas) 3,00 mg, chromas (chromo pikolinatas) 0,02 mg, selenas (natrio selenatas) 0,0275 mg, kalcis (kalcio karbonatas) 10,00 mg, glicinas 10,00 mg, ežiuolės (Echinacea purpurea) ekstraktas 4:1 10,00 mg, šeivamedžio (Sambucus nigra) ekstraktas 4:1 10,00 mg, imbiero šaknies ekstraktas (Zingiber officinale) 4:1 5,00 mg, hibisko žiedų ekstraktas (Hibiscus sabdariffa) 4:1 7,00 mg.",
+    "usage": "Suaugusiesiems rekomenduojama gerti po 1 kapsulę 2 kartus per dieną prieš valgį. Rekomenduojama kurso trukmė – 2 mėnesiai. Prireikus kursą galima kartoti.",
+    "contraindications": "Individualus  netoleravimas komponentams, vaikų amžius. Neviršykite rekomenduojamos paros dozės. Maisto papildas neturėtų pakeisti visavertės mitybos.",
+    "manufacturer": "Millmax",
+    "suitability": "24 mėnesiai",
+    "keep": "laikyti sausoje vietoje, apsaugotoje nuo saulės spindulių, ne aukštesnėje kaip +25 °C temperatūroje."
+  },
   "cardiform": {
     "title": "Cardiform",
     "category": "Zdrowie",
@@ -2400,6 +2485,11 @@
       "productName": "Ophtalax",
       "salePrice": "515",
       "newPrice": "1966"
+    },
+    "oculax": {
+      "productName": "Oculax",
+      "salePrice": "26",
+      "newPrice": "113"
     },
     "cardiform": {
       "productName": "Cardiform",
@@ -11418,6 +11508,397 @@
           }
         ],
         "text": "Ophtalax mi pomohl odstranit napětí v očích a slzení kvůli dlouhé práci u počítače. Nyní trávím stejně času před monitorem, ale s očima je vše skvělé."
+      }
+    ],
+    "reviews_oculax": [
+      {
+        "src": "img/review_oculax_1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Mantas Petrauskas",
+        "text": "Tiesą sakant, išbandžiau daug skirtingų lašų, ​​bet jų poveikis buvo labai trumpalaikis, todėl nusprendžiau spręsti problemą iš vidaus ir išbandyti šį vitaminų kompleksą su cinku ir selenu. Žinote, maždaug po dviejų savaičių pastebėjau, kad šis deginantis nuovargis išnyko, ir man tapo daug lengviau sutelkti dėmesį į smulkų tekstą.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Lina Kazlauskienė",
+        "text": "Pradėjau vartoti Oculax kolegės patarimu ir galiu pasakyti, kad ši formulė tikrai padeda mano akims greičiau priprasti prie ryškios šviesos, o bendras akių obuolių įtempimas pastebimai sumažėjo. Dabar prie vairo jaučiuosi daug labiau pasitikinti savimi, o vaizdas prieš akis tapo aiškesnis ir kontrastingesnis, o tai man labai svarbu.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Vytautas Jankauskas",
+        "text": "Man patiko šis produktas dėl subalansuotos sudėties, ypač dėl B grupės vitaminų, kurie palaiko nervinius impulsus, o tai svarbu regėjimo aštrumui. Kasdien geriu po kapsulę ir jaučiu, kad mano akys mažiau pavargsta skaitant laikraščius ar žiūrint televizorių.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Rasa Butkutė",
+        "text": "Man patinka, kad kapsulės yra švelnios ir padeda palaikyti stabilų akispūdį, todėl išvengiau dažnų galvos skausmų, susijusių su akių įtampa.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Andrius Stankevičius",
+        "text": "Oculax padeda sustiprinti kapiliarus ir pagerina bendrą komfortą, todėl man nebereikia nuolat mirksėti akimis, kad jas šiek tiek sudrėkinčiau. Tai labai patogus pasirinkimas užimtiems žmonėms, nes galite išgerti kapsulę per pietus ir žinoti, kad jūsų regos aparatas gavo reikiamą paramą, kad susidorotų su kasdieniu krūviu.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_6.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Jurgita Jurgelevičienė",
+        "text": "Pradėjau vartoti šias kapsules ir po kurio laiko pagavau save galvojant, kad viską matau taip pat aiškiai, kaip ryte, be nereikalingų pastangų ar žvairumo. Tiesą sakant, tai puiki investicija į mano sveikatą, nes kompleksas veikia iš anksto ir neleidžia regėjimui blogėti dėl banalaus akių raumenų pervargimo.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Gintaras Mačiulis",
+        "text": "Oculax tapo mano kasdienės priežiūros dalimi, nes pajutau, kad mano akys tapo daug atsparesnės, o nemalonus ašarojimas ryškioje šviesoje išnyko. Formulė yra tikrai gerai apgalvota ir matau realius rezultatus.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Tomas Grigalaitis",
+        "text": "Jau tris savaites vartoju Oculax ir pagrindinis pastebėtas poveikis yra tai, kad po ilgo žaidimo konsolėje ar filmo žiūrėjimo telefone prieš akis nebelieka „debesies“. Mano regėjimas tapo stabilesnis, o akys jaučiasi pailsėjusios net ir po persistengimo su ekranu, o tai šiuolaikiniame gyvenime tiesiog būtina.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_9.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Edita Paulauskienė",
+        "text": "Šį kompleksą naudoju profilaktikai, nes daugelis mano šeimoje turėjo tinklainės problemų, ir noriu kuo ilgiau išlaikyti savo akis sveikas. Man patinka, kad Oculax padeda palaikyti normalų nervinių impulsų perdavimą, nes tikrai jaučiu, kad reakcija į apšvietimo pokyčius tapo daug greitesnė.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Mindaugas Žemaitis",
+        "text": "Geras produktas, kuris atitinka viską, kas parašyta aprašyme: dingsta nuovargis, sustiprėja kapiliarai, o akys nustoja reaguoti į kiekvieną šviesos blyksnį. Pristatymas buvo greitas, o pakuotė patikima, todėl planuoju reguliariai užsisakyti šį kompleksą, kad mano akys visada būtų geros būklės.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Agnė Savickaitė",
+        "text": "Pastebėjau, kad pradėjusi vartoti šias kapsules, man tapo daug maloniau naudotis išmaniuoju telefonu prieš miegą, nes akys nustojo taip varginti nuo ryškaus ekrano. Lengvumo pojūtis ir paraudimo nebuvimas ryte yra geriausias įrodymas, kad kompleksas veikia.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Jonas Petrauskas",
+        "text": "Anksčiau po darbo dienos dažnai jausdavau tokį spaudimą akyse, kad norėdavau jas tiesiog užmerkti ir kelias valandas nieko nematyti, bet dabar ši būsena išnyko. Manau, kad reguliarus šių kapsulių vartojimas padėjo normalizuoti akispūdį, nes sunkumo jausmas visiškai išnyko.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Darius Varnas",
+        "text": "Išbandžiau šį kompleksą ir buvau maloniai nustebintas, nes netikėjau, kad įprastos kapsulės gali taip pastebimai paveikti regėjimo komfortą. Tiesą sakant, mano akys pavargsta daug mažiau, ir dabar man nereikia taip dažnai daryti pertraukų skaitant ar dirbant su piešiniais.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
       }
     ],
     "reviews_cardiform": [

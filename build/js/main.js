@@ -1273,7 +1273,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'GUAVITAL+',
       salePrice: '26',
-      newPrice: '112'
+      newPrice: '113'
     },
     trovazin: {
       company: 'everad',
@@ -1282,7 +1282,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Trovazin',
       salePrice: '24',
-      newPrice: '82'
+      newPrice: '83'
     },
     desalix: {
       company: 'everad',
@@ -1310,7 +1310,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Exurol',
       salePrice: '26',
-      newPrice: '102'
+      newPrice: '104'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -1339,7 +1339,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Beauty Age Skin',
       salePrice: '26',
-      newPrice: '165'
+      newPrice: '163'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -1348,7 +1348,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '24',
-      newPrice: '135'
+      newPrice: '133'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -1358,7 +1358,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Ausen',
       salePrice: '26',
-      newPrice: '136'
+      newPrice: '137'
     },
     ultraxal: {
       company: 'everad',
@@ -1397,7 +1397,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Urosaf',
       salePrice: '24',
-      newPrice: '139'
+      newPrice: '141'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -1407,7 +1407,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Steplex',
       salePrice: '26',
-      newPrice: '75'
+      newPrice: '74'
     },
     vasaxal: {
       company: 'everad',
@@ -1416,7 +1416,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Vasaxal',
       salePrice: '25',
-      newPrice: '73'
+      newPrice: '74'
     },
     demyxil: {
       company: 'everad',
@@ -1425,7 +1425,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Demyxil',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '81'
     },
     delislim: {
       company: 'everad',
@@ -1434,7 +1434,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Delislim',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '81'
     },
     ophtalax: {
       company: 'everad',
@@ -1443,7 +1443,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Ophtalax',
       salePrice: '26',
-      newPrice: '119'
+      newPrice: '118'
     },
     vasos_duo: {
       company: 'everad',
@@ -1452,7 +1452,7 @@ const productsInfo = {
       country: 'Croatia',
       productName: 'Vasos Duo',
       salePrice: '26',
-      newPrice: '80'
+      newPrice: '81'
     }
   },
   hu: {
@@ -1835,7 +1835,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'GUAVITAL+',
       salePrice: '26',
-      newPrice: '112'
+      newPrice: '117'
     },
     trovazin: {
       company: 'everad',
@@ -1844,7 +1844,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Trovazin',
       salePrice: '25',
-      newPrice: '73'
+      newPrice: '76'
     },
     desalix: {
       company: 'everad',
@@ -1853,7 +1853,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Desalix',
       salePrice: '25',
-      newPrice: '96'
+      newPrice: '100'
     },
     paraxan: {
       company: 'everad',
@@ -1862,7 +1862,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Paraxan',
       salePrice: '25',
-      newPrice: '89'
+      newPrice: '93'
     },
     exurol: {
       modifier: 'img-space--right',
@@ -1872,7 +1872,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Exurol',
       salePrice: '26',
-      newPrice: '80'
+      newPrice: '84'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -1901,7 +1901,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Beauty Age Skin',
       salePrice: '26',
-      newPrice: '136'
+      newPrice: '142'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -1910,7 +1910,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '26',
-      newPrice: '165'
+      newPrice: '169'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -1920,7 +1920,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Ausen',
       salePrice: '25',
-      newPrice: '119'
+      newPrice: '124'
     },
     vermixin: {
       modifier: 'img-space--right',
@@ -1940,7 +1940,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Viarex',
       salePrice: '26',
-      newPrice: '102'
+      newPrice: '108'
     },
     urosaf: {
       modifier: 'img-space--right',
@@ -1950,7 +1950,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Urosaf',
       salePrice: '25',
-      newPrice: '125'
+      newPrice: '130'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -1960,7 +1960,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Steplex',
       salePrice: '26',
-      newPrice: '69'
+      newPrice: '71'
     },
     vasaxal: {
       company: 'everad',
@@ -1969,7 +1969,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Vasaxal',
       salePrice: '24',
-      newPrice: '77'
+      newPrice: '81'
     },
     demyxil: {
       company: 'everad',
@@ -1978,7 +1978,7 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Demyxil',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '81'
     },
     delislim: {
       company: 'everad',
@@ -1987,16 +1987,16 @@ const productsInfo = {
       country: 'Lithuania',
       productName: 'Delislim',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '81'
     },
-    ophtalax: {
+    oculax: {
       company: 'everad',
       campaign_id: '1433128',
       niche: 'Regėjimas',
       country: 'Lithuania',
-      productName: 'Ophtalax',
+      productName: 'Oculax',
       salePrice: '26',
-      newPrice: '109'
+      newPrice: '113'
     },
     vasos_duo: {
       company: 'everad',
