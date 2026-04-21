@@ -2940,7 +2940,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'GUAVITAL+',
       salePrice: '26',
-      newPrice: '112'
+      newPrice: '113'
     },
     trovazin: {
       company: 'everad',
@@ -2949,7 +2949,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Trovazin',
       salePrice: '24',
-      newPrice: '82'
+      newPrice: '86'
     },
     desalix: {
       company: 'everad',
@@ -2977,7 +2977,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Exurol',
       salePrice: '26',
-      newPrice: '102'
+      newPrice: '108'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -3006,7 +3006,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Beauty Age Skin',
       salePrice: '26',
-      newPrice: '165'
+      newPrice: '163'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -3015,7 +3015,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '24',
-      newPrice: '135'
+      newPrice: '139'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -3025,17 +3025,16 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Ausen',
       salePrice: '26',
-      newPrice: '136'
+      newPrice: '137'
     },
-    vermixin: {
-      modifier: 'img-space--right',
+    ultraxal: {
       company: 'everad',
       campaign_id: '1082464',
-      niche: 'Paraziti',
+      niche: 'Prebavni sistem (GST)',
       country: 'Slovenia',
-      productName: 'Vermixin',
+      productName: 'Ultraxal',
       salePrice: '24',
-      newPrice: '88'
+      newPrice: '77'
     },
     viarex: {
       modifier: 'img-space--right',
@@ -3047,6 +3046,16 @@ const productsInfo = {
       salePrice: '25',
       newPrice: '125'
     },
+    femixal: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Urinarni sistem',
+      country: 'Slovenia',
+      productName: 'Femixal',
+      salePrice: '25',
+      newPrice: '108'
+    },
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
@@ -3055,7 +3064,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Urosaf',
       salePrice: '24',
-      newPrice: '139'
+      newPrice: '147'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -3065,7 +3074,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Steplex',
       salePrice: '26',
-      newPrice: '75'
+      newPrice: '77'
     },
     vasaxal: {
       company: 'everad',
@@ -3074,7 +3083,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Vasaxal',
       salePrice: '25',
-      newPrice: '73'
+      newPrice: '74'
     },
     demyxil: {
       company: 'everad',
@@ -3083,7 +3092,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Demyxil',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '81'
     },
     delislim: {
       company: 'everad',
@@ -3092,7 +3101,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Delislim',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '81'
     },
     ophtalax: {
       company: 'everad',
@@ -3101,7 +3110,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Ophtalax',
       salePrice: '26',
-      newPrice: '119'
+      newPrice: '118'
     },
     vasos_duo: {
       company: 'everad',
@@ -3110,7 +3119,7 @@ const productsInfo = {
       country: 'Slovenia',
       productName: 'Vasos Duo',
       salePrice: '26',
-      newPrice: '80'
+      newPrice: '84'
     }
   }
 };

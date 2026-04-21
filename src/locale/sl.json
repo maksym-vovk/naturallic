@@ -171,12 +171,12 @@
           "type": "full"
         }
       ],
-      "text": "458 recenzí",
-      "desc": "Bylinný komplex pro udržení trávicí rovnováhy a každodenní pohodlí",
+      "text": "458 ocen",
+      "desc": "Rastlinski kompleks za ohranjanje prebavnega ravnovesja in vsakodnevnega udobja",
       "link": "ultraxal.html",
       "tag": "ultraxal",
       "category": "health",
-      "btn": "Objednat"
+      "btn": "Podrobnejši podatki"
     },
     {
       "label": "Hit",
@@ -581,7 +581,7 @@
       "btn": "Podrobnejši podatki"
     },
     {
-      "label": "Хит",
+      "label": "Hit",
       "srcPhoto": "img/femixal.png",
       "srcPhotoWebp": "img/femixal.webp",
       "mobSrcPhoto": "img/femixal-mob.png",
@@ -610,12 +610,12 @@
           "type": "full"
         }
       ],
-      "text": "382 отзива",
-      "desc": "Пикочна система",
+      "text": "382 ocen",
+      "desc": "Urinarni sistemа",
       "link": "femixal.html",
       "tag": "femixal",
       "category": "health",
-      "btn": "ПОДРОБНО"
+      "btn": "Podrobnejši podatki"
     },
     {
       "label": "Hit",
@@ -1162,8 +1162,8 @@
           "type": "full"
         }
       ],
-      "text": "458 recenzí",
-      "niche": "Kategorie: Trávicí systém (GI)"
+      "text": "458 ocen",
+      "niche": "Smer: Prebavni sistem (GST)"
     },
     {
       "link": "trovazin.html",
@@ -1570,8 +1570,8 @@
           "type": "full"
         }
       ],
-      "text": "382 отзива",
-      "niche": "Категория: Пикочна система"
+      "text": "382 ocen",
+      "niche": "Smer: Urinarni sistem"
     },
     {
       "link": "ultiplex.html",
@@ -1966,18 +1966,18 @@
   },
   "ultraxal": {
     "title": "Ultraxal",
-    "category": "Pro zdraví",
-    "review_count": "458 recenzí",
-    "niche": "Trávicí systém (GI)",
-    "form_factor": "Kapsle, 20 kusů",
-    "short_description": "Bylinný komplex pro udržení trávicí rovnováhy a každodenní pohodlí",
-    "description": "ULTRAXAL je určen jako doplněk ke každodenní stravě pro podporu normální činnosti trávení. Díky kombinaci rostlinných extraktů a enzymů produkt podporuje přirozené procesy čištění těla a pomáhá udržovat rovnováhu střevní mikroflóry. Složení je zaměřeno na zlepšení peristaltiky a usnadnění vstřebávání živin, což umožňuje vyhnout se pocitu tíhy po jídle. Při pravidelném užívání komplex pomáhá udržovat funkční stav sliznic gastrointestinálního traktu a pomáhá snižovat nepříjemné pocity způsobené nadýmáním nebo změnou stravy.",
-    "compound": "Extrakt z kořene pampelišky, extrakt z listů artyčoku, extrakt ze semen ostropestřce mariánského (80 % silymarin), extrakt z dýňových semínek, papain 100 000 U/g, stearát hořečnatý, mikrokrystalická celulóza. Obal kapsle: želatina/HPMC.",
-    "usage": "Doporučuje se užívat 1–2 kapsle denně s jídlem. Nepřekračujte doporučenou denní dávku.",
-    "contraindications": "Individuální citlivost na složky. Uchovávejte mimo dosah dětí. U těhotných a kojících žen je před použitím doporučena konzultace s odborníkem.",
+    "category": "Za zdravje",
+    "review_count": "458 ocen",
+    "niche": "Prebavni sistem (GST)",
+    "form_factor": "Kapsule, 20 kosov",
+    "short_description": "Rastlinski kompleks za ohranjanje prebavnega ravnovesja in vsakodnevnega udobja",
+    "description": "ULTRAXAL je zasnovan kot dopolnilo k vsakodnevni prehrani za podporo stabilnega delovanja prebavnih organov. Zahvaljujoč kombinaciji rastlinskih izvlečkov in encimov, izdelek spodbuja naravne procese čiščenja telesa in pomaga ohranjati ravnovesje črevesne mikroflore. Sestava je namenjena izboljšanju peristaltike in lažjemu vsrkavanju hranilnih snovi, kar omogoča izogibanje občutku težkosti po zaužitju hrane. Pri redni uporabi kompleks pomaga ohranjati funkcionalno stanje sluznice prebavnega trakta in prispeva k zmanjšanju nelagodja, ki ga povzročajo napihnjenost ali sprememba prehranjevalnih navad.",
+    "compound": "Izvleček korenine regrata, izvleček listov artičoke, izvleček semen pegastega trpotca (80 % silimarina), izvleček semen buče, papain 100.000 U/g, magnezijev stearat, mikrokristalna celuloza. Ovoj kapsule: želatina/HPMC.",
+    "usage": "Priporočljivo je zaužiti 1–2 kapsuli na dan med obrokom. Ne prekoračite priporočenega dnevnega odmerka.",
+    "contraindications": "Individualna občutljivost na sestavine, otroška starost. Nosečnice in doječe matere naj se pred uporabo posvetujejo s strokovnjakom.",
     "manufacturer": "Millmax",
-    "suitability": "24 měsíců",
-    "keep": "Skladujte na suchém místě mimo dosah dětí při teplotě nepřesahující +25 °C."
+    "suitability": "24 mesecev",
+    "keep": "Shranjujte na suhem mestu, nedosegljivem za otroke, pri temperaturi do +25 °C."
   },
   "trovazin": {
     "title": "Trovazin",
@@ -2146,18 +2146,18 @@
   },
   "femixal": {
     "title": "Femixal",
-    "category": "За здравето",
-    "review_count": "382 отзива",
-    "niche": "Пикочна система",
-    "form_factor": "Капсули, 10 броя",
-    "short_description": "Растителен комплекс за подпомагане здравето на пикочната система и комфорта при уриниране",
-    "description": "Femixal е разработен като продукт с натурален произход за поддържане на функционалното състояние на органите на пикочната система. Формулата на базата на екстракт от червена боровинка и D-маноза подпомага укрепването на защитните бариери на пикочния мехур, което възпрепятства прикрепването на патогенни микроорганизми към неговите стени. Благодарение на съчетанието от активни компоненти продуктът подпомага естествените процеси на прочистване на пикочните пътища и помага за поддържане на тяхната хигиена. Редовната употреба допринася за общото укрепване на локалния имунитет и намаляване на дискомфорта, свързан с функционални нарушения на пикочната система. Комплексът действа меко, без да нарушава естествения баланс на организма, и е част от здравословния начин на живот.",
-    "compound": "Екстракт от плодове на червена боровинка (Vaccinium macrocarpon, 25% PAC), D-маноза, екстракт от корен на глухарче. Помощни вещества: желатин (обвивка на капсулата), микрокристална целулоза, антислепващо вещество – магнезиеви соли на мастни киселини.",
-    "usage": "Препоръчва се прием на 1–2 капсули дневно по време на хранене. Не превишавайте препоръчителната дневна доза.",
-    "contraindications": "Индивидуална чувствителност към отделни компоненти. Преди употреба по време на бременност или кърмене се консултирайте със специалист.",
-    "manufacturer": "Dalmatika (България)",
-    "suitability": "24 месеца",
-    "keep": "Да се съхранява на сухо място, недостъпно за деца, при температура не по-висока от +25°C."
+    "category": "Za zdravje",
+    "review_count": "382 ocen",
+    "niche": "Urinarni sistem",
+    "form_factor": "Kapsule, 10 kosov",
+    "short_description": "Rastlinski kompleks za ohranjanje zdravja urinarnega sistema in udobno uriniranje",
+    "description": "Femixal je bil razvit kot naravno sredstvo za podporo delovanja organov sečil. Formula na osnovi izvlečka brusnice in D-manoze pomaga okrepiti zaščitne pregrade mehurja, kar preprečuje naselitev patogenih mikroorganizmov na njegovih stenah. Zahvaljujoč kombinaciji aktivnih sestavin izdelek podpira naravne procese čiščenja sečil in pomaga ohranjati njihovo higieno. Redna uporaba prispeva k splošni krepitvi lokalnega imunskega sistema in zmanjšanju nelagodja, povezanega s funkcionalnimi motnjami delovanja sečil. Kompleks deluje nežno, ne moti naravnega ravnovesja v telesu in je del zdravega načina življenja.",
+    "compound": "Izvleček brusnic (Vaccinium macrocarpon, 25 % PAC), D-manoza, izvleček korenine regrata. Pomožne snovi: želatina (obloga kapsule), mikrokristalna celuloza, protispekljevalec magnezijeve soli maščobnih kislin.",
+    "usage": "Priporočljivo je zaužiti 1–2 kapsuli na dan med obrokom. Ne prekoračite priporočenega dnevnega odmerka.",
+    "contraindications": "Individualna občutljivost na posamezne sestavine. Pred začetkom jemanja med nosečnostjo ali dojenjem se posvetujte s strokovnjakom.",
+    "manufacturer": "Dalmatika",
+    "suitability": "24 mesecev",
+    "keep": "Shranjujte na suhem mestu, nedosegljivem za otroke, pri temperaturi do +25 °C."
   },
   "ultiplex": {
     "title": "Ultiplex",
@@ -2376,17 +2376,17 @@
     "guavital": {
       "productName": "GUAVITAL+",
       "salePrice": "26",
-      "newPrice": "112"
+      "newPrice": "113"
     },
     "ultraxal": {
       "productName": "Ultraxal",
       "salePrice": "514",
-      "newPrice": "2623"
+      "newPrice": "77"
     },
     "trovazin": {
       "productName": "Trovazin",
       "salePrice": "24",
-      "newPrice": "82"
+      "newPrice": "86"
     },
     "desalix": {
       "productName": "Desalix",
@@ -2401,7 +2401,7 @@
     "exurol": {
       "productName": "Exurol",
       "salePrice": "26",
-      "newPrice": "102"
+      "newPrice": "108"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
@@ -2416,17 +2416,17 @@
     "beauty_age_skin": {
       "productName": "Beauty Age Skin",
       "salePrice": "26",
-      "newPrice": "165"
+      "newPrice": "163"
     },
     "beauty_age_skin_peeling": {
       "productName": "Beauty Age Skin Peeling",
       "salePrice": "24",
-      "newPrice": "135"
+      "newPrice": "139"
     },
     "ausen": {
       "productName": "Ausen",
       "salePrice": "26",
-      "newPrice": "136"
+      "newPrice": "137"
     },
     "vermixin": {
       "productName": "Vermixin",
@@ -2441,7 +2441,7 @@
     "femixal": {
       "productName": "Femixal",
       "salePrice": "44",
-      "newPrice": "92"
+      "newPrice": "108"
     },
     "ultiplex": {
       "productName": "Ultiplex",
@@ -2456,32 +2456,32 @@
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "24",
-      "newPrice": "139"
+      "newPrice": "147"
     },
     "steplex": {
       "productName": "Steplex",
       "salePrice": "26",
-      "newPrice": "75"
+      "newPrice": "77"
     },
     "vasaxal": {
       "productName": "Vasaxal",
       "salePrice": "25",
-      "newPrice": "73"
+      "newPrice": "74"
     },
     "demyxil": {
       "productName": "Demyxil",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "81"
     },
     "delislim": {
       "productName": "Delislim",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "81"
     },
     "ophtalax": {
       "productName": "Ophtalax",
       "salePrice": "26",
-      "newPrice": "119"
+      "newPrice": "118"
     },
     "oculax": {
       "productName": "Oculax",
@@ -2496,7 +2496,7 @@
     "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "26",
-      "newPrice": "80"
+      "newPrice": "84"
     }
   },
 
@@ -8924,10 +8924,10 @@
     "reviews_femixal": [
       {
         "src": "img/review_femixal_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Малгожата Новак",
-        "text": "Честно казано, вече бях забравила кога за последно можех спокойно да изляза на дълга разходка в парка, без да планирам маршрута си от една обществена тоалетна до друга. Това постоянно усещане за натиск в долната част на корема ме изтощаваше психически, но след като започнах да приемам този растителен комплекс, ситуацията най-накрая започна да се променя към по-добро.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Malgorzata Novak",
+        "text": "Iskreno povedano, sem že pozabila, kdaj sem nazadnje lahko mirno odšla na dolg sprehod po parku, ne da bi načrtovala pot od enega javnega stranišča do drugega. Ta nenehna pritisk v spodnjem delu trebuha me je psihično izčrpavala, toda ko sem začela jemati ta rastlinski kompleks, se je situacija končno začela spreminjati na bolje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8954,10 +8954,10 @@
 
       {
         "src": "img/review_femixal_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Яна Ковачова",
-        "text": "Започнах да използвам Femixal по съвет на приятелка и въпреки че в началото не вярвах особено в резултата, още след десет дни забелязах, че сънят ми стана много по-спокоен, защото организмът спря да подава тези тревожни сигнали посред нощ. Невероятно е усещането да се събудиш сутрин бодра и да знаеш, че пикочната ти система най-накрая работи стабилно и спокойно.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Jana Kovačova ",
+        "text": "Femixal sem začela uporabljati na nasvet prijateljice in čeprav sprva nisem preveč verjela v uspeh, sem že po desetih dneh opazila, da je moj spanec postal veliko bolj trden, saj telo ni več pošiljalo teh alarmnih signalov sredi noči. To je neverjeten občutek – zjutraj se zbuditi polna energije in vedeti, da tvoj urinski sistem končno deluje stabilno in mirno.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8984,10 +8984,10 @@
 
       {
         "src": "img/review_femixal_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Ивана Хорват",
-        "text": "Това натурално средство се оказа истинско откритие за мен, защото действа много меко, без да предизвиква никакви странични ефекти, и същевременно помага да се поддържа вътрешният комфорт дори при влажно време.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Ivana Horvat",
+        "text": "To naravno sredstvo je zame prava odkritje, saj deluje zelo nežno, ne povzroča nobenih stranskih učinkov, hkrati pa pomaga ohranjati notranje udobje tudi v vlažnem vremenu. ",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9014,10 +9014,10 @@
 
       {
         "src": "img/review_femixal_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Новакова",
-        "text": "Дълго търсех някакъв деликатен начин да подкрепя организма си, и този продукт идеално отговаряше на моите нужди, защото помага за укрепване на мускулите и нормализиране на ритъма на посещение на тоалетната. Сега мога спокойно да ходя на гости или в киното, без да се притеснявам за непредвидими ситуации, които преди ме поставяха в неудобно положение.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Mojca Novak",
+        "text": "Dolgo sem iskala nežen način, kako podpreti svoje telo, in ta izdelek je popolnoma ustrezal mojim potrebam, saj pomaga okrepiti mišice in vzpostaviti normalen ritem odhodov na stranišče. Zdaj lahko brez skrbi grem na obisk k prijateljem ali v kino, ne da bi se morala skrbeti za nepredvidljive situacije, ki so me prej spravljale v neprijeten položaj.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9044,10 +9044,10 @@
 
       {
         "src": "img/review_femixal_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Елена Петрова",
-        "text": "Femixal има натрупващо действие — с всеки ден на прием усещах, че напрежението в областта на пикочния мехур става все по-малко, а позивите не са толкова резки и чести. Много съм доволна от резултата.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Elena Petrova",
+        "text": "Femixal ima kumulativni učinek – z vsakim dnem jemanja sem čutila, da se napetost v predelu mehurja zmanjšuje, potrebe po uriniranju pa niso več tako nujne in pogoste. Z rezultatom sem zelo zadovoljna",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9074,10 +9074,10 @@
 
       {
         "src": "img/review_femixal_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Варгова",
-        "text": "Този комплекс привлече вниманието ми със своя богат и в същото време безопасен състав, без агресивна химия. Чувството на тежест в долната част на корема изчезна доста бързо, и забелязах, че общото състояние на пикочните пътища значително се подобри, изчезна вечната раздразнителност и дискомфорт.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Marija Vargova",
+        "text": "Ta komplet me je pritegnil zaradi svoje bogate in hkrati varne sestave brez agresivnih kemikalij. Občutek teže v spodnjem delu trebuha je izginil precej hitro, opazila pa sem tudi, da se je splošno stanje sečil znatno izboljšalo, izginila sta tudi tista večna razdražljivost in nelagodje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9104,10 +9104,10 @@
 
       {
         "src": "img/review_femixal_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Павлова",
-        "text": "Поръчах това средство онлайн, защото в аптеките ми предлагаха само някакви стандартни продукти, които по-рано не ми помагаха особено. Доставката беше бърза и веднага започнах курса, надявайки се на поне някакъв резултат, но ефектът надмина всички очаквания — най-накрая престанах да бъда „привързана“ към тоалетната.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Marija Pavlovič",
+        "text": "To sredstvo sem naročila prek spleta, saj so mi v lekarnah ponujali le kakšna standardna sredstva, ki mi prej niso kaj dosti pomagala. Dostava je bila hitra in takoj sem začela z zdravljenjem, v upanju, da bom dosegla vsaj kakšen rezultat, vendar je učinek presegel vsa moja pričakovanja – končno nisem več »priklenjena« na stranišče.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9134,10 +9134,10 @@
 
       {
         "src": "img/review_femixal_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Анна Зупанова",
-        "text": "Преминах пълния курс и мога да кажа, че качеството на живота ми значително се повиши, защото изчезна вечната тревожност, която преди съпътстваше всяко излизане от дома ми. Това е наистина качествена подкрепа за женския организъм, която връща усещането за чистота, сухота и пълен комфорт през целия ден.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Anja Županič",
+        "text": "Opravila sem celoten program in lahko rečem, da se je kakovost mojega življenja znatno izboljšala, saj je izginila tista večna tesnoba, ki me je prej spremljala ob vsakem odhodu iz hiše. To je resnično odlična podpora za ženski organizem, ki mi ves dan vrača občutek čistoče, suhosti in popolnega udobja.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9164,10 +9164,10 @@
 
       {
         "src": "img/review_femixal_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Десислава Иванова",
-        "text": "Благодарение на тези капсули отново мога да поддържам нормален воден баланс, защото организмът ми реагира много по-спокойно на течности, а позивите станаха нормални, а не спешни. Чувствам, че бъбреците и пикочният ми мехур вече работят скоординирано, което ми позволява да се чувствам много по-енергична.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Desislava Ivanova",
+        "text": "Zahvaljujoč tem kapsulam lahko spet vzdržujem normalno ravnovesje v telesu, saj se moje telo na tekočino odziva veliko bolj umirjeno, potrebe po uriniranju pa so postale normalne in ne več nujne. Čutim, da moja ledvica in mehur zdaj delujeta usklajeno, zaradi česar se počutim veliko bolj polna energije.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9194,10 +9194,10 @@
 
       {
         "src": "img/review_femixal_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Вуйчич",
-        "text": "Femixal действа много меко, без да натоварва други органи, и същевременно дава устойчив резултат, който усещам всеки ден.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Malgožata Vujcik",
+        "text": "Femixal deluje zelo nežno, ne obremenjuje drugih organov, hkrati pa zagotavlja trajen učinek, ki ga občutim vsak dan.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9224,10 +9224,10 @@
 
       {
         "src": "img/review_femixal_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Зузана Полакова",
-        "text": "Този продукт ми помогна да укрепя местния имунитет и да премахна излишната чувствителност, която преди ме караше да се отказвам от активен начин на живот. Сега знам, че отделителната ми система работи стабилно и без никакви „изненади“.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Suzana Polakova",
+        "text": "Ta izdelek mi je pomagal okrepiti lokalni imunski sistem in odpraviti tisto prekomerno občutljivost, zaradi katere sem se prej moral odpovedati aktivnemu življenjskemu slogu. Zdaj vem, da moj urinarni sistem deluje stabilno in brez kakršnih koli »presenečenj«.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9254,10 +9254,10 @@
 
       {
         "src": "img/review_femixal_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Ана Марич",
-        "text": "Най-много ме впечатли в това средство колко бързо изчезна неприятното чувство на незавършеност след посещение на тоалетната, което преди беше постоянен спътник. Чувствам, че стените на пикочния ми мехур станаха по-малко раздразнени и вече не усещам постоянния фалшив натиск.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Ana Marič",
+        "text": "Najbolj me je pri tem izdelku presenetilo, kako hitro je izginil tisti neprijeten občutek nedokončanosti po obisku stranišča, ki me je prej stalno spremljal. Čutim, da so stene mehurja manj razdražene in ne čutim več tistega stalnega lažnega pritiska",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9284,10 +9284,10 @@
 
       {
         "src": "img/review_femixal_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Радка Георгиева",
-        "text": "Това средство ми помогна да преживея много тежка зима, когато постоянно замръзвах на спирките и заради това имах големи проблеми с честото уриниране. Капсулите помогнаха на организма ми да стане по-устойчив на студ, и забелязах, че дискомфортът спря да бъде толкова остър още през първата седмица на прием.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Radka Georgijeva",
+        "text": "Ta izdelek mi je pomagal prebroditi zelo težko zimo, ko sem na avtobusnih postajališčih nenehno zmrzovala in sem zaradi tega imela velike težave s pogostim uriniranjem. Kapsule so mojemu telesu pomagale, da je postalo bolj odporno proti mrazu, in že v prvem tednu jemanja sem opazila, da je nelagodje prenehalo biti tako izrazito.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10504,9 +10504,9 @@
     "reviews_ultraxal": [
       {
         "src": "img/review_ultraxal_1.png",
-        "name": "Karolína Pinkavová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Karolína Novak",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10529,14 +10529,14 @@
             "type": "empty"
           }
         ],
-        "text": "Dříve jsem po každém jídle měla břicho jako buben, bylo těžké dýchat... Před měsícem jsem začala užívat Ultraxal a opravdu se cítím lépe. Už nemám ten pocit, že se uvnitř všechno zastavilo. Trávení teď funguje přesně, jako hodiny."
+        "text": "Prej je bil moj trebuh po vsakem kosilu kot boben, težko sem celo dihala … Pred mesecem dni sem začela jemati Ultraxal in res mi je postalo lažje. Ni več tistega občutka, kot da se je znotraj vse ustavilo. Prebava zdaj deluje natančno kot ura."
       },
 
       {
         "src": "img/review_ultraxal_2.png",
-        "name": "Maxim Šlapák",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Ivan Jurič",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10559,14 +10559,14 @@
             "type": "empty"
           }
         ],
-        "text": "Užíval jsem tyto kapsle na podporu trávicího systému po silných pilulkách, jelikož jsem měl potíže se žaludkem a neustálou těžkost. Kapsle působily velmi jemně. Během týdne nepohodlí zmizelo, můžu zase normálně jíst a nemyslet na následky."
+        "text": "Te kapsule sem jemal za okrevanje po zdravljenju z močnimi tabletami, ker želodec ni ničesar sprejel, stalno sem čutil težo. Kapsule so delovale zelo nežno. V enem tednu je nelagodje izginilo, spet lahko normalno jem in ne razmišljam o posledicah."
       },
 
       {
         "src": "img/review_ultraxal_3.png",
         "name": "Vlastislav Řeháček",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10589,14 +10589,14 @@
             "type": "empty"
           }
         ],
-        "text": "Líbilo se mi, že obsahuje artyčok a ostropestřec mariánský. Jsou to nejlepší komponenty pro játra. Beru 2 kapsle denně. Ráno mi zmizela hořkost v ústech a celkově se cítím mnohem veseleji. Dobrý evropský produkt."
+        "text": "Otroci so mi naročili že drugo stekleničko tega pripravka, saj deluje tako nežno in prijetno, da med jemanjem sploh ne čutim nobenega nelagodja. Prej sem se nenehno mučil zaradi zaprtja in občutka kamna v trebuhu, zdaj pa je moje črevesje začelo delovati samostojno, brez potrebe po jemanju močnih odvajal, ki le uničujejo mikrofloro. Niti nisem pričakoval, da lahko navadni rastlinski izvlečki prinesejo tako opazen in dolgotrajen rezultat."
       },
 
       {
         "src": "img/review_ultraxal_4.png",
-        "name": "Eva Vomáčková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Eva Potočnik",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10619,14 +10619,14 @@
             "type": "empty"
           }
         ],
-        "text": "Abych byla upřímná, objednávala jsem s jistou skepsí, protože teď je na internetu spousta věcí inzerovaných, ale balíček dorazil velmi rychle a samotné balení vypadá kvalitně, což mě trochu uklidnilo. Začala jsem ho užívat striktně podle návodu s jídlem a nejvíc mě překvapilo, že zmizelo neustálé pálení žáhy, které mě trápilo měsíce po jakémkoli pikantním nebo pálivém jídle. Nyní trávení funguje stabilně, nejsou žádné ostré křeče."
+        "text": "Všeč mi je, da sta v sestavi artičoka in pegasti badelj. Za jetra je to najboljše. Vzamem po 2 kapsuli na dan. Izginila mi je grenkoba v ustih zjutraj in na splošno se počutim veliko bolj živahno. Dober evropski izdelek."
       },
 
       {
         "src": "img/review_ultraxal_5.png",
         "name": "Miriam Hrachová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10649,14 +10649,14 @@
             "type": "empty"
           }
         ],
-        "text": "Dávám si velký pozor na to, co užívám, takže jsem si před koupí prostudovala složení Ultraxalu a přesvědčila mě hlavně přítomnost dýňových a artyčokových semínek. Jsou to nejlepší přírodní komponenty pro mírnou detoxikaci. Účinek se nedostaví okamžitě, ale čtvrtý nebo pátý den prostě začnete chápat, že v břiše vládne naprosté ticho a klid bez ohledu na to, co jste snědli k obědu."
+        "text": "Iskreno povedano, sem ga naročila z določeno mero skepticizma, saj se na internetu danes oglašuje marsikaj, toda pošiljka je prispela zelo hitro, sama embalaža pa izgleda kakovostno, kar me je že nekoliko pomirilo. Začela sem ga jemati strogo po navodilih med obroki in najbolj me je presenetilo to, da je izginila tista stalna zgaga, ki me je mučila mesece po vsakem pikantnem ali začinjenem obroku. Zdaj prebava deluje stabilno, ni nobenih ostrih krčev."
       },
 
       {
         "src": "img/review_ultraxal_6.png",
-        "name": "Nikola Komínková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Nika Komínková",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10679,14 +10679,14 @@
             "type": "empty"
           }
         ],
-        "text": "V mém věku jsem už nasbíral spoustu problémů s gastrointestinálním traktem, takže vybrat doplněk stravy, který by nedráždil tak citlivou sliznici, je opravdový úkol. Tyto kapsle jsou podle mě naprosto perfektní: snadno se polykají, nezanechávají žádnou chemickou pachuť a co je nejdůležitější - po nich není ten hrozný pocit tíhy."
+        "text": "Zelo pozorno pazim na to, kar jemljem, zato sem pred nakupom dolgo preučevala sestavo izdelka Ultraxal, in me je prepričala vsebnost bučnih in artičokovih semen, saj sta to najboljša naravna sredstva za nežno razstrupljanje. Učinek ni takojšen, nekje četrti ali peti dan preprosto začneš razumeti, da v trebuhu vlada popolna tišina in mir, ne glede na to, kaj si pojedel za kosilo."
       },
 
       {
         "src": "img/review_ultraxal_7.png",
-        "name": "Dušan Hrabánek",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Tomaš Hrabánek",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10709,14 +10709,14 @@
             "type": "empty"
           }
         ],
-        "text": "Dříve jsem si musel před každou velkou rodinnou hostinou kupovat enzymy v lékárně, protože jinak bych prostě kvůli bolestem a pocitu plnosti v žaludku nemohl normálně přežít svátky. Kamarádka mi poradila, abych vyzkoušel tento bylinný komplex, a opravdu se ukázalo, že je mnohem účinnější a hlavně bezpečnější. Teď, i když si dopřeji kousek masa nebo dezert navíc, moje trávení to bez problémů zvládne."
+        "text": "V moji starosti se je že nabralo kar nekaj težav s prebavili, zato je iskanje dodatka, ki ne bi dražil že tako občutljive sluznice, prava pustolovščina. Te kapsule so se mi izkazale za preprosto idealne: zlahka se pogoltnejo, ne puščajo nobenega kemičnega priokusa, in kar je najpomembneje – po njih ni tiste grozne teže"
       },
 
       {
         "src": "img/review_ultraxal_8.png",
-        "name": "Cecílie Veselská",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Marija Veselská",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10739,14 +10739,14 @@
             "type": "empty"
           }
         ],
-        "text": "Objednala jsem si Ultraxal jen tak na podporu svého těla a byla jsem překvapená tím, jak rychle zmírnil všechny příznaky syndromu dráždivého tračníku. Pro aktivní lidi, jako jsem já, kteří nemají čas na běžná domácí jídla, je to opravdu skvělá podpora trávení, aby cítili pohodu."
+        "text": "Prej sem morala pred vsakim večjim družinskim praznovanjem kupiti encime iz lekarne, saj drugače zaradi bolečin in polnega želodca preprosto nisem mogla normalno preživeti praznikov. Prijateljica mi je svetovala, naj poskusim ta rastlinski kompleks, in to se je res izkazalo za veliko učinkovitejšo in, kar je pomembno, varnejšo rešitev. Zdaj, tudi če pojem kakšen kos mesa ali sladico preveč, se moje črevesje s tem spopade brez kakršnih koli težav in pritožb."
       },
 
       {
         "src": "img/review_ultraxal_9.png",
-        "name": "Vladislav Pařík",
-        "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Jan Pařík",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10769,14 +10769,14 @@
             "type": "empty"
           }
         ],
-        "text": "Tento produkt jsem užíval spíše preventivně, protože mám chronické problémy se žlučníkem a lékař mi doporučil pravidelně absolvovat kúry bylinných choleretik. Chci říct, že složení je překvapivě dobře promyšlené: díky artyčoku a pampelišce začala žluč mnohem lépe odtékat a nepohodlí v pravém podžebří, které mě pravidelně obtěžovalo, úplně zmizelo."
+        "text": "Ultraxal sem naročil zgolj zato, da bi podprl svoje telo, in sem bil prijetno presenečen, kako hitro je odpravil vse simptome razdraženega črevesja. Za tako aktivne ljudi, kot sem jaz, ki nimajo časa za običajne domače obroke, je to res odlična pomoč, da se počutimo kot človek."
       },
 
       {
         "src": "img/review_ultraxal_10.png",
-        "name": "Marika Ficová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Alenka Ficová",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10799,14 +10799,14 @@
             "type": "empty"
           }
         ],
-        "text": "Abych byla upřímná, dlouho jsem byla skeptická ohledně utrácení peněz za doplňky stravy z internetu, protože v lékárnách se prodává spousta prostředků, ale po několika neúspěšných pokusech jsem se odvážila riskovat a koupila si tento produkt. A víte, opravdu funguje lépe než drahé inzerované pilulky."
+        "text": "To zdravilo sem jemala bolj preventivno, saj imam kronične težave z žolčnikom in mi je zdravnik svetoval, naj občasno opravljam kurse z rastlinskimi zdravili za spodbujanje izločanja žolča. Želim povedati, da je sestava izdelka izjemno premišljeno izbrana: zahvaljujoč artišoku in regratu se je žolč začel izločati veliko bolje, tisti vlečeč občutek v desnem zgornjem kvadrantu, ki me je občasno mučil, pa je popolnoma izginil."
       },
 
       {
         "src": "img/review_ultraxal_11.png",
         "name": "Žaneta Skálová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10829,14 +10829,14 @@
             "type": "empty"
           }
         ],
-        "text": "Dodržuji veganskou stravu a jím hodně čerstvé zeleniny a luštěnin. Můj žaludek si proto někdy prostě nedokáže poradit s tak obrovským množstvím vlákniny, což vede k nadměrné plynatosti. Našla jsem si informace o tomto komplexu a rozhodla se ho začit užívat. Ukázalo se, že to bylo nejlepší rozhodnutí v poslední době. Teď se jídlo tráví mnohem snadněji."
+        "text": "Če sem odkrita, sem dolgo razmišljala, ali je vredno zapravljati denar za dodatke s spleta, saj je v lekarnah na voljo vse mogoče, a po nekaj neuspešnih poskusih sem se odločila tvegati in kupiti ta izdelek. In veste kaj, resnično deluje bolje kot drage, oglaševane tablete."
       },
 
       {
         "src": "img/review_ultraxal_12.png",
-        "name": "Evžénie Horynová",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "name": "Anja Horynová",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10859,13 +10859,13 @@
             "type": "empty"
           }
         ],
-        "text": "Kapsle užívám už asi měsíc a můžu s jistotou říct, že se mi metabolismus rozhodně zrychlil, protože už po jídle necítím tu únavu a malátnost, které mě dříve srážely z nohy na zem. Navíc se mi moc líbí, že produkt funguje komplexně a podporuje nejen žaludek, ale celý trávicí systém."
+        "text": "Ker se držim veganske prehrane in jem veliko sveže zelenjave ter stročnic, moj želodec včasih preprosto ne more obvladati tako velike količine vlaknin, kar povzroča močno nastajanje plinov. Našla sem informacije o tem kompleksu in se odločila, da ga poskusim dodati v svojo prehrano, in to se je izkazalo za najboljšo odločitev v zadnjem času, saj se hrana zdaj prebavi veliko lažje."
       },
       {
         "src": "img/review_ultraxal_14.png",
         "name": "Adéla Polanková",
-        "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;ULTRAXAL",
-        "rating_text": "Vynikající kvalita!",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTRAXAL",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10888,7 +10888,7 @@
             "type": "empty"
           }
         ],
-        "text": "Děti mi už objednaly druhé balení tohoto produktu, protože působí tak jemně a delikátně, že během užívání necítím vůbec žádné nepohodlí. Dříve jsem neustále trpěla zácpou a pocitem tíhy v žaludku, ale teď mi střeva začala fungovat správně. Už nemusím bez nutnosti pít silná projímadla, která jen poškozují mikroflóru. Ani jsem nečekala, že běžné rostlinné extrakty mohou poskytnout tak dobrý a dlouhotrvající výsledek."
+        "text": "Kapsule jemljem že približno mesec dni in lahko z gotovostjo rečem, da se je moj metabolizem očitno pospešil, saj po obroku ne čutim več tiste utrujenosti, ki me je prej kar podrla na tla. Poleg tega mi je zelo všeč, da izdelek deluje celostno in podpira ne le želodec, ampak celoten prebavni sistem."
       }
     ],
     "reviews_ophtalax": [
