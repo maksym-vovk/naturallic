@@ -569,7 +569,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'GUAVITAL+',
             salePrice: '26',
-            newPrice: '112'
+            newPrice: '113'
         },
         trovazin: {
             company: 'everad',
@@ -578,7 +578,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Trovazin',
             salePrice: '25',
-            newPrice: '73'
+            newPrice: '76'
         },
         desalix: {
             company: 'everad',
@@ -587,7 +587,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Desalix',
             salePrice: '25',
-            newPrice: '96'
+            newPrice: '100'
         },
         paraxan: {
             company: 'everad',
@@ -606,7 +606,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Exurol',
             salePrice: '26',
-            newPrice: '80'
+            newPrice: '84'
         },
         visoptic_duo_night: {
             modifier: 'img-space--right',
@@ -635,7 +635,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Beauty Age Skin',
             salePrice: '26',
-            newPrice: '136'
+            newPrice: '163'
         },
         beauty_age_skin_peeling: {
             company: 'everad',
@@ -644,7 +644,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Beauty Age Skin Peeling',
             salePrice: '26',
-            newPrice: '165'
+            newPrice: '137'
         },
         ausen: {
             modifier: 'img-space--right',
@@ -674,7 +674,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Viarex',
             salePrice: '26',
-            newPrice: '102'
+            newPrice: '104'
         },
         urosaf: {
             modifier: 'img-space--right',
@@ -694,7 +694,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Steplex',
             salePrice: '26',
-            newPrice: '69'
+            newPrice: '71'
         },
         vasaxal: {
             company: 'everad',
@@ -703,7 +703,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Vasaxal',
             salePrice: '24',
-            newPrice: '77'
+            newPrice: '81'
         },
         demyxil: {
             company: 'everad',
@@ -712,7 +712,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Demyxil',
             salePrice: '26',
-            newPrice: '82'
+            newPrice: '81'
         },
         delislim: {
             company: 'everad',
@@ -721,16 +721,17 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Delislim',
             salePrice: '26',
-            newPrice: '82'
+            newPrice: '84'
         },
-        ophtalax: {
+        cardiform: {
+            modifier: 'img-space--right',
             company: 'everad',
             campaign_id: '1082460',
-            niche: 'Nägemine',
+            niche: 'Südame-veresoonkond',
             country: 'Estonia',
-            productName: 'Ophtalax',
+            productName: 'Cardiform',
             salePrice: '26',
-            newPrice: '109'
+            newPrice: '108'
         },
         vasos_duo: {
             company: 'everad',
@@ -739,7 +740,7 @@ export const productsInfo = {
             country: 'Estonia',
             productName: 'Vasos Duo',
             salePrice: '24',
-            newPrice: '88'
+            newPrice: '93'
         }
     },
     gr: {
