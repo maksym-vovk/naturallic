@@ -642,7 +642,7 @@ const productsInfo = {
       campaign_id: '1082459',
       niche: 'Пикочната система',
       country: 'Bulgaria',
-      productName: 'Viarex',
+      productName: 'Femixal',
       salePrice: '44',
       newPrice: '92'
     },
@@ -1360,15 +1360,24 @@ const productsInfo = {
       salePrice: '26',
       newPrice: '136'
     },
-    vermixin: {
+    ultraxal: {
+      company: 'everad',
+      campaign_id: '1466538',
+      niche: 'Trávicí systém (GI)',
+      country: 'Croatia',
+      productName: 'Ultraxal',
+      salePrice: '24',
+      newPrice: '77'
+    },
+    femixal: {
       modifier: 'img-space--right',
       company: 'everad',
       campaign_id: '1466538',
-      niche: 'Paraziti',
+      niche: 'Mokraćni sustav',
       country: 'Croatia',
-      productName: 'Vermixin',
+      productName: 'Femixal',
       salePrice: '24',
-      newPrice: '88'
+      newPrice: '108'
     },
     viarex: {
       modifier: 'img-space--right',
