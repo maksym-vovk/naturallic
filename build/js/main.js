@@ -2759,7 +2759,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'GUAVITAL+',
       salePrice: '26',
-      newPrice: '112'
+      newPrice: '147'
     },
     trovazin: {
       company: 'everad',
@@ -2768,7 +2768,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Trovazin',
       salePrice: '24',
-      newPrice: '82'
+      newPrice: '108'
     },
     desalix: {
       company: 'everad',
@@ -2777,7 +2777,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Desalix',
       salePrice: '25',
-      newPrice: '89'
+      newPrice: '117'
     },
     paraxan: {
       company: 'everad',
@@ -2786,7 +2786,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Paraxan',
       salePrice: '26',
-      newPrice: '79'
+      newPrice: '86'
     },
     exurol: {
       modifier: 'img-space--right',
@@ -2796,7 +2796,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Exurol',
       salePrice: '26',
-      newPrice: '102'
+      newPrice: '139'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -2825,7 +2825,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Beauty Age Skin',
       salePrice: '26',
-      newPrice: '165'
+      newPrice: '144'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -2844,17 +2844,16 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Ausen',
       salePrice: '26',
-      newPrice: '136'
+      newPrice: '200'
     },
-    vermixin: {
-      modifier: 'img-space--right',
+    ultiplex: {
       company: 'everad',
       campaign_id: '1082464',
-      niche: 'Parazity',
+      niche: 'Imunita',
       country: 'Slovakia',
-      productName: 'Vermixin',
+      productName: 'Ultiplex',
       salePrice: '24',
-      newPrice: '88'
+      newPrice: '129'
     },
     viarex: {
       modifier: 'img-space--right',
@@ -2864,7 +2863,17 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Viarex',
       salePrice: '25',
-      newPrice: '125'
+      newPrice: '180'
+    },
+    femixal: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1082464',
+      niche: 'Močový systém',
+      country: 'Slovakia',
+      productName: 'Femixal',
+      salePrice: '25',
+      newPrice: '100'
     },
     urosaf: {
       modifier: 'img-space--right',
@@ -2874,7 +2883,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Urosaf',
       salePrice: '24',
-      newPrice: '139'
+      newPrice: '193'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -2884,7 +2893,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Steplex',
       salePrice: '26',
-      newPrice: '75'
+      newPrice: '163'
     },
     vasaxal: {
       company: 'everad',
@@ -2893,7 +2902,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Vasaxal',
       salePrice: '25',
-      newPrice: '73'
+      newPrice: '104'
     },
     demyxil: {
       company: 'everad',
@@ -2902,7 +2911,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Demyxil',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '96'
     },
     delislim: {
       company: 'everad',
@@ -2911,7 +2920,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Delislim',
       salePrice: '26',
-      newPrice: '82'
+      newPrice: '129'
     },
     ophtalax: {
       company: 'everad',
@@ -2920,7 +2929,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Ophtalax',
       salePrice: '26',
-      newPrice: '119'
+      newPrice: '104'
     },
     vasos_duo: {
       company: 'everad',
@@ -2929,7 +2938,7 @@ const productsInfo = {
       country: 'Slovakia',
       productName: 'Vasos Duo',
       salePrice: '26',
-      newPrice: '80'
+      newPrice: '113'
     }
   },
   sl: {

@@ -581,7 +581,7 @@
       "btn": "Viac informácií"
     },
     {
-      "label": "Хит",
+      "label": "Hit",
       "srcPhoto": "img/femixal.png",
       "srcPhotoWebp": "img/femixal.webp",
       "mobSrcPhoto": "img/femixal-mob.png",
@@ -610,12 +610,12 @@
           "type": "full"
         }
       ],
-      "text": "382 отзива",
-      "desc": "Пикочна система",
+      "text": "382 hodnotení",
+      "desc": "Rastlinný komplex na podporu zdravia močového systému a komfortu pri močení",
       "link": "femixal.html",
       "tag": "femixal",
       "category": "health",
-      "btn": "ПОДРОБНО"
+      "btn": "Viac informácií"
     },
     {
       "label": "Hit",
@@ -646,12 +646,12 @@
           "type": "full"
         }
       ],
-      "text": "486 recenzii",
-      "desc": "Complex multivitaminic „12 în 1” pentru susținerea forțelor de apărare ale organismului și a echilibrului energetic.",
+      "text": "486 hozzászólás",
+      "desc": "Multivitamínový komplex „12 v 1“ na podporu obranyschopnosti organizmu a energetickej rovnováhy",
       "link": "ultiplex.html",
       "tag": "ultiplex",
       "category": "health",
-      "btn": "Comandați"
+      "btn": "RÉSZLETEK"
     },
     {
       "label": "Hit",
@@ -1570,8 +1570,8 @@
           "type": "full"
         }
       ],
-      "text": "382 отзива",
-      "niche": "Категория: Пикочна система"
+      "text": "382 hodnotení",
+      "niche": "Smer: Močový systém"
     },
     {
       "link": "ultiplex.html",
@@ -1604,7 +1604,7 @@
           "type": "full"
         }
       ],
-      "text": "486 recenzii",
+      "text": "486 hozzászólás",
       "niche": "Imunitate și întărire generală"
     },
     {
@@ -1639,7 +1639,7 @@
         }
       ],
       "text": "427 hozzászólás",
-      "niche": "Mozgásszervi rendszer (ízületek)"
+      "niche": "Smer: Imunita"
     },
     {
       "link": "urosaf.html",
@@ -2146,33 +2146,33 @@
   },
   "femixal": {
     "title": "Femixal",
-    "category": "За здравето",
-    "review_count": "382 отзива",
-    "niche": "Пикочна система",
-    "form_factor": "Капсули, 10 броя",
-    "short_description": "Растителен комплекс за подпомагане здравето на пикочната система и комфорта при уриниране",
-    "description": "Femixal е разработен като продукт с натурален произход за поддържане на функционалното състояние на органите на пикочната система. Формулата на базата на екстракт от червена боровинка и D-маноза подпомага укрепването на защитните бариери на пикочния мехур, което възпрепятства прикрепването на патогенни микроорганизми към неговите стени. Благодарение на съчетанието от активни компоненти продуктът подпомага естествените процеси на прочистване на пикочните пътища и помага за поддържане на тяхната хигиена. Редовната употреба допринася за общото укрепване на локалния имунитет и намаляване на дискомфорта, свързан с функционални нарушения на пикочната система. Комплексът действа меко, без да нарушава естествения баланс на организма, и е част от здравословния начин на живот.",
-    "compound": "Екстракт от плодове на червена боровинка (Vaccinium macrocarpon, 25% PAC), D-маноза, екстракт от корен на глухарче. Помощни вещества: желатин (обвивка на капсулата), микрокристална целулоза, антислепващо вещество – магнезиеви соли на мастни киселини.",
-    "usage": "Препоръчва се прием на 1–2 капсули дневно по време на хранене. Не превишавайте препоръчителната дневна доза.",
-    "contraindications": "Индивидуална чувствителност към отделни компоненти. Преди употреба по време на бременност или кърмене се консултирайте със специалист.",
-    "manufacturer": "Dalmatika (България)",
-    "suitability": "24 месеца",
-    "keep": "Да се съхранява на сухо място, недостъпно за деца, при температура не по-висока от +25°C."
+    "category": "Pre zdravie",
+    "review_count": "382 hodnotení",
+    "niche": "Močový systém",
+    "form_factor": "Kapsuly, 10 kusov",
+    "short_description": "Rastlinný komplex na podporu zdravia močového systému a komfortu pri močení",
+    "description": "Femixal je vyvinutý ako prírodný prostriedok na podporu funkčného stavu orgánov močového systému. Formula na báze extraktu z brusníc a D-manózy prispieva k posilneniu ochranných bariér močového mechúra, čím bráni uchyteniu patogénnych mikroorganizmov na jeho stenách. Vďaka kombinácii aktívnych zložiek produkt podporuje prirodzené procesy čistenia močových ciest a pomáha udržiavať ich hygienu. Pravidelné užívanie prispieva k celkovému posilneniu lokálnej imunity a zníženiu diskomfortu spojeného s funkčnými poruchami močového systému. Komplex pôsobí jemne, bez narušenia prirodzenej rovnováhy organizmu, a je súčasťou zdravého životného štýlu.",
+    "compound": "Extrakt z plodov brusnice (Vaccinium macrocarpon, 25 % PAC), D-manóza, extrakt z koreňa púpavy. Pomocné látky: želatína (obal kapsuly), mikrokryštalická celulóza, protihrudkujúca látka – horečnaté soli mastných kyselín.",
+    "usage": "Odporúča sa užívať 1–2 kapsuly denne počas jedla. Neprekračujte odporúčanú dennú dávku.",
+    "contraindications": "Individuálna citlivosť na jednotlivé zložky. Pred začiatkom užívania počas tehotenstva alebo dojčenia sa odporúča konzultácia s odborníkom.",
+    "manufacturer": "Dalmatika",
+    "suitability": "24 mesiacov",
+    "keep": "Uchovávajte na suchom mieste, mimo dosahu detí, pri teplote do +25 °C."
   },
   "ultiplex": {
     "title": "Ultiplex",
-    "category": "Pentru sănătate",
-    "review_count": "486 recenzii",
-    "niche": "Imunitate și întărire generală",
-    "form_factor": "Capsule, 20 bucăți",
-    "short_description": "Complex multivitaminic „12 în 1” pentru susținerea forțelor de apărare ale organismului și a echilibrului energetic",
-    "description": "UltiPlex a fost conceput pentru susținerea completă a organismului și întărirea sistemului imunitar. Datorită combinației de 12 ingrediente active — vitamine, minerale și extracte din plante — complexul contribuie la creșterea rezistenței la factorii sezonieri și la iritanții externi. Produsul ajută la menținerea unui nivel ridicat de tonus vital, favorizează metabolismul energetic normal și protejează celulele împotriva stresului oxidativ. Componentele vegetale din compoziție susțin funcționarea sistemelor nervos și cardiovascular, ajutând organismul să se adapteze la eforturile fizice și emoționale.",
-    "compound": "Vitamina C (40,00 mg), vitamina B1 (0,70 mg), vitamina B2 (0,70 mg), vitamina B6 (0,70 mg), vitamina B12 (0,00125 mg), vitamina E (3,00 mg), vitamina D3 (0,005 mg), zinc (3,00 mg), crom (0,02 mg), seleniu (0,055 mg) din L-metionină de seleniu, calciu (10,00 mg), glicină (10,00 mg), extract de echinacee (10,00 mg), extract de soc (10,00 mg), extract de ghimbir (5,00 mg), extract de hibiscus (7,00 mg). Substanțe auxiliare: gelatină (învelișul capsulei), celuloză microcristalină, agent antiaglomerant: săruri de magneziu ale acizilor grași.",
-    "usage": "Adulților li se recomandă să ia câte 1–2 capsule pe zi, în timpul mesei. Nu depășiți doza zilnică recomandată.",
-    "contraindications": "Sensibilitate individuală la ingrediente; copii. Femeile însărcinate și cele care alăptează trebuie să consulte un specialist înainte de utilizare.",
+    "category": "Az egészségért",
+    "review_count": "486 hozzászólás",
+    "niche": "Imunita a celkové posilnenie",
+    "form_factor": "Kapsuly, 20 kusov",
+    "short_description": "Multivitamínový komplex „12 v 1“ na podporu obranyschopnosti organizmu a energetickej rovnováhy",
+    "description": "UltiPlex je vyvinutý na komplexnú podporu organizmu a posilnenie imunitného systému. Vďaka kombinácii 12 aktívnych zložiek — vitamínov, minerálov a rastlinných extraktov — komplex prispieva k zvýšeniu odolnosti voči sezónnym faktorom a vonkajším podnetom. Prípravok pomáha udržiavať vysokú úroveň vitality, podporuje normálny energetický metabolizmus a ochranu buniek pred oxidačným stresom. Rastlinné zložky v zložení podporujú činnosť nervového a kardiovaskulárneho systému a pomáhajú organizmu prispôsobiť sa fyzickej aj emocionálnej záťaži.",
+    "compound": "Vitamín C (40,00 mg), vitamín B1 (0,70 mg), vitamín B2 (0,70 mg), vitamín B6 (0,70 mg), vitamín B12 (0,00125 mg), vitamín E (3,00 mg), vitamín D3 (0,005 mg), zinok (3,00 mg), chróm (0,02 mg), selén (0,055 mg) zo selénu L-metionínu, vápnik (10,00 mg), glycín (10,00 mg), extrakt z echinacey (10,00 mg), extrakt z bazy (10,00 mg), extrakt zo zázvoru (5,00 mg), extrakt z ibišteka (7,00 mg). Pomocné látky: želatína (obal kapsuly), mikrokryštalická celulóza, protihrudkujúca látka – horečnaté soli mastných kyselín.",
+    "usage": "Dospelým sa odporúča užívať 1–2 kapsuly denne počas jedla. Neprekračujte odporúčanú dennú dávku.",
+    "contraindications": "Individuálna citlivosť na zložky, detský vek. Tehotné a dojčiace ženy by sa mali pred začiatkom užívania poradiť s odborníkom.",
     "manufacturer": "Contract Pharma",
-    "suitability": "24 luni",
-    "keep": "A se păstra într-un loc uscat, la îndemâna copiilor, la o temperatură de maximum +25 °C."
+    "suitability": "24 mesiacov",
+    "keep": "Uchovávajte na suchom mieste, mimo dosahu detí, pri teplote do +25 °C."
   },
   "remofix": {
     "title": "Remofix",
@@ -2386,7 +2386,7 @@
     "guavital": {
       "productName": "GUAVITAL+",
       "salePrice": "26",
-      "newPrice": "112"
+      "newPrice": "147"
     },
     "ultraxal": {
       "productName": "Ultraxal",
@@ -2396,22 +2396,22 @@
     "trovazin": {
       "productName": "Trovazin",
       "salePrice": "24",
-      "newPrice": "82"
+      "newPrice": "108"
     },
     "desalix": {
       "productName": "Desalix",
       "salePrice": "25",
-      "newPrice": "89"
+      "newPrice": "117"
     },
     "paraxan": {
       "productName": "Paraxan",
       "salePrice": "26",
-      "newPrice": "79"
+      "newPrice": "86"
     },
     "exurol": {
       "productName": "Exurol",
       "salePrice": "26",
-      "newPrice": "102"
+      "newPrice": "139"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
@@ -2426,7 +2426,7 @@
     "beauty_age_skin": {
       "productName": "Beauty Age Skin",
       "salePrice": "26",
-      "newPrice": "165"
+      "newPrice": "144"
     },
     "beauty_age_skin_peeling": {
       "productName": "Beauty Age Skin Peeling",
@@ -2436,7 +2436,7 @@
     "ausen": {
       "productName": "Ausen",
       "salePrice": "26",
-      "newPrice": "136"
+      "newPrice": "200"
     },
     "vermixin": {
       "productName": "Vermixin",
@@ -2446,17 +2446,17 @@
     "viarex": {
       "productName": "Viarex",
       "salePrice": "25",
-      "newPrice": "125"
+      "newPrice": "180"
     },
     "femixal": {
       "productName": "Femixal",
       "salePrice": "44",
-      "newPrice": "92"
+      "newPrice": "100"
     },
     "ultiplex": {
       "productName": "Ultiplex",
       "salePrice": "150",
-      "newPrice": "393"
+      "newPrice": "129"
     },
     "remofix": {
       "productName": "Remofix",
@@ -2466,32 +2466,32 @@
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "24",
-      "newPrice": "139"
+      "newPrice": "193"
     },
     "steplex": {
       "productName": "Steplex",
       "salePrice": "26",
-      "newPrice": "75"
+      "newPrice": "163"
     },
     "vasaxal": {
       "productName": "Vasaxal",
       "salePrice": "25",
-      "newPrice": "73"
+      "newPrice": "104"
     },
     "demyxil": {
       "productName": "Demyxil",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "96"
     },
     "delislim": {
       "productName": "Delislim",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "129"
     },
     "ophtalax": {
       "productName": "Ophtalax",
       "salePrice": "26",
-      "newPrice": "119"
+      "newPrice": "104"
     },
     "oculax": {
       "productName": "Oculax",
@@ -2506,7 +2506,7 @@
     "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "26",
-      "newPrice": "80"
+      "newPrice": "113"
     }
   },
 
@@ -8939,10 +8939,10 @@
     "reviews_femixal": [
       {
         "src": "img/review_femixal_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Малгожата Новак",
-        "text": "Честно казано, вече бях забравила кога за последно можех спокойно да изляза на дълга разходка в парка, без да планирам маршрута си от една обществена тоалетна до друга. Това постоянно усещане за натиск в долната част на корема ме изтощаваше психически, но след като започнах да приемам този растителен комплекс, ситуацията най-накрая започна да се променя към по-добро.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Melinda Nowaková",
+        "text": "Úprimne povedané, už som zabudla, kedy som naposledy mohla pokojne ísť na dlhú prechádzku do parku bez toho, aby som si plánovala trasu od jednej verejnej toalety k druhej. Tento neustály pocit tlaku v podbrušku ma psychicky vyčerpával, ale po tom, čo som začala užívať tento rastlinný komplex, sa situácia konečne začala meniť k lepšiemu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8969,10 +8969,10 @@
 
       {
         "src": "img/review_femixal_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Яна Ковачова",
-        "text": "Започнах да използвам Femixal по съвет на приятелка и въпреки че в началото не вярвах особено в резултата, още след десет дни забелязах, че сънят ми стана много по-спокоен, защото организмът спря да подава тези тревожни сигнали посред нощ. Невероятно е усещането да се събудиш сутрин бодра и да знаеш, че пикочната ти система най-накрая работи стабилно и спокойно.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Jana Kováčová",
+        "text": "Začala som používať Femixal na odporúčanie kamarátky a hoci som spočiatku veľmi neverila v výsledok, už po desiatich dňoch som si všimla, že môj spánok je oveľa kvalitnejší, pretože organizmus prestal vysielať tieto nepríjemné signály uprostred noci. Je to úžasný pocit — zobudiť sa ráno oddýchnutá a vedieť, že tvoj močový systém konečne funguje stabilne a pokojne.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8999,10 +8999,10 @@
 
       {
         "src": "img/review_femixal_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Ивана Хорват",
-        "text": "Това натурално средство се оказа истинско откритие за мен, защото действа много меко, без да предизвиква никакви странични ефекти, и същевременно помага да се поддържа вътрешният комфорт дори при влажно време.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Ivana Kollárová",
+        "text": "Tento prírodný prípravok sa pre mňa stal skutočným objavom, pretože pôsobí veľmi jemne, nespôsobuje žiadne vedľajšie účinky a zároveň pomáha udržiavať vnútorný komfort aj počas vlhkého počasia.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9029,10 +9029,10 @@
 
       {
         "src": "img/review_femixal_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Новакова",
-        "text": "Дълго търсех някакъв деликатен начин да подкрепя организма си, и този продукт идеално отговаряше на моите нужди, защото помага за укрепване на мускулите и нормализиране на ритъма на посещение на тоалетната. Сега мога спокойно да ходя на гости или в киното, без да се притеснявам за непредвидими ситуации, които преди ме поставяха в неудобно положение.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Alena Hricová",
+        "text": "Dlho som hľadala nejaký šetrný spôsob, ako podporiť svoj organizmus, a tento produkt dokonale vyhovel mojim požiadavkám, pretože pomáha posilniť svaly a nastaviť normálny rytmus návštev toalety. Teraz môžem pokojne chodiť na návštevy k priateľom alebo do kina bez obáv z nepredvídateľných situácií, ktoré ma predtým dostávali do nepríjemnej pozície.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9059,10 +9059,10 @@
 
       {
         "src": "img/review_femixal_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Елена Петрова",
-        "text": "Femixal има натрупващо действие — с всеки ден на прием усещах, че напрежението в областта на пикочния мехур става все по-малко, а позивите не са толкова резки и чести. Много съм доволна от резултата.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Elena Petrova",
+        "text": "Femixal má kumulatívny účinok — s každým dňom užívania som cítila, že napätie v oblasti močového mechúra sa znižuje a nutkanie už nie je také náhle a časté. Som veľmi spokojná s výsledkom.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9089,10 +9089,10 @@
 
       {
         "src": "img/review_femixal_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Варгова",
-        "text": "Този комплекс привлече вниманието ми със своя богат и в същото време безопасен състав, без агресивна химия. Чувството на тежест в долната част на корема изчезна доста бързо, и забелязах, че общото състояние на пикочните пътища значително се подобри, изчезна вечната раздразнителност и дискомфорт.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Mária Vargová",
+        "text": "Tento komplex ma zaujal svojím bohatým a zároveň bezpečným zložením bez agresívnej chémie. Pocit ťažkosti v podbrušku zmizol pomerne rýchlo a všimla som si, že celkový stav močových ciest sa výrazne zlepšil — zmizla tá neustála podráždenosť a diskomfort.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9119,10 +9119,10 @@
 
       {
         "src": "img/review_femixal_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Павлова",
-        "text": "Поръчах това средство онлайн, защото в аптеките ми предлагаха само някакви стандартни продукти, които по-рано не ми помагаха особено. Доставката беше бърза и веднага започнах курса, надявайки се на поне някакъв резултат, но ефектът надмина всички очаквания — най-накрая престанах да бъда „привързана“ към тоалетната.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Mária Pavlovičová",
+        "text": "Objednala som si tento prípravok cez internet, pretože v lekárňach mi ponúkali len nejaké štandardné veci, ktoré mi predtým veľmi nepomáhali. Doručenie bolo rýchle a hneď som začala kúru s nádejou aspoň na nejaký výsledok, ale efekt prekonal všetky moje očakávania — konečne som prestala byť „pripútaná“ k toalete.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9149,10 +9149,10 @@
 
       {
         "src": "img/review_femixal_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Анна Зупанова",
-        "text": "Преминах пълния курс и мога да кажа, че качеството на живота ми значително се повиши, защото изчезна вечната тревожност, която преди съпътстваше всяко излизане от дома ми. Това е наистина качествена подкрепа за женския организъм, която връща усещането за чистота, сухота и пълен комфорт през целия ден.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Adela Richtárová",
+        "text": "Absolvovala som celý kurz a môžem povedať, že kvalita môjho života sa výrazne zlepšila, pretože zmizla tá neustála úzkosť, ktorá ma predtým sprevádzala pri každom odchode z domu. Je to naozaj kvalitná podpora pre ženský organizmus, ktorá prináša pocit čistoty, sucha a úplného komfortu počas celého dňa.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9179,10 +9179,10 @@
 
       {
         "src": "img/review_femixal_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Десислава Иванова",
-        "text": "Благодарение на тези капсули отново мога да поддържам нормален воден баланс, защото организмът ми реагира много по-спокойно на течности, а позивите станаха нормални, а не спешни. Чувствам, че бъбреците и пикочният ми мехур вече работят скоординирано, което ми позволява да се чувствам много по-енергична.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Lucia Repiská",
+        "text": "Vďaka týmto kapsulám môžem opäť dodržiavať normálny pitný režim, pretože môj organizmus začal oveľa pokojnejšie reagovať na tekutiny a nutkanie sa normalizovalo, už nie je také urgentné. Mám pocit, že moje obličky a močový mechúr teraz fungujú harmonicky, čo mi umožňuje cítiť sa oveľa energickejšie.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9209,10 +9209,10 @@
 
       {
         "src": "img/review_femixal_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Вуйчич",
-        "text": "Femixal действа много меко, без да натоварва други органи, и същевременно дава устойчив резултат, който усещам всеки ден.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Nora Beňová",
+        "text": "Femixal pôsobí veľmi jemne, nezaťažuje iné orgány a zároveň prináša stabilný výsledok, ktorý pociťujem každý deň.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9239,10 +9239,10 @@
 
       {
         "src": "img/review_femixal_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Зузана Полакова",
-        "text": "Този продукт ми помогна да укрепя местния имунитет и да премахна излишната чувствителност, която преди ме караше да се отказвам от активен начин на живот. Сега знам, че отделителната ми система работи стабилно и без никакви „изненади“.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Zuzana Poláková",
+        "text": "Tento produkt mi pomohol posilniť lokálnu imunitu a odstrániť tú nadmernú citlivosť, ktorá ma predtým nútila vzdávať sa aktívneho životného štýlu. Teraz viem, že môj močový systém funguje stabilne a bez akýchkoľvek „prekvapení“.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9269,10 +9269,10 @@
 
       {
         "src": "img/review_femixal_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Ана Марич",
-        "text": "Най-много ме впечатли в това средство колко бързо изчезна неприятното чувство на незавършеност след посещение на тоалетната, което преди беше постоянен спътник. Чувствам, че стените на пикочния ми мехур станаха по-малко раздразнени и вече не усещам постоянния фалшив натиск.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Anna Marićová",
+        "text": "Najviac ma na tomto prípravku prekvapilo, ako rýchlo zmizol ten nepríjemný pocit neúplného vyprázdnenia po návšteve toalety, ktorý bol predtým mojím stálym problémom. Mám pocit, že steny močového mechúra sú menej podráždené a už necítim ten neustály falošný tlak.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9299,10 +9299,10 @@
 
       {
         "src": "img/review_femixal_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Радка Георгиева",
-        "text": "Това средство ми помогна да преживея много тежка зима, когато постоянно замръзвах на спирките и заради това имах големи проблеми с честото уриниране. Капсулите помогнаха на организма ми да стане по-устойчив на студ, и забелязах, че дискомфортът спря да бъде толкова остър още през първата седмица на прием.",
+        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Radka Georgová",
+        "text": "Tento prípravok mi pomohol prežiť veľmi náročnú zimu, keď som neustále mrzla na zastávkach a kvôli tomu som mala veľké problémy s častým močením. Kapsuly pomohli môjmu organizmu stať sa odolnejším voči chladu a všimla som si, že diskomfort prestal byť taký výrazný už v prvom týždni užívania.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9330,9 +9330,9 @@
     "reviews_ultiplex": [
       {
         "src": "img/review_ultiplex_1.png",
-        "name": "Andrei Popescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Ľuboslav Capko",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9355,14 +9355,14 @@
             "type": "empty"
           }
         ],
-        "text": "De obicei, toamna înseamnă pentru mine o rinită continuă și o senzație constantă de epuizare, dar anul acesta am decis să-mi întăresc organismul din timp și am comandat acest complex doar pentru compozița sa bogată. Mi-a plăcut foarte mult faptul că conține nu doar vitamine, ci și extracte de soc și echinacee, care ajută cu adevărat să rămâi în formă atunci când toți cei din jur încep să strănute."
+        "text": "Zvyčajne je pre mňa jeseň obdobím neustálej nádchy a pocitu vyčerpania, ale tento rok som sa rozhodol podporiť organizmus vopred a objednal som si tento komplex kvôli jeho bohatému zloženiu. Veľmi sa mi páči, že obsahuje nielen vitamíny, ale aj extrakty z bazy a echinacey, ktoré reálne pomáhajú udržať sa v kondícii, keď všetci okolo začínajú kýchať."
       },
 
       {
         "src": "img/review_ultiplex_2.png",
-        "name": "Elena Radu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Zoja Jančová",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9385,14 +9385,14 @@
             "type": "empty"
           }
         ],
-        "text": "Simt cum forțele de apărare ale organismului s-au întărit, pentru că, chiar și atunci când jumătate dintre colegii de la birou au intrat în concediu medical, eu mă simt plină de energie și absolut sănătoasă."
+        "text": "Cítim, že sa obranyschopnosť môjho organizmu posilnila, pretože aj keď polovica kolegov v kancelárii odišla na PN, ja sa cítim sviežo a úplne zdravo."
       },
 
       {
         "src": "img/review_ultiplex_3.png",
-        "name": "Ionuț Dumitru",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Fridrich Marcinek",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9415,14 +9415,14 @@
             "type": "empty"
           }
         ],
-        "text": "Am început să iau acest complex multivitaminic luna trecută și, deși la început eram sceptic, după doar două săptămâni am simțit un adevărat val de energie. Probabil că vitaminele din grupa B și seleniul din compoziție și-au făcut efectul, pentru că starea de spirit a devenit mai stabilă, iar trezirea de dimineață nu mai seamănă cu o luptă pentru supraviețuire."
+        "text": "Začal som užívať tento multivitamínový komplex minulý mesiac a hoci som bol spočiatku skeptický, už po dvoch týždňoch som pocítil skutočný príval energie. Pravdepodobne vitamíny skupiny B a selén urobili svoju prácu, pretože nálada sa stabilizovala a ranné vstávanie už nepripomína boj o prežitie."
       },
 
       {
         "src": "img/review_ultiplex_4.png",
         "name": "Elena Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9445,14 +9445,14 @@
             "type": "empty"
           }
         ],
-        "text": "Iau capsulele deja de trei săptămâni și, pe lângă faptul că nu mai obosesc atât de repede, am observat un bonus plăcut — pielea și părul arată mult mai bine, probabil datorită protecției antioxidante. Sunt foarte recunoscătoare pentru această abordare complexă, deoarece este mult mai simplu decât să iau zilnic o mulțime de pastile diferite, iar pentru stomac este mult mai confortabil."
+        "text": "Užívam kapsuly už tretí týždeň a okrem toho, že sa menej unavujem, som si všimla aj príjemný bonus — pokožka a vlasy vyzerajú výrazne lepšie, pravdepodobne vďaka antioxidačnej ochrane. Som veľmi vďačná za takýto komplexný prístup, pretože je to oveľa jednoduchšie, než užívať každý deň hŕbu rôznych tabletiek, a pre žalúdok je to tiež omnoho komfortnejšie."
       },
 
       {
         "src": "img/review_ultiplex_5.png",
-        "name": "Marin Varga",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Marek Varga",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9475,14 +9475,14 @@
             "type": "empty"
           }
         ],
-        "text": "Am decis să încerc Ultiplex, deoarece mi-a fost recomandat ca remediu pentru întărirea generală a organismului, și nu am regretat niciun moment alegerea mea. Compoziția este pur și simplu puternică: atât vitaminele, cât și mineralele și componentele vegetale acționează împreună astfel încât simți cu adevărat cum organismul se umple de viață și de forță."
+        "text": "Rozhodol som sa vyskúšať Ultiplex, pretože mi ho odporučili ako prostriedok na celkové posilnenie, a ani na chvíľu som neoľutoval svoj výber. Zloženie je tu naozaj silné: vitamíny, minerály aj rastlinné zložky spolu fungujú tak, že človek reálne cíti, ako sa organizmus akoby napĺňa životom a silou."
       },
 
       {
         "src": "img/review_ultiplex_6.png",
-        "name": "Carmelia Stoica",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Camelia Stoica",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9505,14 +9505,14 @@
             "type": "empty"
           }
         ],
-        "text": "Am fost plăcut surprinsă că acest complex nu provoacă niciun disconfort, chiar dacă îl iei pe stomacul gol, deși conform instrucțiunilor trebuie luat în timpul mesei. Mă simt protejată în acest sezon al virusurilor și, cel mai important, a dispărut acea senzație eternă de „ceață” din cap, iar în locul ei au apărut claritatea și productivitatea."
+        "text": "Bola som príjemne prekvapená, že tento komplex nespôsobuje žiadny diskomfort, aj keď ho užijem nalačno, hoci podľa návodu by sa mal užívať počas jedla. Cítim sa chránená v tomto období vírusov a čo je najdôležitejšie — zmizol ten neustály pocit „hmly“ v hlave, objavila sa jasnosť a produktivita."
       },
 
       {
         "src": "img/review_ultiplex_7.png",
-        "name": "Martin Popa",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Martin Horváth",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9535,14 +9535,14 @@
             "type": "empty"
           }
         ],
-        "text": "La acest produs îmi place combinația de zinc și magneziu cu vitamina C, care este ideală pentru susținerea sistemului cardiovascular și a mușchilor în timpul efortului fizic. Îl iau în curs și observ că recuperarea se face acum mult mai repede, iar rezistența generală a crescut vizibil, așa că voi mai comanda."
+        "text": "Na tomto produkte sa mi páči kombinácia zinku a horčíka s vitamínom C, ktorá je ideálna na podporu kardiovaskulárneho systému a svalov pri záťaži. Užívam ho ako kúru a vidím, že regenerácia teraz prebieha oveľa rýchlejšie a celková vytrvalosť sa výrazne zvýšila, takže si ho určite objednám znova."
       },
 
       {
         "src": "img/review_ultiplex_8.png",
-        "name": "Mihaela Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Mihaela Kostrecová",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9565,14 +9565,14 @@
             "type": "empty"
           }
         ],
-        "text": "Alegeam mult timp între diferite variante pentru susținerea imunității, dar m-am oprit la Ultiplex pentru că este prezentă glicina în compoziție și vitaminelor din grupa B în compoziție, deoarece doream nu numai să-mi întăresc apărarea, ci și să-mi calmez puțin sistemul nervos. Știți, a funcționat — am început să reacționez mult mai calm la micile probleme cotidiene și, în același timp, nu simt nicio somnolență, ci doar o încredere liniștită și energie."
+        "text": "Dlho som si vyberala medzi rôznymi možnosťami na podporu imunity, ale rozhodla som sa pre Ultiplex kvôli obsahu glycínu a vitamínov skupiny B, pretože som chcela nielen posilniť obranyschopnosť, ale aj trochu upokojiť nervový systém. A viete čo? Fungovalo to — reagujem oveľa pokojnejšie na každodenné maličkosti a pritom necítim žiadnu ospalosť, len pokojnú istotu a energiu."
       },
 
       {
         "src": "img/review_ultiplex_9.png",
-        "name": "Simona Florescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Simona Šidlová",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9595,14 +9595,14 @@
             "type": "empty"
           }
         ],
-        "text": "Înainte îmi era mereu frig, chiar și în încăperi, iar acum circulația sanguină pare să se fi îmbunătățit, iar starea generală de sănătate a devenit mult mai stabilă. Cred că extractul de hibiscus și ghimbir are un efect atât de benefic asupra vaselor de sânge, încât acum recomand acest complex tuturor prietenelor care doresc să se simtă pline de energie, indiferent de vremea de afară."
+        "text": "Predtým mi bola neustále zima, dokonca aj v interiéri, no teraz sa zdá, že sa krvný obeh zlepšil a celkový stav je oveľa stabilnejší. Myslím si, že extrakt z ibišteka a zázvoru tak dobre pôsobí na cievy, preto teraz tento komplex odporúčam všetkým kamarátkam, ktoré sa chcú cítiť sviežo bez ohľadu na počasie vonku."
       },
 
       {
         "src": "img/review_ultiplex_10.png",
-        "name": "Viorel Munteanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Fridrich Pollák",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9625,14 +9625,14 @@
             "type": "empty"
           }
         ],
-        "text": "Un produs bun la un preț rezonabil, mai ales dacă îl comparăm cu brandurile acelea atât de promovate în farmacii, unde jumătate din preț se datorează doar numelui. Aici văd o compoziție reală cu 12 ingrediente care chiar funcționează, pentru că am încetat să mai simt oboseala aceea cronică încă de la jumătatea zilei de lucru."
+        "text": "Dobrý produkt za rozumnú cenu, najmä ak ho porovnám s tými prehnane propagovanými značkami v lekárňach, kde polovicu ceny tvorí len názov. Tu vidím reálne zloženie z 12 komponentov, ktoré skutočne fungujú, pretože som prestal pociťovať tú chronickú únavu už uprostred pracovného dňa."
       },
 
       {
         "src": "img/review_ultiplex_11.png",
-        "name": "Ioama Ionescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Jana Gašparová",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9655,14 +9655,14 @@
             "type": "empty"
           }
         ],
-        "text": "Acest complex multivitaminic mă ajută să mențin un nivel ridicat de tonus vital și simt că celulele mele sunt protejate în mod fiabil împotriva stresului oxidativ. Acest lucru este foarte important pentru păstrarea tinereții și a sănătății pe termen lung, de aceea consider acest produs o investiție în propriul meu viitor."
+        "text": "Tento multivitamínový komplex mi pomáha udržiavať vysokú úroveň vitality a mám pocit, že moje bunky sú spoľahlivo chránené pred oxidačným stresom. Je to veľmi dôležité pre zachovanie mladosti a zdravia na dlhé roky, preto tento produkt vnímam ako investíciu do vlastnej budúcnosti."
       },
 
       {
         "src": "img/review_ultiplex_12.png",
-        "name": "Alexandru Georgescu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Alexandr Krajčovič",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9685,14 +9685,14 @@
             "type": "empty"
           }
         ],
-        "text": "Călătoresc des în interes de serviciu, iar schimbările de climă și de fus orar reprezintă întotdeauna o mare provocare pentru sistemul meu imunitar, de aceea am mereu la îndemână Ultiplex. Mă ajută să mă adaptez mai repede la noile condiții și mă protejează împotriva infecțiilor în avioane și în locurile publice, unde sunt mereu mulți oameni."
+        "text": "Často cestujem kvôli práci a zmena klímy aj časových pásiem je vždy veľkou skúškou pre môj imunitný systém, preto mám Ultiplex vždy po ruke. Pomáha mi rýchlejšie sa prispôsobiť novým podmienkam a chráni ma pred infekciami v lietadlách a na verejných miestach, kde je vždy veľa ľudí."
       },
 
       {
         "src": "img/review_ultiplex_13.png",
-        "name": "Lucrețiu Mocanu",
-        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
-        "rating_text": "Calitate excelenta!",
+        "name": "Lukáš Varga",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
+        "rating_text": "Kiváló minőség!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9715,7 +9715,7 @@
             "type": "empty"
           }
         ],
-        "text": "Sunt sceptic în privința suplimentelor, dar soția mea a insistat să iau acest produs după ce am înghețat rău la pescuit și era să mă îmbolnăvesc. Surprinzător, nu am făcut febră, deși de obicei după așa ceva sunt bolnav cel puțin o săptămână, așa că acum cred că aceste extracte din plante chiar funcționează. Acum luăm acest complex împreună cu soția mea"
+        "text": "K doplnkom som dosť skeptický, ale manželka trvala na tom, aby som tento prípravok užíval po tom, čo som poriadne premrzol na rybačke a takmer som ochorel. Na moje prekvapenie som vôbec neochorel s teplotou, hoci zvyčajne po niečom takom bývam chorý aspoň týždeň. Teraz verím, že tieto rastlinné extrakty naozaj fungujú. Teraz tento komplex užívame spolu s manželkou."
       }
     ],
     "reviews_remofix": [
