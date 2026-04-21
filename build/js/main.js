@@ -2304,6 +2304,16 @@ const productsInfo = {
       salePrice: '94',
       newPrice: '466'
     },
+    femixal: {
+      modifier: 'img-space--right',
+      company: 'everad',
+      campaign_id: '1441333',
+      niche: 'Układ moczowy',
+      country: 'Poland',
+      productName: 'Femixal',
+      salePrice: '94',
+      newPrice: '341'
+    },
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
@@ -2322,7 +2332,7 @@ const productsInfo = {
       country: 'Poland',
       productName: 'Steplex',
       salePrice: '91',
-      newPrice: '255'
+      newPrice: '225'
     },
     vasaxal: {
       company: 'everad',
@@ -2367,7 +2377,7 @@ const productsInfo = {
       country: 'Poland',
       productName: 'Vasos Duo',
       salePrice: '91',
-      newPrice: '287'
+      newPrice: '387'
     }
   },
   pt: {

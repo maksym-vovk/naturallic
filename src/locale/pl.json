@@ -584,7 +584,7 @@
       "btn": "Szczegóły"
     },
     {
-      "label": "Хит",
+      "label": "Hit",
       "srcPhoto": "img/femixal.png",
       "srcPhotoWebp": "img/femixal.webp",
       "mobSrcPhoto": "img/femixal-mob.png",
@@ -613,12 +613,12 @@
           "type": "full"
         }
       ],
-      "text": "382 отзива",
-      "desc": "Пикочна система",
+      "text": "382 opinie",
+      "desc": "Roślinny kompleks wspierający zdrowie układu moczowego oraz komfort oddawania moczu",
       "link": "femixal.html",
       "tag": "femixal",
       "category": "health",
-      "btn": "ПОДРОБНО"
+      "btn": "Szczegóły"
     },
     {
       "label": "Hit",
@@ -1576,8 +1576,8 @@
           "type": "full"
         }
       ],
-      "text": "382 отзива",
-      "niche": "Категория: Пикочна система"
+      "text": "382 opinie",
+      "niche": "Zastosowanie: Układ moczowy"
     },
     {
       "link": "ultiplex.html",
@@ -2153,18 +2153,18 @@
   },
   "femixal": {
     "title": "Femixal",
-    "category": "За здравето",
-    "review_count": "382 отзива",
-    "niche": "Пикочна система",
-    "form_factor": "Капсули, 10 броя",
-    "short_description": "Растителен комплекс за подпомагане здравето на пикочната система и комфорта при уриниране",
-    "description": "Femixal е разработен като продукт с натурален произход за поддържане на функционалното състояние на органите на пикочната система. Формулата на базата на екстракт от червена боровинка и D-маноза подпомага укрепването на защитните бариери на пикочния мехур, което възпрепятства прикрепването на патогенни микроорганизми към неговите стени. Благодарение на съчетанието от активни компоненти продуктът подпомага естествените процеси на прочистване на пикочните пътища и помага за поддържане на тяхната хигиена. Редовната употреба допринася за общото укрепване на локалния имунитет и намаляване на дискомфорта, свързан с функционални нарушения на пикочната система. Комплексът действа меко, без да нарушава естествения баланс на организма, и е част от здравословния начин на живот.",
-    "compound": "Екстракт от плодове на червена боровинка (Vaccinium macrocarpon, 25% PAC), D-маноза, екстракт от корен на глухарче. Помощни вещества: желатин (обвивка на капсулата), микрокристална целулоза, антислепващо вещество – магнезиеви соли на мастни киселини.",
-    "usage": "Препоръчва се прием на 1–2 капсули дневно по време на хранене. Не превишавайте препоръчителната дневна доза.",
-    "contraindications": "Индивидуална чувствителност към отделни компоненти. Преди употреба по време на бременност или кърмене се консултирайте със специалист.",
-    "manufacturer": "Dalmatika (България)",
-    "suitability": "24 месеца",
-    "keep": "Да се съхранява на сухо място, недостъпно за деца, при температура не по-висока от +25°C."
+    "category": "Dla zdrowia",
+    "review_count": "382 opinie",
+    "niche": "Układ moczowy",
+    "form_factor": "Kapsułki, 10 sztuk",
+    "short_description": "Roślinny kompleks wspierający zdrowie układu moczowego oraz komfort oddawania moczu.",
+    "description": "Femixal został opracowany jako produkt naturalnego pochodzenia wspierający prawidłowe funkcjonowanie narządów układu moczowego. Formuła oparta na ekstrakcie z żurawiny oraz D-mannozie wspiera wzmacnianie naturalnych barier ochronnych pęcherza, co utrudnia przyleganie patogennych mikroorganizmów do jego ścian. Dzięki połączeniu aktywnych składników produkt wspiera naturalne procesy oczyszczania dróg moczowych oraz pomaga utrzymać ich higienę. Regularne stosowanie sprzyja ogólnemu wzmocnieniu odporności miejscowej i zmniejszeniu dyskomfortu związanego z funkcjonalnymi zaburzeniami układu moczowego. Kompleks działa łagodnie, nie zaburzając naturalnej równowagi organizmu, i stanowi element zdrowego stylu życia.",
+    "compound": "Ekstrakt z owoców żurawiny (Vaccinium macrocarpon, 25% PAC), D-mannoza, ekstrakt z korzenia mniszka lekarskiego. Substancje pomocnicze: żelatyna (otoczka kapsułki), celuloza mikrokrystaliczna, substancja przeciwzbrylająca – sole magnezowe kwasów tłuszczowych.",
+    "usage": "Zaleca się przyjmowanie 1–2 kapsułek dziennie podczas posiłku. Nie należy przekraczać zalecanej dziennej dawki.",
+    "contraindications": "Indywidualna nadwrażliwość na składniki produktu. W okresie ciąży lub karmienia piersią przed rozpoczęciem stosowania warto skonsultować się ze specjalistą.",
+    "manufacturer": "Dalmatika",
+    "suitability": "24 miesiące",
+    "keep": "Przechowywać w suchym miejscu, niedostępnym dla dzieci, w temperaturze do +25°C."
   },
   "ultiplex": {
     "title": "Ultiplex",
@@ -2449,7 +2449,7 @@
     "femixal": {
       "productName": "Femixal",
       "salePrice": "44",
-      "newPrice": "92"
+      "newPrice": "341"
     },
     "ultiplex": {
       "productName": "Ultiplex",
@@ -2469,7 +2469,7 @@
     "steplex": {
       "productName": "Steplex",
       "salePrice": "91",
-      "newPrice": "255"
+      "newPrice": "225"
     },
     "vasaxal": {
       "productName": "Vasaxal",
@@ -2504,7 +2504,7 @@
     "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "91",
-      "newPrice": "287"
+      "newPrice": "387"
     }
   },
 
@@ -9088,10 +9088,10 @@
     "reviews_femixal": [
       {
         "src": "img/review_femixal_1.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Малгожата Новак",
-        "text": "Честно казано, вече бях забравила кога за последно можех спокойно да изляза на дълга разходка в парка, без да планирам маршрута си от една обществена тоалетна до друга. Това постоянно усещане за натиск в долната част на корема ме изтощаваше психически, но след като започнах да приемам този растителен комплекс, ситуацията най-накрая започна да се променя към по-добро.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Danuta Rosińska",
+        "text": "Szczerze mówiąc, już zapomniałam, kiedy ostatnio mogłam spokojnie wyjść na długi spacer po parku, nie planując trasy od jednej toalety publicznej do drugiej. To ciągłe uczucie nacisku w dole brzucha bardzo mnie wyczerpywało, ale odkąd zaczęłam stosować ten roślinny kompleks, sytuacja w końcu zaczęła się poprawiać.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9118,10 +9118,10 @@
 
       {
         "src": "img/review_femixal_2.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Яна Ковачова",
-        "text": "Започнах да използвам Femixal по съвет на приятелка и въпреки че в началото не вярвах особено в резултата, още след десет дни забелязах, че сънят ми стана много по-спокоен, защото организмът спря да подава тези тревожни сигнали посред нощ. Невероятно е усещането да се събудиш сутрин бодра и да знаеш, че пикочната ти система най-накрая работи стабилно и спокойно.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Kamila Żurawska",
+        "text": "Zaczęłam stosować Femixal z polecenia koleżanki i choć na początku nie byłam przekonana, już po dziesięciu dniach zauważyłam, że śpię znacznie lepiej, bo organizm przestał wysyłać te niepokojące sygnały w nocy. To niesamowite uczucie obudzić się rano wypoczętą i wiedzieć, że układ moczowy działa spokojnie i stabilnie.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9148,10 +9148,10 @@
 
       {
         "src": "img/review_femixal_3.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Ивана Хорват",
-        "text": "Това натурално средство се оказа истинско откритие за мен, защото действа много меко, без да предизвиква никакви странични ефекти, и същевременно помага да се поддържа вътрешният комфорт дори при влажно време.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Iza Horodyńska",
+        "text": "Ten naturalny produkt okazał się dla mnie prawdziwym odkryciem, działa bardzo łagodnie, nie powoduje żadnych skutków ubocznych, a jednocześnie pomaga utrzymać komfort nawet przy wilgotnej, chłodnej pogodzie.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9178,10 +9178,10 @@
 
       {
         "src": "img/review_femixal_4.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Новакова",
-        "text": "Дълго търсех някакъв деликатен начин да подкрепя организма си, и този продукт идеално отговаряше на моите нужди, защото помага за укрепване на мускулите и нормализиране на ритъма на посещение на тоалетната. Сега мога спокойно да ходя на гости или в киното, без да се притеснявам за непредвидими ситуации, които преди ме поставяха в неудобно положение.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Marta Nowosielska",
+        "text": "Długo szukałam delikatnego sposobu na wsparcie organizmu i ten produkt idealnie spełnił moje oczekiwania, pomaga wzmocnić mięśnie i uregulować rytm korzystania z toalety. Teraz mogę spokojnie chodzić do znajomych czy do kina bez obaw o nieprzewidziane sytuacje.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9208,10 +9208,10 @@
 
       {
         "src": "img/review_femixal_5.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Елена Петрова",
-        "text": "Femixal има натрупващо действие — с всеки ден на прием усещах, че напрежението в областта на пикочния мехур става все по-малко, а позивите не са толкова резки и чести. Много съм доволна от резултата.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Elżbieta Radziejewska",
+        "text": "Femixal działa stopniowo – z każdym dniem czułam, że napięcie w okolicy pęcherza maleje, a parcie nie jest już tak nagłe i częste. Jestem bardzo zadowolona z efektu.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9238,10 +9238,10 @@
 
       {
         "src": "img/review_femixal_6.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Варгова",
-        "text": "Този комплекс привлече вниманието ми със своя богат и в същото време безопасен състав, без агресивна химия. Чувството на тежест в долната част на корема изчезна доста бързо, и забелязах, че общото състояние на пикочните пътища значително се подобри, изчезна вечната раздразнителност и дискомфорт.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Marzena Wojciechowska",
+        "text": "Ten kompleks zwrócił moją uwagę bogatym, a jednocześnie bezpiecznym składem bez agresywnej chemii. Uczucie ciężkości w dole brzucha zniknęło dość szybko, a ogólny stan dróg moczowych wyraźnie się poprawił. Zniknęła też ciągła drażliwość i dyskomfort.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9268,10 +9268,10 @@
 
       {
         "src": "img/review_femixal_7.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Павлова",
-        "text": "Поръчах това средство онлайн, защото в аптеките ми предлагаха само някакви стандартни продукти, които по-рано не ми помагаха особено. Доставката беше бърза и веднага започнах курса, надявайки се на поне някакъв резултат, но ефектът надмина всички очаквания — най-накрая престанах да бъда „привързана“ към тоалетната.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Monika Pawłowska",
+        "text": "Zamówiłam ten produkt przez internet, bo w aptekach proponowano mi tylko standardowe środki, które wcześniej niewiele pomagały. Dostawa była szybka, od razu zaczęłam stosowanie i efekt przeszedł moje oczekiwania. W końcu przestałam być „uzależniona” od toalety.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9298,10 +9298,10 @@
 
       {
         "src": "img/review_femixal_8.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Анна Зупанова",
-        "text": "Преминах пълния курс и мога да кажа, че качеството на живота ми значително се повиши, защото изчезна вечната тревожност, която преди съпътстваше всяко излизане от дома ми. Това е наистина качествена подкрепа за женския организъм, която връща усещането за чистота, сухота и пълен комфорт през целия ден.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Aneta Zdaniewicz",
+        "text": "Przeszłam pełną kurację i mogę powiedzieć, że jakość mojego życia bardzo się poprawiła. Zniknął ten ciągły niepokój, który wcześniej towarzyszył każdemu wyjściu z domu. To naprawdę dobre wsparcie dla organizmu kobiety.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9328,10 +9328,10 @@
 
       {
         "src": "img/review_femixal_9.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Десислава Иванова",
-        "text": "Благодарение на тези капсули отново мога да поддържам нормален воден баланс, защото организмът ми реагира много по-спокойно на течности, а позивите станаха нормални, а не спешни. Чувствам, че бъбреците и пикочният ми мехур вече работят скоординирано, което ми позволява да се чувствам много по-енергична.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Dorota Iwaszkiewicz",
+        "text": "Dzięki tym kapsułkom mogę znów utrzymywać prawidłowy poziom nawodnienia. Organizm reaguje znacznie spokojniej, a potrzeba oddawania moczu stała się normalna, a nie nagła. Czuję, że nerki i pęcherz pracują harmonijnie.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9358,10 +9358,10 @@
 
       {
         "src": "img/review_femixal_10.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Мария Вуйчич",
-        "text": "Femixal действа много меко, без да натоварва други органи, и същевременно дава устойчив резултат, който усещам всеки ден.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Grażyna Wójcik-Borecka",
+        "text": "Femixal działa bardzo łagodnie, nie obciąża innych narządów, a jednocześnie daje trwały efekt, który odczuwam każdego dnia.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9388,10 +9388,10 @@
 
       {
         "src": "img/review_femixal_11.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Зузана Полакова",
-        "text": "Този продукт ми помогна да укрепя местния имунитет и да премахна излишната чувствителност, която преди ме караше да се отказвам от активен начин на живот. Сега знам, че отделителната ми система работи стабилно и без никакви „изненади“.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Zuzanna Polańska",
+        "text": "Ten produkt pomógł mi wzmocnić odporność miejscową i pozbyć się nadwrażliwości, przez którą wcześniej rezygnowałam z aktywnego trybu życia. Teraz wiem, że mój układ moczowy działa stabilnie i bez niespodzianek.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9418,10 +9418,10 @@
 
       {
         "src": "img/review_femixal_12.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Ана Марич",
-        "text": "Най-много ме впечатли в това средство колко бързо изчезна неприятното чувство на незавършеност след посещение на тоалетната, което преди беше постоянен спътник. Чувствам, че стените на пикочния ми мехур станаха по-малко раздразнени и вече не усещам постоянния фалшив натиск.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Anna Marczewska",
+        "text": "Najbardziej zaskoczyło mnie to, jak szybko zniknęło uczucie niepełnego opróżnienia pęcherza po skorzystaniu z toalety. Czuję, że ściany pęcherza są mniej podrażnione i nie mam już tego ciągłego, fałszywego nacisku.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9448,10 +9448,10 @@
 
       {
         "src": "img/review_femixal_13.png",
-        "desc": "<span class=\"review__mark\">изказа</span> своето мнение за&nbsp;FEMIXAL",
-        "rating_text": "Отлично качество!",
-        "name": "Радка Георгиева",
-        "text": "Това средство ми помогна да преживея много тежка зима, когато постоянно замръзвах на спирките и заради това имах големи проблеми с честото уриниране. Капсулите помогнаха на организма ми да стане по-устойчив на студ, и забелязах, че дискомфортът спря да бъде толкова остър още през първата седмица на прием.",
+        "desc": "<span class=\"review__mark\">wyraziła</span> swoją opinię o&nbsp;FEMIXAL",
+        "rating_text": "Beata Kowalczy!",
+        "name": "Roksana Gierczak",
+        "text": "Ten produkt pomógł mi przetrwać trudną zimę, kiedy często marzłam na przystankach i miałam problemy z częstym oddawaniem moczu. Kapsułki sprawiły, że organizm stał się bardziej odporny na chłód, a dyskomfort zmniejszył się już w pierwszym tygodniu stosowania.",
         "stars": [
           {
             "src": "img/svg/star.svg",
