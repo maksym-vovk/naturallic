@@ -11,33 +11,58 @@ include ../data/index
         ...REVIEWS.reviews_exurol,
         ...REVIEWS.reviews_desalix,
         ...REVIEWS.reviews_urosaf,
-        ...REVIEWS.reviews_ultraxal,
+        //- ...REVIEWS.reviews_ultraxal,
         ...REVIEWS.reviews_guavital,
         ...REVIEWS.reviews_demyxil,
         ...REVIEWS.reviews_vasaxal,
         ...REVIEWS.reviews_ausen,
         ...REVIEWS.reviews_paraxan,
         ...REVIEWS.reviews_steplex,
-        // ...REVIEWS.reviews_visoptic_duo_day,
-        // ...REVIEWS.reviews_visoptic_duo_night,
         ...REVIEWS.reviews_trovazin,
         ...REVIEWS.reviews_viarex,
-        ...REVIEWS.reviews_femixal,
-        ...REVIEWS.reviews_ultiplex,
-        ...REVIEWS.reviews_remofix,
-        ...REVIEWS.reviews_ophtalax,
-        ...REVIEWS.reviews_oculax,
-        ...REVIEWS.reviews_cardiform,
+        //- ...REVIEWS.reviews_femixal,
+        //- ...REVIEWS.reviews_ultiplex,
+        //- ...REVIEWS.reviews_remofix,
+        //- ...REVIEWS.reviews_ophtalax,
+        //- ...REVIEWS.reviews_oculax,
+        //- ...REVIEWS.reviews_cardiform,
         ...REVIEWS.reviews_vasos_duo
-    ]
+    ];
 
-    //- if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
-    //-     array.push(...REVIEWS.reviews_depanten)
-    //- };
+    if (['cz','hu','ro','be','gr'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_vermixin);
+    };
 
-    if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv'
-        && LANG.locale !== 'pl' && LANG.locale !== 'bg' && LANG.locale !== 'it') {
-        array.push(...REVIEWS.reviews_vermixin)
+    if (['cz','hr','sl'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ultraxal);
+    };
+
+    if (['hu'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_remofix);
+    };
+
+    if (['ro','sk'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ultiplex);
+    };
+
+    if (['bg','hr','pl','sl','sk'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_femixal);
+    };
+
+    if (['ee'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_cardiform);
+    };
+
+    if (['lt'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_oculax);
+    };
+
+    if (!['lt'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ophtalax);
+    };
+
+    if (!['ee','lt','lv','pl','bg','it'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_vermixin);
     };
 
     const perChunk = 2;

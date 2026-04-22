@@ -17,27 +17,52 @@ include ../data/index
         ...REVIEWS.reviews_ausen.splice(0,5),
         ...REVIEWS.reviews_paraxan.splice(0,5),
         ...REVIEWS.reviews_steplex.splice(0,5),
-        ...REVIEWS.reviews_ultraxal.splice(0,5),
-        // ...REVIEWS.reviews_visoptic_duo_day.splice(0,5),
-        // ...REVIEWS.reviews_visoptic_duo_night.splice(0,5),
+        //- ...REVIEWS.reviews_ultraxal.splice(0,5),
         ...REVIEWS.reviews_trovazin.splice(0,5),
         ...REVIEWS.reviews_viarex.splice(0,5),
-        ...REVIEWS.reviews_femixal.splice(0,5),
-        ...REVIEWS.reviews_ultiplex.splice(0,5),
-        ...REVIEWS.reviews_remofix.splice(0,5),
-        ...REVIEWS.reviews_ophtalax.splice(0,5),
-        ...REVIEWS.reviews_oculax.splice(0,5),
-        ...REVIEWS.reviews_cardiform.splice(0,5),
+        //- ...REVIEWS.reviews_femixal.splice(0,5),
+        //- ...REVIEWS.reviews_ultiplex.splice(0,5),
+        //- ...REVIEWS.reviews_remofix.splice(0,5),
+        //- ...REVIEWS.reviews_ophtalax.splice(0,5),
+        //- ...REVIEWS.reviews_oculax.splice(0,5),
+        //- ...REVIEWS.reviews_cardiform.splice(0,5),
         ...REVIEWS.reviews_vasos_duo.splice(0,5)
     ];
 
-    //- if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv') {
-    //-     array.push(...REVIEWS.reviews_depanten.splice(0,5))
-    //- };
+    if (['cz','hu','ro','be','gr'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_vermixin.splice(0,5));
+    };
 
-    if (LANG.locale !== 'ee' && LANG.locale !== 'lt' && LANG.locale !== 'lv'
-        && LANG.locale !== 'pl' && LANG.locale !== 'bg' && LANG.locale !== 'it') {
-        array.push(...REVIEWS.reviews_vermixin.splice(0,5))
+    if (['cz','hr','sl'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ultraxal.splice(0,5));
+    };
+
+    if (['hu'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_remofix.splice(0,5));
+    };
+
+    if (['ro','sk'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ultiplex.splice(0,5));
+    };
+
+    if (['bg','hr','pl','sl','sk'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_femixal.splice(0,5));
+    };
+
+    if (['ee'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_cardiform.splice(0,5));
+    };
+
+    if (['lt'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_oculax.splice(0,5));
+    };
+
+    if (!['lt'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ophtalax.splice(0,5));
+    };
+
+    if (!['ee','lt','lv','pl','bg','it'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_vermixin.splice(0,5));
     };
 
     const perChunk = 2;

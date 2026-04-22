@@ -29,27 +29,6 @@ include ../data/index
 -     return index > 8
 - })
 
-//- -
-//-     var CATALOG = LANG.catalog;
-//-     var PRODUCTS = LANG.hits
-
-//-     // Hidden products for all localizations (can be used for future localization purposes)
-
-
-//-     let healthProducts = PRODUCTS.filter(product => product.category === 'health')
-//-     let beautyProducts = PRODUCTS.filter(product => product.category === 'beauty')
-
-//-     if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'
-//-             || LANG.locale === 'pl' || LANG.locale === 'bg' || LANG.locale === 'it') {
-//-         healthProducts = healthProducts.filter(prod => prod.tag !== 'vermixin')
-//-         beautyProducts = beautyProducts.filter(prod => prod.tag !== 'vermixin')
-//-     };
-
-    const preloadedHealthProducts = healthProducts.filter((product, index) => index <= 8)
-    const restHealthProducts = healthProducts.filter((product, index) => index > 8)
-    const preloadedBeautyProducts = beautyProducts.filter((product, index) => index <= 8)
-    const restBeautyProducts = beautyProducts.filter((product, index) => index > 8)
-
 section.catalog-main
     .container
         h2.catalog-main__title.title!=CATALOG.catalog_title

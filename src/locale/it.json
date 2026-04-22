@@ -2509,11 +2509,11 @@
 
   "success": {
     "success_title": "Grazie per il suo ordine!",
-    "success_text1": "Grazie per aver scelto la nostra azienda! <br/> Ti contatteremo al numero 390289356412 in pochi minuti per confermare i dettagli dell'ordine.",
-    "success_text2": "<span class=\"js-success-product-name\"></span> ha ripristinato la salute di migliaia di persone. <br/> Sei sulla strada giusta!",
+    "success_text1": "Grazie per aver scelto la nostra azienda! Ti contatteremo al numero 390289356412 in pochi minuti per confermare i dettagli dell'ordine.",
+    "success_text2": "<span class=\"js-success-product-name\"></span> ha ripristinato la salute di migliaia di persone. Sei sulla strada giusta!",
     "success_text3": "Tempo medio di attesa per chiamata <span class=\"color\">5 minuti</span>",
     "success_text4": "Prodotto in magazzino <span class=\"color\">Disponibile</span>",
-    "success_text5": "Rimane <br/> in magazzino <span class=\"color\"><span class=\"js-product-residue\">60</span> pezzi</span>"
+    "success_text5": "Rimane in magazzino <span class=\"color\"><span class=\"js-product-residue\">60</span> pezzi</span>"
   },
   "reviews": {
     "reviews_beauty_age_skin": [
