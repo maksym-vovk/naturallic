@@ -1,0 +1,59 @@
+-
+    const hiddenProducts = ['visoptic_duo_night', 'visoptic_duo_day']
+
+    const productVisibility = {
+        ultraxal: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['cz','hr','sl'] 
+        },
+        remofix: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['hu'] 
+        },
+        ultiplex: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['ro','sk'] 
+        },
+        femixal: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['bg','hr','pl','sl','sk'] 
+        },
+        cardiform: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['ee'] 
+        },
+        oculax: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['lt'] 
+        },
+        vermixin: { 
+            hiddenByDefault: true, 
+            allowedGeos: ['cz','hu','ro','be','gr'] 
+        },
+        ophtalax: { 
+            blockedGeos: ['lt'] 
+        }
+    }
+
+    var isProductVisible = function (prod) {
+        const tag = prod.tag
+        const config = productVisibility[tag]
+
+        if (config) {
+            if (config.hiddenByDefault) {
+                return config.allowedGeos
+                    ? config.allowedGeos.includes(LANG.locale)
+                    : false
+            }
+
+            if (config.blockedGeos) {
+                return !config.blockedGeos.includes(LANG.locale)
+            }
+        }
+
+        if (hiddenProducts.includes(tag)) {
+            return false
+        }
+
+        return true
+    }

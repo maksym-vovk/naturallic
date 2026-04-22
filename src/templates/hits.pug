@@ -1,23 +1,71 @@
--
-    var HITS = LANG.hits;
+//- -
+//-     var HITS = LANG.hits;
 
-    // Hidden products for all localizations (can be used for future localization purposes)
-    const hiddenProducts = ['visoptic_duo_night', 'visoptic_duo_day']
-    HITS = HITS.filter(prod => !hiddenProducts.includes(prod.tag))
+//-     // Hidden products for all localizations (can be used for future localization purposes)
 
-    //- if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
-    //-     HITS = HITS.filter(prod => prod.tag !== 'depanten')
-    //- }
+    
+//-     const productVisibility = {
+//-         ultraxal: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['cz', 'hr', 'sl']
+//-         },
+//-         remofix: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['hu']
+//-         },
+//-         ultiplex: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['ro', 'sk']
+//-         },
+//-         femixal: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['bg', 'hr', 'pl', 'sl', 'sk']
+//-         },
+//-         cardiform: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['ee']
+//-         },
+//-         oculax: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['lt']
+//-         },
+//-         vermixin: {
+//-             hiddenByDefault: true,
+//-             allowedGeos: ['cz', 'hu', 'ro', 'be', 'gr']
+//-         },
+//-         ophtalax: {
+//-             blockedGeos: ['lt']
+//-         }
+//-     };
+    
+//-     HITS = HITS.filter(prod => {
+//-     const tag = prod.tag;
+//-     const config = productVisibility[tag];
 
-    if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'
-            || LANG.locale === 'pl' || LANG.locale === 'bg' || LANG.locale === 'it') {
-        HITS = HITS.filter(prod => prod.tag !== 'vermixin')
-    };
+//-     if (config) {
+//-         // Скрыт по умолчанию → показываем только в allowedGeos
+//-         if (config.hiddenByDefault) {
+//-             if (config.allowedGeos) {
+//-                 return config.allowedGeos.includes(LANG.locale);
+//-             }
+//-             return false;
+//-         }
+
+//-         // Видим по умолчанию → скрываем только в blockedGeos
+//-         if (config.blockedGeos) {
+//-             return !config.blockedGeos.includes(LANG.locale);
+//-         }
+//-     }
 
 
+
+//-         return true;
+//-     });
 
 include mixins/product
+include ./product-visibility.pug
 
+- var HITS = LANG.hits.filter(isProductVisible)
 
 .hits#js-scroll-hits.js-slider-products
     .hits__wrapper.swiper-wrapper
