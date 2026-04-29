@@ -1664,7 +1664,7 @@ export const productsInfo = {
             country: 'Lithuania',
             productName: 'Vasos Duo',
             salePrice: '24',
-            newPrice: '88'
+            newPrice: '93'
         }
     },
     lv: {
