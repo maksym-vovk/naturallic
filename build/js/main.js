@@ -3983,7 +3983,14 @@ const Controls = function () {
       const languageSelect = document.querySelector(".select");
       const languagesArr = [...languageSelect.querySelectorAll(".select__option")].map(option => option.dataset.lang);
       const defaultSelectOption = document.querySelector('.select__option--default');
-      const currentLang = window.location.pathname.substring(1, 3);
+      const pathNameParams = window.location.pathname.split('/').filter(Boolean);
+      const currentLang = pathNameParams.length && pathNameParams[0].length === 2 ? pathNameParams[0] : null;
+      // const currentLang = pathNameParams[0].length === 2 ? pathNameParams[0] : null;
+
+      console.log(pathNameParams, 'url');
+      // const currentLang = window.location.pathname.substring(1, 3);
+      console.log(currentLang, 'substring');
+      console.log(window.location.pathname, 'pathname');
       const isLangInURL = languagesArr.includes(currentLang);
       const savedLanguage = localStorage.getItem("localization");
       const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
@@ -4012,6 +4019,7 @@ const Controls = function () {
         }
         if (isLangInURL) {
           localStorage.setItem("localization", currentLang);
+          console.log(currentLang, 'window onload');
         }
         if (!langModal.classList.contains('language--hidden')) {
           _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
@@ -4080,6 +4088,7 @@ const Controls = function () {
         !isOrderPage && !isSuccessPage ? localStorage.removeItem('searchParams') : false;
         const savedSearchParams = localStorage.getItem('searchParams');
         if (savedSearchParams && !search) {
+          console.log(window.location.href);
           window.location.href = window.location.href + savedSearchParams;
         }
       };

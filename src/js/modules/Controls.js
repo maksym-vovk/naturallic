@@ -138,8 +138,15 @@ const Controls = (function () {
                 ...languageSelect.querySelectorAll(".select__option"),
             ].map((option) => option.dataset.lang);
             const defaultSelectOption = document.querySelector('.select__option--default')
+            const pathNameParams = window.location.pathname.split('/').filter(Boolean);
+            const currentLang = pathNameParams.length && pathNameParams[0].length === 2 ? pathNameParams[0] : null;
+            // const currentLang = pathNameParams[0].length === 2 ? pathNameParams[0] : null;
 
-            const currentLang = window.location.pathname.substring(1, 3);
+
+            console.log(pathNameParams, 'url');
+            // const currentLang = window.location.pathname.substring(1, 3);
+            console.log(currentLang, 'substring');
+            console.log(window.location.pathname, 'pathname');
             const isLangInURL = languagesArr.includes(currentLang);
             const savedLanguage = localStorage.getItem("localization");
             const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG
@@ -176,6 +183,7 @@ const Controls = (function () {
 
                 if (isLangInURL) {
                     localStorage.setItem("localization", currentLang);
+                    console.log(currentLang, 'window onload');
                 }
 
                 if (!langModal.classList.contains('language--hidden')) {
@@ -275,6 +283,8 @@ const Controls = (function () {
                 const savedSearchParams = localStorage.getItem('searchParams')
 
                 if (savedSearchParams && !search) {
+                    console.log(window.location.href);
+                    
                     window.location.href = window.location.href + savedSearchParams
                 }
             }
