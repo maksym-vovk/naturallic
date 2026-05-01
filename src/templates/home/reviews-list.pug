@@ -22,10 +22,6 @@ include ../data/index
         ...REVIEWS.reviews_vasos_duo.splice(0,5)
     ];
 
-    if (['cz','hu','ro','be','gr'].includes(LANG.locale)) {
-        array.push(...REVIEWS.reviews_vermixin.splice(0,5));
-    };
-
     if (['cz','hr','sl'].includes(LANG.locale)) {
         array.push(...REVIEWS.reviews_ultraxal.splice(0,5));
     };
@@ -54,7 +50,7 @@ include ../data/index
         array.push(...REVIEWS.reviews_ophtalax.splice(0,5));
     };
 
-    if (!['ee','lt','lv','pl','bg','it', 'sl', 'sk'].includes(LANG.locale)) {
+    if (!['ee','lt','lv','pl','bg','it', 'sl', 'sk', 'hr'].includes(LANG.locale)) {
         array.push(...REVIEWS.reviews_vermixin.splice(0,5));
     };
 

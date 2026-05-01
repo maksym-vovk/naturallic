@@ -22,10 +22,6 @@ include ../data/index
         ...REVIEWS.reviews_vasos_duo
     ];
 
-    if (['cz','hu','ro','be','gr'].includes(LANG.locale)) {
-        array.push(...REVIEWS.reviews_vermixin);
-    };
-
     if (['cz','hr','sl'].includes(LANG.locale)) {
         array.push(...REVIEWS.reviews_ultraxal);
     };
@@ -50,12 +46,12 @@ include ../data/index
         array.push(...REVIEWS.reviews_oculax);
     };
 
-    if (!['lt', 'ee'].includes(LANG.locale)) {
-        array.push(...REVIEWS.reviews_ophtalax);
+    if (!['ee','lt','lv','pl', 'it', 'sl', 'sk', 'hr'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_vermixin);
     };
 
-    if (!['ee','lt','lv','pl','bg','it', 'sl', 'sk'].includes(LANG.locale)) {
-        array.push(...REVIEWS.reviews_vermixin);
+    if (!['lt', 'ee'].includes(LANG.locale)) {
+        array.push(...REVIEWS.reviews_ophtalax);
     };
 
     const perChunk = 2;
