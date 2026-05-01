@@ -946,12 +946,12 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/cardiform.png",
-      "srcPhotoWebp": "img/cardiform.webp",
-      "mobSrcPhoto": "img/cardiform-mob.png",
-      "mobSrcPhotoWebp": "img/cardiform-mob.webp",
+      "srcPhoto": "img/kardivix.png",
+      "srcPhotoWebp": "img/kardivix.webp",
+      "mobSrcPhoto": "img/kardivix-mob.png",
+      "mobSrcPhotoWebp": "img/kardivix-mob.webp",
       "modifier": "img-space--right",
-      "name": "Cardiform",
+      "name": "Kardivix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -976,8 +976,8 @@
       ],
       "text": "221 kommentaari",
       "desc": "Vitamiinidel ja taimedel põhinev kompleks veresoonte tugevdamiseks ja südame töö toetamiseks.",
-      "link": "cardiform.html",
-      "tag": "cardiform",
+      "link": "kardivix.html",
+      "tag": "kardivix",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -1880,13 +1880,13 @@
       "niche": "Kryptis: Regėjimas"
     },
     {
-      "link": "cardiform.html",
-      "tag": "cardiform",
-      "srcPhoto": "img/cardiform.png",
-      "srcPhotoWebp": "img/cardiform.webp",
-      "mobSrcPhoto": "img/cardiform-mob.png",
-      "mobSrcPhotoWebp": "img/cardiform-mob.webp",
-      "name": "Cardiform",
+      "link": "kardivix.html",
+      "tag": "kardivix",
+      "srcPhoto": "img/kardivix.png",
+      "srcPhotoWebp": "img/kardivix.webp",
+      "mobSrcPhoto": "img/kardivix-mob.png",
+      "mobSrcPhotoWebp": "img/kardivix-mob.webp",
+      "name": "Kardivix",
       "narrow": true,
       "stars": [
         {
@@ -2294,14 +2294,14 @@
     "suitability": "24 mėnesiai",
     "keep": "laikyti sausoje vietoje, apsaugotoje nuo saulės spindulių, ne aukštesnėje kaip +25 °C temperatūroje."
   },
-  "cardiform": {
-    "title": "Cardiform",
+  "kardivix": {
+    "title": "Kardivix",
     "category": "Zdrowie",
     "review_count": "333 kommentaari",
     "niche": "Südame-veresoonkond",
     "form_factor": "Kapslid, 10 tk",
     "short_description": "Vitamiinidel ja taimedel põhinev kompleks veresoonte tugevdamiseks ja südame töö toetamiseks.",
-    "description": "Cardiform on tasakaalustatud vitamiinide, mineraalide ja taimsete ekstraktide kombinatsioon, mis on loodud südame-veresoonkonna funktsionaalse seisundi parendamiseks. Toetab veresoonte seinte loomulikku tugevust ja elastsust. Tänu aktiivsetele koostisosadele aitab toode organismil hoida tervisliku kolesterooli taset ning toetab optimaalset energiavahetust südamelihase rakkudes. Regulaarne kapslite võtmine võib olla osa ennetavast lähenemisest vererõhu kontrollimisel, kuna valem on suunatud veresoonte kaitsmisele oksüdatiivse stressi eest ning normaalse vereringe toetamisele.",
+    "description": "Kardivix on tasakaalustatud vitamiinide, mineraalide ja taimsete ekstraktide kombinatsioon, mis on loodud südame-veresoonkonna funktsionaalse seisundi parendamiseks. Toetab veresoonte seinte loomulikku tugevust ja elastsust. Tänu aktiivsetele koostisosadele aitab toode organismil hoida tervisliku kolesterooli taset ning toetab optimaalset energiavahetust südamelihase rakkudes. Regulaarne kapslite võtmine võib olla osa ennetavast lähenemisest vererõhu kontrollimisel, kuna valem on suunatud veresoonte kaitsmisele oksüdatiivse stressi eest ning normaalse vereringe toetamisele.",
     "compound": "C-vitamiin (L-askorbiinhape) 40,00 mg, B1-vitamiin (tiamiiinhüdrokloriid) 0,55 mg, B2-vitamiin (riboflaviin) 0,70 mg, B6-vitamiin (püridoksiinhüdrokloriid) 0,70 mg, B12-vitamiin (kobalamiin) 0,00125 mg, E-vitamiin (α-TE) 3,00 mg, D3-vitamiin (kolekaltsiferool) 0,0025 mg, tsink (tsinkaglükonaat) 3,00 mg, kroom (kroomipikolinaat) 0,02 mg, seleen (naatriumselenaaat) 0,0275 mg, kaltsium (kaltsiumkarbonaat) 10,00 mg, glütsiin 10,00 mg, punase siilkübara ekstrakt (Echinacea purpurea) 4:1 10,00 mg, leedri ekstrakt (Sambucus nigra) 4:1 10,00 mg, ingverijuure ekstrakt (Zingiber officinale) 4:1 5,00 mg, hiibisku õite ekstrakt (Hibiscus sabdariffa) 4:1 7,00 mg.",
     "usage": "Täiskasvanutele on soovitatav võtta 1 kapsel 2 korda päevas söögi ajal. Soovitatav kuuri kestus on 1 kuu. Vajadusel võib kuuri pärast pausi korrata. Ärge ületage soovituslikku päevast annust (2 kapslit).",
     "contraindications": "Individuaalne talumatus komponentide suhtes, ei sobi lastele. Toidulisand ei asenda täisväärtuslikku toitumist.",
@@ -2498,8 +2498,8 @@
       "salePrice": "26",
       "newPrice": "113"
     },
-    "cardiform": {
-      "productName": "Cardiform",
+    "kardivix": {
+      "productName": "Kardivix",
       "salePrice": "26",
       "newPrice": "108"
     },
@@ -2527,7 +2527,7 @@
     "reviews_beauty_age_skin": [
       {
         "src": "img/review_beauty-age-skin_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Kira Daxová",
         "text": "Krém-sérum s mucínom slimáka je úžasný prostriedok! Vrásky vyhladzuje na 100%! Odstraňuje pigmentáciu, pleť je vyživená a hydratovaná!",
@@ -2556,7 +2556,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Selena Šparková",
         "text": "Kúpila som si Beauty Age Skin na vyskúšanie. Bola som nadšená týmto prípravkom! Pleť sa výrazne zlepšila, má zdravú farbu, bez opuchov a zápalov. Super!",
@@ -2585,7 +2585,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Berta Irandová",
         "text": "Beauty Age Skin je najlepší krém! Pre moju citlivú pleť je veľmi ťažké nájsť vhodný prostriedok, ale tento mi sadol. Používam ho už pol roka a každý deň sa teším z efektu!",
@@ -2614,7 +2614,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Laura Salvová",
         "text": "Sérum je výborné! Príjemné pocity po nanesení, sviežosť a hydratácia vydržia celý deň. Už v druhom týždni bolo vidieť menej vrások.",
@@ -2643,7 +2643,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Simona Gorisová",
         "text": "Skvelo sa hodí na suchú pleť. Hydratuje a vyživuje! Vrásky vyhladzuje a spevňuje kontúry tváre. Každý deň sa pozerám do zrkadla a nemôžem sa nadívať na výsledok.",
@@ -2701,7 +2701,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Olívia Gaxonová",
         "text": "O Beauty Age Skin som sa dozvedela už dávnejšie. Výborné zloženie a skvelý účinok na pleť. Odkedy ho používam, nemala som jediný problém s pleťou. Pevná, bez vrások, hydratovaná. Ideálne!",
@@ -2730,7 +2730,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Debora Olivieriová",
         "text": "Pleť bola veľmi problematická a citlivá. Krém-sérum Beauty Age Skin to pomohlo napraviť. Teraz je moja tvár v dokonalom stave. Žiadne vrásky, škvrny ani vyrážky!",
@@ -2788,7 +2788,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Tiara Rodriguezová",
         "text": "Výborný a ľahký krém pre mastnú pleť. Dobre sedí aj pod make-up, nežmolkuje sa a nie je pocit filmu na tvári. Úžasná textúra aj vôňa!",
@@ -2819,7 +2819,7 @@
     "reviews_beauty_age_skin_peeling": [
       {
         "src": "img/review_beauty-age-skin-peeling_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Táňa Gabrielová",
         "text": "Úžasný peeling. Pleť je po ňom jemná, pružná, bez mastného lesku. Dobre čistí a zároveň hydratuje. Nevznikli žiadne nepríjemné pocity.",
@@ -2848,7 +2848,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Anežka Trebová",
         "text": "Dlho som hľadala takéto prípravky ako Beauty Age Skin Peeling. 3 v 1: na umývanie, ako maska aj peeling. Spotrebúva sa úsporne, čistí efektívne. Pocit po použití je veľmi príjemný!",
@@ -2877,7 +2877,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mirka Rolinská",
         "text": "Už dlho používam Beauty Age Skin Peeling. Okrem čistenia spevňuje pleť a vyhladzuje vrásky. Efekt som videla takmer okamžite!",
@@ -2906,7 +2906,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Petra Lesná",
         "text": "Beauty Age Skin Peeling sa hodí na moju citlivú a suchú pleť. Používam ho už dávno a som veľmi spokojná. Veľmi jemný, ale zároveň účinný prostriedok.",
@@ -2935,7 +2935,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lucia Klauzová",
         "text": "Od prvých dní používania sa pleť zlepšila. Jemná, hebká, zamatová. Zmizli zápaly, póry sa zúžili. Farba pleti sa stala rovnomernejšou.",
@@ -2964,7 +2964,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Frederika Lopušná",
         "text": "Beauty Age Skin Peeling je to najlepšie, čo som kedy vyskúšala. Uprednostňujem výlučne prírodnú kozmetiku. Tento prípravok je môj najobľúbenejší!",
@@ -2993,7 +2993,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Soňa Vargová",
         "text": "Prírodné zloženie, príjemná, nenápadná vôňa, úsporná spotreba a efekt v podobe vyhladenia vrások. 10 z 10!",
@@ -3022,7 +3022,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Adriana Tóthová",
         "text": "Začala som používať nedávno, ale som nesmierne nadšená a spokojná s výsledkom. Nie je pocit napätia, pleť je jemná, pružná, spevnená. Pigmentácia sa zosvetľuje a zápaly miznú.",
@@ -3080,7 +3080,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Naděžda Dormanová",
         "text": "Čistí, spevňuje, hydratuje a vyživuje pleť. Toľko vlastností v jednom prípravku a za takú dostupnú cenu! Dokonca aj pigmentové škvrny sa zosvetlili! Na prejavy starnutia určite odporúčam!",
@@ -3111,7 +3111,7 @@
     "reviews_delislim": [
       {
         "src": "img/review_delislim_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Diana Prešková",
         "text": "Vybrala som si Delislim kvôli dobrému zloženiu. Zostala som veľmi spokojná s týmto prípravkom. Prebytočné kilá zmizli a podarilo sa mi zvládnuť večný pocit hladu. Odporúčam!",
@@ -3140,7 +3140,7 @@
       },
       {
         "src": "img/review_delislim_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lucia Janíková",
         "text": "Predtým som sa obávala prípravkov na chudnutie, ale Delislim sa mi veľmi zapáčil. Pôsobí jemne, ale účinne. Pomohol mi schudnúť bez vedľajších účinkov.",
@@ -3169,7 +3169,7 @@
       },
       {
         "src": "img/review_delislim_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dorota Bajtová",
         "text": "Počas jednej kúrzy s Delislim som schudla 13 kg. Telo sa stalo štíhlejším a pevnejším. Naučila som sa kontrolovať pocit hladu a dokázala som zmeniť svoj jedálniček. Výsledok je tu!",
@@ -3198,7 +3198,7 @@
       },
       {
         "src": "img/review_delislim_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Bela Hofmanová",
         "text": "Nikdy som nebola štíhla. Ale s pomocou Delislimu som pocítila, čo znamená byť štíhlou, ľahkou a krehkou ženou. Skvelý prípravok!",
@@ -3227,7 +3227,7 @@
       },
       {
         "src": "img/review_delislim_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Agáta Šelková",
         "text": "Už za jednu kúru sa telo dostalo do formy. Prebytočné kilá zmizli, pokožka sa spevnila, celulitída na stehnách zmizla. Úžasné!",
@@ -3285,7 +3285,7 @@
       },
       {
         "src": "img/review_delislim_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Pavla Kovalčíková",
         "text": "Užívam Delislim druhý týždeň, ale efekt už je tu. Schudla som 4 kg! Cítim sa skvele a teším sa na ďalšie výsledky na váhe.",
@@ -3314,7 +3314,7 @@
       },
       {
         "src": "img/review_delislim_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Elena Markušová",
         "text": "Delislim je najlepší zo všetkého, čo existuje na chudnutie. Pre mňa určite! Pred viac ako rokom som ukončila kúrzu s výsledkom -13 kg. Váha sa nevrátila!",
@@ -3372,7 +3372,7 @@
       },
       {
         "src": "img/review_delislim_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rebeka Lopárová",
         "text": "Kvalitný, účinný a prírodný prípravok, rýchle doručenie, konzultácia so špecialistami – všetko na najvyššej úrovni!",
@@ -3401,7 +3401,7 @@
       },
       {
         "src": "img/review_delislim_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Patrícia Lorencová",
         "text": "Delislim doručili rýchlo, účinok som pocítila už v prvom týždni. A v druhom som na váhe uvidela mínus 5 kg. A to som ešte váhala, či to skúsiť alebo nie.",
@@ -3430,7 +3430,7 @@
       },
       {
         "src": "img/review_delislim_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Helga Šermáková",
         "text": "Objednala som Delislim pre mamu, presvedčila som ju, aby ho brala ako \"vitamíny\". Mama veľmi schudla a omladla. Hovorí, že si nepamätá, kedy sa cítila tak ľahko a dobre!",
@@ -3459,7 +3459,7 @@
       },
       {
         "src": "img/review_delislim_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Terézia Rajská",
         "text": "Veľmi som chcela schudnúť, ale na cvičenie nemám čas a diéty mi vôbec nesedia. Riešením sa stal Delislim. Prírodný, účinný a bezpečný!",
@@ -3488,7 +3488,7 @@
       },
       {
         "src": "img/review_delislim_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Alicia Zlatková",
         "text": "Úžasný prípravok. Postupne znižuje váhu, spevňuje pokožku, pomáha kontrolovať chuť do jedla. Ani som si nemyslela, že dokážem tak rýchlo a ľahko stratiť 12 kg!",
@@ -3517,7 +3517,7 @@
       },
       {
         "src": "img/review_delislim_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DELISLIM",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Matilda Bekšíková",
         "text": "Ďakujem za kvalitný a účinný produkt! Mínus 10 kg, skvelá kondícia a ideálna postava. Ak chcete dosiahnuť také výsledky, odporúčam Delislim!",
@@ -3606,7 +3606,7 @@
       },
       {
         "src": "img/review_exurol_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Exurol",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Laura Kráľová",
         "text": "Objednala som pre manžela. Hovorí, že výsledok je. Lepšie spí v noci a sex sa do nášho života vrátil. Pokračuje v kúre.",
@@ -3693,7 +3693,7 @@
       },
       {
         "src": "img/review_exurol_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Exurol",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Klaudia Laudrová",
         "text": "Manžel užíval Exurol. Podrobnosti mi nepovedal, ale nálada sa mu zlepšila. A čo je dôležité, obnovil sa náš intímny život. Asi naozaj pomáha, keď vidím také zmeny.",
@@ -3722,7 +3722,7 @@
       },
       {
         "src": "img/review_exurol_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Exurol",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dolores Kováčová",
         "text": "Kúpila som Exurol pre starého otca. Na operáciu mal kontraindikácie, iné možnosti neboli, spoliehali sme sa iba na Exurol. A pomohol! Veľkosť prostaty po kúre v norme!",
@@ -3954,7 +3954,7 @@
       },
       {
         "src": "img/review_exurol_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Exurol",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rolanda Grancová",
         "text": "Vyslovujem vďaku v mene seba aj svojho manžela. Ďakujeme za také skvelé riešenie, rýchle doručenie a konzultáciu. Pomohlo to manželovi! Konečne je znovu zdravý!",
@@ -3985,7 +3985,7 @@
     "reviews_desalix": [
       {
         "src": "img/review_desalix_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Gabriel Verný",
         "text": "Vyskúšal som krém Desalix ešte minulý rok. Problém zmizol a odvtedy sa už neobjavil. Pokožka aj nechty na nohách sú zdravé, nič ma netrápi.",
@@ -4014,7 +4014,7 @@
       },
       {
         "src": "img/review_desalix_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Oľga Boltonová",
         "text": "Od prvých dní používania Desalix zmizlo svrbenie aj nepríjemný zápach. Pokračujem v kúre až do úplného odstránenia problému.",
@@ -4043,7 +4043,7 @@
       },
       {
         "src": "img/review_desalix_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Linda Ivašková",
         "text": "S plesňou som žila celé roky a pritom sa jej dá zbaviť tak jednoducho. Vďaka Desalix som na ňu zabudla a dúfam, že navždy!",
@@ -4101,7 +4101,7 @@
       },
       {
         "src": "img/review_desalix_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Fernanda Tóthová",
         "text": "Desalix je výnimočný prípravok! Ľahko sa používa, má príjemnú vôňu. Ale hlavne – pomáha. Odstraňuje svrbenie a zbavuje plesne.",
@@ -4188,7 +4188,7 @@
       },
       {
         "src": "img/review_desalix_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Aria Dovcová",
         "text": "Dobré a cenovo dostupné riešenie. Pomáha proti plesniam, odstraňuje všetky prejavy a regeneruje pokožku aj nechty. Som 100 % spokojná!",
@@ -4246,7 +4246,7 @@
       },
       {
         "src": "img/review_desalix_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Marta Godová",
         "text": "O Desalix viem už dávno. Z vlastnej skúsenosti môžem povedať, že je to najlepšie riešenie proti plesni! Po kúre žiadne stopy na pokožke ani na nechtoch.",
@@ -4275,7 +4275,7 @@
       },
       {
         "src": "img/review_desalix_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Pavlína Rekešová",
         "text": "Desalix som si objednala nedávno, ale už vidím výsledok. Pokožka je hydratovaná, jemnejšia, aj stvrdnuté miesta sa zmäkčili. Dúfam, že už čoskoro nebudem musieť skrývať nohy v uzavretej obuvi.",
@@ -4304,7 +4304,7 @@
       },
       {
         "src": "img/review_desalix_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rolanda Petrášová",
         "text": "Ak potrebujete účinný a cenovo dostupný prípravok proti plesni, odporúčam Desalix! Rýchlo pomáha a umožní na túto nákazu navždy zabudnúť!",
@@ -4333,7 +4333,7 @@
       },
       {
         "src": "img/review_desalix_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ingrida Šartonová",
         "text": "Na zvládnutie plesne treba veľa trpezlivosti. Všetci vieme, že problém si vyžaduje dlhú terapiu. No s Desalix to išlo rýchlo a efektívne. Jeden kúrový cyklus – a úplne zdravé nechty!",
@@ -4391,7 +4391,7 @@
       },
       {
         "src": "img/review_desalix_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Desalix",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Nina Lampertová",
         "text": "Pomohol mi zbaviť sa plesne za pár týždňov! Stav pokožky sa zlepšil, nechty rastú zdravé a pevné. Dajte si pozor, keď si vyberáte pedikérku, a najlepšie majte Desalix vždy poruke!",
@@ -4509,7 +4509,7 @@
       },
       {
         "src": "img/review_urosaf_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;UROSAF",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Stela Švajcerová",
         "text": "Objednala som pre manžela, keď sa objavili problémy. Pomohlo! Manžel je konečne taký, akého si ho pamätám z mladosti. Aktívny, sebavedomý a vášnivý!",
@@ -4596,7 +4596,7 @@
       },
       {
         "src": "img/review_urosaf_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;UROSAF",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Katarína Lauková",
         "text": "Manžel má 56 rokov a \"mužským\" problémom sa v tomto veku ťažko vyhnúť. Vďaka Urosafu sa ich podarilo prekonať a znovu sa cíti mladý a zdravý!",
@@ -4683,7 +4683,7 @@
       },
       {
         "src": "img/review_urosaf_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;UROSAF",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Amália Rossetová",
         "text": "Manžel mal problémy zo stresu v práci. Odborník mu odporučil Urosaf. Pomohlo! Intimita sa obnovila, dlhšie, častejšie a lepšie!",
@@ -4712,7 +4712,7 @@
       },
       {
         "src": "img/review_urosaf_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;UROSAF",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Veronika Savierová",
         "text": "Manžel dlho bral stimulačné tabletky. Vedľajší účinok bola podráždenosť a bolesť hlavy. Presvedčila som ho prejsť na Urosaf.",
@@ -4859,7 +4859,7 @@
     "reviews_demyxil": [
       {
         "src": "img/review_demyxil_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Henrieta Lopárová",
         "text": "Roky som bojovala s plesňou na nohách. Všetky prostriedky mali len dočasný účinok. Demyxil mi pomohol navždy zabudnúť na tento problém. Teraz mám zdravú pokožku aj nechty!",
@@ -4888,7 +4888,7 @@
       },
       {
         "src": "img/review_demyxil_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Laura Valdová",
         "text": "Nedávno som zistila, že celá pokožka na mojom krku je pokrytá psoriázou. Rozhodla som sa vyskúšať krém Demyxil. Pomohol mi. Je to pomerne účinný prostriedok. Rýchlo som sa zbavila psoriázy, moja pokožka sa stala zdravou a hydratovanou!",
@@ -4917,7 +4917,7 @@
       },
       {
         "src": "img/review_demyxil_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Faina Dawsonová",
         "text": "Objavila som fľaky na lakťoch, veľmi svrbeli a šúpali sa. Odborník mi odporučil Demyxil. Úľava prišla od prvých dní a po kúre problém zmizol.",
@@ -4946,7 +4946,7 @@
       },
       {
         "src": "img/review_demyxil_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Bianka Wilbornová",
         "text": "Mám pozitívne skúsenosti s krémom Demyxil. Skvelý a účinný produkt s olejmi v zložení! Zjemňuje pokožku a pomáha v boji proti plesniam.",
@@ -5004,7 +5004,7 @@
       },
       {
         "src": "img/review_demyxil_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ľudmila Majklsonová",
         "text": "Za pár týždňov po plesni ani stopy. Praskliny zmizli, svrbenie prestalo takmer okamžite. Účinne odstraňuje aj nepríjemný zápach.",
@@ -5033,7 +5033,7 @@
       },
       {
         "src": "img/review_demyxil_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Oľga Spenserová",
         "text": "Kvôli hormonálnym problémom som mala suchosť, svrbenie a praskliny. Pomohol len Demyxil. Pokožka sa úplne obnovila a príznaky zmizli už od prvých dní!",
@@ -5120,7 +5120,7 @@
       },
       {
         "src": "img/review_demyxil_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Tatiana Maltonová",
         "text": "Pomáha rýchlo vyčistiť pokožku od psoriázy a nezanecháva jazvy. Po ukončení kúry sa psoriáza nevrátila.",
@@ -5149,7 +5149,7 @@
       },
       {
         "src": "img/review_demyxil_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Viera Ralfová",
         "text": "Výborný protiplesňový krém! Od prvých dní odstraňuje svrbenie a zápach, časom sa pokožka úplne obnovila.",
@@ -5178,7 +5178,7 @@
       },
       {
         "src": "img/review_demyxil_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Patrícia Peladnosová",
         "text": "Účinok ma príjemne prekvapil! Fľaky sa zmenšovali a praskliny sa hojili. Som veľmi spokojná!",
@@ -5207,7 +5207,7 @@
       },
       {
         "src": "img/review_demyxil_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lorena Pufová",
         "text": "Neviem o ničom účinnejšom proti plesni nechtov. Poškodený necht odrastie a rastie zdravý. Stačil mi jeden kurz!",
@@ -5265,7 +5265,7 @@
       },
       {
         "src": "img/review_demyxil_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;DEMYXIL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Karina Paulsonová",
         "text": "Najlepší krém na kožné problémy. Pomohol mi aj s plesňou. Moja pokožka je vďaka Demyxilu úplne zdravá!",
@@ -5296,7 +5296,7 @@
     "reviews_vasaxal": [
       {
         "src": "img/review_vasaxal_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Margaréta Pitrellová",
         "text": "Nedávno som si objednala gél Vasaxal. Má príjemný chladiaci účinok po nanesení. Už po niekoľkých dňoch sa objavila ľahkosť, prvý efekt je zrejmý.",
@@ -5325,7 +5325,7 @@
       },
       {
         "src": "img/review_vasaxal_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lucia Armandesová",
         "text": "Účinný gél, ktorý odstraňuje ťažobu a únavu z nôh. Prešla pulzujúca bolesť a bolesť pri chôdzi, pokračujem v používaní.",
@@ -5354,7 +5354,7 @@
       },
       {
         "src": "img/review_vasaxal_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ariadna Fantéová",
         "text": "Zmizli opuchy a ťažoba v nohách, prestali ma trápiť kŕče a žily sú menej viditeľné. Odporúčam!",
@@ -5383,7 +5383,7 @@
       },
       {
         "src": "img/review_vasaxal_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lejla Fergarosová",
         "text": "Skvelý a účinný prostriedok, rýchle doručenie, príjemní poradcovia. Ďakujem!",
@@ -5441,7 +5441,7 @@
       },
       {
         "src": "img/review_vasaxal_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Veronika Vajcová",
         "text": "Cievne žilky na nohách sú takmer neviditeľné, odstraňuje bolesť a predchádza opuchu. Veľmi dobre pomáha!",
@@ -5470,7 +5470,7 @@
       },
       {
         "src": "img/review_vasaxal_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Viktória Laskesová",
         "text": "Príjemná a ľahká konzistencia, rastlinné zložky v zložení, dostupná cena. A hlavne — účinok je tu!",
@@ -5528,7 +5528,7 @@
       },
       {
         "src": "img/review_vasaxal_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Glória Lubrexová",
         "text": "Vasaxal mi vrátil ľahkosť v nohách. Žily prestali byť zapálené, zmizli cievne žilky. Veľmi príjemný účinok po použití.",
@@ -5586,7 +5586,7 @@
       },
       {
         "src": "img/review_vasaxal_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Frederika Alvarezová",
         "text": "O géle Vasaxal som sa dozvedela nedávno. Veľmi veľa pozitívnych recenzií. Okamžite som pocítila výsledok, ťažoba zmizla, žily nie sú tak opuchnuté. Som spokojná!",
@@ -5615,7 +5615,7 @@
       },
       {
         "src": "img/review_vasaxal_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Žaneta Vivalésová",
         "text": "Dlho mám problémy s kŕčovými žilami, zdedila som ich. Strašne som sa bála operácie, ale Vasaxal mi pomohol ju odvrátiť. Žily sú menej viditeľné, zmizla ťažoba a bolesť, prestali kŕče.",
@@ -5644,7 +5644,7 @@
       },
       {
         "src": "img/review_vasaxal_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Uršuľa Nebelsonová",
         "text": "Výborný výsledok! Okamžite som pocítila úľavu. Noc som prespala bez kŕčov a bolesti. Budem pokračovať v používaní.",
@@ -5673,7 +5673,7 @@
       },
       {
         "src": "img/review_vasaxal_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VASAXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ramona Karmelesová",
         "text": "Vasaxal — najlepšie zo všetkého, čo som skúšala. Už som bola sklamaná z gélov a krémov, ale po Vasaxale som pochopila, že dobrý prostriedok môže pomôcť v boji proti kŕčovým žilám!",
@@ -5733,7 +5733,7 @@
     "reviews_ausen": [
       {
         "src": "img/review_ausen_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mária Lucescu",
         "text": "Keď sa začali problémy so sluchom, dlho som hľadala prostriedok. Odporučili mi Ausen. Účinok jednoznačne je! Prestala som sa pýtať ľudí, čo hovorili. A stojí málo!",
@@ -5762,7 +5762,7 @@
       },
       {
         "src": "img/review_ausen_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Frederika Garciová",
         "text": "Skvelý prostriedok na obnovu sluchu. Pozitívne zlepšenie som zaznamenala už po niekoľkých týždňoch. Ak pracujete v hlučnom prostredí, môžete ho používať aj preventívne.",
@@ -5791,7 +5791,7 @@
       },
       {
         "src": "img/review_ausen_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mišel Farcio",
         "text": "Dobre pomáha od bolesti a hluku v ušiach. Odstraňuje zvonenie. Plusy: účinnosť, prírodné zloženie, dostupná cena.",
@@ -5878,7 +5878,7 @@
       },
       {
         "src": "img/review_ausen_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Júlia Taroxová",
         "text": "Ocenila som účinnosť Ausen, keď som stratila sluch po koncerte. Pomáha. Veľké plus, že je vo forme kapsúl, nie kvapiek.",
@@ -5907,7 +5907,7 @@
       },
       {
         "src": "img/review_ausen_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Gabriel Martinos",
         "text": "Chrípka dala komplikáciu na ucho. Strašne bolelo, objavil sa šum v ušiach. Tabletky odstránili bolesť, ale sluch úplne obnovil len Ausen. Teraz odporúčam známym!",
@@ -5936,7 +5936,7 @@
       },
       {
         "src": "img/review_ausen_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Henrieta Yorková",
         "text": "So starnutím sa mi rýchlo zhoršoval sluch. Odborník mi odporučil Ausen. A naozaj pomohol! Zbavil ma šumu, ktorý ma neustále prenasledoval.",
@@ -5994,7 +5994,7 @@
       },
       {
         "src": "img/review_ausen_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Helena Cortesová",
         "text": "Objednala som Ausen pre babku. A ona hovorí, a ja vidím, že jej sluch sa zlepšil. Ešte hovorí, že lepšie spí. To znamená, že pri problémoch súvisiacich s vekom môže pomôcť!",
@@ -6052,7 +6052,7 @@
       },
       {
         "src": "img/review_ausen_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Agneša Batroxová",
         "text": "Skvelý prostriedok pre zdravie uší. Bohaté a prírodné zloženie, účinnosť, minimum kontraindikácií. A ešte za takú cenu! Úžasné!",
@@ -6081,7 +6081,7 @@
       },
       {
         "src": "img/review_ausen_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Salma Forexizová",
         "text": "Ausen beriem nie prvýkrát. Pomáha aj pri chronických problémoch a pri poruchách sluchu súvisiacich s vekom. Používam aj pri zápaloch. Som veľmi spokojná!",
@@ -6139,7 +6139,7 @@
       },
       {
         "src": "img/review_ausen_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Ausen",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Klarisa Mornosová",
         "text": "Pracujem v hlučnom prostredí a to negatívne vplývalo na môj sluch. Po Ausen počujem omnoho lepšie, večer už nemám šum v ušiach, dokonca sa mi zlepšil spánok! Ďakujem za kvalitný a účinný prostriedok!",
@@ -6170,7 +6170,7 @@
     "reviews_paraxan": [
       {
         "src": "img/review_paraxan_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Kamila Vargasová",
         "text": "Lacný, bezpečný a účinný produkt proti parazitom. Užívam, keď sa objaví tento problém. Pomohol! Teraz ho beriem preventívne dvakrát do roka.",
@@ -6199,7 +6199,7 @@
       },
       {
         "src": "img/review_paraxan_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Veronika Chryzanto",
         "text": "Dlho som hľadala účinný prostriedok proti parazitom. Kritérium bolo len jedno — bezpečnosť. Preto som si vybrala Paraxan. Výborný prostriedok, ak nechcete škodiť organizmu.",
@@ -6228,7 +6228,7 @@
       },
       {
         "src": "img/review_paraxan_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Klarisa Morgeshová",
         "text": "Paraxan som si vybrala kvôli zloženiu. Mám tri mačky, preto dvakrát do roka potrebujem takúto prevenciu. A Paraxan je na to ideálny.",
@@ -6257,7 +6257,7 @@
       },
       {
         "src": "img/review_paraxan_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rozita Fančesová",
         "text": "Som zásadne proti lekárenským produktom, bojím sa vedľajších účinkov. Ale chápem, že ľudové metódy nestačia. Na očistu používam Paraxan. Skvelý prostriedok s prírodným zložením.",
@@ -6344,7 +6344,7 @@
       },
       {
         "src": "img/review_paraxan_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Miranda Poulsonová",
         "text": "Účinný prostriedok. Užívam ho vtedy, keď je, povedzme, \"potreba\". Potešilo ma, že nebolo ani nevoľnosti, ani zvracania. Čistí bez intoxikácie organizmu.",
@@ -6373,7 +6373,7 @@
       },
       {
         "src": "img/review_paraxan_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Šarlota Grejsová",
         "text": "Paraxan pôsobí jemne, ale účinne! Používame ho preventívne celá rodina. Nikdy sme nemali vedľajšie účinky ani parazity, hoci máme psov.",
@@ -6460,7 +6460,7 @@
       },
       {
         "src": "img/review_paraxan_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Žoržeta Alonso",
         "text": "Antiparazitárny prostriedok Paraxan pôsobí účinne, ale jemne a bez škody pre organizmus. Po kurze je telo čisté, celkový stav sa zlepšil, dokonca aj pleť vyzerá lepšie!",
@@ -6489,7 +6489,7 @@
       },
       {
         "src": "img/review_paraxan_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dorota Lovranová",
         "text": "O Paraxane som sa dozvedela nedávno, ale už som ocenila jeho účinnosť. Skvelý prostriedok. Po červoch ani stopy. Odteraz budem opatrnejšia s rybami…",
@@ -6518,7 +6518,7 @@
       },
       {
         "src": "img/review_paraxan_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Laura Daltonová",
         "text": "Ako milovníčka sushi som sa viackrát stretla s nepríjemnými následkami v podobe červov. Naposledy ma zachránil Paraxan. Rýchly a účinný! A bez škody pre organizmus.",
@@ -6547,7 +6547,7 @@
       },
       {
         "src": "img/review_paraxan_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rolanda Foxová",
         "text": "Ak potrebujete dobrý a netoxický prostriedok proti červom a iným parazitom, odporúčam Paraxan. Mne aj manželovi veľmi pomohol!",
@@ -6576,7 +6576,7 @@
       },
       {
         "src": "img/review_paraxan_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;PARAXAN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Vajnona Straxová",
         "text": "Paraxan je ideálny na prevenciu helmintov a očistu organizmu. Už dlho ho používam a nikdy nesklamal!",
@@ -6607,7 +6607,7 @@
     "reviews_steplex": [
       {
         "src": "img/review_steplex_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mária Vergasová",
         "text": "Veľmi rýchlo odstraňuje bolesť a zápal. Mala som problém s kolenným kĺbom, ťažko som došľapovala. Po použití Steplexu sa okamžite uľavilo. Už niekoľko mesiacov na problém ani nepomyslím!",
@@ -6636,7 +6636,7 @@
       },
       {
         "src": "img/review_steplex_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Sára Pilarsonová",
         "text": "Dobre pomáha obnoviť kĺb a odstrániť bolesť. Prírodné zloženie, rýchly účinok, príjemný pocit hneď po nanesení. Som veľmi spokojná s gélom!",
@@ -6723,7 +6723,7 @@
       },
       {
         "src": "img/review_steplex_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lejla Parkinsová",
         "text": "Steplex je úžasný gél. Funguje rýchlo a efektívne! Používam ho na opuchy, zápaly kĺbov aj pri úrazoch. Nezastupiteľná vec!",
@@ -6752,7 +6752,7 @@
       },
       {
         "src": "img/review_steplex_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Roberta Garciová",
         "text": "Po práci v záhrade je Steplex tou najlepšou pomocou! Rýchly a účinný. Ďakujem za taký kvalitný produkt!",
@@ -6781,7 +6781,7 @@
       },
       {
         "src": "img/review_steplex_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Izabela Servandesová",
         "text": "Používala som Steplex kúrou pred niekoľkými mesiacmi a na bolesti kĺbov som zabudla. Vždy ho mám poruke pre prípad núdze.",
@@ -6868,7 +6868,7 @@
       },
       {
         "src": "img/review_steplex_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Silvia Diadesová",
         "text": "Prvýkrát som skúšala Steplex už minulý rok. Odvtedy nič iné neberiem. Všetkým odporúčam len Steplex!",
@@ -6926,7 +6926,7 @@
       },
       {
         "src": "img/review_steplex_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rebeka Wortonesová",
         "text": "Ocenila som účinnosť Steplexu hneď po prvom použití. Príjemný pocit po nanesení a bolesť rýchlo ustúpila. Po pár dňoch som bola úplne fit.",
@@ -6955,7 +6955,7 @@
       },
       {
         "src": "img/review_steplex_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dolores Freimforková",
         "text": "Steplex objednávam pre mamu. Má veľmi vážne problémy s kĺbmi a chrupavkami. Vraví, že len Steplex jej pomáha!",
@@ -7013,7 +7013,7 @@
       },
       {
         "src": "img/review_steplex_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;STEPLEX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Augusta Petresová",
         "text": "Skvelý gél s rýchlym účinkom. Nepáli, len príjemne chladí. Výborná cena za taký úžasný produkt!",
@@ -7044,7 +7044,7 @@
     "reviews_vermixin": [
       {
         "src": "img/review_vermixin_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Glória Wilbornová",
         "text": "Žijem s dvoma psami a mačkou, vyskúšala som mnoho prípravkov proti červom. Zastavila som sa pri Vermixine. Veľmi účinná prevencia, už roky ani jeden prípad.",
@@ -7073,7 +7073,7 @@
       },
       {
         "src": "img/review_vermixin_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Terézia Muncho",
         "text": "Vermixin je najlepší čistiaci prostriedok. Účinok som pocítila na sebe, keď som sa stretla s „nechcenými hosťami“ v tele. Očisťuje jemne a efektívne. Veľké plus — prírodné zloženie.",
@@ -7102,7 +7102,7 @@
       },
       {
         "src": "img/review_vermixin_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Helga Lovintonová",
         "text": "Používame Vermixin celá rodina. Skvelý prostriedok na prevenciu aj očistu.",
@@ -7160,7 +7160,7 @@
       },
       {
         "src": "img/review_vermixin_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Uršuľa Descartesová",
         "text": "Vermixin objednávam opakovane. Používam preventívne. Výhody: prírodné zloženie, cena, žiadne vedľajšie účinky.",
@@ -7189,7 +7189,7 @@
       },
       {
         "src": "img/review_vermixin_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lolita Reigasová",
         "text": "Helminty sú nepríjemné, ale nik nie je chránený. Ak sa s tým stretnete, odporúčam Vermixin. Mne pomohol!",
@@ -7276,7 +7276,7 @@
       },
       {
         "src": "img/review_vermixin_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Milena Roncladová",
         "text": "Snažím sa pravidelne užívať antiparazitárne prípravky preventívne. Bávala som sa toxicity. Teraz používam iba Vermixin. Je prírodný a bezpečný!",
@@ -7305,7 +7305,7 @@
       },
       {
         "src": "img/review_vermixin_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Elizabet Lydesová",
         "text": "Čistí organizmus jemne, nevyvoláva nevoľnosť. Po kúre som sa zbavila parazitov a obnovila trávenie.",
@@ -7334,7 +7334,7 @@
       },
       {
         "src": "img/review_vermixin_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Bela Harkinsová",
         "text": "Ďakujem za kvalitný produkt a rýchle doručenie. Som veľmi spokojná s Vermixinom. Pri potrebe si určite objednám znova, aj keď dúfam, že nebude treba.",
@@ -7363,7 +7363,7 @@
       },
       {
         "src": "img/review_vermixin_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Diana Torrensová",
         "text": "Vermixin dobre čistí a obnovuje činnosť organizmu. Prírodné zloženie eliminuje riziko intoxikácie. Odporúčam!",
@@ -7392,7 +7392,7 @@
       },
       {
         "src": "img/review_vermixin_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Selena Renemiová",
         "text": "Účinný prostriedok proti červom a lambliám. Pomáha rýchlo, ale najlepšie je absolvovať celú kúru.",
@@ -7450,7 +7450,7 @@
       },
       {
         "src": "img/review_vermixin_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VERMIXIN",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Katarína Martinová",
         "text": "Bezpečný, účinne bojuje proti rôznym druhom parazitov. Nevyvoláva vedľajšie účinky a pomáha telu zotaviť sa po infekcii.",
@@ -7481,7 +7481,7 @@
     "reviews_visoptic_duo_day": [
       {
         "src": "img/review_visoptic-duo-day_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mária Alonso",
         "text": "Dlho som hľadala niečo dobré na oči. Rozhodla som sa pre Visoptic Duo Day. Skvelý prípravok v kapsulách. Cenovo dostupný, s rastlinným zložením. A hlavne — účinný.",
@@ -7510,7 +7510,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Kate Smitsová",
         "text": "Môj nenahraditeľný pomocník proti únave a suchosti očí. Odstraňuje diskomfort a dobre zvlhčuje. Ak sú oči neustále v napätí, Visoptic Duo Day je to, čo potrebujete!",
@@ -7568,7 +7568,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Juliana Mayová",
         "text": "Predtým som používala očné kvapky, ale keď som vyskúšala Visoptic Duo Day, pochopila som, že kapsuly sú najlepšie! Jednoduchšie na použitie, účinnejšie a dlhšie pôsobia.",
@@ -7597,7 +7597,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Sofia Nolanová",
         "text": "Vďaka kapsulám Visoptic Duo Day mi prestali slziť oči, zmizla hmla pred očami, vidím lepšie. Výsledok je! Odporúčam!",
@@ -7626,7 +7626,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Šarlota Mikregová",
         "text": "Používam kapsuly Visoptic Duo Day preventívne. Celá rodina má problémy s očami. Ja som už v 27 nosila šošovky. Posledné roky sa zrak len zhoršoval, ale s Visoptic Duo Day sa zlepšuje.",
@@ -7684,7 +7684,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Kamila Fergaresová",
         "text": "Vzala som Visoptic Duo Day na skúšku. Účinok ma príjemne prekvapil. Zrak sa citeľne zlepšil. Hydratačný účinok jednej kapsuly vydrží celý deň!",
@@ -7742,7 +7742,7 @@
       },
       {
         "src": "img/review_visoptic-duo-day_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Stella Klarsonová",
         "text": "Vybrala som si Visoptic Duo Day kvôli zloženiu. Obsahuje veľa dobrých zložiek, ktoré podporujú zdravie očí. Účinok je! Zrak sa zlepšil!",
@@ -7773,7 +7773,7 @@
     "reviews_visoptic_duo_night": [
       {
         "src": "img/review_visoptic-duo-night_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ema Masonová",
         "text": "Pracujem pri počítači a s Visoptic Duo Night sa mi oči cítia oveľa lepšie. Odstraňujú únavu. Plusy: prírodné zloženie a jednoduché používanie.",
@@ -7802,7 +7802,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Alberta Thorntonová",
         "text": "Skvelý prípravok pre ľudí s problémami s očami. Oči sú menej unavené, zmizol pocit suchosti a podráždenie na svetlo.",
@@ -7831,7 +7831,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lauren Grabsová",
         "text": "Visoptic Duo Night pomohol odstrániť zápal. Už od prvých dní bolo lepšie, zmizol diskomfort a slzenie.",
@@ -7976,7 +7976,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Viktória Ošvaldová",
         "text": "Po nehode som si myslela, že už nebudem vidieť. Visoptic Duo Night mi pomohol obnoviť zrak. Problémy ešte sú, ale s každým kúrom je to lepšie!",
@@ -8034,7 +8034,7 @@
       },
       {
         "src": "img/review_visoptic-duo-night_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Agáta Ferganová",
         "text": "Skvele si poradia s akýmkoľvek očným problémom. Zápaly, suchosť, slzenie, nepohodlie — všetko zmizne. A ešte sa aj zrak zlepšuje!",
@@ -8065,7 +8065,7 @@
     "reviews_trovazin": [
       {
         "src": "img/review_trovazin_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Viktória Verberová",
         "text": "Trovazin odstránil ťažobu a opuch nôh už v prvých dňoch. Oveľa ľahšie sa mi chodí. Účinná pomoc pre ľudí s kŕčovými žilami.",
@@ -8123,7 +8123,7 @@
       },
       {
         "src": "img/review_trovazin_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dorina Petráková",
         "text": "Skvelý gél Trovazin s príjemným chladivým účinkom. Rýchlo sa vstrebáva a prináša úľavu! Som 100% spokojná.",
@@ -8152,7 +8152,7 @@
       },
       {
         "src": "img/review_trovazin_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Elena Sparksová",
         "text": "Opuchy a ťažoba zmizli, lýtka prestali bolieť. Ďakujem aj za rýchle doručenie a podrobnú telefonickú konzultáciu.",
@@ -8239,7 +8239,7 @@
       },
       {
         "src": "img/review_trovazin_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Alba Rimmelová",
         "text": "Po použití gélu Trovazin sú žily menej viditeľné. Cievne sieťky zmizli. Používam ho dvakrát ročne a nemám žiadne problémy!",
@@ -8268,7 +8268,7 @@
       },
       {
         "src": "img/review_trovazin_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Violeta Ronaldová",
         "text": "Objednala som Trovazin pre mamu, je veľmi spokojná. Vraj s týmto gélom je jej oveľa ľahšie. Menej opuchov a bolesti.",
@@ -8326,7 +8326,7 @@
       },
       {
         "src": "img/review_trovazin_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Frederika Suarezová",
         "text": "Skvelý gél! Rýchlo sa vstrebáva, chladí, má ľahkú konzistenciu a príjemnú vôňu. Používam druhý týždeň a výsledky už cítim.",
@@ -8355,7 +8355,7 @@
       },
       {
         "src": "img/review_trovazin_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Eliza Darronová",
         "text": "Skúšala som rôzne masti a krémy na kŕčové žily, Trovazin je najlepší. Výborné prírodné zloženie a účinné pôsobenie. Ťažoba v nohách zmizla, cítim ľahkosť!",
@@ -8384,7 +8384,7 @@
       },
       {
         "src": "img/review_trovazin_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Tina Alsarová",
         "text": "Po kúre používania ma prestali bolieť nohy, zmizli kŕče a opuchy! Žily sa už nezapália. Plánujem upevniť výsledok opakovaným kúrom.",
@@ -8442,7 +8442,7 @@
       },
       {
         "src": "img/review_trovazin_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Laura Chesneyová",
         "text": "S pomocou Trovazin som vrátila ľahkosť do nôh a zbavila sa cievnych hviezdičiek. Plusy: dobré zloženie, ľahká textúra a príjemná vôňa. Žiadne mínusy!",
@@ -8471,7 +8471,7 @@
       },
       {
         "src": "img/review_trovazin_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Trovazin",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Kaitlin Thompsonová",
         "text": "Príjemne chladí, odstraňuje bolesť, prestali ma trápiť nočné kŕče. Účinok som cítila od prvých dní a každým dňom to bolo lepšie!",
@@ -8560,7 +8560,7 @@
       },
       {
         "src": "img/review_viarex_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Viarex",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Barbora Delasconová",
         "text": "Objednala som pre manžela, keď sme mali problémy v sexe. Všetko sa zlepšilo, častejšie a dlhšie. Ukázalo sa, že manžel ma ešte vie prekvapiť!",
@@ -8618,7 +8618,7 @@
       },
       {
         "src": "img/review_viarex_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Viarex",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Klaudia Elkasarová",
         "text": "Prekvapovalo ma správanie manžela posledný čas, akoby sa vrátil do mladosti. A potom som našla v jeho taške Viarex a všetko bolo jasné.",
@@ -8705,7 +8705,7 @@
       },
       {
         "src": "img/review_viarex_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Viarex",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Daphné Fokstritová",
         "text": "Manželovi sa na pozadí stresu objavili “mužské problémy”. Presvedčila som ho skúsiť Viarex a pomohol! Vrátila sa mu chuť a sex máme každý deň!",
@@ -8734,7 +8734,7 @@
       },
       {
         "src": "img/review_viarex_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Viarex",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Rebeka Štraussonová",
         "text": "Skvelý prípravok. Manžel je spokojný s Viarex a ja som konečne spokojná s manželom. Ani som si nemyslela, že dokáže vydržať celé hodiny!",
@@ -8821,7 +8821,7 @@
       },
       {
         "src": "img/review_viarex_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Viarex",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lena Gavrošová",
         "text": "Od seba aj od manžela veľká vďaka za taký kvalitný prípravok. Vrátil do nášho života intímnu blízkosť, pomohol zachovať rodinu!",
@@ -8939,7 +8939,7 @@
     "reviews_femixal": [
       {
         "src": "img/review_femixal_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Melinda Nowaková",
         "text": "Úprimne povedané, už som zabudla, kedy som naposledy mohla pokojne ísť na dlhú prechádzku do parku bez toho, aby som si plánovala trasu od jednej verejnej toalety k druhej. Tento neustály pocit tlaku v podbrušku ma psychicky vyčerpával, ale po tom, čo som začala užívať tento rastlinný komplex, sa situácia konečne začala meniť k lepšiemu.",
@@ -8969,7 +8969,7 @@
 
       {
         "src": "img/review_femixal_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Jana Kováčová",
         "text": "Začala som používať Femixal na odporúčanie kamarátky a hoci som spočiatku veľmi neverila v výsledok, už po desiatich dňoch som si všimla, že môj spánok je oveľa kvalitnejší, pretože organizmus prestal vysielať tieto nepríjemné signály uprostred noci. Je to úžasný pocit — zobudiť sa ráno oddýchnutá a vedieť, že tvoj močový systém konečne funguje stabilne a pokojne.",
@@ -8999,7 +8999,7 @@
 
       {
         "src": "img/review_femixal_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ivana Kollárová",
         "text": "Tento prírodný prípravok sa pre mňa stal skutočným objavom, pretože pôsobí veľmi jemne, nespôsobuje žiadne vedľajšie účinky a zároveň pomáha udržiavať vnútorný komfort aj počas vlhkého počasia.",
@@ -9029,7 +9029,7 @@
 
       {
         "src": "img/review_femixal_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Alena Hricová",
         "text": "Dlho som hľadala nejaký šetrný spôsob, ako podporiť svoj organizmus, a tento produkt dokonale vyhovel mojim požiadavkám, pretože pomáha posilniť svaly a nastaviť normálny rytmus návštev toalety. Teraz môžem pokojne chodiť na návštevy k priateľom alebo do kina bez obáv z nepredvídateľných situácií, ktoré ma predtým dostávali do nepríjemnej pozície.",
@@ -9059,7 +9059,7 @@
 
       {
         "src": "img/review_femixal_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Elena Petrova",
         "text": "Femixal má kumulatívny účinok — s každým dňom užívania som cítila, že napätie v oblasti močového mechúra sa znižuje a nutkanie už nie je také náhle a časté. Som veľmi spokojná s výsledkom.",
@@ -9089,7 +9089,7 @@
 
       {
         "src": "img/review_femixal_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mária Vargová",
         "text": "Tento komplex ma zaujal svojím bohatým a zároveň bezpečným zložením bez agresívnej chémie. Pocit ťažkosti v podbrušku zmizol pomerne rýchlo a všimla som si, že celkový stav močových ciest sa výrazne zlepšil — zmizla tá neustála podráždenosť a diskomfort.",
@@ -9119,7 +9119,7 @@
 
       {
         "src": "img/review_femixal_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mária Pavlovičová",
         "text": "Objednala som si tento prípravok cez internet, pretože v lekárňach mi ponúkali len nejaké štandardné veci, ktoré mi predtým veľmi nepomáhali. Doručenie bolo rýchle a hneď som začala kúru s nádejou aspoň na nejaký výsledok, ale efekt prekonal všetky moje očakávania — konečne som prestala byť „pripútaná“ k toalete.",
@@ -9149,7 +9149,7 @@
 
       {
         "src": "img/review_femixal_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Adela Richtárová",
         "text": "Absolvovala som celý kurz a môžem povedať, že kvalita môjho života sa výrazne zlepšila, pretože zmizla tá neustála úzkosť, ktorá ma predtým sprevádzala pri každom odchode z domu. Je to naozaj kvalitná podpora pre ženský organizmus, ktorá prináša pocit čistoty, sucha a úplného komfortu počas celého dňa.",
@@ -9179,7 +9179,7 @@
 
       {
         "src": "img/review_femixal_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lucia Repiská",
         "text": "Vďaka týmto kapsulám môžem opäť dodržiavať normálny pitný režim, pretože môj organizmus začal oveľa pokojnejšie reagovať na tekutiny a nutkanie sa normalizovalo, už nie je také urgentné. Mám pocit, že moje obličky a močový mechúr teraz fungujú harmonicky, čo mi umožňuje cítiť sa oveľa energickejšie.",
@@ -9209,7 +9209,7 @@
 
       {
         "src": "img/review_femixal_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Nora Beňová",
         "text": "Femixal pôsobí veľmi jemne, nezaťažuje iné orgány a zároveň prináša stabilný výsledok, ktorý pociťujem každý deň.",
@@ -9239,7 +9239,7 @@
 
       {
         "src": "img/review_femixal_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Zuzana Poláková",
         "text": "Tento produkt mi pomohol posilniť lokálnu imunitu a odstrániť tú nadmernú citlivosť, ktorá ma predtým nútila vzdávať sa aktívneho životného štýlu. Teraz viem, že môj močový systém funguje stabilne a bez akýchkoľvek „prekvapení“.",
@@ -9269,7 +9269,7 @@
 
       {
         "src": "img/review_femixal_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Anna Marićová",
         "text": "Najviac ma na tomto prípravku prekvapilo, ako rýchlo zmizol ten nepríjemný pocit neúplného vyprázdnenia po návšteve toalety, ktorý bol predtým mojím stálym problémom. Mám pocit, že steny močového mechúra sú menej podráždené a už necítim ten neustály falošný tlak.",
@@ -9299,7 +9299,7 @@
 
       {
         "src": "img/review_femixal_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;FEMIXAL",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;FEMIXAL",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Radka Georgová",
         "text": "Tento prípravok mi pomohol prežiť veľmi náročnú zimu, keď som neustále mrzla na zastávkach a kvôli tomu som mala veľké problémy s častým močením. Kapsuly pomohli môjmu organizmu stať sa odolnejším voči chladu a všimla som si, že diskomfort prestal byť taký výrazný už v prvom týždni užívania.",
@@ -9331,8 +9331,8 @@
       {
         "src": "img/review_ultiplex_1.png",
         "name": "Ľuboslav Capko",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9361,8 +9361,8 @@
       {
         "src": "img/review_ultiplex_2.png",
         "name": "Zoja Jančová",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9391,8 +9391,8 @@
       {
         "src": "img/review_ultiplex_3.png",
         "name": "Fridrich Marcinek",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9421,8 +9421,8 @@
       {
         "src": "img/review_ultiplex_4.png",
         "name": "Elena Ionescu",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9451,8 +9451,8 @@
       {
         "src": "img/review_ultiplex_5.png",
         "name": "Marek Varga",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9481,8 +9481,8 @@
       {
         "src": "img/review_ultiplex_6.png",
         "name": "Camelia Stoica",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9511,8 +9511,8 @@
       {
         "src": "img/review_ultiplex_7.png",
         "name": "Martin Horváth",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9541,8 +9541,8 @@
       {
         "src": "img/review_ultiplex_8.png",
         "name": "Mihaela Kostrecová",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9571,8 +9571,8 @@
       {
         "src": "img/review_ultiplex_9.png",
         "name": "Simona Šidlová",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9601,8 +9601,8 @@
       {
         "src": "img/review_ultiplex_10.png",
         "name": "Fridrich Pollák",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9631,8 +9631,8 @@
       {
         "src": "img/review_ultiplex_11.png",
         "name": "Jana Gašparová",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9661,8 +9661,8 @@
       {
         "src": "img/review_ultiplex_12.png",
         "name": "Alexandr Krajčovič",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9691,8 +9691,8 @@
       {
         "src": "img/review_ultiplex_13.png",
         "name": "Lukáš Varga",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;ULTIPLEX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;ULTIPLEX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9722,8 +9722,8 @@
       {
         "src": "img/review_remofix_1.png",
         "name": "Nagy Bence",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9752,8 +9752,8 @@
       {
         "src": "img/review_remofix_2.png",
         "name": "Kovács Zsófia",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9782,8 +9782,8 @@
       {
         "src": "img/review_remofix_3.png",
         "name": "Tóth Attila",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9812,8 +9812,8 @@
       {
         "src": "img/review_remofix_4.png",
         "name": "Varga Gábor",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9842,8 +9842,8 @@
       {
         "src": "img/review_remofix_5.png",
         "name": "Kiss Anikó",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9872,8 +9872,8 @@
       {
         "src": "img/review_remofix_6.png",
         "name": " Molnár Balázs",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9902,8 +9902,8 @@
       {
         "src": "img/review_remofix_7.png",
         "name": "Farkas Emese",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9932,8 +9932,8 @@
       {
         "src": "img/review_remofix_8.png",
         "name": "Papp Orsolya",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9962,8 +9962,8 @@
       {
         "src": "img/review_remofix_9.png",
         "name": "Németh Luka",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9992,8 +9992,8 @@
       {
         "src": "img/review_remofix_10.png",
         "name": "Juhász Mónika",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10022,8 +10022,8 @@
       {
         "src": "img/review_remofix_11.png",
         "name": "Mészáros Zoltán",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10052,8 +10052,8 @@
       {
         "src": "img/review_remofix_12.png",
         "name": "Fekete Tamás",
-        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
-        "rating_text": "Kiváló minőség!",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;REMOFIX",
+        "rating_text": "Vynikajúca kvalita!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -10082,7 +10082,7 @@
     "reviews_guavital": [
       {
         "src": "img/review_guavital_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Selena Adamová",
         "text": "S pomocou Guavital+ som schudla 12 kg! Bolo to jednoduché a ľahké. Telo sa stalo štíhlym a pevnejším!",
@@ -10111,7 +10111,7 @@
       },
       {
         "src": "img/review_guavital_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Tamara Blahová",
         "text": "Guavital+ mi pomohol zbaviť sa pocitu hladu. Zatiaľ som schudla 7 kg a pokračujem ďalej.",
@@ -10140,7 +10140,7 @@
       },
       {
         "src": "img/review_guavital_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Klaudia Vertová",
         "text": "Neviem ako, ale funguje to! Kila idú dole a telo sa spevňuje. Všetko jednoducho a bez stresu.",
@@ -10169,7 +10169,7 @@
       },
       {
         "src": "img/review_guavital_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Valéria Kaplánová",
         "text": "Za tri mesiace tréningov a diét som schudla len 5 kg, no s Guavital+ išlo dole 11!",
@@ -10198,7 +10198,7 @@
       },
       {
         "src": "img/review_guavital_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Jana Rufusová",
         "text": "Ohromilo ma to! Na váhe rýchly výsledok. 10 z 10!",
@@ -10256,7 +10256,7 @@
       },
       {
         "src": "img/review_guavital_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Glória Simková",
         "text": "Milujem Guavital+. Najlepší produkt na chudnutie. Kila sa nevracajú.",
@@ -10285,7 +10285,7 @@
       },
       {
         "src": "img/review_guavital_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dobroslava Martanová",
         "text": "Neviem držať diéty, vždy sa zlomím. Len Guavital+ mi pomohol zbaviť sa nadbytočných kíl.",
@@ -10343,7 +10343,7 @@
       },
       {
         "src": "img/review_guavital_10.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dominika Glorová",
         "text": "Zhodila som 11 kg, telo spevnené, bez strií.",
@@ -10372,7 +10372,7 @@
       },
       {
         "src": "img/review_guavital_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Lucia Róbertová",
         "text": "Kvôli problémom s endokrinným systémom som mala nadváhu 12 rokov. S Guavital+ -16 kg!",
@@ -10401,7 +10401,7 @@
       },
       {
         "src": "img/review_guavital_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Beáta Osvaldová",
         "text": "Vyskúšala som Guavital+ len zo zvedavosti, ale výsledok ma prekvapil!",
@@ -10430,7 +10430,7 @@
       },
       {
         "src": "img/review_guavital_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ľuba Tóthová",
         "text": "Sama som s jeho pomocou schudla, získala sebavedomie a odporúčam ho známym.",
@@ -10459,7 +10459,7 @@
       },
       {
         "src": "img/review_guavital_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Agnesa Fialová",
         "text": "Čítala som o Guavital+ v štúdii. Produkt je super! Kilá idú dole, telo sa spevňuje.",
@@ -10488,7 +10488,7 @@
       },
       {
         "src": "img/review_guavital_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;GUAVITAL+",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Marta Hofmanová",
         "text": "Znižuje hlad a prináša sýtosť! Problémy s trávením aj nadváhou zmizli.",
@@ -10909,7 +10909,7 @@
     "reviews_ophtalax": [
       {
         "src": "img/review_ophtalax_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Radka Novotná",
         "text": "Ophtalax mi pomohol normalizovať krvný obeh v očiach a zlepšiť zrak. Môj odborník si myslí, že tento prípravok je zatiaľ ten najlepší.",
@@ -10967,7 +10967,7 @@
       },
       {
         "src": "img/review_ophtalax_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Emília Horváthová",
         "text": "S istotou odporúčam Ophtalax každému, kto má problémy s únavou očí. Tento produkt naozaj funguje, skúšala som mnoho prípravkov a zastavila som sa práve pri tomto.",
@@ -10996,7 +10996,7 @@
       },
       {
         "src": "img/review_ophtalax_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Nadežda Bieliková",
         "text": "Ophtalax nie je len doplnok, je to záchrana pre moje oči! Veľmi som trpela suchosťou očí. Po ukončení kúry kapsulami nepociťujem žiadne nepríjemné pocity, veľmi účinný ochranný prostriedok.",
@@ -11025,7 +11025,7 @@
       },
       {
         "src": "img/review_ophtalax_5.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Petra Šimková",
         "text": "Ophtalax je ideálny prípravok pre všetkých, ktorí trávia veľa času pri počítači. Žihľava pomáha zmierniť napätie a zinok zlepšuje ostrosť zraku.",
@@ -11054,7 +11054,7 @@
       },
       {
         "src": "img/review_ophtalax_6.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Božena Kováčová",
         "text": "Už počas prvého týždňa užívania Ophtalax som si všimla zlepšenie. Teraz sa snažím čítať bez okuliarov, oči sa neunavujú a vidím oveľa lepšie.",
@@ -11112,7 +11112,7 @@
       },
       {
         "src": "img/review_ophtalax_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Anna Stančíková",
         "text": "Užívala som Ophtalax dva mesiace podľa rady špecialistu. Účinok je výborný. Všetko, čo som skúšala predtým, sa vôbec nedá porovnať s týmito kapsulami. Odporúčam!",
@@ -11199,7 +11199,7 @@
       },
       {
         "src": "img/review_ophtalax_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Johana Jankovičová",
         "text": "Po ťažkom pracovnom dni sa pre mňa Ophtalax stal nenahraditeľným pomocníkom. Oči sa neunavia tak rýchlo ako predtým. Žiadne napätie ani suchosť. Som veľmi spokojná s účinkom a odporúčam všetkým.",
@@ -11257,7 +11257,7 @@
       },
       {
         "src": "img/review_ophtalax_13.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Greta Kováčová",
         "text": "Som veľmi spokojná s výsledkami užívania Ophtalax. Mala som syndróm suchého oka, populárne prípravky mi takmer nepomáhali. Až s Ophtalaxom som pocítila výraznú úľavu.",
@@ -11286,7 +11286,7 @@
       },
       {
         "src": "img/review_ophtalax_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Dominika Debnárová",
         "text": "Po mesiaci užívania Ophtalax môžem s istotou povedať, že účinok kapsúl je úžasný! Napriek práci s drobným písmom už necítim napätie ani únavu očí. Prípravok funguje!",
@@ -11315,7 +11315,7 @@
       },
       {
         "src": "img/review_ophtalax_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;OPHTALAX",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Ružena Baková",
         "text": "Ophtalax mi pomohol zbaviť sa napätia a slzenia očí spôsobených dlhodobou prácou s počítačom. Teraz trávim rovnaký čas pred monitorom, ale s očami je všetko v poriadku.",
@@ -11734,13 +11734,13 @@
         ]
       }
     ],
-    "reviews_cardiform": [
+    "reviews_kardivix": [
       {
-        "src": "img/review_cardiform_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Toomas Tamm",
-        "text": "Kusagil nädal pärast Cardiformi võtmist märkasin ootamatult, et enam ei tunne seda tüütut pulseerimist oimukohtades pärast aiatöid, ning praegu püsivad mu näitajad tasemel 130/85, mis minu kõrges eas on tõeline võit.",
+        "text": "Kusagil nädal pärast Kardivixi võtmist märkasin ootamatult, et enam ei tunne seda tüütut pulseerimist oimukohtades pärast aiatöid, ning praegu püsivad mu näitajad tasemel 130/85, mis minu kõrges eas on tõeline võit.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -11766,8 +11766,8 @@
       },
 
       {
-        "src": "img/review_cardiform_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Katrin Saar",
         "text": "Selle tootega ei ole ma enam lõpuks \"elav baromeeter\" ega sõltu ilmast, sest varem kajastus iga õhurõhu muutus minu jaoks kohutava peavalu ja nõrkusena. See on suurepärane tugi neile, kel on meteosõltuvus.",
@@ -11796,11 +11796,11 @@
       },
 
       {
-        "src": "img/review_cardiform_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Andres Sepp",
-        "text": "Cardiform sobis mulle koostise ja toime poolest ideaalselt. Mu veresooned on justkui tugevamaks muutunud, mida kinnitas ka spetsialist viimase plaanilise läbivaatuse käigus, märkides, et süsteemi üldine seisund on märgatavalt paranenud. Suureks plussiks on see, et mul puuduvad nüüd igasugused järsud enesetunde muutused.",
+        "text": "Kardivix sobis mulle koostise ja toime poolest ideaalselt. Mu veresooned on justkui tugevamaks muutunud, mida kinnitas ka spetsialist viimase plaanilise läbivaatuse käigus, märkides, et süsteemi üldine seisund on märgatavalt paranenud. Suureks plussiks on see, et mul puuduvad nüüd igasugused järsud enesetunde muutused.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -11826,8 +11826,8 @@
       },
 
       {
-        "src": "img/review_cardiform_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Tiina Kask",
         "text": "Olin juba teist pakendit lõoetamas kui märkasin, et see ebameeldiv tuimus sõrmedes, mis varem õhtuti sageli häiris, on peaaegu täielikult kadunud. Isegi jalad väsivad päeva lõpuks vähem — ilmselt sellepärast, et vereringe on muutunud korrektseks ja aktiivsemaks.",
@@ -11856,8 +11856,8 @@
       },
 
       {
-        "src": "img/review_cardiform_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Jüri Koppel",
         "text": "Lihtsalt hea ja kvaliteetne toode. Jõudis väga kiiresti kohale, pakend oli terve ning. Kapslid ise on keskmise suurusega, seega neid on lihtne neelata isegi väikese koguse veega. Igapäevase toe ja ennetuse vahendina on see praegu üks parimaid valikuid meie turul, vähemalt minu jaoks.",
@@ -11886,8 +11886,8 @@
       },
 
       {
-        "src": "img/review_cardiform_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Ülle Luik",
         "text": "Nende kapslite toime ei ole kohene, nagu ma algul ootasin, kuid see on väga püsiv, ning peamine on mitte unustada neid regulaarselt võtta, et komponendid organismi koguneksid. Tavaliselt võtan ühe hommikusöögi ajal ja olen tulemusega täiesti rahul, sest vererõhk püsib terve päeva vältel ühel tasemel, ilma igasuguste hüpeteta.",
@@ -11916,8 +11916,8 @@
       },
 
       {
-        "src": "img/review_cardiform_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Margus Lepik",
         "text": "Lühidalt öeldes: pea ei valuta enam, näitajad on stabiilselt 120/80 ja mul pole ühtegi kõrvaltoimet, mis selliste vahendite puhul tavaliselt ette tuleb. Ennetuseks ja südame-veresoonkonna toonuses hoidmiseks on see ideaalne valik.",
@@ -11946,8 +11946,8 @@
       },
 
       {
-        "src": "img/review_cardiform_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Anne Mägi",
         "text": "Ostsin selle kompleksi oma emale, kellel on juba aastaid veresooned erilist tähelepanu ja tuge vajanud. Ta on selles osas, mida enda peale kannab või sisse manustab, väga nõudlik, kuid neid kapsleid võtab hea meelega ja ütleb, et on hakanud end palju erksamalt tundma.",
@@ -11976,11 +11976,11 @@
       },
 
       {
-        "src": "img/review_cardiform_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Peeter Pärn",
-        "text": "Olen juba aastaid tegelenud kepikõndimisega, kuid viimasel ajal olen märganud, et süda hakkab koormusega varasemast raskemalt toime tulema. Cardiformiga tundsin, et mu veresooned said justkui jõudu juurde: need muutusid elastsemaks ja nüüd suudan taas läbida oma tavalisi distantse hingeldamata.",
+        "text": "Olen juba aastaid tegelenud kepikõndimisega, kuid viimasel ajal olen märganud, et süda hakkab koormusega varasemast raskemalt toime tulema. Kardivixiga tundsin, et mu veresooned said justkui jõudu juurde: need muutusid elastsemaks ja nüüd suudan taas läbida oma tavalisi distantse hingeldamata.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -12006,8 +12006,8 @@
       },
 
       {
-        "src": "img/review_cardiform_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Sirje Rebane",
         "text": "Uurin alati etikette hoolikalt ning siin võlus mind vitamiinide ja mineraalide kombinatsioon, mis on suunatud just südamerakkude energiavahetusele. Pärast kuu aega võtmist tundsin, et mul on rohkem elujõudu ning tavaline õhtune väsimus pole enam nii tuntav.",
@@ -12036,8 +12036,8 @@
       },
 
       {
-        "src": "img/review_cardiform_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Jaan Mets",
         "text": "See vitamiinidel ja taimedel põhinev vahend aitab mul veresooneid korras hoida, samal ajal ei esine pärast võtmist mingit uimasust ega loidust. Kohaletoimetamine võttis vaid paar päeva, teenindus on suurepärane, nagu ka toote kvaliteet, seega panen kindla viie.",
@@ -12066,11 +12066,11 @@
       },
 
       {
-        "src": "img/review_cardiform_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Katrin Kask",
-        "text": "Minu jaoks oli oluline leida midagi, mis aitab hoida tervislikku kolesterooli taset ilma liigsete pingutusteta, ja Cardiform osutus just selleks lahenduseks. Märkasin, et veresoonte üldine seisund on paranenud, kadusid need ärritavad vaskulaarsed \"tärnid\" jalgadel ning nahk näib justkui tervislikum. Kõik viitab sellele, et mikroverevereringe on korrastunud ja iga rakk saab vajalikke toitaineid, mis on üldise toonuse jaoks väga oluline.",
+        "text": "Minu jaoks oli oluline leida midagi, mis aitab hoida tervislikku kolesterooli taset ilma liigsete pingutusteta, ja Kardivix osutus just selleks lahenduseks. Märkasin, et veresoonte üldine seisund on paranenud, kadusid need ärritavad vaskulaarsed \"tärnid\" jalgadel ning nahk näib justkui tervislikum. Kõik viitab sellele, et mikroverevereringe on korrastunud ja iga rakk saab vajalikke toitaineid, mis on üldise toonuse jaoks väga oluline.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -12096,8 +12096,8 @@
       },
 
       {
-        "src": "img/review_cardiform_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Mart Lauri",
         "text": "Ostsin selle kompleksi kolleegi soovitusel, kes kaebas samuti perioodilise raskustunde üle südames. Ilmselt oli see tingitud meie sadama pingelisest töögraafikust. Võin öelda, et vahend toimib päriselt: see aitab organismil koormustega kohaneda ega lase vererõhul normist kõrgemale hüpata.",
@@ -12128,7 +12128,7 @@
     "reviews_vasos_duo": [
       {
         "src": "img/review_vasos_duo_1.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Diana Ivanová",
         "text": "Vasos Duo — výborný gél. Po týždni zmizli všetky príznaky hemoroidov. Žiadne čapíky sa s ním nedajú porovnať. Môj špecialista mi ho odporučil a veľmi mu dôverujem.",
@@ -12157,7 +12157,7 @@
       },
       {
         "src": "img/review_vasos_duo_2.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Gabriela Komorská",
         "text": "S týmto nočným morou som žila 5 rokov. Najskôr to bolo ľahké — len svrbenie, diskomfort. Potom prišli zhoršenia, modriny, silná bolesť. Natierala som sa krémami, používala čapíky — nič nepomáhalo. Vďaka Vasos Duou všetko zmizlo za mesiac.",
@@ -12186,7 +12186,7 @@
       },
       {
         "src": "img/review_vasos_duo_3.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Barbora Panáková",
         "text": "Mala som problémy s hemoroidmi takmer rok. Skúšala som masti, čapíky aj ľudové prostriedky. Myslela som si, že takto budem žiť navždy. Ale po 2 týždňoch používania Vasos Duou všetko zmizlo! Som veľmi spokojná.",
@@ -12215,7 +12215,7 @@
       },
       {
         "src": "img/review_vasos_duo_4.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Alexandra Marková",
         "text": "Hemoroidy sa objavili po kúre antibiotík. Mala som 2 uzly. Špecialista mi predpísal čapíky, najskôr sa mi uľavilo, ale potom sa bolesť vrátila, chodiť na toaletu bolo utrpenie. Prečítala som si veľa dobrých recenzií o Vasos Duoe a rozhodla sa ho skúsiť. Po kúre som sa úplne zbavila problému. Skvelý gél!",
@@ -12302,7 +12302,7 @@
       },
       {
         "src": "img/review_vasos_duo_7.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Stanislava Mančíková",
         "text": "Mala som pokročilé hemoroidy, už sa pripravovali na operáciu. Ale sestra mi poradila vyskúšať Vasos Duo. Používala som ho jeden a pol mesiaca – zápal a hrčky zmizli, bolesť a podráždenie ustúpili.",
@@ -12331,7 +12331,7 @@
       },
       {
         "src": "img/review_vasos_duo_8.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Eleonóra Dúbravská",
         "text": "Hemoroidy sa objavili po pôrode. Používala som Vasos Duo mesiac – to stačilo na úplné odstránenie problému. Uzly sa začali vstrebávať, stolica sa upravila, bolesť zmizla, nepríjemné pocity už nemám. Odporúčam z celého srdca!",
@@ -12360,7 +12360,7 @@
       },
       {
         "src": "img/review_vasos_duo_9.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Mária Mitrová",
         "text": "Vasos Duo — veľmi dobrý prípravok, skutočne funguje a pomáha. Mala som silnú zápchu a vyvinuli sa hemoroidy. Priateľka mi ho poradila, som jej veľmi vďačná. Všetko prešlo!",
@@ -12418,7 +12418,7 @@
       },
       {
         "src": "img/review_vasos_duo_11.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Glória Drieňová",
         "text": "Mala som hemoroidy 2. stupňa. Špecialista predpísal čapíky a masť na 10 dní ráno a večer. Pomohlo mi to, ale potom začal trvať na operácii. Našťastie som včas objavila gél Vasos Duo. Po kúre som na problém zabudla ako na zlý sen.",
@@ -12447,7 +12447,7 @@
       },
       {
         "src": "img/review_vasos_duo_12.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Petra Pavlíková",
         "text": "Tento problém sa u mňa objavil po druhom pôrode. Čítala som veľa informácií na internete, skúšala som rôzne prípravky, ale všetko bolo zbytočné. Pomohol mi len Vasos Duo. Dokonca mám ešte jedno balenie „pre istotu“.",
@@ -12505,7 +12505,7 @@
       },
       {
         "src": "img/review_vasos_duo_14.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Nina Hrivnáková",
         "text": "Objavil sa silný diskomfort, špecialista našiel uzol. Bola som v šoku! Povedal mi, aby som jedla viac vlákniny a vyhýbala sa zápche, predpísal mi masť. Doma mi mama povedala, že sa hemoroidov zbavila pomocou gélu Vasos Duo. Absolvovala som kúru – príznaky zmizli po pár dňoch. Pri opätovnej kontrole špecialista povedal, že problém už nie je prítomný.",
@@ -12534,7 +12534,7 @@
       },
       {
         "src": "img/review_vasos_duo_15.png",
-        "desc": "<span class=\"review__mark\">izrazila</span> svoje mnenje o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">vyjadriť</span> svoj názor na&nbsp;Vasos Duo",
         "rating_text": "Vynikajúca kvalita!",
         "name": "Žofia Bodorová",
         "text": "Príznaky hemoroidov sú naozaj neznesiteľné – to nie je len obyčajné svrbenie, ale skutočne neúnosná bolesť! Podľa mňa gél Vasos Duo nemá konkurenciu – je to určite to najlepšie, čo bolo doteraz vymyslené.",

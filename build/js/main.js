@@ -1064,13 +1064,12 @@ const productsInfo = {
       salePrice: '26',
       newPrice: '84'
     },
-    cardiform: {
-      modifier: 'img-space--right',
+    kardivix: {
       company: 'everad',
       campaign_id: '1082460',
       niche: 'Südame-veresoonkond',
       country: 'Estonia',
-      productName: 'Cardiform',
+      productName: 'Kardivix',
       salePrice: '26',
       newPrice: '108'
     },

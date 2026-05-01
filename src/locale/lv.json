@@ -949,12 +949,12 @@
     },
     {
       "label": "Populaarne",
-      "srcPhoto": "img/cardiform.png",
-      "srcPhotoWebp": "img/cardiform.webp",
-      "mobSrcPhoto": "img/cardiform-mob.png",
-      "mobSrcPhotoWebp": "img/cardiform-mob.webp",
+      "srcPhoto": "img/kardivix.png",
+      "srcPhotoWebp": "img/kardivix.webp",
+      "mobSrcPhoto": "img/kardivix-mob.png",
+      "mobSrcPhotoWebp": "img/kardivix-mob.webp",
       "modifier": "img-space--right",
-      "name": "Cardiform",
+      "name": "Kardivix",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -979,8 +979,8 @@
       ],
       "text": "221 kommentaari",
       "desc": "Vitamiinidel ja taimedel põhinev kompleks veresoonte tugevdamiseks ja südame töö toetamiseks.",
-      "link": "cardiform.html",
-      "tag": "cardiform",
+      "link": "kardivix.html",
+      "tag": "kardivix",
       "category": "health",
       "btn": "ROHKEM INFOT"
     },
@@ -1886,13 +1886,13 @@
       "niche": "Kryptis: Regėjimas"
     },
     {
-      "link": "cardiform.html",
-      "tag": "cardiform",
-      "srcPhoto": "img/cardiform.png",
-      "srcPhotoWebp": "img/cardiform.webp",
-      "mobSrcPhoto": "img/cardiform-mob.png",
-      "mobSrcPhotoWebp": "img/cardiform-mob.webp",
-      "name": "Cardiform",
+      "link": "kardivix.html",
+      "tag": "kardivix",
+      "srcPhoto": "img/kardivix.png",
+      "srcPhotoWebp": "img/kardivix.webp",
+      "mobSrcPhoto": "img/kardivix-mob.png",
+      "mobSrcPhotoWebp": "img/kardivix-mob.webp",
+      "name": "Kardivix",
       "narrow": true,
       "stars": [
         {
@@ -2301,14 +2301,14 @@
     "suitability": "24 mėnesiai",
     "keep": "laikyti sausoje vietoje, apsaugotoje nuo saulės spindulių, ne aukštesnėje kaip +25 °C temperatūroje."
   },
-  "cardiform": {
-    "title": "Cardiform",
+  "kardivix": {
+    "title": "Kardivix",
     "category": "Zdrowie",
     "review_count": "333 kommentaari",
     "niche": "Südame-veresoonkond",
     "form_factor": "Kapslid, 10 tk",
     "short_description": "Vitamiinidel ja taimedel põhinev kompleks veresoonte tugevdamiseks ja südame töö toetamiseks.",
-    "description": "Cardiform on tasakaalustatud vitamiinide, mineraalide ja taimsete ekstraktide kombinatsioon, mis on loodud südame-veresoonkonna funktsionaalse seisundi parendamiseks. Toetab veresoonte seinte loomulikku tugevust ja elastsust. Tänu aktiivsetele koostisosadele aitab toode organismil hoida tervisliku kolesterooli taset ning toetab optimaalset energiavahetust südamelihase rakkudes. Regulaarne kapslite võtmine võib olla osa ennetavast lähenemisest vererõhu kontrollimisel, kuna valem on suunatud veresoonte kaitsmisele oksüdatiivse stressi eest ning normaalse vereringe toetamisele.",
+    "description": "Kardivix on tasakaalustatud vitamiinide, mineraalide ja taimsete ekstraktide kombinatsioon, mis on loodud südame-veresoonkonna funktsionaalse seisundi parendamiseks. Toetab veresoonte seinte loomulikku tugevust ja elastsust. Tänu aktiivsetele koostisosadele aitab toode organismil hoida tervisliku kolesterooli taset ning toetab optimaalset energiavahetust südamelihase rakkudes. Regulaarne kapslite võtmine võib olla osa ennetavast lähenemisest vererõhu kontrollimisel, kuna valem on suunatud veresoonte kaitsmisele oksüdatiivse stressi eest ning normaalse vereringe toetamisele.",
     "compound": "C-vitamiin (L-askorbiinhape) 40,00 mg, B1-vitamiin (tiamiiinhüdrokloriid) 0,55 mg, B2-vitamiin (riboflaviin) 0,70 mg, B6-vitamiin (püridoksiinhüdrokloriid) 0,70 mg, B12-vitamiin (kobalamiin) 0,00125 mg, E-vitamiin (α-TE) 3,00 mg, D3-vitamiin (kolekaltsiferool) 0,0025 mg, tsink (tsinkaglükonaat) 3,00 mg, kroom (kroomipikolinaat) 0,02 mg, seleen (naatriumselenaaat) 0,0275 mg, kaltsium (kaltsiumkarbonaat) 10,00 mg, glütsiin 10,00 mg, punase siilkübara ekstrakt (Echinacea purpurea) 4:1 10,00 mg, leedri ekstrakt (Sambucus nigra) 4:1 10,00 mg, ingverijuure ekstrakt (Zingiber officinale) 4:1 5,00 mg, hiibisku õite ekstrakt (Hibiscus sabdariffa) 4:1 7,00 mg.",
     "usage": "Täiskasvanutele on soovitatav võtta 1 kapsel 2 korda päevas söögi ajal. Soovitatav kuuri kestus on 1 kuu. Vajadusel võib kuuri pärast pausi korrata. Ärge ületage soovituslikku päevast annust (2 kapslit).",
     "contraindications": "Individuaalne talumatus komponentide suhtes, ei sobi lastele. Toidulisand ei asenda täisväärtuslikku toitumist.",
@@ -2396,8 +2396,8 @@
       "salePrice": "26",
       "newPrice": "113"
     },
-    "cardiform": {
-      "productName": "Cardiform",
+    "kardivix": {
+      "productName": "Kardivix",
       "salePrice": "26",
       "newPrice": "108"
     },
@@ -2667,7 +2667,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Roberts Servanto",
         "text": "Sieva lieto līdzekli Beauty Age Skin. Viņa ir kļuvusi skaistāka un jaunāka. Liekas tā, it kā nebūtu šo 20 gadu!",
@@ -2754,7 +2754,7 @@
       },
       {
         "src": "img/review_beauty-age-skin_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Beauty&nbsp;Age&nbsp;Skin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Klaudija Šoisone",
         "text": "Beauty Age Skin ieraudzīju pie māsa. 5 gadus nebijām redzējušās, tomēr viņa nebija mainījusies. Atminēju viņas noslēpumu un pasūtīju sev. Rezultāts ir neticams.",
@@ -3046,7 +3046,7 @@
       },
       {
         "src": "img/review_beauty-age-skin-peeling_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Beauty&nbsp;Age&nbsp;Skin Peeling",
         "rating_text": "Izcila kvalitāte!",
         "name": "Marina Pekšaka",
         "text": "Lieliski! Ir pazudis taukainais spīdums, sašaurinājušās poras. Pēc sajūtas, āda ir kļuvusi vingrāka un mutes kaktiņi ir pacēlušies. Esmu sajūsmināta par rezultātu!",
@@ -3251,7 +3251,7 @@
       },
       {
         "src": "img/review_delislim_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;DELISLIM",
         "rating_text": "Izcila kvalitāte!",
         "name": "Kārlis Plats",
         "text": "Sieva sev pasūtīja Delislim, bet lietojām kopā. Līdzeklis darbojas! Tas palīdzēja pat bez treniņiem un diētām.",
@@ -3338,7 +3338,7 @@
       },
       {
         "src": "img/review_delislim_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DELISLIM",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;DELISLIM",
         "rating_text": "Izcila kvalitāte!",
         "name": "Leo Bretano",
         "text": "Sieva pierunāja izmēģināt Delislim. Patiesi labs līdzeklis. Novājēju par 10,5 kg. Mīnusus un blakusefektus neatklāju.",
@@ -3543,7 +3543,7 @@
     "reviews_exurol": [
       {
         "src": "img/review_exurol_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Modests Anvari",
         "text": "Pirms 3 gadiem man uzstādīja diagnozi, izmēģināju dažādus līdzekļus un atjaunošanas shēmas. Palīdzēja tikai Exurol. Pasūtīju internetā ar kurjera piegādi.",
@@ -3572,7 +3572,7 @@
       },
       {
         "src": "img/review_exurol_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Augustīns Galevi",
         "text": "Labs līdzeklis, palīdz normalizēt urinēšanas procesu, noņem sāpes. Palīdz ar pirmo lietošanas nedēļu. Dzimumtieksme arī ir atgriezusies.",
@@ -3632,7 +3632,7 @@
 
       {
         "src": "img/review_exurol_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Stefans Rodrigezs",
         "text": "Cīņai ar prostatītu tika patērēts daudz naudas un spēka. Bet izrādījās, risinājums bija lēts un efektīvs. Palīdzēja Exurol. Ar pirmajām dienām palika labāk.",
@@ -3662,7 +3662,7 @@
 
       {
         "src": "img/review_exurol_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Oto Zegers",
         "text": "Neticēju tamlīdzīgu brīnumlīdzekļu spējām, līdz izmēģināju Exurol. Noņēma sāpju sindromu, iekaisumu un pastāvīgo vēlmi iet uz tualeti. Līdzeklis darbojas!",
@@ -3752,7 +3752,7 @@
 
       {
         "src": "img/review_exurol_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Roberts Voravskis",
         "text": "Nezinu neko efektīvāku par Exurol. Ātri novērš sāpes, samazina vēlmes iet uz tualeti skaitu. Dzīve ir kļuvusi labāka!",
@@ -3782,7 +3782,7 @@
 
       {
         "src": "img/review_exurol_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Anna Veltibora",
         "text": "Vīram bija problēmas, lai novērstu iekaisumu un sāpes, izmēģinājām daudz ko. Viņš saka, ka efektu sajuta tikai pēc Exurol.",
@@ -3812,7 +3812,7 @@
 
       {
         "src": "img/review_exurol_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Bernards Kovaļskis",
         "text": "Labs produkts uz augu komponentu bāzes. Likvidēja visas prostatīta pazīmes, iekaisums pārgāja. Neizraisīja blakusefektus.",
@@ -3842,7 +3842,7 @@
 
       {
         "src": "img/review_exurol_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Luī Dortsons",
         "text": "Prostatīts tika atklāts jau pirms 7 gadiem. Dzīvoju normāli un bez sarežģījumiem tikai pateicoties Exurol. Divi profilakses kursi gadā un nekādas problēmas ar veselību.",
@@ -3872,7 +3872,7 @@
 
       {
         "src": "img/review_exurol_12.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Hanss Zalcmanis",
         "text": "Exurol ieteica pazīstams eksperts. Pārsalu un aizgāju pie viņa ar sūdzībām. Viņš man pa draugam ieteica šo līdzekli. Sūdzības pazuda.",
@@ -3901,7 +3901,7 @@
       },
       {
         "src": "img/review_exurol_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Jozefs Šosteks",
         "text": "Ar prostatas iekaisumu mocījos jau sen. Jau biju gatavs operācijai, tomēr Exurol palīdzēja no tās izvairīties. Vispirms pārgāja sāpes un vēlmes iet uz tualeti skaits samazinājās, tad arī iekaisums pilnīgi pārgāja.",
@@ -3931,7 +3931,7 @@
 
       {
         "src": "img/review_exurol_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Exurol",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Exurol",
         "rating_text": "Izcila kvalitāte!",
         "name": "Rolands Klarks",
         "text": "Es sen vairs neticu aptieku līdzekļiem. Kad ir nepieciešama palīdzību pa vīriešu līniju, paņēmu Exurol. Dabīgs sastāvs un labi palīdz.",
@@ -4022,7 +4022,7 @@
 
       {
         "src": "img/review_desalix_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Desalix",
         "rating_text": "Izcila kvalitāte!",
         "name": "Olīvija Boltone",
         "text": "Ar pirmajām līdzekļa Desalix lietošanas dienām izzuda nieze un nepatīkamā smaka. Turpinu lietot kursu veidā līdz pilnīgai problēmas novēršanai.",
@@ -4082,7 +4082,7 @@
 
       {
         "src": "img/review_desalix_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Desalix",
         "rating_text": "Izcila kvalitāte!",
         "name": "Dimitrijs Žehnads",
         "text": "Man ir pozitīva līdzekļa Desalix lietošanas pieredze. Es atbrīvojos no sēnītes. Nieze, nepatīkama smaka, plaisas kāju āda ātri pārgāja!",
@@ -4142,7 +4142,7 @@
 
       {
         "src": "img/review_desalix_6.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Desalix",
         "rating_text": "Izcila kvalitāte!",
         "name": "Amēlija Levansone",
         "text": "Tagad ticu, ka ir iespējams atvadīties no nagu sēnītes dažās nedēļās. Es ar to mocījos mēnešiem. Paldies par Desalix!",
@@ -4172,7 +4172,7 @@
 
       {
         "src": "img/review_desalix_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Desalix",
         "rating_text": "Izcila kvalitāte!",
         "name": "Lorenco Ibaness",
         "text": "Sieva pasūtīja  Desalix, tika piegādāts pāris dienu laikā. Plaisas sadzija, nieze izzuda. Beidzot es atbrīvojos no nepatīkamās smakas 10 no 10!",
@@ -4232,7 +4232,7 @@
 
       {
         "src": "img/review_desalix_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Desalix",
         "rating_text": "Izcila kvalitāte!",
         "name": "Līzija Laundesa",
         "text": "Centos atbrīvoties no sēnītes ar dažādu krēmu un tautas līdzekļu palīdzību. Viss velti. Palīdzēja tikai Desalix. Ar pirmajām dienām pārgāja nieze, tad arī viss pārējais. Tagad man ir veselas kājiņas!",
@@ -4381,7 +4381,7 @@
 
       {
         "src": "img/review_desalix_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Desalix",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Desalix",
         "rating_text": "Izcila kvalitāte!",
         "name": "Aleksandro Malbers",
         "text": "Novelkot apavus, bija neērti smakas dēļ, sieva atnesa Desalix. Līdzeklis palīdzēja. Smakas nav, pēc apaviem kājas pārstāja niezēt. Jau pusgadu es nelietoju, tomēr problēma neatgriežas!",
@@ -4442,7 +4442,7 @@
     "reviews_urosaf": [
       {
         "src": "img/review_urosaf_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Luī Mizeress",
         "text": "Labs līdzeklis, iedarbīgs. Ir efekts, neizraisa blakusparādības. Pēc kursa palīdzēja pilnībā novērst problēmu.",
@@ -4472,7 +4472,7 @@
 
       {
         "src": "img/review_urosaf_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Roberts Osteons",
         "text": "Bija problēmas ejot uz tualeti, Urosaf palīdzēja novērst. Izzuda sāpes, erekcija kļuva labāka un ilgāka. Nav pieraduma un blakusefektu.",
@@ -4502,7 +4502,7 @@
 
       {
         "src": "img/review_urosaf_3.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Hermanis Strocci",
         "text": "Lietoju Urosaf pagājušajā gadā. Kopš tā laika viss lieliski darbojas, \"draudziņš\" vienmēr ir gatavs! Bez problēmām un neveiksmēm!",
@@ -4562,7 +4562,7 @@
 
       {
         "src": "img/review_urosaf_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Lukjans Ross",
         "text": "Darbojas gandrīz uzreiz, pie tam ir uzkrājošs efekts. Pēc kursa problēmu ar erekciju vairs nebija.",
@@ -4592,7 +4592,7 @@
 
       {
         "src": "img/review_urosaf_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Panfils Ormando",
         "text": "Efekts ir, var savietot ar alkoholu, blakus īpašības neatklāju. Lietoju ka alternatīvu stimulatoriem, un pēc kursa pēc tiem vairs nepieciešamības nebija.",
@@ -4652,7 +4652,7 @@
 
       {
         "src": "img/review_urosaf_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Ričards Pikards",
         "text": "Uz vecumu potence kļuva vājāka un iekāre saka dzist. Nolēmu izmēģināt Urosaf. Efekts iespaidoja! Ja reizi pusgadā lietot kursu veidā, ar vīriešu problēmām var pat nesaskarties.",
@@ -4682,7 +4682,7 @@
 
       {
         "src": "img/review_urosaf_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Klauss Rollings",
         "text": "Atšķirībā no plaši izplatītajiem un visiem zināmajiem stimulatoriem no Urosaf nesāp galva. Ar katru dienu efekts kļūst labāks, tas nozīmē - pēc kursa var neko nelietot, tu vienmēr esi gatavs!",
@@ -4772,7 +4772,7 @@
 
       {
         "src": "img/review_urosaf_12.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Čarlzs Parkers",
         "text": "Urosaf pasūtīju intereses pēc. Un efekts iespaidoja! Pie tam ātra piegāde un līdzeklis bija labi iepakots.",
@@ -4802,7 +4802,7 @@
 
       {
         "src": "img/review_urosaf_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Kristofers Rinaldo",
         "text": "Efektīvs un drošs līdzeklis vīriešu veselībai. Un vēl par pieejamu cenu! Blakusefektus neatklāju.",
@@ -4832,7 +4832,7 @@
 
       {
         "src": "img/review_urosaf_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Edmunds Sivers",
         "text": "Laba palīdzība pie problēmām ar erekciju, kuras ir radušās dažādu iemeslu dēļ. 100% rezultāts! Pēc kursa es aizmirsu par problēmām.",
@@ -4862,7 +4862,7 @@
 
       {
         "src": "img/review_urosaf_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;UROSAF",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;UROSAF",
         "rating_text": "Izcila kvalitāte!",
         "name": "Eduardo Ferrāns",
         "text": "Kopš pirmajām lietošanas dienām ir efekts. Sākām ar sievu biežāk meklēt vientulību. Viņa ir laimīga, apmierināta. Atkal jūtos jauns un spējīgs uz daudz ko!",
@@ -5013,7 +5013,7 @@
 
       {
         "src": "img/review_demyxil_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;DEMYXIL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Kevins Reinoss",
         "text": "Šis līdzeklis labi palīdz dermatoloģisku problēmu gadījumā. Manai sievai un man izdevās atbrīvoties no psoriāzes. Blakusparādības netika konstatētas!",
@@ -5103,7 +5103,7 @@
 
       {
         "src": "img/review_demyxil_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;DEMYXIL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Roberts TReidess",
         "text": "Labs pretiekaisuma līdzeklis. Pēc uzsmērēšanas neizrausa nepatīkamas sajūtas. Darbojas!",
@@ -5133,7 +5133,7 @@
 
       {
         "src": "img/review_demyxil_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;DEMYXIL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Bobijs Servaross",
         "text": "Paldies par kvalitatīvo un efektīvo krēmu, ātro piegādi un konsultāciju. Griezīšos pie jums vēl!",
@@ -5283,7 +5283,7 @@
 
       {
         "src": "img/review_demyxil_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;DEMYXIL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;DEMYXIL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Dorians Terels",
         "text": "Iedarbīgs līdzeklis ar dabīgu sastāvu. Redzamas un jūtamas izmaiņas ar pirmajām lietošanas dienām. Pēdējā gada laikā nebija neviena psoriāzes recidīva.",
@@ -5464,7 +5464,7 @@
 
       {
         "src": "img/review_vasaxal_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VASAXAL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Filats Barbesons",
         "text": "Nopirku Vasaxal mammai, viņa ir ļoti apmierināta. Saka, ka ir palicis daudz vieglāk, kājas mazāk pietūkst un nesāp!",
@@ -5554,7 +5554,7 @@
 
       {
         "src": "img/review_vasaxal_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VASAXAL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Tomass Loursons",
         "text": "Novērsa vēnu iekaisumu un ātri noņēma sāpes. Naktīs vairs nav krampju. Pat pēc smagas dienas nav smaguma sajūtas un pietūkuma.",
@@ -5614,7 +5614,7 @@
 
       {
         "src": "img/review_vasaxal_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VASAXAL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Kristofers Gebels",
         "text": "Aktīvi nodarbojos ar sportu, tādēļ parādās zilumi un sāpes. Pēc Vasaxal lietošanas šādu problēmu nav. Sāpes pāriet, pat pēc slodzes, nav problēmu.",
@@ -5764,7 +5764,7 @@
 
       {
         "src": "img/review_vasaxal_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VASAXAL",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VASAXAL",
         "rating_text": "Izcila kvalitāte!",
         "name": "Ernests Volress",
         "text": "Sieva lieto Vasaxal, viņai kopš jaunības ir problēmas ar vēnām. Ar rezultātu ir apmierināta. Pēdējā pusgad laikā nav sūdzējusies par veselību un uz kājām vēnas gandrīz nav redzamas.",
@@ -5885,7 +5885,7 @@
 
       {
         "src": "img/review_ausen_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Ausen",
         "rating_text": "Izcila kvalitāte!",
         "name": "Orlando Lortess",
         "text": "Mēnešiem mocījos ar ausu pilieniem, līdz uzzināju par Ausen. Daudz ērtāk lietojams un ir rezultāts. Saku labāk dzirdēt, izzuda zvanīšana ausīs.",
@@ -5915,7 +5915,7 @@
 
       {
         "src": "img/review_ausen_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Ausen",
         "rating_text": "Izcila kvalitāte!",
         "name": "Tolmašs Olovecki",
         "text": "Palīdz problēmu ar dzirdi gadījumā. Efektīvs pie iekaisumiem (lietoju, kad man bija otīts, un viss pārgāja). Noņem sāpes.",
@@ -6035,7 +6035,7 @@
 
       {
         "src": "img/review_ausen_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Ausen",
         "rating_text": "Izcila kvalitāte!",
         "name": "Alberts Debores",
         "text": "Līdzeklis palīdz. Paldies par ātro piegādi līdz durvīm un iespēju pasūtīt caur internetu. Konsultanti ir laipni un atbild uz visiem jautājumiem.",
@@ -6095,7 +6095,7 @@
 
       {
         "src": "img/review_ausen_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Ausen",
         "rating_text": "Izcila kvalitāte!",
         "name": "Lukas Barbardess",
         "text": "Palīdzēja atbrīvoties no ausu aizkrišanas sajūtas un zvanīšanas. Sāku labāk dzirdēt. Rezultāta nostiprināšanai, domāju izlietot vēl vienu kursu.",
@@ -6185,7 +6185,7 @@
 
       {
         "src": "img/review_ausen_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Ausen",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Ausen",
         "rating_text": "Izcila kvalitāte!",
         "name": "Moriss Štrauss",
         "text": "Šis līdzeklis palīdzējam man izvairīties no operācijas un tikt vaļā no dzirdes aparāta. Lietoju vairākus kursus gadā, kā to ieteica speciālists. Dzirdu labi, nav nekādu problēmu ar dzirdi.",
@@ -6336,7 +6336,7 @@
 
       {
         "src": "img/review_paraxan_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;PARAXAN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Rosita Fančesa",
         "text": "Es kategoriski pret aptieku produktiem, baidos no blakusparādībām. Tomēr saprotu, ka dažreiz ar tautas metodēm nevar tikt galā. Lai attīrītos, izmantoju Paraxan. Lielisks līdzeklis ar dabīgu sastāvu.",
@@ -6366,7 +6366,7 @@
 
       {
         "src": "img/review_paraxan_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;PARAXAN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Hugo Tribbiani",
         "text": "Sieva uzstāj uz Paraxan lietošanu divas reizes gadā. Piekrītu tikai tādēļ, ka līdzeklis ir dabīgs un tam nav blakusefektu. Piekrītu tikai tam.",
@@ -6396,7 +6396,7 @@
 
       {
         "src": "img/review_paraxan_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;PARAXAN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Bernanado Floress",
         "text": "Labs līdzeklis pret parazītiem. Kopā ar sievu mēs lietojam pēc neveiksmīgam vakariņām restorānā. Palīdzēja ātri, blakusparādības neizraisīja. Turam mājās katram gadījumam.",
@@ -6486,7 +6486,7 @@
 
       {
         "src": "img/review_paraxan_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;PARAXAN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Irēna Daisone",
         "text": "Tiem, kuri dzīvo ar dzīvniekiem, Paraxan - tas ir ideāls līdzeklis. Efektīva attīrīšana un lieliska profilakse. Liels pluss - dabīgs sastāvs!",
@@ -6516,7 +6516,7 @@
 
       {
         "src": "img/review_paraxan_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;PARAXAN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;PARAXAN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Alberts Džeksons",
         "text": "Problēma - delikāta un par to nav ērti runāt. Labi, ka uzzināju par Paraxan. Palīdzēju attīrīt organismu un atjaunot kuņģa - zarnu trakta darbību viena kursa laikā!",
@@ -6787,7 +6787,7 @@
 
       {
         "src": "img/review_steplex_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;STEPLEX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Leo Rodrigezs",
         "text": "Mamma nokrita pa kāpnēm, sasita elkoni, tūska, iekaisums. Dažu dienu laikā Steplex visu likvidēja! Tagad sāka smērēt uz ceļiem, saka, ka vispār ir pārstājusi sāpēt!",
@@ -6907,7 +6907,7 @@
 
       {
         "src": "img/review_steplex_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;STEPLEX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Ferdinands Gomezs",
         "text": "Ātri noņem sāpju sindromu un likvidē iekaisumu. Pirms Steplex izmēģināju vismaz 10 ziedes un krēmu, nebija nekāda efekta!",
@@ -6937,7 +6937,7 @@
 
       {
         "src": "img/review_steplex_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;STEPLEX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Alfrēds Švals",
         "text": "Ja tabletes nepalīdz vai tās ir aizliegts lietot, bet vajag ātri atbrīvoties no sāpēm, Steplex — tas ir labākais risinājums. 10 no 10!",
@@ -6997,7 +6997,7 @@
 
       {
         "src": "img/review_steplex_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;STEPLEX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Mario Dorres",
         "text": "Palīdzēja izārstēt gurnu locītavas iekaisuma. Rezultāts tika panākts diezgan ātri. Labs līdzeklis.",
@@ -7087,7 +7087,7 @@
 
       {
         "src": "img/review_steplex_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;STEPLEX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;STEPLEX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Antonijs Fuagress",
         "text": "Saskāros ar sāļu nogulsnējumiem locītavās. Kājas pirksta locītava apsarka, pietūka, parādījās asas sāpes. Dzēru pretsāpju līdzekļus, līdz man ieteica Steplex. Diezgan ātri palīdzēja! Viss pārgāja un sāpes izzuda!",
@@ -7235,7 +7235,7 @@
       },
       {
         "src": "img/review_vermixin_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VERMIXIN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Henrijs Špiggers",
         "text": "Lēts, bet iedarbīgs līdzeklis. Darbojas! Blakusparādības neizraisīja! Paldies par ātro piegādi un konsultāciju!",
@@ -7322,7 +7322,7 @@
       },
       {
         "src": "img/review_vermixin_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VERMIXIN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Milošs Todoveckis",
         "text": "Dažus mēnešus nevarēju saprast, kas ir ar mani. Izrādījās, ka cērmes!!! Es varēju novērtēt līdzekļa Vermixin efektivitāti pēc paša pieredzes. Palīdz, neizraisot blakusparādības.",
@@ -7351,7 +7351,7 @@
       },
       {
         "src": "img/review_vermixin_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VERMIXIN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Petrs Kovaļski",
         "text": "Pēc brauciena uz Āziju atvedu sev līdz ne tikai suvenīrus. Mēģināju dažādus līdzekļus pret helmintiem, bet tikai Vermixin bija vajadzīgais efekts. Turpmāk būšu piesardzīgāks ar gastronomiskajām ekskursijām.",
@@ -7525,7 +7525,7 @@
       },
       {
         "src": "img/review_vermixin_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VERMIXIN",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VERMIXIN",
         "rating_text": "Izcila kvalitāte!",
         "name": "Džonatans Trois",
         "text": "Iesaku kaķu un suņu saimniekiem! Labāk iepriekš novērst problēmu, pēc tam būs grūtāk tikt vaļā no šiem mošķiem!",
@@ -7675,7 +7675,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Izcila kvalitāte!",
         "name": "Džūlija Meja",
         "text": "Iepriekš es izmantoju acu pilienus, bet kad izmēģināju Visoptic Duo Day, sapratu, kas šīs kapsulas - ir labākas par visu! Lietot ir vieglāk, efekts ir stiprāks un ilgstošāks.",
@@ -7705,7 +7705,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Izcila kvalitāte!",
         "name": "Sofija Nolana",
         "text": "Pateicoties kapsulām Visoptic Duo Day, acis ir pārstājušas asarot, ir izzudusi migla acu priekšā, esmu sākusi labāk redzēt. Ir rezultāts! Iesaku!",
@@ -7735,7 +7735,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Izcila kvalitāte!",
         "name": "Šarlote Mikregs",
         "text": "Profilakses nolūkā lietoju kapsulas Visoptic Duo Day. Visai ģimenei ir problēmas ar acīm. Es vel 27 gadu vecumā sāku nēsāt lēcas. Pēdējo daži gadu laikā redze tikai pasliktinājās, bet ar Visoptic Duo Day uzlabojas.",
@@ -7765,7 +7765,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Izcila kvalitāte!",
         "name": "Čārlzs Konelli",
         "text": "Pastāvīga darba ar datoru dēļ man ir tālredzība, sāp acis un ir sarkani asinsvadu to baltumos. Visoptic Duo Day glābj! Noņem nepatīkamos simptomus un redze uzlabojas!",
@@ -7825,7 +7825,7 @@
 
       {
         "src": "img/review_visoptic-duo-day_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO DAY",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO DAY",
         "rating_text": "Izcila kvalitāte!",
         "name": "Timotijs Gelbergs",
         "text": "Labs tonizējošs un mitrinošs efekts! Noņem acu spriedzi. Agrāk uz vakara puse acu priekšā bija tāda kā migla, pēc Visoptic Duo Day šādas sajūtas nav.",
@@ -7976,7 +7976,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Izcila kvalitāte!",
         "name": "Stefans Rodrigezs",
         "text": "Cīņai ar prostatītu tika patērēts daudz naudas un spēka. Bet izrādījās, risinājums bija lēts un efektīvs. Palīdzēja Exurol. Ar pirmajām dienām palika labāk.",
@@ -8006,7 +8006,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Izcila kvalitāte!",
         "name": "Oto Zegers",
         "text": "Neticēju tamlīdzīgu brīnumlīdzekļu spējām, līdz izmēģināju Exurol. Noņēma sāpju sindromu, iekaisumu un pastāvīgo vēlmi iet uz tualeti. Līdzeklis darbojas!",
@@ -8036,7 +8036,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Izcila kvalitāte!",
         "name": "Klaudija Ludersa",
         "text": "Vīrs lietoja Exurol. Sīkumos viņš ar mani nedalījās, bet garastāvoklis viņam uzlabojās. Pie tam atjaunojās intīmā dzīve. Laikam palīdz, ja viņa uzvedība ir tā mainījusies.",
@@ -8066,7 +8066,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Izcila kvalitāte!",
         "name": "Doloresa Krouforde",
         "text": "Exurol nopirku tēvocim. Operācijai bija kontrindikācijas, citu variantu nebija, cerējām tikai uz Exurol. Un tas palīdzēja! Pēc kursa izdzeršanas, prostatas izmēri ir normas robežās!",
@@ -8126,7 +8126,7 @@
 
       {
         "src": "img/review_visoptic-duo-night_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;VISOPTIC&nbsp;DUO NIGHT",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;VISOPTIC&nbsp;DUO NIGHT",
         "rating_text": "Izcila kvalitāte!",
         "name": "Anna Veltibora",
         "text": "Vīram bija problēmas, lai novērstu iekaisumu un sāpes, izmēģinājām daudz ko. Viņš saka, ka efektu sajuta tikai pēc Exurol.",
@@ -8217,7 +8217,7 @@
 
       {
         "src": "img/review_trovazin_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Trovazin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Marsels Lučiano",
         "text": "Pagājušajā nedēļā izmēģināju Trovazin. Labs gels, ar pirmo lietošanu sajutu atvieglojumu. Turpināšu lietot.",
@@ -8307,7 +8307,7 @@
 
       {
         "src": "img/review_trovazin_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Trovazin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Džošua Martins",
         "text": "Dēls lieto Trovazin un ieteica arī man. Lielisks gels tiem, kuriem nākas dzīvot ar varikozi vai visa diena jāpavada stāvus. Noņem smagumu, sāpes, tūskas.",
@@ -8337,7 +8337,7 @@
 
       {
         "src": "img/review_trovazin_6.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Trovazin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Izabella Mordano",
         "text": "Izmetu visus krēmus un ziedes, atstāju tikai Trovazin. Lielisks līdzeklis par patīkamu cenu. Palīdz! Efektu jūtu uzreiz pēc uzklāšanas!",
@@ -8427,7 +8427,7 @@
 
       {
         "src": "img/review_trovazin_9.png",
-        "desc": "<span class=\"review__mark\">wyraziłа</span> swoją opinię o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Trovazin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Zāra Ferrāna",
         "text": "Trovazin likvidē sāpes, vēnas un asinsvadu tīklojums kļūst aizvien mazāk pamanāms. Ērti, ka pēc tā nekur nav jāiet, var pasūtīt internetā un saņemt pie durvīm.",
@@ -8546,7 +8546,7 @@
       },
       {
         "src": "img/review_trovazin_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Trovazin",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Trovazin",
         "rating_text": "Izcila kvalitāte!",
         "name": "Markuss Lobio",
         "text": "Gels ir efektīvs un tam ir pieejama cena. Neatceros, ka vēl kāds līdzeklis varētu uz ilgu laiku atbrīvot no smaguma sajūtas kājās. Esmu apmierināts ar iedarbību un efektivitāti!",
@@ -8637,7 +8637,7 @@
     "reviews_viarex": [
       {
         "src": "img/review_viarex_1.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Džeremi Klosaks",
         "text": "Palīdzēja man atrisinās manas \"vīrišķās problēmas\". Nestāstīšu detalizēti, bet erekcija atgriezās ar jaunu spēku. Pietiek ilgam laikam!",
@@ -8667,7 +8667,7 @@
 
       {
         "src": "img/review_viarex_2.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Ljuberts Ferdinezs",
         "text": "Darbojas kā vajag. Pēdējo mēnešu laikā - neviena atteikuma. Bez pieraduma un blakusefektiem.",
@@ -8727,7 +8727,7 @@
 
       {
         "src": "img/review_viarex_4.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Djego Santjago",
         "text": "Ar vecumu katrs vīrietis var saskarties ar intīma veida problēmām. Man arī tādas bija līdz es izmēģināju Viarex. Iesaku!",
@@ -8787,7 +8787,7 @@
 
       {
         "src": "img/review_viarex_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Lučio Markess",
         "text": "Maigs un ilgstošs efekts, var lietot kopā ar alkoholu un nekaitē veselībai.",
@@ -8817,7 +8817,7 @@
 
       {
         "src": "img/review_viarex_7.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Tomašs Žardeks",
         "text": "Kursa laikā var pilnīgi atjaunot jūsu \"spēku\". Pēc kursa beigām efekts saglabājas. Blakusparādību man nebija.",
@@ -8907,7 +8907,7 @@
 
       {
         "src": "img/review_viarex_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Augustīns Peters",
         "text": "Lielisks līdzeklis, palīdz! Paldies par konsultāciju un piegādi līdz durvīm. Efekts parādījās ar pirmajām lietošanas dienām.",
@@ -8937,7 +8937,7 @@
 
       {
         "src": "img/review_viarex_11.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Orlando Dairess",
         "text": "Labākais līdzeklis analogu vidū. Plusi: pietiek izlietot kursu un efekts saglabājas, var lietot kopā ar alkoholu, neizraisa blakusparādības.",
@@ -8997,7 +8997,7 @@
 
       {
         "src": "img/review_viarex_13.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Lukjans Mornašs",
         "text": "Efekts ir, spiedienu nepaceļ, savietojams ar alkoholu. Pēc kursa rezultāts saglabājas. Pēc manām domām - labākais šīs kategorijas produkts.",
@@ -9027,7 +9027,7 @@
 
       {
         "src": "img/review_viarex_14.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Mihaels Vernandes",
         "text": "Uzbudinoša lieta, ilga potence un pastiprinātas sajūtas. Pietam par diezgan pieejamu cenu. Mīnusus neatklāju.",
@@ -9057,7 +9057,7 @@
 
       {
         "src": "img/review_viarex_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Viarex",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Viarex",
         "rating_text": "Izcila kvalitāte!",
         "name": "Roberts Vains",
         "text": "Es īpaši neticēju, ka Viarex var palīdzēt, bet es kļūdījos. Rezultātu sajutu no pirmajām dienām, pēc kursa veselība atjaunojās, problēmu ar \"draudziņu\" vairs nebija.",
@@ -10380,7 +10380,7 @@
 
       {
         "src": "img/review_guavital_6.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;GUAVITAL+",
         "rating_text": "Izcila kvalitāte!",
         "name": "Platons Kārters",
         "text": "Sieva lietoja Guavital+, novājēja un kļuva skaistāka. Izskatās kā pirms 20 gadiem, slaida, laimīga un ļoti skaista!",
@@ -10470,7 +10470,7 @@
 
       {
         "src": "img/review_guavital_9.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;GUAVITAL+",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;GUAVITAL+",
         "rating_text": "Izcila kvalitāte!",
         "name": "Luī Santoss",
         "text": "Kopā ar sievu mēs lietojām Guavital+. Svars aizgāja, parādījās vairāk enerģijas. Lietot ir vienkārši un ērti. Palikām apmierināti!",
@@ -11187,7 +11187,7 @@
 
       {
         "src": "img/review_ophtalax_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;OPHTALAX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Kristīne Jaunzeme",
         "text": "Ophtalax - lielisks līdzeklis visiem, kuri pavada daudz laika pie monitora. Nātres palīdz noņemt spriedzi, bet cinks uzlabo redzes asumu.",
@@ -11277,7 +11277,7 @@
 
       {
         "src": "img/review_ophtalax_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;OPHTALAX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Ieva Zīle",
         "text": "Pēc mana eksperta ieteikuma, es Ophtalax lietoju 2 mēnešus. Lielisks efekts. Viss, ko es lietoju iepriekš, nav salīdzināms ar šīm kapsulām. Iesaku!",
@@ -11337,7 +11337,7 @@
 
       {
         "src": "img/review_ophtalax_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;OPHTALAX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Kristaps Vītols",
         "text": "Ophtalax lietošanas rezultāti pārsniedza visu manis gaidīto. Man jau diagnosticēja dzeltenā plankuma vecuma deģenerāciju, bet tagad ar redzi viss ir kārtībā!",
@@ -11487,7 +11487,7 @@
 
       {
         "src": "img/review_ophtalax_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;OPHTALAX",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;OPHTALAX",
         "rating_text": "Izcila kvalitāte!",
         "name": "Maija Briede",
         "text": "Ophtalax man palīdzēja novērst spriedzi acīs un asarošanu pēc ilgstoša darba ar datoru. Tagad pavadu tikpat laika pie monitora, tomēr ar acīm viss ir lieliski.",
@@ -11906,13 +11906,13 @@
         ]
       }
     ],
-    "reviews_cardiform": [
+    "reviews_kardivix": [
       {
-        "src": "img/review_cardiform_1.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Toomas Tamm",
-        "text": "Kusagil nädal pärast Cardiformi võtmist märkasin ootamatult, et enam ei tunne seda tüütut pulseerimist oimukohtades pärast aiatöid, ning praegu püsivad mu näitajad tasemel 130/85, mis minu kõrges eas on tõeline võit.",
+        "text": "Kusagil nädal pärast Kardivixi võtmist märkasin ootamatult, et enam ei tunne seda tüütut pulseerimist oimukohtades pärast aiatöid, ning praegu püsivad mu näitajad tasemel 130/85, mis minu kõrges eas on tõeline võit.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -11938,8 +11938,8 @@
       },
 
       {
-        "src": "img/review_cardiform_2.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Katrin Saar",
         "text": "Selle tootega ei ole ma enam lõpuks \"elav baromeeter\" ega sõltu ilmast, sest varem kajastus iga õhurõhu muutus minu jaoks kohutava peavalu ja nõrkusena. See on suurepärane tugi neile, kel on meteosõltuvus.",
@@ -11968,11 +11968,11 @@
       },
 
       {
-        "src": "img/review_cardiform_3.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Andres Sepp",
-        "text": "Cardiform sobis mulle koostise ja toime poolest ideaalselt. Mu veresooned on justkui tugevamaks muutunud, mida kinnitas ka spetsialist viimase plaanilise läbivaatuse käigus, märkides, et süsteemi üldine seisund on märgatavalt paranenud. Suureks plussiks on see, et mul puuduvad nüüd igasugused järsud enesetunde muutused.",
+        "text": "Kardivix sobis mulle koostise ja toime poolest ideaalselt. Mu veresooned on justkui tugevamaks muutunud, mida kinnitas ka spetsialist viimase plaanilise läbivaatuse käigus, märkides, et süsteemi üldine seisund on märgatavalt paranenud. Suureks plussiks on see, et mul puuduvad nüüd igasugused järsud enesetunde muutused.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -11998,8 +11998,8 @@
       },
 
       {
-        "src": "img/review_cardiform_4.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Tiina Kask",
         "text": "Olin juba teist pakendit lõoetamas kui märkasin, et see ebameeldiv tuimus sõrmedes, mis varem õhtuti sageli häiris, on peaaegu täielikult kadunud. Isegi jalad väsivad päeva lõpuks vähem — ilmselt sellepärast, et vereringe on muutunud korrektseks ja aktiivsemaks.",
@@ -12028,8 +12028,8 @@
       },
 
       {
-        "src": "img/review_cardiform_5.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Jüri Koppel",
         "text": "Lihtsalt hea ja kvaliteetne toode. Jõudis väga kiiresti kohale, pakend oli terve ning. Kapslid ise on keskmise suurusega, seega neid on lihtne neelata isegi väikese koguse veega. Igapäevase toe ja ennetuse vahendina on see praegu üks parimaid valikuid meie turul, vähemalt minu jaoks.",
@@ -12058,8 +12058,8 @@
       },
 
       {
-        "src": "img/review_cardiform_6.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Ülle Luik",
         "text": "Nende kapslite toime ei ole kohene, nagu ma algul ootasin, kuid see on väga püsiv, ning peamine on mitte unustada neid regulaarselt võtta, et komponendid organismi koguneksid. Tavaliselt võtan ühe hommikusöögi ajal ja olen tulemusega täiesti rahul, sest vererõhk püsib terve päeva vältel ühel tasemel, ilma igasuguste hüpeteta.",
@@ -12088,8 +12088,8 @@
       },
 
       {
-        "src": "img/review_cardiform_7.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Margus Lepik",
         "text": "Lühidalt öeldes: pea ei valuta enam, näitajad on stabiilselt 120/80 ja mul pole ühtegi kõrvaltoimet, mis selliste vahendite puhul tavaliselt ette tuleb. Ennetuseks ja südame-veresoonkonna toonuses hoidmiseks on see ideaalne valik.",
@@ -12118,8 +12118,8 @@
       },
 
       {
-        "src": "img/review_cardiform_8.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Anne Mägi",
         "text": "Ostsin selle kompleksi oma emale, kellel on juba aastaid veresooned erilist tähelepanu ja tuge vajanud. Ta on selles osas, mida enda peale kannab või sisse manustab, väga nõudlik, kuid neid kapsleid võtab hea meelega ja ütleb, et on hakanud end palju erksamalt tundma.",
@@ -12148,11 +12148,11 @@
       },
 
       {
-        "src": "img/review_cardiform_9.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Peeter Pärn",
-        "text": "Olen juba aastaid tegelenud kepikõndimisega, kuid viimasel ajal olen märganud, et süda hakkab koormusega varasemast raskemalt toime tulema. Cardiformiga tundsin, et mu veresooned said justkui jõudu juurde: need muutusid elastsemaks ja nüüd suudan taas läbida oma tavalisi distantse hingeldamata.",
+        "text": "Olen juba aastaid tegelenud kepikõndimisega, kuid viimasel ajal olen märganud, et süda hakkab koormusega varasemast raskemalt toime tulema. Kardivixiga tundsin, et mu veresooned said justkui jõudu juurde: need muutusid elastsemaks ja nüüd suudan taas läbida oma tavalisi distantse hingeldamata.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -12178,8 +12178,8 @@
       },
 
       {
-        "src": "img/review_cardiform_10.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Sirje Rebane",
         "text": "Uurin alati etikette hoolikalt ning siin võlus mind vitamiinide ja mineraalide kombinatsioon, mis on suunatud just südamerakkude energiavahetusele. Pärast kuu aega võtmist tundsin, et mul on rohkem elujõudu ning tavaline õhtune väsimus pole enam nii tuntav.",
@@ -12208,8 +12208,8 @@
       },
 
       {
-        "src": "img/review_cardiform_11.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Jaan Mets",
         "text": "See vitamiinidel ja taimedel põhinev vahend aitab mul veresooneid korras hoida, samal ajal ei esine pärast võtmist mingit uimasust ega loidust. Kohaletoimetamine võttis vaid paar päeva, teenindus on suurepärane, nagu ka toote kvaliteet, seega panen kindla viie.",
@@ -12238,11 +12238,11 @@
       },
 
       {
-        "src": "img/review_cardiform_12.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Katrin Kask",
-        "text": "Minu jaoks oli oluline leida midagi, mis aitab hoida tervislikku kolesterooli taset ilma liigsete pingutusteta, ja Cardiform osutus just selleks lahenduseks. Märkasin, et veresoonte üldine seisund on paranenud, kadusid need ärritavad vaskulaarsed \"tärnid\" jalgadel ning nahk näib justkui tervislikum. Kõik viitab sellele, et mikroverevereringe on korrastunud ja iga rakk saab vajalikke toitaineid, mis on üldise toonuse jaoks väga oluline.",
+        "text": "Minu jaoks oli oluline leida midagi, mis aitab hoida tervislikku kolesterooli taset ilma liigsete pingutusteta, ja Kardivix osutus just selleks lahenduseks. Märkasin, et veresoonte üldine seisund on paranenud, kadusid need ärritavad vaskulaarsed \"tärnid\" jalgadel ning nahk näib justkui tervislikum. Kõik viitab sellele, et mikroverevereringe on korrastunud ja iga rakk saab vajalikke toitaineid, mis on üldise toonuse jaoks väga oluline.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -12268,8 +12268,8 @@
       },
 
       {
-        "src": "img/review_cardiform_13.png",
-        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;CARDIFORM",
+        "src": "img/review_kardivix_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
         "rating_text": "Suurepärane toode!",
         "name": "Mart Lauri",
         "text": "Ostsin selle kompleksi kolleegi soovitusel, kes kaebas samuti perioodilise raskustunde üle südames. Ilmselt oli see tingitud meie sadama pingelisest töögraafikust. Võin öelda, et vahend toimib päriselt: see aitab organismil koormustega kohaneda ega lase vererõhul normist kõrgemale hüpata.",
@@ -12420,7 +12420,7 @@
 
       {
         "src": "img/review_vasos_duo_5.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Vasos Duo",
         "rating_text": "Izcila kvalitāte!",
         "name": "Raimonds Liepiņš",
         "text": "Vasos Duo nostiprina asinsvadu sieniņas un noņem sāpes. Pirms lietošanas konsultējos ar ekspertu, pazīstamu sievieti, viņa atzina par labu. Nekādi populāri ķīmiski līdzekļi nespēja tā palīdzēt, kā šis gels uz augu bāzes.",
@@ -12510,7 +12510,7 @@
 
       {
         "src": "img/review_vasos_duo_8.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Vasos Duo",
         "rating_text": "Izcila kvalitāte!",
         "name": "Vita Čepule",
         "text": "Pēc dzemdībām parādījās hemoroīdi. Mēnesi lietoju Vasos Duo un šis laiks bija pietiekams problēmas novēršanai. Mezgli sāka uzsūkties, normalizējās defekācija, pārgāja sāpes, nekādu nepatīkamu sajūtu. Tā, ka - iesaku no visas sirds.",
@@ -12570,7 +12570,7 @@
 
       {
         "src": "img/review_vasos_duo_10.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Vasos Duo",
         "rating_text": "Izcila kvalitāte!",
         "name": "Valters Jansons",
         "text": "Gelu lietot ir ērti. Daudz labāk par svecītēm un treknām ziedēm. Efekts ir lielisks - Vasos Duo noņem iekaisumu un sāpes, nostiprina asinsvadu sieniņas, novērš visus hemoroīdu simptomus. Iesaku visiem, kuriem ir šī problēma.",
@@ -12720,7 +12720,7 @@
 
       {
         "src": "img/review_vasos_duo_15.png",
-        "desc": "<span class=\"review__mark\">wyraził</span> swoją opinię o&nbsp;Vasos Duo",
+        "desc": "<span class=\"review__mark\">izteica</span> savu viedokli par&nbsp;Vasos Duo",
         "rating_text": "Izcila kvalitāte!",
         "name": "Brigita Zariņa",
         "text": "Hemoroīdu simptomi ir patiesi mokoši, tā nav vienkārši kaut kāda nieze, bet reāli nepanesamas sāpes! Manuprāt gelam Vasos Duo nav konkurentu, tas noteikti ir pats labākais, kas līdz šim ir izdomāts.",
