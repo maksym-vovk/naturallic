@@ -2322,7 +2322,7 @@ export const productsInfo = {
             country: 'Romania',
             productName: 'Vermixin',
             salePrice: '143',
-            newPrice: '706'
+            newPrice: '360'
         },
         viarex: {
             modifier: 'img-space--right',

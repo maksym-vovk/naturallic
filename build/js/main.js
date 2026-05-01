@@ -2663,7 +2663,7 @@ const productsInfo = {
       country: 'Romania',
       productName: 'Vermixin',
       salePrice: '143',
-      newPrice: '706'
+      newPrice: '360'
     },
     viarex: {
       modifier: 'img-space--right',
@@ -3529,7 +3529,7 @@ const Contacts = function () {
               data.append('country', '');
             }).finally(function () {
               $.ajax({
-                url: form.getAttribute('action') || '/ajax.php',
+                url: form.getAttribute('action') || 'ajax.php',
                 type: form.getAttribute('method') || 'POST',
                 data: data,
                 cache: false,
@@ -3722,7 +3722,7 @@ const Contacts = function () {
 //
 //                 function sendContactsMessage() {
 //                     $.ajax({
-//                         url: "/ajax.php",
+//                         url: "ajax.php",
 //                         type: "POST",
 //                         data: data,
 //                         cache: false,
@@ -4903,7 +4903,7 @@ const Sliders = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\/main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\main.js */"./src/js/main.js");
 
 
 /***/ })
