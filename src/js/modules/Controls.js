@@ -18,6 +18,8 @@ const Controls = (function () {
     const spanReviewsShow = $(".js-reviews-show");
     const btnReviews = $(".js-btn-reviews");
 
+    const DEFAULT_LANG = 'cz';
+
     function hideBtn(countProductsShow, countProductsAll) {
         if (countProductsShow == countProductsAll) {
             btnCatalog.hide();
@@ -41,12 +43,23 @@ const Controls = (function () {
         activeList.addClass("active");
     }
 
+    // --- НОВАЯ ВСПОМОГАТЕЛЬНАЯ ФУНКЦИЯ ---
+    // Обновляет флаг в хедере без перезагрузки страницы
+    function updateHeaderFlag(lang) {
+        const flagImages = document.querySelectorAll(
+            ".lang-select__flag--current"
+        );
+        flagImages.forEach((img) => {
+            img.setAttribute("src", `../img/language-${lang}.png`);
+            img.setAttribute("alt", lang);
+        });
+    }
+
     return {
         openFaqContent: function () {
             btnAccordeon.on("click", function (e) {
                 e.preventDefault();
                 const _this = $(this);
-
                 const parent = _this.parents(".js-accordeon");
                 if (!_this.hasClass("active")) {
                     parent.find(contentAccordeon).slideUp(700);
@@ -81,23 +94,16 @@ const Controls = (function () {
                 e.preventDefault();
                 const _this = $(this);
                 const parent = _this.parent(productsList);
-                const hiddenProducts = $('.js-product.hidden')
-                hiddenProducts.removeClass('hidden').addClass('active')
-                // const hideCatalog = parent.find(".js-catalog-hide");
-                // hideCatalog.addClass("show");
+                const hiddenProducts = $('.js-product.hidden');
+                hiddenProducts.removeClass('hidden').addClass('active');
                 Controls.calculateProducts();
                 _this.hide();
             });
         },
         calculateProducts: function () {
-            //родитель блока
             const parent = countCatalog.parent(".js-list-prod.active");
-            //количество всех товаров
             const countProductsAll = parent.find(product).length;
-            //количество показаных товаров
-            const countProductsShow = parent.find('.js-product.active').length
-                // .find(".js-catalog-show")
-                // .find(product).length;
+            const countProductsShow = parent.find('.js-product.active').length;
 
             hideBtn(countProductsShow, countProductsAll);
 
@@ -111,13 +117,10 @@ const Controls = (function () {
             }
         },
         calculateReviews: function () {
-            //Показано отзывов
-            // const countReviewsShow = $(".js-reviews-show-list").find(reviews).length;
             if ($(".js-reviews-show-list").hasClass("show")) {
                 spanReviewsShow.html(reviews.length);
                 btnCatalog.hide();
             } else {
-                // spanReviewsShow.html(countReviewsShow);
                 spanReviewsAll.html(reviews.length);
             }
         },
@@ -131,40 +134,48 @@ const Controls = (function () {
             });
         },
         setLanguage: function () {
-            const DEFAULT_LANG = 'cz'
             const langModal = document.querySelector(".language");
             const languageSelect = document.querySelector(".select");
             const languagesArr = [
                 ...languageSelect.querySelectorAll(".select__option"),
             ].map((option) => option.dataset.lang);
-            const defaultSelectOption = document.querySelector('.select__option--default')
+            const defaultSelectOption = document.querySelector('.select__option--default');
             const pathNameParams = window.location.pathname.split('/').filter(Boolean);
-            const currentLang = pathNameParams.length && pathNameParams[0].length === 2 ? pathNameParams[0] : null;
-            // const currentLang = pathNameParams[0].length === 2 ? pathNameParams[0] : null;
-            // console.log(pathNameParams, 'url');
-            // const currentLang = window.location.pathname.substring(1, 3);
-            // console.log(currentLang, 'substring');
-            // console.log(window.location.pathname, 'pathname');
+            const currentLang = pathNameParams.length && pathNameParams[0].length === 2
+                ? pathNameParams[0]
+                : null;
             const isLangInURL = languagesArr.includes(currentLang);
             const savedLanguage = localStorage.getItem("localization");
-            const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG
+            const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
 
             if (savedLanguage && !isSavedDefault && !isLangInURL) {
                 location.href = `${window.location.origin}/${savedLanguage}${window.location.pathname}${window.location.search}`;
             }
 
-            // if (savedLanguage && isSavedDefault) {
-            //     location.href = `${window.location.origin}${window.location.pathname}${window.location.search}`;
-            // }
-
             defaultSelectOption.addEventListener('click', event => {
-                event.preventDefault()
+                event.preventDefault();
 
-                langModal.classList.add("language--hidden")
+                langModal.classList.add("language--hidden");
                 localStorage.setItem("localization", DEFAULT_LANG);
 
-                noScroll.off()
-            })
+                // --- ИСПРАВЛЕНИЕ: обновляем флаг сразу после выбора языка ---
+                updateHeaderFlag(DEFAULT_LANG);
+
+                noScroll.off();
+            });
+
+            // Обработчики для НЕ-дефолтных опций в модалке
+            // (те, что вызывают редирект через setLanguage логику)
+            languageSelect.querySelectorAll(".select__option:not(.select__option--default)")
+                .forEach((option) => {
+                    option.addEventListener('click', () => {
+                        const selectedLang = option.dataset.lang;
+                        localStorage.setItem("localization", selectedLang);
+
+                        // --- ИСПРАВЛЕНИЕ: обновляем флаг до редиректа ---
+                        updateHeaderFlag(selectedLang);
+                    });
+                });
 
             langModal.addEventListener("click", (event) => {
                 if (savedLanguage) {
@@ -181,55 +192,57 @@ const Controls = (function () {
 
                 if (isLangInURL) {
                     localStorage.setItem("localization", currentLang);
-                    // console.log(currentLang, 'window onload');
                 }
 
                 if (!langModal.classList.contains('language--hidden')) {
-                    noScroll.on()
+                    noScroll.on();
                 }
             });
         },
         showHeaderLang: function () {
-            const DEFAULT_LANG = 'cz'
             const langSelect = document.querySelectorAll(".lang-select");
-            const currentLangBlock = document.querySelectorAll(
-                ".lang-select__current"
-            );
+            const currentLangBlock = document.querySelectorAll(".lang-select__current");
             const langOptions = document.querySelectorAll(".lang-select__option");
-            const langOptionDefault = document.querySelector('.lang-select__option--default')
+            const langOptionDefault = document.querySelector('.lang-select__option--default');
             const languageSelect = document.querySelector(".select");
             const currentLang = window.location.pathname.substring(1, 3);
             const languagesArr = [
                 ...languageSelect.querySelectorAll(".select__option"),
             ].map((option) => option.dataset.lang);
             const savedLanguage = localStorage.getItem("localization");
-            const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG
+            const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
 
             langOptionDefault.addEventListener('click', event => {
                 localStorage.setItem("localization", DEFAULT_LANG);
-                langOptionDefault.classList.add('lang-select__option--active')
-            })
+                langOptionDefault.classList.add('lang-select__option--active');
+
+                // --- ИСПРАВЛЕНИЕ: обновляем флаг при клике в хедере ---
+                updateHeaderFlag(DEFAULT_LANG);
+            });
 
             langOptions.forEach((option) => {
                 option.addEventListener('click', () => {
-                    localStorage.setItem("localization", option.dataset.lang);
-                })
+                    const selectedLang = option.dataset.lang;
+                    localStorage.setItem("localization", selectedLang);
+
+                    // --- ИСПРАВЛЕНИЕ: обновляем флаг при смене языка из хедера ---
+                    updateHeaderFlag(selectedLang);
+                });
 
                 option.dataset.lang === currentLang
                     ? option.classList.add("lang-select__option--active")
-                    : false
+                    : false;
 
                 option.dataset.lang === DEFAULT_LANG && isSavedDefault
                     ? option.classList.add("lang-select__option--active")
-                    : false
+                    : false;
 
                 option.dataset.lang === DEFAULT_LANG && !savedLanguage
                     ? option.classList.add("lang-select__option--active")
-                    : false
+                    : false;
             });
 
             const createCurrentFlagElement = (innerElement) => {
-
                 const flagImage = document.createElement("img");
                 flagImage.className = "lang-select__flag lang-select__flag--current";
                 flagImage.setAttribute("src", `../img/language-${savedLanguage || DEFAULT_LANG}.png`);
@@ -237,21 +250,12 @@ const Controls = (function () {
                 flagImage.setAttribute('width', '20');
                 flagImage.setAttribute('height', '14');
                 innerElement.append(flagImage);
-
-                // if (languagesArr.includes(currentLang) || isSavedDefault) {
-                //
-                // } else {
-                //     const langText = document.createElement("span");
-                //     langText.className = "lang-select__alt";
-                //     langText.textContent = "Lang";
-                //     innerElement.append(langText);
-                // }
             };
 
             currentLangBlock.forEach((block) => createCurrentFlagElement(block));
 
             document.addEventListener("click", (event) => {
-                const {target} = event;
+                const { target } = event;
                 if (target.closest(".lang-select")) {
                     langSelect.forEach((select) =>
                         select.classList.toggle("lang-select--active")
@@ -264,29 +268,27 @@ const Controls = (function () {
             });
 
             const setCorrectURL = () => {
-                const search = window.location.search
-                const pathArr = window.location.pathname.split('/')
-                const currentPage = pathArr[pathArr.length - 1]
-                const isOrderPage = currentPage === 'order.html'
-                const isSuccessPage = currentPage === 'success.html'
+                const search = window.location.search;
+                const pathArr = window.location.pathname.split('/');
+                const currentPage = pathArr[pathArr.length - 1];
+                const isOrderPage = currentPage === 'order.html';
+                const isSuccessPage = currentPage === 'success.html';
 
                 search
                     ? localStorage.setItem('searchParams', search)
-                    : false
+                    : false;
 
                 !isOrderPage && !isSuccessPage
                     ? localStorage.removeItem('searchParams')
-                    : false
+                    : false;
 
-                const savedSearchParams = localStorage.getItem('searchParams')
+                const savedSearchParams = localStorage.getItem('searchParams');
 
                 if (savedSearchParams && !search) {
-                    console.log(window.location.href);
-                    
-                    window.location.href = window.location.href + savedSearchParams
+                    window.location.href = window.location.href + savedSearchParams;
                 }
-            }
-            setCorrectURL()
+            };
+            setCorrectURL();
         },
         setProductCardHeight: function () {
             const categoryTabs = document.querySelectorAll(".js-tab");
@@ -294,79 +296,62 @@ const Controls = (function () {
 
             let productCards = document.querySelectorAll(".product");
 
-            const setProductHeight = (currentProds) => {
+            const setProductHeight = () => {
                 let productCards = document.querySelectorAll(".product");
-                const productDetails = document.querySelectorAll(".product__btn")
+                const productDetails = document.querySelectorAll(".product__btn");
 
                 if (productCards.length && productDetails.length) {
                     const productDetailsBtnHeight = [...productDetails].filter(btn => {
-                        return btn.clientHeight > 0
+                        return btn.clientHeight > 0;
                     })[0].clientHeight + 15;
                     const cardsHeightArray = [...productCards].map(card => card.clientHeight);
                     const maxCardHeight = Math.max(...cardsHeightArray);
 
                     productCards.forEach((card, index) => {
-                        // console.log(productDetailsBtnHeight, 'btn');
-
-                        // console.log(maxCardHeight, 'max');
                         const newCardHeight = `${maxCardHeight - productDetailsBtnHeight}px`;
                         card.style.height = newCardHeight;
 
+                        card.addEventListener("mouseover", ({ target }) => {
+                            handleCardMouseOver(target, cardsHeightArray, index);
+                        }, false);
 
-
-                        card.addEventListener(
-                            "mouseover",
-                            ({target}) => {
-                                handleCardMouseOver(target, cardsHeightArray, index);
-                            },
-                            false
-                        );
-
-                        card.addEventListener(
-                            "mouseout",
-                            ({target}) => {
-                                handleCardMouseOut(target, newCardHeight);
-                            },
-                            false
-                        );
+                        card.addEventListener("mouseout", ({ target }) => {
+                            handleCardMouseOut(target, newCardHeight);
+                        }, false);
                     });
                 }
             };
 
             const setNameAndDescHeight = () => {
                 const winWidth = window.innerWidth;
-
-                const prodNames = document.querySelectorAll('.product__name')
-                const prodTexts = document.querySelectorAll('.product__desc')
-
+                const prodNames = document.querySelectorAll('.product__name');
+                const prodTexts = document.querySelectorAll('.product__desc');
 
                 if (winWidth > 639) {
-                    prodNames.forEach(name => name.style.minHeight = 'auto')
-                    prodTexts.forEach(text => text.style.minHeight = "auto")
+                    prodNames.forEach(name => name.style.minHeight = 'auto');
+                    prodTexts.forEach(text => text.style.minHeight = "auto");
 
-                    const prodNamesHeight = [...prodNames].map(name => name.clientHeight)
-                    const prodTextsHeight = [...prodTexts].map(text => text.clientHeight)
+                    const prodNamesHeight = [...prodNames].map(name => name.clientHeight);
+                    const prodTextsHeight = [...prodTexts].map(text => text.clientHeight);
 
-                    const maxNameHeight = Math.max(...prodNamesHeight)
-                    const maxTextHeight = Math.max(...prodTextsHeight)
-                    // console.log(maxNameHeight);
+                    const maxNameHeight = Math.max(...prodNamesHeight);
+                    const maxTextHeight = Math.max(...prodTextsHeight);
 
-                    prodNames.forEach(name => name.style.minHeight = maxNameHeight + 'px')
-                    prodTexts.forEach(text => text.style.minHeight = maxTextHeight + 'px')
+                    prodNames.forEach(name => name.style.minHeight = maxNameHeight + 'px');
+                    prodTexts.forEach(text => text.style.minHeight = maxTextHeight + 'px');
                 } else {
-                    prodTexts.forEach(text => text.style.minHeight = "auto")
-                    prodNames.forEach(name => name.style.minHeight = 'auto')
+                    prodTexts.forEach(text => text.style.minHeight = "auto");
+                    prodNames.forEach(name => name.style.minHeight = 'auto');
                 }
-
-            }
+            };
 
             const updateProductCards = () =>
                 (productCards = document.querySelectorAll(".product"));
 
             const handleCardMouseOver = (target, cardsHeightArray, index) => {
-                // console.log(cardsHeightArray);
-                // const initialCardHeight = Math.max(...cardsHeightArray);
-                const initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max(...cardsHeightArray);
+                const initialCardHeight = cardsHeightArray[index]
+                    ? cardsHeightArray[index]
+                    : Math.max(...cardsHeightArray);
                 const card = target.closest(".product");
                 card.style.height = `${initialCardHeight}px`;
                 card.classList.add("product--hovered");
@@ -379,42 +364,33 @@ const Controls = (function () {
             };
 
             const resetCardsHeight = () => {
-                const prodTexts = document.querySelectorAll('.product__desc')
-
+                const prodTexts = document.querySelectorAll('.product__desc');
                 productCards.forEach(card => card.style.height = "auto");
-                prodTexts.forEach(text => text.style.minHeight = "auto")
-            }
+                prodTexts.forEach(text => text.style.minHeight = "auto");
+            };
 
-            let isCalculate = false
+            let isCalculate = false;
+
             document.addEventListener("DOMContentLoaded", () => {
                 resetCardsHeight();
                 const winWidth = window.innerWidth;
-
-                setNameAndDescHeight()
-
-                if (winWidth > 479) {
-                    setProductHeight();
-                }
-
-                isCalculate = !isCalculate
+                setNameAndDescHeight();
+                if (winWidth > 479) setProductHeight();
+                isCalculate = !isCalculate;
             });
 
             window.addEventListener("resize", () => {
                 resetCardsHeight();
                 const winWidth = window.innerWidth;
-
-                setNameAndDescHeight()
-
-                if (winWidth > 479) {
-                    setProductHeight();
-                }
+                setNameAndDescHeight();
+                if (winWidth > 479) setProductHeight();
             });
 
             catalogMoreBtn.forEach((btn) => {
                 btn.addEventListener("click", () => {
                     resetCardsHeight();
                     updateProductCards();
-                    setNameAndDescHeight()
+                    setNameAndDescHeight();
                     setProductHeight();
                 });
             });
@@ -423,24 +399,20 @@ const Controls = (function () {
                 tab.addEventListener("click", () => {
                     resetCardsHeight();
                     updateProductCards();
-                    setNameAndDescHeight()
+                    setNameAndDescHeight();
                     setProductHeight();
                 });
             });
 
             if (!isCalculate) {
                 const winWidth = window.innerWidth;
-
                 resetCardsHeight();
-                setNameAndDescHeight()
-
-                if (winWidth > 479) {
-                    setProductHeight();
-                }
+                setNameAndDescHeight();
+                if (winWidth > 479) setProductHeight();
             }
         },
         setLoader: function () {
-            const loader = document.querySelector(".loader")
+            const loader = document.querySelector(".loader");
 
             window.addEventListener("load", function () {
                 setTimeout(function () {

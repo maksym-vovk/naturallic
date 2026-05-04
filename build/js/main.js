@@ -3529,7 +3529,7 @@ const Contacts = function () {
               data.append('country', '');
             }).finally(function () {
               $.ajax({
-                url: form.getAttribute('action') || '/ajax.php',
+                url: form.getAttribute('action') || 'ajax.php',
                 type: form.getAttribute('method') || 'POST',
                 data: data,
                 cache: false,
@@ -3722,7 +3722,7 @@ const Contacts = function () {
 //
 //                 function sendContactsMessage() {
 //                     $.ajax({
-//                         url: "/ajax.php",
+//                         url: "ajax.php",
 //                         type: "POST",
 //                         data: data,
 //                         cache: false,
@@ -3868,6 +3868,7 @@ const Controls = function () {
   const spanReviewsAll = $(".js-reviews-all");
   const spanReviewsShow = $(".js-reviews-show");
   const btnReviews = $(".js-btn-reviews");
+  const DEFAULT_LANG = 'cz';
   function hideBtn(countProductsShow, countProductsAll) {
     if (countProductsShow == countProductsAll) {
       btnCatalog.hide();
@@ -3888,6 +3889,16 @@ const Controls = function () {
     const activeList = $(".js-list-prod[data-target=\"".concat(idActiveBlock, "\"]"));
     productsList.removeClass("active");
     activeList.addClass("active");
+  }
+
+  // --- НОВАЯ ВСПОМОГАТЕЛЬНАЯ ФУНКЦИЯ ---
+  // Обновляет флаг в хедере без перезагрузки страницы
+  function updateHeaderFlag(lang) {
+    const flagImages = document.querySelectorAll(".lang-select__flag--current");
+    flagImages.forEach(img => {
+      img.setAttribute("src", "../img/language-".concat(lang, ".png"));
+      img.setAttribute("alt", lang);
+    });
   }
   return {
     openFaqContent: function () {
@@ -3930,22 +3941,14 @@ const Controls = function () {
         const parent = _this.parent(productsList);
         const hiddenProducts = $('.js-product.hidden');
         hiddenProducts.removeClass('hidden').addClass('active');
-        // const hideCatalog = parent.find(".js-catalog-hide");
-        // hideCatalog.addClass("show");
         Controls.calculateProducts();
         _this.hide();
       });
     },
     calculateProducts: function () {
-      //родитель блока
       const parent = countCatalog.parent(".js-list-prod.active");
-      //количество всех товаров
       const countProductsAll = parent.find(product).length;
-      //количество показаных товаров
       const countProductsShow = parent.find('.js-product.active').length;
-      // .find(".js-catalog-show")
-      // .find(product).length;
-
       hideBtn(countProductsShow, countProductsAll);
       const hideCatalog = parent.find(".js-catalog-hide");
       if (hideCatalog.hasClass("show")) {
@@ -3957,13 +3960,10 @@ const Controls = function () {
       }
     },
     calculateReviews: function () {
-      //Показано отзывов
-      // const countReviewsShow = $(".js-reviews-show-list").find(reviews).length;
       if ($(".js-reviews-show-list").hasClass("show")) {
         spanReviewsShow.html(reviews.length);
         btnCatalog.hide();
       } else {
-        // spanReviewsShow.html(countReviewsShow);
         spanReviewsAll.html(reviews.length);
       }
     },
@@ -3977,34 +3977,38 @@ const Controls = function () {
       });
     },
     setLanguage: function () {
-      const DEFAULT_LANG = 'cz';
       const langModal = document.querySelector(".language");
       const languageSelect = document.querySelector(".select");
       const languagesArr = [...languageSelect.querySelectorAll(".select__option")].map(option => option.dataset.lang);
       const defaultSelectOption = document.querySelector('.select__option--default');
       const pathNameParams = window.location.pathname.split('/').filter(Boolean);
       const currentLang = pathNameParams.length && pathNameParams[0].length === 2 ? pathNameParams[0] : null;
-      // const currentLang = pathNameParams[0].length === 2 ? pathNameParams[0] : null;
-      // console.log(pathNameParams, 'url');
-      // const currentLang = window.location.pathname.substring(1, 3);
-      // console.log(currentLang, 'substring');
-      // console.log(window.location.pathname, 'pathname');
       const isLangInURL = languagesArr.includes(currentLang);
       const savedLanguage = localStorage.getItem("localization");
       const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
       if (savedLanguage && !isSavedDefault && !isLangInURL) {
         location.href = "".concat(window.location.origin, "/").concat(savedLanguage).concat(window.location.pathname).concat(window.location.search);
       }
-
-      // if (savedLanguage && isSavedDefault) {
-      //     location.href = `${window.location.origin}${window.location.pathname}${window.location.search}`;
-      // }
-
       defaultSelectOption.addEventListener('click', event => {
         event.preventDefault();
         langModal.classList.add("language--hidden");
         localStorage.setItem("localization", DEFAULT_LANG);
+
+        // --- ИСПРАВЛЕНИЕ: обновляем флаг сразу после выбора языка ---
+        updateHeaderFlag(DEFAULT_LANG);
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
+      });
+
+      // Обработчики для НЕ-дефолтных опций в модалке
+      // (те, что вызывают редирект через setLanguage логику)
+      languageSelect.querySelectorAll(".select__option:not(.select__option--default)").forEach(option => {
+        option.addEventListener('click', () => {
+          const selectedLang = option.dataset.lang;
+          localStorage.setItem("localization", selectedLang);
+
+          // --- ИСПРАВЛЕНИЕ: обновляем флаг до редиректа ---
+          updateHeaderFlag(selectedLang);
+        });
       });
       langModal.addEventListener("click", event => {
         if (savedLanguage) {
@@ -4017,7 +4021,6 @@ const Controls = function () {
         }
         if (isLangInURL) {
           localStorage.setItem("localization", currentLang);
-          // console.log(currentLang, 'window onload');
         }
         if (!langModal.classList.contains('language--hidden')) {
           _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
@@ -4025,7 +4028,6 @@ const Controls = function () {
       });
     },
     showHeaderLang: function () {
-      const DEFAULT_LANG = 'cz';
       const langSelect = document.querySelectorAll(".lang-select");
       const currentLangBlock = document.querySelectorAll(".lang-select__current");
       const langOptions = document.querySelectorAll(".lang-select__option");
@@ -4038,10 +4040,17 @@ const Controls = function () {
       langOptionDefault.addEventListener('click', event => {
         localStorage.setItem("localization", DEFAULT_LANG);
         langOptionDefault.classList.add('lang-select__option--active');
+
+        // --- ИСПРАВЛЕНИЕ: обновляем флаг при клике в хедере ---
+        updateHeaderFlag(DEFAULT_LANG);
       });
       langOptions.forEach(option => {
         option.addEventListener('click', () => {
-          localStorage.setItem("localization", option.dataset.lang);
+          const selectedLang = option.dataset.lang;
+          localStorage.setItem("localization", selectedLang);
+
+          // --- ИСПРАВЛЕНИЕ: обновляем флаг при смене языка из хедера ---
+          updateHeaderFlag(selectedLang);
         });
         option.dataset.lang === currentLang ? option.classList.add("lang-select__option--active") : false;
         option.dataset.lang === DEFAULT_LANG && isSavedDefault ? option.classList.add("lang-select__option--active") : false;
@@ -4055,15 +4064,6 @@ const Controls = function () {
         flagImage.setAttribute('width', '20');
         flagImage.setAttribute('height', '14');
         innerElement.append(flagImage);
-
-        // if (languagesArr.includes(currentLang) || isSavedDefault) {
-        //
-        // } else {
-        //     const langText = document.createElement("span");
-        //     langText.className = "lang-select__alt";
-        //     langText.textContent = "Lang";
-        //     innerElement.append(langText);
-        // }
       };
       currentLangBlock.forEach(block => createCurrentFlagElement(block));
       document.addEventListener("click", event => {
@@ -4086,7 +4086,6 @@ const Controls = function () {
         !isOrderPage && !isSuccessPage ? localStorage.removeItem('searchParams') : false;
         const savedSearchParams = localStorage.getItem('searchParams');
         if (savedSearchParams && !search) {
-          console.log(window.location.href);
           window.location.href = window.location.href + savedSearchParams;
         }
       };
@@ -4096,7 +4095,7 @@ const Controls = function () {
       const categoryTabs = document.querySelectorAll(".js-tab");
       const catalogMoreBtn = document.querySelectorAll(".js-btn-catalog");
       let productCards = document.querySelectorAll(".product");
-      const setProductHeight = currentProds => {
+      const setProductHeight = () => {
         let productCards = document.querySelectorAll(".product");
         const productDetails = document.querySelectorAll(".product__btn");
         if (productCards.length && productDetails.length) {
@@ -4106,9 +4105,6 @@ const Controls = function () {
           const cardsHeightArray = [...productCards].map(card => card.clientHeight);
           const maxCardHeight = Math.max(...cardsHeightArray);
           productCards.forEach((card, index) => {
-            // console.log(productDetailsBtnHeight, 'btn');
-
-            // console.log(maxCardHeight, 'max');
             const newCardHeight = "".concat(maxCardHeight - productDetailsBtnHeight, "px");
             card.style.height = newCardHeight;
             card.addEventListener("mouseover", _ref => {
@@ -4137,8 +4133,6 @@ const Controls = function () {
           const prodTextsHeight = [...prodTexts].map(text => text.clientHeight);
           const maxNameHeight = Math.max(...prodNamesHeight);
           const maxTextHeight = Math.max(...prodTextsHeight);
-          // console.log(maxNameHeight);
-
           prodNames.forEach(name => name.style.minHeight = maxNameHeight + 'px');
           prodTexts.forEach(text => text.style.minHeight = maxTextHeight + 'px');
         } else {
@@ -4148,8 +4142,6 @@ const Controls = function () {
       };
       const updateProductCards = () => productCards = document.querySelectorAll(".product");
       const handleCardMouseOver = (target, cardsHeightArray, index) => {
-        // console.log(cardsHeightArray);
-        // const initialCardHeight = Math.max(...cardsHeightArray);
         const initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max(...cardsHeightArray);
         const card = target.closest(".product");
         card.style.height = "".concat(initialCardHeight, "px");
@@ -4170,18 +4162,14 @@ const Controls = function () {
         resetCardsHeight();
         const winWidth = window.innerWidth;
         setNameAndDescHeight();
-        if (winWidth > 479) {
-          setProductHeight();
-        }
+        if (winWidth > 479) setProductHeight();
         isCalculate = !isCalculate;
       });
       window.addEventListener("resize", () => {
         resetCardsHeight();
         const winWidth = window.innerWidth;
         setNameAndDescHeight();
-        if (winWidth > 479) {
-          setProductHeight();
-        }
+        if (winWidth > 479) setProductHeight();
       });
       catalogMoreBtn.forEach(btn => {
         btn.addEventListener("click", () => {
@@ -4203,9 +4191,7 @@ const Controls = function () {
         const winWidth = window.innerWidth;
         resetCardsHeight();
         setNameAndDescHeight();
-        if (winWidth > 479) {
-          setProductHeight();
-        }
+        if (winWidth > 479) setProductHeight();
       }
     },
     setLoader: function () {
@@ -4401,8 +4387,13 @@ const Order = function () {
     },
     createOrderForm: function () {
       const productName = getParameterByName("id");
+      const productNameGuavital = 'guavital';
+      const isGuavital = String(productName).includes(productNameGuavital);
       const productNameUnderscore = String(productName).split('-').join('_');
-      const prodNameWithSpaces = String(productName).split('-').join(' ');
+      let prodNameWithSpaces = String(productName).split(/[-_]/).join(' ');
+      if (isGuavital) {
+        prodNameWithSpaces += '+';
+      }
       const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
       // console.log(productNameUnderscore);
 
@@ -4903,7 +4894,7 @@ const Sliders = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\/main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\main.js */"./src/js/main.js");
 
 
 /***/ })
