@@ -501,7 +501,7 @@
         }
       ],
       "text": "315 recenzí",
-      "desc": "Kapsle pro bezpečné očištění těla od parazitů a obnovení funkcí trávicího systému.",
+      "desc": "Antiparazitární prostředek obsahující extrakt z dýňových semen, který má silný protizánětlivý účinek.",
       "link": "vermixin.html",
       "tag": "vermixin",
       "category": "health",
@@ -721,7 +721,7 @@
         }
       ],
       "text": "311 recenzí",
-      "desc": "Komplexní bylinný přípravek pro zvýšení potence, výdrže a plodnosti mužů v každém věku.",
+      "desc": "Komplexní bylinný prostředek pro zvýšení potence, výdrže a plodnosti mužů v každém věku.",
       "link": "urosaf.html",
       "tag": "urosaf",
       "category": "health",
@@ -1011,7 +1011,7 @@
         }
       ],
       "text": "267 recenzí",
-      "desc": "Produkt na rostlinné bázi, který posiluje cévy a předchází hemoroidům.",
+      "desc": "Dvojí účinek pro zdravé žíly a úlevu od příznaků hemoroidů.",
       "link": "vasos_duo.html",
       "tag": "vasos_duo",
       "category": "health",
@@ -1470,7 +1470,7 @@
         }
       ],
       "text": "315 recenzí",
-      "niche": "Kategorie: Paraziti"
+      "niche": "Kategorie: Játra, paraziti"
     },
     {
       "link": "viarex.html",
@@ -1946,7 +1946,7 @@
         }
       ],
       "text": "267 recenzí",
-      "niche": "Kategorie: Hemoroidy"
+      "niche": "Kategorie: Hemoroidy, křečové žíly"
     }
   ],
 
@@ -2065,7 +2065,7 @@
     "description": "Krémové sérum s omlazujícími účinky, které obsahuje kyselinu hyaluronovou a regenerační složky zajišťující 12 hodinovou hydrataci pleti.",
     "compound": "Voda, filtrát hlemýždího sekretu, glycerin, kokosový kaprylát/kaprát, kaprylový/kapricový triglycerid, cetearylalkohol, glyceryl stearát citrát, ovocný olej olea europaea, máslo butyrospermum parkii, olej z kokosových ořechů, olej ze semen vinné révy, olej z jader argánie trnité, olej ze stromu prunus amygdalus dulcis, niacinamid, hydrolyzovaný kolagen, extrakt z kalusové kultury symphytum officinale, extrakt z květů heřmánku pravého (chamomila recutita), akryláty/c10-30 alkylakrylátový krosolymer, hyaluronát sodný, hydroxid sodný, tokoferylacetát, panthenol, askorbylpalmitát, fenoxyethanol, ethylhexylglycerin, parfém, butylenglykol, karbomer polysorbát 20, palmitoyltripeptid-1, palmitoyltetrapeptid-7, laktát sodný, edta disodná, benzoan sodný, kyselina citronová, sorban draselný, butylhydroxytoluen.",
     "usage": "Naneste krémové sérum jemnými pohyby podél masážních linií a nechte jej vstřebat. Aplikujte ráno a večer na čistou pleť.",
-    "contraindications": "Individuální nesnášenlivost složek. Vyhněte se kontaktu s očima.",
+    "contraindications": "Výrobek je určen pouze k lokálnímu použití. Zabraňte kontaktu s očima a sliznicemi. V případě kontaktu je důkladně opláchněte vodou! Nesmí se používat u osob mladších 18 let.",
     "manufacturer": "Dalmatika (Bulharsko)",
     "suitability": "2 roky",
     "keep": "Skladujte v teplotě od 0 °C do 25 °C, mimo dosah přímého slunečního záření a vlhkosti."
@@ -2104,9 +2104,9 @@
     "title": "Vermixin",
     "category": "Pro zdraví",
     "review_count": "315 recenzí",
-    "niche": "Paraziti",
+    "niche": "Játra, paraziti",
     "form_factor": "kartonová krabička, kapsle v blistru, 10 ks.",
-    "short_description": "Kapsle pro bezpečné očištění těla od parazitů a obnovení funkcí trávicího systému.",
+    "short_description": "Antiparazitární prostředek obsahující extrakt z dýňových semen, který má silný protizánětlivý účinek.",
     "description": "Bylinný antiparazitární komplex, který podporuje trávení, funkci žaludku a jater. Má antibakteriální a antioxidační vlastnosti a posiluje imunitní systém.",
     "compound": "Želatina (obal kapsle), extrakt z celé byliny pampelišky, extrakt z květu měsíčku lékařského, extrakt z kořene zázvoru, extrakt z cibule česneku, extrakt ze semen černého kmínu, mikrokrystalická celulóza (plnidlo), papain, extrakt z dýňových semen, stearan hořečnatý (plnidlo), oxid křemičitý (protispékavá látka).",
     "usage": "Dospělí užívají 1 kapsli 2× denně 30 minut před jídlem. Doba užívání 2 měsíce. V případě potřeby lze kúru opakovat.",
@@ -2196,7 +2196,7 @@
     "review_count": "311 recenzí",
     "niche": "Potence",
     "form_factor": "kapsle v blistru, 10 ks",
-    "short_description": "Komplexní bylinný přípravek pro zvýšení potence, výdrže a plodnosti mužů v každém věku.",
+    "short_description": "Komplexní bylinný prostředek pro zvýšení potence, výdrže a plodnosti mužů v každém věku.",
     "description": "Kapsle s komplexem přírodních extraktů a zinku. Přípravek je určen k prevenci všech problémů močopohlavního systému, se kterými se může potýkat každý muž, včetně problémů s libidem. Působení přípravku je zaměřeno na doplnění chybějících látek v těle, které se obtížně získávají potravou a které ovlivňují: zlepšení krevního oběhu, erekci, zvýšení produkce testosteronu, zvýšení odolnosti organismu, zdraví močopohlavního systému a prostaty.",
     "compound": "Extrakt z kořene maky (Lepidium meyenii 4:1) – 60 mg, extrakt z brusinek (Vaccinium macrocarpon, 35 % proanthokyanidinů) – 53 mg, extrakt z plodů saw palmetta (Serenoa repens 5:1) – 50 mg, extrakt z kořene kopřivy (Urtica dioica, 1 % beta-sitosterol) – 40 mg, zinek (citran zinečnatý trihydrát) – 5 mg.",
     "usage": "Dospělí by měli užívat 1 kapsli 1-2krát denně s jídlem nebo na lačný žaludek. Kúra trvá 45 dní. V případě potřeby lze kúru opakovat. Doporučená denní dávka jsou 2 tobolky.",
@@ -2314,9 +2314,9 @@
     "title": "Vasos Duo",
     "category": "Pro zdraví",
     "review_count": "333 recenzí",
-    "niche": "Hemoroidy",
+    "niche": "Hemoroidy, křečové žíly",
     "form_factor": "gel v tubě, 30 ml.",
-    "short_description": "Produkt na rostlinné bázi, který posiluje cévy a předchází hemoroidům.",
+    "short_description": "Dvojí účinek pro zdravé žíly a úlevu od příznaků hemoroidů.",
     "description": "Gel s lehkým chladícím účinkem, který snižuje bolest a zánět.",
     "compound": "Aqua, glycerin, propylenglykol, alkohol denat., extrakt z jírovce maďalu, extrakt z pupečníku asijského, extrakt z kořene ruscusu, extrakt z kalusu kostivalu lékařského, extrakt z květů heřmánku pravého, niacinamid, troxerutin, kofein, močovina, arginin, amonium acryloyldimethyltaurate/vp kopolymer, kyselina salicylová, mentol, allantoin, hyaluronát sodný, fenoxyethanol, ethylhexylglycerin, dinatrium edta.",
     "usage": "Nanášejte lehkými masážními pohyby po dobu 3-5 minut 2krát denně. Před použitím proveďte test na kompatibilitu s pokožkou. Doporučuje se používat 1-2krát denně.",
@@ -6420,7 +6420,7 @@
 
       {
         "src": "img/review_ausen_9.png",
-        "name": "Pavel Černý",
+        "name": "Jana Černá",
         "desc": "<span class=\"review__mark\">vyjádřil</span> svůj názor na&nbsp;Ausen",
         "rating_text": "Vynikající kvalita!",
         "stars": [
@@ -7761,7 +7761,7 @@
             "type": "empty"
           }
         ],
-        "text": "Po cestě do Asie s sebou přivezl nejen suvenýry. Zkoušel jsem různé prostředky proti helmintům, pouze Vermixin měl požadovaný účinek. Na gastronomické exkurze budu opatrnější."
+        "text": "Po cestě do Asie jsem s sebou přivezl nejen suvenýry. Zkoušel jsem různé prostředky proti helmintům, pouze Vermixin měl požadovaný účinek. Na gastronomické exkurze budu opatrnější."
       },
       {
         "src": "img/review_vermixin_9.png",
@@ -8991,7 +8991,7 @@
 
       {
         "src": "img/review_trovazin_15.png",
-        "name": "Karel Kučera",
+        "name": "Karla Kučerová",
         "desc": "<span class=\"review__mark\">vyjádřila</span> svůj názor na&nbsp;Trovazin",
         "rating_text": "Vynikající kvalita!",
         "stars": [
@@ -10969,7 +10969,7 @@
             "type": "empty"
           }
         ],
-        "text": "Vzala jsem Guavital + ze zajímavostí, ale výsledek překvapil! Váha začala mizet již v prvním týdnu přijetí. Žádné nepohodlí. Chutné, snadné a efektivní!"
+        "text": "Vzala jsem Guavital + ze zajímavostí, ale výsledek překvapil! Váha začala mizet již v prvním týdnu přijetí. Žádné nepohodlí."
       },
       {
         "src": "img/review_guavital_13.png",
@@ -11087,7 +11087,7 @@
             "type": "empty"
           }
         ],
-        "text": "Ophtalax mi pomohl normalizovat oběh krve v očích a zlepšit vidění. Můj expert považuje tento prostředek za nejlepší dostupný v současnosti."
+        "text": "Ophtalax mi pomohl normalizovat oběh krve v očích a zlepšit vidění. Můj specialista považuje tento prostředek za nejlepší dostupný v současnosti."
       },
 
       {
