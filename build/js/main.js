@@ -4570,6 +4570,11 @@ const Order = function () {
       Order.checkButtonActive();
       Order.showResiudePack();
       // Order.calcSaleProduct();
+      window.addEventListener("pageshow", function (event) {
+        if (event.persisted) {
+          Order.createOrderForm();
+        }
+      });
     }
   };
 }();
