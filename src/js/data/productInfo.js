@@ -25,7 +25,7 @@ export const productsInfo = {
             country: 'Belgium',
             productName: 'Desalix',
             salePrice: '27',
-            newPrice: '133'
+            newPrice: '89'
         },
         paraxan: {
             company: 'everad',
