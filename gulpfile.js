@@ -15,7 +15,7 @@ const autoprefixer = require("autoprefixer"),
   svgo = require("gulp-svgo"),
   postcss = require("gulp-postcss"),
   mqpacker = require("css-mqpacker"),
-  sass = require("gulp-sass")(require('sass')),
+  sass = require("gulp-sass"),
   sourcemaps = require("gulp-sourcemaps"),
   spritesmith = require("gulp.spritesmith-multi"),
   svgSprite = require("gulp-svg-sprites"),
@@ -45,9 +45,9 @@ const withLiveReload = (...tasks) => {
         pipeline.push(revAll);
     }
 
-    // if (config.reload) {
-    //     pipeline.push(reloadBrowser);
-    // }
+    if (config.reload) {
+        pipeline.push(reloadBrowser);
+    }
 
     return series(...pipeline);
 };
