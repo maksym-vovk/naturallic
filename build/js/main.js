@@ -366,7 +366,7 @@ const productsInfo = {
       country: 'Belgium',
       productName: 'Desalix',
       salePrice: '27',
-      newPrice: '133'
+      newPrice: '89'
     },
     paraxan: {
       company: 'everad',
@@ -1091,7 +1091,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'GUAVITAL+',
       salePrice: '26',
-      newPrice: '123'
+      newPrice: '112'
     },
     trovazin: {
       company: 'everad',
@@ -1100,7 +1100,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Trovazin',
       salePrice: '24',
-      newPrice: '107'
+      newPrice: '82'
     },
     desalix: {
       company: 'everad',
@@ -1109,7 +1109,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Desalix',
       salePrice: '25',
-      newPrice: '94'
+      newPrice: '89'
     },
     paraxan: {
       company: 'everad',
@@ -1118,7 +1118,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Paraxan',
       salePrice: '26',
-      newPrice: '135'
+      newPrice: '79'
     },
     exurol: {
       modifier: 'img-space--right',
@@ -1128,7 +1128,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Exurol',
       salePrice: '26',
-      newPrice: '128'
+      newPrice: '102'
     },
     visoptic_duo_night: {
       modifier: 'img-space--right',
@@ -1157,7 +1157,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Beauty Age Skin',
       salePrice: '26',
-      newPrice: '105'
+      newPrice: '165'
     },
     beauty_age_skin_peeling: {
       company: 'everad',
@@ -1166,7 +1166,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Beauty Age Skin Peeling',
       salePrice: '24',
-      newPrice: '117'
+      newPrice: '135'
     },
     ausen: {
       modifier: 'img-space--right',
@@ -1176,7 +1176,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Ausen',
       salePrice: '26',
-      newPrice: '130'
+      newPrice: '136'
     },
     vermixin: {
       modifier: 'img-space--right',
@@ -1186,7 +1186,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Vermixin',
       salePrice: '24',
-      newPrice: '102'
+      newPrice: '88'
     },
     viarex: {
       modifier: 'img-space--right',
@@ -1196,7 +1196,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Viarex',
       salePrice: '25',
-      newPrice: '113'
+      newPrice: '125'
     },
     urosaf: {
       modifier: 'img-space--right',
@@ -1206,7 +1206,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Urosaf',
       salePrice: '24',
-      newPrice: '92'
+      newPrice: '139'
     },
     steplex: {
       modifier: 'img-space--left',
@@ -1216,7 +1216,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Steplex',
       salePrice: '26',
-      newPrice: '125'
+      newPrice: '75'
     },
     vasaxal: {
       company: 'everad',
@@ -1225,7 +1225,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Vasaxal',
       salePrice: '25',
-      newPrice: '110'
+      newPrice: '73'
     },
     demyxil: {
       company: 'everad',
@@ -1234,7 +1234,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Demyxil',
       salePrice: '26',
-      newPrice: '99'
+      newPrice: '82'
     },
     delislim: {
       company: 'everad',
@@ -1243,7 +1243,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Delislim',
       salePrice: '26',
-      newPrice: '121'
+      newPrice: '82'
     },
     ophtalax: {
       company: 'everad',
@@ -1252,7 +1252,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Ophtalax',
       salePrice: '26',
-      newPrice: '115'
+      newPrice: '119'
     },
     vasos_duo: {
       company: 'everad',
@@ -1261,7 +1261,7 @@ const productsInfo = {
       country: 'Greece',
       productName: 'Vasos Duo',
       salePrice: '26',
-      newPrice: '104'
+      newPrice: '80'
     }
   },
   hr: {
