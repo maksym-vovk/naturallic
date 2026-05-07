@@ -1,30 +1,33 @@
 include ../mixins/product
--
-    var CATALOG = LANG.catalog;
-    var PRODUCTS = LANG.hits
+include ../product-visibility.pug
+include ../data/index
 
-    // Hidden products for all localizations (can be used for future localization purposes)
-    const hiddenProducts = ['visoptic_duo_night', 'visoptic_duo_day']
-    PRODUCTS = PRODUCTS.filter(prod => !hiddenProducts.includes(prod.tag))
+- var CATALOG = LANG.catalog || {}
+- var PRODUCTS = (LANG.hits || []).filter(isProductVisible)
 
-    let healthProducts = PRODUCTS.filter(product => product.category === 'health')
-    let beautyProducts = PRODUCTS.filter(product => product.category === 'beauty')
+- var healthProducts = PRODUCTS.filter(function (product) {
+-     return product.category === 'health'
+- })
 
-    if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
-        healthProducts = healthProducts.filter(prod => prod.tag !== 'depanten')
-        beautyProducts = beautyProducts.filter(prod => prod.tag !== 'depanten')
-    }
+- var beautyProducts = PRODUCTS.filter(function (product) {
+-     return product.category === 'beauty'
+- })
 
-    if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'
-            || LANG.locale === 'pl' || LANG.locale === 'bg' || LANG.locale === 'it') {
-        healthProducts = healthProducts.filter(prod => prod.tag !== 'vermixin')
-        beautyProducts = beautyProducts.filter(prod => prod.tag !== 'vermixin')
-    };
+- var preloadedHealthProducts = healthProducts.filter(function (product, index) {
+-     return index <= 8
+- })
 
-    const preloadedHealthProducts = healthProducts.filter((product, index) => index <= 8)
-    const restHealthProducts = healthProducts.filter((product, index) => index > 8)
-    const preloadedBeautyProducts = beautyProducts.filter((product, index) => index <= 8)
-    const restBeautyProducts = beautyProducts.filter((product, index) => index > 8)
+- var restHealthProducts = healthProducts.filter(function (product, index) {
+-     return index > 8
+- })
+
+- var preloadedBeautyProducts = beautyProducts.filter(function (product, index) {
+-     return index <= 8
+- })
+
+- var restBeautyProducts = beautyProducts.filter(function (product, index) {
+-     return index > 8
+- })
 
 section.catalog-main
     .container

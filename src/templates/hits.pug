@@ -1,23 +1,7 @@
--
-    var HITS = LANG.hits;
-
-    // Hidden products for all localizations (can be used for future localization purposes)
-    const hiddenProducts = ['visoptic_duo_night', 'visoptic_duo_day']
-    HITS = HITS.filter(prod => !hiddenProducts.includes(prod.tag))
-
-    if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv') {
-        HITS = HITS.filter(prod => prod.tag !== 'depanten')
-    }
-
-    if (LANG.locale === 'ee' || LANG.locale === 'lt' || LANG.locale === 'lv'
-            || LANG.locale === 'pl' || LANG.locale === 'bg' || LANG.locale === 'it') {
-        HITS = HITS.filter(prod => prod.tag !== 'vermixin')
-    };
-
-
-
 include mixins/product
+include ./product-visibility.pug
 
+- var HITS = LANG.hits.filter(isProductVisible)
 
 .hits#js-scroll-hits.js-slider-products
     .hits__wrapper.swiper-wrapper

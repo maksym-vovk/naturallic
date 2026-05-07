@@ -56,8 +56,13 @@ const Order = (function () {
         },
         createOrderForm: function () {
             const productName = getParameterByName("id");
+            const productNameGuavital = 'guavital';
+            const isGuavital = String(productName).includes(productNameGuavital);
             const productNameUnderscore = String(productName).split('-').join('_')
-            const prodNameWithSpaces = String(productName).split('-').join(' ')
+            let prodNameWithSpaces = String(productName).split(/[-_]/).join(' ')
+            if (isGuavital) {
+                prodNameWithSpaces += '+';
+            }
             const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false
             // console.log(productNameUnderscore);
 
@@ -263,6 +268,11 @@ const Order = (function () {
             Order.checkButtonActive();
             Order.showResiudePack();
             // Order.calcSaleProduct();
+            window.addEventListener("pageshow", function (event) {
+                if (event.persisted) {
+                    Order.createOrderForm();
+                }
+            });
         },
     };
 })();

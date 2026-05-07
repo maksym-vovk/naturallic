@@ -144,6 +144,42 @@
     },
     {
       "label": "Hit",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "Ultraxal",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "458 recenzí",
+      "desc": "Biljni kompleks za podršku probavnoj ravnoteži i svakodnevnu udobnost",
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "category": "health",
+      "btn": "DETALJNIJE"
+    },
+    {
+      "label": "Hit",
       "srcPhoto": "img/trovazin.png",
       "srcPhotoWebp": "img/trovazin.webp",
       "mobSrcPhoto": "img/trovazin-mob.png",
@@ -208,7 +244,7 @@
         }
       ],
       "text": "288 recenzija",
-      "desc": "Prirodno ulje s baktericidnim djelovanjem usmjereno na borbu protiv manifestacija gljivica.",
+      "desc": "Prirodna krema s baktericidnim djelovanjem pomaže u borbi protiv simptoma gljivičnih bolesti.",
       "link": "desalix.html",
       "tag": "desalix",
       "category": "health",
@@ -546,11 +582,12 @@
     },
     {
       "label": "Hit",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
+      "srcPhoto": "img/femixal.png",
+      "srcPhotoWebp": "img/femixal.webp",
+      "mobSrcPhoto": "img/femixal-mob.png",
+      "mobSrcPhotoWebp": "img/femixal-mob.webp",
+      "modifier": "img-space--right",
+      "name": "Femixal",
       "stars": [
         {
           "src": "img/svg/star.svg",
@@ -573,12 +610,85 @@
           "type": "full"
         }
       ],
-      "text": "323 recenzija",
-      "desc": "Gel s prirodnim ekstraktima za uklanjanje različitih vrsta bolova u zglobovima i mišićima.",
-      "link": "depanten.html",
-      "tag": "depanten",
+      "text": "382 recenzije",
+      "desc": "Biljni kompleks za podršku zdravlju i udobnosti mokraćnog sustava",
+      "link": "femixal.html",
+      "tag": "femixal",
       "category": "health",
       "btn": "DETALJNIJE"
+    },
+    {
+      "label": "Hit",
+      "srcPhoto": "img/ultiplex.png",
+      "srcPhotoWebp": "img/ultiplex.webp",
+      "mobSrcPhoto": "img/ultiplex-mob.png",
+      "mobSrcPhotoWebp": "img/ultiplex-mob.webp",
+      "name": "Ultiplex",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "486 recenzii",
+      "desc": "Complex multivitaminic „12 în 1” pentru susținerea forțelor de apărare ale organismului și a echilibrului energetic.",
+      "link": "ultiplex.html",
+      "tag": "ultiplex",
+      "category": "health",
+      "btn": "Comandați"
+    },
+    {
+      "label": "Hit",
+      "srcPhoto": "img/remofix.png",
+      "srcPhotoWebp": "img/remofix.webp",
+      "mobSrcPhoto": "img/remofix-mob.png",
+      "mobSrcPhotoWebp": "img/remofix-mob.webp",
+      "modifier": "img-space--left",
+      "name": "Remofix",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "427 hozzászólás",
+      "desc": "Termék ízületek napi ápolására és a komfortérzet támogatására önmasszázs során.",
+      "link": "remofix.html",
+      "tag": "remofix",
+      "category": "health",
+      "btn": "RÉSZLETEK"
     },
     {
       "label": "Hit",
@@ -720,7 +830,7 @@
         }
       ],
       "text": "301 recenzija",
-      "desc": "Krema s baktericidnim djelovanjem usmjerena na borbu protiv manifestacija gljivica.",
+      "desc": "Dermatološko rješenje za kožu i nokte s gljivičnim infekcijama i psorijazom.",
       "link": "demyxil.html",
       "tag": "demyxil",
       "category": "health",
@@ -797,6 +907,79 @@
       "tag": "ophtalax",
       "category": "health",
       "btn": "DETALJNIJE"
+    },
+    {
+      "label": "Top prekė",
+      "srcPhoto": "img/oculax.png",
+      "srcPhotoWebp": "img/oculax.webp",
+      "mobSrcPhoto": "img/oculax-mob.png",
+      "mobSrcPhotoWebp": "img/oculax-mob.webp",
+      "name": "Oculax",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "492 atsiliepimai",
+      "desc": "Kompleksas regėjimo komfortui palaikyti ir akims apsaugoti nuo nuovargio.",
+      "link": "oculax.html",
+      "tag": "oculax",
+      "category": "health",
+      "btn": "DAUGIAU"
+    },
+    {
+      "label": "Populaarne",
+      "srcPhoto": "img/kardivix.png",
+      "srcPhotoWebp": "img/kardivix.webp",
+      "mobSrcPhoto": "img/kardivix-mob.png",
+      "mobSrcPhotoWebp": "img/kardivix-mob.webp",
+      "modifier": "img-space--right",
+      "name": "Kardivix",
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "221 kommentaari",
+      "desc": "Vitamiinidel ja taimedel põhinev kompleks veresoonte tugevdamiseks ja südame töö toetamiseks.",
+      "link": "kardivix.html",
+      "tag": "kardivix",
+      "category": "health",
+      "btn": "ROHKEM INFOT"
     },
     {
       "label": "Hit",
@@ -949,6 +1132,40 @@
       "niche": "Kategorija: Mršavljenje"
     },
     {
+      "link": "ultraxal.html",
+      "tag": "ultraxal",
+      "srcPhoto": "img/ultraxal.png",
+      "srcPhotoWebp": "img/ultraxal.webp",
+      "mobSrcPhoto": "img/ultraxal-mob.png",
+      "mobSrcPhotoWebp": "img/ultraxal-mob.webp",
+      "name": "Ultraxal",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "458 recenzija",
+      "niche": "Kategorija: Probavni sustav (GI)"
+    },
+    {
       "link": "trovazin.html",
       "tag": "trovazin",
       "srcPhoto": "img/trovazin.png",
@@ -1082,7 +1299,7 @@
         }
       ],
       "text": "322 recenzija",
-      "niche": "Kategorija: Prostatitis"
+      "niche": "Kategorija: Prostatitis, potencija"
     },
     {
       "link": "visoptic-duo-night.html",
@@ -1323,13 +1540,13 @@
       "niche": "Kategorija: Potencija"
     },
     {
-      "link": "depanten.html",
-      "tag": "depanten",
-      "srcPhoto": "img/depanten.png",
-      "srcPhotoWebp": "img/depanten.webp",
-      "mobSrcPhoto": "img/depanten-mob.png",
-      "mobSrcPhotoWebp": "img/depanten-mob.webp",
-      "name": "Depanten",
+      "link": "femixal.html",
+      "tag": "femixal",
+      "srcPhoto": "img/femixal.png",
+      "srcPhotoWebp": "img/femixal.webp",
+      "mobSrcPhoto": "img/femixal-mob.png",
+      "mobSrcPhotoWebp": "img/femixal-mob.webp",
+      "name": "Femixal",
       "narrow": true,
       "stars": [
         {
@@ -1353,8 +1570,76 @@
           "type": "full"
         }
       ],
-      "text": "323 recenzija",
-      "niche": "Kategorija: Zglobovi"
+      "text": "382 recenzije",
+      "niche": "Kategorija: Mokraćni sustav"
+    },
+    {
+      "link": "ultiplex.html",
+      "tag": "ultiplex",
+      "srcPhoto": "img/ultiplex.png",
+      "srcPhotoWebp": "img/ultiplex.webp",
+      "mobSrcPhoto": "img/ultiplex-mob.png",
+      "mobSrcPhotoWebp": "img/ultiplex-mob.webp",
+      "name": "Ultiplex",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "486 recenzii",
+      "niche": "Imunitate și întărire generală"
+    },
+    {
+      "link": "remofix.html",
+      "tag": "remofix",
+      "srcPhoto": "img/remofix.png",
+      "srcPhotoWebp": "img/remofix.webp",
+      "mobSrcPhoto": "img/remofix-mob.png",
+      "mobSrcPhotoWebp": "img/remofix-mob.webp",
+      "name": "Remofix",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        }
+      ],
+      "text": "427 hozzászólás",
+      "niche": "Mozgásszervi rendszer (ízületek)"
     },
     {
       "link": "urosaf.html",
@@ -1490,7 +1775,7 @@
         }
       ],
       "text": "301 recenzija",
-      "niche": "Kategorija: Gljivice"
+      "niche": "Kategorija: Gljivice, psorijaza"
     },
     {
       "link": "delislim.html",
@@ -1561,6 +1846,74 @@
       "niche": "Kategorija: Vid"
     },
     {
+      "link": "oculax.html",
+      "tag": "oculax",
+      "srcPhoto": "img/oculax.png",
+      "srcPhotoWebp": "img/oculax.webp",
+      "mobSrcPhoto": "img/oculax-mob.png",
+      "mobSrcPhotoWebp": "img/oculax-mob.webp",
+      "name": "Oculax",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "492 atsiliepimai",
+      "niche": "Kryptis: Regėjimas"
+    },
+    {
+      "link": "kardivix.html",
+      "tag": "kardivix",
+      "srcPhoto": "img/kardivix.png",
+      "srcPhotoWebp": "img/kardivix.webp",
+      "mobSrcPhoto": "img/kardivix-mob.png",
+      "mobSrcPhotoWebp": "img/kardivix-mob.webp",
+      "name": "Kardivix",
+      "narrow": true,
+      "stars": [
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star.svg",
+          "type": "full"
+        },
+        {
+          "src": "img/svg/star-empty-1.svg",
+          "type": "empty-1"
+        }
+      ],
+      "text": "221 kommentaari",
+      "niche": "Sihtrühm: Südame-veresoonkond"
+    },
+    {
       "link": "vasos_duo.html",
       "tag": "vasos_duo",
       "srcPhoto": "img/vasos_duo.png",
@@ -1601,7 +1954,7 @@
     "category": "Za zdravlje",
     "review_count": "355 recenzija",
     "niche": "Mršavljenje",
-    "form_factor": "Kapsule za mršavljenje",
+    "form_factor": "kapsule, 20 kom",
     "short_description": "Prirodni kompleks za aktiviranje metaboličkih procesa i mršavljenja.",
     "description": "Proizvod za mršavljenje, prirodni sastav uključuje sastojke kao što su: ekstrakt voća guave, ekstrakt zelenog čaja i ekstrakt gorke naranče. Ove komponente imaju snažan složeni učinak, omogućujući vam da se riješite viška kilograma na duže vrijeme.",
     "compound": "Ekstrakt Guave voća, ekstrakt zelenog čaja (5% kofein), ekstrakt gorke naranče (6% sinefrin), maltodekstrin, konzervans: limunska kiselina.",
@@ -1610,6 +1963,21 @@
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine",
     "keep": "čuvati na suhom mjestu, izvan dohvata djece, na temperaturi ne višoj od +25°С."
+  },
+  "ultraxal": {
+    "title": "Ultraxal",
+    "category": "Za zdravlje",
+    "review_count": "458 recenzija",
+    "niche": "Probavni sustav (GI)",
+    "form_factor": "Kapsule, 20 komada",
+    "short_description": "Biljni kompleks za podršku probavnoj ravnoteži i svakodnevnu udobnost",
+    "description": "ULTRAXAL je osmišljen kao dodatak svakodnevnoj prehrani za održavanje stabilnog funkcioniranja probavnog sustava. Zahvaljujući kombinaciji biljnih ekstrakata i enzima, proizvod potiče prirodne procese čišćenja tijela i pomaže u održavanju ravnoteže crijevne mikroflore. Sastav je usmjeren na poboljšanje peristaltike i olakšavanje apsorpcije hranjivih tvari, što vam omogućuje izbjegavanje osjećaja težine nakon jela. Redovitom upotrebom, kompleks pomaže u održavanju funkcionalnog stanja gastrointestinalne sluznice i pomaže u smanjenju nelagode uzrokovane nadutošću ili promjenom prehrane.",
+    "compound": "Ekstrakt korijena maslačka, ekstrakt lista artičoke, ekstrakt sjemenki sikavice (80% silimarin), ekstrakt sjemenki bundeve, papain 100000 U/g, magnezijev stearat, mikrokristalna celuloza. Ovojnica kapsule: želatina/HPMC.",
+    "usage": "Preporučuje se uzimanje 1-2 kapsule dnevno, uz jelo. Nemojte prekoračiti preporučenu dnevnu dozu.",
+    "contraindications": "individualna osjetljivost na sastojke, dob djece. Trudnice i dojilje trebaju se prije upotrebe posavjetovati sa stručnjakom.",
+    "manufacturer": "Millmax",
+    "suitability": "2 godine",
+    "keep": "Čuvati na suhom mjestu, od dohvata male djece na temperaturi do 25°C."
   },
   "trovazin": {
     "title": "Trovazin",
@@ -1631,9 +1999,9 @@
     "category": "Za zdravlje",
     "review_count": "288 recenzija",
     "niche": "Gljivice",
-    "form_factor": "kartonska kutija / staklena bočica, pipeta / 30 ml",
-    "short_description": "Prirodno ulje s baktericidnim djelovanjem usmjereno na borbu protiv manifestacija gljivica.",
-    "description": "kompleks na bazi 4 ulja (čajevac, cimet, metvica, limunska trava) ima opće protuupalno, antiseptičko, tonizirajuće, hranjivo i hidratantno djelovanje na kožu. Prodire duboko i dugo se zadržava na mjestu lokalizacije gljivica.",
+    "form_factor": "krema, kartonska kutija, tehničke upute, tuba od 30 ml",
+    "short_description": "Prirodna krema s baktericidnim djelovanjem pomaže u borbi protiv simptoma gljivičnih bolesti.",
+    "description": "Kompleks na bazi ulja čajevca, salicilne kiseline i ekstrakta cvijeta nevena pruža opće protuupalno, antiseptičko, tonizirajuće, hranjivo i hidratantno djelovanje na kožu. Prodirući duboko u kožu, dugo ostaje na mjestu gljivice.",
     "compound": "Voda, Glicerin, Tekući parafin, Ulje slatkog badema, Natrij poliakrilat, Kopolimer Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate, Polisorbate 80, PEG-40 Hidrogenirano ricinusovo ulje, Bisabolol, Salicilna kiselina, Ulje čajevca, Glukonolakton, Kafr, Hidrogenirani polidecen, Acetat tokoferola, Ekstrakt klinčića, Ekstrakt sjemenki konjskog kestena, Ekstrakt Melilotus Officinalis, Ekstrakt Calendula Officinalis, Ekstrakt preslice, Ekstrakt listova ružmarina, Ekstrakt cvijeta kamilice, Ekstrakt čička, Fenoksietanol, Natrijev hijaluronat, Ulje peperminta, Trideceth-6, BHT, Disodium EDTA, Etilheksilglicerin, Kalcijev glukonat, Limunska kiselina, Natrijev benzoat, Kalijev sorbat, gamma-Terpinen, alfa-Terpinen, Terpineol, Pinene, Terpinolene, Limonene, Mentol.",
     "usage": "nanositi na dobro očišćenu i suhu kožu tabana 2 puta dnevno. Prije upotrebe napravite test kompatibilnosti s kožom.",
     "contraindications": "pojedinačna netolerancija na komponente.",
@@ -1649,8 +2017,8 @@
     "form_factor": "20 kapsula u pakiranju",
     "short_description": "Kapsule za sigurno čišćenje tijela od parazita i vraćanje funkcija probavnog sustava.",
     "description": "biljne kapsule dvostrukog djelovanja za uklanjanje parazita i detoksikaciju.",
-    "compound": "Askorbinska kiselina, želatina (ljuska kapsule), ekstrakt Echinacea purpurea, mikrokristalna celuloza (punilo), ekstrakt šipka, cink citrat, magnezijev stearat (punilo), silicijev dioksid (sredstvo protiv zgrudnjavanja), natrijev selenit.",
-    "usage": "uzimati 2 kapsule tijekom obroka, tijek primjene 30 dana.",
+    "compound": "Želatina (omotač kapsule), ekstrakt cijele biljke maslačka, ekstrakt cvijeta nevena, ekstrakt korijena đumbira, ekstrakt lukovice češnjaka, ekstrakt sjemenki crnog kima, mikrokristalna celuloza (punilo), papain, ekstrakt sjemenki bundeve, magnezijev stearat (punilo), silicijev dioksid (sredstvo protiv zgrudnjavanja).",
+    "usage": "odrasli uzimaju 1 kapsulu dva puta dnevno, 30 minuta prije obroka. Preporučeni tijek kure - 2 mjeseca. Po potrebi se kura može ponoviti.",
     "contraindications": "pojedinačna netolerancija na komponente.",
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine",
@@ -1660,11 +2028,11 @@
     "title": "Exurol",
     "category": "Za zdravlje",
     "review_count": "322 recenzija",
-    "niche": "Prostatitis",
+    "niche": "Prostatitis, potencija",
     "form_factor": "blister, 10 kapsula",
     "short_description": "Sredstvo za muškarce usmjereno na normalizaciju funkcija genitourinarnoga sustava.",
     "description": "kompleks prirodnih ekstrakata za prevenciju problema genitourinarnog sustava s kojima se može susresti bilo koji muškarac. Djelovanje biljnih ekstrakata ima za cilj: uklanjanje bola i upale; utječe na zdravlje prostate; olakšava mokrenje; poboljšava cirkulacija krvi.",
-    "compound": "Ekstrakt korijena mace (Lepidium meyenii 4:1) - 60 mg, Ekstrakt brusnice (Vaccinium macrocarpon, 35% proantocijanidini) - 53 mg, Ekstrakt plodova Saw Palmetto (Serenoa repens 5:1) - 50 mg, Ekstrakt korijena koprive (Urtica dioica, 1% beta-sitosterol) - 40 mg, Cink (cinkov citrat trihidrat) - 5 mg.",
+    "compound": "Ekstrakt korijena mace, ekstrakt bobica brusnice, ekstrakt ploda sabal palme, ekstrakt korijena koprive, cinkov citrat trihidrat",
     "usage": "odrasli bi trebali uzimati 1 kapsulu 1-2 puta dnevno tijekom obroka ili bez. Trajanje jedne kure je 45 dana. Ako je potrebno, kura se može ponoviti. Preporučena dnevna doza - 2 kapsule.",
     "contraindications": "individualna netolerancija na bilo koji od sastojaka, dječja dob (do 18 godina). Prije uzimanja preporučuje se konzultirati sa svojim stručnjakom. To nije lijek. Nemojte prekoračiti preporučenu dnevnu dozu. Čuvati izvan dohvata djece. Ovaj dodatak prehrani ne bi trebao zamijeniti raznoliku prehranu.",
     "manufacturer": "Dalmatika (Bugarska)",
@@ -1726,7 +2094,7 @@
     "description": "jedinstvena piling maska za čišćenje 3u1 s mliječnom kiselinom i prirodnim ekstraktima, koja se može koristiti za svakodnevno pranje lica, za dubinsko čišćenje od keratiniziranih čestica, maksimalnu hidrataciju i aktiviranje pomlađivanja kože.",
     "compound": "Voda, koko-glukozid, kokamidopropil betain, glicerin, GLICERIL OLEAT, POLILAKTIČNA KISELINA, EKSTRAKT LISTA RUBUS IDAEUS, EKSTRAKT PLODA EUTERPE OLERACEA, ekstrakt ploda Citrus Aurantium Dulcis, ekstrakt ploda Ananas Sativus, ulje kore citrusa limuna, ksantanska guma, fenoksietanol, CARBOMER, Etilheksilglicerin, ASKORBIL TETRAIZOPALMITAT, natrijev hidroksid, natrijev klorid, natrijev benzoat, limunska kiselina, kalijev sorbat, limonen.",
     "usage": "Nanositi malu količinu na vlažnu kožu masažnim pokretima, raspodijelite 1 minutu, a zatim isperite vodom. Postupak se provodi ne više od 2 puta tjedno.",
-    "contraindications": "pojedinačna netolerancija na komponente. Izbjegavajte kontakt s očima. Ne primjenjivati na djecu mlađu od tri godine i izravno na otvorene rane.",
+    "contraindications": "pojedinačna netolerancija na komponente. Izbjegavajte kontakt s očima. Ne koristiti za djecu 18 godina.",
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine ",
     "keep": "čuvati na suhom i tamnom mjestu, na temperaturi od 0°С do 25°С."
@@ -1739,7 +2107,7 @@
     "form_factor": "blister, kapsule od 10 kom, kartonska kutija, tehničke upute",
     "short_description": "Kompleks za poboljšanje funkcije sluha s uravnoteženom formulom vitamina i minerala.",
     "description": "kompleks prirodnih sastojaka, čije je djelovanje usmjereno na uklanjanje buke u ušima i usporavanje gubitka sluha.",
-    "compound": "L-askorbinska kiselina, Želatina, Vitamin C (L-askorbinska kiselina), Mikrokristalna celuloza, Acetil L-karnitin HCl, Ekstrakt listova Ginkgo biloba, Magnezijev oksid, Nikotinamid, Cink, Magnezijev stearat, Silicijev dioksid.",
+    "compound": "L-askorbinska kiselina, želatina, vitamin C (L-askorbinska kiselina) (omotač kapsule), mikrokristalna celuloza (punilo), acetil L-karnitin hidroklorid, ekstrakt lista ginka bilobe, magnezijev oksid, nikotinamid, cink, magnezijev stearat (punilo), tiamin hidroklorid, silicijev dioksid (sredstvo protiv zgrudnjavanja), riboflavin, piridoksin hidroklorid.",
     "usage": "za odrasle 1 kapsula dnevno tijekom ili nakon obroka. Trajanje jedne kure - 2 mjeseca. Nemojte prekoračiti preporučenu dnevnu dozu.",
     "contraindications": "individualna netolerancija na bilo koji od sastojaka, dječja dob (do 18 godina).",
     "manufacturer": "Dalmatika (Bugarska)",
@@ -1769,27 +2137,57 @@
     "form_factor": "blister, kapsule 10 kom",
     "short_description": "Sredstvo za muškarce usmjereno na normalizaciju reproduktivne  funkcije.",
     "description": "kompleks biljnih komponenti koji pojačava seksualnu želju i poboljšava seksualnu funkciju kod muškaraca, normalizira funkcionalno stanje genitourinarnog sustava s erektilnom disfunkcijom (za povećanje libida i potencije), poboljšava kvalitetu sperme, a također povećava mentalnu i fizičku izvedbu i sposobnosti prilagodbe u muškarci. Sredstvo Viarex blagotvorno djeluje na muški hormonalni sustav, sprječava bolesti prostate, poboljšava erektilnu funkciju i kvalitetu sperme.",
-    "compound": "Ekstrakt korijena mace (Lepidium meyenii 4:1) - 60 mg, Ekstrakt brusnice (Vaccinium macrocarpon, 35% proantocijanidini) - 53 mg, Ekstrakt plodova Saw Palmetto (Serenoa repens 5:1) - 50 mg, Ekstrakt korijena koprive (Urtica dioica, 1% beta-sitosterol) - 40 mg, Cink (Cink citrat trihidrat) - 5 mg.",
+    "compound": "Ekstrakt ploda palme sabalice (Serenoa repens), ekstrakt korijena koprive (Urtica dioica), cinkov citrat trihidrat, ekstrakt korijena mace",
     "usage": "1 kapsula 1-2 puta dnevno uz obrok. Trajanje jedne kure je 45 dana. Ako je potrebno, kura se može ponoviti. Preporučena dnevna doza - 2 kapsule.",
     "contraindications": "Individualna netolerancija na bilo koji od sastojaka, dječja dob (do 18 godina). Prije uzimanja preporučuje se konzultirati sa svojim stručnjakom. To nije lijek. Nemojte prekoračiti preporučenu dnevnu dozu. Čuvati izvan dohvata djece. Ovaj dodatak prehrani ne bi trebao zamijeniti raznoliku prehranu.",
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine",
     "keep": "čuvati na suhom mjestu, izvan dohvata djece, na temperaturi ne višoj od +25°С."
   },
-  "depanten": {
-    "title": "Depanten",
+  "femixal": {
+    "title": "Femixal",
     "category": "Za zdravlje",
-    "review_count": "323 recenzija",
-    "niche": "Zglobovi",
-    "form_factor": "kartonska kutija, bočica s pumpicom od 25 ml, gel",
-    "short_description": "Gel s prirodnim ekstraktima za uklanjanje različitih vrsta bolova u zglobovima i mišićima.",
-    "description": "gel formula za lokalnu primjenu na odgovarajuća bolna područja. Omekšava i vlaži kožu, stimulira metaboličke procese u epidermisu s učinkom hlađenja.",
-    "compound": "Voda, denaturirani alkohol, propilen glikol, ekstrakt cvijeta Chamomilla Recutita, ekstrakt Arnica Montana, niacinamid, glukozamin sulfat, ekstrakt korijena Harpagophytum Procumbens, ekstrakt korijena Symphytum officinale, hidrolizirani kolagen, PEG-40, hidrogenirano ricinusovo ulje, mentol, ulje mente piperita, natrijev hondroitin sulfat, ulje lista eukaliptusa globulusa, kamfor, ulje lista Eugenia Caroyphyllus, ulje lista cimeta kasije, ulje lista Melaleuca Alternifolia, amonijev akriloildimettiltaurat / VP kopolimer, pantenol, ksantanska guma, fenoksietanol, etilheksilglicerin, natrijev hijaluronat, alantoin, dinatrijev EDTA, linalool, limonen, eugenol.",
-    "usage": "Nanositit malu količinu proizvoda kružnim masažnim pokretima dok se potpuno ne upije 2-3 puta dnevno. Prije upotrebe napravite test kompatibilnosti s kožom.",
-    "contraindications": "proizvod je namijenjen samo lokalnoj uporabi. Izbjegavajte kontakt s očima i sluznicom. U slučaju kontakta temeljito isperite vodom! Ne smije se koristiti djeci mlađoj od tri godine, trudnicama i dojiljama te izravno na otvorenim ranama.",
-    "manufacturer": "Dalmatika (Bugarska)",
+    "review_count": "382 recenzije",
+    "niche": "Mokraćni sustav",
+    "form_factor": "Kapsule, 10 komada",
+    "short_description": "Biljni kompleks za podršku zdravlju i udobnosti mokraćnog sustava",
+    "description": "Femixal je osmišljen kao prirodni proizvod za podršku funkcionalnom stanju mokraćnih organa.  Formula na bazi ekstrakta brusnice i D-manoze pomaže u jačanju zaštitnih barijera mjehura, što sprječava pričvršćivanje patogenih mikroorganizama na njegove stijenke. Zahvaljujući kombinaciji aktivnih sastojaka, proizvod podržava prirodne procese čišćenja mokraćnog sustava i pomaže u održavanju njihove higijene. Redovita upotreba doprinosi općem jačanju lokalnog imuniteta i smanjenju nelagode povezane s funkcionalnim poremećajima mokraćnog sustava.  Kompleks djeluje nježno, bez narušavanja prirodne ravnoteže tijela, te je dio zdravog načina života",
+    "compound": "Ekstrakt brusnice (Vaccinium macrocarpon, 25% PAC), D-manoza, ekstrakt korijena maslačka. omoćne tvari: želatina (ovojnica kapsule), mikrokristalna celuloza, sredstvo protiv zgrudnjavanja magnezijeve soli masnih kiselina.",
+    "usage": "Preporučuje se uzimanje 1-2 kapsule dnevno, uz jelo. Nemojte prekoračiti preporučenu dnevnu dozu.",
+    "contraindications": "Individualna osjetljivost na pojedine komponente. Prije početka uzimanja tijekom trudnoće ili dojenja, trebate se posavjetovati sa stručnjakom.",
+    "manufacturer": "Dalmatika",
     "suitability": "2 godine",
-    "keep": "čuvati na suhom mjestu, izvan dohvata djece, na temperaturi ne višoj od +25°С."
+    "keep": "Čuvati na suhom mjestu, od dohvata male djece na temperaturi do 25°C."
+  },
+  "ultiplex": {
+    "title": "Ultiplex",
+    "category": "Pentru sănătate",
+    "review_count": "486 recenzii",
+    "niche": "Imunitate și întărire generală",
+    "form_factor": "Capsule, 20 bucăți",
+    "short_description": "Complex multivitaminic „12 în 1” pentru susținerea forțelor de apărare ale organismului și a echilibrului energetic",
+    "description": "UltiPlex a fost conceput pentru susținerea completă a organismului și întărirea sistemului imunitar. Datorită combinației de 12 ingrediente active — vitamine, minerale și extracte din plante — complexul contribuie la creșterea rezistenței la factorii sezonieri și la iritanții externi. Produsul ajută la menținerea unui nivel ridicat de tonus vital, favorizează metabolismul energetic normal și protejează celulele împotriva stresului oxidativ. Componentele vegetale din compoziție susțin funcționarea sistemelor nervos și cardiovascular, ajutând organismul să se adapteze la eforturile fizice și emoționale.",
+    "compound": "Vitamina C (40,00 mg), vitamina B1 (0,70 mg), vitamina B2 (0,70 mg), vitamina B6 (0,70 mg), vitamina B12 (0,00125 mg), vitamina E (3,00 mg), vitamina D3 (0,005 mg), zinc (3,00 mg), crom (0,02 mg), seleniu (0,055 mg) din L-metionină de seleniu, calciu (10,00 mg), glicină (10,00 mg), extract de echinacee (10,00 mg), extract de soc (10,00 mg), extract de ghimbir (5,00 mg), extract de hibiscus (7,00 mg). Substanțe auxiliare: gelatină (învelișul capsulei), celuloză microcristalină, agent antiaglomerant: săruri de magneziu ale acizilor grași.",
+    "usage": "Adulților li se recomandă să ia câte 1–2 capsule pe zi, în timpul mesei. Nu depășiți doza zilnică recomandată.",
+    "contraindications": "Sensibilitate individuală la ingrediente; copii. Femeile însărcinate și cele care alăptează trebuie să consulte un specialist înainte de utilizare.",
+    "manufacturer": "Contract Pharma",
+    "suitability": "24 luni",
+    "keep": "A se păstra într-un loc uscat, la îndemâna copiilor, la o temperatură de maximum +25 °C."
+  },
+  "remofix": {
+    "title": "Remofix",
+    "category": "Az egészségért",
+    "review_count": "427 hozzászólás",
+    "niche": "Mozgásszervi rendszer (ízületek)",
+    "form_factor": "Gél, 15 ml",
+    "short_description": "Termék ízületek napi ápolására és a komfortérzet támogatására önmasszázs során.",
+    "description": "A Remofix az ízületek – a kéz, láb, térd és nyak – funkcionális állapotának támogatására lett kifejlesztve. A növényi kivonatokon és illóolajokon alapuló gél formulája segít csökkenteni a feszültség és nehézség érzetét, amely gyakran jelentkezik hosszan tartó fizikai terhelés vagy életkorral összefüggő változások következtében. A készítmény ideális önmasszázshoz. Bedörzsöléskor az aktív összetevők hozzájárulnak a helyi mikrokeringés javításához, ami segíti a szövetek ellazulását és a természetes mozgékonyság fenntartását. A gél rendszeres használata segít az ízületek mindennapi terheléshez való alkalmazkodásában, könnyedség érzetét biztosítva. A termék lábápolás részeként is használható hallux valgus esetén jelentkező kellemetlenség és duzzanat csökkentésére.",
+    "compound": "Dimethyl sulfone (MSM), Chamomilla Recutita virágkivonat, Arnica Montana virágkivonat, Niacinamid, Boswellia Serrata kivonat, Harpagophytum Procumbens (ördögkarom) gyökérkivonat, hidrolizált kollagén, Mentha Piperita olaj, Eucalyptus Globulus levél/ág olaj, kámfor, mentol, Palmitoyl Tripeptide-38, panthenol, nátrium-hialuronát, allantoin.",
+    "usage": "Vigyen fel kis mennyiségű gélt a problémás területre és annak környékére, majd finom masszírozó mozdulatokkal dörzsölje be, amíg teljesen fel nem szívódik. A kezelést szükség szerint korlátozás nélkül ismételheti.",
+    "contraindications": "Kizárólag külső használatra. Ne alkalmazza sérült bőrön vagy nyílt sebek esetén. Egyéni érzékenység a komponensekre, gyermekkor, terhesség és szoptatás ideje alatt nem ajánlott.",
+    "manufacturer": "Millmax",
+    "suitability": "24 hónap",
+    "keep": "Száraz, gyermekektől elzárt helyen, legfeljebb +25°C-on tárolandó"
   },
   "urosaf": {
     "title": "Urosaf",
@@ -1813,8 +2211,8 @@
     "niche": "Zglobovi",
     "form_factor": "kartonska kutija, bočica s pumpicom od 25 ml, gel",
     "short_description": "Gel sadrži bogatu paletu biološki aktivnih sastojaka koji potiču metaboličke procese u epidermisu i djeluju na sve vrste bolova i upala, ima učinak hlađenja.",
-    "description": "Gel formula za lokalnu primjenu u odgovarajućim žarištima boli. Gel sadrži bogatu paletu biološki aktivnih sastojaka: vitamin B3, B5, alantoin, hijaluronsku kiselinu, glukozamin, kondroitin, hidrolizirani kolagen, kamfor, mentol, biljne ekstrakte kamilice, gaveza, vražje kandže, arnike i eterična ulja klinčića, eukaliptusa, čajevac, cimet. Omekšava i vlaži kožu, potičući metaboličke procese u epidermi s učinkom hlađenja.",
-    "compound": "Voda, denaturirani alkohol, propilen glikol, ekstrakt cvijeta Chamomilla Recutita, ekstrakt Arnica Montana, niacinamid, glukozamin sulfat, ekstrakt korijena Harpagophytum Procumbens, ekstrakt korijena Symphytum officinale, hidrolizirani kolagen, PEG-40, hidrogenirano ricinusovo ulje, mentol, ulje mente piperita, natrijev hondroitin sulfat, ulje lista eukaliptusa globulusa, kamfor, ulje lista Eugenia Caroyphyllus, ulje lista cimeta kasije, ulje lista Melaleuca Alternifolia, amonijev akriloildimettiltaurat / VP kopolimer, pantenol, ksantanska guma, fenoksietanol, etilheksilglicerin, natrijev hijaluronat, alantoin, dinatrijev EDTA, linalool, limonen, eugenol.",
+    "description": "Gel sadrži bogat spektar biološki aktivnih sastojaka: vitamine B3 i B5, alantoin, hijaluronsku kiselinu, hidrolizirani kolagen, kamfor, mentol, ekstrakte biljaka kamilice, gaveza, vražje kandže i arnike te eterična ulja klinčića i eukaliptusa. Omekšava i vlaži kožu, potičući metaboličke procese u epidermi s učinkom hlađenja.",
+    "compound": "Voda, propilen glikol, alkohol, dimetil sulfon (MSM), glicerin, ekstrakt cvijeta kamilice (Chamomilla Recutita), ekstrakt cvijeta arnike (Arnica Montana), niacinamid, ekstrakt Boswellia serrata, ekstrakt korijena Harpagophytum Procumbens (Harpagophytum Procumbens), hidrolizirani kolagen, PEG-40 hidrogenirano ricinusovo ulje, ulje metvice (Mentha Piperita), ulje lista/grančice eukaliptusa (Eucalyptus Globulus), kamfor, mentol, akrilati/C10-30 alkil akrilatni krospolimer, hidroksipropil ciklodekstrin, palmitoil tripeptid-38, pantenol, fenoksietanol, etilheksilglicerin, natrijev hijaluronat, natrijev hidroksid, alantoin, maltodekstrin, klorfenezin, dinatrijev EDTA, dikalijev EDTA, limunska kiselina, natrijev benzoat, kalijev sorbat, limonen.",
     "usage": "Nanositit malu količinu proizvoda kružnim masažnim pokretima dok se potpuno ne upije 2-3 puta dnevno. Prije upotrebe napravite test kompatibilnosti s kožom.",
     "contraindications": "proizvod je namijenjen samo lokalnoj uporabi. Izbjegavajte kontakt s očima i sluznicom. U slučaju kontakta temeljito isperite vodom! Ne smije se koristiti djeci mlađoj od tri godine, trudnicama i dojiljama te izravno na otvorenim ranama.",
     "manufacturer": "Dalmatika (Bugarska)",
@@ -1831,7 +2229,7 @@
     "description": "kompleks biljnih komponenti za normalizaciju stanja tijela, regulaciju metabolizma i aktiviranje procesa obnove kože.",
     "compound": "Aqua, glicerin, propilen glikol, alkohol denat., ekstrakt divljeg kestena, ekstrakt Centella Asiatica, ekstrakt korijena Ruscus Aculeatus, ekstrakt kulture stanica gaveza, ekstrakt cvijeta kamilice, niacinamid, kofein, urea, arginin, amonijev acryloyldimethyltaurate/VP kopolimer, salicilna kiselina, mentol, alantoin, natrijev hijaluronat, fenoksietanol, etilheksilglicerin, dinatrij EDTA.",
     "usage": "nanositi laganim masažnim pokretima 3-5 minuta 2 puta dnevno. Prije nanošenja provedite test podnošljivosti na koži.",
-    "contraindications": "pojedinačna netolerancija na komponente. Izbjegavajte kontakt s očima. Ne primjenjivati na djecu mlađu od tri godine i izravno na otvorene rane.",
+    "contraindications": "Trudnoća, dojenje ili individualna intolerancija na bilo koju komponentu proizvoda. Dobna ograničenja: Ne koristiti osobama mlađim od 18 godina.",
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine",
     "keep": "čuvati na suhom i tamnom mjestu, na temperaturi od 0°С do 25°С."
@@ -1840,13 +2238,13 @@
     "title": "Demyxil",
     "category": "Za zdravlje",
     "review_count": "301 recenzija",
-    "niche": "Gljivice",
+    "niche": "Gljivice, psorijaza",
     "form_factor": "krema, 30 ml",
-    "short_description": "Krema s baktericidnim djelovanjem usmjerena na borbu protiv manifestacija gljivica.",
+    "short_description": "Dermatološko rješenje za kožu i nokte s gljivičnim infekcijama i psorijazom.",
     "description": "Sadrži bioaktivne komponente sa širokim spektrom dermatoloških i kozmetičkih svojstava. Promiče normalnu mikrofloru i ima umirujući učinak na kožu. Djeluje keratolitički i uklanja mrtve slojeve kože. Ima učinak vlaženja i omekšavanja kože. Promiče i stimulira obnovu epidermalnih stanica. Namijenjen za održavanje normalnog stanja kože.",
     "compound": "Aqua, glicerin, cetearyl alcohol, paraffinum liquidum, peg-100 stearate, glyceryl stearate, caprylic/capric triglyceride, ekstrakt cvijeta kamilice, maslac butyrospermum parkii, niacinamid, cink oksid, ekstrakt propolisa, kokosovo ulje, sumpor, alcloxa, salicilna kiselina, ekstrakt kore bijele vrbe, ekstrakt kore/lišća bijele breze, eterično ulje drva kleke, polisorbate 80, eterično ulje listova melaleuca alternifolia, eterično ulje paprene metvice, ksantanska guma, 4-terpineol, pirokton olamin, fenoksietanol, etilheksilglicerin, bht, dinatrij edta, linalool, limonen.",
     "usage": "nanositi na dobro očišćenu i suhu kožu zahvaćenog područja tijela laganim masažnim pokretima odozdo prema gore. Prije uporabe, svakako napravite test tolerancije kože na komponente sredstva. <span class=\"color: red\"> Pažnja: izbjegavajte kontakt s očima.",
-    "contraindications": "Ne primjenjivati na djecu mlađu od 3 godine, trudnice i dojilje. Ne nanositi na otvorene rane.",
+    "contraindications": "Trudnoća, dojenje ili individualna intolerancija na bilo koju komponentu proizvoda. Dobna ograničenja: Ne koristiti osobama mlađim od 18 godina.",
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine",
     "keep": "čuvati na suhom mjestu, izvan dohvata djece, na temperaturi ne višoj od +25°С."
@@ -1880,6 +2278,36 @@
     "manufacturer": "Dalmatika (Bugarska)",
     "suitability": "2 godine",
     "keep": "čuvati na suhom mjestu, izvan dohvata djece, na temperaturi ne višoj od +25°С."
+  },
+  "oculax": {
+    "title": "Oculax",
+    "category": "SVEIKATOS PALAIKYMUI",
+    "review_count": "492 atsiliepimai",
+    "niche": "Regėjimas",
+    "form_factor": "Kapsulės, 20 vnt.",
+    "short_description": "Kompleksas regėjimo komfortui palaikyti ir akims apsaugoti nuo nuovargio.",
+    "description": "Oculax yra subalansuota formulė, skirta palaikyti regėjimo sistemos funkcinę būklę kasdienio streso metu. B grupės vitaminų, cinko ir seleno derinys padeda stiprinti kapiliarus ir palaiko normalų nervinių impulsų perdavimą. Produktas padeda akims greičiau prisitaikyti prie ryškios šviesos ir sumažina nuovargio jausmą ilgai naudojantis skaitmeniniais prietaisais. Dėl komponentų antioksidacinių savybių kompleksas padeda apsaugoti akių audinius nuo oksidacinių procesų ir mėlynojo spektro šviesos poveikio. Reguliarus vartojimas padeda palaikyti tinklainės sveikatą ir stabilų akispūdį, o tai yra svarbi regėjimo priežiūros dalis bet kuriame amžiuje.",
+    "compound": "Vitaminas C (L-askorbo rūgštis) 40,00 mg, vitaminas B1 (tiamino hidrochloridas) 0,55 mg, vitaminas B2 (riboflavinas) 0,70 mg, vitaminas B6 (piridoksino hidrochloridas) 0,70 mg, vitaminas B12 (kobalaminas) 0,00125 mg, vitaminas E (α-TE) 3,00 mg, vitaminas D3 (cholekalciferolis) 0,0025 mg, cinkas (cinko gliukonatas) 3,00 mg, chromas (chromo pikolinatas) 0,02 mg, selenas (natrio selenatas) 0,0275 mg, kalcis (kalcio karbonatas) 10,00 mg, glicinas 10,00 mg, ežiuolės (Echinacea purpurea) ekstraktas 4:1 10,00 mg, šeivamedžio (Sambucus nigra) ekstraktas 4:1 10,00 mg, imbiero šaknies ekstraktas (Zingiber officinale) 4:1 5,00 mg, hibisko žiedų ekstraktas (Hibiscus sabdariffa) 4:1 7,00 mg.",
+    "usage": "Suaugusiesiems rekomenduojama gerti po 1 kapsulę 2 kartus per dieną prieš valgį. Rekomenduojama kurso trukmė – 2 mėnesiai. Prireikus kursą galima kartoti.",
+    "contraindications": "Individualus  netoleravimas komponentams, vaikų amžius. Neviršykite rekomenduojamos paros dozės. Maisto papildas neturėtų pakeisti visavertės mitybos.",
+    "manufacturer": "Millmax",
+    "suitability": "24 mėnesiai",
+    "keep": "laikyti sausoje vietoje, apsaugotoje nuo saulės spindulių, ne aukštesnėje kaip +25 °C temperatūroje."
+  },
+  "kardivix": {
+    "title": "Kardivix",
+    "category": "Zdrowie",
+    "review_count": "333 kommentaari",
+    "niche": "Südame-veresoonkond",
+    "form_factor": "Kapslid, 10 tk",
+    "short_description": "Vitamiinidel ja taimedel põhinev kompleks veresoonte tugevdamiseks ja südame töö toetamiseks.",
+    "description": "Kardivix on tasakaalustatud vitamiinide, mineraalide ja taimsete ekstraktide kombinatsioon, mis on loodud südame-veresoonkonna funktsionaalse seisundi parendamiseks. Toetab veresoonte seinte loomulikku tugevust ja elastsust. Tänu aktiivsetele koostisosadele aitab toode organismil hoida tervisliku kolesterooli taset ning toetab optimaalset energiavahetust südamelihase rakkudes. Regulaarne kapslite võtmine võib olla osa ennetavast lähenemisest vererõhu kontrollimisel, kuna valem on suunatud veresoonte kaitsmisele oksüdatiivse stressi eest ning normaalse vereringe toetamisele.",
+    "compound": "C-vitamiin (L-askorbiinhape) 40,00 mg, B1-vitamiin (tiamiiinhüdrokloriid) 0,55 mg, B2-vitamiin (riboflaviin) 0,70 mg, B6-vitamiin (püridoksiinhüdrokloriid) 0,70 mg, B12-vitamiin (kobalamiin) 0,00125 mg, E-vitamiin (α-TE) 3,00 mg, D3-vitamiin (kolekaltsiferool) 0,0025 mg, tsink (tsinkaglükonaat) 3,00 mg, kroom (kroomipikolinaat) 0,02 mg, seleen (naatriumselenaaat) 0,0275 mg, kaltsium (kaltsiumkarbonaat) 10,00 mg, glütsiin 10,00 mg, punase siilkübara ekstrakt (Echinacea purpurea) 4:1 10,00 mg, leedri ekstrakt (Sambucus nigra) 4:1 10,00 mg, ingverijuure ekstrakt (Zingiber officinale) 4:1 5,00 mg, hiibisku õite ekstrakt (Hibiscus sabdariffa) 4:1 7,00 mg.",
+    "usage": "Täiskasvanutele on soovitatav võtta 1 kapsel 2 korda päevas söögi ajal. Soovitatav kuuri kestus on 1 kuu. Vajadusel võib kuuri pärast pausi korrata. Ärge ületage soovituslikku päevast annust (2 kapslit).",
+    "contraindications": "Individuaalne talumatus komponentide suhtes, ei sobi lastele. Toidulisand ei asenda täisväärtuslikku toitumist.",
+    "manufacturer": "Contract Pharma",
+    "suitability": "24 kuud",
+    "keep": "Hoida kuivas, lastele kättesaamatus kohas temperatuuril mitte üle +25°C."
   },
   "vasos_duo": {
     "title": "Vasos Duo",
@@ -1949,12 +2377,17 @@
     "guavital": {
       "productName": "GUAVITAL+",
       "salePrice": "26",
-      "newPrice": "112"
+      "newPrice": "113"
+    },
+    "ultraxal": {
+      "productName": "Ultraxal",
+      "salePrice": "514",
+      "newPrice": "77"
     },
     "trovazin": {
       "productName": "Trovazin",
       "salePrice": "24",
-      "newPrice": "82"
+      "newPrice": "83"
     },
     "desalix": {
       "productName": "Desalix",
@@ -1969,7 +2402,7 @@
     "exurol": {
       "productName": "Exurol",
       "salePrice": "26",
-      "newPrice": "102"
+      "newPrice": "104"
     },
     "visoptic_duo_night": {
       "productName": "Visoptic DUO Night",
@@ -1984,17 +2417,17 @@
     "beauty_age_skin": {
       "productName": "Beauty Age Skin",
       "salePrice": "26",
-      "newPrice": "165"
+      "newPrice": "163"
     },
     "beauty_age_skin_peeling": {
       "productName": "Beauty Age Skin Peeling",
       "salePrice": "24",
-      "newPrice": "135"
+      "newPrice": "133"
     },
     "ausen": {
       "productName": "Ausen",
       "salePrice": "26",
-      "newPrice": "136"
+      "newPrice": "137"
     },
     "vermixin": {
       "productName": "Vermixin",
@@ -2006,53 +2439,73 @@
       "salePrice": "25",
       "newPrice": "125"
     },
-    "depanten": {
-      "productName": "Depanten",
-      "salePrice": "24",
-      "newPrice": "77"
+    "femixal": {
+      "productName": "Femixal",
+      "salePrice": "44",
+      "newPrice": "108"
+    },
+    "ultiplex": {
+      "productName": "Ultiplex",
+      "salePrice": "150",
+      "newPrice": "393"
+    },
+    "remofix": {
+      "productName": "Remofix",
+      "salePrice": "10637",
+      "newPrice": "38385"
     },
     "urosaf": {
       "productName": "Urosaf",
       "salePrice": "24",
-      "newPrice": "139"
+      "newPrice": "141"
     },
     "steplex": {
       "productName": "Steplex",
       "salePrice": "26",
-      "newPrice": "75"
+      "newPrice": "74"
     },
     "vasaxal": {
       "productName": "Vasaxal",
       "salePrice": "25",
-      "newPrice": "73"
+      "newPrice": "74"
     },
     "demyxil": {
       "productName": "Demyxil",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "81"
     },
     "delislim": {
       "productName": "Delislim",
       "salePrice": "26",
-      "newPrice": "82"
+      "newPrice": "81"
     },
     "ophtalax": {
       "productName": "Ophtalax",
       "salePrice": "26",
-      "newPrice": "119"
+      "newPrice": "118"
+    },
+    "oculax": {
+      "productName": "Oculax",
+      "salePrice": "26",
+      "newPrice": "113"
+    },
+    "kardivix": {
+      "productName": "Kardivix",
+      "salePrice": "26",
+      "newPrice": "108"
     },
     "vasos_duo": {
       "productName": "Vasos Duo",
       "salePrice": "26",
-      "newPrice": "80"
+      "newPrice": "81"
     }
   },
 
 
   "success": {
     "success_title": "Hvala na Vašoj narudžbi!",
-    "success_text1": "Hvala što ste odabrali našu tvrtku! <br/> Kontaktirat ćemo Vas s brojem 385919156507 za nekoliko minuta radi pojedinosti o narudžbi.",
-    "success_text2": "<span class=\"js-success-product-name\"></span> obnovio zdravlje tisućama ljudi.<br/> Na pravom ste putu!",
+    "success_text1": "Hvala što ste odabrali našu tvrtku! Kontaktirat ćemo Vas s brojem 385919156507 za nekoliko minuta radi pojedinosti o narudžbi.",
+    "success_text2": "<span class=\"js-success-product-name\"></span> obnovio zdravlje tisućama ljudi. Na pravom ste putu!",
     "success_text3": "Prosječno vrijeme čekanja poziva - 5 minuta",
     "success_text4": "Dostupnost robe Na zalihama",
     "success_text5": "Ostatak zaliha 60 komada"
@@ -3516,450 +3969,13 @@
         ]
       }
     ],
-    "reviews_depanten": [
-      {
-        "src": "img/review_depanten_1.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Mihaela Voća",
-        "text": "Naručila sam Depanten gel za mamu. Jako joj se sviđa. Brzo ublažava bol u zglobovima, počela se više kretati. Odbija druga sredstva.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_2.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Marko Buj",
-        "text": "Pomogao mi je u oporavku od ozljede koljena. Ublažio je bol, oticanje i upalu. Dobro pomaže i kod bolova u mišićima.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_3.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Stefan Dojčinović",
-        "text": "Djeluje brzo, nakon prve primjene već je lakše. Svakim danom je postajalo sve bolje. Zadovoljan sam proizvodom i njegova cijena je izvrsna!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_4.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Vedrana Brkić",
-        "text": "Ugodni osjećaji nakon nanošenja, ne peče i ne gori, samo ugodna hladnoća. Zglobovi su me prestali boljeti, ali i dalje ga koristim.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_5.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Lana Šicl",
-        "text": "Upala zgloba uklonjena za nekoliko dana. Uvijek ga držim pri ruci, ovo nije prvi put da naručujem.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_6.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Kolinda Ferges",
-        "text": "Dobro pomaže i kod sportskih ozljeda i kod dobnih problema sa zglobovima i kostima. Djeluje brzo, ne uzrokuje neugodne osjećaje.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_7.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Leo Frakić",
-        "text": "Naručio sam Depanten prije nekoliko tjedana. Sredstvom sam zadovoljan. Dostavljeno brzo i dobio sam odgovor na sva pitanja telefonom. Hvala!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_8.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Dolores Kukić",
-        "text": "Mama je imala upalu lakatnog zgloba, nije mogla pomaknuti ruku, Depanten je pomogao! Upala i bol su nestali, nakon kure primjene prestala se žaliti na bol u zglobovima.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_9.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Damir Hrelja",
-        "text": "Kao bivši sportaš imam problema sa zglobovima. Samo Depanten pomaže. S njim mogu živjeti bez boli!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_10.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Anica Dejanović",
-        "text": "Pomogao odmah! Prije toga isprobala sam toliko sredstava, ali nisu mogli pomoći u potpunosti riješiti boli. Depanten je najefikasniji gel od svega što sam koristila.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_11.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Mirzeta Bukić",
-        "text": "Gel je odličan, pomogao mi je da obnovim zglob i riješim se bolova u koljenu. Krckanje i crvenilo su nestali. Troši se štedljivo.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_12.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Klementina Bošnjak",
-        "text": "Depanten djeluje bolje od tableta protiv bolova, a također obnavlja zglob. Sada koristim samo ovaj gel, osjećam rezultat!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_13.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Anica Jelaska",
-        "text": "Provjerila sam i uvjerila se: Depanten — najbrža i najučinkovitija pomoć bolnim zglobovima. Nema više ni upale, ni oteklina! Izvrsno pomaže!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_14.png",
-        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Zrinka Džajić",
-        "text": "Lani sam koristila Depanten. Pomogao mi je da se riješim boli i vratim pokretljivost. Koliko je vremena prošlo, nikad nije bilo recidiva.",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      },
-      {
-        "src": "img/review_depanten_15.png",
-        "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEPANTEN",
-        "rating_text": "Odlična kvaliteta!",
-        "name": "Boris Antić",
-        "text": "Učinkovito sredstvo po pristupačnoj cijeni. Bol se odmah uklanja, upala i oteklina postupno nestaju. Potpuno zadovoljan! 10 od 10!",
-        "stars": [
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star.svg",
-            "type": "full"
-          },
-          {
-            "src": "img/svg/star-empty.svg",
-            "type": "empty"
-          }
-        ]
-      }
-    ],
     "reviews_desalix": [
       {
         "src": "img/review_desalix_1.png",
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;Desalix",
         "rating_text": "Odlična kvaliteta!",
         "name": "Helena Šestan",
-        "text": "Prošle godine sam probala kapi Desalix. Problem je nestao i od tada se nije pojavio. Koža i nokti na nogama su zdravi, ništa ne smeta.",
+        "text": "Prošle godine sam probala Desalix kremu. Problem je nestao i od tada se nije pojavio. Koža i nokti na nogama su zdravi, ništa ne smeta.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4862,7 +4878,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lara Gulin",
-        "text": "Nedavno sam otkrila da je sva koža na vratu u papilomima. Odlučila sam probati kremu Demyxil. Pomoglo je. Prilično učinkovit proizvod. Brzo sam se riješila papiloma, koža je postala zdrava i hidratizirana!",
+        "text": "Nedavno sam otkrila da mi je cijela koža na vratu prekrivena psorijazom. Odlučila sam isprobati Demyxil kremu. Pomogla je. Prilično je učinkovita. Brzo sam se riješila psorijaze, a koža mi je postala zdrava i hidratizirana!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -4949,7 +4965,7 @@
         "desc": "<span class=\"review__mark\">podijelio je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Krešimir Vukman",
-        "text": "Dobro pomaže kod dermatoloških problema. Supruga se uspjela riješiti papiloma, a ja psorijaze. Nije izazvao nikakve nuspojave.",
+        "text": "Ovaj proizvod dobro djeluje kod dermatoloških problema. Moja supruga i ja uspjeli smo se riješiti psorijaze. Nisu uočene nikakve nuspojave!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5094,7 +5110,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Karla Božiković",
-        "text": "Pomaže u brzom čišćenju kože od papiloma, nema ožiljaka. Nakon kure upotrebe, izrasline su se prestale stvarati na vratu, ramenima i pazuhu.",
+        "text": "Pomaže brzo ukloniti psorijazu s kože bez ostavljanja ožiljaka. Moja psorijaza se nije vratila od završetka kure.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -5239,7 +5255,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;DEMYXIL",
         "rating_text": "Odlična kvaliteta!",
         "name": "Lucija Vaupotić",
-        "text": "Najbolja krema za dermatološke probleme. Procijenila sam učinkovitost u borbi protiv gljivica i papiloma. Zahvaljujući sredstvu Demyxil, moja koža je potpuno zdrava!",
+        "text": "Najbolja krema za dermatološke probleme. Procijenila sam učinkovitost u borbi protiv gljivica. Zahvaljujući sredstvu Demyxil, moja koža je potpuno zdrava!",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -8907,6 +8923,1149 @@
         ]
       }
     ],
+    "reviews_femixal": [
+      {
+        "src": "img/review_femixal_1.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Mirela Novak",
+        "text": "Iskreno, ne sjećam se kada sam zadnji put mogla dugo šetati parkom, a da nisam morala planirati rutu od jednog javnog WC-a do drugog. Taj stalni osjećaj pritiska u donjem dijelu trbuha me psihički iscrpljivao, ali nakon što sam počela uzimati ovaj biljni kompleks, stvari su se konačno počele mijenjati nabolje.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_2.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Jana Kovačević",
+        "text": "Femixal sam počela koristiti na savjet prijateljice i iako u početku nisam baš vjerovala u njegov uspjeh, nakon samo 10 dana primijetila sam da mi je san postao puno čvršći, jer mi je tijelo prestalo davati te alarmne signale usred noći.  Nevjerojatan je osjećaj probuditi se ujutro osvježen i znati da vam mokraćni sustav konačno stabilno i mirno radi.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_3.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Ivana Horvat",
+        "text": "Ovaj prirodni proizvod bio je pravo otkriće za mene, jer djeluje vrlo nježno, bez ikakvih nuspojava, a istovremeno pomaže u održavanju unutarnje udobnosti čak i po vlažnom vremenu.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_4.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Gordana Novak",
+        "text": "Dugo sam tražila nježan način da podržim svoje tijelo, a ovaj proizvod je savršen za mene, jer pomaže u jačanju mišića i uspostavljanju normalnog ritma odlaska na WC.  Sada mogu sigurno otići u posjet prijateljima ili u kino bez brige o nepredviđenim situacijama koje su me prije dovodile u neugodan položaj.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_5.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Jelena Petrova",
+        "text": "Femixal ima kumulativni učinak - svakim danom uzimanja osjećala sam da je napetost u području mjehura sve manja, a porivi sve manje oštri i češći. Jako sam zadovoljna rezultatom.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_6.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Marija Vargova",
+        "text": "Ovaj kompleks privukao mi je pažnju svojim bogatim i istovremeno sigurnim sastavom bez agresivnih kemikalija.  Osjećaj težine u donjem dijelu trbuha prilično je brzo nestao, a primijetila sam da se opće stanje mokraćnih putova znatno poboljšalo te da je nestala vječna razdražljivost i nelagoda.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_7.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Marija Pavlović",
+        "text": "Naručila sam ovaj proizvod online jer su mi ljekarne nudile samo neke standardne stvari koje mi prije nisu puno pomagale. Dostava je bila brza i odmah sam započela s kurom, nadajući se barem nekom rezultatu, ali učinak je nadmašio sva moja očekivanja - konačno sam prestala biti \"vezana\" za WC.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_8.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Anja Zupančić",
+        "text": "Završila sam cijelu kuru i mogu reći da mi se kvaliteta života znatno poboljšala, jer je nestala vječna tjeskoba koja me pratila svaki put kad bih izašla iz kuće.  Ovo je zaista visokokvalitetna podrška ženskom tijelu, koja vraća osjećaj čistoće, suhoće i potpune udobnosti tijekom cijelog dana.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_9.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Desislava Ivanova",
+        "text": "Zahvaljujući ovim kapsulama, ponovno mogu održavati normalnu ravnotežu vode, jer mi je tijelo postalo puno smirenije u reagiranju na tekućinu, a moji porivi su postali normalni, a ne hitni.  Osjećam da mi bubrezi i mjehur sada rade u skladu, a to mi omogućuje da se osjećam puno energičnije.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_10.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Katarina Josipović",
+        "text": "Femixal djeluje vrlo nježno, bez opterećenja drugih organa, a istovremeno daje trajan rezultat koji osjećam svaki dan.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_11.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Zuzana Poljakova",
+        "text": "Ovaj proizvod mi je pomogao ojačati lokalni imunitet i ukloniti onu dodatnu osjetljivost koja me je prije tjerala da odustanem od aktivnog načina života. Sada znam da mi mokraćni sustav radi stabilno i bez ikakvih \"iznenađenja\".",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_12.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Ana Marić",
+        "text": "Ono što me se najviše dojmilo kod ovog proizvoda je koliko je brzo nestao onaj neugodan osjećaj nepotpunosti nakon odlaska na WC, koji mi je prije bio stalni pratitelj. Osjećam da su stijenke mog mjehura manje iritirane i više ne osjećam taj stalni lažni pritisak.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_femixal_13.png",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;FEMIXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "name": "Krunoslava Leonović",
+        "text": "Ovaj proizvod mi je pomogao da prebrodim vrlo tešku zimu, kada sam se stalno smrzavala na autobusnim stanicama i zbog toga sam imala velikih problema s čestim mokrenjem. Kapsule su pomogle mom tijelu da postane otpornije na hladnoću, a primijetila sam da nelagoda više nije toliko izražena u prvom tjednu uzimanja.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      }
+    ],
+    "reviews_ultiplex": [
+      {
+        "src": "img/review_ultiplex_1.png",
+        "name": "Andrei Popescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "De obicei, toamna înseamnă pentru mine o rinită continuă și o senzație constantă de epuizare, dar anul acesta am decis să-mi întăresc organismul din timp și am comandat acest complex doar pentru compozița sa bogată. Mi-a plăcut foarte mult faptul că conține nu doar vitamine, ci și extracte de soc și echinacee, care ajută cu adevărat să rămâi în formă atunci când toți cei din jur încep să strănute."
+      },
+
+      {
+        "src": "img/review_ultiplex_2.png",
+        "name": "Elena Radu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Simt cum forțele de apărare ale organismului s-au întărit, pentru că, chiar și atunci când jumătate dintre colegii de la birou au intrat în concediu medical, eu mă simt plină de energie și absolut sănătoasă."
+      },
+
+      {
+        "src": "img/review_ultiplex_3.png",
+        "name": "Ionuț Dumitru",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Am început să iau acest complex multivitaminic luna trecută și, deși la început eram sceptic, după doar două săptămâni am simțit un adevărat val de energie. Probabil că vitaminele din grupa B și seleniul din compoziție și-au făcut efectul, pentru că starea de spirit a devenit mai stabilă, iar trezirea de dimineață nu mai seamănă cu o luptă pentru supraviețuire."
+      },
+
+      {
+        "src": "img/review_ultiplex_4.png",
+        "name": "Elena Ionescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Iau capsulele deja de trei săptămâni și, pe lângă faptul că nu mai obosesc atât de repede, am observat un bonus plăcut — pielea și părul arată mult mai bine, probabil datorită protecției antioxidante. Sunt foarte recunoscătoare pentru această abordare complexă, deoarece este mult mai simplu decât să iau zilnic o mulțime de pastile diferite, iar pentru stomac este mult mai confortabil."
+      },
+
+      {
+        "src": "img/review_ultiplex_5.png",
+        "name": "Marin Varga",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Am decis să încerc Ultiplex, deoarece mi-a fost recomandat ca remediu pentru întărirea generală a organismului, și nu am regretat niciun moment alegerea mea. Compoziția este pur și simplu puternică: atât vitaminele, cât și mineralele și componentele vegetale acționează împreună astfel încât simți cu adevărat cum organismul se umple de viață și de forță."
+      },
+
+      {
+        "src": "img/review_ultiplex_6.png",
+        "name": "Carmelia Stoica",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Am fost plăcut surprinsă că acest complex nu provoacă niciun disconfort, chiar dacă îl iei pe stomacul gol, deși conform instrucțiunilor trebuie luat în timpul mesei. Mă simt protejată în acest sezon al virusurilor și, cel mai important, a dispărut acea senzație eternă de „ceață” din cap, iar în locul ei au apărut claritatea și productivitatea."
+      },
+
+      {
+        "src": "img/review_ultiplex_7.png",
+        "name": "Martin Popa",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "La acest produs îmi place combinația de zinc și magneziu cu vitamina C, care este ideală pentru susținerea sistemului cardiovascular și a mușchilor în timpul efortului fizic. Îl iau în curs și observ că recuperarea se face acum mult mai repede, iar rezistența generală a crescut vizibil, așa că voi mai comanda."
+      },
+
+      {
+        "src": "img/review_ultiplex_8.png",
+        "name": "Mihaela Ionescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Alegeam mult timp între diferite variante pentru susținerea imunității, dar m-am oprit la Ultiplex pentru că este prezentă glicina în compoziție și vitaminelor din grupa B în compoziție, deoarece doream nu numai să-mi întăresc apărarea, ci și să-mi calmez puțin sistemul nervos. Știți, a funcționat — am început să reacționez mult mai calm la micile probleme cotidiene și, în același timp, nu simt nicio somnolență, ci doar o încredere liniștită și energie."
+      },
+
+      {
+        "src": "img/review_ultiplex_9.png",
+        "name": "Simona Florescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Înainte îmi era mereu frig, chiar și în încăperi, iar acum circulația sanguină pare să se fi îmbunătățit, iar starea generală de sănătate a devenit mult mai stabilă. Cred că extractul de hibiscus și ghimbir are un efect atât de benefic asupra vaselor de sânge, încât acum recomand acest complex tuturor prietenelor care doresc să se simtă pline de energie, indiferent de vremea de afară."
+      },
+
+      {
+        "src": "img/review_ultiplex_10.png",
+        "name": "Viorel Munteanu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Un produs bun la un preț rezonabil, mai ales dacă îl comparăm cu brandurile acelea atât de promovate în farmacii, unde jumătate din preț se datorează doar numelui. Aici văd o compoziție reală cu 12 ingrediente care chiar funcționează, pentru că am încetat să mai simt oboseala aceea cronică încă de la jumătatea zilei de lucru."
+      },
+
+      {
+        "src": "img/review_ultiplex_11.png",
+        "name": "Ioama Ionescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Acest complex multivitaminic mă ajută să mențin un nivel ridicat de tonus vital și simt că celulele mele sunt protejate în mod fiabil împotriva stresului oxidativ. Acest lucru este foarte important pentru păstrarea tinereții și a sănătății pe termen lung, de aceea consider acest produs o investiție în propriul meu viitor."
+      },
+
+      {
+        "src": "img/review_ultiplex_12.png",
+        "name": "Alexandru Georgescu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Călătoresc des în interes de serviciu, iar schimbările de climă și de fus orar reprezintă întotdeauna o mare provocare pentru sistemul meu imunitar, de aceea am mereu la îndemână Ultiplex. Mă ajută să mă adaptez mai repede la noile condiții și mă protejează împotriva infecțiilor în avioane și în locurile publice, unde sunt mereu mulți oameni."
+      },
+
+      {
+        "src": "img/review_ultiplex_13.png",
+        "name": "Lucrețiu Mocanu",
+        "desc": "<span class=\"review__mark\">și-a exprimat</span> părerea&nbsp;ULTIPLEX",
+        "rating_text": "Calitate excelenta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Sunt sceptic în privința suplimentelor, dar soția mea a insistat să iau acest produs după ce am înghețat rău la pescuit și era să mă îmbolnăvesc. Surprinzător, nu am făcut febră, deși de obicei după așa ceva sunt bolnav cel puțin o săptămână, așa că acum cred că aceste extracte din plante chiar funcționează. Acum luăm acest complex împreună cu soția mea"
+      }
+    ],
+    "reviews_remofix": [
+      {
+        "src": "img/review_remofix_1.png",
+        "name": "Nagy Bence",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ezt a gélt egy túraklubos kollégám ajánlotta, és elkezdtem minden este önmasszázs közben használni, hogy csökkentsem az izmok és szalagok kellemetlen feszültségét. Az eredmény szinte azonnal érezhető – a mentol és eukaliptusz kellemes hűsítő hatását enyhe melegség váltja fel, és az ízületek mintha „felolvadnának”, sokkal mozgékonyabbá válnak."
+      },
+
+      {
+        "src": "img/review_remofix_2.png",
+        "name": "Kovács Zsófia",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Már évek óta problémám van a bütyökkel a lábamon. Korábban estére annyira bedagadt a lábam, hogy még papucsot sem tudtam felvenni, de ezzel a készítménnyel sokkal könnyebb kezelni ezt a kellemetlenséget. Vékony rétegben viszem fel és finoman bemasszírozom – gyorsan felszívódik, és szinte azonnal csökkenti a feszítő és égő érzést."
+      },
+
+      {
+        "src": "img/review_remofix_3.png",
+        "name": "Tóth Attila",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "IT-ben dolgozom, ezért a legnagyobb problémám a nyakam és a csuklóm, amelyek a nap végére teljesen bemerevednek a folyamatos monitor előtti munka miatt. A Remofix igazi felfedezés számomra – nem ragad, kellemes természetes illata van, és néhány perc masszázs után tényleg segít ellazítani ezeket a feszült területeket."
+      },
+
+      {
+        "src": "img/review_remofix_4.png",
+        "name": "Varga Gábor",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Egykori sportoló vagyok, ezért a régi bokasérüléseim minden időjárás-változásnál jelentkeznek, különösen amikor eső és magas páratartalom kezdődik. Ez az illóolajokon alapuló komplex sokat segít, mert kíméletesen hat, nem okoz irritációt, ugyanakkor a kámfornak köszönhetően mélyen átmelegíti a területet."
+      },
+
+      {
+        "src": "img/review_remofix_5.png",
+        "name": "Kiss Anikó",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ezt a gélt az édesanyámnak vettem, mert folyamatosan fájdalomra panaszkodott az ujjainál, ami miatt még az olyan egyszerű dolgok is nehézzé váltak számára, mint a varrás vagy a főzés. Azt mondja, hogy mióta rendszeresen önmasszázst végez ezzel a készítménnyel, az ujjai „engedelmesebbek” lettek, és eltűnt az a reggeli merevség, amikor szinte lehetetlen volt ökölbe szorítani a kezét. Nagyon hálás vagyok ezért az összetételért, amely kollagént és hasznos kivonatokat is tartalmaz, mert az idősebb emberek számára az ilyen kíméletes ízületi ápolás valódi megváltás."
+      },
+
+      {
+        "src": "img/review_remofix_6.png",
+        "name": " Molnár Balázs",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "A Remofix tökéletesen bevált regeneráló szerként edzések után, mert kiválóan csökkenti az izomfáradtságot, és segít az ízületeknek gyorsabban visszatérni a normál állapotba. Az állaga nagyon könnyű, kis mennyiség is elegendő, ezért ez a kis kiszerelés is sokáig elég, ha csak a problémás területeken használjuk a lazítás érdekében."
+      },
+
+      {
+        "src": "img/review_remofix_7.png",
+        "name": "Farkas Emese",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Sokáig kerestem valami természetes megoldást a könyökeimre, mert a kerti munka után úgy elkezdenek sajogni, hogy még egy csésze teát is nehéz megtartani. Fontos volt számomra, hogy ne tartalmazzon agresszív vegyi anyagokat, és ez a kamillát és boswelliát tartalmazó változat pontosan az lett, amit a mindennapi használatra kerestem. Naponta kétszer dörzsölöm be a gélt, és észrevettem, hogy az ízületek kevésbé reagálnak a terhelésre, a bőr pedig ezeken a területeken sokkal puhább és kellemesebb tapintású lett."
+      },
+
+      {
+        "src": "img/review_remofix_8.png",
+        "name": "Papp Orsolya",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ez a termék segít megőrizni az aktivitásomat: a derekamra és a vállaimra kenem, mielőtt elindulok a boltba vagy találkozom a barátnőimmel. Nagyon kíméletesen hat, nem csípi a bőrt, hanem inkább egyfajta tartás- és komfortérzetet ad, így néhány órára még a „régi fájdalmaimról” is megfeledkezem."
+      },
+
+      {
+        "src": "img/review_remofix_9.png",
+        "name": "Németh Luka",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Építkezésen dolgozom, ezért a vállaim és a kezeim nap mint nap hatalmas terhelésnek vannak kitéve, amitől az ízületeim néha szó szerint „kicsavarodnak” a fáradtságtól. Egy barátom javasolta, hogy próbáljam ki a Remofix bedörzsölését zuhanyzás után a gyulladás és a feszültség csökkentésére, és ez tényleg segít abban, hogy az izmok gyorsabban regenerálódjanak.Most már ez a gél mindig ott van nálam a munkaruháim között a táskámban, mert még nem találtam jobb módot arra, hogy egy nehéz műszak után gyorsan rendbe hozzam magam."
+      },
+
+      {
+        "src": "img/review_remofix_10.png",
+        "name": "Juhász Mónika",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ezt a komplexet a nyak–vállövi terület masszírozására használom, mert az állandó tankönyv fölé hajolás (még mesterképzésen tanulok) miatt a nyakam elképesztően elmerevedik. Tetszik, hogy a készítmény niacinamidot és panthenolt is tartalmaz, mert ezek jól hatnak a bőrre, a mentol pedig olyan frissítő érzést ad, hogy még a tanulás okozta fáradtság is kissé enyhül.Ez sokkal jobb, mint egy hagyományos masszázskrém, mert a lazító hatás jóval mélyebb és tartósabb."
+      },
+
+      {
+        "src": "img/review_remofix_11.png",
+        "name": "Mészáros Zoltán",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Nemrég focizás közben szerencsétlenül kificamítottam a lábamat, és bár nem történt semmi komoly, a duzzanat és az ízületi diszkomfort néhány napig nem hagyott nyugodni. Elkezdtem Remofixet használni, hogy segítsem a szövetek gyorsabb regenerálódását, és meglepett, milyen gyorsan elmúlt ez a kékes elszíneződés és a járás közbeni nehézség. A gél nagyon jól javítja a mikrokeringést."
+      },
+
+      {
+        "src": "img/review_remofix_12.png",
+        "name": "Fekete Tamás",
+        "desc": "<span class=\"review__mark\">elmondta</span> a véleményét&nbsp;REMOFIX",
+        "rating_text": "Kiváló minőség!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Jó termék, amely teljes mértékben azt nyújtja, amit a leírás ígér: csökkenti a feszültséget és könnyebbé teszi a mozgást minden kellemetlen érzés nélkül. A kezeimre használom, mert a műhelyben végzett munka után a finommotorika néha romlik az ujjak ízületeinek túlterhelése miatt. A gél másodpercek alatt felszívódik, az illata pedig gyorsan elillan."
+      }
+    ],
     "reviews_guavital": [
       {
         "src": "img/review_guavital_1.png",
@@ -9174,7 +10333,7 @@
         "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;GUAVITAL+",
         "rating_text": "Odlična kvaliteta!",
         "name": "Antica Menac",
-        "text": "Ukusan koktel i učinkovit učinak na tijelo. Bez stresa i problema uspjela sam izgubiti 11 kg! Nema strija, tijelo je zategnuto i u savršenoj sam formi.",
+        "text": "Bez stresa i problema uspjela sam izgubiti 11 kg! Nema strija, tijelo je zategnuto i u savršenoj sam formi.",
         "stars": [
           {
             "src": "img/svg/star.svg",
@@ -9342,6 +10501,396 @@
             "type": "empty"
           }
         ]
+      }
+    ],
+    "reviews_ultraxal": [
+      {
+        "src": "img/review_ultraxal_1.png",
+        "name": "Ivana Pinkavová",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Prije, nakon svakog obroka, želudac mi je bio kao bubanj, teško je bilo čak i disati... Prije mjesec dana sam počela uzimati Ultraxal i stvarno mi je postalo lakše. Više nema tog osjećaja da je sve stalo unutra. Probava sada radi jasno, kao sat."
+      },
+
+      {
+        "src": "img/review_ultraxal_2.png",
+        "name": "Ivan Jurić",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Uzeo sam ove kapsule za obnovu nakon kure jakih tableta, jer želudac nije uzimao ništa, postojala je stalna težina. Kapsule su djelovale vrlo nježno. Nakon tjedan dana nelagoda je nestala, opet mogu normalno jesti i ne razmišljati o posljedicama."
+      },
+
+      {
+        "src": "img/review_ultraxal_3.png",
+        "name": "Matej Potočnik",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Svidjelo mi se što sadrži artičoku i sikavicu. Za jetru je to najbolje. Uzimam 2 kapsule dnevno. Gorčina u ustima ujutro je nestala, a općenito se osjećam puno vedrije.  Dobar europski proizvod."
+      },
+
+      {
+        "src": "img/review_ultraxal_4.png",
+        "name": "Marija Vomáčková",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Iskreno, naručila sam s određenom skepsom, jer se sada puno toga reklamira na internetu, ali paket je stigao vrlo brzo, a i samo pakiranje izgleda kvalitetno, što me već malo umirilo. Počela sam ga uzimati strogo prema uputama tijekom obroka, a ono što me najviše iznenadilo jest da je nestala stalna žgaravica koja me mučila mjesecima nakon bilo kojeg ljutog ili vrućeg jela. Sada probava stabilno funkcionira, nema oštrih grčeva."
+      },
+
+      {
+        "src": "img/review_ultraxal_5.png",
+        "name": "Nika Hrachová",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Jako pazim što uzimam, pa sam prije kupnje dugo proučavala sastav Ultraxala, a podmitila me prisutnost sjemenki bundeve i artičoke, jer su to najbolji prirodni sastojci za blagi detoks. Učinak ne dolazi odmah, negdje četvrtog ili petog dana jednostavno počnete shvaćati da u vašem želucu vlada apsolutna tišina i mir, bez obzira na to što ste jeli za ručak."
+      },
+
+      {
+        "src": "img/review_ultraxal_6.png",
+        "name": "Ana Komínková",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "U svojim godinama već sam nagomilala hrpu problema s gastrointestinalnim traktom, pa je odabir dodatka prehrani koji ne bi iritirao već osjetljivu sluznicu bio prava potraga. Ove kapsule pokazale su se savršenima za mene: lako ih je progutati, ne ostavljaju nikakav kemijski okus, a najvažnije je da nema one strašne težine nakon njih."
+      },
+
+      {
+        "src": "img/review_ultraxal_7.png",
+        "name": "Dušan Hrabánek",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Prije svake velike obiteljske gozbe morao sam kupovati enzime iz ljekarne, jer inače jednostavno ne bih mogao normalno preživjeti blagdane zbog bolova i punoće u želucu. Prijatelj mi je savjetovao da isprobam ovaj biljni kompleks i stvarno se pokazao kao puno učinkovitije i, što je važno, sigurnije rješenje. Sada, čak i ako pojedem dodatni komad mesa ili neki desert, moja crijeva se s tim nose bez ikakvih problema ili pritužbi."
+      },
+
+      {
+        "src": "img/review_ultraxal_8.png",
+        "name": "Ivana Veselská",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Naručila sam Ultraxal samo da podrži tijelo i bila sam ugodno iznenađena koliko je brzo ublažio sve simptome sindroma iritabilnog crijeva. Za aktivne žene poput mene, koje nemaju vremena za normalne domaće obroke, ovo je zaista sjajna podrška da se osjećaju ljudski."
+      },
+
+      {
+        "src": "img/review_ultraxal_9.png",
+        "name": "Marko Pařík",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Ovaj proizvod sam uzimao više preventivno, budući da imam kroničnih problema sa žučnim mjehurom, a stručnjak mi je savjetovao da povremeno pijem kure biljnih koleretika. Želim reći da je sastav ovdje iznenađujuće dobro odabran: zahvaljujući artičoki i maslačku, žuč je počela puno bolje otjecati, a nelagoda u desnom hipohondriju, koja me povremeno mučila, potpuno je nestala."
+      },
+
+      {
+        "src": "img/review_ultraxal_10.png",
+        "name": "Marika Ficová",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Iskreno, dugo sam sumnjala isplati li se trošiti novac na dodatke prehrani s interneta, jer su ljekarne pune svega, ali nakon nekoliko neuspješnih pokušaja odlučila sam riskirati i kupiti ovaj proizvod. I znate, stvarno djeluje bolje od skupih reklamiranih tableta."
+      },
+
+      {
+        "src": "img/review_ultraxal_11.png",
+        "name": "Anja Skálová",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Budući da se pridržavam veganske prehrane i konzumiram puno svježeg povrća i mahunarki, moj želudac ponekad jednostavno ne može podnijeti toliko veliku količinu vlakana, što dovodi do jakog stvaranja plinova.  Pronašla sam informacije o ovom kompleksu i odlučila ga pokušati dodati u svoju prehranu, a to se pokazalo kao najbolja odluka koju sam donijela u posljednje vrijeme, jer se sada hrana puno lakše probavlja."
+      },
+
+      {
+        "src": "img/review_ultraxal_12.png",
+        "name": "Ana Horynová",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Kapsule uzimam već oko mjesec dana i mogu s pouzdanjem reći da mi se metabolizam definitivno ubrzao, jer više ne osjećam onu tromost nakon jela koja me prije obarala s nogu. Osim toga, jako mi se sviđa što proizvod djeluje sveobuhvatno, podržavajući ne samo želudac, već i cijeli probavni sustav u cjelini."
+      },
+      {
+        "src": "img/review_ultraxal_14.png",
+        "name": "Adéla Polanková",
+        "desc": "<span class=\"review__mark\">podijelila je</span> svoje mišljenje o&nbsp;ULTRAXAL",
+        "rating_text": "Odlična kvaliteta!",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ],
+        "text": "Djeca su mi već naručila drugu teglicu ovog proizvoda, jer djeluje tako nježno i delikatno da uopće ne osjećam nikakvu nelagodu tijekom prijema. Prije sam stalno patila od zatvora i osjećaja kamenca u želucu, ali sada su mi crijeva počela raditi samostalno, bez potrebe za pićem jakih laksativa koji samo kvare mikrofloru.  Nisam ni očekivala da obični biljni ekstrakti mogu dati tako uočljiv i dugotrajan rezultat."
       }
     ],
     "reviews_ophtalax": [
@@ -9757,6 +11306,788 @@
         "rating_text": "Odlična kvaliteta!",
         "name": "Dunja Bijelić",
         "text": "Ophtalax mi je pomagao ukloniti napetost u očima i suzne oči zbog dugotrajnog rada na računalu. Sada provodim isto toliko vremena ispred monitora, ali s očima je sve u redu.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      }
+    ],
+    "reviews_oculax": [
+      {
+        "src": "img/review_oculax_1.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Mantas Petrauskas",
+        "text": "Tiesą sakant, išbandžiau daug skirtingų lašų, ​​bet jų poveikis buvo labai trumpalaikis, todėl nusprendžiau spręsti problemą iš vidaus ir išbandyti šį vitaminų kompleksą su cinku ir selenu. Žinote, maždaug po dviejų savaičių pastebėjau, kad šis deginantis nuovargis išnyko, ir man tapo daug lengviau sutelkti dėmesį į smulkų tekstą.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_2.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Lina Kazlauskienė",
+        "text": "Pradėjau vartoti Oculax kolegės patarimu ir galiu pasakyti, kad ši formulė tikrai padeda mano akims greičiau priprasti prie ryškios šviesos, o bendras akių obuolių įtempimas pastebimai sumažėjo. Dabar prie vairo jaučiuosi daug labiau pasitikinti savimi, o vaizdas prieš akis tapo aiškesnis ir kontrastingesnis, o tai man labai svarbu.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_3.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Vytautas Jankauskas",
+        "text": "Man patiko šis produktas dėl subalansuotos sudėties, ypač dėl B grupės vitaminų, kurie palaiko nervinius impulsus, o tai svarbu regėjimo aštrumui. Kasdien geriu po kapsulę ir jaučiu, kad mano akys mažiau pavargsta skaitant laikraščius ar žiūrint televizorių.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_4.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Rasa Butkutė",
+        "text": "Man patinka, kad kapsulės yra švelnios ir padeda palaikyti stabilų akispūdį, todėl išvengiau dažnų galvos skausmų, susijusių su akių įtampa.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_5.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Andrius Stankevičius",
+        "text": "Oculax padeda sustiprinti kapiliarus ir pagerina bendrą komfortą, todėl man nebereikia nuolat mirksėti akimis, kad jas šiek tiek sudrėkinčiau. Tai labai patogus pasirinkimas užimtiems žmonėms, nes galite išgerti kapsulę per pietus ir žinoti, kad jūsų regos aparatas gavo reikiamą paramą, kad susidorotų su kasdieniu krūviu.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_6.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Jurgita Jurgelevičienė",
+        "text": "Pradėjau vartoti šias kapsules ir po kurio laiko pagavau save galvojant, kad viską matau taip pat aiškiai, kaip ryte, be nereikalingų pastangų ar žvairumo. Tiesą sakant, tai puiki investicija į mano sveikatą, nes kompleksas veikia iš anksto ir neleidžia regėjimui blogėti dėl banalaus akių raumenų pervargimo.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_7.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Gintaras Mačiulis",
+        "text": "Oculax tapo mano kasdienės priežiūros dalimi, nes pajutau, kad mano akys tapo daug atsparesnės, o nemalonus ašarojimas ryškioje šviesoje išnyko. Formulė yra tikrai gerai apgalvota ir matau realius rezultatus.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_8.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Tomas Grigalaitis",
+        "text": "Jau tris savaites vartoju Oculax ir pagrindinis pastebėtas poveikis yra tai, kad po ilgo žaidimo konsolėje ar filmo žiūrėjimo telefone prieš akis nebelieka „debesies“. Mano regėjimas tapo stabilesnis, o akys jaučiasi pailsėjusios net ir po persistengimo su ekranu, o tai šiuolaikiniame gyvenime tiesiog būtina.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_9.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Edita Paulauskienė",
+        "text": "Šį kompleksą naudoju profilaktikai, nes daugelis mano šeimoje turėjo tinklainės problemų, ir noriu kuo ilgiau išlaikyti savo akis sveikas. Man patinka, kad Oculax padeda palaikyti normalų nervinių impulsų perdavimą, nes tikrai jaučiu, kad reakcija į apšvietimo pokyčius tapo daug greitesnė.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_10.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Mindaugas Žemaitis",
+        "text": "Geras produktas, kuris atitinka viską, kas parašyta aprašyme: dingsta nuovargis, sustiprėja kapiliarai, o akys nustoja reaguoti į kiekvieną šviesos blyksnį. Pristatymas buvo greitas, o pakuotė patikima, todėl planuoju reguliariai užsisakyti šį kompleksą, kad mano akys visada būtų geros būklės.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_11.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Agnė Savickaitė",
+        "text": "Pastebėjau, kad pradėjusi vartoti šias kapsules, man tapo daug maloniau naudotis išmaniuoju telefonu prieš miegą, nes akys nustojo taip varginti nuo ryškaus ekrano. Lengvumo pojūtis ir paraudimo nebuvimas ryte yra geriausias įrodymas, kad kompleksas veikia.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_12.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Jonas Petrauskas",
+        "text": "Anksčiau po darbo dienos dažnai jausdavau tokį spaudimą akyse, kad norėdavau jas tiesiog užmerkti ir kelias valandas nieko nematyti, bet dabar ši būsena išnyko. Manau, kad reguliarus šių kapsulių vartojimas padėjo normalizuoti akispūdį, nes sunkumo jausmas visiškai išnyko.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_oculax_13.png",
+        "desc": "<span class=\"review__mark\">išreiškė</span> savo nuomonę apie&nbsp;OCULAX",
+        "rating_text": "Puiki kokybė!",
+        "name": "Darius Varnas",
+        "text": "Išbandžiau šį kompleksą ir buvau maloniai nustebintas, nes netikėjau, kad įprastos kapsulės gali taip pastebimai paveikti regėjimo komfortą. Tiesą sakant, mano akys pavargsta daug mažiau, ir dabar man nereikia taip dažnai daryti pertraukų skaitant ar dirbant su piešiniais.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      }
+    ],
+    "reviews_kardivix": [
+      {
+        "src": "img/review_kardivix_1.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Toomas Tamm",
+        "text": "Kusagil nädal pärast Kardivixi võtmist märkasin ootamatult, et enam ei tunne seda tüütut pulseerimist oimukohtades pärast aiatöid, ning praegu püsivad mu näitajad tasemel 130/85, mis minu kõrges eas on tõeline võit.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_2.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Katrin Saar",
+        "text": "Selle tootega ei ole ma enam lõpuks \"elav baromeeter\" ega sõltu ilmast, sest varem kajastus iga õhurõhu muutus minu jaoks kohutava peavalu ja nõrkusena. See on suurepärane tugi neile, kel on meteosõltuvus.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_3.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Andres Sepp",
+        "text": "Kardivix sobis mulle koostise ja toime poolest ideaalselt. Mu veresooned on justkui tugevamaks muutunud, mida kinnitas ka spetsialist viimase plaanilise läbivaatuse käigus, märkides, et süsteemi üldine seisund on märgatavalt paranenud. Suureks plussiks on see, et mul puuduvad nüüd igasugused järsud enesetunde muutused.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_4.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Tiina Kask",
+        "text": "Olin juba teist pakendit lõoetamas kui märkasin, et see ebameeldiv tuimus sõrmedes, mis varem õhtuti sageli häiris, on peaaegu täielikult kadunud. Isegi jalad väsivad päeva lõpuks vähem — ilmselt sellepärast, et vereringe on muutunud korrektseks ja aktiivsemaks.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_5.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Jüri Koppel",
+        "text": "Lihtsalt hea ja kvaliteetne toode. Jõudis väga kiiresti kohale, pakend oli terve ning. Kapslid ise on keskmise suurusega, seega neid on lihtne neelata isegi väikese koguse veega. Igapäevase toe ja ennetuse vahendina on see praegu üks parimaid valikuid meie turul, vähemalt minu jaoks.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_6.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Ülle Luik",
+        "text": "Nende kapslite toime ei ole kohene, nagu ma algul ootasin, kuid see on väga püsiv, ning peamine on mitte unustada neid regulaarselt võtta, et komponendid organismi koguneksid. Tavaliselt võtan ühe hommikusöögi ajal ja olen tulemusega täiesti rahul, sest vererõhk püsib terve päeva vältel ühel tasemel, ilma igasuguste hüpeteta.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_7.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Margus Lepik",
+        "text": "Lühidalt öeldes: pea ei valuta enam, näitajad on stabiilselt 120/80 ja mul pole ühtegi kõrvaltoimet, mis selliste vahendite puhul tavaliselt ette tuleb. Ennetuseks ja südame-veresoonkonna toonuses hoidmiseks on see ideaalne valik.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_8.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Anne Mägi",
+        "text": "Ostsin selle kompleksi oma emale, kellel on juba aastaid veresooned erilist tähelepanu ja tuge vajanud. Ta on selles osas, mida enda peale kannab või sisse manustab, väga nõudlik, kuid neid kapsleid võtab hea meelega ja ütleb, et on hakanud end palju erksamalt tundma.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_9.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Peeter Pärn",
+        "text": "Olen juba aastaid tegelenud kepikõndimisega, kuid viimasel ajal olen märganud, et süda hakkab koormusega varasemast raskemalt toime tulema. Kardivixiga tundsin, et mu veresooned said justkui jõudu juurde: need muutusid elastsemaks ja nüüd suudan taas läbida oma tavalisi distantse hingeldamata.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_10.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Sirje Rebane",
+        "text": "Uurin alati etikette hoolikalt ning siin võlus mind vitamiinide ja mineraalide kombinatsioon, mis on suunatud just südamerakkude energiavahetusele. Pärast kuu aega võtmist tundsin, et mul on rohkem elujõudu ning tavaline õhtune väsimus pole enam nii tuntav.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_11.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Jaan Mets",
+        "text": "See vitamiinidel ja taimedel põhinev vahend aitab mul veresooneid korras hoida, samal ajal ei esine pärast võtmist mingit uimasust ega loidust. Kohaletoimetamine võttis vaid paar päeva, teenindus on suurepärane, nagu ka toote kvaliteet, seega panen kindla viie.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_12.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Katrin Kask",
+        "text": "Minu jaoks oli oluline leida midagi, mis aitab hoida tervislikku kolesterooli taset ilma liigsete pingutusteta, ja Kardivix osutus just selleks lahenduseks. Märkasin, et veresoonte üldine seisund on paranenud, kadusid need ärritavad vaskulaarsed \"tärnid\" jalgadel ning nahk näib justkui tervislikum. Kõik viitab sellele, et mikroverevereringe on korrastunud ja iga rakk saab vajalikke toitaineid, mis on üldise toonuse jaoks väga oluline.",
+        "stars": [
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star.svg",
+            "type": "full"
+          },
+          {
+            "src": "img/svg/star-empty.svg",
+            "type": "empty"
+          }
+        ]
+      },
+
+      {
+        "src": "img/review_kardivix_13.png",
+        "desc": "<span class=\"review__mark\">ütles</span> oma arvamust&nbsp;KARDIVIX",
+        "rating_text": "Suurepärane toode!",
+        "name": "Mart Lauri",
+        "text": "Ostsin selle kompleksi kolleegi soovitusel, kes kaebas samuti perioodilise raskustunde üle südames. Ilmselt oli see tingitud meie sadama pingelisest töögraafikust. Võin öelda, et vahend toimib päriselt: see aitab organismil koormustega kohaneda ega lase vererõhul normist kõrgemale hüpata.",
         "stars": [
           {
             "src": "img/svg/star.svg",
