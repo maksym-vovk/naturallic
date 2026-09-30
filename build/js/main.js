@@ -339,11 +339,11 @@ module.exports = fix;
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "productsInfo", function() { return productsInfo; });
-const productsInfo = {
+var productsInfo = {
   be: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Perte de poids',
       country: 'Belgium',
       productName: 'GUAVITAL+',
@@ -352,7 +352,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Varices',
       country: 'Belgium',
       productName: 'Trovazin',
@@ -361,7 +361,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Mycose',
       country: 'Belgium',
       productName: 'Desalix',
@@ -370,7 +370,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Parasites',
       country: 'Belgium',
       productName: 'Paraxan',
@@ -380,7 +380,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Prostatite',
       country: 'Belgium',
       productName: 'Exurol',
@@ -390,7 +390,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Vision',
       country: 'Belgium',
       productName: 'Visoptic DUO Night',
@@ -400,7 +400,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Vision',
       country: 'Belgium',
       productName: 'Visoptic DUO Day',
@@ -409,7 +409,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Rajeunissement',
       country: 'Belgium',
       productName: 'Beauty Age Skin',
@@ -418,7 +418,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Rajeunissement',
       country: 'Belgium',
       productName: 'Beauty Age Skin Peeling',
@@ -428,7 +428,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Ouïe',
       country: 'Belgium',
       productName: 'Ausen',
@@ -438,7 +438,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Parasites',
       country: 'Belgium',
       productName: 'Vermixin',
@@ -448,7 +448,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Puissance',
       country: 'Belgium',
       productName: 'Viarex',
@@ -458,7 +458,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Puissance',
       country: 'Belgium',
       productName: 'Urosaf',
@@ -468,7 +468,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Articulations',
       country: 'Belgium',
       productName: 'Steplex',
@@ -477,7 +477,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Varices',
       country: 'Belgium',
       productName: 'Vasaxal',
@@ -486,7 +486,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Mycose',
       country: 'Belgium',
       productName: 'Demyxil',
@@ -495,7 +495,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Perte de poids',
       country: 'Belgium',
       productName: 'Delislim',
@@ -504,7 +504,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Vision',
       country: 'Belgium',
       productName: 'Ophtalax',
@@ -513,7 +513,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Hémorroïdes',
       country: 'Belgium',
       productName: 'Vasos Duo',
@@ -524,7 +524,7 @@ const productsInfo = {
   bg: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Отслабване',
       country: 'Bulgaria',
       productName: 'GUAVITAL+',
@@ -533,7 +533,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Варикоза',
       country: 'Bulgaria',
       productName: 'Trovazin',
@@ -542,7 +542,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Гъбички',
       country: 'Bulgaria',
       productName: 'Desalix',
@@ -551,7 +551,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Паразити',
       country: 'Bulgaria',
       productName: 'Paraxan',
@@ -561,7 +561,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Простатит',
       country: 'Bulgaria',
       productName: 'Exurol',
@@ -571,7 +571,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Зрение',
       country: 'Bulgaria',
       productName: 'Visoptic DUO Night',
@@ -581,7 +581,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Зрение',
       country: 'Bulgaria',
       productName: 'Visoptic DUO Day',
@@ -590,7 +590,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Подмладяване',
       country: 'Bulgaria',
       productName: 'Beauty Age Skin',
@@ -599,7 +599,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Подмладяване',
       country: 'Bulgaria',
       productName: 'Beauty Age Skin Peeling',
@@ -609,7 +609,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Слух',
       country: 'Bulgaria',
       productName: 'Ausen',
@@ -619,7 +619,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Паразити',
       country: 'Bulgaria',
       productName: 'Vermixin',
@@ -629,7 +629,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Потентност',
       country: 'Bulgaria',
       productName: 'Viarex',
@@ -639,7 +639,7 @@ const productsInfo = {
     femixal: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Пикочната система',
       country: 'Bulgaria',
       productName: 'Femixal',
@@ -649,7 +649,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Потентност',
       country: 'Bulgaria',
       productName: 'Urosaf',
@@ -659,7 +659,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Стави',
       country: 'Bulgaria',
       productName: 'Steplex',
@@ -668,7 +668,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Варикоза',
       country: 'Bulgaria',
       productName: 'Vasaxal',
@@ -677,7 +677,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Гъбички',
       country: 'Bulgaria',
       productName: 'Demyxil',
@@ -686,7 +686,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Отслабване',
       country: 'Bulgaria',
       productName: 'Delislim',
@@ -695,7 +695,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Зрение',
       country: 'Bulgaria',
       productName: 'Ophtalax',
@@ -704,7 +704,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082459',
+      campaign_id: '1498531',
       niche: 'Хемороиди',
       country: 'Bulgaria',
       productName: 'Vasos Duo',
@@ -715,7 +715,7 @@ const productsInfo = {
   cz: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Hubnutí',
       country: 'Czech',
       productName: 'GUAVITAL+',
@@ -724,7 +724,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Křečové žíly',
       country: 'Czech',
       productName: 'Trovazin',
@@ -733,7 +733,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Fungus',
       country: 'Czech',
       productName: 'Desalix',
@@ -742,7 +742,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Paraziti',
       country: 'Czech',
       productName: 'Paraxan',
@@ -752,7 +752,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Zánět prostaty',
       country: 'Czech',
       productName: 'Exurol',
@@ -762,7 +762,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Zrak',
       country: 'Czech',
       productName: 'Visoptic DUO Night',
@@ -772,7 +772,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Zrak',
       country: 'Czech',
       productName: 'Visoptic DUO Day',
@@ -781,7 +781,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Omlazování',
       country: 'Czech',
       productName: 'Beauty Age Skin',
@@ -790,7 +790,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Omlazování',
       country: 'Czech',
       productName: 'Beauty Age Skin Peeling',
@@ -800,7 +800,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Sluch',
       country: 'Czech',
       productName: 'Ausen',
@@ -810,7 +810,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Paraziti',
       country: 'Czech',
       productName: 'Vermixin',
@@ -820,7 +820,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Potence',
       country: 'Czech',
       productName: 'Viarex',
@@ -829,7 +829,7 @@ const productsInfo = {
     },
     ultraxal: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Klouby',
       country: 'Czech',
       productName: 'Ultraxal',
@@ -839,7 +839,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Potence',
       country: 'Czech',
       productName: 'Urosaf',
@@ -849,7 +849,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Klouby',
       country: 'Czech',
       productName: 'Steplex',
@@ -858,7 +858,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Křečové žíly',
       country: 'Czech',
       productName: 'Vasaxal',
@@ -867,7 +867,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Fungus',
       country: 'Czech',
       productName: 'Demyxil',
@@ -876,7 +876,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Hubnutí',
       country: 'Czech',
       productName: 'Delislim',
@@ -885,7 +885,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Zrak',
       country: 'Czech',
       productName: 'Ophtalax',
@@ -894,7 +894,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082469',
+      campaign_id: '1498531',
       niche: 'Hemoroidy',
       country: 'Czech',
       productName: 'Vasos Duo',
@@ -905,7 +905,7 @@ const productsInfo = {
   ee: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Kaalulangetus',
       country: 'Estonia',
       productName: 'GUAVITAL+',
@@ -914,7 +914,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Varikoos',
       country: 'Estonia',
       productName: 'Trovazin',
@@ -923,7 +923,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Seenhaigus',
       country: 'Estonia',
       productName: 'Desalix',
@@ -932,7 +932,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Parasiidid',
       country: 'Estonia',
       productName: 'Paraxan',
@@ -942,7 +942,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Prostatiit',
       country: 'Estonia',
       productName: 'Exurol',
@@ -952,7 +952,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Nägemine',
       country: 'Estonia',
       productName: 'Visoptic DUO Night',
@@ -962,7 +962,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Nägemine',
       country: 'Estonia',
       productName: 'Visoptic DUO Day',
@@ -971,7 +971,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Noorenemine',
       country: 'Estonia',
       productName: 'Beauty Age Skin',
@@ -980,7 +980,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Noorenemine',
       country: 'Estonia',
       productName: 'Beauty Age Skin Peeling',
@@ -990,7 +990,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Kuulmine',
       country: 'Estonia',
       productName: 'Ausen',
@@ -1000,7 +1000,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Parasiidid',
       country: 'Estonia',
       productName: 'Vermixin',
@@ -1010,7 +1010,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Potents',
       country: 'Estonia',
       productName: 'Viarex',
@@ -1020,7 +1020,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Potents',
       country: 'Estonia',
       productName: 'Urosaf',
@@ -1030,7 +1030,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Liigesed',
       country: 'Estonia',
       productName: 'Steplex',
@@ -1039,7 +1039,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Varikoos',
       country: 'Estonia',
       productName: 'Vasaxal',
@@ -1048,7 +1048,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Seenhaigus',
       country: 'Estonia',
       productName: 'Demyxil',
@@ -1057,7 +1057,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Kaalulangetus',
       country: 'Estonia',
       productName: 'Delislim',
@@ -1066,7 +1066,7 @@ const productsInfo = {
     },
     kardivix: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Südame-veresoonkond',
       country: 'Estonia',
       productName: 'Kardivix',
@@ -1075,7 +1075,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082460',
+      campaign_id: '1498531',
       niche: 'Hemorroidid',
       country: 'Estonia',
       productName: 'Vasos Duo',
@@ -1086,7 +1086,7 @@ const productsInfo = {
   gr: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'απώλεια βάρους',
       country: 'Greece',
       productName: 'GUAVITAL+',
@@ -1095,7 +1095,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Κιρσοί',
       country: 'Greece',
       productName: 'Trovazin',
@@ -1104,7 +1104,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Μύκητας',
       country: 'Greece',
       productName: 'Desalix',
@@ -1113,7 +1113,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Παράσιτα',
       country: 'Greece',
       productName: 'Paraxan',
@@ -1123,7 +1123,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Προστατίτιδα',
       country: 'Greece',
       productName: 'Exurol',
@@ -1133,7 +1133,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Όραση',
       country: 'Greece',
       productName: 'Visoptic DUO Night',
@@ -1143,7 +1143,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Όραση',
       country: 'Greece',
       productName: 'Visoptic DUO Day',
@@ -1152,7 +1152,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Αναζωογόνηση',
       country: 'Greece',
       productName: 'Beauty Age Skin',
@@ -1161,7 +1161,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Αναζωογόνηση',
       country: 'Greece',
       productName: 'Beauty Age Skin Peeling',
@@ -1171,7 +1171,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Ακοή',
       country: 'Greece',
       productName: 'Ausen',
@@ -1181,7 +1181,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Παράσιτα',
       country: 'Greece',
       productName: 'Vermixin',
@@ -1191,7 +1191,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Δύναμη',
       country: 'Greece',
       productName: 'Viarex',
@@ -1201,7 +1201,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'δύναμη',
       country: 'Greece',
       productName: 'Urosaf',
@@ -1211,7 +1211,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'αρθρώσεις',
       country: 'Greece',
       productName: 'Steplex',
@@ -1220,7 +1220,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Κιρσοί',
       country: 'Greece',
       productName: 'Vasaxal',
@@ -1229,7 +1229,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Μύκητας',
       country: 'Greece',
       productName: 'Demyxil',
@@ -1238,7 +1238,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'απώλεια βάρους',
       country: 'Greece',
       productName: 'Delislim',
@@ -1247,7 +1247,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'όραση',
       country: 'Greece',
       productName: 'Ophtalax',
@@ -1256,7 +1256,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'αιμορροΐδες',
       country: 'Greece',
       productName: 'Vasos Duo',
@@ -1267,7 +1267,7 @@ const productsInfo = {
   hr: {
     guavital: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Mršavljenje',
       country: 'Croatia',
       productName: 'GUAVITAL+',
@@ -1276,7 +1276,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Proširene vene',
       country: 'Croatia',
       productName: 'Trovazin',
@@ -1285,7 +1285,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Gljivice',
       country: 'Croatia',
       productName: 'Desalix',
@@ -1294,7 +1294,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Paraziti',
       country: 'Croatia',
       productName: 'Paraxan',
@@ -1304,7 +1304,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Prostatitis',
       country: 'Croatia',
       productName: 'Exurol',
@@ -1314,7 +1314,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Vid',
       country: 'Croatia',
       productName: 'Visoptic DUO Night',
@@ -1324,7 +1324,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Vid',
       country: 'Croatia',
       productName: 'Visoptic DUO Day',
@@ -1333,7 +1333,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Pomlađivanje',
       country: 'Croatia',
       productName: 'Beauty Age Skin',
@@ -1342,7 +1342,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Pomlađivanje',
       country: 'Croatia',
       productName: 'Beauty Age Skin Peeling',
@@ -1352,7 +1352,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Sluh',
       country: 'Croatia',
       productName: 'Ausen',
@@ -1361,7 +1361,7 @@ const productsInfo = {
     },
     ultraxal: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Trávicí systém (GI)',
       country: 'Croatia',
       productName: 'Ultraxal',
@@ -1371,7 +1371,7 @@ const productsInfo = {
     femixal: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Mokraćni sustav',
       country: 'Croatia',
       productName: 'Femixal',
@@ -1381,7 +1381,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Potencija',
       country: 'Croatia',
       productName: 'Viarex',
@@ -1391,7 +1391,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Potencija',
       country: 'Croatia',
       productName: 'Urosaf',
@@ -1401,7 +1401,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Zglobovi',
       country: 'Croatia',
       productName: 'Steplex',
@@ -1410,7 +1410,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Proširene vene',
       country: 'Croatia',
       productName: 'Vasaxal',
@@ -1419,7 +1419,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Gljivice',
       country: 'Croatia',
       productName: 'Demyxil',
@@ -1428,7 +1428,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Mršavljenje',
       country: 'Croatia',
       productName: 'Delislim',
@@ -1437,7 +1437,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Vid',
       country: 'Croatia',
       productName: 'Ophtalax',
@@ -1446,7 +1446,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1466538',
+      campaign_id: '1498531',
       niche: 'Hemoroidi',
       country: 'Croatia',
       productName: 'Vasos Duo',
@@ -1457,7 +1457,7 @@ const productsInfo = {
   hu: {
     guavital: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Fogyás',
       country: 'Hungary',
       productName: 'GUAVITAL+',
@@ -1466,7 +1466,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Visszerek',
       country: 'Hungary',
       productName: 'Trovazin',
@@ -1475,7 +1475,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Gomba',
       country: 'Hungary',
       productName: 'Desalix',
@@ -1484,7 +1484,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Paraziták',
       country: 'Hungary',
       productName: 'Paraxan',
@@ -1494,7 +1494,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Prosztatagyulladás',
       country: 'Hungary',
       productName: 'Exurol',
@@ -1504,7 +1504,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Látás',
       country: 'Hungary',
       productName: 'Visoptic DUO Night',
@@ -1514,7 +1514,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Látás',
       country: 'Hungary',
       productName: 'Visoptic DUO Day',
@@ -1523,7 +1523,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Fiatalítás',
       country: 'Hungary',
       productName: 'Beauty Age Skin',
@@ -1532,7 +1532,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Fiatalítás',
       country: 'Hungary',
       productName: 'Beauty Age Skin Peeling',
@@ -1542,7 +1542,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Hallás',
       country: 'Hungary',
       productName: 'Ausen',
@@ -1552,7 +1552,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Paraziták',
       country: 'Hungary',
       productName: 'Vermixin',
@@ -1562,7 +1562,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Potencia',
       country: 'Hungary',
       productName: 'Viarex',
@@ -1572,7 +1572,7 @@ const productsInfo = {
     remofix: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Ízületek',
       country: 'Hungary',
       productName: 'Remofix',
@@ -1582,7 +1582,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Potencia',
       country: 'Hungary',
       productName: 'Urosaf',
@@ -1592,7 +1592,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Ízületek',
       country: 'Hungary',
       productName: 'Steplex',
@@ -1601,7 +1601,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Visszerek',
       country: 'Hungary',
       productName: 'Vasaxal',
@@ -1610,7 +1610,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Gomba',
       country: 'Hungary',
       productName: 'Demyxil',
@@ -1619,7 +1619,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Fogyás',
       country: 'Hungary',
       productName: 'Delislim',
@@ -1628,7 +1628,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Látás',
       country: 'Hungary',
       productName: 'Ophtalax',
@@ -1637,7 +1637,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1402524',
+      campaign_id: '1498531',
       niche: 'Aranyér',
       country: 'Hungary',
       productName: 'Vasos Duo',
@@ -1648,7 +1648,7 @@ const productsInfo = {
   it: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Dimagrimento',
       country: 'Italy',
       productName: 'GUAVITAL+',
@@ -1657,7 +1657,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Varici',
       country: 'Italy',
       productName: 'Trovazin',
@@ -1666,7 +1666,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Fungo',
       country: 'Italy',
       productName: 'Desalix',
@@ -1675,7 +1675,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Parassiti',
       country: 'Italy',
       productName: 'Paraxan',
@@ -1685,7 +1685,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Prostatite',
       country: 'Italy',
       productName: 'Exurol',
@@ -1695,7 +1695,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Vista',
       country: 'Italy',
       productName: 'Visoptic DUO Night',
@@ -1705,7 +1705,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Vista',
       country: 'Italy',
       productName: 'Visoptic DUO Day',
@@ -1714,7 +1714,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Ringiovanimento',
       country: 'Italy',
       productName: 'Beauty Age Skin',
@@ -1723,7 +1723,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Ringiovanimento',
       country: 'Italy',
       productName: 'Beauty Age Skin Peeling',
@@ -1733,7 +1733,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Udito',
       country: 'Italy',
       productName: 'Ausen',
@@ -1743,7 +1743,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Parassiti',
       country: 'Italy',
       productName: 'Vermixin',
@@ -1753,7 +1753,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Potenza',
       country: 'Italy',
       productName: 'Viarex',
@@ -1763,7 +1763,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Potenza',
       country: 'Italy',
       productName: 'Urosaf',
@@ -1773,7 +1773,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Articolazioni',
       country: 'Italy',
       productName: 'Steplex',
@@ -1782,7 +1782,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Varici',
       country: 'Italy',
       productName: 'Vasaxal',
@@ -1791,7 +1791,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Fungo',
       country: 'Italy',
       productName: 'Demyxil',
@@ -1800,7 +1800,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Dimagrimento',
       country: 'Italy',
       productName: 'Delislim',
@@ -1809,7 +1809,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Vista',
       country: 'Italy',
       productName: 'Ophtalax',
@@ -1818,7 +1818,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082471',
+      campaign_id: '1498531',
       niche: 'Emorroide',
       country: 'Italy',
       productName: 'Vasos Duo',
@@ -1829,7 +1829,7 @@ const productsInfo = {
   lt: {
     guavital: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Lieknėjimas',
       country: 'Lithuania',
       productName: 'GUAVITAL+',
@@ -1838,7 +1838,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Venų varikozė',
       country: 'Lithuania',
       productName: 'Trovazin',
@@ -1847,7 +1847,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Grybelis',
       country: 'Lithuania',
       productName: 'Desalix',
@@ -1856,7 +1856,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Parazitai',
       country: 'Lithuania',
       productName: 'Paraxan',
@@ -1866,7 +1866,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Prostatitas',
       country: 'Lithuania',
       productName: 'Exurol',
@@ -1876,7 +1876,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Regėjimas',
       country: 'Lithuania',
       productName: 'Visoptic DUO Night',
@@ -1886,7 +1886,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Regėjimas',
       country: 'Lithuania',
       productName: 'Visoptic DUO Day',
@@ -1895,7 +1895,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Atjauninimas',
       country: 'Lithuania',
       productName: 'Beauty Age Skin',
@@ -1904,7 +1904,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Atjauninimas',
       country: 'Lithuania',
       productName: 'Beauty Age Skin Peeling',
@@ -1914,7 +1914,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Klausa',
       country: 'Lithuania',
       productName: 'Ausen',
@@ -1924,7 +1924,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Parazitai',
       country: 'Lithuania',
       productName: 'Vermixin',
@@ -1934,7 +1934,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Potencja',
       country: 'Lithuania',
       productName: 'Viarex',
@@ -1944,7 +1944,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Potencja',
       country: 'Lithuania',
       productName: 'Urosaf',
@@ -1954,7 +1954,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Sąnariai',
       country: 'Lithuania',
       productName: 'Steplex',
@@ -1963,7 +1963,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Venų varikozė',
       country: 'Lithuania',
       productName: 'Vasaxal',
@@ -1972,7 +1972,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Grybelis',
       country: 'Lithuania',
       productName: 'Demyxil',
@@ -1981,7 +1981,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Lieknėjimas',
       country: 'Lithuania',
       productName: 'Delislim',
@@ -1990,7 +1990,7 @@ const productsInfo = {
     },
     oculax: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Regėjimas',
       country: 'Lithuania',
       productName: 'Oculax',
@@ -1999,7 +1999,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1433128',
+      campaign_id: '1498531',
       niche: 'Hemorojus',
       country: 'Lithuania',
       productName: 'Vasos Duo',
@@ -2010,7 +2010,7 @@ const productsInfo = {
   lv: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Tievēšana',
       country: 'Latvia',
       productName: 'GUAVITAL+',
@@ -2019,7 +2019,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Varikoze',
       country: 'Latvia',
       productName: 'Trovazin',
@@ -2028,7 +2028,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Sēnīte',
       country: 'Latvia',
       productName: 'Desalix',
@@ -2037,7 +2037,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Parazīti',
       country: 'Latvia',
       productName: 'Paraxan',
@@ -2047,7 +2047,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Prostatīts',
       country: 'Latvia',
       productName: 'Exurol',
@@ -2057,7 +2057,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Redze',
       country: 'Latvia',
       productName: 'Visoptic DUO Night',
@@ -2067,7 +2067,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Redze',
       country: 'Latvia',
       productName: 'Visoptic DUO Day',
@@ -2076,7 +2076,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Ādas atjaunošana',
       country: 'Latvia',
       productName: 'Beauty Age Skin',
@@ -2085,7 +2085,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Ādas atjaunošana',
       country: 'Latvia',
       productName: 'Beauty Age Skin Peeling',
@@ -2095,7 +2095,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Dzirde',
       country: 'Latvia',
       productName: 'Ausen',
@@ -2105,7 +2105,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Parazīti',
       country: 'Latvia',
       productName: 'Vermixin',
@@ -2115,7 +2115,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Potence',
       country: 'Latvia',
       productName: 'Viarex',
@@ -2125,7 +2125,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Potence',
       country: 'Latvia',
       productName: 'Urosaf',
@@ -2135,7 +2135,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Locītavas',
       country: 'Latvia',
       productName: 'Steplex',
@@ -2144,7 +2144,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Varikoze',
       country: 'Latvia',
       productName: 'Vasaxal',
@@ -2153,7 +2153,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Sēnīte',
       country: 'Latvia',
       productName: 'Demyxil',
@@ -2162,7 +2162,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Tievēšana',
       country: 'Latvia',
       productName: 'Delislim',
@@ -2171,7 +2171,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Redze',
       country: 'Latvia',
       productName: 'Ophtalax',
@@ -2180,7 +2180,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082461',
+      campaign_id: '1498531',
       niche: 'Hemoroīdi',
       country: 'Latvia',
       productName: 'Vasos Duo',
@@ -2191,7 +2191,7 @@ const productsInfo = {
   pl: {
     guavital: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Odchudzanie',
       country: 'Poland',
       productName: 'GUAVITAL+',
@@ -2200,7 +2200,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Żylaki',
       country: 'Poland',
       productName: 'Trovazin',
@@ -2209,7 +2209,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Grzybica',
       country: 'Poland',
       productName: 'Desalix',
@@ -2218,7 +2218,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Pasożyty',
       country: 'Poland',
       productName: 'Paraxan',
@@ -2228,7 +2228,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Zapalenie gruczołu krokowego',
       country: 'Poland',
       productName: 'Exurol',
@@ -2238,7 +2238,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'wzrok',
       country: 'Poland',
       productName: 'Visoptic DUO Night',
@@ -2248,7 +2248,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Wzrok',
       country: 'Poland',
       productName: 'Visoptic DUO Day',
@@ -2257,7 +2257,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Odmłodzenie',
       country: 'Poland',
       productName: 'Beauty Age Skin',
@@ -2266,7 +2266,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Odmłodzenie',
       country: 'Poland',
       productName: 'Beauty Age Skin Peeling',
@@ -2276,7 +2276,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Słuch',
       country: 'Poland',
       productName: 'Ausen',
@@ -2286,7 +2286,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Pasożyty',
       country: 'Poland',
       productName: 'Vermixin',
@@ -2296,7 +2296,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Potencja',
       country: 'Poland',
       productName: 'Viarex',
@@ -2306,7 +2306,7 @@ const productsInfo = {
     femixal: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Układ moczowy',
       country: 'Poland',
       productName: 'Femixal',
@@ -2316,7 +2316,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Potencja',
       country: 'Poland',
       productName: 'Urosaf',
@@ -2326,7 +2326,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Stawy',
       country: 'Poland',
       productName: 'Steplex',
@@ -2335,7 +2335,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Żylaki',
       country: 'Poland',
       productName: 'Vasaxal',
@@ -2344,7 +2344,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Grzybica',
       country: 'Poland',
       productName: 'Demyxil',
@@ -2353,7 +2353,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Odchudzanie',
       country: 'Poland',
       productName: 'Delislim',
@@ -2362,7 +2362,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Wzrok',
       country: 'Poland',
       productName: 'Ophtalax',
@@ -2371,7 +2371,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1441333',
+      campaign_id: '1498531',
       niche: 'Hemoroidy',
       country: 'Poland',
       productName: 'Vasos Duo',
@@ -2382,7 +2382,7 @@ const productsInfo = {
   pt: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Perda de peso',
       country: 'Portugal',
       productName: 'GUAVITAL+',
@@ -2391,7 +2391,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Varizes',
       country: 'Portugal',
       productName: 'Trovazin',
@@ -2400,7 +2400,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Fungo',
       country: 'Portugal',
       productName: 'Desalix',
@@ -2409,7 +2409,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Parasitas',
       country: 'Portugal',
       productName: 'Paraxan',
@@ -2419,7 +2419,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Prostatite',
       country: 'Portugal',
       productName: 'Exurol',
@@ -2429,7 +2429,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Visão',
       country: 'Portugal',
       productName: 'Visoptic DUO Night',
@@ -2439,7 +2439,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Visão',
       country: 'Portugal',
       productName: 'Visoptic DUO Day',
@@ -2448,7 +2448,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Rejuvenescimento',
       country: 'Portugal',
       productName: 'Beauty Age Skin',
@@ -2457,7 +2457,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Rejuvenescimento',
       country: 'Portugal',
       productName: 'Beauty Age Skin Peeling',
@@ -2467,7 +2467,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Audição',
       country: 'Portugal',
       productName: 'Ausen',
@@ -2477,7 +2477,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Parasitas',
       country: 'Portugal',
       productName: 'Vermixin',
@@ -2487,7 +2487,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Potência',
       country: 'Portugal',
       productName: 'Viarex',
@@ -2497,7 +2497,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Potência',
       country: 'Portugal',
       productName: 'Urosaf',
@@ -2507,7 +2507,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Articulações',
       country: 'Portugal',
       productName: 'Steplex',
@@ -2516,7 +2516,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Varizes',
       country: 'Portugal',
       productName: 'Vasaxal',
@@ -2525,7 +2525,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Fungo',
       country: 'Portugal',
       productName: 'Demyxil',
@@ -2534,7 +2534,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Perda de peso',
       country: 'Portugal',
       productName: 'Delislim',
@@ -2543,7 +2543,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Visão',
       country: 'Portugal',
       productName: 'Ophtalax',
@@ -2552,7 +2552,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082463',
+      campaign_id: '1498531',
       niche: 'Hemorróidas',
       country: 'Portugal',
       productName: 'Vasos Duo',
@@ -2563,7 +2563,7 @@ const productsInfo = {
   ro: {
     guavital: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Pierdere în greutate',
       country: 'Romania',
       productName: 'GUAVITAL+',
@@ -2572,7 +2572,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Varice',
       country: 'Romania',
       productName: 'Trovazin',
@@ -2581,7 +2581,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Ciupercă',
       country: 'Romania',
       productName: 'Desalix',
@@ -2590,7 +2590,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Paraziți',
       country: 'Romania',
       productName: 'Paraxan',
@@ -2600,7 +2600,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Prostatita',
       country: 'Romania',
       productName: 'Exurol',
@@ -2610,7 +2610,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Vederea',
       country: 'Romania',
       productName: 'Visoptic DUO Night',
@@ -2620,7 +2620,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Vederea',
       country: 'Romania',
       productName: 'Visoptic DUO Day',
@@ -2629,7 +2629,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Întinerire',
       country: 'Romania',
       productName: 'Beauty Age Skin',
@@ -2638,7 +2638,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Întinerire',
       country: 'Romania',
       productName: 'Beauty Age Skin Peeling',
@@ -2648,7 +2648,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Auz',
       country: 'Romania',
       productName: 'Ausen',
@@ -2658,7 +2658,7 @@ const productsInfo = {
     vermixin: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Paraziți',
       country: 'Romania',
       productName: 'Vermixin',
@@ -2668,7 +2668,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Potență',
       country: 'Romania',
       productName: 'Viarex',
@@ -2677,7 +2677,7 @@ const productsInfo = {
     },
     ultiplex: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Imunitate',
       country: 'Romania',
       productName: 'Ultiplex',
@@ -2687,7 +2687,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Potență',
       country: 'Romania',
       productName: 'Urosaf',
@@ -2697,7 +2697,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Articulații',
       country: 'Romania',
       productName: 'Steplex',
@@ -2706,7 +2706,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Varice',
       country: 'Romania',
       productName: 'Vasaxal',
@@ -2715,7 +2715,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Ciupercă',
       country: 'Romania',
       productName: 'Demyxil',
@@ -2724,7 +2724,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Pierdere în greutate',
       country: 'Romania',
       productName: 'Delislim',
@@ -2733,7 +2733,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Vederea',
       country: 'Romania',
       productName: 'Ophtalax',
@@ -2742,7 +2742,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1402523',
+      campaign_id: '1498531',
       niche: 'Hemoroizi',
       country: 'Romania',
       productName: 'Vasos Duo',
@@ -2753,7 +2753,7 @@ const productsInfo = {
   sk: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Сhudnutie',
       country: 'Slovakia',
       productName: 'GUAVITAL+',
@@ -2762,7 +2762,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Kŕčové žily',
       country: 'Slovakia',
       productName: 'Trovazin',
@@ -2771,7 +2771,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Pleseň',
       country: 'Slovakia',
       productName: 'Desalix',
@@ -2780,7 +2780,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Pleseň',
       country: 'Slovakia',
       productName: 'Paraxan',
@@ -2790,7 +2790,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Prostatitída',
       country: 'Slovakia',
       productName: 'Exurol',
@@ -2800,7 +2800,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Zrak',
       country: 'Slovakia',
       productName: 'Visoptic DUO Night',
@@ -2810,7 +2810,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Zrak',
       country: 'Slovakia',
       productName: 'Visoptic DUO Day',
@@ -2819,7 +2819,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Omladenie',
       country: 'Slovakia',
       productName: 'Beauty Age Skin',
@@ -2828,7 +2828,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Omladenie',
       country: 'Slovakia',
       productName: 'Beauty Age Skin Peeling',
@@ -2838,7 +2838,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Sluch',
       country: 'Slovakia',
       productName: 'Ausen',
@@ -2847,7 +2847,7 @@ const productsInfo = {
     },
     ultiplex: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Imunita',
       country: 'Slovakia',
       productName: 'Ultiplex',
@@ -2857,7 +2857,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Potencia',
       country: 'Slovakia',
       productName: 'Viarex',
@@ -2867,7 +2867,7 @@ const productsInfo = {
     femixal: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Močový systém',
       country: 'Slovakia',
       productName: 'Femixal',
@@ -2877,7 +2877,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Potencia',
       country: 'Slovakia',
       productName: 'Urosaf',
@@ -2887,7 +2887,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Kĺby',
       country: 'Slovakia',
       productName: 'Steplex',
@@ -2896,7 +2896,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Kŕčové žily',
       country: 'Slovakia',
       productName: 'Vasaxal',
@@ -2905,7 +2905,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Pleseň (mykóza)',
       country: 'Slovakia',
       productName: 'Demyxil',
@@ -2914,7 +2914,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Chudnutie',
       country: 'Slovakia',
       productName: 'Delislim',
@@ -2923,7 +2923,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Zrak',
       country: 'Slovakia',
       productName: 'Ophtalax',
@@ -2932,7 +2932,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Hemoroidy',
       country: 'Slovakia',
       productName: 'Vasos Duo',
@@ -2943,7 +2943,7 @@ const productsInfo = {
   sl: {
     guavital: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Izguba teže',
       country: 'Slovenia',
       productName: 'GUAVITAL+',
@@ -2952,7 +2952,7 @@ const productsInfo = {
     },
     trovazin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Krčne žile',
       country: 'Slovenia',
       productName: 'Trovazin',
@@ -2961,7 +2961,7 @@ const productsInfo = {
     },
     desalix: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Glivice',
       country: 'Slovenia',
       productName: 'Desalix',
@@ -2970,7 +2970,7 @@ const productsInfo = {
     },
     paraxan: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Paraziti',
       country: 'Slovenia',
       productName: 'Paraxan',
@@ -2980,7 +2980,7 @@ const productsInfo = {
     exurol: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Prostatitis',
       country: 'Slovenia',
       productName: 'Exurol',
@@ -2990,7 +2990,7 @@ const productsInfo = {
     visoptic_duo_night: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Vizija',
       country: 'Slovenia',
       productName: 'Visoptic DUO Night',
@@ -3000,7 +3000,7 @@ const productsInfo = {
     visoptic_duo_day: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Vizija',
       country: 'Slovenia',
       productName: 'Visoptic DUO Day',
@@ -3009,7 +3009,7 @@ const productsInfo = {
     },
     beauty_age_skin: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Pomlajevanje',
       country: 'Slovenia',
       productName: 'Beauty Age Skin',
@@ -3018,7 +3018,7 @@ const productsInfo = {
     },
     beauty_age_skin_peeling: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Pomlajevanje',
       country: 'Slovenia',
       productName: 'Beauty Age Skin Peeling',
@@ -3028,7 +3028,7 @@ const productsInfo = {
     ausen: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Zaslišanje',
       country: 'Slovenia',
       productName: 'Ausen',
@@ -3037,7 +3037,7 @@ const productsInfo = {
     },
     ultraxal: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Prebavni sistem (GST)',
       country: 'Slovenia',
       productName: 'Ultraxal',
@@ -3047,7 +3047,7 @@ const productsInfo = {
     viarex: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Moč',
       country: 'Slovenia',
       productName: 'Viarex',
@@ -3057,7 +3057,7 @@ const productsInfo = {
     femixal: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Urinarni sistem',
       country: 'Slovenia',
       productName: 'Femixal',
@@ -3067,7 +3067,7 @@ const productsInfo = {
     urosaf: {
       modifier: 'img-space--right',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Moč',
       country: 'Slovenia',
       productName: 'Urosaf',
@@ -3077,7 +3077,7 @@ const productsInfo = {
     steplex: {
       modifier: 'img-space--left',
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Spoji',
       country: 'Slovenia',
       productName: 'Steplex',
@@ -3086,7 +3086,7 @@ const productsInfo = {
     },
     vasaxal: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Krčne žile',
       country: 'Slovenia',
       productName: 'Vasaxal',
@@ -3095,7 +3095,7 @@ const productsInfo = {
     },
     demyxil: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Glivice',
       country: 'Slovenia',
       productName: 'Demyxil',
@@ -3104,7 +3104,7 @@ const productsInfo = {
     },
     delislim: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Izguba teže',
       country: 'Slovenia',
       productName: 'Delislim',
@@ -3113,7 +3113,7 @@ const productsInfo = {
     },
     ophtalax: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Vizija',
       country: 'Slovenia',
       productName: 'Ophtalax',
@@ -3122,7 +3122,7 @@ const productsInfo = {
     },
     vasos_duo: {
       company: 'everad',
-      campaign_id: '1082464',
+      campaign_id: '1498531',
       niche: 'Hemoroidy',
       country: 'Slovenia',
       productName: 'Vasos Duo',
@@ -3145,8 +3145,8 @@ const productsInfo = {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DOC", function() { return DOC; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "WIN", function() { return WIN; });
-const DOC = $(document);
-const WIN = $(window);
+var DOC = $(document);
+var WIN = $(window);
 
 /***/ }),
 
@@ -3164,11 +3164,13 @@ function debounce(func, wait, immediate) {
   var timeout;
   return function () {
     var context = this,
-      args = arguments;
-    var later = function () {
+        args = arguments;
+
+    var later = function later() {
       timeout = null;
       if (!immediate) func.apply(context, args);
     };
+
     var callNow = immediate && !timeout;
     clearTimeout(timeout);
     timeout = setTimeout(later, wait);
@@ -3189,57 +3191,66 @@ function debounce(func, wait, immediate) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _helpers__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helpers */ "./src/js/global/helpers.js");
 /* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./constants */ "./src/js/global/constants.js");
-function ownKeys(e, r) { var t = Object.keys(e); if (Object.getOwnPropertySymbols) { var o = Object.getOwnPropertySymbols(e); r && (o = o.filter(function (r) { return Object.getOwnPropertyDescriptor(e, r).enumerable; })), t.push.apply(t, o); } return t; }
-function _objectSpread(e) { for (var r = 1; r < arguments.length; r++) { var t = null != arguments[r] ? arguments[r] : {}; r % 2 ? ownKeys(Object(t), !0).forEach(function (r) { _defineProperty(e, r, t[r]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(t)) : ownKeys(Object(t)).forEach(function (r) { Object.defineProperty(e, r, Object.getOwnPropertyDescriptor(t, r)); }); } return e; }
-function _defineProperty(e, r, t) { return (r = _toPropertyKey(r)) in e ? Object.defineProperty(e, r, { value: t, enumerable: !0, configurable: !0, writable: !0 }) : e[r] = t, e; }
-function _toPropertyKey(t) { var i = _toPrimitive(t, "string"); return "symbol" == typeof i ? i : i + ""; }
-function _toPrimitive(t, r) { if ("object" != typeof t || !t) return t; var e = t[Symbol.toPrimitive]; if (void 0 !== e) { var i = e.call(t, r || "default"); if ("object" != typeof i) return i; throw new TypeError("@@toPrimitive must return a primitive value."); } return ("string" === r ? String : Number)(t); }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) { symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); } keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
 
-const layout = function () {
-  "use strict";
 
-  //#region Private methods
-  let L = {
+
+var layout = function () {
+  "use strict"; //#region Private methods
+
+  var L = {
     WIN_WIDTH: 0
   };
-  let SETTINGS = {
+  var SETTINGS = {
     afterResize: false,
     onInit: false
   };
+
   function getLayout() {
-    const WIN_WIDTH = _constants__WEBPACK_IMPORTED_MODULE_1__["WIN"].width();
+    var WIN_WIDTH = _constants__WEBPACK_IMPORTED_MODULE_1__["WIN"].width();
     return {
-      WIN_WIDTH
+      WIN_WIDTH: WIN_WIDTH
     };
   }
+
   ;
+
   function resizeHandler() {
     _constants__WEBPACK_IMPORTED_MODULE_1__["WIN"].resize(Object(_helpers__WEBPACK_IMPORTED_MODULE_0__["debounce"])(function () {
       L = getLayout();
+
       if (SETTINGS.afterResize) {
         SETTINGS.afterResize(L);
       }
     }, 100));
   }
-  ;
-  //#endregion
+
+  ; //#endregion
 
   return {
     //#region Public methods
-    layoutHandler: function (settings) {
+    layoutHandler: function layoutHandler(settings) {
       if (settings) {
         SETTINGS = _objectSpread(_objectSpread({}, SETTINGS), settings);
       }
+
       L = getLayout();
+
       if (SETTINGS.onInit) {
         SETTINGS.onInit(L);
       }
+
       resizeHandler();
-    }
-    //#endregion
+    } //#endregion
+
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (layout);
 
 /***/ }),
@@ -3257,6 +3268,7 @@ const layout = function () {
   var isOn = false;
   var scrollbarSize;
   var scrollTop;
+
   function getScrollbarSize() {
     if (typeof scrollbarSize !== "undefined") return scrollbarSize;
     var doc = document.documentElement;
@@ -3267,23 +3279,28 @@ const layout = function () {
     doc.removeChild(dummyScroller);
     return scrollbarSize;
   }
+
   function hasScrollbar() {
     return document.documentElement.scrollHeight > window.innerHeight;
   }
+
   function on(options) {
     if (typeof document === "undefined" || isOn) return;
     var doc = document.documentElement;
     scrollTop = window.pageYOffset;
+
     if (hasScrollbar()) {
       doc.style.width = "calc(100% - " + getScrollbarSize() + "px)";
     } else {
       doc.style.width = "100%";
     }
+
     doc.style.position = "fixed";
     doc.style.top = -scrollTop + "px";
     doc.style.overflow = "hidden";
     isOn = true;
   }
+
   function off() {
     if (typeof document === "undefined" || !isOn) return;
     var doc = document.documentElement;
@@ -3294,18 +3311,22 @@ const layout = function () {
     window.scroll(0, scrollTop);
     isOn = false;
   }
+
   function toggle() {
     if (isOn) {
       off();
       return;
     }
+
     on();
   }
+
   var noScroll = {
     on: on,
     off: off,
     toggle: toggle
   };
+
   if ( true && typeof module.exports !== "undefined") {
     module.exports = noScroll;
   } else {
@@ -3346,10 +3367,12 @@ __webpack_require__.r(__webpack_exports__);
 $(function () {
   var year = new Date().getFullYear();
   var placeY = document.getElementsByClassName("year");
-  for (let i = 0; i < placeY.length; i++) {
+
+  for (var i = 0; i < placeY.length; i++) {
     var elemY = placeY[i];
     elemY.innerHTML = year;
   }
+
   _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].init();
   _modules_Controls__WEBPACK_IMPORTED_MODULE_2__["default"].init();
   _modules_Popup__WEBPACK_IMPORTED_MODULE_3__["default"].init();
@@ -3358,16 +3381,18 @@ $(function () {
   _modules_Contacts__WEBPACK_IMPORTED_MODULE_7__["default"].init();
   object_fit_images__WEBPACK_IMPORTED_MODULE_0___default()();
   _global_layout__WEBPACK_IMPORTED_MODULE_6__["default"].layoutHandler({
-    onInit: layout => {
+    onInit: function onInit(layout) {
       _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductSlider();
+
       if (layout.WIN_WIDTH >= 768) {
         _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductsSlider();
       } else if (layout.WIN_WIDTH <= 767) {
         _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].destroyProductsSlider();
       }
     },
-    afterResize: layout => {
+    afterResize: function afterResize(layout) {
       _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductSlider();
+
       if (layout.WIN_WIDTH >= 768) {
         _modules_Sliders__WEBPACK_IMPORTED_MODULE_1__["default"].initProductsSlider();
       } else if (layout.WIN_WIDTH <= 767) {
@@ -3388,7 +3413,7 @@ $(function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-const Contacts = function () {
+var Contacts = function () {
   function getUserCityCountryFromIp() {
     return fetch('https://api.ipify.org?format=json', {
       headers: {
@@ -3418,19 +3443,22 @@ const Contacts = function () {
       };
     });
   }
+
   function setupCaptcha(form) {
     var wrapper = form.querySelector('[data-captcha-wrapper]');
     var questionEl = wrapper ? wrapper.querySelector('[data-captcha-question]') : null;
     var inputEl = wrapper ? wrapper.querySelector('[data-captcha-input]') : null;
     var errorEl = wrapper ? wrapper.querySelector('[data-captcha-error]') : null;
+
     if (!wrapper || !questionEl || !inputEl) {
       return {
-        validate: function () {
+        validate: function validate() {
           return true;
         },
-        reset: function () {}
+        reset: function reset() {}
       };
     }
+
     function regenerate() {
       var a = Math.floor(Math.random() * 10) + 1;
       var b = Math.floor(Math.random() * 10) + 1;
@@ -3440,12 +3468,14 @@ const Contacts = function () {
       inputEl.classList.remove('valid-err');
       if (errorEl) errorEl.style.display = 'none';
     }
+
     regenerate();
     return {
-      validate: function () {
+      validate: function validate() {
         var expected = Number(wrapper.dataset.captchaAnswer || NaN);
         var answer = Number(inputEl.value);
         var isValid = answer === expected;
+
         if (!isValid) {
           inputEl.classList.add('valid-err');
           if (errorEl) errorEl.style.display = 'block';
@@ -3453,28 +3483,35 @@ const Contacts = function () {
           inputEl.classList.remove('valid-err');
           if (errorEl) errorEl.style.display = 'none';
         }
+
         return isValid;
       },
       reset: regenerate
     };
   }
+
   function getContactsValidStats(form, captcha) {
     var name = form.querySelector('[name="name"]');
     var phone = form.querySelector('[name="phone"]');
     var text = form.querySelector('[name="comment"]');
     var email = form.querySelector('[name="email"]');
+
     function isNameValid(el) {
       return el ? el.value.trim().length >= 5 : false;
     }
+
     function isPhoneValid(el) {
       return el ? el.value.trim().length >= 8 : false;
     }
+
     function isCommentValid(el) {
       return el ? el.value.trim().length >= 1 : true;
     }
+
     function isEmailValid(el) {
       return el ? /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/g.test(el.value.trim()) : true;
     }
+
     return {
       name: isNameValid(name),
       phone: isPhoneValid(phone),
@@ -3483,12 +3520,14 @@ const Contacts = function () {
       captcha: captcha.validate()
     };
   }
+
   function removeInputErrors(form) {
     var inputs = form.querySelectorAll('.valid-err');
     inputs.forEach(function (input) {
       input.classList.remove('valid-err');
     });
   }
+
   function markInvalidFields(form, stats) {
     var name = form.querySelector('[name="name"]');
     var phone = form.querySelector('[name="phone"]');
@@ -3501,8 +3540,9 @@ const Contacts = function () {
     if (email && !stats.email) email.classList.add('valid-err');
     if (captchaInput && !stats.captcha) captchaInput.classList.add('valid-err');
   }
+
   return {
-    submitContacts: function () {
+    submitContacts: function submitContacts() {
       $('.js-order-form').each(function () {
         var form = this;
         var captcha = setupCaptcha(form);
@@ -3517,6 +3557,7 @@ const Contacts = function () {
           var isFormValid = Object.values(fieldsStats).every(function (field) {
             return field === true;
           });
+
           if (isFormValid) {
             submitBtn.length ? submitBtn.val && submitBtn.val('Отправка...') : null;
             $('input, textarea, button', form).attr('disabled', '');
@@ -3536,8 +3577,9 @@ const Contacts = function () {
                 dataType: 'json',
                 processData: false,
                 contentType: false,
-                xhr: function () {
+                xhr: function xhr() {
                   var myXhr = $.ajaxSettings.xhr();
+
                   if (myXhr.upload) {
                     myXhr.upload.addEventListener('progress', function (e) {
                       if (e.lengthComputable) {
@@ -3547,14 +3589,15 @@ const Contacts = function () {
                       }
                     }, false);
                   }
+
                   return myXhr;
                 },
-                success: function () {
+                success: function success() {
                   $('.js-content-form').hide();
                   $('.popup__title--main').hide();
                   $('.js-success-form').show();
                 },
-                error: function () {
+                error: function error() {
                   $('input, textarea, button', form).removeAttr('disabled');
                   $('.js-content-form').hide();
                   $('.popup__title--main').hide();
@@ -3565,7 +3608,7 @@ const Contacts = function () {
                     $('.js-error-form').hide();
                   }, 3000);
                 },
-                complete: function () {
+                complete: function complete() {
                   captcha.reset();
                 }
               });
@@ -3574,18 +3617,18 @@ const Contacts = function () {
             removeInputErrors(form);
             markInvalidFields(form, fieldsStats);
           }
+
           return false;
         });
       });
     },
-    init: function () {
+    init: function init() {
       Contacts.submitContacts();
     }
   };
 }();
-/* harmony default export */ __webpack_exports__["default"] = (Contacts);
 
-// const Contacts = (function () {
+/* harmony default export */ __webpack_exports__["default"] = (Contacts); // const Contacts = (function () {
 //     function getUserCityCountryFromIp() {
 //         return fetch('https://api.ipify.org?format=json', {
 //             headers: {Accept: 'application/json'}
@@ -3851,24 +3894,38 @@ const Contacts = function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../global/noScroll */ "./src/js/global/noScroll.js");
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_global_noScroll__WEBPACK_IMPORTED_MODULE_0__);
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
-const Controls = function () {
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+
+
+var Controls = function () {
   "use strict";
 
-  const btnAccordeon = $(".js-btn-accordeon");
-  const contentAccordeon = $(".js-info-accordeon");
-  const tabs = $(".js-tab");
-  const spanProductsAll = $(".js-product-all");
-  const spanProductsShow = $(".js-product-show");
-  const productsList = $(".js-list-prod");
-  const countCatalog = $(".js-catalog-count");
-  const product = $(".js-product");
-  const btnCatalog = $(".js-btn-catalog");
-  const reviews = $(".js-review");
-  const spanReviewsAll = $(".js-reviews-all");
-  const spanReviewsShow = $(".js-reviews-show");
-  const btnReviews = $(".js-btn-reviews");
-  const DEFAULT_LANG = 'cz';
+  var btnAccordeon = $(".js-btn-accordeon");
+  var contentAccordeon = $(".js-info-accordeon");
+  var tabs = $(".js-tab");
+  var spanProductsAll = $(".js-product-all");
+  var spanProductsShow = $(".js-product-show");
+  var productsList = $(".js-list-prod");
+  var countCatalog = $(".js-catalog-count");
+  var product = $(".js-product");
+  var btnCatalog = $(".js-btn-catalog");
+  var reviews = $(".js-review");
+  var spanReviewsAll = $(".js-reviews-all");
+  var spanReviewsShow = $(".js-reviews-show");
+  var btnReviews = $(".js-btn-reviews");
+  var DEFAULT_LANG = 'cz';
+
   function hideBtn(countProductsShow, countProductsAll) {
     if (countProductsShow == countProductsAll) {
       btnCatalog.hide();
@@ -3876,81 +3933,100 @@ const Controls = function () {
       btnCatalog.show();
     }
   }
+
   function getParameterByName(name) {
-    let url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
+    var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-      results = regex.exec(url);
+        results = regex.exec(url);
     if (!results) return null;
     if (!results[2]) return "";
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
+
   function showListProduct(idActiveBlock) {
-    const activeList = $(".js-list-prod[data-target=\"".concat(idActiveBlock, "\"]"));
+    var activeList = $(".js-list-prod[data-target=\"".concat(idActiveBlock, "\"]"));
     productsList.removeClass("active");
     activeList.addClass("active");
-  }
-
-  // --- НОВАЯ ВСПОМОГАТЕЛЬНАЯ ФУНКЦИЯ ---
+  } // --- НОВАЯ ВСПОМОГАТЕЛЬНАЯ ФУНКЦИЯ ---
   // Обновляет флаг в хедере без перезагрузки страницы
+
+
   function updateHeaderFlag(lang) {
-    const flagImages = document.querySelectorAll(".lang-select__flag--current");
-    flagImages.forEach(img => {
+    var flagImages = document.querySelectorAll(".lang-select__flag--current");
+    flagImages.forEach(function (img) {
       img.setAttribute("src", "../img/language-".concat(lang, ".png"));
       img.setAttribute("alt", lang);
     });
   }
+
   return {
-    openFaqContent: function () {
+    openFaqContent: function openFaqContent() {
       btnAccordeon.on("click", function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const parent = _this.parents(".js-accordeon");
+
+        var _this = $(this);
+
+        var parent = _this.parents(".js-accordeon");
+
         if (!_this.hasClass("active")) {
           parent.find(contentAccordeon).slideUp(700);
           parent.find(btnAccordeon).removeClass("active");
         }
+
         _this.toggleClass("active");
+
         _this.next(contentAccordeon).slideToggle();
       });
     },
-    highlightingActiveTab: function () {
+    highlightingActiveTab: function highlightingActiveTab() {
       var paramdId = getParameterByName("id");
+
       if (paramdId) {
-        const target = $("#".concat(paramdId));
+        var target = $("#".concat(paramdId));
         tabs.removeClass("active");
         target.addClass("active");
         showListProduct(paramdId);
       }
     },
-    showListProducts: function () {
+    showListProducts: function showListProducts() {
       tabs.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const idActiveBlock = _this.prop("id");
+
+        var _this = $(this);
+
+        var idActiveBlock = _this.prop("id");
+
         tabs.removeClass("active");
+
         _this.addClass("active");
+
         showListProduct(idActiveBlock);
         Controls.calculateProducts();
       });
     },
-    showCatalog: function () {
+    showCatalog: function showCatalog() {
       btnCatalog.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const parent = _this.parent(productsList);
-        const hiddenProducts = $('.js-product.hidden');
+
+        var _this = $(this);
+
+        var parent = _this.parent(productsList);
+
+        var hiddenProducts = $('.js-product.hidden');
         hiddenProducts.removeClass('hidden').addClass('active');
         Controls.calculateProducts();
+
         _this.hide();
       });
     },
-    calculateProducts: function () {
-      const parent = countCatalog.parent(".js-list-prod.active");
-      const countProductsAll = parent.find(product).length;
-      const countProductsShow = parent.find('.js-product.active').length;
+    calculateProducts: function calculateProducts() {
+      var parent = countCatalog.parent(".js-list-prod.active");
+      var countProductsAll = parent.find(product).length;
+      var countProductsShow = parent.find('.js-product.active').length;
       hideBtn(countProductsShow, countProductsAll);
-      const hideCatalog = parent.find(".js-catalog-hide");
+      var hideCatalog = parent.find(".js-catalog-hide");
+
       if (hideCatalog.hasClass("show")) {
         parent.find(spanProductsShow).html(countProductsAll);
         parent.find(btnCatalog).hide();
@@ -3959,7 +4035,7 @@ const Controls = function () {
         parent.find(spanProductsAll).html(countProductsAll);
       }
     },
-    calculateReviews: function () {
+    calculateReviews: function calculateReviews() {
       if ($(".js-reviews-show-list").hasClass("show")) {
         spanReviewsShow.html(reviews.length);
         btnCatalog.hide();
@@ -3967,50 +4043,56 @@ const Controls = function () {
         spanReviewsAll.html(reviews.length);
       }
     },
-    showReviews: function () {
+    showReviews: function showReviews() {
       btnReviews.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
+
+        var _this = $(this);
+
         $(".js-reviews-show-list").addClass("show");
         Controls.calculateReviews();
+
         _this.hide();
       });
     },
-    setLanguage: function () {
-      const langModal = document.querySelector(".language");
-      const languageSelect = document.querySelector(".select");
-      const languagesArr = [...languageSelect.querySelectorAll(".select__option")].map(option => option.dataset.lang);
-      const defaultSelectOption = document.querySelector('.select__option--default');
-      const pathNameParams = window.location.pathname.split('/').filter(Boolean);
-      const currentLang = pathNameParams.length && pathNameParams[0].length === 2 ? pathNameParams[0] : null;
-      const isLangInURL = languagesArr.includes(currentLang);
-      const savedLanguage = localStorage.getItem("localization");
-      const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
+    setLanguage: function setLanguage() {
+      var langModal = document.querySelector(".language");
+      var languageSelect = document.querySelector(".select");
+
+      var languagesArr = _toConsumableArray(languageSelect.querySelectorAll(".select__option")).map(function (option) {
+        return option.dataset.lang;
+      });
+
+      var defaultSelectOption = document.querySelector('.select__option--default');
+      var pathNameParams = window.location.pathname.split('/').filter(Boolean);
+      var currentLang = pathNameParams.length && pathNameParams[0].length === 2 ? pathNameParams[0] : null;
+      var isLangInURL = languagesArr.includes(currentLang);
+      var savedLanguage = localStorage.getItem("localization");
+      var isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
+
       if (savedLanguage && !isSavedDefault && !isLangInURL) {
         location.href = "".concat(window.location.origin, "/").concat(savedLanguage).concat(window.location.pathname).concat(window.location.search);
       }
-      defaultSelectOption.addEventListener('click', event => {
+
+      defaultSelectOption.addEventListener('click', function (event) {
         event.preventDefault();
         langModal.classList.add("language--hidden");
-        localStorage.setItem("localization", DEFAULT_LANG);
+        localStorage.setItem("localization", DEFAULT_LANG); // --- ИСПРАВЛЕНИЕ: обновляем флаг сразу после выбора языка ---
 
-        // --- ИСПРАВЛЕНИЕ: обновляем флаг сразу после выбора языка ---
         updateHeaderFlag(DEFAULT_LANG);
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
-      });
-
-      // Обработчики для НЕ-дефолтных опций в модалке
+      }); // Обработчики для НЕ-дефолтных опций в модалке
       // (те, что вызывают редирект через setLanguage логику)
-      languageSelect.querySelectorAll(".select__option:not(.select__option--default)").forEach(option => {
-        option.addEventListener('click', () => {
-          const selectedLang = option.dataset.lang;
-          localStorage.setItem("localization", selectedLang);
 
-          // --- ИСПРАВЛЕНИЕ: обновляем флаг до редиректа ---
+      languageSelect.querySelectorAll(".select__option:not(.select__option--default)").forEach(function (option) {
+        option.addEventListener('click', function () {
+          var selectedLang = option.dataset.lang;
+          localStorage.setItem("localization", selectedLang); // --- ИСПРАВЛЕНИЕ: обновляем флаг до редиректа ---
+
           updateHeaderFlag(selectedLang);
         });
       });
-      langModal.addEventListener("click", event => {
+      langModal.addEventListener("click", function (event) {
         if (savedLanguage) {
           event.target.classList.contains("language") ? langModal.classList.add("language--hidden") : false;
         }
@@ -4019,45 +4101,50 @@ const Controls = function () {
         if (!isLangInURL && !isSavedDefault) {
           langModal.classList.remove("language--hidden");
         }
+
         if (isLangInURL) {
           localStorage.setItem("localization", currentLang);
         }
+
         if (!langModal.classList.contains('language--hidden')) {
           _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
         }
       });
     },
-    showHeaderLang: function () {
-      const langSelect = document.querySelectorAll(".lang-select");
-      const currentLangBlock = document.querySelectorAll(".lang-select__current");
-      const langOptions = document.querySelectorAll(".lang-select__option");
-      const langOptionDefault = document.querySelector('.lang-select__option--default');
-      const languageSelect = document.querySelector(".select");
-      const currentLang = window.location.pathname.substring(1, 3);
-      const languagesArr = [...languageSelect.querySelectorAll(".select__option")].map(option => option.dataset.lang);
-      const savedLanguage = localStorage.getItem("localization");
-      const isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
-      langOptionDefault.addEventListener('click', event => {
-        localStorage.setItem("localization", DEFAULT_LANG);
-        langOptionDefault.classList.add('lang-select__option--active');
+    showHeaderLang: function showHeaderLang() {
+      var langSelect = document.querySelectorAll(".lang-select");
+      var currentLangBlock = document.querySelectorAll(".lang-select__current");
+      var langOptions = document.querySelectorAll(".lang-select__option");
+      var langOptionDefault = document.querySelector('.lang-select__option--default');
+      var languageSelect = document.querySelector(".select");
+      var currentLang = window.location.pathname.substring(1, 3);
 
-        // --- ИСПРАВЛЕНИЕ: обновляем флаг при клике в хедере ---
+      var languagesArr = _toConsumableArray(languageSelect.querySelectorAll(".select__option")).map(function (option) {
+        return option.dataset.lang;
+      });
+
+      var savedLanguage = localStorage.getItem("localization");
+      var isSavedDefault = localStorage.getItem("localization") === DEFAULT_LANG;
+      langOptionDefault.addEventListener('click', function (event) {
+        localStorage.setItem("localization", DEFAULT_LANG);
+        langOptionDefault.classList.add('lang-select__option--active'); // --- ИСПРАВЛЕНИЕ: обновляем флаг при клике в хедере ---
+
         updateHeaderFlag(DEFAULT_LANG);
       });
-      langOptions.forEach(option => {
-        option.addEventListener('click', () => {
-          const selectedLang = option.dataset.lang;
-          localStorage.setItem("localization", selectedLang);
+      langOptions.forEach(function (option) {
+        option.addEventListener('click', function () {
+          var selectedLang = option.dataset.lang;
+          localStorage.setItem("localization", selectedLang); // --- ИСПРАВЛЕНИЕ: обновляем флаг при смене языка из хедера ---
 
-          // --- ИСПРАВЛЕНИЕ: обновляем флаг при смене языка из хедера ---
           updateHeaderFlag(selectedLang);
         });
         option.dataset.lang === currentLang ? option.classList.add("lang-select__option--active") : false;
         option.dataset.lang === DEFAULT_LANG && isSavedDefault ? option.classList.add("lang-select__option--active") : false;
         option.dataset.lang === DEFAULT_LANG && !savedLanguage ? option.classList.add("lang-select__option--active") : false;
       });
-      const createCurrentFlagElement = innerElement => {
-        const flagImage = document.createElement("img");
+
+      var createCurrentFlagElement = function createCurrentFlagElement(innerElement) {
+        var flagImage = document.createElement("img");
         flagImage.className = "lang-select__flag lang-select__flag--current";
         flagImage.setAttribute("src", "../img/language-".concat(savedLanguage || DEFAULT_LANG, ".png"));
         flagImage.setAttribute("alt", savedLanguage || DEFAULT_LANG);
@@ -4065,137 +4152,181 @@ const Controls = function () {
         flagImage.setAttribute('height', '14');
         innerElement.append(flagImage);
       };
-      currentLangBlock.forEach(block => createCurrentFlagElement(block));
-      document.addEventListener("click", event => {
-        const {
-          target
-        } = event;
+
+      currentLangBlock.forEach(function (block) {
+        return createCurrentFlagElement(block);
+      });
+      document.addEventListener("click", function (event) {
+        var target = event.target;
+
         if (target.closest(".lang-select")) {
-          langSelect.forEach(select => select.classList.toggle("lang-select--active"));
+          langSelect.forEach(function (select) {
+            return select.classList.toggle("lang-select--active");
+          });
         } else {
-          langSelect.forEach(select => select.classList.remove("lang-select--active"));
+          langSelect.forEach(function (select) {
+            return select.classList.remove("lang-select--active");
+          });
         }
       });
-      const setCorrectURL = () => {
-        const search = window.location.search;
-        const pathArr = window.location.pathname.split('/');
-        const currentPage = pathArr[pathArr.length - 1];
-        const isOrderPage = currentPage === 'order.html';
-        const isSuccessPage = currentPage === 'success.html';
+
+      var setCorrectURL = function setCorrectURL() {
+        var search = window.location.search;
+        var pathArr = window.location.pathname.split('/');
+        var currentPage = pathArr[pathArr.length - 1];
+        var isOrderPage = currentPage === 'order.html';
+        var isSuccessPage = currentPage === 'success.html';
         search ? localStorage.setItem('searchParams', search) : false;
         !isOrderPage && !isSuccessPage ? localStorage.removeItem('searchParams') : false;
-        const savedSearchParams = localStorage.getItem('searchParams');
+        var savedSearchParams = localStorage.getItem('searchParams');
+
         if (savedSearchParams && !search) {
           window.location.href = window.location.href + savedSearchParams;
         }
       };
+
       setCorrectURL();
     },
-    setProductCardHeight: function () {
-      const categoryTabs = document.querySelectorAll(".js-tab");
-      const catalogMoreBtn = document.querySelectorAll(".js-btn-catalog");
-      let productCards = document.querySelectorAll(".product");
-      const setProductHeight = () => {
-        let productCards = document.querySelectorAll(".product");
-        const productDetails = document.querySelectorAll(".product__btn");
+    setProductCardHeight: function setProductCardHeight() {
+      var categoryTabs = document.querySelectorAll(".js-tab");
+      var catalogMoreBtn = document.querySelectorAll(".js-btn-catalog");
+      var productCards = document.querySelectorAll(".product");
+
+      var setProductHeight = function setProductHeight() {
+        var productCards = document.querySelectorAll(".product");
+        var productDetails = document.querySelectorAll(".product__btn");
+
         if (productCards.length && productDetails.length) {
-          const productDetailsBtnHeight = [...productDetails].filter(btn => {
+          var productDetailsBtnHeight = _toConsumableArray(productDetails).filter(function (btn) {
             return btn.clientHeight > 0;
           })[0].clientHeight + 15;
-          const cardsHeightArray = [...productCards].map(card => card.clientHeight);
-          const maxCardHeight = Math.max(...cardsHeightArray);
-          productCards.forEach((card, index) => {
-            const newCardHeight = "".concat(maxCardHeight - productDetailsBtnHeight, "px");
+
+          var cardsHeightArray = _toConsumableArray(productCards).map(function (card) {
+            return card.clientHeight;
+          });
+
+          var maxCardHeight = Math.max.apply(Math, _toConsumableArray(cardsHeightArray));
+          productCards.forEach(function (card, index) {
+            var newCardHeight = "".concat(maxCardHeight - productDetailsBtnHeight, "px");
             card.style.height = newCardHeight;
-            card.addEventListener("mouseover", _ref => {
-              let {
-                target
-              } = _ref;
+            card.addEventListener("mouseover", function (_ref) {
+              var target = _ref.target;
               handleCardMouseOver(target, cardsHeightArray, index);
             }, false);
-            card.addEventListener("mouseout", _ref2 => {
-              let {
-                target
-              } = _ref2;
+            card.addEventListener("mouseout", function (_ref2) {
+              var target = _ref2.target;
               handleCardMouseOut(target, newCardHeight);
             }, false);
           });
         }
       };
-      const setNameAndDescHeight = () => {
-        const winWidth = window.innerWidth;
-        const prodNames = document.querySelectorAll('.product__name');
-        const prodTexts = document.querySelectorAll('.product__desc');
+
+      var setNameAndDescHeight = function setNameAndDescHeight() {
+        var winWidth = window.innerWidth;
+        var prodNames = document.querySelectorAll('.product__name');
+        var prodTexts = document.querySelectorAll('.product__desc');
+
         if (winWidth > 639) {
-          prodNames.forEach(name => name.style.minHeight = 'auto');
-          prodTexts.forEach(text => text.style.minHeight = "auto");
-          const prodNamesHeight = [...prodNames].map(name => name.clientHeight);
-          const prodTextsHeight = [...prodTexts].map(text => text.clientHeight);
-          const maxNameHeight = Math.max(...prodNamesHeight);
-          const maxTextHeight = Math.max(...prodTextsHeight);
-          prodNames.forEach(name => name.style.minHeight = maxNameHeight + 'px');
-          prodTexts.forEach(text => text.style.minHeight = maxTextHeight + 'px');
+          prodNames.forEach(function (name) {
+            return name.style.minHeight = 'auto';
+          });
+          prodTexts.forEach(function (text) {
+            return text.style.minHeight = "auto";
+          });
+
+          var prodNamesHeight = _toConsumableArray(prodNames).map(function (name) {
+            return name.clientHeight;
+          });
+
+          var prodTextsHeight = _toConsumableArray(prodTexts).map(function (text) {
+            return text.clientHeight;
+          });
+
+          var maxNameHeight = Math.max.apply(Math, _toConsumableArray(prodNamesHeight));
+          var maxTextHeight = Math.max.apply(Math, _toConsumableArray(prodTextsHeight));
+          prodNames.forEach(function (name) {
+            return name.style.minHeight = maxNameHeight + 'px';
+          });
+          prodTexts.forEach(function (text) {
+            return text.style.minHeight = maxTextHeight + 'px';
+          });
         } else {
-          prodTexts.forEach(text => text.style.minHeight = "auto");
-          prodNames.forEach(name => name.style.minHeight = 'auto');
+          prodTexts.forEach(function (text) {
+            return text.style.minHeight = "auto";
+          });
+          prodNames.forEach(function (name) {
+            return name.style.minHeight = 'auto';
+          });
         }
       };
-      const updateProductCards = () => productCards = document.querySelectorAll(".product");
-      const handleCardMouseOver = (target, cardsHeightArray, index) => {
-        const initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max(...cardsHeightArray);
-        const card = target.closest(".product");
+
+      var updateProductCards = function updateProductCards() {
+        return productCards = document.querySelectorAll(".product");
+      };
+
+      var handleCardMouseOver = function handleCardMouseOver(target, cardsHeightArray, index) {
+        var initialCardHeight = cardsHeightArray[index] ? cardsHeightArray[index] : Math.max.apply(Math, _toConsumableArray(cardsHeightArray));
+        var card = target.closest(".product");
         card.style.height = "".concat(initialCardHeight, "px");
         card.classList.add("product--hovered");
       };
-      const handleCardMouseOut = (target, newCardHeight) => {
-        const card = target.closest(".product");
+
+      var handleCardMouseOut = function handleCardMouseOut(target, newCardHeight) {
+        var card = target.closest(".product");
         card.style.height = newCardHeight;
         card.classList.remove("product--hovered");
       };
-      const resetCardsHeight = () => {
-        const prodTexts = document.querySelectorAll('.product__desc');
-        productCards.forEach(card => card.style.height = "auto");
-        prodTexts.forEach(text => text.style.minHeight = "auto");
+
+      var resetCardsHeight = function resetCardsHeight() {
+        var prodTexts = document.querySelectorAll('.product__desc');
+        productCards.forEach(function (card) {
+          return card.style.height = "auto";
+        });
+        prodTexts.forEach(function (text) {
+          return text.style.minHeight = "auto";
+        });
       };
-      let isCalculate = false;
-      document.addEventListener("DOMContentLoaded", () => {
+
+      var isCalculate = false;
+      document.addEventListener("DOMContentLoaded", function () {
         resetCardsHeight();
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         setNameAndDescHeight();
         if (winWidth > 479) setProductHeight();
         isCalculate = !isCalculate;
       });
-      window.addEventListener("resize", () => {
+      window.addEventListener("resize", function () {
         resetCardsHeight();
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         setNameAndDescHeight();
         if (winWidth > 479) setProductHeight();
       });
-      catalogMoreBtn.forEach(btn => {
-        btn.addEventListener("click", () => {
+      catalogMoreBtn.forEach(function (btn) {
+        btn.addEventListener("click", function () {
           resetCardsHeight();
           updateProductCards();
           setNameAndDescHeight();
           setProductHeight();
         });
       });
-      categoryTabs.forEach(tab => {
-        tab.addEventListener("click", () => {
+      categoryTabs.forEach(function (tab) {
+        tab.addEventListener("click", function () {
           resetCardsHeight();
           updateProductCards();
           setNameAndDescHeight();
           setProductHeight();
         });
       });
+
       if (!isCalculate) {
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         resetCardsHeight();
         setNameAndDescHeight();
         if (winWidth > 479) setProductHeight();
       }
     },
-    setLoader: function () {
-      const loader = document.querySelector(".loader");
+    setLoader: function setLoader() {
+      var loader = document.querySelector(".loader");
       window.addEventListener("load", function () {
         setTimeout(function () {
           loader.classList.add("loader--hidden");
@@ -4205,11 +4336,13 @@ const Controls = function () {
         loader.classList.add("loader--hidden");
       }, 2500);
     },
-    webpChecker: function () {
-      const WebP = new Image();
+    webpChecker: function webpChecker() {
+      var WebP = new Image();
       WebP.src = "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA";
+
       WebP.onload = WebP.onerror = function () {
-        const isWebp = WebP.height === 2;
+        var isWebp = WebP.height === 2;
+
         if (!isWebp) {
           document.querySelector("body").classList.remove("webp");
         } else {
@@ -4217,7 +4350,7 @@ const Controls = function () {
         }
       };
     },
-    init: function () {
+    init: function init() {
       Controls.openFaqContent();
       Controls.highlightingActiveTab();
       Controls.showListProducts();
@@ -4233,6 +4366,7 @@ const Controls = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Controls);
 
 /***/ }),
@@ -4251,28 +4385,32 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _global_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../global/constants */ "./src/js/global/constants.js");
 
 
-const Menu = function () {
+
+var Menu = function () {
   "use strict";
 
-  const burgerMenu = $(".js-burger");
-  const linkToTarget = $(".js-scroll");
-  const overlay = $(".js-overlay");
-  const fixedMenu = $(".js-fixed-menu");
-  const menuHeight = fixedMenu.height();
-  const scrollHeight = menuHeight;
+  var burgerMenu = $(".js-burger");
+  var linkToTarget = $(".js-scroll");
+  var overlay = $(".js-overlay");
+  var fixedMenu = $(".js-fixed-menu");
+  var menuHeight = fixedMenu.height();
+  var scrollHeight = menuHeight;
+
   function scroll(target) {
-    const top = target.offset().top;
+    var top = target.offset().top;
     $("html, body").animate({
       scrollTop: top - 15
     }, 800);
   }
+
   return {
-    showFixedMenu: function () {
+    showFixedMenu: function showFixedMenu() {
       _global_constants__WEBPACK_IMPORTED_MODULE_1__["DOC"].scroll(function () {
-        const scrollTop = _global_constants__WEBPACK_IMPORTED_MODULE_1__["DOC"].scrollTop();
-        let percent = 0;
-        let shadow = "none";
-        let bg = "none";
+        var scrollTop = _global_constants__WEBPACK_IMPORTED_MODULE_1__["DOC"].scrollTop();
+        var percent = 0;
+        var shadow = "none";
+        var bg = "none";
+
         if (scrollTop < scrollHeight) {
           percent = (scrollTop / scrollHeight).toFixed(2);
           fixedMenu.removeClass("menu--fixed");
@@ -4282,48 +4420,57 @@ const Menu = function () {
           bg = "white";
           fixedMenu.addClass("menu--fixed");
         }
+
         fixedMenu.css({
           boxShadow: shadow,
           background: bg
         });
       });
     },
-    showMobileMenu: function () {
+    showMobileMenu: function showMobileMenu() {
       burgerMenu.click(function (e) {
         e.preventDefault();
-        const target = $($(this).data("target"));
+        var target = $($(this).data("target"));
         target.toggleClass("menu-mobile--active");
         burgerMenu.toggleClass("burger--active");
         overlay.toggleClass("active");
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.toggle();
       });
     },
-    scrollToTarget: function () {
+    scrollToTarget: function scrollToTarget() {
       linkToTarget.click(function (e) {
         e.preventDefault();
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
-        const _this = $(this);
-        const href = _this.attr("href");
-        const target = $(href);
+
+        var _this = $(this);
+
+        var href = _this.attr("href");
+
+        var target = $(href);
+
         if (_this.data("target")) {
-          const target = $(_this.data("target"));
-          scroll(target);
+          var _target = $(_this.data("target"));
+
+          scroll(_target);
         }
+
         if (target.length) {
           scroll(target);
         }
+
         $(".menu-mobile").removeClass("menu-mobile--active");
         burgerMenu.removeClass("burger--active");
         overlay.removeClass("active");
       });
     },
-    init: function () {
-      Menu.showMobileMenu();
-      // Menu.scrollToTarget();
+    init: function init() {
+      Menu.showMobileMenu(); // Menu.scrollToTarget();
+
       Menu.showFixedMenu();
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Menu);
 
 /***/ }),
@@ -4338,78 +4485,103 @@ const Menu = function () {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _data_productInfo__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../data/productInfo */ "./src/js/data/productInfo.js");
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
-const Order = function () {
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _toArray(arr) { return _arrayWithHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+
+
+var Order = function () {
   "use strict";
 
-  const buttonPromocode = $(".js-button-promocode");
-  const inputPromocode = $(".js-input-promocode");
-  const productResidue = $(".js-product-residue");
-  const inputChatbotHistory = $("input[name=\"chatbot_history\"]");
+  var buttonPromocode = $(".js-button-promocode");
+  var inputPromocode = $(".js-input-promocode");
+  var productResidue = $(".js-product-residue");
+  var inputChatbotHistory = $("input[name=\"chatbot_history\"]");
+
   function updValueChatbotHistory() {
     inputChatbotHistory.val(JSON.stringify(data));
   }
+
   function prettify(num) {
     var n = num.toString();
     return n.replace(/(\d{1,3}(?=(?:\d\d\d)+(?!\d)))/g, "$1" + " ");
   }
-  let data = [];
-  let count = 1;
+
+  var data = [];
+  var count = 1;
+
   function getParameterByName(name) {
-    let url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
+    var url = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.location.href;
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-      results = regex.exec(url);
+        results = regex.exec(url);
     if (!results) return null;
     if (!results[2]) return "";
     return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
+
   function randomInteger(min, max) {
     var rand = min + Math.random() * (max + 1 - min);
     return Math.floor(rand);
   }
+
   return {
-    submitForm: function () {
+    submitForm: function submitForm() {
       $("#order-form").submit(function (e) {
         // e.preventDefault();
-
         $("input[name='count']").val(count);
-        const dataForm = $(this).find("input.js-data").serializeArray();
-        const [...object] = dataForm.map(function (item) {
+        var dataForm = $(this).find("input.js-data").serializeArray();
+
+        var _dataForm$map = dataForm.map(function (item) {
           return {
             answer: item.value,
             question: item.name
           };
-        });
-        data.push(...object);
+        }),
+            _dataForm$map2 = _toArray(_dataForm$map),
+            object = _dataForm$map2.slice(0);
+
+        data.push.apply(data, _toConsumableArray(object));
         updValueChatbotHistory();
       });
     },
-    createOrderForm: function () {
-      const productName = getParameterByName("id");
-      const productNameGuavital = 'guavital';
-      const isGuavital = String(productName).includes(productNameGuavital);
-      const productNameUnderscore = String(productName).split('-').join('_');
-      let prodNameWithSpaces = String(productName).split(/[-_]/).join(' ');
+    createOrderForm: function createOrderForm() {
+      var productName = getParameterByName("id");
+      var productNameGuavital = 'guavital';
+      var isGuavital = String(productName).includes(productNameGuavital);
+      var productNameUnderscore = String(productName).split('-').join('_');
+      var prodNameWithSpaces = String(productName).split(/[-_]/).join(' ');
+
       if (isGuavital) {
         prodNameWithSpaces += '+';
       }
-      const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
-      // console.log(productNameUnderscore);
+
+      var currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false; // console.log(productNameUnderscore);
 
       if (productName) {
-        const countryCode = $("input[name='country_code']");
-        countryCode.val(currentLangLower.toUpperCase());
-        // console.log(countryCode);
+        var countryCode = $("input[name='country_code']");
+        countryCode.val(currentLangLower.toUpperCase()); // console.log(countryCode);
 
-        const orderForm = document.querySelector('#order-form');
-        const productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
-        const imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier;
+        var orderForm = document.querySelector('#order-form');
+        var productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
+        var imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier; // const formData = formSetting[productData.company]
 
-        // const formData = formSetting[productData.company]
-
-        if (orderForm) {
-          // const body = document.querySelector('body')
+        if (orderForm) {// const body = document.querySelector('body')
           // const script = document.createElement('script')
           // const scriptFirst = document.createElement('script')
           //
@@ -4422,17 +4594,16 @@ const Order = function () {
           //     window.is_namephone_validated = true;
           //     window.back_button_enabled = true;
           // `
-
           // orderForm.setAttribute('action', String(formData.formAction))
           // scriptFirst.textContent = startScript
           // script.textContent = formData.formSendScript
           // body.appendChild(scriptFirst)
           // body.appendChild(script)
-        }
+        } // console.log(productName);
 
-        // console.log(productName);
-        const productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productNameUnderscore)];
-        const productNewPrice = productInfo.newPrice;
+
+        var productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productNameUnderscore)];
+        var productNewPrice = productInfo.newPrice;
         $(".js-product-name").html(prodNameWithSpaces);
         $(".js-product-photo").attr("src", "../img/".concat(productName, ".png"));
         imgModifier ? $(".order-block__product").addClass(imgModifier) : false;
@@ -4443,81 +4614,89 @@ const Order = function () {
         $("input[name='product']").val("".concat(productData.productName));
         $("input[name='niche']").val(productData.niche);
         $("input[name='country']").val(productData.country);
-        $("input[name='lang']").val(currentLangLower);
-        // window.addEventListener('load', () => $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`))
+        $("input[name='lang']").val(currentLangLower); // window.addEventListener('load', () => $(`input[name='country_code']`).val(`${currentLangLower.toUpperCase()}`))
       }
     },
-    choiceCountProduct: function () {
+    choiceCountProduct: function choiceCountProduct() {
       $(".js-counter-arrow-inc").click(function (e) {
         e.preventDefault();
         count += 1;
+
         if (count > 20) {
           count = 20;
         }
+
         $(".js-counter-number").html(count);
-        const valueSale = $(".js-sale-product").text();
+        var valueSale = $(".js-sale-product").text();
+
         if (Number(valueSale.replace(/\s/g, "")) > 0) {
           Order.calcSaleProduct();
         }
+
         Order.calcOrderProduct(count);
       });
       $(".js-counter-arrow-dec").click(function (e) {
         e.preventDefault();
         count -= 1;
+
         if (count <= 1) {
           count = 1;
         }
+
         $(".js-counter-number").html(count);
-        const valueSale = $(".js-sale-product").text();
+        var valueSale = $(".js-sale-product").text();
+
         if (Number(valueSale.replace(/\s/g, "")) > 0) {
           Order.calcSaleProduct();
         }
+
         Order.calcOrderProduct(count);
       });
     },
-    calcSaleProduct: function () {
-      const productName = getParameterByName("id");
-      // const productInfo = info[`${productName}`];
-      const productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
-      const productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
-      const productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
-      const saleProduct = productNewPrice - productSalePrice;
+    calcSaleProduct: function calcSaleProduct() {
+      var productName = getParameterByName("id"); // const productInfo = info[`${productName}`];
+
+      var productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
+      var productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
+      var productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
+      var saleProduct = productNewPrice - productSalePrice;
       $(".js-sale-product").html(prettify(saleProduct * count));
     },
-    calcOrderProduct: function () {
-      let count = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 1;
-      const priceProduct = Number($(".js-price-product").text().replace(/\s/g, "") * count);
-      const saleProduct = Number($(".js-sale-product").text().replace(/\s/g, ""));
-      let priceOrder = 0;
+    calcOrderProduct: function calcOrderProduct() {
+      var count = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 1;
+      var priceProduct = Number($(".js-price-product").text().replace(/\s/g, "") * count);
+      var saleProduct = Number($(".js-sale-product").text().replace(/\s/g, ""));
+      var priceOrder = 0;
+
       if (priceProduct >= saleProduct) {
         priceOrder = priceProduct - saleProduct;
       } else {
         priceOrder = saleProduct - priceProduct;
       }
-      $(".js-price-order").html(prettify(priceOrder));
 
-      //фіксуємо всю суму замовлення
+      $(".js-price-order").html(prettify(priceOrder)); //фіксуємо всю суму замовлення
+
       $("input[name='count']").val(count);
       $("input[name='total-price']").val(priceOrder);
     },
-    validatePromocode: function (promocode) {
+    validatePromocode: function validatePromocode(promocode) {
       buttonPromocode.click(function (e) {
         e.preventDefault();
-        const valueInput = inputPromocode.val().trim();
+        var valueInput = inputPromocode.val().trim();
+
         if (valueInput === promocode) {
           inputPromocode.addClass("check");
           inputPromocode.attr("readonly", true);
           buttonPromocode.attr("disabled", true);
-          const productName = getParameterByName("id");
-          // const productInfo = info[`${productName}`];
-          const productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
-          const productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
-          const productNewPrice = Number(productInfo.newPrice.replace(/\s/g, ""));
+          var productName = getParameterByName("id"); // const productInfo = info[`${productName}`];
 
-          //Фіксуємо, що користувач увів правильний промокод
+          var productInfo = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"]["".concat(localStorage.getItem('localization'))]["".concat(productName)];
+          var productSalePrice = Number(productInfo.salePrice.replace(/\s/g, ""));
+          var productNewPrice = Number(productInfo.newPrice.replace(/\s/g, "")); //Фіксуємо, що користувач увів правильний промокод
+
           $("input[name='discount-price']").val(productNewPrice - productSalePrice);
-          const countProduct = $(".price-item .js-counter-number").text();
-          const saleProduct = (productNewPrice - productSalePrice) * countProduct;
+          var countProduct = $(".price-item .js-counter-number").text();
+          var saleProduct = (productNewPrice - productSalePrice) * countProduct;
           $(".js-sale-product").html(prettify(saleProduct));
           Order.calcOrderProduct(countProduct);
         } else {
@@ -4525,10 +4704,12 @@ const Order = function () {
         }
       });
     },
-    checkButtonActive: function () {
+    checkButtonActive: function checkButtonActive() {
       inputPromocode.on("input", function () {
-        const _this = $(this);
-        const value = _this.val();
+        var _this = $(this);
+
+        var value = _this.val();
+
         if (value.length >= 1) {
           buttonPromocode.attr("disabled", false);
         } else {
@@ -4536,31 +4717,34 @@ const Order = function () {
         }
       });
     },
-    createSuccessPage: function () {
-      const productName = getParameterByName("id");
+    createSuccessPage: function createSuccessPage() {
+      var productName = getParameterByName("id");
+
       if (productName) {
-        const productNameUnderscore = String(productName).split('-').join('_');
-        const currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
-        const productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
-        const imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier;
+        var productNameUnderscore = String(productName).split('-').join('_');
+        var currentLangLower = localStorage.getItem('localization') ? localStorage.getItem('localization').toLowerCase() : false;
+        var productData = _data_productInfo__WEBPACK_IMPORTED_MODULE_0__["productsInfo"][currentLangLower][productNameUnderscore];
+        var imgModifier = productData === null || productData === void 0 ? void 0 : productData.modifier;
         $(".js-success-product-name").html(productName);
         $(".js-success-product-photo").attr("src", "../img/".concat(productName, ".png"));
         imgModifier ? $(".js-success-product-photo").addClass(imgModifier) : false;
       }
     },
-    showResiudePack: function () {
-      let max = 60;
-      let min = 12;
-      setInterval(() => {
-        let difference = randomInteger(1, 6);
+    showResiudePack: function showResiudePack() {
+      var max = 60;
+      var min = 12;
+      setInterval(function () {
+        var difference = randomInteger(1, 6);
         max = max - difference;
+
         if (max <= min) {
           return;
         }
+
         productResidue.html(max);
       }, 12000);
     },
-    init: function () {
+    init: function init() {
       Order.createOrderForm();
       Order.choiceCountProduct();
       Order.createSuccessPage();
@@ -4568,8 +4752,8 @@ const Order = function () {
       Order.calcOrderProduct();
       Order.validatePromocode('0JH343');
       Order.checkButtonActive();
-      Order.showResiudePack();
-      // Order.calcSaleProduct();
+      Order.showResiudePack(); // Order.calcSaleProduct();
+
       window.addEventListener("pageshow", function (event) {
         if (event.persisted) {
           Order.createOrderForm();
@@ -4578,6 +4762,7 @@ const Order = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Order);
 
 /***/ }),
@@ -4594,16 +4779,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../global/noScroll */ "./src/js/global/noScroll.js");
 /* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_global_noScroll__WEBPACK_IMPORTED_MODULE_0__);
 
-const Popup = function () {
+
+var Popup = function () {
   "use strict";
 
-  const popUpBlock = $(".js-popup");
-  const linkShowPopUp = $(".js-show-popup");
-  const ButtonShowFramePopUp = $(".js-show-frame-popup");
-  const framePopUpBlock = $(".js-frame-popup");
-  const overlay = $(".js-overlay");
+  var popUpBlock = $(".js-popup");
+  var linkShowPopUp = $(".js-show-popup");
+  var ButtonShowFramePopUp = $(".js-show-frame-popup");
+  var framePopUpBlock = $(".js-frame-popup");
+  var overlay = $(".js-overlay");
   return {
-    addFramePopup: function () {
+    addFramePopup: function addFramePopup() {
       if ($('.js-show-frame-popup')) {
         var link = $(".js-show-frame-popup").attr("data-src");
         var frame = document.createElement("iframe");
@@ -4612,7 +4798,7 @@ const Popup = function () {
         $('.frame-popup__content').append(frame);
       }
     },
-    initFramePopup: function () {
+    initFramePopup: function initFramePopup() {
       ButtonShowFramePopUp.click(function (e) {
         framePopUpBlock.toggleClass("active");
         overlay.addClass("active");
@@ -4621,19 +4807,23 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
       });
     },
-    closeFramePopup: function () {
+    closeFramePopup: function closeFramePopup() {
       $(".js-frame-close").click(function (e) {
         framePopUpBlock.removeClass("active");
         overlay.removeClass("active");
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
       });
     },
-    initPopUp: function () {
+    initPopUp: function initPopUp() {
       linkShowPopUp.click(function (e) {
         e.preventDefault();
-        const _this = $(this);
-        const target = $(_this.data("target"));
+
+        var _this = $(this);
+
+        var target = $(_this.data("target"));
+
         _this.toggleClass("active");
+
         target.toggleClass("active");
         overlay.addClass("active");
         $(".menu-mobile").removeClass("menu-mobile--active");
@@ -4641,13 +4831,12 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
       });
     },
-    closePopup: function () {
-      const popup = document.querySelector('.js-popup');
-      popup.addEventListener('click', event => {
-        const {
-          target
-        } = event;
-        const isOverlay = target.classList.contains('popup');
+    closePopup: function closePopup() {
+      var popup = document.querySelector('.js-popup');
+      popup.addEventListener('click', function (event) {
+        var target = event.target;
+        var isOverlay = target.classList.contains('popup');
+
         if (isOverlay) {
           popUpBlock.removeClass("active");
           linkShowPopUp.removeClass("active");
@@ -4663,7 +4852,7 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
       });
     },
-    init: function () {
+    init: function init() {
       Popup.addFramePopup();
       Popup.initPopUp();
       Popup.closePopup();
@@ -4672,6 +4861,7 @@ const Popup = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Popup);
 
 /***/ }),
@@ -4685,67 +4875,97 @@ const Popup = function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-const Sliders = function () {
-  const headerSlider = $(".js-slider-header");
-  const productsSlider = $(".js-slider-products");
-  const reviewsSliderWrap = $(".js-slider-reviews-wrap");
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
+
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+var Sliders = function () {
+  var headerSlider = $(".js-slider-header");
+  var productsSlider = $(".js-slider-products");
+  var reviewsSliderWrap = $(".js-slider-reviews-wrap");
   return {
-    updatePagination: function (c, m) {
+    updatePagination: function updatePagination(c, m) {
       var current = c,
-        last = m,
-        delta = 2,
-        left = current - delta,
-        right = current + delta + 1,
-        range = [],
-        rangeWithDots = [],
-        l;
-      for (let i = 1; i <= last; i++) {
+          last = m,
+          delta = 2,
+          left = current - delta,
+          right = current + delta + 1,
+          range = [],
+          rangeWithDots = [],
+          l;
+
+      for (var i = 1; i <= last; i++) {
         if (i == 1 || i == last || i >= left && i < right) {
           range.push(i);
         }
       }
-      for (let i of range) {
+
+      for (var _i = 0, _range = range; _i < _range.length; _i++) {
+        var _i2 = _range[_i];
+
         if (l) {
-          if (i - l === 2) {
+          if (_i2 - l === 2) {
             rangeWithDots.push(l + 1);
-          } else if (i - l !== 1) {
+          } else if (_i2 - l !== 1) {
             rangeWithDots.push("...");
           }
         }
-        rangeWithDots.push(i);
-        l = i;
+
+        rangeWithDots.push(_i2);
+        l = _i2;
       }
+
       return rangeWithDots;
     },
-    changeSliderDots: function (paginationArray) {
-      const dotsArray = reviewsSlider.find(".slick-dots li a");
-      for (let i = 0; i < dotsArray.length; i++) {
-        const dot = $(dotsArray[i]);
-        const li = dot.parents("li");
+    changeSliderDots: function changeSliderDots(paginationArray) {
+      var dotsArray = reviewsSlider.find(".slick-dots li a");
+
+      for (var i = 0; i < dotsArray.length; i++) {
+        var dot = $(dotsArray[i]);
+        var li = dot.parents("li");
         li.removeClass("hide");
-        const indexDot = dot.data("slide-index");
+        var indexDot = dot.data("slide-index");
+
         if (paginationArray.indexOf(indexDot) === -1) {
           li.addClass("hide");
         }
       }
     },
-    initReviewsSlider: function () {
+    initReviewsSlider: function initReviewsSlider() {
       reviewsSliderWrap.each(function (index) {
         var _this = $(this);
+
         _this.addClass("swiper-slider-review-" + index);
-        const setActualReviewHeight = isOneVisibleSlide => {
-          const reviewBlocks = document.querySelectorAll('.swiper-slider-review-' + index + ' .js-review');
+
+        var setActualReviewHeight = function setActualReviewHeight(isOneVisibleSlide) {
+          var reviewBlocks = document.querySelectorAll('.swiper-slider-review-' + index + ' .js-review');
+
           if (!isOneVisibleSlide) {
-            const maxHeight = Math.max(...[...reviewBlocks].map(review => review.offsetHeight));
-            reviewBlocks.forEach(review => review.style.minHeight = maxHeight + 'px');
+            var maxHeight = Math.max.apply(Math, _toConsumableArray(_toConsumableArray(reviewBlocks).map(function (review) {
+              return review.offsetHeight;
+            })));
+            reviewBlocks.forEach(function (review) {
+              return review.style.minHeight = maxHeight + 'px';
+            });
           } else {
-            reviewBlocks.forEach(review => review.style.minHeight = 'auto');
+            reviewBlocks.forEach(function (review) {
+              return review.style.minHeight = 'auto';
+            });
           }
         };
-        const winWidth = window.innerWidth;
+
+        var winWidth = window.innerWidth;
         winWidth <= 639 ? setActualReviewHeight(true) : setActualReviewHeight(false);
-        window.addEventListener('resize', () => {
-          const winWidth = window.innerWidth;
+        window.addEventListener('resize', function () {
+          var winWidth = window.innerWidth;
           winWidth <= 639 ? setActualReviewHeight(true) : setActualReviewHeight(false);
         });
         var swiper = new Swiper(".swiper-slider-review-" + index, {
@@ -4776,7 +4996,7 @@ const Sliders = function () {
         });
       });
     },
-    initHeaderSlider: function () {
+    initHeaderSlider: function initHeaderSlider() {
       headerSlider.on("init", function (event, slick, direction) {
         headerSlider.addClass("init");
       });
@@ -4794,7 +5014,7 @@ const Sliders = function () {
         }
       });
     },
-    initProductSlider: function () {
+    initProductSlider: function initProductSlider() {
       $(".js-slider-product-for").not(".slick-initialized").slick({
         slidesToShow: 1,
         slidesToScroll: 1,
@@ -4810,8 +5030,8 @@ const Sliders = function () {
         focusOnSelect: true
       });
     },
-    initProductsSlider: function () {
-      const prodSlider = new Swiper('.js-slider-products', {
+    initProductsSlider: function initProductsSlider() {
+      var prodSlider = new Swiper('.js-slider-products', {
         direction: "horizontal",
         slidesPerView: 1,
         scrollbar: {
@@ -4834,53 +5054,56 @@ const Sliders = function () {
           }
         }
       });
-      const isSlider = document.querySelector('.js-slider-products');
+      var isSlider = document.querySelector('.js-slider-products');
       window.addEventListener('resize', function () {
-        const winWidth = window.innerWidth;
+        var winWidth = window.innerWidth;
         isSlider && winWidth <= 767 ? prodSlider.destroy() : false;
       });
     },
-    destroyProductsSlider: function () {
+    destroyProductsSlider: function destroyProductsSlider() {
       productsSlider.filter(".slick-initialized").slick("unslick");
     },
-    setHitsSize: function () {
-      const hits = document.querySelector('.hits');
-      const products = hits ? [...hits.querySelectorAll('.product')] : null;
+    setHitsSize: function setHitsSize() {
+      var hits = document.querySelector('.hits');
+      var products = hits ? _toConsumableArray(hits.querySelectorAll('.product')) : null;
+
       function setHitsHeight() {
-        const productHeights = products ? [...products].map(prod => {
-          const paddingTop = parseInt(window.getComputedStyle(prod).paddingTop);
-          const paddingBottom = parseInt(window.getComputedStyle(prod).paddingBottom);
-          const contentHeight = prod.querySelector('.product__content').clientHeight;
-          const buttonHeight = prod.querySelector('.product__btn').clientHeight;
-          const buttonMarginTop = parseInt(window.getComputedStyle(prod.querySelector('.product__btn')).marginTop);
+        var productHeights = products ? _toConsumableArray(products).map(function (prod) {
+          var paddingTop = parseInt(window.getComputedStyle(prod).paddingTop);
+          var paddingBottom = parseInt(window.getComputedStyle(prod).paddingBottom);
+          var contentHeight = prod.querySelector('.product__content').clientHeight;
+          var buttonHeight = prod.querySelector('.product__btn').clientHeight;
+          var buttonMarginTop = parseInt(window.getComputedStyle(prod.querySelector('.product__btn')).marginTop);
           return Number(paddingTop + paddingBottom + contentHeight + buttonHeight + buttonMarginTop);
         }) : null;
-        const maxHeight = productHeights ? Math.max(...productHeights) : null;
-
-        // console.log(productHeights);
+        var maxHeight = productHeights ? Math.max.apply(Math, _toConsumableArray(productHeights)) : null; // console.log(productHeights);
         // console.log(maxHeight);
 
         window.innerWidth > 767 && maxHeight ? hits.style.height = maxHeight + 'px' : hits.style.height = 'auto';
       }
+
       if (hits) {
         window.addEventListener('resize', setHitsHeight);
         setHitsHeight();
       }
     },
-    setActiveSlide: function () {
-      const prodSlider = document.querySelector('.product-item__slider');
+    setActiveSlide: function setActiveSlide() {
+      var prodSlider = document.querySelector('.product-item__slider');
+
       if (prodSlider) {
-        const navSlides = document.querySelectorAll('.slider-prod__nav-item');
+        var navSlides = document.querySelectorAll('.slider-prod__nav-item');
         navSlides[0].classList.add('active');
-        navSlides.forEach(slide => {
+        navSlides.forEach(function (slide) {
           slide.addEventListener('click', function (e) {
-            navSlides.forEach(slide => slide.classList.remove('active'));
+            navSlides.forEach(function (slide) {
+              return slide.classList.remove('active');
+            });
             slide.classList.add('active');
           });
         });
       }
     },
-    init: function () {
+    init: function init() {
       Sliders.initHeaderSlider();
       Sliders.initReviewsSlider();
       Sliders.setHitsSize();
@@ -4888,6 +5111,7 @@ const Sliders = function () {
     }
   };
 }();
+
 /* harmony default export */ __webpack_exports__["default"] = (Sliders);
 
 /***/ }),
@@ -4899,7 +5123,7 @@ const Sliders = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\/main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! /Users/maksimvovk/Documents/Everad/Layout/Naturallic Project/naturallic/src/js/main.js */"./src/js/main.js");
 
 
 /***/ })

@@ -2,7 +2,7 @@ export const productsInfo = {
     be: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Perte de poids',
             country: 'Belgium',
             productName: 'GUAVITAL+',
@@ -11,7 +11,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Varices',
             country: 'Belgium',
             productName: 'Trovazin',
@@ -20,7 +20,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Mycose',
             country: 'Belgium',
             productName: 'Desalix',
@@ -29,7 +29,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Parasites',
             country: 'Belgium',
             productName: 'Paraxan',
@@ -39,7 +39,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Prostatite',
             country: 'Belgium',
             productName: 'Exurol',
@@ -49,7 +49,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Vision',
             country: 'Belgium',
             productName: 'Visoptic DUO Night',
@@ -59,7 +59,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Vision',
             country: 'Belgium',
             productName: 'Visoptic DUO Day',
@@ -68,7 +68,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Rajeunissement',
             country: 'Belgium',
             productName: 'Beauty Age Skin',
@@ -77,7 +77,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Rajeunissement',
             country: 'Belgium',
             productName: 'Beauty Age Skin Peeling',
@@ -87,7 +87,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Ouïe',
             country: 'Belgium',
             productName: 'Ausen',
@@ -97,7 +97,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Parasites',
             country: 'Belgium',
             productName: 'Vermixin',
@@ -107,7 +107,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Puissance',
             country: 'Belgium',
             productName: 'Viarex',
@@ -117,7 +117,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Puissance',
             country: 'Belgium',
             productName: 'Urosaf',
@@ -127,7 +127,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Articulations',
             country: 'Belgium',
             productName: 'Steplex',
@@ -136,7 +136,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Varices',
             country: 'Belgium',
             productName: 'Vasaxal',
@@ -145,7 +145,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Mycose',
             country: 'Belgium',
             productName: 'Demyxil',
@@ -154,7 +154,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Perte de poids',
             country: 'Belgium',
             productName: 'Delislim',
@@ -163,7 +163,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Vision',
             country: 'Belgium',
             productName: 'Ophtalax',
@@ -172,7 +172,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Hémorroïdes',
             country: 'Belgium',
             productName: 'Vasos Duo',
@@ -183,7 +183,7 @@ export const productsInfo = {
     bg: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Отслабване',
             country: 'Bulgaria',
             productName: 'GUAVITAL+',
@@ -192,7 +192,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Варикоза',
             country: 'Bulgaria',
             productName: 'Trovazin',
@@ -201,7 +201,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Гъбички',
             country: 'Bulgaria',
             productName: 'Desalix',
@@ -210,7 +210,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Паразити',
             country: 'Bulgaria',
             productName: 'Paraxan',
@@ -220,7 +220,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Простатит',
             country: 'Bulgaria',
             productName: 'Exurol',
@@ -230,7 +230,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Зрение',
             country: 'Bulgaria',
             productName: 'Visoptic DUO Night',
@@ -240,7 +240,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Зрение',
             country: 'Bulgaria',
             productName: 'Visoptic DUO Day',
@@ -249,7 +249,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Подмладяване',
             country: 'Bulgaria',
             productName: 'Beauty Age Skin',
@@ -258,7 +258,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Подмладяване',
             country: 'Bulgaria',
             productName: 'Beauty Age Skin Peeling',
@@ -268,7 +268,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Слух',
             country: 'Bulgaria',
             productName: 'Ausen',
@@ -278,7 +278,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Паразити',
             country: 'Bulgaria',
             productName: 'Vermixin',
@@ -288,7 +288,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Потентност',
             country: 'Bulgaria',
             productName: 'Viarex',
@@ -298,7 +298,7 @@ export const productsInfo = {
         femixal: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Пикочната система',
             country: 'Bulgaria',
             productName: 'Femixal',
@@ -308,7 +308,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Потентност',
             country: 'Bulgaria',
             productName: 'Urosaf',
@@ -318,7 +318,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Стави',
             country: 'Bulgaria',
             productName: 'Steplex',
@@ -327,7 +327,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Варикоза',
             country: 'Bulgaria',
             productName: 'Vasaxal',
@@ -336,7 +336,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Гъбички',
             country: 'Bulgaria',
             productName: 'Demyxil',
@@ -345,7 +345,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Отслабване',
             country: 'Bulgaria',
             productName: 'Delislim',
@@ -354,7 +354,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Зрение',
             country: 'Bulgaria',
             productName: 'Ophtalax',
@@ -363,7 +363,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082459',
+            campaign_id: '1498531',
             niche: 'Хемороиди',
             country: 'Bulgaria',
             productName: 'Vasos Duo',
@@ -374,7 +374,7 @@ export const productsInfo = {
     cz: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Hubnutí',
             country: 'Czech',
             productName: 'GUAVITAL+',
@@ -383,7 +383,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Křečové žíly',
             country: 'Czech',
             productName: 'Trovazin',
@@ -392,7 +392,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Fungus',
             country: 'Czech',
             productName: 'Desalix',
@@ -401,7 +401,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Paraziti',
             country: 'Czech',
             productName: 'Paraxan',
@@ -411,7 +411,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Zánět prostaty',
             country: 'Czech',
             productName: 'Exurol',
@@ -421,7 +421,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Visoptic DUO Night',
@@ -431,7 +431,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Visoptic DUO Day',
@@ -440,7 +440,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Omlazování',
             country: 'Czech',
             productName: 'Beauty Age Skin',
@@ -449,7 +449,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Omlazování',
             country: 'Czech',
             productName: 'Beauty Age Skin Peeling',
@@ -459,7 +459,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Sluch',
             country: 'Czech',
             productName: 'Ausen',
@@ -469,7 +469,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Paraziti',
             country: 'Czech',
             productName: 'Vermixin',
@@ -479,7 +479,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Potence',
             country: 'Czech',
             productName: 'Viarex',
@@ -488,7 +488,7 @@ export const productsInfo = {
         },
         ultraxal: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Klouby',
             country: 'Czech',
             productName: 'Ultraxal',
@@ -498,7 +498,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Potence',
             country: 'Czech',
             productName: 'Urosaf',
@@ -508,7 +508,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Klouby',
             country: 'Czech',
             productName: 'Steplex',
@@ -517,7 +517,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Křečové žíly',
             country: 'Czech',
             productName: 'Vasaxal',
@@ -526,7 +526,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Fungus',
             country: 'Czech',
             productName: 'Demyxil',
@@ -535,7 +535,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Hubnutí',
             country: 'Czech',
             productName: 'Delislim',
@@ -544,7 +544,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Zrak',
             country: 'Czech',
             productName: 'Ophtalax',
@@ -553,7 +553,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082469',
+            campaign_id: '1498531',
             niche: 'Hemoroidy',
             country: 'Czech',
             productName: 'Vasos Duo',
@@ -564,7 +564,7 @@ export const productsInfo = {
     ee: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Kaalulangetus',
             country: 'Estonia',
             productName: 'GUAVITAL+',
@@ -573,7 +573,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Varikoos',
             country: 'Estonia',
             productName: 'Trovazin',
@@ -582,7 +582,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Seenhaigus',
             country: 'Estonia',
             productName: 'Desalix',
@@ -591,7 +591,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Parasiidid',
             country: 'Estonia',
             productName: 'Paraxan',
@@ -601,7 +601,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Prostatiit',
             country: 'Estonia',
             productName: 'Exurol',
@@ -611,7 +611,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Nägemine',
             country: 'Estonia',
             productName: 'Visoptic DUO Night',
@@ -621,7 +621,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Nägemine',
             country: 'Estonia',
             productName: 'Visoptic DUO Day',
@@ -630,7 +630,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Noorenemine',
             country: 'Estonia',
             productName: 'Beauty Age Skin',
@@ -639,7 +639,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Noorenemine',
             country: 'Estonia',
             productName: 'Beauty Age Skin Peeling',
@@ -649,7 +649,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Kuulmine',
             country: 'Estonia',
             productName: 'Ausen',
@@ -659,7 +659,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Parasiidid',
             country: 'Estonia',
             productName: 'Vermixin',
@@ -669,7 +669,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Potents',
             country: 'Estonia',
             productName: 'Viarex',
@@ -679,7 +679,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Potents',
             country: 'Estonia',
             productName: 'Urosaf',
@@ -689,7 +689,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Liigesed',
             country: 'Estonia',
             productName: 'Steplex',
@@ -698,7 +698,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Varikoos',
             country: 'Estonia',
             productName: 'Vasaxal',
@@ -707,7 +707,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Seenhaigus',
             country: 'Estonia',
             productName: 'Demyxil',
@@ -716,7 +716,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Kaalulangetus',
             country: 'Estonia',
             productName: 'Delislim',
@@ -725,7 +725,7 @@ export const productsInfo = {
         },
         kardivix: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Südame-veresoonkond',
             country: 'Estonia',
             productName: 'Kardivix',
@@ -734,7 +734,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082460',
+            campaign_id: '1498531',
             niche: 'Hemorroidid',
             country: 'Estonia',
             productName: 'Vasos Duo',
@@ -745,7 +745,7 @@ export const productsInfo = {
     gr: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'απώλεια βάρους',
             country: 'Greece',
             productName: 'GUAVITAL+',
@@ -754,7 +754,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Κιρσοί',
             country: 'Greece',
             productName: 'Trovazin',
@@ -763,7 +763,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Μύκητας',
             country: 'Greece',
             productName: 'Desalix',
@@ -772,7 +772,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Παράσιτα',
             country: 'Greece',
             productName: 'Paraxan',
@@ -782,7 +782,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Προστατίτιδα',
             country: 'Greece',
             productName: 'Exurol',
@@ -792,7 +792,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Όραση',
             country: 'Greece',
             productName: 'Visoptic DUO Night',
@@ -802,7 +802,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Όραση',
             country: 'Greece',
             productName: 'Visoptic DUO Day',
@@ -811,7 +811,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Αναζωογόνηση',
             country: 'Greece',
             productName: 'Beauty Age Skin',
@@ -820,7 +820,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Αναζωογόνηση',
             country: 'Greece',
             productName: 'Beauty Age Skin Peeling',
@@ -830,7 +830,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Ακοή',
             country: 'Greece',
             productName: 'Ausen',
@@ -840,7 +840,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Παράσιτα',
             country: 'Greece',
             productName: 'Vermixin',
@@ -850,7 +850,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Δύναμη',
             country: 'Greece',
             productName: 'Viarex',
@@ -860,7 +860,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'δύναμη',
             country: 'Greece',
             productName: 'Urosaf',
@@ -870,7 +870,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'αρθρώσεις',
             country: 'Greece',
             productName: 'Steplex',
@@ -879,7 +879,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Κιρσοί',
             country: 'Greece',
             productName: 'Vasaxal',
@@ -888,7 +888,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Μύκητας',
             country: 'Greece',
             productName: 'Demyxil',
@@ -897,7 +897,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'απώλεια βάρους',
             country: 'Greece',
             productName: 'Delislim',
@@ -906,7 +906,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'όραση',
             country: 'Greece',
             productName: 'Ophtalax',
@@ -915,7 +915,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'αιμορροΐδες',
             country: 'Greece',
             productName: 'Vasos Duo',
@@ -926,7 +926,7 @@ export const productsInfo = {
     hr: {
         guavital: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Mršavljenje',
             country: 'Croatia',
             productName: 'GUAVITAL+',
@@ -935,7 +935,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Proširene vene',
             country: 'Croatia',
             productName: 'Trovazin',
@@ -944,7 +944,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Gljivice',
             country: 'Croatia',
             productName: 'Desalix',
@@ -953,7 +953,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Paraziti',
             country: 'Croatia',
             productName: 'Paraxan',
@@ -963,7 +963,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Prostatitis',
             country: 'Croatia',
             productName: 'Exurol',
@@ -973,7 +973,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Vid',
             country: 'Croatia',
             productName: 'Visoptic DUO Night',
@@ -983,7 +983,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Vid',
             country: 'Croatia',
             productName: 'Visoptic DUO Day',
@@ -992,7 +992,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Pomlađivanje',
             country: 'Croatia',
             productName: 'Beauty Age Skin',
@@ -1001,7 +1001,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Pomlađivanje',
             country: 'Croatia',
             productName: 'Beauty Age Skin Peeling',
@@ -1011,7 +1011,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Sluh',
             country: 'Croatia',
             productName: 'Ausen',
@@ -1020,7 +1020,7 @@ export const productsInfo = {
         },
         ultraxal: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Trávicí systém (GI)',
             country: 'Croatia',
             productName: 'Ultraxal',
@@ -1030,7 +1030,7 @@ export const productsInfo = {
         femixal: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Mokraćni sustav',
             country: 'Croatia',
             productName: 'Femixal',
@@ -1040,7 +1040,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Potencija',
             country: 'Croatia',
             productName: 'Viarex',
@@ -1050,7 +1050,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Potencija',
             country: 'Croatia',
             productName: 'Urosaf',
@@ -1060,7 +1060,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Zglobovi',
             country: 'Croatia',
             productName: 'Steplex',
@@ -1069,7 +1069,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Proširene vene',
             country: 'Croatia',
             productName: 'Vasaxal',
@@ -1078,7 +1078,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Gljivice',
             country: 'Croatia',
             productName: 'Demyxil',
@@ -1087,7 +1087,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Mršavljenje',
             country: 'Croatia',
             productName: 'Delislim',
@@ -1096,7 +1096,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Vid',
             country: 'Croatia',
             productName: 'Ophtalax',
@@ -1105,7 +1105,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1466538',
+            campaign_id: '1498531',
             niche: 'Hemoroidi',
             country: 'Croatia',
             productName: 'Vasos Duo',
@@ -1116,7 +1116,7 @@ export const productsInfo = {
     hu: {
         guavital: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'GUAVITAL+',
@@ -1125,7 +1125,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Trovazin',
@@ -1134,7 +1134,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Desalix',
@@ -1143,7 +1143,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Paraxan',
@@ -1153,7 +1153,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Prosztatagyulladás',
             country: 'Hungary',
             productName: 'Exurol',
@@ -1163,7 +1163,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Night',
@@ -1173,7 +1173,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Visoptic DUO Day',
@@ -1182,7 +1182,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin',
@@ -1191,7 +1191,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Fiatalítás',
             country: 'Hungary',
             productName: 'Beauty Age Skin Peeling',
@@ -1201,7 +1201,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Hallás',
             country: 'Hungary',
             productName: 'Ausen',
@@ -1211,7 +1211,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Paraziták',
             country: 'Hungary',
             productName: 'Vermixin',
@@ -1221,7 +1221,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Viarex',
@@ -1231,7 +1231,7 @@ export const productsInfo = {
         remofix: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Remofix',
@@ -1241,7 +1241,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Potencia',
             country: 'Hungary',
             productName: 'Urosaf',
@@ -1251,7 +1251,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Ízületek',
             country: 'Hungary',
             productName: 'Steplex',
@@ -1260,7 +1260,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Visszerek',
             country: 'Hungary',
             productName: 'Vasaxal',
@@ -1269,7 +1269,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Gomba',
             country: 'Hungary',
             productName: 'Demyxil',
@@ -1278,7 +1278,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Fogyás',
             country: 'Hungary',
             productName: 'Delislim',
@@ -1287,7 +1287,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Látás',
             country: 'Hungary',
             productName: 'Ophtalax',
@@ -1296,7 +1296,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1402524',
+            campaign_id: '1498531',
             niche: 'Aranyér',
             country: 'Hungary',
             productName: 'Vasos Duo',
@@ -1307,7 +1307,7 @@ export const productsInfo = {
     it: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'GUAVITAL+',
@@ -1316,7 +1316,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Varici',
             country: 'Italy',
             productName: 'Trovazin',
@@ -1325,7 +1325,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Desalix',
@@ -1334,7 +1334,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Paraxan',
@@ -1344,7 +1344,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Prostatite',
             country: 'Italy',
             productName: 'Exurol',
@@ -1354,7 +1354,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Night',
@@ -1364,7 +1364,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Vista',
             country: 'Italy',
             productName: 'Visoptic DUO Day',
@@ -1373,7 +1373,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin',
@@ -1382,7 +1382,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Ringiovanimento',
             country: 'Italy',
             productName: 'Beauty Age Skin Peeling',
@@ -1392,7 +1392,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Udito',
             country: 'Italy',
             productName: 'Ausen',
@@ -1402,7 +1402,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Parassiti',
             country: 'Italy',
             productName: 'Vermixin',
@@ -1412,7 +1412,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Viarex',
@@ -1422,7 +1422,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Potenza',
             country: 'Italy',
             productName: 'Urosaf',
@@ -1432,7 +1432,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Articolazioni',
             country: 'Italy',
             productName: 'Steplex',
@@ -1441,7 +1441,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Varici',
             country: 'Italy',
             productName: 'Vasaxal',
@@ -1450,7 +1450,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Fungo',
             country: 'Italy',
             productName: 'Demyxil',
@@ -1459,7 +1459,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Dimagrimento',
             country: 'Italy',
             productName: 'Delislim',
@@ -1468,7 +1468,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Vista',
             country: 'Italy',
             productName: 'Ophtalax',
@@ -1477,7 +1477,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082471',
+            campaign_id: '1498531',
             niche: 'Emorroide',
             country: 'Italy',
             productName: 'Vasos Duo',
@@ -1488,7 +1488,7 @@ export const productsInfo = {
     lt: {
         guavital: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Lieknėjimas',
             country: 'Lithuania',
             productName: 'GUAVITAL+',
@@ -1497,7 +1497,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Venų varikozė',
             country: 'Lithuania',
             productName: 'Trovazin',
@@ -1506,7 +1506,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Grybelis',
             country: 'Lithuania',
             productName: 'Desalix',
@@ -1515,7 +1515,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Parazitai',
             country: 'Lithuania',
             productName: 'Paraxan',
@@ -1525,7 +1525,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Prostatitas',
             country: 'Lithuania',
             productName: 'Exurol',
@@ -1535,7 +1535,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Visoptic DUO Night',
@@ -1545,7 +1545,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Visoptic DUO Day',
@@ -1554,7 +1554,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Atjauninimas',
             country: 'Lithuania',
             productName: 'Beauty Age Skin',
@@ -1563,7 +1563,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Atjauninimas',
             country: 'Lithuania',
             productName: 'Beauty Age Skin Peeling',
@@ -1573,7 +1573,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Klausa',
             country: 'Lithuania',
             productName: 'Ausen',
@@ -1583,7 +1583,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Parazitai',
             country: 'Lithuania',
             productName: 'Vermixin',
@@ -1593,7 +1593,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Potencja',
             country: 'Lithuania',
             productName: 'Viarex',
@@ -1603,7 +1603,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Potencja',
             country: 'Lithuania',
             productName: 'Urosaf',
@@ -1613,7 +1613,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Sąnariai',
             country: 'Lithuania',
             productName: 'Steplex',
@@ -1622,7 +1622,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Venų varikozė',
             country: 'Lithuania',
             productName: 'Vasaxal',
@@ -1631,7 +1631,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Grybelis',
             country: 'Lithuania',
             productName: 'Demyxil',
@@ -1640,7 +1640,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Lieknėjimas',
             country: 'Lithuania',
             productName: 'Delislim',
@@ -1649,7 +1649,7 @@ export const productsInfo = {
         },
         oculax: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Regėjimas',
             country: 'Lithuania',
             productName: 'Oculax',
@@ -1658,7 +1658,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1433128',
+            campaign_id: '1498531',
             niche: 'Hemorojus',
             country: 'Lithuania',
             productName: 'Vasos Duo',
@@ -1669,7 +1669,7 @@ export const productsInfo = {
     lv: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Tievēšana',
             country: 'Latvia',
             productName: 'GUAVITAL+',
@@ -1678,7 +1678,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Varikoze',
             country: 'Latvia',
             productName: 'Trovazin',
@@ -1687,7 +1687,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Sēnīte',
             country: 'Latvia',
             productName: 'Desalix',
@@ -1696,7 +1696,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Parazīti',
             country: 'Latvia',
             productName: 'Paraxan',
@@ -1706,7 +1706,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Prostatīts',
             country: 'Latvia',
             productName: 'Exurol',
@@ -1716,7 +1716,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Redze',
             country: 'Latvia',
             productName: 'Visoptic DUO Night',
@@ -1726,7 +1726,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Redze',
             country: 'Latvia',
             productName: 'Visoptic DUO Day',
@@ -1735,7 +1735,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Ādas atjaunošana',
             country: 'Latvia',
             productName: 'Beauty Age Skin',
@@ -1744,7 +1744,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Ādas atjaunošana',
             country: 'Latvia',
             productName: 'Beauty Age Skin Peeling',
@@ -1754,7 +1754,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Dzirde',
             country: 'Latvia',
             productName: 'Ausen',
@@ -1764,7 +1764,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Parazīti',
             country: 'Latvia',
             productName: 'Vermixin',
@@ -1774,7 +1774,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Potence',
             country: 'Latvia',
             productName: 'Viarex',
@@ -1784,7 +1784,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Potence',
             country: 'Latvia',
             productName: 'Urosaf',
@@ -1794,7 +1794,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Locītavas',
             country: 'Latvia',
             productName: 'Steplex',
@@ -1803,7 +1803,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Varikoze',
             country: 'Latvia',
             productName: 'Vasaxal',
@@ -1812,7 +1812,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Sēnīte',
             country: 'Latvia',
             productName: 'Demyxil',
@@ -1821,7 +1821,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Tievēšana',
             country: 'Latvia',
             productName: 'Delislim',
@@ -1830,7 +1830,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Redze',
             country: 'Latvia',
             productName: 'Ophtalax',
@@ -1839,7 +1839,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082461',
+            campaign_id: '1498531',
             niche: 'Hemoroīdi',
             country: 'Latvia',
             productName: 'Vasos Duo',
@@ -1850,7 +1850,7 @@ export const productsInfo = {
     pl: {
         guavital: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Odchudzanie',
             country: 'Poland',
             productName: 'GUAVITAL+',
@@ -1859,7 +1859,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Żylaki',
             country: 'Poland',
             productName: 'Trovazin',
@@ -1868,7 +1868,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Grzybica',
             country: 'Poland',
             productName: 'Desalix',
@@ -1877,7 +1877,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Pasożyty',
             country: 'Poland',
             productName: 'Paraxan',
@@ -1887,7 +1887,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Zapalenie gruczołu krokowego',
             country: 'Poland',
             productName: 'Exurol',
@@ -1897,7 +1897,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'wzrok',
             country: 'Poland',
             productName: 'Visoptic DUO Night',
@@ -1907,7 +1907,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Wzrok',
             country: 'Poland',
             productName: 'Visoptic DUO Day',
@@ -1916,7 +1916,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Odmłodzenie',
             country: 'Poland',
             productName: 'Beauty Age Skin',
@@ -1925,7 +1925,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Odmłodzenie',
             country: 'Poland',
             productName: 'Beauty Age Skin Peeling',
@@ -1935,7 +1935,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Słuch',
             country: 'Poland',
             productName: 'Ausen',
@@ -1945,7 +1945,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Pasożyty',
             country: 'Poland',
             productName: 'Vermixin',
@@ -1955,7 +1955,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Potencja',
             country: 'Poland',
             productName: 'Viarex',
@@ -1965,7 +1965,7 @@ export const productsInfo = {
         femixal: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Układ moczowy',
             country: 'Poland',
             productName: 'Femixal',
@@ -1975,7 +1975,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Potencja',
             country: 'Poland',
             productName: 'Urosaf',
@@ -1985,7 +1985,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Stawy',
             country: 'Poland',
             productName: 'Steplex',
@@ -1994,7 +1994,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Żylaki',
             country: 'Poland',
             productName: 'Vasaxal',
@@ -2003,7 +2003,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Grzybica',
             country: 'Poland',
             productName: 'Demyxil',
@@ -2012,7 +2012,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Odchudzanie',
             country: 'Poland',
             productName: 'Delislim',
@@ -2021,7 +2021,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Wzrok',
             country: 'Poland',
             productName: 'Ophtalax',
@@ -2030,7 +2030,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1441333',
+            campaign_id: '1498531',
             niche: 'Hemoroidy',
             country: 'Poland',
             productName: 'Vasos Duo',
@@ -2041,7 +2041,7 @@ export const productsInfo = {
     pt: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Perda de peso',
             country: 'Portugal',
             productName: 'GUAVITAL+',
@@ -2050,7 +2050,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Varizes',
             country: 'Portugal',
             productName: 'Trovazin',
@@ -2059,7 +2059,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Fungo',
             country: 'Portugal',
             productName: 'Desalix',
@@ -2068,7 +2068,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Parasitas',
             country: 'Portugal',
             productName: 'Paraxan',
@@ -2078,7 +2078,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Prostatite',
             country: 'Portugal',
             productName: 'Exurol',
@@ -2088,7 +2088,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Visão',
             country: 'Portugal',
             productName: 'Visoptic DUO Night',
@@ -2098,7 +2098,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Visão',
             country: 'Portugal',
             productName: 'Visoptic DUO Day',
@@ -2107,7 +2107,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Rejuvenescimento',
             country: 'Portugal',
             productName: 'Beauty Age Skin',
@@ -2116,7 +2116,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Rejuvenescimento',
             country: 'Portugal',
             productName: 'Beauty Age Skin Peeling',
@@ -2126,7 +2126,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Audição',
             country: 'Portugal',
             productName: 'Ausen',
@@ -2136,7 +2136,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Parasitas',
             country: 'Portugal',
             productName: 'Vermixin',
@@ -2146,7 +2146,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Potência',
             country: 'Portugal',
             productName: 'Viarex',
@@ -2156,7 +2156,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Potência',
             country: 'Portugal',
             productName: 'Urosaf',
@@ -2166,7 +2166,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Articulações',
             country: 'Portugal',
             productName: 'Steplex',
@@ -2175,7 +2175,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Varizes',
             country: 'Portugal',
             productName: 'Vasaxal',
@@ -2184,7 +2184,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Fungo',
             country: 'Portugal',
             productName: 'Demyxil',
@@ -2193,7 +2193,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Perda de peso',
             country: 'Portugal',
             productName: 'Delislim',
@@ -2202,7 +2202,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Visão',
             country: 'Portugal',
             productName: 'Ophtalax',
@@ -2211,7 +2211,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082463',
+            campaign_id: '1498531',
             niche: 'Hemorróidas',
             country: 'Portugal',
             productName: 'Vasos Duo',
@@ -2222,7 +2222,7 @@ export const productsInfo = {
     ro: {
         guavital: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'GUAVITAL+',
@@ -2231,7 +2231,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Varice',
             country: 'Romania',
             productName: 'Trovazin',
@@ -2240,7 +2240,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Desalix',
@@ -2249,7 +2249,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Paraxan',
@@ -2259,7 +2259,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Prostatita',
             country: 'Romania',
             productName: 'Exurol',
@@ -2269,7 +2269,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Night',
@@ -2279,7 +2279,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Visoptic DUO Day',
@@ -2288,7 +2288,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin',
@@ -2297,7 +2297,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Întinerire',
             country: 'Romania',
             productName: 'Beauty Age Skin Peeling',
@@ -2307,7 +2307,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Auz',
             country: 'Romania',
             productName: 'Ausen',
@@ -2317,7 +2317,7 @@ export const productsInfo = {
         vermixin: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Paraziți',
             country: 'Romania',
             productName: 'Vermixin',
@@ -2327,7 +2327,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Potență',
             country: 'Romania',
             productName: 'Viarex',
@@ -2336,7 +2336,7 @@ export const productsInfo = {
         },
         ultiplex: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Imunitate',
             country: 'Romania',
             productName: 'Ultiplex',
@@ -2346,7 +2346,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Potență',
             country: 'Romania',
             productName: 'Urosaf',
@@ -2356,7 +2356,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Articulații',
             country: 'Romania',
             productName: 'Steplex',
@@ -2365,7 +2365,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Varice',
             country: 'Romania',
             productName: 'Vasaxal',
@@ -2374,7 +2374,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Ciupercă',
             country: 'Romania',
             productName: 'Demyxil',
@@ -2383,7 +2383,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Pierdere în greutate',
             country: 'Romania',
             productName: 'Delislim',
@@ -2392,7 +2392,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Vederea',
             country: 'Romania',
             productName: 'Ophtalax',
@@ -2401,7 +2401,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1402523',
+            campaign_id: '1498531',
             niche: 'Hemoroizi',
             country: 'Romania',
             productName: 'Vasos Duo',
@@ -2412,7 +2412,7 @@ export const productsInfo = {
     sk: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Сhudnutie',
             country: 'Slovakia',
             productName: 'GUAVITAL+',
@@ -2421,7 +2421,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Kŕčové žily',
             country: 'Slovakia',
             productName: 'Trovazin',
@@ -2430,7 +2430,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Pleseň',
             country: 'Slovakia',
             productName: 'Desalix',
@@ -2439,7 +2439,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Pleseň',
             country: 'Slovakia',
             productName: 'Paraxan',
@@ -2449,7 +2449,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Prostatitída',
             country: 'Slovakia',
             productName: 'Exurol',
@@ -2459,7 +2459,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Zrak',
             country: 'Slovakia',
             productName: 'Visoptic DUO Night',
@@ -2469,7 +2469,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Zrak',
             country: 'Slovakia',
             productName: 'Visoptic DUO Day',
@@ -2478,7 +2478,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Omladenie',
             country: 'Slovakia',
             productName: 'Beauty Age Skin',
@@ -2487,7 +2487,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Omladenie',
             country: 'Slovakia',
             productName: 'Beauty Age Skin Peeling',
@@ -2497,7 +2497,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Sluch',
             country: 'Slovakia',
             productName: 'Ausen',
@@ -2506,7 +2506,7 @@ export const productsInfo = {
         },
         ultiplex: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Imunita',
             country: 'Slovakia',
             productName: 'Ultiplex',
@@ -2516,7 +2516,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Potencia',
             country: 'Slovakia',
             productName: 'Viarex',
@@ -2526,7 +2526,7 @@ export const productsInfo = {
         femixal: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Močový systém',
             country: 'Slovakia',
             productName: 'Femixal',
@@ -2536,7 +2536,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Potencia',
             country: 'Slovakia',
             productName: 'Urosaf',
@@ -2546,7 +2546,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Kĺby',
             country: 'Slovakia',
             productName: 'Steplex',
@@ -2555,7 +2555,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Kŕčové žily',
             country: 'Slovakia',
             productName: 'Vasaxal',
@@ -2564,7 +2564,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Pleseň (mykóza)',
             country: 'Slovakia',
             productName: 'Demyxil',
@@ -2573,7 +2573,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Chudnutie',
             country: 'Slovakia',
             productName: 'Delislim',
@@ -2582,7 +2582,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Zrak',
             country: 'Slovakia',
             productName: 'Ophtalax',
@@ -2591,7 +2591,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Hemoroidy',
             country: 'Slovakia',
             productName: 'Vasos Duo',
@@ -2602,7 +2602,7 @@ export const productsInfo = {
     sl: {
         guavital: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Izguba teže',
             country: 'Slovenia',
             productName: 'GUAVITAL+',
@@ -2611,7 +2611,7 @@ export const productsInfo = {
         },
         trovazin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Krčne žile',
             country: 'Slovenia',
             productName: 'Trovazin',
@@ -2620,7 +2620,7 @@ export const productsInfo = {
         },
         desalix: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Glivice',
             country: 'Slovenia',
             productName: 'Desalix',
@@ -2629,7 +2629,7 @@ export const productsInfo = {
         },
         paraxan: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Paraziti',
             country: 'Slovenia',
             productName: 'Paraxan',
@@ -2639,7 +2639,7 @@ export const productsInfo = {
         exurol: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Prostatitis',
             country: 'Slovenia',
             productName: 'Exurol',
@@ -2649,7 +2649,7 @@ export const productsInfo = {
         visoptic_duo_night: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Vizija',
             country: 'Slovenia',
             productName: 'Visoptic DUO Night',
@@ -2659,7 +2659,7 @@ export const productsInfo = {
         visoptic_duo_day: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Vizija',
             country: 'Slovenia',
             productName: 'Visoptic DUO Day',
@@ -2668,7 +2668,7 @@ export const productsInfo = {
         },
         beauty_age_skin: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Pomlajevanje',
             country: 'Slovenia',
             productName: 'Beauty Age Skin',
@@ -2677,7 +2677,7 @@ export const productsInfo = {
         },
         beauty_age_skin_peeling: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Pomlajevanje',
             country: 'Slovenia',
             productName: 'Beauty Age Skin Peeling',
@@ -2687,7 +2687,7 @@ export const productsInfo = {
         ausen: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Zaslišanje',
             country: 'Slovenia',
             productName: 'Ausen',
@@ -2696,7 +2696,7 @@ export const productsInfo = {
         },
         ultraxal: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Prebavni sistem (GST)',
             country: 'Slovenia',
             productName: 'Ultraxal',
@@ -2706,7 +2706,7 @@ export const productsInfo = {
         viarex: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Moč',
             country: 'Slovenia',
             productName: 'Viarex',
@@ -2716,7 +2716,7 @@ export const productsInfo = {
         femixal: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Urinarni sistem',
             country: 'Slovenia',
             productName: 'Femixal',
@@ -2726,7 +2726,7 @@ export const productsInfo = {
         urosaf: {
             modifier: 'img-space--right',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Moč',
             country: 'Slovenia',
             productName: 'Urosaf',
@@ -2736,7 +2736,7 @@ export const productsInfo = {
         steplex: {
             modifier: 'img-space--left',
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Spoji',
             country: 'Slovenia',
             productName: 'Steplex',
@@ -2745,7 +2745,7 @@ export const productsInfo = {
         },
         vasaxal: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Krčne žile',
             country: 'Slovenia',
             productName: 'Vasaxal',
@@ -2754,7 +2754,7 @@ export const productsInfo = {
         },
         demyxil: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Glivice',
             country: 'Slovenia',
             productName: 'Demyxil',
@@ -2763,7 +2763,7 @@ export const productsInfo = {
         },
         delislim: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Izguba teže',
             country: 'Slovenia',
             productName: 'Delislim',
@@ -2772,7 +2772,7 @@ export const productsInfo = {
         },
         ophtalax: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Vizija',
             country: 'Slovenia',
             productName: 'Ophtalax',
@@ -2781,7 +2781,7 @@ export const productsInfo = {
         },
         vasos_duo: {
             company: 'everad',
-            campaign_id: '1082464',
+            campaign_id: '1498531',
             niche: 'Hemoroidy',
             country: 'Slovenia',
             productName: 'Vasos Duo',
