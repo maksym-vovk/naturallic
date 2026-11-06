@@ -132,35 +132,45 @@
         </div>
       </div>
     </footer>
-    <div class="popup js-popup" id="popup">
+    <dialog class="popup js-popup" id="popup" aria-labelledby="callback-title">
       <div class="popup__wrap">
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title popup__title--main">Ti richiameremo per ulteriori dettagli</p>
-            <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__success js-success-form">
-                <p class="popup__title">Grazie!<br/>Ti contatteremo al più presto.</p>
-              </div>
-              <div class="form-popup__error js-error-form">
-                <p class="popup__title">Errore<br/>Non è stato possibile elaborare la tua richiesta. Riprova più tardi.</p>
-              </div>
-              <div class="form-popup__wrap js-content-form">
-                <div class="form-popup__inputs">
-                  <input class="form-popup__input" type="text" name="name" placeholder="Nome" required="required"/>
-                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefono" required="required"/>
-                  <input class="form-popup__input" type="text" name="comment" placeholder="Messaggio" required="required"/>
-                </div>
-                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Quanto fa"></span>
-                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Risposta" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Risposta errata, riprova per favore.</span>
-                </div>
-                <button class="form-popup__btn button button--gold button--loading">Prenota una chiamata</button>
-              </div>
-            </form>
+            <p class="popup__title popup__title--main" id="callback-title">Ti richiameremo per ulteriori dettagli</p>
+                <form class="form-popup js-lead-form" novalidate="novalidate" data-lead-variant="callback" data-api-endpoint="https://event-reg.affhub.media/api/contact" data-turnstile-site-key="0x4AAAAAAE4VkgS81sfUmk24" data-turnstile-src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" data-source="Naturallic" data-country="Italy" data-error-required="Obbligatorio" data-error-phone="Formato non valido" data-error-email="E-mail non valida" data-error-captcha="Conferma di non essere un robot" data-error-form="Invio non riuscito. Controlla il modulo e riprova." data-submitting="Invio…">
+                  <div class="form-popup__success js-success-form">
+                    <p class="popup__title">Grazie!<br/>Ti contatteremo al più presto.</p>
+                    <button class="form-popup__btn button button--gold js-lead-close" type="button">Chiudi</button>
+                  </div>
+                  <div class="form-popup__wrap js-content-form">
+                        <div class="lead-honeypot" aria-hidden="true">
+                          <label><span class="lead-honeypot__label">Website</span>
+                            <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true"/>
+                          </label>
+                        </div>
+                    <div class="form-popup__inputs">
+                      <div class="lead-field">
+                        <input class="form-popup__input" type="text" name="name" placeholder="Nome" required="required" aria-required="true" autocomplete="name"/><span class="lead-field__error" id="callback-name-error"></span>
+                      </div>
+                      <div class="lead-field">
+                        <input class="form-popup__input" type="tel" name="phone" inputmode="numeric" placeholder="Telefono" required="required" aria-required="true" autocomplete="tel"/><span class="lead-field__error" id="callback-phone-error"></span>
+                      </div>
+                      <div class="lead-field">
+                        <input class="form-popup__input" type="text" name="message" placeholder="Messaggio" autocomplete="off"/><span class="lead-field__error" id="callback-message-error"></span>
+                      </div>
+                    </div>
+                        <div class="lead-captcha" data-captcha="data-captcha">
+                          <div class="js-turnstile"></div><span class="lead-captcha__error"></span>
+                        </div>
+                        <p class="lead-form__status" role="alert"></p>
+                    <button class="form-popup__btn button button--gold button--loading" type="submit">Prenota una chiamata</button>
+                  </div>
+                </form>
           </div>
         </div>
       </div>
-    </div>
+    </dialog>
         <div class="language language--hidden">
           <div class="language__wrapper container">
             <div class="language__main"><img class="language__logo" src="/img/svg/logo-w.svg" alt=""/>
