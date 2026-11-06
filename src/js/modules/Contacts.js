@@ -2,6 +2,12 @@ import noScroll from "../global/noScroll";
 
 const TURNSTILE_WAIT_MS = 12000;
 const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const TURNSTILE_LANG = { cz: "cs", ee: "et", gr: "el", be: "fr" };
+
+function turnstileLanguage() {
+    var lang = (document.documentElement.lang || "").toLowerCase();
+    return TURNSTILE_LANG[lang] || lang;
+}
 
 const Contacts = (function () {
     "use strict";
@@ -85,10 +91,9 @@ const Contacts = (function () {
                     sitekey: key,
                     theme: "light",
                     size: "flexible",
-                    language: document.documentElement.lang,
+                    language: turnstileLanguage(),
                     callback: function () {
                         clearCaptchaError(form);
-                        if (!form.querySelector(".lead-field.is-invalid")) clearStatus(form);
                     }
                 });
                 if (widgetId !== undefined && widgetId !== null) widgets.set(container, widgetId);
@@ -289,10 +294,10 @@ const Contacts = (function () {
         };
     }
 
-    function isExactOk(value) {
-        if (!value || typeof value !== "object" || Array.isArray(value)) return false;
-        const keys = Object.keys(value);
-        return keys.length === 1 && keys[0] === "ok" && value.ok === true;
+    function isAccepted(responseOk, body) {
+        if (!responseOk) return false;
+        if (!body) return true;
+        return body.ok === true;
     }
 
     function onSuccess(form) {
@@ -361,7 +366,7 @@ const Contacts = (function () {
                     );
                 })
                 .then(function (result) {
-                    succeeded = result.ok && isExactOk(result.body);
+                    succeeded = isAccepted(result.ok, result.body);
                 })
                 .catch(function () {
                     succeeded = false;
