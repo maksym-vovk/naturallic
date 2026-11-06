@@ -1,5 +1,15 @@
 {
   "locale": "ee",
+  "lead": {
+    "country": "Estonia",
+    "error_required": "Kohustuslik",
+    "error_phone": "Vale formaat",
+    "error_email": "Vigane e-post",
+    "error_captcha": "Kinnitage, et te pole robot",
+    "error_form": "Saatmine ebaõnnestus. Kontrollige vormi ja proovige uuesti.",
+    "submitting": "Saatmine…",
+    "close": "Sulge"
+  },
 
   "page_names": {
     "home": "Avaleht"

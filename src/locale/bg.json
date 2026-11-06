@@ -1,5 +1,15 @@
 {
   "locale": "bg",
+  "lead": {
+    "country": "Bulgaria",
+    "error_required": "Задължително",
+    "error_phone": "Невалиден формат",
+    "error_email": "Невалиден имейл",
+    "error_captcha": "Потвърдете, че не сте робот",
+    "error_form": "Изпращането е неуспешно. Проверете формуляра и опитайте отново.",
+    "submitting": "Изпращане…",
+    "close": "Затвори"
+  },
 
   "page_names": {
     "home": "Начало"

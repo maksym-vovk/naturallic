@@ -1,29 +1,32 @@
+include data/lead-config
 - var CALLBACKPOPUP = LANG.callbackpopup;
 - var CONTACTS = LANG.contacts;
 
-.popup.js-popup#popup
-    .popup__wrap
-        .popup__close.js-close
-            i.fico.fico-cross
-        .popup__content
-            .popup__form
-                p.popup__title.popup__title--main!=CALLBACKPOPUP.callbackpopup_title
-                form.form-popup.js-order-form(action="ajax.php", method="post")
-                    .form-popup__success.js-success-form
-                        p.popup__title!=CONTACTS.contacts_request_success_1
-                            br
-                            | #{CONTACTS.contacts_request_success_2}
-                    .form-popup__error.js-error-form
-                        p.popup__title!=CONTACTS.contacts_request_error_1
-                            br
-                            | #{CONTACTS.contacts_request_error_2}
-                    .form-popup__wrap.js-content-form
-                        .form-popup__inputs
-                            input.form-popup__input(type="text" name="name" placeholder=CALLBACKPOPUP.callbackpopup_field_name required)
-                            input.form-popup__input(type="phone" name="phone" placeholder=CALLBACKPOPUP.callbackpopup_field_phone required)
-                            input.form-popup__input(type="text" name="comment" placeholder=CALLBACKPOPUP.callbackpopup_field_message required)
-                        .captcha-wrapper(data-captcha-wrapper)
-                            span.captcha-question(data-captcha-question data-captcha-question-text=CONTACTS.contacts_captcha_text)
-                            input.contacts-form__input.captcha-input(data-captcha-input type="text" name="captcha_answer" placeholder=CONTACTS.contacts_captcha_input autocomplete="off")
-                            span.captcha-error(data-captcha-error)!=CONTACTS.contacts_captcha_error
-                        button.form-popup__btn.button.button--gold.button--loading!=CALLBACKPOPUP.callbackpopup_btn
+dialog.popup.js-popup#popup(aria-labelledby="callback-title")
+	.popup__wrap
+		.popup__close.js-close
+			i.fico.fico-cross
+		.popup__content
+			.popup__form
+				p.popup__title.popup__title--main#callback-title!=CALLBACKPOPUP.callbackpopup_title
+				+leadForm('form-popup js-lead-form', 'callback')
+					.form-popup__success.js-success-form
+						p.popup__title!=CONTACTS.contacts_request_success_1
+							br
+							| #{CONTACTS.contacts_request_success_2}
+						button.form-popup__btn.button.button--gold.js-lead-close(type="button")!=LANG.lead.close
+					.form-popup__wrap.js-content-form
+						+leadHoneypot()
+						.form-popup__inputs
+							.lead-field
+								input.form-popup__input(type="text" name="name" placeholder=CALLBACKPOPUP.callbackpopup_field_name required aria-required="true" autocomplete="name")
+								span.lead-field__error#callback-name-error
+							.lead-field
+								input.form-popup__input(type="tel" name="phone" inputmode="numeric" placeholder=CALLBACKPOPUP.callbackpopup_field_phone required aria-required="true" autocomplete="tel")
+								span.lead-field__error#callback-phone-error
+							.lead-field
+								input.form-popup__input(type="text" name="message" placeholder=CALLBACKPOPUP.callbackpopup_field_message autocomplete="off")
+								span.lead-field__error#callback-message-error
+						+leadCaptcha()
+						+leadStatus()
+						button.form-popup__btn.button.button--gold.button--loading(type="submit")!=CALLBACKPOPUP.callbackpopup_btn

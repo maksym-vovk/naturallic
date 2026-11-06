@@ -1,5 +1,15 @@
 {
   "locale": "sk",
+  "lead": {
+    "country": "Slovakia",
+    "error_required": "Povinné",
+    "error_phone": "Neplatný formát",
+    "error_email": "Neplatný e-mail",
+    "error_captcha": "Potvrďte, že nie ste robot",
+    "error_form": "Odoslanie zlyhalo. Skontrolujte formulár a skúste to znova.",
+    "submitting": "Odosielanie…",
+    "close": "Zavrieť"
+  },
   "page_names": {
     "home": "Domov"
   },

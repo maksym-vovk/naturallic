@@ -1,5 +1,15 @@
 {
   "locale": "cz",
+  "lead": {
+    "country": "Czechia",
+    "error_required": "Povinné",
+    "error_phone": "Neplatný formát",
+    "error_email": "Neplatný e-mail",
+    "error_captcha": "Potvrďte, že nejste robot",
+    "error_form": "Odeslání se nezdařilo. Zkontrolujte formulář a zkuste to znovu.",
+    "submitting": "Odesílání…",
+    "close": "Zavřít"
+  },
   "page_names": {
     "home": "Hlavní"
   },

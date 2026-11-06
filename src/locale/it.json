@@ -1,5 +1,15 @@
 {
   "locale": "it",
+  "lead": {
+    "country": "Italy",
+    "error_required": "Obbligatorio",
+    "error_phone": "Formato non valido",
+    "error_email": "E-mail non valida",
+    "error_captcha": "Conferma di non essere un robot",
+    "error_form": "Invio non riuscito. Controlla il modulo e riprova.",
+    "submitting": "Invio…",
+    "close": "Chiudi"
+  },
   "page_names": {
     "home": "Principale"
   },

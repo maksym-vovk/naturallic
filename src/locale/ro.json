@@ -1,5 +1,15 @@
 {
   "locale": "ro",
+  "lead": {
+    "country": "Romania",
+    "error_required": "Obligatoriu",
+    "error_phone": "Format nevalid",
+    "error_email": "E-mail nevalid",
+    "error_captcha": "Confirmați că nu sunteți robot",
+    "error_form": "Trimiterea a eșuat. Verificați formularul și încercați din nou.",
+    "submitting": "Se trimite…",
+    "close": "Închide"
+  },
   "page_names": {
     "home": "Home"
   },

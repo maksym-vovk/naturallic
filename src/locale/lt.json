@@ -1,5 +1,15 @@
 {
   "locale": "lt",
+  "lead": {
+    "country": "Lithuania",
+    "error_required": "Privaloma",
+    "error_phone": "Neteisingas formatas",
+    "error_email": "Neteisingas el. paštas",
+    "error_captcha": "Patvirtinkite, kad nesate robotas",
+    "error_form": "Nepavyko išsiųsti. Patikrinkite formą ir bandykite dar kartą.",
+    "submitting": "Siunčiama…",
+    "close": "Uždaryti"
+  },
 
   "page_names": {
     "home": "Pagrindinis"

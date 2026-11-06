@@ -1,5 +1,15 @@
 {
   "locale": "gr",
+  "lead": {
+    "country": "Greece",
+    "error_required": "Υποχρεωτικό",
+    "error_phone": "Μη έγκυρη μορφή",
+    "error_email": "Μη έγκυρο email",
+    "error_captcha": "Επιβεβαιώστε ότι δεν είστε ρομπότ",
+    "error_form": "Η αποστολή απέτυχε. Ελέγξτε τη φόρμα και δοκιμάστε ξανά.",
+    "submitting": "Αποστολή…",
+    "close": "Κλείσιμο"
+  },
   "page_names": {
     "home": "Σπίτι"
   },

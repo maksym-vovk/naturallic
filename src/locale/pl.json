@@ -1,5 +1,15 @@
 {
   "locale": "pl",
+  "lead": {
+    "country": "Poland",
+    "error_required": "Wymagane",
+    "error_phone": "Nieprawidłowy format",
+    "error_email": "Nieprawidłowy e-mail",
+    "error_captcha": "Potwierdź, że nie jesteś robotem",
+    "error_form": "Wysyłanie nie powiodło się. Sprawdź formularz i spróbuj ponownie.",
+    "submitting": "Wysyłanie…",
+    "close": "Zamknij"
+  },
 
   "page_names": {
     "home": "Strona gówna"
