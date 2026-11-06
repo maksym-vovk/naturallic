@@ -1,5 +1,15 @@
 {
   "locale": "lv",
+  "lead": {
+    "country": "Latvia",
+    "error_required": "Obligāti",
+    "error_phone": "Nederīgs formāts",
+    "error_email": "Nederīgs e-pasts",
+    "error_captcha": "Apstipriniet, ka neesat robots",
+    "error_form": "Nosūtīšana neizdevās. Pārbaudiet formu un mēģiniet vēlreiz.",
+    "submitting": "Nosūtīšana…",
+    "close": "Aizvērt"
+  },
 
   "page_names": {
     "home": "Sākumlapa"

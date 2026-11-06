@@ -2830,35 +2830,45 @@
         </div>
       </div>
     </footer>
-    <div class="popup js-popup" id="popup">
+    <dialog class="popup js-popup" id="popup" aria-labelledby="callback-title">
       <div class="popup__wrap">
         <div class="popup__close js-close"><i class="fico fico-cross"></i></div>
         <div class="popup__content">
           <div class="popup__form">
-            <p class="popup__title popup__title--main">Helistame teile üksikasjade täpsustamiseks tagasi</p>
-            <form class="form-popup js-order-form" action="/ajax.php" method="post">
-              <div class="form-popup__success js-success-form">
-                <p class="popup__title">Aitäh!<br/>Võtame teiega peagi ühendust.</p>
-              </div>
-              <div class="form-popup__error js-error-form">
-                <p class="popup__title">Viga<br/>Teie päringut ei õnnestunud töödelda. Palun proovige hiljem uuesti.</p>
-              </div>
-              <div class="form-popup__wrap js-content-form">
-                <div class="form-popup__inputs">
-                  <input class="form-popup__input" type="text" name="name" placeholder="Nimi" required="required"/>
-                  <input class="form-popup__input" type="phone" name="phone" placeholder="Telefoninumber" required="required"/>
-                  <input class="form-popup__input" type="text" name="comment" placeholder="Sõnum" required="required"/>
-                </div>
-                <div class="captcha-wrapper" data-captcha-wrapper="data-captcha-wrapper"><span class="captcha-question" data-captcha-question="data-captcha-question" data-captcha-question-text="Mis on"></span>
-                  <input class="contacts-form__input captcha-input" data-captcha-input="data-captcha-input" type="text" name="captcha_answer" placeholder="Vastus" autocomplete="off"/><span class="captcha-error" data-captcha-error="data-captcha-error">Vale vastus, palun proovige uuesti.</span>
-                </div>
-                <button class="form-popup__btn button button--gold button--loading">Tellige kõne</button>
-              </div>
-            </form>
+            <p class="popup__title popup__title--main" id="callback-title">Helistame teile üksikasjade täpsustamiseks tagasi</p>
+                <form class="form-popup js-lead-form" novalidate="novalidate" data-lead-variant="callback" data-api-endpoint="https://event-reg.affhub.media/api/contact" data-turnstile-site-key="0x4AAAAAAE4VkgS81sfUmk24" data-turnstile-src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" data-source="Naturallic" data-country="Estonia" data-error-required="Kohustuslik" data-error-phone="Vale formaat" data-error-email="Vigane e-post" data-error-captcha="Kinnitage, et te pole robot" data-error-form="Saatmine ebaõnnestus. Kontrollige vormi ja proovige uuesti." data-submitting="Saatmine…">
+                  <div class="form-popup__success js-success-form">
+                    <p class="popup__title">Aitäh!<br/>Võtame teiega peagi ühendust.</p>
+                    <button class="form-popup__btn button button--gold js-lead-close" type="button">Sulge</button>
+                  </div>
+                  <div class="form-popup__wrap js-content-form">
+                        <div class="lead-honeypot" aria-hidden="true">
+                          <label><span class="lead-honeypot__label">Website</span>
+                            <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true"/>
+                          </label>
+                        </div>
+                    <div class="form-popup__inputs">
+                      <div class="lead-field">
+                        <input class="form-popup__input" type="text" name="name" placeholder="Nimi" required="required" aria-required="true" autocomplete="name"/><span class="lead-field__error" id="callback-name-error"></span>
+                      </div>
+                      <div class="lead-field">
+                        <input class="form-popup__input" type="tel" name="phone" inputmode="numeric" placeholder="Telefoninumber" required="required" aria-required="true" autocomplete="tel"/><span class="lead-field__error" id="callback-phone-error"></span>
+                      </div>
+                      <div class="lead-field">
+                        <input class="form-popup__input" type="text" name="message" placeholder="Sõnum" autocomplete="off"/><span class="lead-field__error" id="callback-message-error"></span>
+                      </div>
+                    </div>
+                        <div class="lead-captcha" data-captcha="data-captcha">
+                          <div class="js-turnstile"></div><span class="lead-captcha__error"></span>
+                        </div>
+                        <p class="lead-form__status" role="alert"></p>
+                    <button class="form-popup__btn button button--gold button--loading" type="submit">Tellige kõne</button>
+                  </div>
+                </form>
           </div>
         </div>
       </div>
-    </div>
+    </dialog>
         <div class="language language--hidden">
           <div class="language__wrapper container">
             <div class="language__main"><img class="language__logo" src="/img/svg/logo-w.svg" alt=""/>

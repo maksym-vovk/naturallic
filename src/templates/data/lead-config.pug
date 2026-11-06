@@ -1,0 +1,26 @@
+-
+
+	var LEAD_FORM = {
+		apiEndpoint: 'https://event-reg.affhub.media/api/contact',
+		turnstileSiteKey: '0x4AAAAAAE4VkgS81sfUmk24',
+		turnstileSrc: 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit',
+		source: 'Naturallic'
+	}
+
+mixin leadForm(className, variant)
+	form(class=className novalidate data-lead-variant=variant data-api-endpoint=LEAD_FORM.apiEndpoint data-turnstile-site-key=LEAD_FORM.turnstileSiteKey data-turnstile-src=LEAD_FORM.turnstileSrc data-source=LEAD_FORM.source data-country=LANG.lead.country data-error-required=LANG.lead.error_required data-error-phone=LANG.lead.error_phone data-error-email=LANG.lead.error_email data-error-captcha=LANG.lead.error_captcha data-error-form=LANG.lead.error_form data-submitting=LANG.lead.submitting)
+		block
+
+mixin leadHoneypot()
+	.lead-honeypot(aria-hidden="true")
+		label
+			span.lead-honeypot__label Website
+			input(type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true")
+
+mixin leadCaptcha()
+	.lead-captcha(data-captcha)
+		.js-turnstile
+		span.lead-captcha__error
+
+mixin leadStatus()
+	p.lead-form__status(role="alert")

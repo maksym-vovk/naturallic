@@ -1,5 +1,15 @@
 {
   "locale": "hr",
+  "lead": {
+    "country": "Croatia",
+    "error_required": "Obavezno",
+    "error_phone": "Neispravan format",
+    "error_email": "Neispravan e-mail",
+    "error_captcha": "Potvrdite da niste robot",
+    "error_form": "Slanje nije uspjelo. Provjerite obrazac i pokušajte ponovno.",
+    "submitting": "Slanje…",
+    "close": "Zatvori"
+  },
   "page_names": {
     "home": "Početna"
   },

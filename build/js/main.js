@@ -3388,455 +3388,412 @@ $(function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../global/noScroll */ "./src/js/global/noScroll.js");
+/* harmony import */ var _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_global_noScroll__WEBPACK_IMPORTED_MODULE_0__);
+
+const TURNSTILE_WAIT_MS = 12000;
+const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const Contacts = function () {
-  function getUserCityCountryFromIp() {
-    return fetch('https://api.ipify.org?format=json', {
-      headers: {
-        Accept: 'application/json'
+  "use strict";
+
+  const widgets = new WeakMap();
+  let turnstilePromise = null;
+  function siteKey(form) {
+    return (form.dataset.turnstileSiteKey || "").trim();
+  }
+  function whenTurnstileReady(src) {
+    if (window.turnstile) return Promise.resolve();
+    if (!src) return Promise.reject(new Error("turnstile-src"));
+    if (turnstilePromise) return turnstilePromise;
+    turnstilePromise = new Promise(function (resolve, reject) {
+      const started = Date.now();
+      if (!document.querySelector("script[data-turnstile-api]")) {
+        const script = document.createElement("script");
+        script.src = src;
+        script.async = true;
+        script.defer = true;
+        script.setAttribute("data-turnstile-api", "");
+        document.head.appendChild(script);
       }
-    }).then(function (res) {
-      if (!res.ok) throw new Error('Failed to fetch IP: ' + res.status);
-      return res.json();
-    }).then(function (ipData) {
-      return fetch('https://ipapi.co/' + ipData.ip + '/json/', {
-        headers: {
-          Accept: 'application/json'
+      (function tick() {
+        if (window.turnstile) {
+          resolve();
+          return;
+        }
+        if (Date.now() - started >= TURNSTILE_WAIT_MS) {
+          reject(new Error("turnstile-timeout"));
+          return;
+        }
+        window.setTimeout(tick, 100);
+      })();
+    });
+    turnstilePromise.catch(function () {
+      turnstilePromise = null;
+    });
+    return turnstilePromise;
+  }
+  function turnstileContainer(form) {
+    return form.querySelector(".js-turnstile");
+  }
+  function resetTurnstile(form) {
+    const container = turnstileContainer(form);
+    if (!container || !window.turnstile || !widgets.has(container)) return;
+    try {
+      window.turnstile.reset(widgets.get(container));
+    } catch (error) {}
+  }
+  function mountTurnstile(form) {
+    const key = siteKey(form);
+    const container = turnstileContainer(form);
+    if (!key || !container) return Promise.resolve();
+    if (widgets.has(container)) {
+      resetTurnstile(form);
+      return Promise.resolve();
+    }
+    if (container.dataset.pending === "true") return Promise.resolve();
+    container.dataset.pending = "true";
+    return whenTurnstileReady(form.dataset.turnstileSrc).then(function () {
+      if (widgets.has(container)) {
+        resetTurnstile(form);
+        return;
+      }
+      const widgetId = window.turnstile.render(container, {
+        sitekey: key,
+        theme: "light",
+        size: "flexible",
+        language: document.documentElement.lang,
+        callback: function () {
+          clearCaptchaError(form);
+          if (!form.querySelector(".lead-field.is-invalid")) clearStatus(form);
         }
       });
-    }).then(function (geoRes) {
-      if (!geoRes.ok) throw new Error('Failed to geolocate IP: ' + geoRes.status);
-      return geoRes.json();
-    }).then(function (geoData) {
-      return {
-        city: geoData.city || '',
-        country: geoData.country_name || ''
-      };
-    }).catch(function () {
-      return {
-        city: '',
-        country: ''
-      };
+      if (widgetId !== undefined && widgetId !== null) widgets.set(container, widgetId);
+    }).catch(function () {}).then(function () {
+      delete container.dataset.pending;
     });
   }
-  function setupCaptcha(form) {
-    var wrapper = form.querySelector('[data-captcha-wrapper]');
-    var questionEl = wrapper ? wrapper.querySelector('[data-captcha-question]') : null;
-    var inputEl = wrapper ? wrapper.querySelector('[data-captcha-input]') : null;
-    var errorEl = wrapper ? wrapper.querySelector('[data-captcha-error]') : null;
-    if (!wrapper || !questionEl || !inputEl) {
-      return {
-        validate: function () {
-          return true;
-        },
-        reset: function () {}
-      };
+  function captchaToken(form) {
+    const input = form.querySelector('input[name="cf-turnstile-response"]');
+    if (input && input.value) return input.value;
+    const container = turnstileContainer(form);
+    if (!container || !window.turnstile || !widgets.has(container)) return "";
+    try {
+      return window.turnstile.getResponse(widgets.get(container)) || "";
+    } catch (error) {
+      return "";
     }
-    function regenerate() {
-      var a = Math.floor(Math.random() * 10) + 1;
-      var b = Math.floor(Math.random() * 10) + 1;
-      wrapper.dataset.captchaAnswer = String(a + b);
-      questionEl.textContent = questionEl.dataset.captchaQuestionText + ' ' + a + ' + ' + b + '?';
-      inputEl.value = '';
-      inputEl.classList.remove('valid-err');
-      if (errorEl) errorEl.style.display = 'none';
+  }
+  function messageFor(form, code) {
+    if (code === "required") return form.dataset.errorRequired || "";
+    if (code === "phone") return form.dataset.errorPhone || "";
+    if (code === "email") return form.dataset.errorEmail || "";
+    if (code === "captcha") return form.dataset.errorCaptcha || "";
+    return form.dataset.errorForm || "";
+  }
+  function setFieldError(input, text) {
+    const field = input.closest(".lead-field");
+    if (!field) return;
+    const error = field.querySelector(".lead-field__error");
+    field.classList.add("is-invalid");
+    input.setAttribute("aria-invalid", "true");
+    if (error) {
+      error.textContent = text;
+      if (error.id) input.setAttribute("aria-describedby", error.id);
     }
-    regenerate();
-    return {
-      validate: function () {
-        var expected = Number(wrapper.dataset.captchaAnswer || NaN);
-        var answer = Number(inputEl.value);
-        var isValid = answer === expected;
-        if (!isValid) {
-          inputEl.classList.add('valid-err');
-          if (errorEl) errorEl.style.display = 'block';
-        } else {
-          inputEl.classList.remove('valid-err');
-          if (errorEl) errorEl.style.display = 'none';
+  }
+  function clearFieldError(input) {
+    const field = input.closest(".lead-field");
+    if (!field) return;
+    field.classList.remove("is-invalid");
+    input.removeAttribute("aria-invalid");
+    input.removeAttribute("aria-describedby");
+    const error = field.querySelector(".lead-field__error");
+    if (error) error.textContent = "";
+  }
+  function setCaptchaError(form, text) {
+    const block = form.querySelector("[data-captcha]");
+    if (!block) return;
+    block.classList.add("is-invalid");
+    const error = block.querySelector(".lead-captcha__error");
+    if (error) error.textContent = text;
+  }
+  function clearCaptchaError(form) {
+    const block = form.querySelector("[data-captcha]");
+    if (!block) return;
+    block.classList.remove("is-invalid");
+    const error = block.querySelector(".lead-captcha__error");
+    if (error) error.textContent = "";
+  }
+  function setStatus(form, text) {
+    const status = form.querySelector(".lead-form__status");
+    if (!status) return;
+    status.textContent = text || "";
+    status.classList.toggle("is-visible", Boolean(text));
+  }
+  function clearStatus(form) {
+    setStatus(form, "");
+  }
+  function clearErrors(form) {
+    form.querySelectorAll(".lead-field.is-invalid input, .lead-field.is-invalid textarea").forEach(clearFieldError);
+    clearCaptchaError(form);
+    clearStatus(form);
+  }
+  function setSuccessView(form, on) {
+    form.classList.toggle("is-success", on);
+    const dialog = form.closest("dialog");
+    if (dialog) dialog.classList.toggle("is-success", on);
+  }
+  function focusFirstField(form) {
+    const field = form.querySelector('[name="name"]');
+    if (field) field.focus();
+  }
+  function shouldLock(el) {
+    if (el.type === "hidden") return false;
+    if (el.name === "website" || el.name === "cf-turnstile-response") return false;
+    if (el.closest(".lead-honeypot") || el.closest(".js-success-form")) return false;
+    if (el.getAttribute("aria-hidden") === "true") return false;
+    return el.offsetParent !== null;
+  }
+  function lockForm(form) {
+    const submitBtn = form.querySelector('[type="submit"]');
+    const locked = [];
+    form.querySelectorAll("input, textarea, select, button").forEach(function (el) {
+      if (!shouldLock(el)) return;
+      el.disabled = true;
+      locked.push(el);
+    });
+    form._lockedControls = locked;
+    form.classList.add("is-submitting");
+    form.setAttribute("aria-busy", "true");
+    if (submitBtn) {
+      if (!submitBtn.dataset.label) submitBtn.dataset.label = submitBtn.textContent.trim();
+      submitBtn.textContent = form.dataset.submitting || submitBtn.dataset.label;
+    }
+  }
+  function unlockForm(form) {
+    (form._lockedControls || []).forEach(function (el) {
+      el.disabled = false;
+    });
+    form._lockedControls = [];
+    form.classList.remove("is-submitting");
+    form.removeAttribute("aria-busy");
+    const submitBtn = form.querySelector('[type="submit"]');
+    if (submitBtn && submitBtn.dataset.label) submitBtn.textContent = submitBtn.dataset.label;
+  }
+  function validate(form) {
+    const variant = form.dataset.leadVariant;
+    const name = form.querySelector('[name="name"]');
+    const phone = form.querySelector('[name="phone"]');
+    const email = form.querySelector('[name="email"]');
+    const message = form.querySelector('[name="message"]');
+    let firstInvalid = null;
+    let valid = true;
+    clearErrors(form);
+    function fail(input, code) {
+      valid = false;
+      if (input) setFieldError(input, messageFor(form, code));
+      if (!firstInvalid && input) firstInvalid = input;
+    }
+    if (name && !name.value.trim()) fail(name, "required");
+    if (phone) {
+      const digits = phone.value.replace(/\D/g, "");
+      if (!digits) fail(phone, "required");else if (digits.length < 9 || digits.length > 15) fail(phone, "phone");
+    }
+    if (variant === "contacts" && email) {
+      const value = email.value.trim();
+      if (!value) fail(email, "required");else if (!EMAIL_PATTERN.test(value)) fail(email, "email");
+    }
+    if (variant === "contacts" && message && !message.value.trim()) fail(message, "required");
+    if (siteKey(form) && !captchaToken(form)) {
+      valid = false;
+      setCaptchaError(form, messageFor(form, "captcha"));
+    }
+    if (!valid) {
+      setStatus(form, messageFor(form, "form"));
+      if (firstInvalid) firstInvalid.focus();else {
+        const captcha = form.querySelector(".lead-captcha.is-invalid .js-turnstile");
+        if (captcha) {
+          captcha.setAttribute("tabindex", "-1");
+          captcha.focus();
         }
-        return isValid;
-      },
-      reset: regenerate
-    };
+      }
+    }
+    return valid;
   }
-  function getContactsValidStats(form, captcha) {
-    var name = form.querySelector('[name="name"]');
-    var phone = form.querySelector('[name="phone"]');
-    var text = form.querySelector('[name="comment"]');
-    var email = form.querySelector('[name="email"]');
-    function isNameValid(el) {
-      return el ? el.value.trim().length >= 5 : false;
-    }
-    function isPhoneValid(el) {
-      return el ? el.value.trim().length >= 8 : false;
-    }
-    function isCommentValid(el) {
-      return el ? el.value.trim().length >= 1 : true;
-    }
-    function isEmailValid(el) {
-      return el ? /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/g.test(el.value.trim()) : true;
-    }
+  function payloadFrom(form, token) {
+    const email = form.querySelector('[name="email"]');
+    const website = form.querySelector('[name="website"]');
     return {
-      name: isNameValid(name),
-      phone: isPhoneValid(phone),
-      text: isCommentValid(text),
-      email: isEmailValid(email),
-      captcha: captcha.validate()
+      name: (form.querySelector('[name="name"]') || {
+        value: ""
+      }).value.trim(),
+      email: email ? email.value.trim() : "",
+      phone: (form.querySelector('[name="phone"]') || {
+        value: ""
+      }).value.replace(/\D/g, ""),
+      message: (form.querySelector('[name="message"]') || {
+        value: ""
+      }).value.trim(),
+      country: form.dataset.country || "",
+      source: form.dataset.source || "",
+      website: website ? website.value : "",
+      captchaToken: token || ""
     };
   }
-  function removeInputErrors(form) {
-    var inputs = form.querySelectorAll('.valid-err');
-    inputs.forEach(function (input) {
-      input.classList.remove('valid-err');
+  function isExactOk(value) {
+    if (!value || typeof value !== "object" || Array.isArray(value)) return false;
+    const keys = Object.keys(value);
+    return keys.length === 1 && keys[0] === "ok" && value.ok === true;
+  }
+  function onSuccess(form) {
+    const dialog = form.closest("dialog");
+    form.reset();
+    clearErrors(form);
+    if (dialog && !dialog.open) {
+      setSuccessView(form, false);
+      return;
+    }
+    setSuccessView(form, true);
+  }
+  function onError(form) {
+    const dialog = form.closest("dialog");
+    if (dialog && !dialog.open) return;
+    setStatus(form, form.dataset.errorForm || "");
+  }
+  function bindForm(form) {
+    form.addEventListener("input", function (event) {
+      const el = event.target;
+      if (!el || !el.name) return;
+      if (el.name === "phone") {
+        const digits = el.value.replace(/\D+/g, "");
+        if (el.value !== digits) {
+          el.value = digits;
+          if (typeof el.setSelectionRange === "function") {
+            const pos = digits.length;
+            el.setSelectionRange(pos, pos);
+          }
+        }
+      }
+      if (el.name === "website") return;
+      clearFieldError(el);
+      clearStatus(form);
+    });
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      if (form.getAttribute("data-lead-pending") === "true") return;
+      if (!validate(form)) return;
+      const token = siteKey(form) ? captchaToken(form) : "";
+      const payload = payloadFrom(form, token);
+      form.setAttribute("data-lead-pending", "true");
+      lockForm(form);
+      let succeeded = false;
+      fetch(form.dataset.apiEndpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json"
+        },
+        body: JSON.stringify(payload)
+      }).then(function (response) {
+        return response.json().then(function (body) {
+          return {
+            ok: response.ok,
+            body: body
+          };
+        }, function () {
+          return {
+            ok: response.ok,
+            body: null
+          };
+        });
+      }).then(function (result) {
+        succeeded = result.ok && isExactOk(result.body);
+      }).catch(function () {
+        succeeded = false;
+      }).then(function () {
+        unlockForm(form);
+        form.removeAttribute("data-lead-pending");
+        resetTurnstile(form);
+        if (succeeded) onSuccess(form);else onError(form);
+      });
     });
   }
-  function markInvalidFields(form, stats) {
-    var name = form.querySelector('[name="name"]');
-    var phone = form.querySelector('[name="phone"]');
-    var text = form.querySelector('[name="comment"]');
-    var email = form.querySelector('[name="email"]');
-    var captchaInput = form.querySelector('[data-captcha-input]');
-    if (name && !stats.name) name.classList.add('valid-err');
-    if (phone && !stats.phone) phone.classList.add('valid-err');
-    if (text && !stats.text) text.classList.add('valid-err');
-    if (email && !stats.email) email.classList.add('valid-err');
-    if (captchaInput && !stats.captcha) captchaInput.classList.add('valid-err');
+  function closeMenus() {
+    document.querySelectorAll(".menu-mobile").forEach(function (el) {
+      el.classList.remove("menu-mobile--active");
+    });
+    document.querySelectorAll(".js-burger").forEach(function (el) {
+      el.classList.remove("burger--active");
+    });
+    document.querySelectorAll(".js-overlay").forEach(function (el) {
+      el.classList.remove("active");
+    });
   }
-  return {
-    submitContacts: function () {
-      $('.js-order-form').each(function () {
-        var form = this;
-        var captcha = setupCaptcha(form);
-        $(form).on('submit', function (event) {
-          event.stopPropagation();
-          event.preventDefault();
-          var submitBtn = $('.submit, button[type="submit"]', form).first();
-          var data = new FormData(form);
-          data.delete('captcha_answer');
-          data.append('company', 'Naturallic');
-          var fieldsStats = getContactsValidStats(form, captcha);
-          var isFormValid = Object.values(fieldsStats).every(function (field) {
-            return field === true;
-          });
-          if (isFormValid) {
-            submitBtn.length ? submitBtn.val && submitBtn.val('Отправка...') : null;
-            $('input, textarea, button', form).attr('disabled', '');
-            removeInputErrors(form);
-            getUserCityCountryFromIp().then(function (location) {
-              data.append('city', location.city);
-              data.append('country', location.country);
-            }).catch(function () {
-              data.append('city', '');
-              data.append('country', '');
-            }).finally(function () {
-              $.ajax({
-                url: form.getAttribute('action') || '/ajax.php',
-                type: form.getAttribute('method') || 'POST',
-                data: data,
-                cache: false,
-                dataType: 'json',
-                processData: false,
-                contentType: false,
-                xhr: function () {
-                  var myXhr = $.ajaxSettings.xhr();
-                  if (myXhr.upload) {
-                    myXhr.upload.addEventListener('progress', function (e) {
-                      if (e.lengthComputable) {
-                        var percentage = e.loaded / e.total * 100;
-                        percentage = percentage.toFixed(0);
-                        submitBtn.length ? submitBtn.html(percentage + '%') : null;
-                      }
-                    }, false);
-                  }
-                  return myXhr;
-                },
-                success: function () {
-                  $('.js-content-form').hide();
-                  $('.popup__title--main').hide();
-                  $('.js-success-form').show();
-                },
-                error: function () {
-                  $('input, textarea, button', form).removeAttr('disabled');
-                  $('.js-content-form').hide();
-                  $('.popup__title--main').hide();
-                  $('.js-error-form').show();
-                  setTimeout(function () {
-                    $('.js-content-form').show();
-                    $('.popup__title--main').show();
-                    $('.js-error-form').hide();
-                  }, 3000);
-                },
-                complete: function () {
-                  captcha.reset();
-                }
-              });
-            });
-          } else {
-            removeInputErrors(form);
-            markInvalidFields(form, fieldsStats);
-          }
-          return false;
+  function restoreDialog(dialog) {
+    _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
+    document.querySelectorAll(".js-show-popup").forEach(function (el) {
+      el.classList.remove("active");
+    });
+    const form = dialog.querySelector(".js-lead-form");
+    if (form) setSuccessView(form, false);
+  }
+  function closeDialog(dialog) {
+    restoreDialog(dialog);
+    if (dialog.open) dialog.close();
+  }
+  function bindDialog(dialog) {
+    const form = dialog.querySelector(".js-lead-form");
+    dialog.addEventListener("close", function () {
+      restoreDialog(dialog);
+    });
+    dialog.addEventListener("cancel", function (event) {
+      event.preventDefault();
+      closeDialog(dialog);
+    });
+    dialog.addEventListener("click", function (event) {
+      if (event.target === dialog) closeDialog(dialog);
+    });
+    dialog.querySelectorAll(".js-close, .js-lead-close").forEach(function (el) {
+      el.addEventListener("click", function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+        closeDialog(dialog);
+      });
+    });
+    document.querySelectorAll(".js-show-popup").forEach(function (button) {
+      button.addEventListener("click", function (event) {
+        const selector = button.getAttribute("data-target");
+        const target = selector ? document.querySelector(selector) : null;
+        if (target !== dialog) return;
+        event.preventDefault();
+        if (dialog.open || typeof dialog.showModal !== "function") return;
+        closeMenus();
+        button.classList.add("active");
+        dialog.showModal();
+        _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
+        if (!form) return;
+        focusFirstField(form);
+        mountTurnstile(form).then(function () {
+          if (!dialog.open) return;
+          const active = document.activeElement;
+          if (active && active.closest && active.closest(".js-turnstile")) focusFirstField(form);
         });
       });
-    },
+    });
+  }
+  return {
     init: function () {
-      Contacts.submitContacts();
+      const forms = document.querySelectorAll(".js-lead-form");
+      forms.forEach(function (form) {
+        bindForm(form);
+        if (!form.closest("dialog")) mountTurnstile(form);
+      });
+      const dialog = document.querySelector("dialog.js-popup");
+      if (dialog) bindDialog(dialog);
     }
   };
 }();
 /* harmony default export */ __webpack_exports__["default"] = (Contacts);
-
-// const Contacts = (function () {
-//     function getUserCityCountryFromIp() {
-//         return fetch('https://api.ipify.org?format=json', {
-//             headers: {Accept: 'application/json'}
-//         })
-//             .then(function (res) {
-//                 if (!res.ok) throw new Error('Failed to fetch IP: ' + res.status);
-//                 return res.json();
-//             })
-//             .then(function (ipData) {
-//                 return fetch('https://ipapi.co/' + ipData.ip + '/json/', {
-//                     headers: {Accept: 'application/json'}
-//                 });
-//             })
-//             .then(function (geoRes) {
-//                 if (!geoRes.ok) throw new Error('Failed to geolocate IP: ' + geoRes.status);
-//                 return geoRes.json();
-//             })
-//             .then(function (geoData) {
-//                 return {
-//                     city: geoData.city || '',
-//                     country: geoData.country_name || ''
-//                 };
-//             })
-//             .catch(function () {
-//                 return {city: '', country: ''};
-//             });
-//     }
-//
-//     function setupCaptcha(form) {
-//         var wrapper = form.querySelector('[data-captcha-wrapper]');
-//         var questionEl = wrapper ? wrapper.querySelector('[data-captcha-question]') : null;
-//         var inputEl = wrapper ? wrapper.querySelector('[data-captcha-input]') : null;
-//         var errorEl = wrapper ? wrapper.querySelector('[data-captcha-error]') : null;
-//
-//         if (!wrapper || !questionEl || !inputEl) {
-//             return {
-//                 validate: function () { return true; },
-//                 reset: function () {}
-//             };
-//         }
-//
-//         function regenerate() {
-//             var a = Math.floor(Math.random() * 10) + 1;
-//             var b = Math.floor(Math.random() * 10) + 1;
-//
-//             wrapper.dataset.captchaAnswer = String(a + b);
-//             questionEl.textContent = 'Скільки буде ' + a + ' + ' + b + '?';
-//             inputEl.value = '';
-//             inputEl.classList.remove('valid-err');
-//             if (errorEl) errorEl.style.display = 'none';
-//         }
-//
-//         regenerate();
-//
-//         return {
-//             validate: function () {
-//                 var expected = Number(wrapper.dataset.captchaAnswer || NaN);
-//                 var answer = Number(inputEl.value);
-//                 var isValid = answer === expected;
-//
-//                 if (!isValid) {
-//                     inputEl.classList.add('valid-err');
-//                     if (errorEl) errorEl.style.display = 'block';
-//                 } else {
-//                     inputEl.classList.remove('valid-err');
-//                     if (errorEl) errorEl.style.display = 'none';
-//                 }
-//                 return isValid;
-//             },
-//             reset: regenerate
-//         };
-//     }
-//
-//     return {
-//         submitContacts: function () {
-//             const captcha = setupCaptcha();
-//
-//             $(".js-order-form").on("submit", function (event) {
-//                 event.stopPropagation();
-//                 event.preventDefault();
-//
-//                 let form = this,
-//                     submit = $(".submit", form),
-//                     data = new FormData();
-//
-//                 const name = document.querySelector('[name="name"]')
-//                 const phone = document.querySelector('[name="phone"]')
-//                 const text = document.querySelector('[name="comment"]')
-//                 const email = document.querySelector('[name="email"]')
-//
-//
-//                 data.append("name", $('[name="name"]', form).val());
-//                 data.append("phone", $('[name="phone"]', form).val());
-//                 text ? data.append("text", $('[name="comment"]', form).val()) : false
-//                 email ? data.append("email", $('[name="email"]', form).val()) : false
-//                 data.append("company", 'Naturallic');
-//
-//                 function getContactsValidStats() {
-//                     function isNameValid(name) {
-//                         return name.value.trim().length >= 5
-//                     }
-//
-//                     function isPhoneValid(phone) {
-//                         return phone.value.trim().length >= 8
-//                     }
-//
-//                     function isCommentValid(text) {
-//                         return text ? text.value.trim().length >= 1 : true
-//                     }
-//
-//                     function isEmailValid(email) {
-//                         return email ? /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g.test(email.value.trim()) : true
-//                     }
-//
-//                     function isCaptchaValid() {
-//                         return captcha.validate();
-//                     }
-//
-//                     return {
-//                         name: isNameValid(name),
-//                         phone: isPhoneValid(phone),
-//                         text: isCommentValid(text),
-//                         email: isEmailValid(email),
-//                         captcha: isCaptchaValid()
-//                     }
-//                 }
-//
-//                 function removeInputErrors() {
-//                     name ? name.classList.remove('valid-err') : false
-//                     phone ? phone.classList.remove('valid-err') : false
-//                     text ? text.classList.remove('valid-err') : false
-//                     email ? email.classList.remove('valid-err') : false
-//                 }
-//
-//                 function sendContactsMessage() {
-//                     $.ajax({
-//                         url: "/ajax.php",
-//                         type: "POST",
-//                         data: data,
-//                         cache: false,
-//                         dataType: "json",
-//                         processData: false,
-//                         contentType: false,
-//                         xhr: function () {
-//                             let myXhr = $.ajaxSettings.xhr();
-//
-//                             if (myXhr.upload) {
-//                                 myXhr.upload.addEventListener(
-//                                     "progress",
-//                                     function (e) {
-//                                         if (e.lengthComputable) {
-//                                             let percentage = (e.loaded / e.total) * 100;
-//                                             percentage = percentage.toFixed(0);
-//                                             $(".submit", form).html(percentage + "%");
-//                                         }
-//                                     },
-//                                     false
-//                                 );
-//                             }
-//
-//                             return myXhr;
-//                         },
-//                         error: function (jqXHR, textStatus) {
-//                             $("input, textarea, button", form).removeAttr("disabled");
-//                             // Тут выводим ошибку
-//                         },
-//                         complete: function () {
-//                             // Тут можем что-то делать ПОСЛЕ успешной отправки формы
-//                             $(".js-content-form").hide();
-//                             $(".popup__title--main").hide();
-//                             $(".js-success-form").show();
-//                         },
-//                     });
-//                 }
-//
-//                 const fieldsStats = getContactsValidStats()
-//                 const isFormValid = Object.values(fieldsStats).every(field => field === true)
-//
-//                 if (isFormValid) {
-//                     $(".submit", form).val("Отправка...");
-//                     $("input, textarea, button", form).attr("disabled", "");
-//                     removeInputErrors()
-//                     captcha.reset();
-//                     // sendContactsMessage()
-//                     getUserCityCountryFromIp()
-//                         .then(function (location) {
-//                             data.append('city', location.city);
-//                             data.append('country', location.country);
-//                         })
-//                         .catch(function () {
-//                             data.append('city', '');
-//                             data.append('country', '');
-//                         })
-//                         .finally(sendContactsMessage);
-//                 } else {
-//                     removeInputErrors()
-//                     name && !fieldsStats.name ? name.classList.add('valid-err') : false
-//                     phone && !fieldsStats.phone ? phone.classList.add('valid-err') : false
-//                     text && !fieldsStats.text ? text.classList.add('valid-err') : false
-//                     email && !fieldsStats.email ? email.classList.add('valid-err') : false
-//
-//                     if (!fieldsStats.captcha) {
-//                         document.querySelector('.captcha-input').classList.add('valid-err');
-//                     }
-//                 }
-//                 return false;
-//             });
-//         },
-//         init: function () {
-//             Contacts.submitContacts()
-//         },
-//     };
-// })();
-//
-// export default Contacts;
-//
-//
-// // const Contacts = (function () {
-// //   "use strict";
-// //   const form = $(".js-order-form");
-//
-// //   return {
-// //     submitForm: function () {
-// //       form.submit(function (e) {
-// //         e.preventDefault();
-// //         $.ajax({
-// //           url: "../submit.php",
-// //           type: "POST",
-// //           contentType: false,
-// //           processData: false,
-// //           data: new FormData(this),
-// //           success: function success(data) {
-// //             $(".js-content-form").hide();
-// //             $(".popup__title--main").hide();
-// //             $(".js-success-form").show();
-//
-// //             console.log("success");
-// //           },
-// //           error: function () {
-// //             console.log("error");
-// //           },
-// //         });
-// //       });
-// //     },
-// //     init: function () {
-// //       Contacts.submitForm();
-// //     },
-// //   };
-// // })();
-//
-// // export default Contacts;
 
 /***/ }),
 
@@ -4597,8 +4554,6 @@ __webpack_require__.r(__webpack_exports__);
 const Popup = function () {
   "use strict";
 
-  const popUpBlock = $(".js-popup");
-  const linkShowPopUp = $(".js-show-popup");
   const ButtonShowFramePopUp = $(".js-show-frame-popup");
   const framePopUpBlock = $(".js-frame-popup");
   const overlay = $(".js-overlay");
@@ -4628,45 +4583,8 @@ const Popup = function () {
         _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
       });
     },
-    initPopUp: function () {
-      linkShowPopUp.click(function (e) {
-        e.preventDefault();
-        const _this = $(this);
-        const target = $(_this.data("target"));
-        _this.toggleClass("active");
-        target.toggleClass("active");
-        overlay.addClass("active");
-        $(".menu-mobile").removeClass("menu-mobile--active");
-        $(".js-burger").removeClass("burger--active");
-        _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.on();
-      });
-    },
-    closePopup: function () {
-      const popup = document.querySelector('.js-popup');
-      popup.addEventListener('click', event => {
-        const {
-          target
-        } = event;
-        const isOverlay = target.classList.contains('popup');
-        if (isOverlay) {
-          popUpBlock.removeClass("active");
-          linkShowPopUp.removeClass("active");
-          overlay.removeClass("active");
-          _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
-        }
-      });
-      $(".js-close").click(function (e) {
-        e.preventDefault();
-        popUpBlock.removeClass("active");
-        linkShowPopUp.removeClass("active");
-        overlay.removeClass("active");
-        _global_noScroll__WEBPACK_IMPORTED_MODULE_0___default.a.off();
-      });
-    },
     init: function () {
       Popup.addFramePopup();
-      Popup.initPopUp();
-      Popup.closePopup();
       Popup.initFramePopup();
       Popup.closeFramePopup();
     }
@@ -4899,7 +4817,7 @@ const Sliders = function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\beliy\Desktop\NATURALIC-europa\src\js\/main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! D:\Work\naturallic\naturallic\src\js\/main.js */"./src/js/main.js");
 
 
 /***/ })

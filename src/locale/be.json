@@ -1,5 +1,15 @@
 {
   "locale": "be",
+  "lead": {
+    "country": "Belgium",
+    "error_required": "Obligatoire",
+    "error_phone": "Format invalide",
+    "error_email": "E-mail invalide",
+    "error_captcha": "Confirmez que vous n'êtes pas un robot",
+    "error_form": "L'envoi a échoué. Vérifiez le formulaire et réessayez.",
+    "submitting": "Envoi…",
+    "close": "Fermer"
+  },
   "page_names": {
     "home": "Accueil"
   },

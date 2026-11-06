@@ -1,5 +1,15 @@
 {
   "locale": "sl",
+  "lead": {
+    "country": "Slovenia",
+    "error_required": "Obvezno",
+    "error_phone": "Neveljavna oblika",
+    "error_email": "Neveljaven e-mail",
+    "error_captcha": "Potrdite, da niste robot",
+    "error_form": "Pošiljanje ni uspelo. Preverite obrazec in poskusite znova.",
+    "submitting": "Pošiljanje…",
+    "close": "Zapri"
+  },
   "page_names": {
     "home": "Glavna"
   },

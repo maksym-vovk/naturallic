@@ -1,5 +1,15 @@
 {
   "locale": "pt",
+  "lead": {
+    "country": "Portugal",
+    "error_required": "Obrigatório",
+    "error_phone": "Formato inválido",
+    "error_email": "E-mail inválido",
+    "error_captcha": "Confirme que não é um robô",
+    "error_form": "O envio falhou. Verifique o formulário e tente novamente.",
+    "submitting": "A enviar…",
+    "close": "Fechar"
+  },
   "page_names": {
     "home": "Lar"
   },

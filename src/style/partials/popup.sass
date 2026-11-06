@@ -1,3 +1,29 @@
+dialog.popup
+  top: 0
+  right: 0
+  bottom: 0
+  left: 0
+  width: 625px
+  max-width: calc(100% - 24px)
+  height: fit-content
+  max-height: calc(100% - 24px)
+  margin: auto
+  padding: 0
+  border: 0
+  background-color: transparent
+  color: inherit
+  overflow: auto
+
+  &::backdrop
+    background: transparentize($dark-grey, .5)
+
+  +r(1023)
+    width: 525px
+  +r(639)
+    width: 445px
+  +r(479)
+    width: 92%
+
 .popup
   overflow-x: hidden
   overflow-y: auto
@@ -9,8 +35,12 @@
   z-index: 20
   display: none
 
-  &.active
-    display: flex
+  &[open]
+    display: block
+
+  &.is-success
+    .popup__title--main
+      display: none
 
   &__close
     position: absolute
@@ -78,11 +108,20 @@
       margin-bottom: 30px
 
 .form-popup
+  &.is-success
+    .js-content-form
+      display: none
+    .js-success-form
+      display: block
+
   &__success
     display: none
 
     & .popup__title
       margin-bottom: 0
+
+    .form-popup__btn
+      margin-top: 28px
 
   &__error
     display: none

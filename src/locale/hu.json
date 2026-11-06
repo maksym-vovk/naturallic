@@ -1,5 +1,15 @@
 {
   "locale": "hu",
+  "lead": {
+    "country": "Hungary",
+    "error_required": "Kötelező",
+    "error_phone": "Érvénytelen formátum",
+    "error_email": "Érvénytelen e-mail",
+    "error_captcha": "Erősítse meg, hogy nem robot",
+    "error_form": "A küldés sikertelen. Ellenőrizze az űrlapot, és próbálja újra.",
+    "submitting": "Küldés…",
+    "close": "Bezárás"
+  },
   "page_names": {
     "home": "Home"
   },

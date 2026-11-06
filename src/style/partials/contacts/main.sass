@@ -90,6 +90,12 @@
   border-radius: 40px
   padding: 38px 64px 56px
   font-family: 'Roboto', Arial, Helvetica, sans-serif
+
+  &.is-success
+    .js-content-form
+      display: none
+    .js-success-form
+      display: block
   +r(1249)
     padding: 30px 50px 30px
   +r(1023)
@@ -221,3 +227,65 @@
 
 .captcha-input.valid-err + .captcha-error
   display: block
+
+.lead-honeypot
+  position: absolute
+  left: -9999px
+  opacity: 0
+  height: 0
+  width: 0
+  pointer-events: none
+
+.lead-field.is-invalid
+  .form-popup__input,
+  .contacts-form__input
+    margin-bottom: 0
+    border-color: #ff8282
+
+.lead-field__error
+  display: none
+  margin: 6px 0 12px
+  padding: 0 24px
+  color: #d9534f
+  font-family: 'Roboto', Arial, Helvetica, sans-serif
+  font-size: 14px
+  line-height: 1.3
+  text-align: left
+
+.lead-field.is-invalid .lead-field__error
+  display: block
+
+.lead-captcha
+  margin-bottom: 20px
+
+  &__error
+    display: none
+    margin-top: 6px
+    color: #d9534f
+    font-family: 'Roboto', Arial, Helvetica, sans-serif
+    font-size: 14px
+    line-height: 1.3
+    text-align: center
+
+.lead-captcha.is-invalid .lead-captcha__error
+  display: block
+
+.js-turnstile
+  min-height: 65px
+
+.lead-form__status
+  display: none
+  margin: 0 0 16px
+  color: #d9534f
+  font-family: 'Roboto', Arial, Helvetica, sans-serif
+  font-size: 16px
+  line-height: 1.3
+  text-align: center
+
+  &.is-visible
+    display: block
+
+.js-lead-form.is-submitting
+  .contacts-form__btn,
+  .form-popup__btn
+    cursor: wait
